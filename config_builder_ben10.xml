@@ -1,0 +1,19 @@
+﻿<system>
+	<version type="String">0.1.0</version>
+	<versionSo type="String">0.1.0</versionSo>
+	<brand type="String">ben10</brand>
+	<swfPath type="String"/>
+	<txtPath type="String"/>
+	<xmlPath type="String"/>
+	<gateway type="String"/>
+	<netDebug type="Boolean">false</netDebug>
+	<language type="String"></language>
+	<languages type="Array">en,es,fr,de,da,no,sv,fi,nl,hu,pl,ru,cs</languages>
+	<unicodeFonts type="Array">hu,pl,ru,cs</unicodeFonts>
+	<fps type="Boolean">true</fps>
+	<serverGet type="Boolean">false</serverGet>
+	<cheat type="Boolean">false</cheat>
+	<admin type="Boolean">false</admin>
+	<quality type="String">HIGH</quality>
+	<savefile type="String">save/level1_</savefile>
+</system>

@@ -1,0 +1,13 @@
+<system>
+	<version type="String">0.1.0</version>
+	<versionSo type="String">0.1.0</versionSo>
+    <language type="String">us</language>
+    <languages type="Array">en,fr,de,dk,es,hu,it,nl,no,po,ro,se,us</languages>
+    <langPath	type="String">lang/</langPath>
+    <mainPath type="String"></mainPath>
+	<fps type="Boolean">true</fps>
+	<mute type="Boolean">false</mute>
+	<cheat type="Boolean">false</cheat>
+	<debug type="Boolean">true</debug>
+	<achievement type="Boolean">true</achievement>
+</system>
