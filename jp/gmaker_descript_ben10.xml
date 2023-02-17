@@ -127,14 +127,18 @@
     <characters>
       <infos></infos>
       <choices>
-<!--
 		<character>
           <id>Ben10Echo</id>
           <infos>Echo Echo</infos>
           <type>0</type>
           <height>2</height>
         </character>
--->
+	      	<character>
+          <id>Ben10Gwen</id>
+          <infos>Gwen</infos>
+          <type>0</type>
+          <height>2</height>
+        </character>
 		<character>
           <id>Ben10Brainstorm</id>
           <infos>Brainstorm</infos>
