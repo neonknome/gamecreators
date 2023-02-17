@@ -9,7 +9,7 @@
 <![CDATA[./]]>
 </staticPath>
 <gameDataPath>
-<![CDATA[ http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/]]>
+<![CDATA[ /gamecreators/images2/]]>
 </gameDataPath>
 <ssoPath>
 <![CDATA[ login.swf ]]>
