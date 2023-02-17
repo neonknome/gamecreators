@@ -18,6 +18,21 @@
       <infos></infos>
       <choices>
 		<background>
+          <id>BG_underwater_0</id>
+          <infos>UNDERWATER</infos>
+          <type>0</type>
+        </background>
+		<background>
+          <id>BG_underwater_1</id>
+          <infos>UNDERWATER</infos>
+          <type>0</type>
+        </background>
+		<background>
+          <id>BG_underwater_2</id>
+          <infos>UNDERWATER</infos>
+          <type>0</type>
+        </background>
+		<background>
           <id>BG_spaceship_0</id>
           <infos>SPACESHIP</infos>
           <type>0</type>
@@ -112,39 +127,15 @@
     <characters>
       <infos></infos>
       <choices>
-	  		<character>
-          <id>Ben10Bigchill</id>
-          <infos>Ultimate Big Chill</infos>
-          <type>0</type>
-          <height>1</height>
-        </character>
-			<character>
-          <id>Ben10Cannonbolt</id>
-          <infos>Ultimate Cannonbolt</infos>
-          <type>0</type>
-          <height>1</height>
-        </character>
-			<character>
-          <id>Ben10Echoecho</id>
-          <infos>Ultimate Echo Echo</infos>
-          <type>0</type>
-          <height>1</height>
-        </character>
-	      		<character>
-          <id>Ben10HeatBlast</id>
-          <infos>HeatBlast</infos>
-          <type>0</type>
-          <height>1</height>
-        </character>
 		<character>
-          <id>Ben10Waterhazard</id>
-          <infos>WaterHazard</infos>
+          <id>Ben10Echo</id>
+          <infos>Echo Echo</infos>
           <type>0</type>
           <height>2</height>
         </character>
-		<character>
-          <id>Ben10Terraspin</id>
-          <infos>Terraspin</infos>
+	      	<character>
+          <id>Ben10Gwen</id>
+          <infos>Gwen</infos>
           <type>0</type>
           <height>2</height>
         </character>
@@ -214,17 +205,17 @@
             <choices>
               <wall>
                 <id>W_jungle_0000</id>
-                <infos>Can be walked on but not jumped through</infos>
+                <infos>上を歩けて飛び越せる</infos>
                 <type>1</type>
               </wall>
               <wall>
                 <id>W_roche_0000</id>
-                <infos>Can be walked on but not jumped through</infos>
+                <infos>上を歩けるが飛び越せない</infos>
                 <type>1</type>
               </wall>
               <wall>
                 <id>W_ville_0000</id>
-                <infos>Can be walked on but not jumped through</infos>
+                <infos>上を歩けるが飛び越せない</infos>
                 <type>1</type>
               </wall>
             </choices>
@@ -234,7 +225,7 @@
             <choices>
               <plateform>
                 <id>PF_0000</id>
-                <infos>Can be walked on and jumped through</infos>
+                <infos>上を歩けて飛び越せる</infos>
                 <type>2</type>
               </plateform>
             </choices>
@@ -244,12 +235,12 @@
             <choices>
               <fallingplateform>
                 <id>PFall</id>
-                <infos>Will fall after walked on</infos>
+                <infos>上を歩くと落ちる</infos>
                 <type>3</type>
               </fallingplateform>
             </choices>
           </fallingplateforms>
-		  <!--<phantomplateforms>
+		  <!--phantomplateforms>
 			<infos />
             <choices>
               <phantomplateform>
@@ -258,13 +249,13 @@
                 <type>3</type>
               </phantomplateform>
             </choices>
-		  </phantomplateforms>-->
+		  </phantomplateforms//-->
 		  <phantomwalls>
 			<infos />
             <choices>
               <phantomwall>
                 <id>WallPhantom0</id>
-                <infos>Disappears every few seconds</infos>
+                <infos>数秒ごとに消える</infos>
                 <type>4</type>
               </phantomwall>
             </choices>
@@ -274,17 +265,17 @@
             <choices>
               <trap>
                 <id>W_saw_0000</id>
-                <infos>Spinner</infos>
+                <infos>スピナー</infos>
                 <type>1</type>
               </trap>
               <trap>
                 <id>W_lave2_0000</id>
-                <infos>Sharp rocks</infos>
+                <infos>とがった岩</infos>
                 <type>1</type>
               </trap>
               <trap>
                 <id>W_volt_0000</id>
-                <infos>Electricity</infos>
+                <infos>電流</infos>
                 <type>1</type>
               </trap>
             </choices>
@@ -296,22 +287,22 @@
             <choices>
               <item>
                 <id>Item_city</id>
-                <infos>Can be collected</infos>
+                <infos>収集できる</infos>
                 <type>0</type>
               </item>
               <item>
                 <id>Item_jungle</id>
-                <infos>Can be collected</infos>
+                <infos>収集できる</infos>
                 <type>0</type>
               </item>
               <item>
                 <id>Item_lava</id>
-                <infos>Can be collected</infos>
+                <infos>収集できる</infos>
                 <type>0</type>
               </item>
               <item>
                 <id>Item_phantom</id>
-                <infos>Can be collected. Disappears every few seconds</infos>
+                <infos>収集できる。数秒ごとに消える。</infos>
                 <type>0</type>
               </item>			  
             </choices>
@@ -321,12 +312,12 @@
             <choices>
               <box>
                 <id>Object_box</id>
-                <infos>Can be pushed or attacked</infos>
+                <infos>押したり攻撃したりできる</infos>
                 <type>0</type>
               </box>
 			  <box>
                 <id>Object_solidBox</id>
-                <infos>Can be pushed but not attacked</infos>
+                <infos>押せるが攻撃はできない</infos>
                 <type>0</type>
               </box>
             </choices>
@@ -338,7 +329,7 @@
             <choices>
               <enemy>
                 <id>Robot_Fix</id>
-                <infos>Shoots</infos>
+                <infos>射撃する</infos>
                 <type>0</type>
               </enemy>
             </choices>
@@ -348,7 +339,7 @@
             <choices>
               <enemy>
                 <id>Robot_Move</id>
-                <infos>Shoots and moves</infos>
+                <infos>射撃して動く</infos>
                 <type>0</type>
               </enemy>
             </choices>
@@ -358,7 +349,7 @@
             <choices>
               <generator>
                 <id>Enemy_Generator</id>
-                <infos>Makes new enemies</infos>
+                <infos>新たな敵を作る</infos>
                 <type>0</type>
               </generator>
             </choices>
@@ -468,11 +459,8 @@
           <name>Vilgax</name>
           <name>Warp</name>
           <name>Warrior</name>
-          <name>Brainstorm</name>
-		  <name>Terraspin</name>
-          <name>Water</name>
-          <name>Waterhazard</name>
-          <name>Whirlwind</name>
+          <name>Brainstorm</name>			  
+		  <name>Echo Echo</name>			  
       </choices>
     </name>
     <test>
