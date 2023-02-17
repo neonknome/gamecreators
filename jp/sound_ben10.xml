@@ -1,0 +1,102 @@
+<sounds>
+	<files>
+	  <builder hifi="builder_sound_ben10.swf" lofi="">
+	    <fxs_builder>
+			<!--release bouton-->
+			<_releasebuilder volume="100" />
+			<!--rollover bouton-->
+			<_rolloverbuilder volume="100" />
+			<!--select-->
+			<_selectbuilder volume="100" />
+	    </fxs_builder>
+		<musics_builder>
+		</musics_builder>
+	  </builder>
+	  <player hifi="player_sound_ben10.swf" lofi="">
+	    <fxs_player>
+			<!--release bouton-->
+			<_releaseplayer volume="100" />
+			<!--rollover bouton-->
+			<_rolloverplayer volume="100" />
+			<!--jump-->
+			<_jump volume="87" />
+			<!--open door-->
+			<_opendoor volume="140" />
+			<!--shoot heatblast-->
+			<_blast volume="0" />
+			<!--item-->
+			<_item volume="75" />
+			<!--energy loaded-->
+			<_energyloaded volume="0" />
+			<!--enemy explosion-->
+			<_enemyexplosion volume="65" />
+			<!--crates explosion-->
+			<_crates volume="55" />
+			<!--push crates-->
+			<_pushcrates volume="100" />
+			<!--generation robots-->
+			<_genrobot volume="65" />
+			<!--generator ending-->
+			<_genboom volume="60" />
+			<!-- falling plateform-->
+			<_fallpf volume="37" />
+			<!-- character dies -->
+			<_chardie volume="50" />
+			<!-- enemy shoot-->
+			<_shootenemy volume="25" />
+			<!-- soft shoot impact sound-->
+			<_softimpact volume="45" />
+			<!-- sound of a flame from the flame thrower-->
+			<_flame volume="55" />
+			<_gwenshoot volume="70" />
+			<_echoshoot volume="80" />
+			<!-- muddy enemy shoots-->
+			<_muddyshoot volume="45" />
+			<!-- muddy enemy dies-->
+			<_muddydie volume="75" />
+			<!-- shock wave-->
+			<_shock volume="77" />
+			<!-- jump smash-->
+			<_jumpsmash volume="65" />
+			<!-- shoot an iron spider web-->
+			<_web volume="28" />
+			<!-- sonic wave when jetray rushes-->
+			<_sonic volume="85" />
+			<!-- impact on solid box-->
+			<_clink volume="40" />
+			<!-- laser of brainstorm-->
+			<_brainshoot volume="60" />			
+	    </fxs_player>
+		<musics_player>
+			<!--theme heatblast-->
+			<_themeheatblast volume="75" />
+			<!--theme fourarms-->
+			<_themefourarms volume="80" />
+			<!--theme cannonbolt-->
+			<_themecannonbolt volume="75" />
+			<!--theme wildmutt-->
+			<_themewildmutt volume="55" />
+			<!--tc jingle-->
+			<_tc volume="80" />
+			<!--win jingle-->
+			<_win volume="80" />
+			<!--lose jingle-->
+			<_lose volume="80" />
+			<!--theme brainstorm-->
+			<_themebrainstorm volume="75" />			
+		</musics_player>
+	  </player>
+	</files>
+	<groups>
+		<general volume="100">
+			<builder volume="100">
+				<musics_builder volume="100" />
+				<fxs_builder volume="100" />
+			</builder>
+			<player volume="100">
+				<musics_player volume="100" />
+				<fxs_player volume="100" />
+			</player>
+		</general>
+	</groups>
+</sounds>
