@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10949978" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sinister/Aidan/Dynamite/10949978.jpg
+		</thumbnail>
+		<title>Ultimate Alien Rumble</title>
+		<creator>Sinister Aidan Dynamite</creator>
+		<relatedgames/>
+	</game>
+	<game id="17402611" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ironic/Gulliver/Pirate/17402611.jpg
+		</thumbnail>
+		<title>Hyper Earth Fusion</title>
+		<creator>Ironic Gulliver Pirate</creator>
+		<relatedgames/>
+	</game>
+	<game id="10938646" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tricky/Frank/Blade/10938646.jpg
+		</thumbnail>
+		<title>Swampfire Spark Charge</title>
+		<creator>Tricky Frank Blade</creator>
+		<relatedgames/>
+	</game>
+	<game id="17327834" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bizarre/William/Barnacle/17327834.jpg
+		</thumbnail>
+		<title>Challenge Racer Spark</title>
+		<creator>Bizarre William Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17413070" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Soggy/Quinn/Pizza/17413070.jpg
+		</thumbnail>
+		<title>Star Attack Magno</title>
+		<creator>Soggy Quinn Pizza</creator>
+		<relatedgames/>
+	</game>
+	<game id="10938043" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Adorable/Celeste/Chutney/10938043.jpg
+		</thumbnail>
+		<title>Earth Ambush Doom</title>
+		<creator>Adorable Celeste Chutney</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922845" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brave/Ernie/Blitz/10922845.jpg
+		</thumbnail>
+		<title>Mission Defense Hero</title>
+		<creator>Brave Ernie Blitz</creator>
+		<relatedgames/>
+	</game>
+	<game id="17295723" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Extinct/Oscar/Yoyo/17295723.jpg
+		</thumbnail>
+		<title>Power Quake Adventure</title>
+		<creator>Extinct Oscar Yoyo</creator>
+		<relatedgames/>
+	</game>
+	<game id="16850232" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Intrepid/Eduardo/Flatiron/16850232.jpg
+		</thumbnail>
+		<title>Hero Blaster Light</title>
+		<creator>Intrepid Eduardo Flatiron</creator>
+		<relatedgames/>
+	</game>
+	<game id="17292401" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Lawrence/Eggplant/17292401.jpg
+		</thumbnail>
+		<title>Terraspin Terraspin Terraspin</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

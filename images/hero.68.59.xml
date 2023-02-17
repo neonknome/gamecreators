@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10953061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sloppy/Connor/Fondue/10953061.jpg
+		</thumbnail>
+		<title>Nitro Rustbucket Invasion</title>
+		<creator>Sloppy Connor Fondue</creator>
+		<relatedgames/>
+	</game>
+	<game id="10059207" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Generous/Medusa/Lard/10059207.jpg
+		</thumbnail>
+		<title>Shadow Alien Rescue</title>
+		<creator>Generous Medusa Lard</creator>
+		<relatedgames/>
+	</game>
+	<game id="17359435" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Epic/Calvin/Baloney/17359435.jpg
+		</thumbnail>
+		<title>Battle Slam Crusher</title>
+		<creator>Epic Calvin Baloney</creator>
+		<relatedgames/>
+	</game>
+	<game id="17300390" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hypnotic/Michael/17300390.jpg
+		</thumbnail>
+		<title>Attack Rocket Titan</title>
+		<creator>Hypnotic Michael</creator>
+		<relatedgames/>
+	</game>
+	<game id="16983732" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Golden/Ben/Yak/16983732.jpg
+		</thumbnail>
+		<title>Streak Adventure Lightning</title>
+		<creator>Golden Ben Yak</creator>
+		<relatedgames/>
+	</game>
+	<game id="17574610" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Negative/Kelly/Samurai/17574610.jpg
+		</thumbnail>
+		<title>Racer Defense Adventure</title>
+		<creator>Negative Kelly Samurai</creator>
+		<relatedgames/>
+	</game>
+	<game id="10032562" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Sleepy/Robby/Cobra/10032562.jpg
+		</thumbnail>
+		<title>Challenge Ultra Nano</title>
+		<creator>Sleepy Robby Cobra</creator>
+		<relatedgames/>
+	</game>
+	<game id="10947411" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Absurd/Victor/Charger/10947411.jpg
+		</thumbnail>
+		<title>Alien Shock Rescue</title>
+		<creator>Absurd Victor Charger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923969" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Blustery/Lucas/Viking/10923969.jpg
+		</thumbnail>
+		<title>Rocket Plumber Razor</title>
+		<creator>Blustery Lucas Viking</creator>
+		<relatedgames/>
+	</game>
+	<game id="17334339" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Enormous/Lucius/Anvil/17334339.jpg
+		</thumbnail>
+		<title>Chill Ambush Fusion</title>
+		<creator>Enormous Lucius Anvil</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,93 @@
+
+<cartoonnetwork> 
+	<response status="SUCCESS"/> 
+<games> 
+	<game id="420224" rating="5.0" difficulty="3.0" timesWon="6" timesPlayed="14" status="0"> 
+		<thumbnail> 
+			http://i.cdn.turner.com/v5cache/CARTOONLA/gamecreator/images2/wyn/c/k/s/420224.jpg
+		</thumbnail> 
+		<title><![CDATA[Jetray Ambush Animo]]></title> 
+		<timesPlayed>14</timesPlayed> 
+		<creator><![CDATA[wyncks]]></creator> 
+ 
+	</game> 
+	<game id="442251" rating="5.0" difficulty="3.0" timesWon="5" timesPlayed="12" status="0"> 
+		<thumbnail> 
+			http://i.cdn.turner.com/v5cache/CARTOONLA/gamecreator/images2/ais/f/l/a/s/h/442251.jpg
+		</thumbnail> 
+		<title><![CDATA[Battle Beast Waterhazard]]></title> 
+		<timesPlayed>12</timesPlayed> 
+		<creator><![CDATA[aisflash]]></creator> 
+	</game> 
+ 	<game id="440596" rating="5.0" difficulty="3.0" timesWon="14" timesPlayed="30" status="0"> 
+		<thumbnail> 
+ 
+			http://i.cdn.turner.com/v5cache/CARTOONLA/gamecreator/images2/Fel/i/p/e/F/u/e/g/o/A/440596.jpg
+		</thumbnail> 
+		<title><![CDATA[Adventure Alien Warrior]]></title> 
+		<timesPlayed>30</timesPlayed> 
+		<creator><![CDATA[FelipeFuegoA]]></creator> 
+	</game> 
+	<game id="416237" rating="5.0" difficulty="0.0" timesWon="1" timesPlayed="12" status="0"> 
+ 
+		<thumbnail> 
+			http://i.cdn.turner.com/v5cache/CARTOONLA/gamecreator/images2/mam/a/m/a/s/t/e/r/416237.jpg
+		</thumbnail> 
+		<title><![CDATA[Swampfire Droid Warrior]]></title> 
+		<timesPlayed>12</timesPlayed> 
+		<creator><![CDATA[mamamaster]]></creator> 
+	</game> 
+	<game id="441938" rating="5.0" difficulty="3.0" timesWon="12" timesPlayed="33" status="0"> 
+		<thumbnail> 
+			http://i.cdn.turner.com/v5cache/CARTOONLA/gamecreator/images//bru/n/o/_/f/r/441938.jpg
+		</thumbnail> 
+		<title><![CDATA[Rush Burst Solar]]></title> 
+		<timesPlayed>33</timesPlayed> 
+		<creator><![CDATA[bruno_fr]]></creator> 
+	</game> 
+	<game id="424510" rating="5.0" difficulty="3.0" timesWon="3" timesPlayed="26" status="0"> 
+		<thumbnail> 
+			http://i.cdn.turner.com/v5cache/CARTOONLA/gamecreator/images2/meg/a/k/p/o/2/6/9/424510.jpg
+		</thumbnail> 
+ 
+		<title><![CDATA[Attack Atomic Laser]]></title> 
+		<timesPlayed>26</timesPlayed> 
+		<creator><![CDATA[megakpo269]]></creator> 
+	</game> 
+	<game id="422049" rating="5.0" difficulty="3.0" timesWon="1" timesPlayed="20" status="0"> 
+		<thumbnail> 
+			http://i.cdn.turner.com/v5cache/CARTOONLA/gamecreator/images2/meg/a/k/p/o/2/6/9/422049.jpg
+		</thumbnail> 
+		<title><![CDATA[Ambush Robot Solar]]></title> 
+ 
+		<timesPlayed>20</timesPlayed> 
+		<creator><![CDATA[megakpo269]]></creator> 
+	</game> 
+	<game id="424298" rating="5.0" difficulty="3.0" timesWon="3" timesPlayed="20" status="0"> 
+		<thumbnail> 
+			http://i.cdn.turner.com/v5cache/CARTOONLA/gamecreator/images2/meg/a/k/p/o/2/6/9/424298.jpg
+		</thumbnail> 
+		<title><![CDATA[Mission Droid Alien]]></title> 
+		<timesPlayed>20</timesPlayed> 
+ 
+		<creator><![CDATA[megakpo269]]></creator> 
+	</game> 
+	<game id="439548" rating="5.0" difficulty="3.0" timesWon="2" timesPlayed="16" status="0"> 
+		<thumbnail> 
+			http://i.cdn.turner.com/v5cache/CARTOONLA/gamecreator/images2/meg/a/k/p/o/2/6/9/439548.jpg
+		</thumbnail> 
+		<title><![CDATA[Slam Fusion Challenge]]></title> 
+		<timesPlayed>16</timesPlayed> 
+		<creator><![CDATA[megakpo269]]></creator> 
+ 
+	</game> 
+	<game id="414146" rating="5.0" difficulty="3.0" timesWon="0" timesPlayed="12" status="0"> 
+		<thumbnail> 
+			http://i.cdn.turner.com/v5cache/CARTOONLA/gamecreator/images2/luc/a/s/b/i/a/n/k/414146.jpg
+		</thumbnail> 
+		<title><![CDATA[Jetray Ambush Animo]]></title> 
+		<timesPlayed>12</timesPlayed> 
+		<creator><![CDATA[lucasbiank]]></creator> 
+	</game> 
+ 
+</games></cartoonnetwork> 
