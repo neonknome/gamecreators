@@ -130,6 +130,12 @@
           <type>0</type>
           <height>1</height>
         </character>
+	      		<character>
+          <id>Ben10HeatBlast</id>
+          <infos>HeatBlast</infos>
+          <type>0</type>
+          <height>1</height>
+        </character>
 		<character>
           <id>Ben10Waterhazard</id>
           <infos>WaterHazard</infos>
