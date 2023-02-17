@@ -1,0 +1,29 @@
+<cartoonnetwork>
+<response status="SUCCESS"/>
+<games>
+<game id="51" rating="4.99022" difficulty="2.95312" status="1">
+<thumbnail>/static/images/000167492/201010091453051815027299.jpg</thumbnail>
+<title>Brainstorm Doom Adventure</title>
+<timesPlayed>1023192</timesPlayed>
+<creator>forup2few</creator>
+</game>
+<game id="35" rating="4.46789" difficulty="2.37445" status="1">
+<thumbnail>/static/images/000125164/20101008174533562452906.jpg</thumbnail>
+<title>Danger Adventure Patrol</title>
+<timesPlayed>771265</timesPlayed>
+<creator>kouheyhey4</creator>
+</game>
+<game id="33" rating="4.89428" difficulty="2.23389" status="1">
+<thumbnail>/static/images/000172383/20101008163214721402656.jpg</thumbnail>
+<title>Invasion Dark Defense</title>
+<timesPlayed>733477</timesPlayed>
+<creator>ukawatomohiro</creator>
+</game>
+<game id="37" rating="3.15606" difficulty="2.97654" status="1">
+<thumbnail>/static/images/000019812/2010100818551935799084.jpg</thumbnail>
+<title>Spark Power Earth</title>
+<timesPlayed>641877</timesPlayed>
+<creator>lionkun23</creator>
+</game>
+</games>
+</cartoonnetwork>
