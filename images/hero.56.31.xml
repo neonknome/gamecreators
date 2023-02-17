@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17374738" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Surreal/Mikayla/Ballyhoo/17374738.jpg
+		</thumbnail>
+		<title>Techno Mission Droid</title>
+		<creator>Surreal Mikayla Ballyhoo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935439" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awful/Edward/Acrobat/10935439.jpg
+		</thumbnail>
+		<title>Beast Pulse Vilgax</title>
+		<creator>Awful Edward Acrobat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10943227" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sincere/Logan/Mustang/10943227.jpg
+		</thumbnail>
+		<title>Siege Chase Ambush</title>
+		<creator>Sincere Logan Mustang</creator>
+		<relatedgames/>
+	</game>
+	<game id="17325121" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Able/Zelda/Platypus/17325121.jpg
+		</thumbnail>
+		<title>Cannonbolt Sonic Adventure</title>
+		<creator>Able Zelda Platypus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10033590" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Bashful/Penny/Orca/10033590.jpg
+		</thumbnail>
+		<title>Droid Adventure Fire</title>
+		<creator>Bashful Penny Orca</creator>
+		<relatedgames/>
+	</game>
+	<game id="17337940" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humble/Wilbur/Skunk/17337940.jpg
+		</thumbnail>
+		<title>Jetray Ambush Adventure</title>
+		<creator>Humble Wilbur Skunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17071643" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Princess/George/Turbo/17071643.jpg
+		</thumbnail>
+		<title>Assault Gear Danger</title>
+		<creator>Princess George Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17323622" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mumbling/Chuck/Techno/17323622.jpg
+		</thumbnail>
+		<title>Warp Storm Ben</title>
+		<creator>Mumbling Chuck Techno</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952952" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zippy/Frank/Bramble/10952952.jpg
+		</thumbnail>
+		<title>Energy Warp Spark</title>
+		<creator>Zippy Frank Bramble</creator>
+		<relatedgames/>
+	</game>
+	<game id="17034253" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tough/Connor/Sword/17034253.jpg
+		</thumbnail>
+		<title>Chill Ultimate Attack</title>
+		<creator>Tough Connor Sword</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

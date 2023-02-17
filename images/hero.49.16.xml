@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17370247" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radical/Ed/Chaos/17370247.jpg
+		</thumbnail>
+		<title>Terraspin Energy Rush</title>
+		<creator>Radical Ed Chaos</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Ed/Squawk/10923821.jpg
+		</thumbnail>
+		<title>Swampfire Assault Vilgax</title>
+		<creator>Alien Ed Squawk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17326053" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Curious/Carter/Hornet/17326053.jpg
+		</thumbnail>
+		<title>Ultimate Waterhazard Whirlwind</title>
+		<creator>Curious Carter Hornet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17085481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Vibrant/Gabriel/Mahogany/17085481.jpg
+		</thumbnail>
+		<title>Nitro Mega Smash</title>
+		<creator>Vibrant Gabriel Mahogany</creator>
+		<relatedgames/>
+	</game>
+	<game id="17374738" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Surreal/Mikayla/Ballyhoo/17374738.jpg
+		</thumbnail>
+		<title>Techno Mission Droid</title>
+		<creator>Surreal Mikayla Ballyhoo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935439" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awful/Edward/Acrobat/10935439.jpg
+		</thumbnail>
+		<title>Beast Pulse Vilgax</title>
+		<creator>Awful Edward Acrobat</creator>
+		<relatedgames/>
+	</game>
+	<game id="17325121" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Able/Zelda/Platypus/17325121.jpg
+		</thumbnail>
+		<title>Cannonbolt Sonic Adventure</title>
+		<creator>Able Zelda Platypus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17402198" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Comical/CJ/Confetti/17402198.jpg
+		</thumbnail>
+		<title>Shadow Hex Rescue</title>
+		<creator>Comical CJ Confetti</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931113" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Majestic/Kevin/Iceberg/10931113.jpg
+		</thumbnail>
+		<title>Spark Hex Clash</title>
+		<creator>Majestic Kevin Iceberg</creator>
+		<relatedgames/>
+	</game>
+	<game id="17337940" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humble/Wilbur/Skunk/17337940.jpg
+		</thumbnail>
+		<title>Jetray Ambush Adventure</title>
+		<creator>Humble Wilbur Skunk</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

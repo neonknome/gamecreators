@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17172103" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jingling/Spencer/Mosquito/17172103.jpg
+		</thumbnail>
+		<title>Iron Adventure Plumber</title>
+		<creator>Jingling Spencer Mosquito</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953024" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radiant/Karen/Dingo/10953024.jpg
+		</thumbnail>
+		<title>Plasma Rumble Beast</title>
+		<creator>Radiant Karen Dingo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926958" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Twisty/Gavin/Seesaw/10926958.jpg
+		</thumbnail>
+		<title>Adventure Smash Adventure</title>
+		<creator>Twisty Gavin Seesaw</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924886" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Amelia/Baloney/10924886.jpg
+		</thumbnail>
+		<title>Blaster Alien Storm</title>
+		<creator>Alien Amelia Baloney</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crunchy/Miranda/Witch/10916821.jpg
+		</thumbnail>
+		<title>Steel Swampfire Champion</title>
+		<creator>Crunchy Miranda Witch</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916923" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gloomy/Heidi/Charger/10916923.jpg
+		</thumbnail>
+		<title>Adventure Atomic Spike</title>
+		<creator>Gloomy Heidi Charger</creator>
+		<relatedgames/>
+	</game>
+	<game id="17262495" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quirky/Oscar/Cutlass/17262495.jpg
+		</thumbnail>
+		<title>Robot Gear Atomic</title>
+		<creator>Quirky Oscar Cutlass</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952685" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Tom/Fritter/10952685.jpg
+		</thumbnail>
+		<title>Alien Alien Fire</title>
+		<creator>Red Tom Fritter</creator>
+		<relatedgames/>
+	</game>
+	<game id="17411125" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Extreme/Chuck/Pirate/17411125.jpg
+		</thumbnail>
+		<title>Whirlwind Chase Big</title>
+		<creator>Extreme Chuck Pirate</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952326" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Aquatic/Egbert/Thud/10952326.jpg
+		</thumbnail>
+		<title>Adventure Clash Metal</title>
+		<creator>Aquatic Egbert Thud</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

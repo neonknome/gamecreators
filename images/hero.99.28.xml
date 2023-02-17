@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17551194" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Pete/Shovel/17551194.jpg
+		</thumbnail>
+		<title>Nano Adventure Omniverse</title>
+		<creator>Colossal Pete Shovel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055491" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Frugal/Grover/Gorilla/10055491.jpg
+		</thumbnail>
+		<title>Atomic Giga Robot</title>
+		<creator>Frugal Grover Gorilla</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920076" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brave/Jamie/Klunk/10920076.jpg
+		</thumbnail>
+		<title>Power Dark Robot</title>
+		<creator>Brave Jamie Klunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17146824" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Extreme/Alan/Avocado/17146824.jpg
+		</thumbnail>
+		<title>Hyper Adventure Chase</title>
+		<creator>Extreme Alan Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="17399252" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ancient/Marco/Bingo/17399252.jpg
+		</thumbnail>
+		<title>Turbo Target Defense</title>
+		<creator>Ancient Marco Bingo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10947875" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Green/Bugsy/Dynamite/10947875.jpg
+		</thumbnail>
+		<title>Energy Storm Crusher</title>
+		<creator>Green Bugsy Dynamite</creator>
+		<relatedgames/>
+	</game>
+	<game id="10046147" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Noble/Rapunzel/Banjo/10046147.jpg
+		</thumbnail>
+		<title>Alien Ambush Pursuit</title>
+		<creator>Noble Rapunzel Banjo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919034" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Unusual/Leon/Spiral/10919034.jpg
+		</thumbnail>
+		<title>Magno Titan Defense</title>
+		<creator>Unusual Leon Spiral</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952566" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Megan/Octopus/10952566.jpg
+		</thumbnail>
+		<title>Ben Alien Force</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953622" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spirited/Vladimir/Icicle/10953622.jpg
+		</thumbnail>
+		<title>Pursuit Hex Battle</title>
+		<creator>Spirited Vladimir Icicle</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

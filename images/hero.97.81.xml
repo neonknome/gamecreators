@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17389654" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tall/Evelyn/Seesaw/17389654.jpg
+		</thumbnail>
+		<title>Big Turbo Battle</title>
+		<creator>Tall Evelyn Seesaw</creator>
+		<relatedgames/>
+	</game>
+	<game id="16981662" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Duke/Funk/16981662.jpg
+		</thumbnail>
+		<title>Thunder Power Cannonbolt</title>
+		<creator>Barbaric Duke Funk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930955" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Absurd/Owen/Dragon/10930955.jpg
+		</thumbnail>
+		<title>Fire Force Power</title>
+		<creator>Absurd Owen Dragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17312104" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hyper/Ariana/Calypso/17312104.jpg
+		</thumbnail>
+		<title>Blaster Spark Alien</title>
+		<creator>Hyper Ariana Calypso</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916758" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Purple/Angel/Cyborg/10916758.jpg
+		</thumbnail>
+		<title>Nitro Plasma Storm</title>
+		<creator>Purple Angel Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="17320483" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Talented/Adam/Tiger/17320483.jpg
+		</thumbnail>
+		<title>Adventure Alien Ambush</title>
+		<creator>Talented Adam Tiger</creator>
+		<relatedgames/>
+	</game>
+	<game id="17326887" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mystic/Maxwell/Martian/17326887.jpg
+		</thumbnail>
+		<title>Jetray Quake Fire</title>
+		<creator>Mystic Maxwell Martian</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918539" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Absurd/Blake/Eggplant/10918539.jpg
+		</thumbnail>
+		<title>Beast Universe Doom</title>
+		<creator>Absurd Blake Eggplant</creator>
+		<relatedgames/>
+	</game>
+	<game id="10063529" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cosmic/Oscar/Orca/10063529.jpg
+		</thumbnail>
+		<title>Rescue Ultra Universe</title>
+		<creator>Cosmic Oscar Orca</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922700" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tricky/Ingrid/Unicorn/10922700.jpg
+		</thumbnail>
+		<title>Iron Pulse Storm</title>
+		<creator>Tricky Ingrid Unicorn</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

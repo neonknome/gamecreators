@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17142675" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/King/Thor/Gulch/17142675.jpg
+		</thumbnail>
+		<title>Invasion Assault Clash</title>
+		<creator>King Thor Gulch</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926594" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Valiant/Maya/Rutabaga/10926594.jpg
+		</thumbnail>
+		<title>Light Search Ultra</title>
+		<creator>Valiant Maya Rutabaga</creator>
+		<relatedgames/>
+	</game>
+	<game id="17333051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Ricardo/Tiger/17333051.jpg
+		</thumbnail>
+		<title>Chill Dark Sonic</title>
+		<creator>Daring Ricardo Tiger</creator>
+		<relatedgames/>
+	</game>
+	<game id="16940361" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Capable/Beatrice/Sunset/16940361.jpg
+		</thumbnail>
+		<title>Chill Iron Titan</title>
+		<creator>Capable Beatrice Sunset</creator>
+		<relatedgames/>
+	</game>
+	<game id="17585367" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Keen/Isaiah/Phoenix/17585367.jpg
+		</thumbnail>
+		<title>Energy Giga Dark</title>
+		<creator>Keen Isaiah Phoenix</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919825" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Bruce/Ooze/10919825.jpg
+		</thumbnail>
+		<title>Space Turbo Solar</title>
+		<creator>Red Bruce Ooze</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952782" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Fred/Mallard/10952782.jpg
+		</thumbnail>
+		<title>Swampfire Dark Rescue</title>
+		<creator>Obvious Fred Mallard</creator>
+		<relatedgames/>
+	</game>
+	<game id="17281265" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Amazing/Alvin/Thing/17281265.jpg
+		</thumbnail>
+		<title>Warrior Spike Mega</title>
+		<creator>Amazing Alvin Thing</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931869" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Rowdy/Trevor/Glop/10931869.jpg
+		</thumbnail>
+		<title>Shadow Patrol Attack</title>
+		<creator>Rowdy Trevor Glop</creator>
+		<relatedgames/>
+	</game>
+	<game id="17206021" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Volcanic/Gabriel/Tarragon/17206021.jpg
+		</thumbnail>
+		<title>Adventure Attack Target</title>
+		<creator>Volcanic Gabriel Tarragon</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17312975" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Roaring/Douglas/Fuzz/17312975.jpg
+		</thumbnail>
+		<title>Patrol Crusher Stone</title>
+		<creator>Roaring Douglas Fuzz</creator>
+		<relatedgames/>
+	</game>
+	<game id="17284589" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Famous/Paul/Tiger/17284589.jpg
+		</thumbnail>
+		<title>Galaxy Force Sonic</title>
+		<creator>Famous Paul Tiger</creator>
+		<relatedgames/>
+	</game>
+	<game id="17362287" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artful/Timmy/Daffodil/17362287.jpg
+		</thumbnail>
+		<title>Drone Mission Vilgax</title>
+		<creator>Artful Timmy Daffodil</creator>
+		<relatedgames/>
+	</game>
+	<game id="16950338" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Angelica/Castle/16950338.jpg
+		</thumbnail>
+		<title>Star Atomic Animo</title>
+		<creator>Dazzling Angelica Castle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17318985" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grizzly/Eugene/Banzai/17318985.jpg
+		</thumbnail>
+		<title>Escape Star Thunder</title>
+		<creator>Grizzly Eugene Banzai</creator>
+		<relatedgames/>
+	</game>
+	<game id="17103443" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/Lucius/Tiger/17103443.jpg
+		</thumbnail>
+		<title>Fury Echo Whirlwind</title>
+		<creator>Fiery Lucius Tiger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921236" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sporty/Matt/Citrus/10921236.jpg
+		</thumbnail>
+		<title>Sonic Hero Universe</title>
+		<creator>Sporty Matt Citrus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17246245" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artful/Anna/Cosmos/17246245.jpg
+		</thumbnail>
+		<title>Rampage Nitro Storm</title>
+		<creator>Artful Anna Cosmos</creator>
+		<relatedgames/>
+	</game>
+	<game id="16984393" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quantum/Kevin/Beast/16984393.jpg
+		</thumbnail>
+		<title>Atomic Whirlwind Battle</title>
+		<creator>Quantum Kevin Beast</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404567" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Towering/Aaliyah/Cipher/17404567.jpg
+		</thumbnail>
+		<title>Adventure Water Ben</title>
+		<creator>Towering Aaliyah Cipher</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

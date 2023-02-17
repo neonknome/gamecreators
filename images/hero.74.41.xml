@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16999418" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hyper/Rex/Minotaur/16999418.jpg
+		</thumbnail>
+		<title>Nano Titan Force</title>
+		<creator>Hyper Rex Minotaur</creator>
+		<relatedgames/>
+	</game>
+	<game id="17285330" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Negative/Andy/Atlas/17285330.jpg
+		</thumbnail>
+		<title>Fire Burst Attack</title>
+		<creator>Negative Andy Atlas</creator>
+		<relatedgames/>
+	</game>
+	<game id="17407932" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Itchy/Jimbo/Paradox/17407932.jpg
+		</thumbnail>
+		<title>Ultimate Titan Terraspin</title>
+		<creator>Itchy Jimbo Paradox</creator>
+		<relatedgames/>
+	</game>
+	<game id="17373253" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quirky/Tommy/Karate/17373253.jpg
+		</thumbnail>
+		<title>Techno Hero Spike</title>
+		<creator>Quirky Tommy Karate</creator>
+		<relatedgames/>
+	</game>
+	<game id="10045430" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Twisty/Bubba/Kazoo/10045430.jpg
+		</thumbnail>
+		<title>Laser Dark Shadow</title>
+		<creator>Twisty Bubba Kazoo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17540459" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Agile/Drake/Glop/17540459.jpg
+		</thumbnail>
+		<title>Rock Racer Force</title>
+		<creator>Agile Drake Glop</creator>
+		<relatedgames/>
+	</game>
+	<game id="17188315" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crispy/Steven/Bazooka/17188315.jpg
+		</thumbnail>
+		<title>Shock Echo Adventure</title>
+		<creator>Crispy Steven Bazooka</creator>
+		<relatedgames/>
+	</game>
+	<game id="10065549" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Brave/Tabitha/Cupcake/10065549.jpg
+		</thumbnail>
+		<title>Alien Swampfire Star</title>
+		<creator>Brave Tabitha Cupcake</creator>
+		<relatedgames/>
+	</game>
+	<game id="17301462" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ironic/Isaac/Deadbolt/17301462.jpg
+		</thumbnail>
+		<title>Thunder Ultra Alien</title>
+		<creator>Ironic Isaac Deadbolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="17223727" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quick/Chuck/Cobweb/17223727.jpg
+		</thumbnail>
+		<title>Power Adventure Champion</title>
+		<creator>Quick Chuck Cobweb</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

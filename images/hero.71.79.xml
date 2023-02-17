@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17373112" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shiny/Roy/Insect/17373112.jpg
+		</thumbnail>
+		<title>Cannonbolt Vilgax Adventure</title>
+		<creator>Shiny Roy Insect</creator>
+		<relatedgames/>
+	</game>
+	<game id="10058992" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Purple/Peter/Amethyst/10058992.jpg
+		</thumbnail>
+		<title>Hyper Battle Shock</title>
+		<creator>Purple Peter Amethyst</creator>
+		<relatedgames/>
+	</game>
+	<game id="17414376" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Brian/Cookie/17414376.jpg
+		</thumbnail>
+		<title>Spidermonkey Rumble Rush</title>
+		<creator>Barbaric Brian Cookie</creator>
+		<relatedgames/>
+	</game>
+	<game id="16870844" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eerie/Ava/Centaur/16870844.jpg
+		</thumbnail>
+		<title>Iron Adventure Rescue</title>
+		<creator>Eerie Ava Centaur</creator>
+		<relatedgames/>
+	</game>
+	<game id="16917484" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Galactic/Scarlett/Blast/16917484.jpg
+		</thumbnail>
+		<title>Alien Hyper Turbo</title>
+		<creator>Galactic Scarlett Blast</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925587" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Massive/Kristin/Pulse/10925587.jpg
+		</thumbnail>
+		<title>Champion Challenge Magno</title>
+		<creator>Massive Kristin Pulse</creator>
+		<relatedgames/>
+	</game>
+	<game id="17353328" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Emperor/Taylor/Barnacle/17353328.jpg
+		</thumbnail>
+		<title>Dark Drone Danger</title>
+		<creator>Emperor Taylor Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10949978" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sinister/Aidan/Dynamite/10949978.jpg
+		</thumbnail>
+		<title>Ultimate Alien Rumble</title>
+		<creator>Sinister Aidan Dynamite</creator>
+		<relatedgames/>
+	</game>
+	<game id="10032046" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Absurd/Ava/Bayou/10032046.jpg
+		</thumbnail>
+		<title>Defense Alien Humongousaur</title>
+		<creator>Absurd Ava Bayou</creator>
+		<relatedgames/>
+	</game>
+	<game id="17327834" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bizarre/William/Barnacle/17327834.jpg
+		</thumbnail>
+		<title>Challenge Racer Spark</title>
+		<creator>Bizarre William Barnacle</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17305485" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Soggy/Yvette/Magma/17305485.jpg
+		</thumbnail>
+		<title>Rustbucket Lightning Danger</title>
+		<creator>Soggy Yvette Magma</creator>
+		<relatedgames/>
+	</game>
+	<game id="10949991" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Giggling/Elroy/Domino/10949991.jpg
+		</thumbnail>
+		<title>Rush Attack Rumble</title>
+		<creator>Giggling Elroy Domino</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922895" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brave/Ernie/Blitz/10922895.jpg
+		</thumbnail>
+		<title>Hyper Spark Hero</title>
+		<creator>Brave Ernie Blitz</creator>
+		<relatedgames/>
+	</game>
+	<game id="17083085" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Extreme/Abigail/Magnet/17083085.jpg
+		</thumbnail>
+		<title>Streak Drone Magno</title>
+		<creator>Extreme Abigail Magnet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17584898" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Intrepid/Finn/Clone/17584898.jpg
+		</thumbnail>
+		<title>Cannonbolt Storm Assault</title>
+		<creator>Intrepid Finn Clone</creator>
+		<relatedgames/>
+	</game>
+	<game id="10793505" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Green/Brianna/Thorax/10793505.jpg
+		</thumbnail>
+		<title>Escape Escape Smash</title>
+		<creator>Green Brianna Thorax</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931923" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noble/Noah/Gazelle/10931923.jpg
+		</thumbnail>
+		<title>Escape Rampage Mega</title>
+		<creator>Noble Noah Gazelle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17276373" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Snazzy/Madison/Sword/17276373.jpg
+		</thumbnail>
+		<title>Danger Metal Crusher</title>
+		<creator>Snazzy Madison Sword</creator>
+		<relatedgames/>
+	</game>
+	<game id="17340123" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Admiral/Joshua/Tuxedo/17340123.jpg
+		</thumbnail>
+		<title>Power Shock Smash</title>
+		<creator>Admiral Joshua Tuxedo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17281337" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magnetic/Dominic/Hologram/17281337.jpg
+		</thumbnail>
+		<title>Pursuit Power Battle</title>
+		<creator>Magnetic Dominic Hologram</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

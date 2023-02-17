@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10949766" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Heroic/Lucius/Cactus/10949766.jpg
+		</thumbnail>
+		<title>Pulse Adventure Racer</title>
+		<creator>Heroic Lucius Cactus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921090" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stout/Earl/Marigold/10921090.jpg
+		</thumbnail>
+		<title>Iron Crusher Alien</title>
+		<creator>Stout Earl Marigold</creator>
+		<relatedgames/>
+	</game>
+	<game id="17383696" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Athletic/Calvin/Buffalo/17383696.jpg
+		</thumbnail>
+		<title>Metal Shadow Hex</title>
+		<creator>Athletic Calvin Buffalo</creator>
+		<relatedgames/>
+	</game>
+	<game id="16994396" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sergeant/Leonard/Iceberg/16994396.jpg
+		</thumbnail>
+		<title>Battle Defense Adventure</title>
+		<creator>Sergeant Leonard Iceberg</creator>
+		<relatedgames/>
+	</game>
+	<game id="17564122" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awesome/Xerxes/Dynamite/17564122.jpg
+		</thumbnail>
+		<title>Galaxy Nova Rampage</title>
+		<creator>Awesome Xerxes Dynamite</creator>
+		<relatedgames/>
+	</game>
+	<game id="17054714" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crispy/Marissa/Nanobot/17054714.jpg
+		</thumbnail>
+		<title>Defense Power Star</title>
+		<creator>Crispy Marissa Nanobot</creator>
+		<relatedgames/>
+	</game>
+	<game id="17331560" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Giggling/Lydia/Rhythm/17331560.jpg
+		</thumbnail>
+		<title>Ultimate Echo Assault</title>
+		<creator>Giggling Lydia Rhythm</creator>
+		<relatedgames/>
+	</game>
+	<game id="17312994" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Rich/Sunshine/17312994.jpg
+		</thumbnail>
+		<title>Doom Gear Warrior</title>
+		<creator>Queen Rich Sunshine</creator>
+		<relatedgames/>
+	</game>
+	<game id="17239564" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Snazzy/Mandy/Thing/17239564.jpg
+		</thumbnail>
+		<title>Titan Spark Defense</title>
+		<creator>Snazzy Mandy Thing</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919497" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Ethel/Atom/10919497.jpg
+		</thumbnail>
+		<title>Alien Stone Solar</title>
+		<creator>Red Ethel Atom</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

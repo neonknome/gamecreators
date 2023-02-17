@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10918863" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eager/Katelyn/Ooze/10918863.jpg
+		</thumbnail>
+		<title>Ultimate Fury Invasion</title>
+		<creator>Eager Katelyn Ooze</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924091" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Funny/Miguel/Gumshoe/10924091.jpg
+		</thumbnail>
+		<title>Assault Gear Slam</title>
+		<creator>Funny Miguel Gumshoe</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952545" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eloquent/Blake/Fishbowl/10952545.jpg
+		</thumbnail>
+		<title>Sonic Light Adventure</title>
+		<creator>Eloquent Blake Fishbowl</creator>
+		<relatedgames/>
+	</game>
+	<game id="17220619" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Carefree/Penelope/Banshee/17220619.jpg
+		</thumbnail>
+		<title>Lightning Big Animo</title>
+		<creator>Carefree Penelope Banshee</creator>
+		<relatedgames/>
+	</game>
+	<game id="16883820" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/James/Cyclone/16883820.jpg
+		</thumbnail>
+		<title>Warp Waterhazard Adventure</title>
+		<creator>Fiery James Cyclone</creator>
+		<relatedgames/>
+	</game>
+	<game id="10704405" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Leaping/Emma/Molecule/10704405.jpg
+		</thumbnail>
+		<title>Fusion Pulse Chase</title>
+		<creator>Leaping Emma Molecule</creator>
+		<relatedgames/>
+	</game>
+	<game id="17089029" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Regular/Andrea/Fandango/17089029.jpg
+		</thumbnail>
+		<title>Rumble Adventure Vilgax</title>
+		<creator>Regular Andrea Fandango</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038814" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Odd/Spike/Thud/10038814.jpg
+		</thumbnail>
+		<title>Fusion Vilgax Techno</title>
+		<creator>Odd Spike Thud</creator>
+		<relatedgames/>
+	</game>
+	<game id="16977448" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Western/Cameron/Jigsaw/16977448.jpg
+		</thumbnail>
+		<title>Assault Humongousaur Laser</title>
+		<creator>Western Cameron Jigsaw</creator>
+		<relatedgames/>
+	</game>
+	<game id="16988735" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Captain/Gwen/Viking/16988735.jpg
+		</thumbnail>
+		<title>Escape Atomic Burst</title>
+		<creator>Captain Gwen Viking</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

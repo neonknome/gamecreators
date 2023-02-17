@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17260921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ultimate/Rocky/Flamingo/17260921.jpg
+		</thumbnail>
+		<title>Spark Titan Siege</title>
+		<creator>Ultimate Rocky Flamingo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17325051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cute/Rufus/Droid/17325051.jpg
+		</thumbnail>
+		<title>Smash Power Techno</title>
+		<creator>Cute Rufus Droid</creator>
+		<relatedgames/>
+	</game>
+	<game id="17370247" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radical/Ed/Chaos/17370247.jpg
+		</thumbnail>
+		<title>Terraspin Energy Rush</title>
+		<creator>Radical Ed Chaos</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Ed/Squawk/10923821.jpg
+		</thumbnail>
+		<title>Swampfire Assault Vilgax</title>
+		<creator>Alien Ed Squawk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17326053" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Curious/Carter/Hornet/17326053.jpg
+		</thumbnail>
+		<title>Ultimate Waterhazard Whirlwind</title>
+		<creator>Curious Carter Hornet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17085481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Vibrant/Gabriel/Mahogany/17085481.jpg
+		</thumbnail>
+		<title>Nitro Mega Smash</title>
+		<creator>Vibrant Gabriel Mahogany</creator>
+		<relatedgames/>
+	</game>
+	<game id="16988994" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Famous/Hugo/16988994.jpg
+		</thumbnail>
+		<title>Turbo Cosmic Whirlwind</title>
+		<creator>Famous Hugo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17374738" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Surreal/Mikayla/Ballyhoo/17374738.jpg
+		</thumbnail>
+		<title>Techno Mission Droid</title>
+		<creator>Surreal Mikayla Ballyhoo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17325121" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Able/Zelda/Platypus/17325121.jpg
+		</thumbnail>
+		<title>Cannonbolt Sonic Adventure</title>
+		<creator>Able Zelda Platypus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17402198" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Comical/CJ/Confetti/17402198.jpg
+		</thumbnail>
+		<title>Shadow Hex Rescue</title>
+		<creator>Comical CJ Confetti</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

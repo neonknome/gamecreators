@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10934549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shaggy/Jeff/Gullet/10934549.jpg
+		</thumbnail>
+		<title>Swampfire Rush Plasma</title>
+		<creator>Shaggy Jeff Gullet</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952813" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Babbling/Adam/Buckaroo/10952813.jpg
+		</thumbnail>
+		<title>Fury Spark Galaxy</title>
+		<creator>Babbling Adam Buckaroo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916795" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eager/Abigail/Turbo/10916795.jpg
+		</thumbnail>
+		<title>Invasion Swampfire Ambush</title>
+		<creator>Eager Abigail Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="16989131" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hideous/Ginger/Rhino/16989131.jpg
+		</thumbnail>
+		<title>Assault Mission Racer</title>
+		<creator>Hideous Ginger Rhino</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Surreal/Grace/Flypaper/10924687.jpg
+		</thumbnail>
+		<title>Clash Alien Adventure</title>
+		<creator>Surreal Grace Flypaper</creator>
+		<relatedgames/>
+	</game>
+	<game id="17234945" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awful/Bobby/Fossil/17234945.jpg
+		</thumbnail>
+		<title>Racer Adventure Light</title>
+		<creator>Awful Bobby Fossil</creator>
+		<relatedgames/>
+	</game>
+	<game id="10649815" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zippy/Sarah/Tuxedo/10649815.jpg
+		</thumbnail>
+		<title>Storm Robot Adventure</title>
+		<creator>Zippy Sarah Tuxedo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Majestic/Adam/Bolt/10918878.jpg
+		</thumbnail>
+		<title>Blaster Ambush Assault</title>
+		<creator>Majestic Adam Bolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humble/Jackson/Blade/10930549.jpg
+		</thumbnail>
+		<title>Danger Fire Hero</title>
+		<creator>Humble Jackson Blade</creator>
+		<relatedgames/>
+	</game>
+	<game id="17244101" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Prince/Dan/Galaxy/17244101.jpg
+		</thumbnail>
+		<title>Ultimate Quake Mission</title>
+		<creator>Prince Dan Galaxy</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

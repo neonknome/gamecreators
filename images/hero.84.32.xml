@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17075414" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tireless/Ruby/Phoenix/17075414.jpg
+		</thumbnail>
+		<title>Fire Ben Universe</title>
+		<creator>Tireless Ruby Phoenix</creator>
+		<relatedgames/>
+	</game>
+	<game id="17003381" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Academic/Mark/Rebel/17003381.jpg
+		</thumbnail>
+		<title>Challenge Brainstorm Cosmic</title>
+		<creator>Academic Mark Rebel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10064405" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cranky/Dawn/Boing/10064405.jpg
+		</thumbnail>
+		<title>Racer Racer Assault</title>
+		<creator>Cranky Dawn Boing</creator>
+		<relatedgames/>
+	</game>
+	<game id="17281055" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Generous/Lillian/Doodle/17281055.jpg
+		</thumbnail>
+		<title>Rescue Assault Ambush</title>
+		<creator>Generous Lillian Doodle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924623" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Purple/Thor/Thorax/10924623.jpg
+		</thumbnail>
+		<title>Pulse Atomic Target</title>
+		<creator>Purple Thor Thorax</creator>
+		<relatedgames/>
+	</game>
+	<game id="10786966" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radiant/Cynthia/Squeegee/10786966.jpg
+		</thumbnail>
+		<title>Magno Solar Danger</title>
+		<creator>Radiant Cynthia Squeegee</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924853" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Enormous/Brandon/Vector/10924853.jpg
+		</thumbnail>
+		<title>Solar Ultimate Fury</title>
+		<creator>Enormous Brandon Vector</creator>
+		<relatedgames/>
+	</game>
+	<game id="17560228" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crunchy/Ava/Blizzard/17560228.jpg
+		</thumbnail>
+		<title>Rocket Animo Droid</title>
+		<creator>Crunchy Ava Blizzard</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952581" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gloomy/Harry/Bolt/10952581.jpg
+		</thumbnail>
+		<title>Danger Vilgax Fusion</title>
+		<creator>Gloomy Harry Bolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="17423219" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quiet/Hunter/Blob/17423219.jpg
+		</thumbnail>
+		<title>Turbo Champion Adventure</title>
+		<creator>Quiet Hunter Blob</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

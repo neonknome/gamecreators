@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17411231" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strange/Ariel/Gumdrop/17411231.jpg
+		</thumbnail>
+		<title>Defense Spidermonkey Droid</title>
+		<creator>Strange Ariel Gumdrop</creator>
+		<relatedgames/>
+	</game>
+	<game id="17151478" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Devious/Paula/Magma/17151478.jpg
+		</thumbnail>
+		<title>Jetray Alien Force</title>
+		<creator>Devious Paula Magma</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953381" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cheerful/Vincent/Dragon/10953381.jpg
+		</thumbnail>
+		<title>Plasma Giga Droid</title>
+		<creator>Cheerful Vincent Dragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17227876" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Logan/Magnet/17227876.jpg
+		</thumbnail>
+		<title>Charge Escape Breaker</title>
+		<creator>Flying Logan Magnet</creator>
+		<relatedgames/>
+	</game>
+	<game id="10932642" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loud/Faith/Holler/10932642.jpg
+		</thumbnail>
+		<title>Galaxy Shadow Ultimate</title>
+		<creator>Loud Faith Holler</creator>
+		<relatedgames/>
+	</game>
+	<game id="17384988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Robust/Isaac/Pudding/17384988.jpg
+		</thumbnail>
+		<title>Escape Nano Smash</title>
+		<creator>Robust Isaac Pudding</creator>
+		<relatedgames/>
+	</game>
+	<game id="10934959" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Peculiar/Derek/Blubber/10934959.jpg
+		</thumbnail>
+		<title>Ben Sonic Hero</title>
+		<creator>Peculiar Derek Blubber</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923368" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wise/Herman/Tornado/10923368.jpg
+		</thumbnail>
+		<title>Blaster Force Clash</title>
+		<creator>Wise Herman Tornado</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919184" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fizzy/Laura/Tugboat/10919184.jpg
+		</thumbnail>
+		<title>Siege Atomic Rush</title>
+		<creator>Fizzy Laura Tugboat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952899" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dynamic/Celeste/Dolphin/10952899.jpg
+		</thumbnail>
+		<title>Galaxy Mission Rampage</title>
+		<creator>Dynamic Celeste Dolphin</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

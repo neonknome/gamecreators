@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17423217" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Major/Kelly/Beeswax/17423217.jpg
+		</thumbnail>
+		<title>Rumble Streak Ben</title>
+		<creator>Major Kelly Beeswax</creator>
+		<relatedgames/>
+	</game>
+	<game id="17117134" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Ethel/Pinball/17117134.jpg
+		</thumbnail>
+		<title>Attack Metal Mission</title>
+		<creator>Humorous Ethel Pinball</creator>
+		<relatedgames/>
+	</game>
+	<game id="17503975" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Prolific/Cole/Sprout/17503975.jpg
+		</thumbnail>
+		<title>Rocket Breaker Galaxy</title>
+		<creator>Prolific Cole Sprout</creator>
+		<relatedgames/>
+	</game>
+	<game id="17402198" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Comical/CJ/Confetti/17402198.jpg
+		</thumbnail>
+		<title>Shadow Hex Rescue</title>
+		<creator>Comical CJ Confetti</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930625" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Towering/Matthew/Hedgehog/10930625.jpg
+		</thumbnail>
+		<title>Dark Siege Earth</title>
+		<creator>Towering Matthew Hedgehog</creator>
+		<relatedgames/>
+	</game>
+	<game id="17214957" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crazy/Payton/Shadow/17214957.jpg
+		</thumbnail>
+		<title>Alien Invasion Breaker</title>
+		<creator>Crazy Payton Shadow</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920299" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Silly/Gladys/Beeswax/10920299.jpg
+		</thumbnail>
+		<title>Warrior Swampfire Mission</title>
+		<creator>Silly Gladys Beeswax</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404927" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Captain/Marvin/Cyborg/17404927.jpg
+		</thumbnail>
+		<title>Sonic Target Hero</title>
+		<creator>Captain Marvin Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10062736" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Atomic/Timmy/Parsec/10062736.jpg
+		</thumbnail>
+		<title>Turbo Crusher Laser</title>
+		<creator>Atomic Timmy Parsec</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916994" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Happy/Bucky/Cobweb/10916994.jpg
+		</thumbnail>
+		<title>Star Mega Breaker</title>
+		<creator>Happy Bucky Cobweb</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

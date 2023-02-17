@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10919810" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Visible/Leonardo/Python/10919810.jpg
+		</thumbnail>
+		<title>Search Attack Cosmic</title>
+		<creator>Visible Leonardo Python</creator>
+		<relatedgames/>
+	</game>
+	<game id="10950341" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Reginald/Igloo/10950341.jpg
+		</thumbnail>
+		<title>Blaster Turbo Storm</title>
+		<creator>Dazzling Reginald Igloo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10936068" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fizzy/Kenneth/Cyborg/10936068.jpg
+		</thumbnail>
+		<title>Fire Ambush Assault</title>
+		<creator>Fizzy Kenneth Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10934659" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loony/Rick/Lard/10934659.jpg
+		</thumbnail>
+		<title>Adventure Space Force</title>
+		<creator>Loony Rick Lard</creator>
+		<relatedgames/>
+	</game>
+	<game id="17312975" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Roaring/Douglas/Fuzz/17312975.jpg
+		</thumbnail>
+		<title>Patrol Crusher Stone</title>
+		<creator>Roaring Douglas Fuzz</creator>
+		<relatedgames/>
+	</game>
+	<game id="17379648" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Vigilant/Hayden/Obelisk/17379648.jpg
+		</thumbnail>
+		<title>Titan Metal Adventure</title>
+		<creator>Vigilant Hayden Obelisk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931879" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Orange/Mario/Cosmos/10931879.jpg
+		</thumbnail>
+		<title>Fire Escape Adventure</title>
+		<creator>Orange Mario Cosmos</creator>
+		<relatedgames/>
+	</game>
+	<game id="17362287" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artful/Timmy/Daffodil/17362287.jpg
+		</thumbnail>
+		<title>Drone Mission Vilgax</title>
+		<creator>Artful Timmy Daffodil</creator>
+		<relatedgames/>
+	</game>
+	<game id="16950338" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Angelica/Castle/16950338.jpg
+		</thumbnail>
+		<title>Star Atomic Animo</title>
+		<creator>Dazzling Angelica Castle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17382049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wily/Iris/Ostrich/17382049.jpg
+		</thumbnail>
+		<title>Turbo Dark Defense</title>
+		<creator>Wily Iris Ostrich</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

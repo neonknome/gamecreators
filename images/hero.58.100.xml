@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10934553" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Aaron/Safari/10934553.jpg
+		</thumbnail>
+		<title>Power Nano Force</title>
+		<creator>Dashing Aaron Safari</creator>
+		<relatedgames/>
+	</game>
+	<game id="10052419" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Kooky/Leonardo/Barnacle/10052419.jpg
+		</thumbnail>
+		<title>Nano Atomic Ambush</title>
+		<creator>Kooky Leonardo Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951370" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Nick/Aurora/10951370.jpg
+		</thumbnail>
+		<title>Energy Breaker Warrior</title>
+		<creator>Red Nick Aurora</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055989" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Valiant/Sterling/Popcorn/10055989.jpg
+		</thumbnail>
+		<title>Spike Force Adventure</title>
+		<creator>Valiant Sterling Popcorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="17188265" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Ronald/Presto/17188265.jpg
+		</thumbnail>
+		<title>Thunder Invasion Doom</title>
+		<creator>Daring Ronald Presto</creator>
+		<relatedgames/>
+	</game>
+	<game id="10947875" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Green/Bugsy/Dynamite/10947875.jpg
+		</thumbnail>
+		<title>Energy Storm Crusher</title>
+		<creator>Green Bugsy Dynamite</creator>
+		<relatedgames/>
+	</game>
+	<game id="16965108" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Feral/Andrew/Mustang/16965108.jpg
+		</thumbnail>
+		<title>Titan Hyper Breaker</title>
+		<creator>Feral Andrew Mustang</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919497" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Ethel/Atom/10919497.jpg
+		</thumbnail>
+		<title>Alien Stone Solar</title>
+		<creator>Red Ethel Atom</creator>
+		<relatedgames/>
+	</game>
+	<game id="17232918" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Amusing/Corey/Yoyo/17232918.jpg
+		</thumbnail>
+		<title>Lightning Brainstorm Laser</title>
+		<creator>Amusing Corey Yoyo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17276635" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Roy/Razor/17276635.jpg
+		</thumbnail>
+		<title>Echo Magno Ultra</title>
+		<creator>Roy Razor</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10045372" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Obvious/Shane/Zigzag/10045372.jpg
+		</thumbnail>
+		<title>Ultra Swampfire Rush</title>
+		<creator>Obvious Shane Zigzag</creator>
+		<relatedgames/>
+	</game>
+	<game id="16939364" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Splendid/Simon/Sardine/16939364.jpg
+		</thumbnail>
+		<title>Rush Rush Rush</title>
+		<creator>Splendid Simon Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="17194153" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Capable/Gregory/Anvil/17194153.jpg
+		</thumbnail>
+		<title>Techno Sonic Hyper</title>
+		<creator>Capable Gregory Anvil</creator>
+		<relatedgames/>
+	</game>
+	<game id="16965399" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Feral/Andrew/Mustang/16965399.jpg
+		</thumbnail>
+		<title>Humongousaur Assault Blaster</title>
+		<creator>Feral Andrew Mustang</creator>
+		<relatedgames/>
+	</game>
+	<game id="17233967" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baron/Felipe/Nova/17233967.jpg
+		</thumbnail>
+		<title>Techno Cosmic Slam</title>
+		<creator>Baron Felipe Nova</creator>
+		<relatedgames/>
+	</game>
+	<game id="17408812" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Electric/Chase/Reptile/17408812.jpg
+		</thumbnail>
+		<title>Invasion Humungousaur Target</title>
+		<creator>Electric Chase Reptile</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951732" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Generous/Matthew/Turtle/10951732.jpg
+		</thumbnail>
+		<title>Ben Ben Search</title>
+		<creator>Generous Matthew Turtle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10042856" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Mighty/Matthew/Kayak/10042856.jpg
+		</thumbnail>
+		<title>Hero Drone Atomic</title>
+		<creator>Mighty Matthew Kayak</creator>
+		<relatedgames/>
+	</game>
+	<game id="17127565" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Enormous/William/Witch/17127565.jpg
+		</thumbnail>
+		<title>Ultra Thunder Titan</title>
+		<creator>Enormous William Witch</creator>
+		<relatedgames/>
+	</game>
+	<game id="17362289" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ticklish/Dylan/Steel/17362289.jpg
+		</thumbnail>
+		<title>Ultra Thunder Mission</title>
+		<creator>Ticklish Dylan Steel</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

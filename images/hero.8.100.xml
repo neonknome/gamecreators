@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10069100" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Alien/Jacob/Brick/10069100.jpg
+		</thumbnail>
+		<title>Swampfire Hero Hex</title>
+		<creator>Alien Jacob Brick</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926927" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dainty/Darla/Ketchup/10926927.jpg
+		</thumbnail>
+		<title>Doom Rampage Defense</title>
+		<creator>Dainty Darla Ketchup</creator>
+		<relatedgames/>
+	</game>
+	<game id="16983993" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Visible/Gladys/Kangaroo/16983993.jpg
+		</thumbnail>
+		<title>Patrol Ultimate Beast</title>
+		<creator>Visible Gladys Kangaroo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10946650" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Napoleon/Cupcake/10946650.jpg
+		</thumbnail>
+		<title>Iron Ambush Plumber</title>
+		<creator>Dazzling Napoleon Cupcake</creator>
+		<relatedgames/>
+	</game>
+	<game id="17314812" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Babbling/Hayden/Aurora/17314812.jpg
+		</thumbnail>
+		<title>Fire Cosmic Clash</title>
+		<creator>Babbling Hayden Aurora</creator>
+		<relatedgames/>
+	</game>
+	<game id="17379498" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Abstract/Natalia/Mackerel/17379498.jpg
+		</thumbnail>
+		<title>Quake Spike Storm</title>
+		<creator>Abstract Natalia Mackerel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17352503" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Complex/Finn/Zeppelin/17352503.jpg
+		</thumbnail>
+		<title>Invasion Sonic Racer</title>
+		<creator>Complex Finn Zeppelin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920288" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bizarre/Jonathan/Gong/10920288.jpg
+		</thumbnail>
+		<title>Escape Beast Adventure</title>
+		<creator>Bizarre Jonathan Gong</creator>
+		<relatedgames/>
+	</game>
+	<game id="17274962" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Justin/Phoenix/17274962.jpg
+		</thumbnail>
+		<title>Energy Burst Laser</title>
+		<creator>Humorous Justin Phoenix</creator>
+		<relatedgames/>
+	</game>
+	<game id="17539894" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Prolific/Cole/Sprout/17539894.jpg
+		</thumbnail>
+		<title>Vilgax Pulse Nova</title>
+		<creator>Prolific Cole Sprout</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

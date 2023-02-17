@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10924298" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awful/Bernard/Cumulus/10924298.jpg
+		</thumbnail>
+		<title>Rampage Power Hero</title>
+		<creator>Awful Bernard Cumulus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10709680" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zippy/Ron/Sardine/10709680.jpg
+		</thumbnail>
+		<title>Turbo Breaker Racer</title>
+		<creator>Zippy Ron Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="17400211" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elegant/George/Doodad/17400211.jpg
+		</thumbnail>
+		<title>Rush Ultra Hero</title>
+		<creator>Elegant George Doodad</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953079" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humble/Daniel/Scorpion/10953079.jpg
+		</thumbnail>
+		<title>Plumber Force Rampage</title>
+		<creator>Humble Daniel Scorpion</creator>
+		<relatedgames/>
+	</game>
+	<game id="16950419" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Super/Savannah/Neutron/16950419.jpg
+		</thumbnail>
+		<title>Swampfire Galaxy Rocket</title>
+		<creator>Super Savannah Neutron</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923252" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Modest/Bobby/Jungle/10923252.jpg
+		</thumbnail>
+		<title>Charge Nova Escape</title>
+		<creator>Modest Bobby Jungle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17326435" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Silent/Gus/Carousel/17326435.jpg
+		</thumbnail>
+		<title>Spark Patrol Challenge</title>
+		<creator>Silent Gus Carousel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916697" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zippy/Barney/Elephant/10916697.jpg
+		</thumbnail>
+		<title>Beast Rock Thunder</title>
+		<creator>Zippy Barney Elephant</creator>
+		<relatedgames/>
+	</game>
+	<game id="10648224" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Carson/Vampire/10648224.jpg
+		</thumbnail>
+		<title>Humongousaur Hyper Smash</title>
+		<creator>Colossal Carson Vampire</creator>
+		<relatedgames/>
+	</game>
+	<game id="17251649" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Titanic/Andy/Cartoon/17251649.jpg
+		</thumbnail>
+		<title>Cannonbolt Hero Nova</title>
+		<creator>Titanic Andy Cartoon</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

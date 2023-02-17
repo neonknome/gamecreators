@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17014783" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Duchess/Cassidy/Fizz/17014783.jpg
+		</thumbnail>
+		<title>Energy Pulse Rescue</title>
+		<creator>Duchess Cassidy Fizz</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921643" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magnetic/Ernie/Rumble/10921643.jpg
+		</thumbnail>
+		<title>Rampage Defense Galaxy</title>
+		<creator>Magnetic Ernie Rumble</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953304" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scary/James/Lavender/10953304.jpg
+		</thumbnail>
+		<title>Rustbucket Magno Plasma</title>
+		<creator>Scary James Lavender</creator>
+		<relatedgames/>
+	</game>
+	<game id="17581794" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Musical/Bella/Gizzard/17581794.jpg
+		</thumbnail>
+		<title>Doom Target Patrol</title>
+		<creator>Musical Bella Gizzard</creator>
+		<relatedgames/>
+	</game>
+	<game id="17336445" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Expert/Jonathan/Dodo/17336445.jpg
+		</thumbnail>
+		<title>Alien Solar Smash</title>
+		<creator>Expert Jonathan Dodo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922520" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Infinite/Jill/Thorax/10922520.jpg
+		</thumbnail>
+		<title>Swampfire Challenge Hyper</title>
+		<creator>Infinite Jill Thorax</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930625" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Towering/Matthew/Hedgehog/10930625.jpg
+		</thumbnail>
+		<title>Dark Siege Earth</title>
+		<creator>Towering Matthew Hedgehog</creator>
+		<relatedgames/>
+	</game>
+	<game id="17536511" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noble/Dan/Tuxedo/17536511.jpg
+		</thumbnail>
+		<title>Rock Storm Pursuit</title>
+		<creator>Noble Dan Tuxedo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17407363" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Adept/Biff/Quark/17407363.jpg
+		</thumbnail>
+		<title>Atomic Earth Plasma</title>
+		<creator>Adept Biff Quark</creator>
+		<relatedgames/>
+	</game>
+	<game id="17214957" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crazy/Payton/Shadow/17214957.jpg
+		</thumbnail>
+		<title>Alien Invasion Breaker</title>
+		<creator>Crazy Payton Shadow</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10924653" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elegant/Salvador/Volcano/10924653.jpg
+		</thumbnail>
+		<title>Swampfire Fury Adventure</title>
+		<creator>Elegant Salvador Volcano</creator>
+		<relatedgames/>
+	</game>
+	<game id="16843442" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humble/Thor/Cyclone/16843442.jpg
+		</thumbnail>
+		<title>Chill Razor Shadow</title>
+		<creator>Humble Thor Cyclone</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055889" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Ghostly/Charles/Cosmos/10055889.jpg
+		</thumbnail>
+		<title>Pulse Plumber Adventure</title>
+		<creator>Ghostly Charles Cosmos</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928607" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mumbling/Ace/Cactus/10928607.jpg
+		</thumbnail>
+		<title>Warp Solar Steel</title>
+		<creator>Mumbling Ace Cactus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920299" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Silly/Gladys/Beeswax/10920299.jpg
+		</thumbnail>
+		<title>Warrior Swampfire Mission</title>
+		<creator>Silly Gladys Beeswax</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404927" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Captain/Marvin/Cyborg/17404927.jpg
+		</thumbnail>
+		<title>Sonic Target Hero</title>
+		<creator>Captain Marvin Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="16948692" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/Alyssa/Blammo/16948692.jpg
+		</thumbnail>
+		<title>Rush Breaker Storm</title>
+		<creator>Fiery Alyssa Blammo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17389503" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Lanky/Flint/Gorgon/17389503.jpg
+		</thumbnail>
+		<title>Stone Nova Star</title>
+		<creator>Lanky Flint Gorgon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10045372" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Obvious/Shane/Zigzag/10045372.jpg
+		</thumbnail>
+		<title>Ultra Swampfire Rush</title>
+		<creator>Obvious Shane Zigzag</creator>
+		<relatedgames/>
+	</game>
+	<game id="10063164" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Lucky/Mary/Zeppelin/10063164.jpg
+		</thumbnail>
+		<title>Ambush Stone Plumber</title>
+		<creator>Lucky Mary Zeppelin</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

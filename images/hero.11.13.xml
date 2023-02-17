@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10921963" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Northern/Jenna/Yoyo/10921963.jpg
+		</thumbnail>
+		<title>Swampfire Challenge Ultimate</title>
+		<creator>Northern Jenna Yoyo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17360908" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Speedy/Cole/Fuzz/17360908.jpg
+		</thumbnail>
+		<title>Storm Ultimate Animo</title>
+		<creator>Speedy Cole Fuzz</creator>
+		<relatedgames/>
+	</game>
+	<game id="16983247" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brisk/Ben/Ballyhoo/16983247.jpg
+		</thumbnail>
+		<title>Spike Drone Ultra</title>
+		<creator>Brisk Ben Ballyhoo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17552128" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Steven/Buffalo/17552128.jpg
+		</thumbnail>
+		<title>Humungousaur Dark Techno</title>
+		<creator>Steven Buffalo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953463" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artistic/Leonardo/Zebra/10953463.jpg
+		</thumbnail>
+		<title>Fury Space Plasma</title>
+		<creator>Artistic Leonardo Zebra</creator>
+		<relatedgames/>
+	</game>
+	<game id="17318747" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gross/Newton/Windmill/17318747.jpg
+		</thumbnail>
+		<title>Shadow Blaster Atomic</title>
+		<creator>Gross Newton Windmill</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930206" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loony/James/Kangaroo/10930206.jpg
+		</thumbnail>
+		<title>Pursuit Star Adventure</title>
+		<creator>Loony James Kangaroo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10043305" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Hectic/Jack/Clang/10043305.jpg
+		</thumbnail>
+		<title>Droid Droid Droid</title>
+		<creator>Hectic Jack Clang</creator>
+		<relatedgames/>
+	</game>
+	<game id="10058997" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Orange/Isaac/Spider/10058997.jpg
+		</thumbnail>
+		<title>Mission Drone Invasion</title>
+		<creator>Orange Isaac Spider</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933914" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Squishy/Phillip/Fritter/10933914.jpg
+		</thumbnail>
+		<title>Rumble Battle Techno</title>
+		<creator>Squishy Phillip Fritter</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

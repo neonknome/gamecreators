@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10926745" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eager/Sara/Goulash/10926745.jpg
+		</thumbnail>
+		<title>Force Invasion Warrior</title>
+		<creator>Eager Sara Goulash</creator>
+		<relatedgames/>
+	</game>
+	<game id="17407806" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shaggy/Jason/Spleen/17407806.jpg
+		</thumbnail>
+		<title>Sonic Universe Water</title>
+		<creator>Shaggy Jason Spleen</creator>
+		<relatedgames/>
+	</game>
+	<game id="10031707" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Wondrous/Grace/Fizz/10031707.jpg
+		</thumbnail>
+		<title>Lightning Burst Solar</title>
+		<creator>Wondrous Grace Fizz</creator>
+		<relatedgames/>
+	</game>
+	<game id="17172103" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jingling/Spencer/Mosquito/17172103.jpg
+		</thumbnail>
+		<title>Iron Adventure Plumber</title>
+		<creator>Jingling Spencer Mosquito</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926958" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Twisty/Gavin/Seesaw/10926958.jpg
+		</thumbnail>
+		<title>Adventure Smash Adventure</title>
+		<creator>Twisty Gavin Seesaw</creator>
+		<relatedgames/>
+	</game>
+	<game id="17217721" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Normal/Betty/Venom/17217721.jpg
+		</thumbnail>
+		<title>Shadow Vilgax Cosmic</title>
+		<creator>Normal Betty Venom</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crunchy/Miranda/Witch/10916821.jpg
+		</thumbnail>
+		<title>Steel Swampfire Champion</title>
+		<creator>Crunchy Miranda Witch</creator>
+		<relatedgames/>
+	</game>
+	<game id="17284323" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Verbose/Felicity/Nibbles/17284323.jpg
+		</thumbnail>
+		<title>Light Attack Nova</title>
+		<creator>Verbose Felicity Nibbles</creator>
+		<relatedgames/>
+	</game>
+	<game id="10938204" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brawny/Calvin/Fishbowl/10938204.jpg
+		</thumbnail>
+		<title>Lightning Rustbucket Techno</title>
+		<creator>Brawny Calvin Fishbowl</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925050" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Itchy/Jared/Kazoo/10925050.jpg
+		</thumbnail>
+		<title>Swampfire Rescue Star</title>
+		<creator>Itchy Jared Kazoo</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

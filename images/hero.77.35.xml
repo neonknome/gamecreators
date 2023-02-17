@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17281337" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magnetic/Dominic/Hologram/17281337.jpg
+		</thumbnail>
+		<title>Pursuit Power Battle</title>
+		<creator>Magnetic Dominic Hologram</creator>
+		<relatedgames/>
+	</game>
+	<game id="10047444" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Horrid/Kristin/Barnacle/10047444.jpg
+		</thumbnail>
+		<title>Attack Alien Metal</title>
+		<creator>Horrid Kristin Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933614" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Powerful/Brett/Midnight/10933614.jpg
+		</thumbnail>
+		<title>Streak Pursuit Turbo</title>
+		<creator>Powerful Brett Midnight</creator>
+		<relatedgames/>
+	</game>
+	<game id="17322825" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Subtle/Apollo/Yoyo/17322825.jpg
+		</thumbnail>
+		<title>Nitro Battle Rock</title>
+		<creator>Subtle Apollo Yoyo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10936094" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grand/Michelle/Goulash/10936094.jpg
+		</thumbnail>
+		<title>Alien Atomic Attack</title>
+		<creator>Grand Michelle Goulash</creator>
+		<relatedgames/>
+	</game>
+	<game id="17220720" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Smart/Pearl/Confetti/17220720.jpg
+		</thumbnail>
+		<title>Cosmic Adventure Ben</title>
+		<creator>Smart Pearl Confetti</creator>
+		<relatedgames/>
+	</game>
+	<game id="17409988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bouncing/Wally/Apple/17409988.jpg
+		</thumbnail>
+		<title>Fire Alien Hero</title>
+		<creator>Bouncing Wally Apple</creator>
+		<relatedgames/>
+	</game>
+	<game id="17321920" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spicy/Chase/Pinball/17321920.jpg
+		</thumbnail>
+		<title>Razor Warp Fusion</title>
+		<creator>Spicy Chase Pinball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10041108" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Alien/Pearl/Cyborg/10041108.jpg
+		</thumbnail>
+		<title>Swampfire Target Burst</title>
+		<creator>Alien Pearl Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="17017938" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gothic/Sara/Weasel/17017938.jpg
+		</thumbnail>
+		<title>Rush Cosmic Adventure</title>
+		<creator>Gothic Sara Weasel</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

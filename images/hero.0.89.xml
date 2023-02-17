@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10048064" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Hefty/Sara/Pelican/10048064.jpg
+		</thumbnail>
+		<title>Nano Fury Nova</title>
+		<creator>Hefty Sara Pelican</creator>
+		<relatedgames/>
+	</game>
+	<game id="17327969" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Howling/Seth/Virtuoso/17327969.jpg
+		</thumbnail>
+		<title>Fire Drone Adventure</title>
+		<creator>Howling Seth Virtuoso</creator>
+		<relatedgames/>
+	</game>
+	<game id="17012536" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Super/Carol/Blizzard/17012536.jpg
+		</thumbnail>
+		<title>Cannonbolt Challenge Hyper</title>
+		<creator>Super Carol Blizzard</creator>
+		<relatedgames/>
+	</game>
+	<game id="17318539" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Scott/Snake/17318539.jpg
+		</thumbnail>
+		<title>Terraspin Hex Pulse</title>
+		<creator>Zany Scott Snake</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953620" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colorful/Paige/Hambone/10953620.jpg
+		</thumbnail>
+		<title>Universe Smash Mission</title>
+		<creator>Colorful Paige Hambone</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920148" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barkbullet/10920148.jpg
+		</thumbnail>
+		<title>Ben Champion Beast</title>
+		<creator>Barkbullet</creator>
+		<relatedgames/>
+	</game>
+	<game id="10047444" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Horrid/Kristin/Barnacle/10047444.jpg
+		</thumbnail>
+		<title>Attack Alien Metal</title>
+		<creator>Horrid Kristin Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933614" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Powerful/Brett/Midnight/10933614.jpg
+		</thumbnail>
+		<title>Streak Pursuit Turbo</title>
+		<creator>Powerful Brett Midnight</creator>
+		<relatedgames/>
+	</game>
+	<game id="17298605" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mighty/Avery/Mantis/17298605.jpg
+		</thumbnail>
+		<title>Energy Hyper Rampage</title>
+		<creator>Mighty Avery Mantis</creator>
+		<relatedgames/>
+	</game>
+	<game id="17355672" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Purple/Rosetta/Rebel/17355672.jpg
+		</thumbnail>
+		<title>Smash Power Earth</title>
+		<creator>Purple Rosetta Rebel</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

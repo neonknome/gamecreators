@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10953653" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Savage/Caroline/Fizz/10953653.jpg
+		</thumbnail>
+		<title>Mega Adventure Alien</title>
+		<creator>Savage Caroline Fizz</creator>
+		<relatedgames/>
+	</game>
+	<game id="17336642" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quaint/Freddy/Oddball/17336642.jpg
+		</thumbnail>
+		<title>Universe Pulse Vilgax</title>
+		<creator>Quaint Freddy Oddball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935790" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reckless/Arthur/Fossil/10935790.jpg
+		</thumbnail>
+		<title>Escape Ambush Space</title>
+		<creator>Reckless Arthur Fossil</creator>
+		<relatedgames/>
+	</game>
+	<game id="17260921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ultimate/Rocky/Flamingo/17260921.jpg
+		</thumbnail>
+		<title>Spark Titan Siege</title>
+		<creator>Ultimate Rocky Flamingo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10068663" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Alien/Isaiah/Thud/10068663.jpg
+		</thumbnail>
+		<title>Alien Adventure Ambush</title>
+		<creator>Alien Isaiah Thud</creator>
+		<relatedgames/>
+	</game>
+	<game id="17325051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cute/Rufus/Droid/17325051.jpg
+		</thumbnail>
+		<title>Smash Power Techno</title>
+		<creator>Cute Rufus Droid</creator>
+		<relatedgames/>
+	</game>
+	<game id="16871294" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Golden/Levi/Twilight/16871294.jpg
+		</thumbnail>
+		<title>Ultimate Force Attack</title>
+		<creator>Golden Levi Twilight</creator>
+		<relatedgames/>
+	</game>
+	<game id="17370247" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radical/Ed/Chaos/17370247.jpg
+		</thumbnail>
+		<title>Terraspin Energy Rush</title>
+		<creator>Radical Ed Chaos</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Ed/Squawk/10923821.jpg
+		</thumbnail>
+		<title>Swampfire Assault Vilgax</title>
+		<creator>Alien Ed Squawk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17326053" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Curious/Carter/Hornet/17326053.jpg
+		</thumbnail>
+		<title>Ultimate Waterhazard Whirlwind</title>
+		<creator>Curious Carter Hornet</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

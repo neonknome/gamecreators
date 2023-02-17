@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17333051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Ricardo/Tiger/17333051.jpg
+		</thumbnail>
+		<title>Chill Dark Sonic</title>
+		<creator>Daring Ricardo Tiger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10068757" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Green/Andy/Tusk/10068757.jpg
+		</thumbnail>
+		<title>Ben Alien Force</title>
+		<creator>Green Andy Tusk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927951" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Feisty/Pearl/Hambone/10927951.jpg
+		</thumbnail>
+		<title>Turbo Alien Adventure</title>
+		<creator>Feisty Pearl Hambone</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933122" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Handsome/Breanna/Aurora/10933122.jpg
+		</thumbnail>
+		<title>Rock Space Fire</title>
+		<creator>Handsome Breanna Aurora</creator>
+		<relatedgames/>
+	</game>
+	<game id="16875579" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spirited/Raymond/Moonbeam/16875579.jpg
+		</thumbnail>
+		<title>Mega Shadow Alien</title>
+		<creator>Spirited Raymond Moonbeam</creator>
+		<relatedgames/>
+	</game>
+	<game id="17281265" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Amazing/Alvin/Thing/17281265.jpg
+		</thumbnail>
+		<title>Warrior Spike Mega</title>
+		<creator>Amazing Alvin Thing</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931869" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Rowdy/Trevor/Glop/10931869.jpg
+		</thumbnail>
+		<title>Shadow Patrol Attack</title>
+		<creator>Rowdy Trevor Glop</creator>
+		<relatedgames/>
+	</game>
+	<game id="10043882" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fearsome/Jacob/Crumpet/10043882.jpg
+		</thumbnail>
+		<title>Gear Space Rock</title>
+		<creator>Fearsome Jacob Crumpet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17318169" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Athletic/Jordan/Mustard/17318169.jpg
+		</thumbnail>
+		<title>Energy Escape Challenge</title>
+		<creator>Athletic Jordan Mustard</creator>
+		<relatedgames/>
+	</game>
+	<game id="17582460" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grubby/Jan/Gorilla/17582460.jpg
+		</thumbnail>
+		<title>Dark Adventure Battle</title>
+		<creator>Grubby Jan Gorilla</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

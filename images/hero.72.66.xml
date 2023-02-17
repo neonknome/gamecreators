@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16871238" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Aerobic/Larry/Mango/16871238.jpg
+		</thumbnail>
+		<title>Target Robot Fire</title>
+		<creator>Aerobic Larry Mango</creator>
+		<relatedgames/>
+	</game>
+	<game id="10057344" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Crispy/Michael/Dynamite/10057344.jpg
+		</thumbnail>
+		<title>Ultimate Fire Force</title>
+		<creator>Crispy Michael Dynamite</creator>
+		<relatedgames/>
+	</game>
+	<game id="17316341" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Rich/Sunshine/17316341.jpg
+		</thumbnail>
+		<title>Galaxy Danger Challenge</title>
+		<creator>Queen Rich Sunshine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10940027" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hectic/Matt/Bingo/10940027.jpg
+		</thumbnail>
+		<title>Streak Warp Rumble</title>
+		<creator>Hectic Matt Bingo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17418779" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Horrid/Wilford/Rhombus/17418779.jpg
+		</thumbnail>
+		<title>Magno Chase Assault</title>
+		<creator>Horrid Wilford Rhombus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933066" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Powerful/Juan/Eggplant/10933066.jpg
+		</thumbnail>
+		<title>Slam Rush Laser</title>
+		<creator>Powerful Juan Eggplant</creator>
+		<relatedgames/>
+	</game>
+	<game id="17331941" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Subtle/Lancelot/Ricochet/17331941.jpg
+		</thumbnail>
+		<title>Rocket Charge Blaster</title>
+		<creator>Subtle Lancelot Ricochet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404209" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Luke/Stampede/17404209.jpg
+		</thumbnail>
+		<title>Pulse Adventure Shadow</title>
+		<creator>Zany Luke Stampede</creator>
+		<relatedgames/>
+	</game>
+	<game id="17260364" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colonel/Danny/Droid/17260364.jpg
+		</thumbnail>
+		<title>Adventure Power Pursuit</title>
+		<creator>Colonel Danny Droid</creator>
+		<relatedgames/>
+	</game>
+	<game id="17257047" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Faith/Camel/17257047.jpg
+		</thumbnail>
+		<title>Adventure Adventure Metal</title>
+		<creator>Barbaric Faith Camel</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

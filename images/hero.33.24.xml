@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10655860" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hideous/Donald/Popcorn/10655860.jpg
+		</thumbnail>
+		<title>Ultra Plumber Battle</title>
+		<creator>Hideous Donald Popcorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="10917011" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stout/Wilbur/Oddball/10917011.jpg
+		</thumbnail>
+		<title>Fire Alien Sonic</title>
+		<creator>Stout Wilbur Oddball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922511" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cheerful/Morgan/Charger/10922511.jpg
+		</thumbnail>
+		<title>Space Ultra Plumber</title>
+		<creator>Cheerful Morgan Charger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924298" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awful/Bernard/Cumulus/10924298.jpg
+		</thumbnail>
+		<title>Rampage Power Hero</title>
+		<creator>Awful Bernard Cumulus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17553979" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Heroic/Gavin/Fury/17553979.jpg
+		</thumbnail>
+		<title>Adventure Plumber Adventure</title>
+		<creator>Heroic Gavin Fury</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933949" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ornery/Leah/Chutney/10933949.jpg
+		</thumbnail>
+		<title>Space Animo Iron</title>
+		<creator>Ornery Leah Chutney</creator>
+		<relatedgames/>
+	</game>
+	<game id="17256324" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crispy/Olivia/Lime/17256324.jpg
+		</thumbnail>
+		<title>Hyper Invasion Iron</title>
+		<creator>Crispy Olivia Lime</creator>
+		<relatedgames/>
+	</game>
+	<game id="17411125" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Extreme/Chuck/Pirate/17411125.jpg
+		</thumbnail>
+		<title>Whirlwind Chase Big</title>
+		<creator>Extreme Chuck Pirate</creator>
+		<relatedgames/>
+	</game>
+	<game id="10949368" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Will/Safari/10949368.jpg
+		</thumbnail>
+		<title>Lightning Shock Thunder</title>
+		<creator>Daring Will Safari</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951422" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Green/Grace/Manatee/10951422.jpg
+		</thumbnail>
+		<title>Adventure Alien Droid</title>
+		<creator>Green Grace Manatee</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

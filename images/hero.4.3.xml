@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17404245" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shy/Buford/Reptile/17404245.jpg
+		</thumbnail>
+		<title>Humungousaur Adventure Adventure</title>
+		<creator>Shy Buford Reptile</creator>
+		<relatedgames/>
+	</game>
+	<game id="17275942" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Timmy/Yak/17275942.jpg
+		</thumbnail>
+		<title>Ben Techno Warrior</title>
+		<creator>Zany Timmy Yak</creator>
+		<relatedgames/>
+	</game>
+	<game id="17227748" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baron/Benjamin/Twilight/17227748.jpg
+		</thumbnail>
+		<title>Whirlwind Giga Chill</title>
+		<creator>Baron Benjamin Twilight</creator>
+		<relatedgames/>
+	</game>
+	<game id="17346658" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Electric/Bailey/Beast/17346658.jpg
+		</thumbnail>
+		<title>Champion Stone Slam</title>
+		<creator>Electric Bailey Beast</creator>
+		<relatedgames/>
+	</game>
+	<game id="17281055" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Generous/Lillian/Doodle/17281055.jpg
+		</thumbnail>
+		<title>Rescue Assault Ambush</title>
+		<creator>Generous Lillian Doodle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17560703" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Volcanic/Veronica/Splat/17560703.jpg
+		</thumbnail>
+		<title>Mega Rocket Chase</title>
+		<creator>Volcanic Veronica Splat</creator>
+		<relatedgames/>
+	</game>
+	<game id="17223549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cackling/Cory/Avator/17223549.jpg
+		</thumbnail>
+		<title>Universe Energy Power</title>
+		<creator>Cackling Cory Avator</creator>
+		<relatedgames/>
+	</game>
+	<game id="17370479" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Diagonal/Leo/Martian/17370479.jpg
+		</thumbnail>
+		<title>Alien Blaster Hero</title>
+		<creator>Diagonal Leo Martian</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931159" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Eddie/Fiddle/10931159.jpg
+		</thumbnail>
+		<title>Alien Ambush Defense</title>
+		<creator>Chilly Eddie Fiddle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17296193" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Stanley/Quake/17296193.jpg
+		</thumbnail>
+		<title>Rocket Danger Nitro</title>
+		<creator>Flying Stanley Quake</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

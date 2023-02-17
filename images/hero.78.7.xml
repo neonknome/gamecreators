@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17323452" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Lawrence/Eggplant/17323452.jpg
+		</thumbnail>
+		<title>Ultimate Cannonbolt Cannonbolt</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919825" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Bruce/Ooze/10919825.jpg
+		</thumbnail>
+		<title>Space Turbo Solar</title>
+		<creator>Red Bruce Ooze</creator>
+		<relatedgames/>
+	</game>
+	<game id="17584078" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Unusual/Krystal/Jupiter/17584078.jpg
+		</thumbnail>
+		<title>Rustbucket Pursuit Rampage</title>
+		<creator>Unusual Krystal Jupiter</creator>
+		<relatedgames/>
+	</game>
+	<game id="17011900" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Expert/Hailey/Knight/17011900.jpg
+		</thumbnail>
+		<title>Plumber Stone Pulse</title>
+		<creator>Expert Hailey Knight</creator>
+		<relatedgames/>
+	</game>
+	<game id="17281265" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Amazing/Alvin/Thing/17281265.jpg
+		</thumbnail>
+		<title>Warrior Spike Mega</title>
+		<creator>Amazing Alvin Thing</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930555" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Drew/Jalapeno/10930555.jpg
+		</thumbnail>
+		<title>Escape Alien Ambush</title>
+		<creator>Daring Drew Jalapeno</creator>
+		<relatedgames/>
+	</game>
+	<game id="10946927" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grand/Mariah/Flipper/10946927.jpg
+		</thumbnail>
+		<title>Atomic Assault Mission</title>
+		<creator>Grand Mariah Flipper</creator>
+		<relatedgames/>
+	</game>
+	<game id="16887190" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tall/Drew/Dragoon/16887190.jpg
+		</thumbnail>
+		<title>Doom Danger Light</title>
+		<creator>Tall Drew Dragoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17504942" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Crystal/Tornado/17504942.jpg
+		</thumbnail>
+		<title>Alien Alien Alien</title>
+		<creator>Barbaric Crystal Tornado</creator>
+		<relatedgames/>
+	</game>
+	<game id="17550925" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Horrid/Angel/Venus/17550925.jpg
+		</thumbnail>
+		<title>Rescue Nano Echo</title>
+		<creator>Horrid Angel Venus</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

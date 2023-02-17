@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10045372" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Obvious/Shane/Zigzag/10045372.jpg
+		</thumbnail>
+		<title>Ultra Swampfire Rush</title>
+		<creator>Obvious Shane Zigzag</creator>
+		<relatedgames/>
+	</game>
+	<game id="16939364" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Splendid/Simon/Sardine/16939364.jpg
+		</thumbnail>
+		<title>Rush Rush Rush</title>
+		<creator>Splendid Simon Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="17194153" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Capable/Gregory/Anvil/17194153.jpg
+		</thumbnail>
+		<title>Techno Sonic Hyper</title>
+		<creator>Capable Gregory Anvil</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strong/Orlando/Buckaroo/17404821.jpg
+		</thumbnail>
+		<title>Space Universe Swampfire</title>
+		<creator>Strong Orlando Buckaroo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952984" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sloppy/Connor/Fondue/10952984.jpg
+		</thumbnail>
+		<title>Breaker Crusher Star</title>
+		<creator>Sloppy Connor Fondue</creator>
+		<relatedgames/>
+	</game>
+	<game id="17127565" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Enormous/William/Witch/17127565.jpg
+		</thumbnail>
+		<title>Ultra Thunder Titan</title>
+		<creator>Enormous William Witch</creator>
+		<relatedgames/>
+	</game>
+	<game id="17326053" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Curious/Carter/Hornet/17326053.jpg
+		</thumbnail>
+		<title>Ultimate Waterhazard Whirlwind</title>
+		<creator>Curious Carter Hornet</creator>
+		<relatedgames/>
+	</game>
+	<game id="16982684" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Glorious/Rosemary/Sparkle/16982684.jpg
+		</thumbnail>
+		<title>Ambush Spike Plasma</title>
+		<creator>Glorious Rosemary Sparkle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17415520" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Negative/Isaac/Grouch/17415520.jpg
+		</thumbnail>
+		<title>Magno Ultimate Hex</title>
+		<creator>Negative Isaac Grouch</creator>
+		<relatedgames/>
+	</game>
+	<game id="17402735" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sleepy/Destiny/Apple/17402735.jpg
+		</thumbnail>
+		<title>Battle Iron Defense</title>
+		<creator>Sleepy Destiny Apple</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

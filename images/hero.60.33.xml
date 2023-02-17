@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16999418" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hyper/Rex/Minotaur/16999418.jpg
+		</thumbnail>
+		<title>Nano Titan Force</title>
+		<creator>Hyper Rex Minotaur</creator>
+		<relatedgames/>
+	</game>
+	<game id="10039390" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Glorious/Gulliver/Gorilla/10039390.jpg
+		</thumbnail>
+		<title>Solar Storm Hero</title>
+		<creator>Glorious Gulliver Gorilla</creator>
+		<relatedgames/>
+	</game>
+	<game id="17285330" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Negative/Andy/Atlas/17285330.jpg
+		</thumbnail>
+		<title>Fire Burst Attack</title>
+		<creator>Negative Andy Atlas</creator>
+		<relatedgames/>
+	</game>
+	<game id="16947780" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sleek/CJ/Dolphin/16947780.jpg
+		</thumbnail>
+		<title>Mega Chase Invasion</title>
+		<creator>Sleek CJ Dolphin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10917007" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Blue/Haley/Bullfrog/10917007.jpg
+		</thumbnail>
+		<title>Laser Turbo Fusion</title>
+		<creator>Blue Haley Bullfrog</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055917" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Southern/Rex/Chipmunk/10055917.jpg
+		</thumbnail>
+		<title>Assault Hex Thunder</title>
+		<creator>Southern Rex Chipmunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17540459" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Agile/Drake/Glop/17540459.jpg
+		</thumbnail>
+		<title>Rock Racer Force</title>
+		<creator>Agile Drake Glop</creator>
+		<relatedgames/>
+	</game>
+	<game id="10065549" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Brave/Tabitha/Cupcake/10065549.jpg
+		</thumbnail>
+		<title>Alien Swampfire Star</title>
+		<creator>Brave Tabitha Cupcake</creator>
+		<relatedgames/>
+	</game>
+	<game id="17407097" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Extreme/Meghan/Dragoon/17407097.jpg
+		</thumbnail>
+		<title>Rampage Thunder Doom</title>
+		<creator>Extreme Meghan Dragoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17301462" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ironic/Isaac/Deadbolt/17301462.jpg
+		</thumbnail>
+		<title>Thunder Ultra Alien</title>
+		<creator>Ironic Isaac Deadbolt</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

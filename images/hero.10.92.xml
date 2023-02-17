@@ -1,0 +1,82 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17323936" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Enormous/Lucius/Anvil/17323936.jpg
+		</thumbnail>
+		<title>Adventure Chase Warp</title>
+		<creator>Enormous Lucius Anvil</creator>
+		<relatedgames/>
+	</game>
+	<game id="442251" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="10/26/2010">
+		<thumbnail>
+		</thumbnail>
+		<title>Battle Beast Waterhazard</title>
+		<creator>aisflash</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927171" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crunchy/Benjamin/Blammo/10927171.jpg
+		</thumbnail>
+		<title>Siege Nano Earth</title>
+		<creator>Crunchy Benjamin Blammo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952590" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gloomy/Harry/Bolt/10952590.jpg
+		</thumbnail>
+		<title>Nitro Giga Quake</title>
+		<creator>Gloomy Harry Bolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="17379329" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quirky/Aiden/Moonbeam/17379329.jpg
+		</thumbnail>
+		<title>Iron Iron Gear</title>
+		<creator>Quirky Aiden Moonbeam</creator>
+		<relatedgames/>
+	</game>
+	<game id="17028218" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Solid/Shawn/Oyster/17028218.jpg
+		</thumbnail>
+		<title>Jetray Rock Animo</title>
+		<creator>Solid Shawn Oyster</creator>
+		<relatedgames/>
+	</game>
+	<game id="17179810" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Extreme/Alan/Avocado/17179810.jpg
+		</thumbnail>
+		<title>Cosmic Beast Quake</title>
+		<creator>Extreme Alan Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="17332917" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Super/Matt/Dodo/17332917.jpg
+		</thumbnail>
+		<title>Cannonbolt Iron Escape</title>
+		<creator>Super Matt Dodo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17345037" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Arthur/Cyborg/17345037.jpg
+		</thumbnail>
+		<title>Brainstorm Lightning Charge</title>
+		<creator>Colossal Arthur Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919003" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frosty/Scott/Hambone/10919003.jpg
+		</thumbnail>
+		<title>Danger Plasma Battle</title>
+		<creator>Frosty Scott Hambone</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

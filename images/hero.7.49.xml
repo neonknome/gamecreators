@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10063302" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Awful/Caleb/Bolt/10063302.jpg
+		</thumbnail>
+		<title>Alien Space Rocket</title>
+		<creator>Awful Caleb Bolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="17377839" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Able/Michelle/Splat/17377839.jpg
+		</thumbnail>
+		<title>Adventure Atomic Champion</title>
+		<creator>Able Michelle Splat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951563" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elegant/Marissa/Tornado/10951563.jpg
+		</thumbnail>
+		<title>Cosmic Stone Stone</title>
+		<creator>Elegant Marissa Tornado</creator>
+		<relatedgames/>
+	</game>
+	<game id="10948824" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humble/Tabitha/Mahogany/10948824.jpg
+		</thumbnail>
+		<title>Adventure Mega Sonic</title>
+		<creator>Humble Tabitha Mahogany</creator>
+		<relatedgames/>
+	</game>
+	<game id="17282494" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Superior/Jonas/Jamboree/17282494.jpg
+		</thumbnail>
+		<title>Pursuit Shadow Fire</title>
+		<creator>Superior Jonas Jamboree</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921330" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Modest/Shawn/Doodle/10921330.jpg
+		</thumbnail>
+		<title>Steel Breaker Earth</title>
+		<creator>Modest Shawn Doodle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17359735" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Silly/Franklin/Foghorn/17359735.jpg
+		</thumbnail>
+		<title>Power Mega Techno</title>
+		<creator>Silly Franklin Foghorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952750" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zippy/Destiny/Dragon/10952750.jpg
+		</thumbnail>
+		<title>Warp Energy Star</title>
+		<creator>Zippy Destiny Dragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17551194" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Pete/Shovel/17551194.jpg
+		</thumbnail>
+		<title>Nano Adventure Omniverse</title>
+		<creator>Colossal Pete Shovel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17395502" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Titanic/Hercules/Steel/17395502.jpg
+		</thumbnail>
+		<title>Gear Iron Hero</title>
+		<creator>Titanic Hercules Steel</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

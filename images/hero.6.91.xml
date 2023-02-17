@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10944185" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Charming/Erin/Steam/10944185.jpg
+		</thumbnail>
+		<title>Spark Fury Escape</title>
+		<creator>Charming Erin Steam</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930929" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awesome/Robin/Nova/10930929.jpg
+		</thumbnail>
+		<title>Hyper Nova Attack</title>
+		<creator>Awesome Robin Nova</creator>
+		<relatedgames/>
+	</game>
+	<game id="17364488" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hectic/Taylor/Gazebo/17364488.jpg
+		</thumbnail>
+		<title>Ultimate Dark Fusion</title>
+		<creator>Hectic Taylor Gazebo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17265238" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Orange/Olivia/Maestro/17265238.jpg
+		</thumbnail>
+		<title>Gear Vilgax Burst</title>
+		<creator>Orange Olivia Maestro</creator>
+		<relatedgames/>
+	</game>
+	<game id="10043501" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Wily/Jackson/Umbrella/10043501.jpg
+		</thumbnail>
+		<title>Alien Blaster Adventure</title>
+		<creator>Wily Jackson Umbrella</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933360" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pretty/Clyde/Minotaur/10933360.jpg
+		</thumbnail>
+		<title>Charge Slam Spike</title>
+		<creator>Pretty Clyde Minotaur</creator>
+		<relatedgames/>
+	</game>
+	<game id="17237653" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sunny/Lloyd/Fox/17237653.jpg
+		</thumbnail>
+		<title>Adventure Fire Streak</title>
+		<creator>Sunny Lloyd Fox</creator>
+		<relatedgames/>
+	</game>
+	<game id="17228049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Scott/Snake/17228049.jpg
+		</thumbnail>
+		<title>Iron Nano Alien</title>
+		<creator>Zany Scott Snake</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923111" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colorful/Cody/Crash/10923111.jpg
+		</thumbnail>
+		<title>Shock Light Light</title>
+		<creator>Colorful Cody Crash</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038852" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Magnetic/Alan/Blubber/10038852.jpg
+		</thumbnail>
+		<title>Shock Spark Invasion</title>
+		<creator>Magnetic Alan Blubber</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

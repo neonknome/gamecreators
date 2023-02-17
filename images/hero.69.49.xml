@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17552128" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Steven/Buffalo/17552128.jpg
+		</thumbnail>
+		<title>Humungousaur Dark Techno</title>
+		<creator>Steven Buffalo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925264" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Mike/Blubber/10925264.jpg
+		</thumbnail>
+		<title>Fire Ben Nitro</title>
+		<creator>Dazzling Mike Blubber</creator>
+		<relatedgames/>
+	</game>
+	<game id="17423485" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wily/Wes/Parallax/17423485.jpg
+		</thumbnail>
+		<title>Thunder Ultra Rampage</title>
+		<creator>Wily Wes Parallax</creator>
+		<relatedgames/>
+	</game>
+	<game id="10042851" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Chaotic/Rob/Pinwheel/10042851.jpg
+		</thumbnail>
+		<title>Ultimate Earth Star</title>
+		<creator>Chaotic Rob Pinwheel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10793389" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fizzy/Irwin/Mustang/10793389.jpg
+		</thumbnail>
+		<title>Blaster Adventure Dark</title>
+		<creator>Fizzy Irwin Mustang</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930206" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loony/James/Kangaroo/10930206.jpg
+		</thumbnail>
+		<title>Pursuit Star Adventure</title>
+		<creator>Loony James Kangaroo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10058997" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Orange/Isaac/Spider/10058997.jpg
+		</thumbnail>
+		<title>Mission Drone Invasion</title>
+		<creator>Orange Isaac Spider</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921643" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magnetic/Ernie/Rumble/10921643.jpg
+		</thumbnail>
+		<title>Rampage Defense Galaxy</title>
+		<creator>Magnetic Ernie Rumble</creator>
+		<relatedgames/>
+	</game>
+	<game id="10780319" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wild/Richard/Pontoon/10780319.jpg
+		</thumbnail>
+		<title>Galaxy Solar Ambush</title>
+		<creator>Wild Richard Pontoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17360082" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Drowzy/Benny/Droid/17360082.jpg
+		</thumbnail>
+		<title>Clash Smash Fury</title>
+		<creator>Drowzy Benny Droid</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

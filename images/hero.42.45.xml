@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10943083" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Elijah/Fossil/10943083.jpg
+		</thumbnail>
+		<title>Ultimate Shock Magno</title>
+		<creator>Alien Elijah Fossil</creator>
+		<relatedgames/>
+	</game>
+	<game id="17328767" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Curious/Steven/Catapult/17328767.jpg
+		</thumbnail>
+		<title>Adventure Plumber Adventure</title>
+		<creator>Curious Steven Catapult</creator>
+		<relatedgames/>
+	</game>
+	<game id="16983732" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Golden/Ben/Yak/16983732.jpg
+		</thumbnail>
+		<title>Streak Adventure Lightning</title>
+		<creator>Golden Ben Yak</creator>
+		<relatedgames/>
+	</game>
+	<game id="17574610" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Negative/Kelly/Samurai/17574610.jpg
+		</thumbnail>
+		<title>Racer Defense Adventure</title>
+		<creator>Negative Kelly Samurai</creator>
+		<relatedgames/>
+	</game>
+	<game id="17182146" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Famous/Karl/Fossil/17182146.jpg
+		</thumbnail>
+		<title>Adventure Rush Light</title>
+		<creator>Famous Karl Fossil</creator>
+		<relatedgames/>
+	</game>
+	<game id="17358771" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Peppy/Elmer/Wyvern/17358771.jpg
+		</thumbnail>
+		<title>Burst Whirlwind Vilgax</title>
+		<creator>Peppy Elmer Wyvern</creator>
+		<relatedgames/>
+	</game>
+	<game id="10932732" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Majestic/Logan/Obelisk/10932732.jpg
+		</thumbnail>
+		<title>Chase Spark Adventure</title>
+		<creator>Majestic Logan Obelisk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930210" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Witty/Bert/Parsec/10930210.jpg
+		</thumbnail>
+		<title>Rush Turbo Assault</title>
+		<creator>Witty Bert Parsec</creator>
+		<relatedgames/>
+	</game>
+	<game id="17241048" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Princess/George/Turbo/17241048.jpg
+		</thumbnail>
+		<title>Rumble Burst Doom</title>
+		<creator>Princess George Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920801" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dynamic/Felix/Gizmo/10920801.jpg
+		</thumbnail>
+		<title>Atomic Cosmic Fusion</title>
+		<creator>Dynamic Felix Gizmo</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

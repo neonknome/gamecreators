@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10930717" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pretty/Isabel/Mallard/10930717.jpg
+		</thumbnail>
+		<title>Crusher Ben Earth</title>
+		<creator>Pretty Isabel Mallard</creator>
+		<relatedgames/>
+	</game>
+	<game id="17281287" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Super/Alice/Knight/17281287.jpg
+		</thumbnail>
+		<title>Warrior Swampfire Storm</title>
+		<creator>Super Alice Knight</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404121" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dubious/Chester/Fez/17404121.jpg
+		</thumbnail>
+		<title>Robot Ambush Rumble</title>
+		<creator>Dubious Chester Fez</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921995" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colorful/Leslie/Enigma/10921995.jpg
+		</thumbnail>
+		<title>Iron Fury Mission</title>
+		<creator>Colorful Leslie Enigma</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925341" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frosty/Adam/Rhino/10925341.jpg
+		</thumbnail>
+		<title>Galaxy Adventure Battle</title>
+		<creator>Frosty Adam Rhino</creator>
+		<relatedgames/>
+	</game>
+	<game id="17403542" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magnetic/Crystal/Oyster/17403542.jpg
+		</thumbnail>
+		<title>Ultra Nitro Nano</title>
+		<creator>Magnetic Crystal Oyster</creator>
+		<relatedgames/>
+	</game>
+	<game id="17257447" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Positive/Jill/Orca/17257447.jpg
+		</thumbnail>
+		<title>Breaker Racer Razor</title>
+		<creator>Positive Jill Orca</creator>
+		<relatedgames/>
+	</game>
+	<game id="17373112" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shiny/Roy/Insect/17373112.jpg
+		</thumbnail>
+		<title>Cannonbolt Vilgax Adventure</title>
+		<creator>Shiny Roy Insect</creator>
+		<relatedgames/>
+	</game>
+	<game id="16870844" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eerie/Ava/Centaur/16870844.jpg
+		</thumbnail>
+		<title>Iron Adventure Rescue</title>
+		<creator>Eerie Ava Centaur</creator>
+		<relatedgames/>
+	</game>
+	<game id="16997651" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Speedy/Perseus/Thud/16997651.jpg
+		</thumbnail>
+		<title>Warrior Waterhazard Hero</title>
+		<creator>Speedy Perseus Thud</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16981505" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Enormous/Bella/Bucket/16981505.jpg
+		</thumbnail>
+		<title>Adventure Lightning Challenge</title>
+		<creator>Enormous Bella Bucket</creator>
+		<relatedgames/>
+	</game>
+	<game id="17312104" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hyper/Ariana/Calypso/17312104.jpg
+		</thumbnail>
+		<title>Blaster Spark Alien</title>
+		<creator>Hyper Ariana Calypso</creator>
+		<relatedgames/>
+	</game>
+	<game id="17320483" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Talented/Adam/Tiger/17320483.jpg
+		</thumbnail>
+		<title>Adventure Alien Ambush</title>
+		<creator>Talented Adam Tiger</creator>
+		<relatedgames/>
+	</game>
+	<game id="16904399" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Delicate/Bethany/Talon/16904399.jpg
+		</thumbnail>
+		<title>Rush Shock Echo</title>
+		<creator>Delicate Bethany Talon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919136" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grouchy/Pearl/Rhino/10919136.jpg
+		</thumbnail>
+		<title>Animo Alien Steel</title>
+		<creator>Grouchy Pearl Rhino</creator>
+		<relatedgames/>
+	</game>
+	<game id="17303953" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Crystal/Virtuoso/17303953.jpg
+		</thumbnail>
+		<title>Escape Plasma Cosmic</title>
+		<creator>Flying Crystal Virtuoso</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933395" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Robotic/Mandy/Kudzu/10933395.jpg
+		</thumbnail>
+		<title>Ambush Patrol Nova</title>
+		<creator>Robotic Mandy Kudzu</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924555" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artistic/Jose/Blob/10924555.jpg
+		</thumbnail>
+		<title>Swampfire Beast Spike</title>
+		<creator>Artistic Jose Blob</creator>
+		<relatedgames/>
+	</game>
+	<game id="17389200" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scruffy/Drake/Enigma/17389200.jpg
+		</thumbnail>
+		<title>Sonic Adventure Adventure</title>
+		<creator>Scruffy Drake Enigma</creator>
+		<relatedgames/>
+	</game>
+	<game id="10945050" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awesome/Clyde/Howler/10945050.jpg
+		</thumbnail>
+		<title>Fusion Burst Galaxy</title>
+		<creator>Awesome Clyde Howler</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

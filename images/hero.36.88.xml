@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10916758" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Purple/Angel/Cyborg/10916758.jpg
+		</thumbnail>
+		<title>Nitro Plasma Storm</title>
+		<creator>Purple Angel Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="17306187" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eastern/Brady/Clone/17306187.jpg
+		</thumbnail>
+		<title>Hex Techno Nitro</title>
+		<creator>Eastern Brady Clone</creator>
+		<relatedgames/>
+	</game>
+	<game id="10063529" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cosmic/Oscar/Orca/10063529.jpg
+		</thumbnail>
+		<title>Rescue Ultra Universe</title>
+		<creator>Cosmic Oscar Orca</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926490" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fuzzy/Trevor/Zombie/10926490.jpg
+		</thumbnail>
+		<title>Titan Assault Energy</title>
+		<creator>Fuzzy Trevor Zombie</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953516" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proper/Goliath/Wombat/10953516.jpg
+		</thumbnail>
+		<title>Rampage Breaker Pulse</title>
+		<creator>Proper Goliath Wombat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922483" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sincere/Victor/Boing/10922483.jpg
+		</thumbnail>
+		<title>Fury Power Patrol</title>
+		<creator>Sincere Victor Boing</creator>
+		<relatedgames/>
+	</game>
+	<game id="17554074" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eloquent/Dillon/Bayou/17554074.jpg
+		</thumbnail>
+		<title>Gear Magno Droid</title>
+		<creator>Eloquent Dillon Bayou</creator>
+		<relatedgames/>
+	</game>
+	<game id="17407634" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Creative/Yorick/Worm/17407634.jpg
+		</thumbnail>
+		<title>Rampage Nitro Burst</title>
+		<creator>Creative Yorick Worm</creator>
+		<relatedgames/>
+	</game>
+	<game id="17376217" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gigantic/Derek/Pelican/17376217.jpg
+		</thumbnail>
+		<title>Ambush Nova Adventure</title>
+		<creator>Gigantic Derek Pelican</creator>
+		<relatedgames/>
+	</game>
+	<game id="17220625" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Carefree/Penelope/Banshee/17220625.jpg
+		</thumbnail>
+		<title>Clash Universe Giga</title>
+		<creator>Carefree Penelope Banshee</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

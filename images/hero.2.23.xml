@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10921591" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Majestic/Mario/Sawtooth/10921591.jpg
+		</thumbnail>
+		<title>Dark Adventure Drone</title>
+		<creator>Majestic Mario Sawtooth</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404129" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shady/Perseus/Comet/17404129.jpg
+		</thumbnail>
+		<title>Ultra Energy Nano</title>
+		<creator>Shady Perseus Comet</creator>
+		<relatedgames/>
+	</game>
+	<game id="16837718" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Witty/Dean/Giblets/16837718.jpg
+		</thumbnail>
+		<title>Nitro Mission Atomic</title>
+		<creator>Witty Dean Giblets</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952807" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dynamic/Larry/Eggplant/10952807.jpg
+		</thumbnail>
+		<title>Battle Turbo Shadow</title>
+		<creator>Dynamic Larry Eggplant</creator>
+		<relatedgames/>
+	</game>
+	<game id="16900941" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Comical/Ariana/Brine/16900941.jpg
+		</thumbnail>
+		<title>Rocket Quake Smash</title>
+		<creator>Comical Ariana Brine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925842" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frugal/Sean/Volcano/10925842.jpg
+		</thumbnail>
+		<title>Swampfire Doom Adventure</title>
+		<creator>Frugal Sean Volcano</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Majestic/Adam/Bolt/10918878.jpg
+		</thumbnail>
+		<title>Blaster Ambush Assault</title>
+		<creator>Majestic Adam Bolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953605" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scurvy/Edward/Monster/10953605.jpg
+		</thumbnail>
+		<title>Rumble Shadow Techno</title>
+		<creator>Scurvy Edward Monster</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930929" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awesome/Robin/Nova/10930929.jpg
+		</thumbnail>
+		<title>Hyper Nova Attack</title>
+		<creator>Awesome Robin Nova</creator>
+		<relatedgames/>
+	</game>
+	<game id="17326435" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Silent/Gus/Carousel/17326435.jpg
+		</thumbnail>
+		<title>Spark Patrol Challenge</title>
+		<creator>Silent Gus Carousel</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

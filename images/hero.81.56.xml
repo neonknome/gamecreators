@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10050225" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fierce/Luis/Doodle/10050225.jpg
+		</thumbnail>
+		<title>Danger Hex Universe</title>
+		<creator>Fierce Luis Doodle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17142675" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/King/Thor/Gulch/17142675.jpg
+		</thumbnail>
+		<title>Invasion Assault Clash</title>
+		<creator>King Thor Gulch</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952683" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Megan/Octopus/10952683.jpg
+		</thumbnail>
+		<title>Charge Space Universe</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17219398" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Lucky/Dennis/Penguin/17219398.jpg
+		</thumbnail>
+		<title>Power Cosmic Lightning</title>
+		<creator>Lucky Dennis Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925625" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Royal/Miguel/Sprout/10925625.jpg
+		</thumbnail>
+		<title>Fusion Nova Pursuit</title>
+		<creator>Royal Miguel Sprout</creator>
+		<relatedgames/>
+	</game>
+	<game id="10929135" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wacky/Elijah/Scorpion/10929135.jpg
+		</thumbnail>
+		<title>Alien Sonic Power</title>
+		<creator>Wacky Elijah Scorpion</creator>
+		<relatedgames/>
+	</game>
+	<game id="17391876" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Doctor/Makayla/Atlas/17391876.jpg
+		</thumbnail>
+		<title>Breaker Warrior Star</title>
+		<creator>Doctor Makayla Atlas</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055468" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Chilly/Hank/Quack/10055468.jpg
+		</thumbnail>
+		<title>Assault Rampage Solar</title>
+		<creator>Chilly Hank Quack</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918059" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fragrant/Apollo/Ooze/10918059.jpg
+		</thumbnail>
+		<title>Alien Challenge Stone</title>
+		<creator>Fragrant Apollo Ooze</creator>
+		<relatedgames/>
+	</game>
+	<game id="10950440" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loyal/Becky/Fury/10950440.jpg
+		</thumbnail>
+		<title>Rocket Battle Beast</title>
+		<creator>Loyal Becky Fury</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

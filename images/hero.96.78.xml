@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17205541" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cute/Meghan/Jingles/17205541.jpg
+		</thumbnail>
+		<title>Danger Clash Attack</title>
+		<creator>Cute Meghan Jingles</creator>
+		<relatedgames/>
+	</game>
+	<game id="17335398" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Golden/Dominic/Giblets/17335398.jpg
+		</thumbnail>
+		<title>Danger Champion Thunder</title>
+		<creator>Golden Dominic Giblets</creator>
+		<relatedgames/>
+	</game>
+	<game id="16975781" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radiant/Robert/Paladin/16975781.jpg
+		</thumbnail>
+		<title>Adventure Spidermonkey Nitro</title>
+		<creator>Radiant Robert Paladin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931694" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Comical/Kelly/Baloney/10931694.jpg
+		</thumbnail>
+		<title>Pulse Nitro Ultra</title>
+		<creator>Comical Kelly Baloney</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953099" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Majestic/Minerva/Sphere/10953099.jpg
+		</thumbnail>
+		<title>Fire Rush Ultimate</title>
+		<creator>Majestic Minerva Sphere</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923431" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Bryan/Goofball/10923431.jpg
+		</thumbnail>
+		<title>Crusher Ambush Assault</title>
+		<creator>Humorous Bryan Goofball</creator>
+		<relatedgames/>
+	</game>
+	<game id="17358453" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Profound/Bernard/Scribble/17358453.jpg
+		</thumbnail>
+		<title>Shock Vilgax Droid</title>
+		<creator>Profound Bernard Scribble</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924276" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Surreal/Leonardo/Gargoyle/10924276.jpg
+		</thumbnail>
+		<title>Charge Dark Danger</title>
+		<creator>Surreal Leonardo Gargoyle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923562" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mumbling/Spencer/Stampede/10923562.jpg
+		</thumbnail>
+		<title>Razor Rustbucket Adventure</title>
+		<creator>Mumbling Spencer Stampede</creator>
+		<relatedgames/>
+	</game>
+	<game id="17377839" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Able/Michelle/Splat/17377839.jpg
+		</thumbnail>
+		<title>Adventure Atomic Champion</title>
+		<creator>Able Michelle Splat</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

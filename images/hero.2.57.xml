@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17356933" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sassy/Aaron/Baloney/17356933.jpg
+		</thumbnail>
+		<title>Spidermonkey Dark Target</title>
+		<creator>Sassy Aaron Baloney</creator>
+		<relatedgames/>
+	</game>
+	<game id="16977448" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Western/Cameron/Jigsaw/16977448.jpg
+		</thumbnail>
+		<title>Assault Humongousaur Laser</title>
+		<creator>Western Cameron Jigsaw</creator>
+		<relatedgames/>
+	</game>
+	<game id="10063245" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fierce/Shelby/Zigzag/10063245.jpg
+		</thumbnail>
+		<title>Shadow Invasion Shadow</title>
+		<creator>Fierce Shelby Zigzag</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038151" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dramatic/Nick/Porridge/10038151.jpg
+		</thumbnail>
+		<title>Ultra Doom Storm</title>
+		<creator>Dramatic Nick Porridge</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frantic/Chester/Walrus/10953549.jpg
+		</thumbnail>
+		<title>Chase Slam Alien</title>
+		<creator>Frantic Chester Walrus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916703" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Rugged/Bianca/Fiddle/10916703.jpg
+		</thumbnail>
+		<title>Razor Alien Shock</title>
+		<creator>Rugged Bianca Fiddle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17340152" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Icy/Ernest/Behemoth/17340152.jpg
+		</thumbnail>
+		<title>Fury Stone Shadow</title>
+		<creator>Icy Ernest Behemoth</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931089" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Puzzling/Gigi/Thunder/10931089.jpg
+		</thumbnail>
+		<title>Rustbucket Quake Magno</title>
+		<creator>Puzzling Gigi Thunder</creator>
+		<relatedgames/>
+	</game>
+	<game id="16887841" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nervous/Nathan/Bagpipe/16887841.jpg
+		</thumbnail>
+		<title>Laser Light Storm</title>
+		<creator>Nervous Nathan Bagpipe</creator>
+		<relatedgames/>
+	</game>
+	<game id="17369469" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Academic/Lauren/Spider/17369469.jpg
+		</thumbnail>
+		<title>Gear Giga Big</title>
+		<creator>Academic Lauren Spider</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

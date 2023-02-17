@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17326053" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Curious/Carter/Hornet/17326053.jpg
+		</thumbnail>
+		<title>Ultimate Waterhazard Whirlwind</title>
+		<creator>Curious Carter Hornet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17085481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Vibrant/Gabriel/Mahogany/17085481.jpg
+		</thumbnail>
+		<title>Nitro Mega Smash</title>
+		<creator>Vibrant Gabriel Mahogany</creator>
+		<relatedgames/>
+	</game>
+	<game id="10917704" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Trinity/Cobra/10917704.jpg
+		</thumbnail>
+		<title>Adventure Animo Assault</title>
+		<creator>Dashing Trinity Cobra</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953524" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grimy/Zeke/Monkey/10953524.jpg
+		</thumbnail>
+		<title>Ultimate Fury Force</title>
+		<creator>Grimy Zeke Monkey</creator>
+		<relatedgames/>
+	</game>
+	<game id="16928645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spectral/Angel/Fang/16928645.jpg
+		</thumbnail>
+		<title>Racer Adventure Storm</title>
+		<creator>Spectral Angel Fang</creator>
+		<relatedgames/>
+	</game>
+	<game id="10944254" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reliable/Bradley/Spumoni/10944254.jpg
+		</thumbnail>
+		<title>Alien Swampfire Assault</title>
+		<creator>Reliable Bradley Spumoni</creator>
+		<relatedgames/>
+	</game>
+	<game id="17071643" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Princess/George/Turbo/17071643.jpg
+		</thumbnail>
+		<title>Assault Gear Danger</title>
+		<creator>Princess George Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17323648" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Superior/Vincent/Biscuit/17323648.jpg
+		</thumbnail>
+		<title>Mission Chill Rocket</title>
+		<creator>Superior Vincent Biscuit</creator>
+		<relatedgames/>
+	</game>
+	<game id="17323622" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mumbling/Chuck/Techno/17323622.jpg
+		</thumbnail>
+		<title>Warp Storm Ben</title>
+		<creator>Mumbling Chuck Techno</creator>
+		<relatedgames/>
+	</game>
+	<game id="17105222" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Ulysses/Knight/17105222.jpg
+		</thumbnail>
+		<title>Plasma Energy Vilgax</title>
+		<creator>Colossal Ulysses Knight</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

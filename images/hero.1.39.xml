@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17408837" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cranky/Conrad/17408837.jpg
+		</thumbnail>
+		<title>Racer Siege Rock</title>
+		<creator>Cranky Conrad</creator>
+		<relatedgames/>
+	</game>
+	<game id="17191368" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hypnotic/Jayden/Marmoset/17191368.jpg
+		</thumbnail>
+		<title>Nova Power Adventure</title>
+		<creator>Hypnotic Jayden Marmoset</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918223" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Purple/Sam/Warp/10918223.jpg
+		</thumbnail>
+		<title>Rumble Swampfire Warrior</title>
+		<creator>Purple Sam Warp</creator>
+		<relatedgames/>
+	</game>
+	<game id="10041474" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Crafty/Harvey/Atom/10041474.jpg
+		</thumbnail>
+		<title>Swampfire Ultimate Smash</title>
+		<creator>Crafty Harvey Atom</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922617" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Twisty/Donald/Magma/10922617.jpg
+		</thumbnail>
+		<title>Galaxy Rampage Dark</title>
+		<creator>Twisty Donald Magma</creator>
+		<relatedgames/>
+	</game>
+	<game id="10949766" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Heroic/Lucius/Cactus/10949766.jpg
+		</thumbnail>
+		<title>Pulse Adventure Racer</title>
+		<creator>Heroic Lucius Cactus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921090" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stout/Earl/Marigold/10921090.jpg
+		</thumbnail>
+		<title>Iron Crusher Alien</title>
+		<creator>Stout Earl Marigold</creator>
+		<relatedgames/>
+	</game>
+	<game id="17383696" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Athletic/Calvin/Buffalo/17383696.jpg
+		</thumbnail>
+		<title>Metal Shadow Hex</title>
+		<creator>Athletic Calvin Buffalo</creator>
+		<relatedgames/>
+	</game>
+	<game id="16994396" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sergeant/Leonard/Iceberg/16994396.jpg
+		</thumbnail>
+		<title>Battle Defense Adventure</title>
+		<creator>Sergeant Leonard Iceberg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10936340" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cheerful/Chelsea/Bolt/10936340.jpg
+		</thumbnail>
+		<title>Cosmic Robot Burst</title>
+		<creator>Cheerful Chelsea Bolt</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

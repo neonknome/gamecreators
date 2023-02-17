@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10056467" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Mirthful/Danielle/Monster/10056467.jpg
+		</thumbnail>
+		<title>Storm Ultimate Fusion</title>
+		<creator>Mirthful Danielle Monster</creator>
+		<relatedgames/>
+	</game>
+	<game id="10063843" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Shrewd/Minerva/Aurora/10063843.jpg
+		</thumbnail>
+		<title>Storm Plasma Spike</title>
+		<creator>Shrewd Minerva Aurora</creator>
+		<relatedgames/>
+	</game>
+	<game id="17363601" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Icy/Bridget/Atlas/17363601.jpg
+		</thumbnail>
+		<title>Metal Spidermonkey Spidermonkey</title>
+		<creator>Icy Bridget Atlas</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920168" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ticklish/Spike/Dynamite/10920168.jpg
+		</thumbnail>
+		<title>Cosmic Fire Slam</title>
+		<creator>Ticklish Spike Dynamite</creator>
+		<relatedgames/>
+	</game>
+	<game id="16976893" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Grover/Alien/16976893.jpg
+		</thumbnail>
+		<title>Mega Challenge Mission</title>
+		<creator>Barbaric Grover Alien</creator>
+		<relatedgames/>
+	</game>
+	<game id="17389747" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sleepy/William/Tiger/17389747.jpg
+		</thumbnail>
+		<title>Attack Mission Big</title>
+		<creator>Sleepy William Tiger</creator>
+		<relatedgames/>
+	</game>
+	<game id="17333152" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Academic/Edward/Cowboy/17333152.jpg
+		</thumbnail>
+		<title>Ultimate Cannonbolt Rush</title>
+		<creator>Academic Edward Cowboy</creator>
+		<relatedgames/>
+	</game>
+	<game id="16944232" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bogus/Calvin/Baloney/16944232.jpg
+		</thumbnail>
+		<title>Chill Big Assault</title>
+		<creator>Bogus Calvin Baloney</creator>
+		<relatedgames/>
+	</game>
+	<game id="17218057" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Enormous/Quincy/Yak/17218057.jpg
+		</thumbnail>
+		<title>Chill Animo Iron</title>
+		<creator>Enormous Quincy Yak</creator>
+		<relatedgames/>
+	</game>
+	<game id="16999418" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hyper/Rex/Minotaur/16999418.jpg
+		</thumbnail>
+		<title>Nano Titan Force</title>
+		<creator>Hyper Rex Minotaur</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

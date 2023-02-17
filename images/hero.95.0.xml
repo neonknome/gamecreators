@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10922667" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wise/Edgar/Frost/10922667.jpg
+		</thumbnail>
+		<title>Droid Stone Metal</title>
+		<creator>Wise Edgar Frost</creator>
+		<relatedgames/>
+	</game>
+	<game id="16988752" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Prince/Baxter/Horsefly/16988752.jpg
+		</thumbnail>
+		<title>Attack Warrior Ambush</title>
+		<creator>Prince Baxter Horsefly</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926589" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dynamic/Celeste/Dolphin/10926589.jpg
+		</thumbnail>
+		<title>Adventure Racer Shadow</title>
+		<creator>Dynamic Celeste Dolphin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10648224" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Carson/Vampire/10648224.jpg
+		</thumbnail>
+		<title>Humongousaur Hyper Smash</title>
+		<creator>Colossal Carson Vampire</creator>
+		<relatedgames/>
+	</game>
+	<game id="10917786" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frosty/Vincent/Narwhal/10917786.jpg
+		</thumbnail>
+		<title>Danger Lightning Galaxy</title>
+		<creator>Frosty Vincent Narwhal</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953091" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magnetic/Jackie/Turbo/10953091.jpg
+		</thumbnail>
+		<title>Ultimate Earth Rumble</title>
+		<creator>Magnetic Jackie Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933360" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pretty/Clyde/Minotaur/10933360.jpg
+		</thumbnail>
+		<title>Charge Slam Spike</title>
+		<creator>Pretty Clyde Minotaur</creator>
+		<relatedgames/>
+	</game>
+	<game id="10706149" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shrewd/Leah/Acrobat/10706149.jpg
+		</thumbnail>
+		<title>Attack Shadow Smash</title>
+		<creator>Shrewd Leah Acrobat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918647" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eerie/Natasha/Skunk/10918647.jpg
+		</thumbnail>
+		<title>Streak Quake Pulse</title>
+		<creator>Eerie Natasha Skunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="16875554" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spirited/Raymond/Moonbeam/16875554.jpg
+		</thumbnail>
+		<title>Alien Adventure Assault</title>
+		<creator>Spirited Raymond Moonbeam</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

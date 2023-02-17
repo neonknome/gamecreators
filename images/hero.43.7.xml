@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10927496" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loud/Grover/Talon/10927496.jpg
+		</thumbnail>
+		<title>Force Escape Adventure</title>
+		<creator>Loud Grover Talon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10015822" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Peculiar/Gulliver/Phantom/10015822.jpg
+		</thumbnail>
+		<title>Invasion Defense Swampfire</title>
+		<creator>Peculiar Gulliver Phantom</creator>
+		<relatedgames/>
+	</game>
+	<game id="10046403" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Majestic/Chelsea/Squawk/10046403.jpg
+		</thumbnail>
+		<title>Rustbucket Pulse Invasion</title>
+		<creator>Majestic Chelsea Squawk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10047193" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Wise/Max/Avocado/10047193.jpg
+		</thumbnail>
+		<title>Dark Energy Defense</title>
+		<creator>Wise Max Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="10650024" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dynamic/Cody/Bullfrog/10650024.jpg
+		</thumbnail>
+		<title>Universe Adventure Attack</title>
+		<creator>Dynamic Cody Bullfrog</creator>
+		<relatedgames/>
+	</game>
+	<game id="17551194" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Pete/Shovel/17551194.jpg
+		</thumbnail>
+		<title>Nano Adventure Omniverse</title>
+		<creator>Colossal Pete Shovel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10793354" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Adorable/Rosemary/Vittles/10793354.jpg
+		</thumbnail>
+		<title>Energy Rocket Thunder</title>
+		<creator>Adorable Rosemary Vittles</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920076" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brave/Jamie/Klunk/10920076.jpg
+		</thumbnail>
+		<title>Power Dark Robot</title>
+		<creator>Brave Jamie Klunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17146824" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Extreme/Alan/Avocado/17146824.jpg
+		</thumbnail>
+		<title>Hyper Adventure Chase</title>
+		<creator>Extreme Alan Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="10046147" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Noble/Rapunzel/Banjo/10046147.jpg
+		</thumbnail>
+		<title>Alien Ambush Pursuit</title>
+		<creator>Noble Rapunzel Banjo</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

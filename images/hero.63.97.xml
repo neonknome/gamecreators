@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10916705" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Infinite/Jill/Thorax/10916705.jpg
+		</thumbnail>
+		<title>Rumble Challenge Slam</title>
+		<creator>Infinite Jill Thorax</creator>
+		<relatedgames/>
+	</game>
+	<game id="17417580" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Alyssa/Javelin/17417580.jpg
+		</thumbnail>
+		<title>Search Techno Animo</title>
+		<creator>Queen Alyssa Javelin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918129" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Towering/Joshua/Popcorn/10918129.jpg
+		</thumbnail>
+		<title>Drone Streak Ultra</title>
+		<creator>Towering Joshua Popcorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="10929567" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noble/Chelsea/Crowbar/10929567.jpg
+		</thumbnail>
+		<title>Swampfire Warrior Fury</title>
+		<creator>Noble Chelsea Crowbar</creator>
+		<relatedgames/>
+	</game>
+	<game id="17387267" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Active/Yvette/Mackerel/17387267.jpg
+		</thumbnail>
+		<title>Challenge Star Champion</title>
+		<creator>Active Yvette Mackerel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17579668" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crazy/John/Gamer/17579668.jpg
+		</thumbnail>
+		<title>Feedback Ultra Adventure</title>
+		<creator>Crazy John Gamer</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055612" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Uncanny/Dolly/Cyborg/10055612.jpg
+		</thumbnail>
+		<title>Shock Titan Adventure</title>
+		<creator>Uncanny Dolly Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="17292491" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dandy/Penny/Minotaur/17292491.jpg
+		</thumbnail>
+		<title>Clash Invasion Ultimate</title>
+		<creator>Dandy Penny Minotaur</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926076" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jolly/Raymond/Sunshine/10926076.jpg
+		</thumbnail>
+		<title>Drone Plasma Metal</title>
+		<creator>Jolly Raymond Sunshine</creator>
+		<relatedgames/>
+	</game>
+	<game id="17315171" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Rational/Bobo/Orca/17315171.jpg
+		</thumbnail>
+		<title>Slam Attack Galaxy</title>
+		<creator>Rational Bobo Orca</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

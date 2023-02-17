@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10936013" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jolly/Julian/Howler/10936013.jpg
+		</thumbnail>
+		<title>Energy Invasion Champion</title>
+		<creator>Jolly Julian Howler</creator>
+		<relatedgames/>
+	</game>
+	<game id="10945842" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Normal/Vinny/Rumble/10945842.jpg
+		</thumbnail>
+		<title>Mega Shock Shadow</title>
+		<creator>Normal Vinny Rumble</creator>
+		<relatedgames/>
+	</game>
+	<game id="17324743" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loopy/Autumn/Snorkel/17324743.jpg
+		</thumbnail>
+		<title>Alien Pulse Universe</title>
+		<creator>Loopy Autumn Snorkel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17278972" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Virtual/Victor/Rebel/17278972.jpg
+		</thumbnail>
+		<title>Giga Hyper Rustbucket</title>
+		<creator>Virtual Victor Rebel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17568616" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brisk/Aubrey/Camel/17568616.jpg
+		</thumbnail>
+		<title>Cannonbolt Cosmic Omniverse</title>
+		<creator>Brisk Aubrey Camel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10059113" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Stately/Hunter/Blade/10059113.jpg
+		</thumbnail>
+		<title>Dark Hex Burst</title>
+		<creator>Stately Hunter Blade</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919176" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chaotic/Ed/Fossil/10919176.jpg
+		</thumbnail>
+		<title>Robot Mega Ambush</title>
+		<creator>Chaotic Ed Fossil</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918396" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fizzy/Chris/Moonbeam/10918396.jpg
+		</thumbnail>
+		<title>Universe Adventure Space</title>
+		<creator>Fizzy Chris Moonbeam</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927605" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loony/Heidi/Grouch/10927605.jpg
+		</thumbnail>
+		<title>Swampfire Plumber Patrol</title>
+		<creator>Loony Heidi Grouch</creator>
+		<relatedgames/>
+	</game>
+	<game id="10917018" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reliable/Victor/Whizbang/10917018.jpg
+		</thumbnail>
+		<title>Solar Storm Chase</title>
+		<creator>Reliable Victor Whizbang</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

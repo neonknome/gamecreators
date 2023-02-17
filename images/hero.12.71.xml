@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10930210" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Witty/Bert/Parsec/10930210.jpg
+		</thumbnail>
+		<title>Rush Turbo Assault</title>
+		<creator>Witty Bert Parsec</creator>
+		<relatedgames/>
+	</game>
+	<game id="17241048" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Princess/George/Turbo/17241048.jpg
+		</thumbnail>
+		<title>Rumble Burst Doom</title>
+		<creator>Princess George Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17261733" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grim/Paige/Kayak/17261733.jpg
+		</thumbnail>
+		<title>Chase Echo Challenge</title>
+		<creator>Grim Paige Kayak</creator>
+		<relatedgames/>
+	</game>
+	<game id="10043458" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Southern/Duncan/Virtuoso/10043458.jpg
+		</thumbnail>
+		<title>Ben Alien Mission</title>
+		<creator>Southern Duncan Virtuoso</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952455" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brave/Raymond/Atom/10952455.jpg
+		</thumbnail>
+		<title>Swampfire Smash Vilgax</title>
+		<creator>Brave Raymond Atom</creator>
+		<relatedgames/>
+	</game>
+	<game id="17411125" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Extreme/Chuck/Pirate/17411125.jpg
+		</thumbnail>
+		<title>Whirlwind Chase Big</title>
+		<creator>Extreme Chuck Pirate</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952326" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Aquatic/Egbert/Thud/10952326.jpg
+		</thumbnail>
+		<title>Adventure Clash Metal</title>
+		<creator>Aquatic Egbert Thud</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951422" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Green/Grace/Manatee/10951422.jpg
+		</thumbnail>
+		<title>Adventure Alien Droid</title>
+		<creator>Green Grace Manatee</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923803" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noisy/Avery/Gazelle/10923803.jpg
+		</thumbnail>
+		<title>Space Ambush Racer</title>
+		<creator>Noisy Avery Gazelle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10937447" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Valiant/Evan/Varmint/10937447.jpg
+		</thumbnail>
+		<title>Ben Techno Lightning</title>
+		<creator>Valiant Evan Varmint</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17176419" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magnetic/Ramona/Bramble/17176419.jpg
+		</thumbnail>
+		<title>Steel Dark Adventure</title>
+		<creator>Magnetic Ramona Bramble</creator>
+		<relatedgames/>
+	</game>
+	<game id="17379163" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pretty/Scott/Beeswax/17379163.jpg
+		</thumbnail>
+		<title>Razor Titan Blaster</title>
+		<creator>Pretty Scott Beeswax</creator>
+		<relatedgames/>
+	</game>
+	<game id="17259995" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shrewd/Stanley/Sunset/17259995.jpg
+		</thumbnail>
+		<title>Warrior Robot Giga</title>
+		<creator>Shrewd Stanley Sunset</creator>
+		<relatedgames/>
+	</game>
+	<game id="17191739" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elastic/Dwight/Robot/17191739.jpg
+		</thumbnail>
+		<title>Solar Warrior Ambush</title>
+		<creator>Elastic Dwight Robot</creator>
+		<relatedgames/>
+	</game>
+	<game id="17408837" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cranky/Conrad/17408837.jpg
+		</thumbnail>
+		<title>Racer Siege Rock</title>
+		<creator>Cranky Conrad</creator>
+		<relatedgames/>
+	</game>
+	<game id="10057035" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Generous/Justin/Coconut/10057035.jpg
+		</thumbnail>
+		<title>Atomic Adventure Alien</title>
+		<creator>Generous Justin Coconut</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942861" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shrewd/Cheyenne/Goofball/10942861.jpg
+		</thumbnail>
+		<title>Rumble Force Swampfire</title>
+		<creator>Shrewd Cheyenne Goofball</creator>
+		<relatedgames/>
+	</game>
+	<game id="16981662" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Duke/Funk/16981662.jpg
+		</thumbnail>
+		<title>Thunder Power Cannonbolt</title>
+		<creator>Barbaric Duke Funk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928563" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sleepy/Arthur/Funk/10928563.jpg
+		</thumbnail>
+		<title>Swampfire Search Hyper</title>
+		<creator>Sleepy Arthur Funk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17161179" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Galactic/Zeus/Celsius/17161179.jpg
+		</thumbnail>
+		<title>Chill Nano Adventure</title>
+		<creator>Galactic Zeus Celsius</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

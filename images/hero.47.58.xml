@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10925948" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Silly/Joshua/Thunder/10925948.jpg
+		</thumbnail>
+		<title>Adventure Storm Siege</title>
+		<creator>Silly Joshua Thunder</creator>
+		<relatedgames/>
+	</game>
+	<game id="10709680" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zippy/Ron/Sardine/10709680.jpg
+		</thumbnail>
+		<title>Turbo Breaker Racer</title>
+		<creator>Zippy Ron Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="17242231" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tough/Jose/Wombat/17242231.jpg
+		</thumbnail>
+		<title>Water Universe Rumble</title>
+		<creator>Tough Jose Wombat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10056546" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Bashful/Bjorn/Avocado/10056546.jpg
+		</thumbnail>
+		<title>Laser Laser Attack</title>
+		<creator>Bashful Bjorn Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="17331676" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Active/Ian/Cactus/17331676.jpg
+		</thumbnail>
+		<title>Adventure Blaster Alien</title>
+		<creator>Active Ian Cactus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923252" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Modest/Bobby/Jungle/10923252.jpg
+		</thumbnail>
+		<title>Charge Nova Escape</title>
+		<creator>Modest Bobby Jungle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17420517" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Evasive/Ashton/Unicycle/17420517.jpg
+		</thumbnail>
+		<title>Blaster Mission Titan</title>
+		<creator>Evasive Ashton Unicycle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17262592" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Immortal/Lawrence/Spider/17262592.jpg
+		</thumbnail>
+		<title>Warp Shadow Pulse</title>
+		<creator>Immortal Lawrence Spider</creator>
+		<relatedgames/>
+	</game>
+	<game id="17251649" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Titanic/Andy/Cartoon/17251649.jpg
+		</thumbnail>
+		<title>Cannonbolt Hero Nova</title>
+		<creator>Titanic Andy Cartoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17377498" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nimble/Billy/Flywheel/17377498.jpg
+		</thumbnail>
+		<title>Ambush Smash Challenge</title>
+		<creator>Nimble Billy Flywheel</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

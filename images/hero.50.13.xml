@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17331941" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Subtle/Lancelot/Ricochet/17331941.jpg
+		</thumbnail>
+		<title>Rocket Charge Blaster</title>
+		<creator>Subtle Lancelot Ricochet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17328677" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Average/Owen/Monster/17328677.jpg
+		</thumbnail>
+		<title>Razor Space Rampage</title>
+		<creator>Average Owen Monster</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918741" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shrewd/Jonas/Yodel/10918741.jpg
+		</thumbnail>
+		<title>Mega Atomic Nova</title>
+		<creator>Shrewd Jonas Yodel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404209" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Luke/Stampede/17404209.jpg
+		</thumbnail>
+		<title>Pulse Adventure Shadow</title>
+		<creator>Zany Luke Stampede</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055845" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Jumping/Pierre/Droid/10055845.jpg
+		</thumbnail>
+		<title>Power Mission Battle</title>
+		<creator>Jumping Pierre Droid</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055575" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Reckless/Romeo/Spark/10055575.jpg
+		</thumbnail>
+		<title>Fire Ultra Slam</title>
+		<creator>Reckless Romeo Spark</creator>
+		<relatedgames/>
+	</game>
+	<game id="17554026" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Unknown/Zeus/Celsius/17554026.jpg
+		</thumbnail>
+		<title>Light Ben Champion</title>
+		<creator>Unknown Zeus Celsius</creator>
+		<relatedgames/>
+	</game>
+	<game id="10929472" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Shannon/Robot/10929472.jpg
+		</thumbnail>
+		<title>Invasion Vilgax Galaxy</title>
+		<creator>Alien Shannon Robot</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924177" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dapper/Sophia/Bolt/10924177.jpg
+		</thumbnail>
+		<title>Steel Pulse Iron</title>
+		<creator>Dapper Sophia Bolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="17423166" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Volcanic/Brad/Warrior/17423166.jpg
+		</thumbnail>
+		<title>Light Earth Crusher</title>
+		<creator>Volcanic Brad Warrior</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

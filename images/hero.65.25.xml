@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17159498" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eastern/Grover/Bagpipe/17159498.jpg
+		</thumbnail>
+		<title>Adventure Champion Cosmic</title>
+		<creator>Eastern Grover Bagpipe</creator>
+		<relatedgames/>
+	</game>
+	<game id="10040167" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Honest/Milo/Moonbeam/10040167.jpg
+		</thumbnail>
+		<title>Sonic Pulse Invasion</title>
+		<creator>Honest Milo Moonbeam</creator>
+		<relatedgames/>
+	</game>
+	<game id="17505120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Galactic/Chuck/Giblets/17505120.jpg
+		</thumbnail>
+		<title>Adventure Jetray Rocket</title>
+		<creator>Galactic Chuck Giblets</creator>
+		<relatedgames/>
+	</game>
+	<game id="10032655" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Massive/Ginger/Phantom/10032655.jpg
+		</thumbnail>
+		<title>Turbo Rock Plasma</title>
+		<creator>Massive Ginger Phantom</creator>
+		<relatedgames/>
+	</game>
+	<game id="17374433" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sharp/Ivan/Flywheel/17374433.jpg
+		</thumbnail>
+		<title>Alien Mega Warrior</title>
+		<creator>Sharp Ivan Flywheel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935104" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Swift/Mitchell/Parsec/10935104.jpg
+		</thumbnail>
+		<title>Escape Turbo Plumber</title>
+		<creator>Swift Mitchell Parsec</creator>
+		<relatedgames/>
+	</game>
+	<game id="17314812" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Babbling/Hayden/Aurora/17314812.jpg
+		</thumbnail>
+		<title>Fire Cosmic Clash</title>
+		<creator>Babbling Hayden Aurora</creator>
+		<relatedgames/>
+	</game>
+	<game id="17173567" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Singular/Egbert/Eel/17173567.jpg
+		</thumbnail>
+		<title>Chase Shock Universe</title>
+		<creator>Singular Egbert Eel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17379498" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Abstract/Natalia/Mackerel/17379498.jpg
+		</thumbnail>
+		<title>Quake Spike Storm</title>
+		<creator>Abstract Natalia Mackerel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920288" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bizarre/Jonathan/Gong/10920288.jpg
+		</thumbnail>
+		<title>Escape Beast Adventure</title>
+		<creator>Bizarre Jonathan Gong</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

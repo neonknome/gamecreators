@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10953231" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Orange/Donald/Pinwheel/10953231.jpg
+		</thumbnail>
+		<title>Ultimate Dark Nano</title>
+		<creator>Orange Donald Pinwheel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17555017" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magical/Isaac/Enigma/17555017.jpg
+		</thumbnail>
+		<title>Challenge Target Racer</title>
+		<creator>Magical Isaac Enigma</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952930" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Western/Leon/Figment/10952930.jpg
+		</thumbnail>
+		<title>Assault Streak Siege</title>
+		<creator>Western Leon Figment</creator>
+		<relatedgames/>
+	</game>
+	<game id="16971326" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Captain/Tony/Bucket/16971326.jpg
+		</thumbnail>
+		<title>Cosmic Gear Quake</title>
+		<creator>Captain Tony Bucket</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924143" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stylish/Katie/Biscuit/10924143.jpg
+		</thumbnail>
+		<title>Hyper Adventure Rescue</title>
+		<creator>Stylish Katie Biscuit</creator>
+		<relatedgames/>
+	</game>
+	<game id="17380207" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Classic/Tanner/Plankton/17380207.jpg
+		</thumbnail>
+		<title>Metal Hyper Champion</title>
+		<creator>Classic Tanner Plankton</creator>
+		<relatedgames/>
+	</game>
+	<game id="10069204" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Lucky/Simon/Droid/10069204.jpg
+		</thumbnail>
+		<title>Nano Hex Giga</title>
+		<creator>Lucky Simon Droid</creator>
+		<relatedgames/>
+	</game>
+	<game id="17278815" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Rugged/Scooter/Possum/17278815.jpg
+		</thumbnail>
+		<title>Laser Gear Shadow</title>
+		<creator>Rugged Scooter Possum</creator>
+		<relatedgames/>
+	</game>
+	<game id="17540856" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Plucky/Drew/Yak/17540856.jpg
+		</thumbnail>
+		<title>Shadow Steel Crusher</title>
+		<creator>Plucky Drew Yak</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952702" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Phyllis/Talon/10952702.jpg
+		</thumbnail>
+		<title>Swampfire Rustbucket Rocket</title>
+		<creator>Chilly Phyllis Talon</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

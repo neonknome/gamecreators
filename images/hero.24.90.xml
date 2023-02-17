@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17411294" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strange/Ariel/Gumdrop/17411294.jpg
+		</thumbnail>
+		<title>Warrior Force Robot</title>
+		<creator>Strange Ariel Gumdrop</creator>
+		<relatedgames/>
+	</game>
+	<game id="17301539" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Athletic/Kaitlin/Dinosaur/17301539.jpg
+		</thumbnail>
+		<title>Waterhazard Adventure Mega</title>
+		<creator>Athletic Kaitlin Dinosaur</creator>
+		<relatedgames/>
+	</game>
+	<game id="17377709" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quirky/Tommy/Karate/17377709.jpg
+		</thumbnail>
+		<title>Turbo Cosmic Solar</title>
+		<creator>Quirky Tommy Karate</creator>
+		<relatedgames/>
+	</game>
+	<game id="10945498" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Twisty/Conrad/Nova/10945498.jpg
+		</thumbnail>
+		<title>Hyper Burst Energy</title>
+		<creator>Twisty Conrad Nova</creator>
+		<relatedgames/>
+	</game>
+	<game id="17337988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Enormous/Alice/Dodo/17337988.jpg
+		</thumbnail>
+		<title>Ultimate Mission Droid</title>
+		<creator>Enormous Alice Dodo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10045066" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Crispy/Wilma/Turbo/10045066.jpg
+		</thumbnail>
+		<title>Rock Rustbucket Rustbucket</title>
+		<creator>Crispy Wilma Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055824" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Gloomy/Ben/Sawtooth/10055824.jpg
+		</thumbnail>
+		<title>Lightning Champion Fusion</title>
+		<creator>Gloomy Ben Sawtooth</creator>
+		<relatedgames/>
+	</game>
+	<game id="17223749" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quick/Chuck/Cobweb/17223749.jpg
+		</thumbnail>
+		<title>Techno Stone Fusion</title>
+		<creator>Quick Chuck Cobweb</creator>
+		<relatedgames/>
+	</game>
+	<game id="17083085" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Extreme/Abigail/Magnet/17083085.jpg
+		</thumbnail>
+		<title>Streak Drone Magno</title>
+		<creator>Extreme Abigail Magnet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17188190" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Ronald/Presto/17188190.jpg
+		</thumbnail>
+		<title>Rescue Echo Plasma</title>
+		<creator>Daring Ronald Presto</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

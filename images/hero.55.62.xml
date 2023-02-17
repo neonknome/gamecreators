@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17283609" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Haunted/Andre/Tarragon/17283609.jpg
+		</thumbnail>
+		<title>Iron Assault Challenge</title>
+		<creator>Haunted Andre Tarragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916691" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sporty/Ivy/Ketchup/10916691.jpg
+		</thumbnail>
+		<title>Swampfire Fire Storm</title>
+		<creator>Sporty Ivy Ketchup</creator>
+		<relatedgames/>
+	</game>
+	<game id="17293144" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Savage/Erika/Tsunami/17293144.jpg
+		</thumbnail>
+		<title>Titan Charge Quake</title>
+		<creator>Savage Erika Tsunami</creator>
+		<relatedgames/>
+	</game>
+	<game id="10063462" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Infamous/Florence/Crumpet/10063462.jpg
+		</thumbnail>
+		<title>Storm Turbo Turbo</title>
+		<creator>Infamous Florence Crumpet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17258413" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quaint/Scarlett/Sardine/17258413.jpg
+		</thumbnail>
+		<title>Adventure Solar Nova</title>
+		<creator>Quaint Scarlett Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="17242231" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tough/Jose/Wombat/17242231.jpg
+		</thumbnail>
+		<title>Water Universe Rumble</title>
+		<creator>Tough Jose Wombat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953447" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nimble/Lillian/Robot/10953447.jpg
+		</thumbnail>
+		<title>Mission Hero Smash</title>
+		<creator>Nimble Lillian Robot</creator>
+		<relatedgames/>
+	</game>
+	<game id="10949874" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cranky/Theodore/Dwarf/10949874.jpg
+		</thumbnail>
+		<title>Dark Beast Invasion</title>
+		<creator>Cranky Theodore Dwarf</creator>
+		<relatedgames/>
+	</game>
+	<game id="17164092" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ultimate/Scott/Calypso/17164092.jpg
+		</thumbnail>
+		<title>Siege Dark Space</title>
+		<creator>Ultimate Scott Calypso</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926927" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dainty/Darla/Ketchup/10926927.jpg
+		</thumbnail>
+		<title>Doom Rampage Defense</title>
+		<creator>Dainty Darla Ketchup</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

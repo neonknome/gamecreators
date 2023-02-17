@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10933122" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Handsome/Breanna/Aurora/10933122.jpg
+		</thumbnail>
+		<title>Rock Space Fire</title>
+		<creator>Handsome Breanna Aurora</creator>
+		<relatedgames/>
+	</game>
+	<game id="16860361" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Cameron/Grackle/16860361.jpg
+		</thumbnail>
+		<title>Titan Defense Whirlwind</title>
+		<creator>Obvious Cameron Grackle</creator>
+		<relatedgames/>
+	</game>
+	<game id="16886464" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Volcanic/Chowder/Cyborg/16886464.jpg
+		</thumbnail>
+		<title>Ultra Spike Fusion</title>
+		<creator>Volcanic Chowder Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952722" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Burly/Tex/Quarry/10952722.jpg
+		</thumbnail>
+		<title>Attack Rumble Pursuit</title>
+		<creator>Burly Tex Quarry</creator>
+		<relatedgames/>
+	</game>
+	<game id="10940046" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Northern/Spencer/Sizzle/10940046.jpg
+		</thumbnail>
+		<title>Adventure Nitro Battle</title>
+		<creator>Northern Spencer Sizzle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10932642" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loud/Faith/Holler/10932642.jpg
+		</thumbnail>
+		<title>Galaxy Shadow Ultimate</title>
+		<creator>Loud Faith Holler</creator>
+		<relatedgames/>
+	</game>
+	<game id="17384988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Robust/Isaac/Pudding/17384988.jpg
+		</thumbnail>
+		<title>Escape Nano Smash</title>
+		<creator>Robust Isaac Pudding</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952658" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Visible/Zachary/Scribble/10952658.jpg
+		</thumbnail>
+		<title>Hex Assault Drone</title>
+		<creator>Visible Zachary Scribble</creator>
+		<relatedgames/>
+	</game>
+	<game id="10934959" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Peculiar/Derek/Blubber/10934959.jpg
+		</thumbnail>
+		<title>Ben Sonic Hero</title>
+		<creator>Peculiar Derek Blubber</creator>
+		<relatedgames/>
+	</game>
+	<game id="17310250" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Defiant/Mario/Blob/17310250.jpg
+		</thumbnail>
+		<title>Chase Thunder Droid</title>
+		<creator>Defiant Mario Blob</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17562431" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Acoustic/Angel/Nonsense/17562431.jpg
+		</thumbnail>
+		<title>Challenge Humungousaur Smash</title>
+		<creator>Acoustic Angel Nonsense</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931081" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cranky/Jake/Bamboo/10931081.jpg
+		</thumbnail>
+		<title>Vilgax Smash Invasion</title>
+		<creator>Cranky Jake Bamboo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10786851" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Puzzling/Carter/Basilisk/10786851.jpg
+		</thumbnail>
+		<title>Spike Turbo Alien</title>
+		<creator>Puzzling Carter Basilisk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17574215" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crafty/Vincent/Nacho/17574215.jpg
+		</thumbnail>
+		<title>Galaxy Chill Shock</title>
+		<creator>Crafty Vincent Nacho</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926529" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Twisty/Hank/Bamboo/10926529.jpg
+		</thumbnail>
+		<title>Mission Turbo Sonic</title>
+		<creator>Twisty Hank Bamboo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926269" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crunchy/Vicky/Behemoth/10926269.jpg
+		</thumbnail>
+		<title>Swampfire Attack Ben</title>
+		<creator>Crunchy Vicky Behemoth</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930948" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Glorious/Drew/Aurora/10930948.jpg
+		</thumbnail>
+		<title>Light Energy Doom</title>
+		<creator>Glorious Drew Aurora</creator>
+		<relatedgames/>
+	</game>
+	<game id="16866155" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Skinny/Ryan/Skeleton/16866155.jpg
+		</thumbnail>
+		<title>Lightning Atomic Razor</title>
+		<creator>Skinny Ryan Skeleton</creator>
+		<relatedgames/>
+	</game>
+	<game id="17373253" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quirky/Tommy/Karate/17373253.jpg
+		</thumbnail>
+		<title>Techno Hero Spike</title>
+		<creator>Quirky Tommy Karate</creator>
+		<relatedgames/>
+	</game>
+	<game id="17554036" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Heroic/Gavin/Fury/17554036.jpg
+		</thumbnail>
+		<title>Adventure Assault Clash</title>
+		<creator>Heroic Gavin Fury</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

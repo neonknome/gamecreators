@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17409851" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jumping/Mario/Unicorn/17409851.jpg
+		</thumbnail>
+		<title>Quake Echo Beast</title>
+		<creator>Jumping Mario Unicorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="17418509" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obscure/Jenn/Scout/17418509.jpg
+		</thumbnail>
+		<title>Ultimate Cosmic Challenge</title>
+		<creator>Obscure Jenn Scout</creator>
+		<relatedgames/>
+	</game>
+	<game id="17552120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Volcanic/Alvin/Meteor/17552120.jpg
+		</thumbnail>
+		<title>Lightning Danger Omniverse</title>
+		<creator>Volcanic Alvin Meteor</creator>
+		<relatedgames/>
+	</game>
+	<game id="10040943" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Burly/Bryan/Blob/10040943.jpg
+		</thumbnail>
+		<title>Ultra Swampfire Challenge</title>
+		<creator>Burly Bryan Blob</creator>
+		<relatedgames/>
+	</game>
+	<game id="17303953" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Crystal/Virtuoso/17303953.jpg
+		</thumbnail>
+		<title>Escape Plasma Cosmic</title>
+		<creator>Flying Crystal Virtuoso</creator>
+		<relatedgames/>
+	</game>
+	<game id="10039014" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Loopy/Logan/Chimera/10039014.jpg
+		</thumbnail>
+		<title>Mega Fire Slam</title>
+		<creator>Loopy Logan Chimera</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933395" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Robotic/Mandy/Kudzu/10933395.jpg
+		</thumbnail>
+		<title>Ambush Patrol Nova</title>
+		<creator>Robotic Mandy Kudzu</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055886" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Visible/Ben/Yodel/10055886.jpg
+		</thumbnail>
+		<title>Universe Metal Steel</title>
+		<creator>Visible Ben Yodel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17411673" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Organic/Yvonne/Sprocket/17411673.jpg
+		</thumbnail>
+		<title>Fury Doom Ultra</title>
+		<creator>Organic Yvonne Sprocket</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925264" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Mike/Blubber/10925264.jpg
+		</thumbnail>
+		<title>Fire Ben Nitro</title>
+		<creator>Dazzling Mike Blubber</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

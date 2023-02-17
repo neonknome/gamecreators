@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17360082" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Drowzy/Benny/Droid/17360082.jpg
+		</thumbnail>
+		<title>Clash Smash Fury</title>
+		<creator>Drowzy Benny Droid</creator>
+		<relatedgames/>
+	</game>
+	<game id="17236848" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colonel/Amy/Blammo/17236848.jpg
+		</thumbnail>
+		<title>Champion Universe Water</title>
+		<creator>Colonel Amy Blammo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10044035" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Freaky/Bugsy/Dragon/10044035.jpg
+		</thumbnail>
+		<title>Hero Shock Quake</title>
+		<creator>Freaky Bugsy Dragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933355" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Madcap/Pete/Fritter/10933355.jpg
+		</thumbnail>
+		<title>Universe Target Warrior</title>
+		<creator>Madcap Pete Fritter</creator>
+		<relatedgames/>
+	</game>
+	<game id="17228920" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Popular/Quentin/Goofball/17228920.jpg
+		</thumbnail>
+		<title>Ultimate Target Doom</title>
+		<creator>Popular Quentin Goofball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953547" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Roy/Cinnamon/10953547.jpg
+		</thumbnail>
+		<title>Quake Laser Ultra</title>
+		<creator>Alien Roy Cinnamon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10040943" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Burly/Bryan/Blob/10040943.jpg
+		</thumbnail>
+		<title>Ultra Swampfire Challenge</title>
+		<creator>Burly Bryan Blob</creator>
+		<relatedgames/>
+	</game>
+	<game id="10040892" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fearless/Jason/Funk/10040892.jpg
+		</thumbnail>
+		<title>Swampfire Blaster Spike</title>
+		<creator>Fearless Jason Funk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942553" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Joyous/Brian/Daffodil/10942553.jpg
+		</thumbnail>
+		<title>Adventure Universe Siege</title>
+		<creator>Joyous Brian Daffodil</creator>
+		<relatedgames/>
+	</game>
+	<game id="10937552" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grouchy/Xavier/Wizard/10937552.jpg
+		</thumbnail>
+		<title>Rocket Ultimate Rumble</title>
+		<creator>Grouchy Xavier Wizard</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

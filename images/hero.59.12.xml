@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10043261" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Absurd/Alex/Goofball/10043261.jpg
+		</thumbnail>
+		<title>Spark Spike Challenge</title>
+		<creator>Absurd Alex Goofball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10015692" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cosmic/Amber/Iceberg/10015692.jpg
+		</thumbnail>
+		<title>Chase Nitro Crusher</title>
+		<creator>Cosmic Amber Iceberg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10649551" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bizarre/Seth/Sunshine/10649551.jpg
+		</thumbnail>
+		<title>Nitro Quake Hero</title>
+		<creator>Bizarre Seth Sunshine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952842" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proper/Brandon/Thud/10952842.jpg
+		</thumbnail>
+		<title>Pursuit Beast Rumble</title>
+		<creator>Proper Brandon Thud</creator>
+		<relatedgames/>
+	</game>
+	<game id="17288430" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Lawrence/Eggplant/17288430.jpg
+		</thumbnail>
+		<title>Ultimate Echo Echo</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames/>
+	</game>
+	<game id="16998524" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Toxic/Caden/Funk/16998524.jpg
+		</thumbnail>
+		<title>Invasion Mega Escape</title>
+		<creator>Toxic Caden Funk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17148915" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Creative/Fred/Robot/17148915.jpg
+		</thumbnail>
+		<title>Alien Ambush Challenge</title>
+		<creator>Creative Fred Robot</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952801" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ghostly/Laura/Bramble/10952801.jpg
+		</thumbnail>
+		<title>Charge Fusion Drone</title>
+		<creator>Ghostly Laura Bramble</creator>
+		<relatedgames/>
+	</game>
+	<game id="17418896" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quantum/Scarlett/Nebula/17418896.jpg
+		</thumbnail>
+		<title>Space Space Space</title>
+		<creator>Quantum Scarlett Nebula</creator>
+		<relatedgames/>
+	</game>
+	<game id="17359324" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crazy/Andy/Turbo/17359324.jpg
+		</thumbnail>
+		<title>Streak Drone Adventure</title>
+		<creator>Crazy Andy Turbo</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

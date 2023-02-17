@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10028187" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Eastern/Alan/Charger/10028187.jpg
+		</thumbnail>
+		<title>Defense Attack Power</title>
+		<creator>Eastern Alan Charger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919699" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shaggy/Shawn/Dodo/10919699.jpg
+		</thumbnail>
+		<title>Smash Doom Giga</title>
+		<creator>Shaggy Shawn Dodo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918863" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eager/Katelyn/Ooze/10918863.jpg
+		</thumbnail>
+		<title>Ultimate Fury Invasion</title>
+		<creator>Eager Katelyn Ooze</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952739" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hideous/Sterling/Ballyhoo/10952739.jpg
+		</thumbnail>
+		<title>Blaster Swampfire Drone</title>
+		<creator>Hideous Sterling Ballyhoo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924091" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Funny/Miguel/Gumshoe/10924091.jpg
+		</thumbnail>
+		<title>Assault Gear Slam</title>
+		<creator>Funny Miguel Gumshoe</creator>
+		<relatedgames/>
+	</game>
+	<game id="17567998" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Verbose/Sam/Quasar/17567998.jpg
+		</thumbnail>
+		<title>Mission Techno Nano</title>
+		<creator>Verbose Sam Quasar</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922399" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brawny/Nathan/Moonbeam/10922399.jpg
+		</thumbnail>
+		<title>Turbo Robot Shock</title>
+		<creator>Brawny Nathan Moonbeam</creator>
+		<relatedgames/>
+	</game>
+	<game id="16883820" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/James/Cyclone/16883820.jpg
+		</thumbnail>
+		<title>Warp Waterhazard Adventure</title>
+		<creator>Fiery James Cyclone</creator>
+		<relatedgames/>
+	</game>
+	<game id="10704405" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Leaping/Emma/Molecule/10704405.jpg
+		</thumbnail>
+		<title>Fusion Pulse Chase</title>
+		<creator>Leaping Emma Molecule</creator>
+		<relatedgames/>
+	</game>
+	<game id="17089029" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Regular/Andrea/Fandango/17089029.jpg
+		</thumbnail>
+		<title>Rumble Adventure Vilgax</title>
+		<creator>Regular Andrea Fandango</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

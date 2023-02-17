@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17282810" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pleasant/Alan/Gamer/17282810.jpg
+		</thumbnail>
+		<title>Terraspin Siege Adventure</title>
+		<creator>Pleasant Alan Gamer</creator>
+		<relatedgames/>
+	</game>
+	<game id="10066116" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Strange/Cody/Python/10066116.jpg
+		</thumbnail>
+		<title>Smash Power Magno</title>
+		<creator>Strange Cody Python</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921907" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Bethany/Starfish/10921907.jpg
+		</thumbnail>
+		<title>Slam Star Razor</title>
+		<creator>Chilly Bethany Starfish</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927496" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loud/Grover/Talon/10927496.jpg
+		</thumbnail>
+		<title>Force Escape Adventure</title>
+		<creator>Loud Grover Talon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10015822" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Peculiar/Gulliver/Phantom/10015822.jpg
+		</thumbnail>
+		<title>Invasion Defense Swampfire</title>
+		<creator>Peculiar Gulliver Phantom</creator>
+		<relatedgames/>
+	</game>
+	<game id="10046403" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Majestic/Chelsea/Squawk/10046403.jpg
+		</thumbnail>
+		<title>Rustbucket Pulse Invasion</title>
+		<creator>Majestic Chelsea Squawk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10047193" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Wise/Max/Avocado/10047193.jpg
+		</thumbnail>
+		<title>Dark Energy Defense</title>
+		<creator>Wise Max Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="10936340" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cheerful/Chelsea/Bolt/10936340.jpg
+		</thumbnail>
+		<title>Cosmic Robot Burst</title>
+		<creator>Cheerful Chelsea Bolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="17282494" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Superior/Jonas/Jamboree/17282494.jpg
+		</thumbnail>
+		<title>Pursuit Shadow Fire</title>
+		<creator>Superior Jonas Jamboree</creator>
+		<relatedgames/>
+	</game>
+	<game id="17551194" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Pete/Shovel/17551194.jpg
+		</thumbnail>
+		<title>Nano Adventure Omniverse</title>
+		<creator>Colossal Pete Shovel</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17392032" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Edgy/Cody/Reptile/17392032.jpg
+		</thumbnail>
+		<title>Fusion Burst Force</title>
+		<creator>Edgy Cody Reptile</creator>
+		<relatedgames/>
+	</game>
+	<game id="10699059" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bouncing/Elijah/Acrobat/10699059.jpg
+		</thumbnail>
+		<title>Atomic Ultimate Nova</title>
+		<creator>Bouncing Elijah Acrobat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924472" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dainty/Hayden/Avocado/10924472.jpg
+		</thumbnail>
+		<title>Burst Atomic Droid</title>
+		<creator>Dainty Hayden Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="17574763" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bumbling/Andy/Zinger/17574763.jpg
+		</thumbnail>
+		<title>Drone Rampage Smash</title>
+		<creator>Bumbling Andy Zinger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10041441" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Jolly/Jack/Pelican/10041441.jpg
+		</thumbnail>
+		<title>Dark Earth Doom</title>
+		<creator>Jolly Jack Pelican</creator>
+		<relatedgames/>
+	</game>
+	<game id="17327386" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radical/Romeo/Skeleton/17327386.jpg
+		</thumbnail>
+		<title>Adventure Attack Solar</title>
+		<creator>Radical Romeo Skeleton</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923851" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Normal/Scooter/Squish/10923851.jpg
+		</thumbnail>
+		<title>Patrol Chase Plasma</title>
+		<creator>Normal Scooter Squish</creator>
+		<relatedgames/>
+	</game>
+	<game id="17312975" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Roaring/Douglas/Fuzz/17312975.jpg
+		</thumbnail>
+		<title>Patrol Crusher Stone</title>
+		<creator>Roaring Douglas Fuzz</creator>
+		<relatedgames/>
+	</game>
+	<game id="17379648" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Vigilant/Hayden/Obelisk/17379648.jpg
+		</thumbnail>
+		<title>Titan Metal Adventure</title>
+		<creator>Vigilant Hayden Obelisk</creator>
+		<relatedgames/>
+	</game>
+	<game id="16950338" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Angelica/Castle/16950338.jpg
+		</thumbnail>
+		<title>Star Atomic Animo</title>
+		<creator>Dazzling Angelica Castle</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

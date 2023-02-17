@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17277603" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eloquent/Parker/Quarry/17277603.jpg
+		</thumbnail>
+		<title>Echo Champion Pulse</title>
+		<creator>Eloquent Parker Quarry</creator>
+		<relatedgames/>
+	</game>
+	<game id="17117134" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Ethel/Pinball/17117134.jpg
+		</thumbnail>
+		<title>Attack Metal Mission</title>
+		<creator>Humorous Ethel Pinball</creator>
+		<relatedgames/>
+	</game>
+	<game id="17581794" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Musical/Bella/Gizzard/17581794.jpg
+		</thumbnail>
+		<title>Doom Target Patrol</title>
+		<creator>Musical Bella Gizzard</creator>
+		<relatedgames/>
+	</game>
+	<game id="17325121" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Able/Zelda/Platypus/17325121.jpg
+		</thumbnail>
+		<title>Cannonbolt Sonic Adventure</title>
+		<creator>Able Zelda Platypus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930625" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Towering/Matthew/Hedgehog/10930625.jpg
+		</thumbnail>
+		<title>Dark Siege Earth</title>
+		<creator>Towering Matthew Hedgehog</creator>
+		<relatedgames/>
+	</game>
+	<game id="10033590" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Bashful/Penny/Orca/10033590.jpg
+		</thumbnail>
+		<title>Droid Adventure Fire</title>
+		<creator>Bashful Penny Orca</creator>
+		<relatedgames/>
+	</game>
+	<game id="17407363" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Adept/Biff/Quark/17407363.jpg
+		</thumbnail>
+		<title>Atomic Earth Plasma</title>
+		<creator>Adept Biff Quark</creator>
+		<relatedgames/>
+	</game>
+	<game id="10063345" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Infamous/Florence/Crumpet/10063345.jpg
+		</thumbnail>
+		<title>Adventure Razor Blaster</title>
+		<creator>Infamous Florence Crumpet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17336642" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quaint/Freddy/Oddball/17336642.jpg
+		</thumbnail>
+		<title>Universe Pulse Vilgax</title>
+		<creator>Quaint Freddy Oddball</creator>
+		<relatedgames/>
+	</game>
+	<game id="17034253" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tough/Connor/Sword/17034253.jpg
+		</thumbnail>
+		<title>Chill Ultimate Attack</title>
+		<creator>Tough Connor Sword</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

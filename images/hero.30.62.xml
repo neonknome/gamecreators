@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10933919" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pleasant/Jeffrey/Goblin/10933919.jpg
+		</thumbnail>
+		<title>Battle Drone Ultra</title>
+		<creator>Pleasant Jeffrey Goblin</creator>
+		<relatedgames/>
+	</game>
+	<game id="17017625" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strong/Ben/Glop/17017625.jpg
+		</thumbnail>
+		<title>Quake Rush Target</title>
+		<creator>Strong Ben Glop</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055468" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Chilly/Hank/Quack/10055468.jpg
+		</thumbnail>
+		<title>Assault Rampage Solar</title>
+		<creator>Chilly Hank Quack</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918059" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fragrant/Apollo/Ooze/10918059.jpg
+		</thumbnail>
+		<title>Alien Challenge Stone</title>
+		<creator>Fragrant Apollo Ooze</creator>
+		<relatedgames/>
+	</game>
+	<game id="17349390" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Perilous/Heidi/Smidgen/17349390.jpg
+		</thumbnail>
+		<title>Racer Energy Iron</title>
+		<creator>Perilous Heidi Smidgen</creator>
+		<relatedgames/>
+	</game>
+	<game id="17352173" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Majestic/Michael/Electron/17352173.jpg
+		</thumbnail>
+		<title>Jetray Cosmic Adventure</title>
+		<creator>Majestic Michael Electron</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953624" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Witty/Madison/Squish/10953624.jpg
+		</thumbnail>
+		<title>Power Spike Hyper</title>
+		<creator>Witty Madison Squish</creator>
+		<relatedgames/>
+	</game>
+	<game id="17333355" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Princess/Wes/Jungle/17333355.jpg
+		</thumbnail>
+		<title>Stone Nitro Fusion</title>
+		<creator>Princess Wes Jungle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10936010" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Surreal/Ivy/Fury/10936010.jpg
+		</thumbnail>
+		<title>Thunder Giga Swampfire</title>
+		<creator>Surreal Ivy Fury</creator>
+		<relatedgames/>
+	</game>
+	<game id="10068760" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dynamic/Leopold/Wizard/10068760.jpg
+		</thumbnail>
+		<title>Swampfire Mega Battle</title>
+		<creator>Dynamic Leopold Wizard</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

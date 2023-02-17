@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17553979" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Heroic/Gavin/Fury/17553979.jpg
+		</thumbnail>
+		<title>Adventure Plumber Adventure</title>
+		<creator>Heroic Gavin Fury</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925842" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frugal/Sean/Volcano/10925842.jpg
+		</thumbnail>
+		<title>Swampfire Doom Adventure</title>
+		<creator>Frugal Sean Volcano</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953605" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scurvy/Edward/Monster/10953605.jpg
+		</thumbnail>
+		<title>Rumble Shadow Techno</title>
+		<creator>Scurvy Edward Monster</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930929" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awesome/Robin/Nova/10930929.jpg
+		</thumbnail>
+		<title>Hyper Nova Attack</title>
+		<creator>Awesome Robin Nova</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952899" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dynamic/Celeste/Dolphin/10952899.jpg
+		</thumbnail>
+		<title>Galaxy Mission Rampage</title>
+		<creator>Dynamic Celeste Dolphin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916697" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zippy/Barney/Elephant/10916697.jpg
+		</thumbnail>
+		<title>Beast Rock Thunder</title>
+		<creator>Zippy Barney Elephant</creator>
+		<relatedgames/>
+	</game>
+	<game id="17549943" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Electric/David/Gamer/17549943.jpg
+		</thumbnail>
+		<title>Chill Shock Force</title>
+		<creator>Electric David Gamer</creator>
+		<relatedgames/>
+	</game>
+	<game id="10936061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Howling/Faith/Tusk/10936061.jpg
+		</thumbnail>
+		<title>Power Adventure Solar</title>
+		<creator>Howling Faith Tusk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17237653" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sunny/Lloyd/Fox/17237653.jpg
+		</thumbnail>
+		<title>Adventure Fire Streak</title>
+		<creator>Sunny Lloyd Fox</creator>
+		<relatedgames/>
+	</game>
+	<game id="10058854" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Mighty/Tony/Goofball/10058854.jpg
+		</thumbnail>
+		<title>Attack Force Mega</title>
+		<creator>Mighty Tony Goofball</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

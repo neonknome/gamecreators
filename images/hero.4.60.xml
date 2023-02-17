@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17574657" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Creepy/George/Sprinkle/17574657.jpg
+		</thumbnail>
+		<title>Chill Plumber Vilgax</title>
+		<creator>Creepy George Sprinkle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17414153" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Vague/Hunter/Celsius/17414153.jpg
+		</thumbnail>
+		<title>Adventure Lightning Assault</title>
+		<creator>Vague Hunter Celsius</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924317" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Kaitlyn/Ketchup/10924317.jpg
+		</thumbnail>
+		<title>Assault Droid Rustbucket</title>
+		<creator>Daring Kaitlyn Ketchup</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055845" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Jumping/Pierre/Droid/10055845.jpg
+		</thumbnail>
+		<title>Power Mission Battle</title>
+		<creator>Jumping Pierre Droid</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055575" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Reckless/Romeo/Spark/10055575.jpg
+		</thumbnail>
+		<title>Fire Ultra Slam</title>
+		<creator>Reckless Romeo Spark</creator>
+		<relatedgames/>
+	</game>
+	<game id="17554026" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Unknown/Zeus/Celsius/17554026.jpg
+		</thumbnail>
+		<title>Light Ben Champion</title>
+		<creator>Unknown Zeus Celsius</creator>
+		<relatedgames/>
+	</game>
+	<game id="10929472" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Shannon/Robot/10929472.jpg
+		</thumbnail>
+		<title>Invasion Vilgax Galaxy</title>
+		<creator>Alien Shannon Robot</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924177" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dapper/Sophia/Bolt/10924177.jpg
+		</thumbnail>
+		<title>Steel Pulse Iron</title>
+		<creator>Dapper Sophia Bolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404545" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Graceful/Payten/Dumpling/17404545.jpg
+		</thumbnail>
+		<title>Rumble Streak Mission</title>
+		<creator>Graceful Payten Dumpling</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953322" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reckless/Erin/Phantom/10953322.jpg
+		</thumbnail>
+		<title>Danger Swampfire Rescue</title>
+		<creator>Reckless Erin Phantom</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

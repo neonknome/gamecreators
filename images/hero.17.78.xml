@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16835000" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Blustery/Zoe/Banshee/16835000.jpg
+		</thumbnail>
+		<title>Energy Adventure Rush</title>
+		<creator>Blustery Zoe Banshee</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crunchy/Miranda/Witch/10916821.jpg
+		</thumbnail>
+		<title>Steel Swampfire Champion</title>
+		<creator>Crunchy Miranda Witch</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925050" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Itchy/Jared/Kazoo/10925050.jpg
+		</thumbnail>
+		<title>Swampfire Rescue Star</title>
+		<creator>Itchy Jared Kazoo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17262495" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quirky/Oscar/Cutlass/17262495.jpg
+		</thumbnail>
+		<title>Robot Gear Atomic</title>
+		<creator>Quirky Oscar Cutlass</creator>
+		<relatedgames/>
+	</game>
+	<game id="10015961" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Twisty/Avery/Fondue/10015961.jpg
+		</thumbnail>
+		<title>Star Breaker Attack</title>
+		<creator>Twisty Avery Fondue</creator>
+		<relatedgames/>
+	</game>
+	<game id="10950896" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nomadic/Alyssa/Kayak/10950896.jpg
+		</thumbnail>
+		<title>Rampage Spark Force</title>
+		<creator>Nomadic Alyssa Kayak</creator>
+		<relatedgames/>
+	</game>
+	<game id="17403914" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Agile/Ben/Jigsaw/17403914.jpg
+		</thumbnail>
+		<title>Atomic Search Space</title>
+		<creator>Agile Ben Jigsaw</creator>
+		<relatedgames/>
+	</game>
+	<game id="17256324" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crispy/Olivia/Lime/17256324.jpg
+		</thumbnail>
+		<title>Hyper Invasion Iron</title>
+		<creator>Crispy Olivia Lime</creator>
+		<relatedgames/>
+	</game>
+	<game id="17394577" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Variable/Ron/Shogun/17394577.jpg
+		</thumbnail>
+		<title>Mega Swampfire Search</title>
+		<creator>Variable Ron Shogun</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953079" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humble/Daniel/Scorpion/10953079.jpg
+		</thumbnail>
+		<title>Plumber Force Rampage</title>
+		<creator>Humble Daniel Scorpion</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

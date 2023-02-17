@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17408837" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cranky/Conrad/17408837.jpg
+		</thumbnail>
+		<title>Racer Siege Rock</title>
+		<creator>Cranky Conrad</creator>
+		<relatedgames/>
+	</game>
+	<game id="10057035" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Generous/Justin/Coconut/10057035.jpg
+		</thumbnail>
+		<title>Atomic Adventure Alien</title>
+		<creator>Generous Justin Coconut</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918223" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Purple/Sam/Warp/10918223.jpg
+		</thumbnail>
+		<title>Rumble Swampfire Warrior</title>
+		<creator>Purple Sam Warp</creator>
+		<relatedgames/>
+	</game>
+	<game id="16981505" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Enormous/Bella/Bucket/16981505.jpg
+		</thumbnail>
+		<title>Adventure Lightning Challenge</title>
+		<creator>Enormous Bella Bucket</creator>
+		<relatedgames/>
+	</game>
+	<game id="10949434" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crunchy/Angel/Goblin/10949434.jpg
+		</thumbnail>
+		<title>Burst Target Space</title>
+		<creator>Crunchy Angel Goblin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952564" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gloomy/Harry/Bolt/10952564.jpg
+		</thumbnail>
+		<title>Rocket Drone Adventure</title>
+		<creator>Gloomy Harry Bolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="17393705" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sinister/Marcus/Oink/17393705.jpg
+		</thumbnail>
+		<title>Hero Alien Beast</title>
+		<creator>Sinister Marcus Oink</creator>
+		<relatedgames/>
+	</game>
+	<game id="16975496" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quiet/Alex/Wolf/16975496.jpg
+		</thumbnail>
+		<title>Dark Nano Power</title>
+		<creator>Quiet Alex Wolf</creator>
+		<relatedgames/>
+	</game>
+	<game id="10039014" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Loopy/Logan/Chimera/10039014.jpg
+		</thumbnail>
+		<title>Mega Fire Slam</title>
+		<creator>Loopy Logan Chimera</creator>
+		<relatedgames/>
+	</game>
+	<game id="17411673" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Organic/Yvonne/Sprocket/17411673.jpg
+		</thumbnail>
+		<title>Fury Doom Ultra</title>
+		<creator>Organic Yvonne Sprocket</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

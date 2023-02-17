@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10953524" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grimy/Zeke/Monkey/10953524.jpg
+		</thumbnail>
+		<title>Ultimate Fury Force</title>
+		<creator>Grimy Zeke Monkey</creator>
+		<relatedgames/>
+	</game>
+	<game id="16928645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spectral/Angel/Fang/16928645.jpg
+		</thumbnail>
+		<title>Racer Adventure Storm</title>
+		<creator>Spectral Angel Fang</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918300" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brawny/Bradley/Howler/10918300.jpg
+		</thumbnail>
+		<title>Steel Burst Dark</title>
+		<creator>Brawny Bradley Howler</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927809" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sporty/Helga/Cyborg/10927809.jpg
+		</thumbnail>
+		<title>Ben Challenge Spark</title>
+		<creator>Sporty Helga Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="17282616" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Aromatic/Lucas/Buffalo/17282616.jpg
+		</thumbnail>
+		<title>Ultimate Vilgax Smash</title>
+		<creator>Aromatic Lucas Buffalo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17345413" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grim/Benson/Blizzard/17345413.jpg
+		</thumbnail>
+		<title>Rampage Plasma Rush</title>
+		<creator>Grim Benson Blizzard</creator>
+		<relatedgames/>
+	</game>
+	<game id="17389503" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Lanky/Flint/Gorgon/17389503.jpg
+		</thumbnail>
+		<title>Stone Nova Star</title>
+		<creator>Lanky Flint Gorgon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916994" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Happy/Bucky/Cobweb/10916994.jpg
+		</thumbnail>
+		<title>Star Mega Breaker</title>
+		<creator>Happy Bucky Cobweb</creator>
+		<relatedgames/>
+	</game>
+	<game id="10045372" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Obvious/Shane/Zigzag/10045372.jpg
+		</thumbnail>
+		<title>Ultra Swampfire Rush</title>
+		<creator>Obvious Shane Zigzag</creator>
+		<relatedgames/>
+	</game>
+	<game id="16939364" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Splendid/Simon/Sardine/16939364.jpg
+		</thumbnail>
+		<title>Rush Rush Rush</title>
+		<creator>Splendid Simon Sardine</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

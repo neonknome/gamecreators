@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10932339" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Floyd/Gumbo/10932339.jpg
+		</thumbnail>
+		<title>Adventure Plasma Nitro</title>
+		<creator>Chilly Floyd Gumbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17304147" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Stanley/Quake/17304147.jpg
+		</thumbnail>
+		<title>Cannonbolt Cannonbolt Cannonbolt</title>
+		<creator>Flying Stanley Quake</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925582" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dynamic/Stacy/Crumpet/10925582.jpg
+		</thumbnail>
+		<title>Adventure Adventure Battle</title>
+		<creator>Dynamic Stacy Crumpet</creator>
+		<relatedgames/>
+	</game>
+	<game id="10932732" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Majestic/Logan/Obelisk/10932732.jpg
+		</thumbnail>
+		<title>Chase Spark Adventure</title>
+		<creator>Majestic Logan Obelisk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17290900" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shady/Dalton/Ion/17290900.jpg
+		</thumbnail>
+		<title>Pursuit Rock Water</title>
+		<creator>Shady Dalton Ion</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930210" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Witty/Bert/Parsec/10930210.jpg
+		</thumbnail>
+		<title>Rush Turbo Assault</title>
+		<creator>Witty Bert Parsec</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920801" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dynamic/Felix/Gizmo/10920801.jpg
+		</thumbnail>
+		<title>Atomic Cosmic Fusion</title>
+		<creator>Dynamic Felix Gizmo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952504" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Heroic/Danielle/Cobra/10952504.jpg
+		</thumbnail>
+		<title>Escape Fire Patrol</title>
+		<creator>Heroic Danielle Cobra</creator>
+		<relatedgames/>
+	</game>
+	<game id="17380187" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frugal/Ralph/Camel/17380187.jpg
+		</thumbnail>
+		<title>Big Droid Battle</title>
+		<creator>Frugal Ralph Camel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924909" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scurvy/Diana/Haystack/10924909.jpg
+		</thumbnail>
+		<title>Gear Battle Racer</title>
+		<creator>Scurvy Diana Haystack</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

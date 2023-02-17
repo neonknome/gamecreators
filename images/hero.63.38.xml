@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10930329" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Aquatic/Richard/Troll/10930329.jpg
+		</thumbnail>
+		<title>Battle Droid Solar</title>
+		<creator>Aquatic Richard Troll</creator>
+		<relatedgames/>
+	</game>
+	<game id="10780341" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Green/Holly/Crater/10780341.jpg
+		</thumbnail>
+		<title>Shock Defense Magno</title>
+		<creator>Green Holly Crater</creator>
+		<relatedgames/>
+	</game>
+	<game id="17376535" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/King/Leopold/Python/17376535.jpg
+		</thumbnail>
+		<title>Beast Atomic Magno</title>
+		<creator>King Leopold Python</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925450" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Handsome/Noah/Penguin/10925450.jpg
+		</thumbnail>
+		<title>Rocket Ultimate Assault</title>
+		<creator>Handsome Noah Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952660" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Megan/Octopus/10952660.jpg
+		</thumbnail>
+		<title>Search Assault Rumble</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916785" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Splendid/Igor/Rutabaga/10916785.jpg
+		</thumbnail>
+		<title>Rocket Adventure Champion</title>
+		<creator>Splendid Igor Rutabaga</creator>
+		<relatedgames/>
+	</game>
+	<game id="17417038" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cagey/Bailey/Jalapeno/17417038.jpg
+		</thumbnail>
+		<title>Animo Ambush Target</title>
+		<creator>Cagey Bailey Jalapeno</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927951" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Feisty/Pearl/Hambone/10927951.jpg
+		</thumbnail>
+		<title>Turbo Alien Adventure</title>
+		<creator>Feisty Pearl Hambone</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928185" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Atomic/Craig/Bagpipe/10928185.jpg
+		</thumbnail>
+		<title>Escape Force Crusher</title>
+		<creator>Atomic Craig Bagpipe</creator>
+		<relatedgames/>
+	</game>
+	<game id="16860361" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Cameron/Grackle/16860361.jpg
+		</thumbnail>
+		<title>Titan Defense Whirlwind</title>
+		<creator>Obvious Cameron Grackle</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

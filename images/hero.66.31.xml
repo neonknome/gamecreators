@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17335491" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scurvy/Payton/Pelican/17335491.jpg
+		</thumbnail>
+		<title>Plasma Magno Space</title>
+		<creator>Scurvy Payton Pelican</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919681" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wise/Jasmine/Blob/10919681.jpg
+		</thumbnail>
+		<title>Breaker Dark Challenge</title>
+		<creator>Wise Jasmine Blob</creator>
+		<relatedgames/>
+	</game>
+	<game id="17576666" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Prince/Summer/Spider/17576666.jpg
+		</thumbnail>
+		<title>Challenge Star Fury</title>
+		<creator>Prince Summer Spider</creator>
+		<relatedgames/>
+	</game>
+	<game id="10929624" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dynamic/Clyde/Fondue/10929624.jpg
+		</thumbnail>
+		<title>Ben Ben Ben</title>
+		<creator>Dynamic Clyde Fondue</creator>
+		<relatedgames/>
+	</game>
+	<game id="17554096" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frugal/Emmett/Rhombus/17554096.jpg
+		</thumbnail>
+		<title>Robot Challenge Vilgax</title>
+		<creator>Frugal Emmett Rhombus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17331653" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Electric/Izzy/Coconut/17331653.jpg
+		</thumbnail>
+		<title>Energy Whirlwind Cosmic</title>
+		<creator>Electric Izzy Coconut</creator>
+		<relatedgames/>
+	</game>
+	<game id="10063843" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Shrewd/Minerva/Aurora/10063843.jpg
+		</thumbnail>
+		<title>Storm Plasma Spike</title>
+		<creator>Shrewd Minerva Aurora</creator>
+		<relatedgames/>
+	</game>
+	<game id="16976893" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Grover/Alien/16976893.jpg
+		</thumbnail>
+		<title>Mega Challenge Mission</title>
+		<creator>Barbaric Grover Alien</creator>
+		<relatedgames/>
+	</game>
+	<game id="17280623" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elastic/Connor/Sprocket/17280623.jpg
+		</thumbnail>
+		<title>Danger Power Adventure</title>
+		<creator>Elastic Connor Sprocket</creator>
+		<relatedgames/>
+	</game>
+	<game id="17005196" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Horrid/Henry/Squish/17005196.jpg
+		</thumbnail>
+		<title>Giga Atomic Assault</title>
+		<creator>Horrid Henry Squish</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

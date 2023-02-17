@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17578219" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Rancid/Don/Nova/17578219.jpg
+		</thumbnail>
+		<title>Clash Chill Spidermonkey</title>
+		<creator>Rancid Don Nova</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953046" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Henry/Quasar/10953046.jpg
+		</thumbnail>
+		<title>Universe Adventure Ultra</title>
+		<creator>Alien Henry Quasar</creator>
+		<relatedgames/>
+	</game>
+	<game id="17205541" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cute/Meghan/Jingles/17205541.jpg
+		</thumbnail>
+		<title>Danger Clash Attack</title>
+		<creator>Cute Meghan Jingles</creator>
+		<relatedgames/>
+	</game>
+	<game id="17278972" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Virtual/Victor/Rebel/17278972.jpg
+		</thumbnail>
+		<title>Giga Hyper Rustbucket</title>
+		<creator>Virtual Victor Rebel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10937939" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Gigi/Lobster/10937939.jpg
+		</thumbnail>
+		<title>Alien Fire Smash</title>
+		<creator>Dazzling Gigi Lobster</creator>
+		<relatedgames/>
+	</game>
+	<game id="17343024" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spectral/Don/Goblin/17343024.jpg
+		</thumbnail>
+		<title>Cosmic Rock Breaker</title>
+		<creator>Spectral Don Goblin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10917018" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reliable/Victor/Whizbang/10917018.jpg
+		</thumbnail>
+		<title>Solar Storm Chase</title>
+		<creator>Reliable Victor Whizbang</creator>
+		<relatedgames/>
+	</game>
+	<game id="16958340" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artful/Kate/Bongo/16958340.jpg
+		</thumbnail>
+		<title>Storm Rocket Jetray</title>
+		<creator>Artful Kate Bongo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17257764" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Reuben/Knight/17257764.jpg
+		</thumbnail>
+		<title>Ben Pursuit Titan</title>
+		<creator>Dashing Reuben Knight</creator>
+		<relatedgames/>
+	</game>
+	<game id="17575180" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grimy/Jesse/Zigzag/17575180.jpg
+		</thumbnail>
+		<title>Defense Storm Pulse</title>
+		<creator>Grimy Jesse Zigzag</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

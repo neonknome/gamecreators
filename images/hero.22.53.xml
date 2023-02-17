@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17015007" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proper/Vince/Volcano/17015007.jpg
+		</thumbnail>
+		<title>Swampfire Gear Defense</title>
+		<creator>Proper Vince Volcano</creator>
+		<relatedgames/>
+	</game>
+	<game id="17173567" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Singular/Egbert/Eel/17173567.jpg
+		</thumbnail>
+		<title>Chase Shock Universe</title>
+		<creator>Singular Egbert Eel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17316341" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Rich/Sunshine/17316341.jpg
+		</thumbnail>
+		<title>Galaxy Danger Challenge</title>
+		<creator>Queen Rich Sunshine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923074" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elusive/James/Vector/10923074.jpg
+		</thumbnail>
+		<title>Target Adventure Dark</title>
+		<creator>Elusive James Vector</creator>
+		<relatedgames/>
+	</game>
+	<game id="17574657" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Creepy/George/Sprinkle/17574657.jpg
+		</thumbnail>
+		<title>Chill Plumber Vilgax</title>
+		<creator>Creepy George Sprinkle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931323" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gigantic/Jose/Dynamite/10931323.jpg
+		</thumbnail>
+		<title>Fire Thunder Storm</title>
+		<creator>Gigantic Jose Dynamite</creator>
+		<relatedgames/>
+	</game>
+	<game id="17416279" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Smelly/Robin/Hippo/17416279.jpg
+		</thumbnail>
+		<title>Hex Fury Mega</title>
+		<creator>Smelly Robin Hippo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17555017" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magical/Isaac/Enigma/17555017.jpg
+		</thumbnail>
+		<title>Challenge Target Racer</title>
+		<creator>Magical Isaac Enigma</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924136" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Horrid/Duncan/Squirrel/10924136.jpg
+		</thumbnail>
+		<title>Fury Force Adventure</title>
+		<creator>Horrid Duncan Squirrel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17262274" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Popular/Roscoe/Volcano/17262274.jpg
+		</thumbnail>
+		<title>Universe Ultimate Nitro</title>
+		<creator>Popular Roscoe Volcano</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

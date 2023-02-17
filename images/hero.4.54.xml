@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10928166" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Jeremy/Tractor/10928166.jpg
+		</thumbnail>
+		<title>Nitro Storm Rush</title>
+		<creator>Chilly Jeremy Tractor</creator>
+		<relatedgames/>
+	</game>
+	<game id="10929106" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eager/Madeline/Barnacle/10929106.jpg
+		</thumbnail>
+		<title>Racer Rocket Crusher</title>
+		<creator>Eager Madeline Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17296006" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Complex/Dennis/Apple/17296006.jpg
+		</thumbnail>
+		<title>Stone Rustbucket Adventure</title>
+		<creator>Complex Dennis Apple</creator>
+		<relatedgames/>
+	</game>
+	<game id="10932051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Funny/Sam/Bramble/10932051.jpg
+		</thumbnail>
+		<title>Razor Fire Titan</title>
+		<creator>Funny Sam Bramble</creator>
+		<relatedgames/>
+	</game>
+	<game id="17423217" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Major/Kelly/Beeswax/17423217.jpg
+		</thumbnail>
+		<title>Rumble Streak Ben</title>
+		<creator>Major Kelly Beeswax</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930527" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shaggy/Hunter/Behemoth/10930527.jpg
+		</thumbnail>
+		<title>Pursuit Turbo Swampfire</title>
+		<creator>Shaggy Hunter Behemoth</creator>
+		<relatedgames/>
+	</game>
+	<game id="17503975" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Prolific/Cole/Sprout/17503975.jpg
+		</thumbnail>
+		<title>Rocket Breaker Galaxy</title>
+		<creator>Prolific Cole Sprout</creator>
+		<relatedgames/>
+	</game>
+	<game id="10064388" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Sincere/Diego/Tiptoe/10064388.jpg
+		</thumbnail>
+		<title>Adventure Challenge Battle</title>
+		<creator>Sincere Diego Tiptoe</creator>
+		<relatedgames/>
+	</game>
+	<game id="10938061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Lively/Felix/Cipher/10938061.jpg
+		</thumbnail>
+		<title>Racer Universe Sonic</title>
+		<creator>Lively Felix Cipher</creator>
+		<relatedgames/>
+	</game>
+	<game id="17400821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Venomous/Buster/Tarragon/17400821.jpg
+		</thumbnail>
+		<title>Giga Techno Big</title>
+		<creator>Venomous Buster Tarragon</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

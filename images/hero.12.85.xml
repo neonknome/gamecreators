@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17326120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Abstract/Hector/Dragoon/17326120.jpg
+		</thumbnail>
+		<title>Giga Turbo Space</title>
+		<creator>Abstract Hector Dragoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10936939" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bizarre/Ace/Warthog/10936939.jpg
+		</thumbnail>
+		<title>Fusion Vilgax Galaxy</title>
+		<creator>Bizarre Ace Warthog</creator>
+		<relatedgames/>
+	</game>
+	<game id="17554074" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eloquent/Dillon/Bayou/17554074.jpg
+		</thumbnail>
+		<title>Gear Magno Droid</title>
+		<creator>Eloquent Dillon Bayou</creator>
+		<relatedgames/>
+	</game>
+	<game id="10069142" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Humorous/Elroy/Klunk/10069142.jpg
+		</thumbnail>
+		<title>Alien Adventure Ultra</title>
+		<creator>Humorous Elroy Klunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17376217" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gigantic/Derek/Pelican/17376217.jpg
+		</thumbnail>
+		<title>Ambush Nova Adventure</title>
+		<creator>Gigantic Derek Pelican</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924451" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Musical/Andrew/Jalapeno/10924451.jpg
+		</thumbnail>
+		<title>Dark Robot Rustbucket</title>
+		<creator>Musical Andrew Jalapeno</creator>
+		<relatedgames/>
+	</game>
+	<game id="10064388" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Sincere/Diego/Tiptoe/10064388.jpg
+		</thumbnail>
+		<title>Adventure Challenge Battle</title>
+		<creator>Sincere Diego Tiptoe</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916705" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Infinite/Jill/Thorax/10916705.jpg
+		</thumbnail>
+		<title>Rumble Challenge Slam</title>
+		<creator>Infinite Jill Thorax</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918129" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Towering/Joshua/Popcorn/10918129.jpg
+		</thumbnail>
+		<title>Drone Streak Ultra</title>
+		<creator>Towering Joshua Popcorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928093" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bashful/Gulliver/Clang/10928093.jpg
+		</thumbnail>
+		<title>Swampfire Ben Thunder</title>
+		<creator>Bashful Gulliver Clang</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16983247" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brisk/Ben/Ballyhoo/16983247.jpg
+		</thumbnail>
+		<title>Spike Drone Ultra</title>
+		<creator>Brisk Ben Ballyhoo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10946491" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fanciful/Sandra/Howler/10946491.jpg
+		</thumbnail>
+		<title>Warrior Quake Pursuit</title>
+		<creator>Fanciful Sandra Howler</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953463" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artistic/Leonardo/Zebra/10953463.jpg
+		</thumbnail>
+		<title>Fury Space Plasma</title>
+		<creator>Artistic Leonardo Zebra</creator>
+		<relatedgames/>
+	</game>
+	<game id="17318747" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gross/Newton/Windmill/17318747.jpg
+		</thumbnail>
+		<title>Shadow Blaster Atomic</title>
+		<creator>Gross Newton Windmill</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923524" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Normal/Merlin/Monster/10923524.jpg
+		</thumbnail>
+		<title>Robot Drone Fury</title>
+		<creator>Normal Merlin Monster</creator>
+		<relatedgames/>
+	</game>
+	<game id="17277603" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eloquent/Parker/Quarry/17277603.jpg
+		</thumbnail>
+		<title>Echo Champion Pulse</title>
+		<creator>Eloquent Parker Quarry</creator>
+		<relatedgames/>
+	</game>
+	<game id="16997259" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Creepy/Ashton/Vulture/16997259.jpg
+		</thumbnail>
+		<title>Iron Big Robot</title>
+		<creator>Creepy Ashton Vulture</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953074" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gigantic/Felix/Shark/10953074.jpg
+		</thumbnail>
+		<title>Nitro Plasma Light</title>
+		<creator>Gigantic Felix Shark</creator>
+		<relatedgames/>
+	</game>
+	<game id="10943227" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sincere/Logan/Mustang/10943227.jpg
+		</thumbnail>
+		<title>Siege Chase Ambush</title>
+		<creator>Sincere Logan Mustang</creator>
+		<relatedgames/>
+	</game>
+	<game id="17259049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Lawrence/Eggplant/17259049.jpg
+		</thumbnail>
+		<title>Big Earth Nova</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10953354" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jolly/Bryan/Kook/10953354.jpg
+		</thumbnail>
+		<title>Alien Robot Nitro</title>
+		<creator>Jolly Bryan Kook</creator>
+		<relatedgames/>
+	</game>
+	<game id="17318747" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gross/Newton/Windmill/17318747.jpg
+		</thumbnail>
+		<title>Shadow Blaster Atomic</title>
+		<creator>Gross Newton Windmill</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923524" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Normal/Merlin/Monster/10923524.jpg
+		</thumbnail>
+		<title>Robot Drone Fury</title>
+		<creator>Normal Merlin Monster</creator>
+		<relatedgames/>
+	</game>
+	<game id="17085481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Vibrant/Gabriel/Mahogany/17085481.jpg
+		</thumbnail>
+		<title>Nitro Mega Smash</title>
+		<creator>Vibrant Gabriel Mahogany</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952671" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brawny/Scooter/Monolith/10952671.jpg
+		</thumbnail>
+		<title>Target Metal Challenge</title>
+		<creator>Brawny Scooter Monolith</creator>
+		<relatedgames/>
+	</game>
+	<game id="10943227" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sincere/Logan/Mustang/10943227.jpg
+		</thumbnail>
+		<title>Siege Chase Ambush</title>
+		<creator>Sincere Logan Mustang</creator>
+		<relatedgames/>
+	</game>
+	<game id="10033590" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Bashful/Penny/Orca/10033590.jpg
+		</thumbnail>
+		<title>Droid Adventure Fire</title>
+		<creator>Bashful Penny Orca</creator>
+		<relatedgames/>
+	</game>
+	<game id="17102291" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elite/Luke/Mastodon/17102291.jpg
+		</thumbnail>
+		<title>Nano Sonic Assault</title>
+		<creator>Elite Luke Mastodon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17337940" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humble/Wilbur/Skunk/17337940.jpg
+		</thumbnail>
+		<title>Jetray Ambush Adventure</title>
+		<creator>Humble Wilbur Skunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942784" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ghostly/Jacob/Thorax/10942784.jpg
+		</thumbnail>
+		<title>Rock Fusion Nitro</title>
+		<creator>Ghostly Jacob Thorax</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10934745" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Absurd/Baxter/Cosmos/10934745.jpg
+		</thumbnail>
+		<title>Star Rustbucket Quake</title>
+		<creator>Absurd Baxter Cosmos</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923763" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tricky/Fred/Biscuit/10923763.jpg
+		</thumbnail>
+		<title>Rampage Ultra Nano</title>
+		<creator>Tricky Fred Biscuit</creator>
+		<relatedgames/>
+	</game>
+	<game id="10057062" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Bizarre/Zelda/Catapult/10057062.jpg
+		</thumbnail>
+		<title>Droid Target Rush</title>
+		<creator>Bizarre Zelda Catapult</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924392" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Adorable/Eddie/Catapult/10924392.jpg
+		</thumbnail>
+		<title>Fury Fusion Crusher</title>
+		<creator>Adorable Eddie Catapult</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924693" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crispy/Cory/Dingbat/10924693.jpg
+		</thumbnail>
+		<title>Smash Breaker Fire</title>
+		<creator>Crispy Cory Dingbat</creator>
+		<relatedgames/>
+	</game>
+	<game id="17584898" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Intrepid/Finn/Clone/17584898.jpg
+		</thumbnail>
+		<title>Cannonbolt Storm Assault</title>
+		<creator>Intrepid Finn Clone</creator>
+		<relatedgames/>
+	</game>
+	<game id="17323452" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Lawrence/Eggplant/17323452.jpg
+		</thumbnail>
+		<title>Ultimate Cannonbolt Cannonbolt</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames/>
+	</game>
+	<game id="17381078" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Toxic/Xavier/Oyster/17381078.jpg
+		</thumbnail>
+		<title>Rumble Nano Nova</title>
+		<creator>Toxic Xavier Oyster</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931923" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noble/Noah/Gazelle/10931923.jpg
+		</thumbnail>
+		<title>Escape Rampage Mega</title>
+		<creator>Noble Noah Gazelle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17340123" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Admiral/Joshua/Tuxedo/17340123.jpg
+		</thumbnail>
+		<title>Power Shock Smash</title>
+		<creator>Admiral Joshua Tuxedo</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

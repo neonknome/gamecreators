@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10924392" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Adorable/Eddie/Catapult/10924392.jpg
+		</thumbnail>
+		<title>Fury Fusion Crusher</title>
+		<creator>Adorable Eddie Catapult</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924693" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crispy/Cory/Dingbat/10924693.jpg
+		</thumbnail>
+		<title>Smash Breaker Fire</title>
+		<creator>Crispy Cory Dingbat</creator>
+		<relatedgames/>
+	</game>
+	<game id="17584898" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Intrepid/Finn/Clone/17584898.jpg
+		</thumbnail>
+		<title>Cannonbolt Storm Assault</title>
+		<creator>Intrepid Finn Clone</creator>
+		<relatedgames/>
+	</game>
+	<game id="17323452" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Lawrence/Eggplant/17323452.jpg
+		</thumbnail>
+		<title>Ultimate Cannonbolt Cannonbolt</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames/>
+	</game>
+	<game id="17381078" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Toxic/Xavier/Oyster/17381078.jpg
+		</thumbnail>
+		<title>Rumble Nano Nova</title>
+		<creator>Toxic Xavier Oyster</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931923" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noble/Noah/Gazelle/10931923.jpg
+		</thumbnail>
+		<title>Escape Rampage Mega</title>
+		<creator>Noble Noah Gazelle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17400817" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Healthy/Kyle/Squid/17400817.jpg
+		</thumbnail>
+		<title>Mission Big Chill</title>
+		<creator>Healthy Kyle Squid</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924399" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frosty/Cory/Cyclone/10924399.jpg
+		</thumbnail>
+		<title>Swampfire Spark Star</title>
+		<creator>Frosty Cory Cyclone</creator>
+		<relatedgames/>
+	</game>
+	<game id="17392679" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sublime/Alvin/Amoeba/17392679.jpg
+		</thumbnail>
+		<title>Ben Battle Siege</title>
+		<creator>Sublime Alvin Amoeba</creator>
+		<relatedgames/>
+	</game>
+	<game id="17028951" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Average/Carlos/Behemoth/17028951.jpg
+		</thumbnail>
+		<title>Slam Attack Mission</title>
+		<creator>Average Carlos Behemoth</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

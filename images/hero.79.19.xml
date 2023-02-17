@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10919311" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proper/Wilbur/Nacho/10919311.jpg
+		</thumbnail>
+		<title>Plumber Plumber Plumber</title>
+		<creator>Proper Wilbur Nacho</creator>
+		<relatedgames/>
+	</game>
+	<game id="10015692" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cosmic/Amber/Iceberg/10015692.jpg
+		</thumbnail>
+		<title>Chase Nitro Crusher</title>
+		<creator>Cosmic Amber Iceberg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916882" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tricky/Felix/Pontoon/10916882.jpg
+		</thumbnail>
+		<title>Rumble Adventure Challenge</title>
+		<creator>Tricky Felix Pontoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17380930" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Emperor/Alex/Sunrise/17380930.jpg
+		</thumbnail>
+		<title>Fusion Big Adventure</title>
+		<creator>Emperor Alex Sunrise</creator>
+		<relatedgames/>
+	</game>
+	<game id="17382087" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Creepy/Richard/Oink/17382087.jpg
+		</thumbnail>
+		<title>Fusion Rescue Drone</title>
+		<creator>Creepy Richard Oink</creator>
+		<relatedgames/>
+	</game>
+	<game id="10937465" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gigantic/Natalie/Marigold/10937465.jpg
+		</thumbnail>
+		<title>Alien Assault Hero</title>
+		<creator>Gigantic Natalie Marigold</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953330" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sincere/Noah/Barnacle/10953330.jpg
+		</thumbnail>
+		<title>Plumber Attack Ultimate</title>
+		<creator>Sincere Noah Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17288430" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Lawrence/Eggplant/17288430.jpg
+		</thumbnail>
+		<title>Ultimate Echo Echo</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames/>
+	</game>
+	<game id="17261922" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Lively/Sophie/Viking/17261922.jpg
+		</thumbnail>
+		<title>Spidermonkey Galaxy Storm</title>
+		<creator>Lively Sophie Viking</creator>
+		<relatedgames/>
+	</game>
+	<game id="17415451" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Healthy/Irwin/Pinwheel/17415451.jpg
+		</thumbnail>
+		<title>Ambush Earth Alien</title>
+		<creator>Healthy Irwin Pinwheel</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

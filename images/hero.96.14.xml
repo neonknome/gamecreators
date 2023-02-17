@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17159498" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eastern/Grover/Bagpipe/17159498.jpg
+		</thumbnail>
+		<title>Adventure Champion Cosmic</title>
+		<creator>Eastern Grover Bagpipe</creator>
+		<relatedgames/>
+	</game>
+	<game id="10040167" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Honest/Milo/Moonbeam/10040167.jpg
+		</thumbnail>
+		<title>Sonic Pulse Invasion</title>
+		<creator>Honest Milo Moonbeam</creator>
+		<relatedgames/>
+	</game>
+	<game id="10032655" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Massive/Ginger/Phantom/10032655.jpg
+		</thumbnail>
+		<title>Turbo Rock Plasma</title>
+		<creator>Massive Ginger Phantom</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935324" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Riley/Ketchup/10935324.jpg
+		</thumbnail>
+		<title>Metal Alien Ambush</title>
+		<creator>Humorous Riley Ketchup</creator>
+		<relatedgames/>
+	</game>
+	<game id="10946650" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Napoleon/Cupcake/10946650.jpg
+		</thumbnail>
+		<title>Iron Ambush Plumber</title>
+		<creator>Dazzling Napoleon Cupcake</creator>
+		<relatedgames/>
+	</game>
+	<game id="17022147" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loony/Ricardo/Quake/17022147.jpg
+		</thumbnail>
+		<title>Adventure Thunder Blaster</title>
+		<creator>Loony Ricardo Quake</creator>
+		<relatedgames/>
+	</game>
+	<game id="17126481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Restless/Xerxes/Kook/17126481.jpg
+		</thumbnail>
+		<title>Sonic Chase Blaster</title>
+		<creator>Restless Xerxes Kook</creator>
+		<relatedgames/>
+	</game>
+	<game id="17389194" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artful/Russell/Cobweb/17389194.jpg
+		</thumbnail>
+		<title>Universe Shadow Pursuit</title>
+		<creator>Artful Russell Cobweb</creator>
+		<relatedgames/>
+	</game>
+	<game id="10940698" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Zeb/Crash/10940698.jpg
+		</thumbnail>
+		<title>Hex Robot Rumble</title>
+		<creator>Dashing Zeb Crash</creator>
+		<relatedgames/>
+	</game>
+	<game id="17584138" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grizzly/Dolly/Moonbeam/17584138.jpg
+		</thumbnail>
+		<title>Adventure Adventure Water</title>
+		<creator>Grizzly Dolly Moonbeam</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

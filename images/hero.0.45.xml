@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10055989" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Valiant/Sterling/Popcorn/10055989.jpg
+		</thumbnail>
+		<title>Spike Force Adventure</title>
+		<creator>Valiant Sterling Popcorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926065" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brave/Otis/Elephant/10926065.jpg
+		</thumbnail>
+		<title>Rocket Crusher Fusion</title>
+		<creator>Brave Otis Elephant</creator>
+		<relatedgames/>
+	</game>
+	<game id="10948867" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noble/Ron/Frost/10948867.jpg
+		</thumbnail>
+		<title>Adventure Search Attack</title>
+		<creator>Noble Ron Frost</creator>
+		<relatedgames/>
+	</game>
+	<game id="16917205" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/King/Bernard/Fizz/16917205.jpg
+		</thumbnail>
+		<title>Shadow Target Hyper</title>
+		<creator>King Bernard Fizz</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919497" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Ethel/Atom/10919497.jpg
+		</thumbnail>
+		<title>Alien Stone Solar</title>
+		<creator>Red Ethel Atom</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928015" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Unusual/Rocky/Gizzard/10928015.jpg
+		</thumbnail>
+		<title>Fury Lightning Nova</title>
+		<creator>Unusual Rocky Gizzard</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952604" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Megan/Octopus/10952604.jpg
+		</thumbnail>
+		<title>Escape Thunder Defense</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923136" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Horrid/Mario/Dwarf/10923136.jpg
+		</thumbnail>
+		<title>Mission Vilgax Fusion</title>
+		<creator>Horrid Mario Dwarf</creator>
+		<relatedgames/>
+	</game>
+	<game id="17281055" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Generous/Lillian/Doodle/17281055.jpg
+		</thumbnail>
+		<title>Rescue Assault Ambush</title>
+		<creator>Generous Lillian Doodle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055578" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Mighty/Jesse/Bonkers/10055578.jpg
+		</thumbnail>
+		<title>Rescue Adventure Attack</title>
+		<creator>Mighty Jesse Bonkers</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

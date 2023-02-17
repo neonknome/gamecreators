@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10926594" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Valiant/Maya/Rutabaga/10926594.jpg
+		</thumbnail>
+		<title>Light Search Ultra</title>
+		<creator>Valiant Maya Rutabaga</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922895" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brave/Ernie/Blitz/10922895.jpg
+		</thumbnail>
+		<title>Hyper Spark Hero</title>
+		<creator>Brave Ernie Blitz</creator>
+		<relatedgames/>
+	</game>
+	<game id="17333051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Ricardo/Tiger/17333051.jpg
+		</thumbnail>
+		<title>Chill Dark Sonic</title>
+		<creator>Daring Ricardo Tiger</creator>
+		<relatedgames/>
+	</game>
+	<game id="17585367" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Keen/Isaiah/Phoenix/17585367.jpg
+		</thumbnail>
+		<title>Energy Giga Dark</title>
+		<creator>Keen Isaiah Phoenix</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919825" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Bruce/Ooze/10919825.jpg
+		</thumbnail>
+		<title>Space Turbo Solar</title>
+		<creator>Red Bruce Ooze</creator>
+		<relatedgames/>
+	</game>
+	<game id="17584078" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Unusual/Krystal/Jupiter/17584078.jpg
+		</thumbnail>
+		<title>Rustbucket Pursuit Rampage</title>
+		<creator>Unusual Krystal Jupiter</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952782" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Fred/Mallard/10952782.jpg
+		</thumbnail>
+		<title>Swampfire Dark Rescue</title>
+		<creator>Obvious Fred Mallard</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930555" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Drew/Jalapeno/10930555.jpg
+		</thumbnail>
+		<title>Escape Alien Ambush</title>
+		<creator>Daring Drew Jalapeno</creator>
+		<relatedgames/>
+	</game>
+	<game id="17206021" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Volcanic/Gabriel/Tarragon/17206021.jpg
+		</thumbnail>
+		<title>Adventure Attack Target</title>
+		<creator>Volcanic Gabriel Tarragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="16887190" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tall/Drew/Dragoon/16887190.jpg
+		</thumbnail>
+		<title>Doom Danger Light</title>
+		<creator>Tall Drew Dragoon</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

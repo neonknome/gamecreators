@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10938798" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Massive/Hansel/Basilisk/10938798.jpg
+		</thumbnail>
+		<title>Swampfire Galaxy Smash</title>
+		<creator>Massive Hansel Basilisk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17286743" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sharp/Max/Mantis/17286743.jpg
+		</thumbnail>
+		<title>Ben Champion Warrior</title>
+		<creator>Sharp Max Mantis</creator>
+		<relatedgames/>
+	</game>
+	<game id="10039147" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Husky/Bessie/Iceberg/10039147.jpg
+		</thumbnail>
+		<title>Shadow Attack Galaxy</title>
+		<creator>Husky Bessie Iceberg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953554" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Swift/Owen/Gumbo/10953554.jpg
+		</thumbnail>
+		<title>Turbo Turbo Battle</title>
+		<creator>Swift Owen Gumbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922330" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Babbling/Oscar/Tornado/10922330.jpg
+		</thumbnail>
+		<title>Shadow Defense Spark</title>
+		<creator>Babbling Oscar Tornado</creator>
+		<relatedgames/>
+	</game>
+	<game id="17177519" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Singular/Egbert/Eel/17177519.jpg
+		</thumbnail>
+		<title>Alien Adventure Adventure</title>
+		<creator>Singular Egbert Eel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17420254" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Abstract/Natalia/Mackerel/17420254.jpg
+		</thumbnail>
+		<title>Spike Ambush Storm</title>
+		<creator>Abstract Natalia Mackerel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920432" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bizarre/Scarlett/Catapult/10920432.jpg
+		</thumbnail>
+		<title>Thunder Assault Giga</title>
+		<creator>Bizarre Scarlett Catapult</creator>
+		<relatedgames/>
+	</game>
+	<game id="17380930" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Emperor/Alex/Sunrise/17380930.jpg
+		</thumbnail>
+		<title>Fusion Big Adventure</title>
+		<creator>Emperor Alex Sunrise</creator>
+		<relatedgames/>
+	</game>
+	<game id="17279509" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Justin/Phoenix/17279509.jpg
+		</thumbnail>
+		<title>Danger Cosmic Fire</title>
+		<creator>Humorous Justin Phoenix</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

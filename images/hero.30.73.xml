@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10929935" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Rhett/Burst/10929935.jpg
+		</thumbnail>
+		<title>Iron Dark Defense</title>
+		<creator>Colossal Rhett Burst</creator>
+		<relatedgames/>
+	</game>
+	<game id="10934753" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frugal/Melanie/Tempest/10934753.jpg
+		</thumbnail>
+		<title>Hero Ultra Rampage</title>
+		<creator>Frugal Melanie Tempest</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923277" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pretty/Valerie/Buzzard/10923277.jpg
+		</thumbnail>
+		<title>Ultra Nova Hero</title>
+		<creator>Pretty Valerie Buzzard</creator>
+		<relatedgames/>
+	</game>
+	<game id="16917205" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/King/Bernard/Fizz/16917205.jpg
+		</thumbnail>
+		<title>Shadow Target Hyper</title>
+		<creator>King Bernard Fizz</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928370" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Handsome/Jeffrey/Aardvark/10928370.jpg
+		</thumbnail>
+		<title>Blaster Slam Razor</title>
+		<creator>Handsome Jeffrey Aardvark</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952604" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Megan/Octopus/10952604.jpg
+		</thumbnail>
+		<title>Escape Thunder Defense</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17551777" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Splendid/Caitlin/Denizen/17551777.jpg
+		</thumbnail>
+		<title>Drone Mission Warrior</title>
+		<creator>Splendid Caitlin Denizen</creator>
+		<relatedgames/>
+	</game>
+	<game id="17223549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cackling/Cory/Avator/17223549.jpg
+		</thumbnail>
+		<title>Universe Energy Power</title>
+		<creator>Cackling Cory Avator</creator>
+		<relatedgames/>
+	</game>
+	<game id="10948032" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Feisty/Bailey/Skylark/10948032.jpg
+		</thumbnail>
+		<title>Smash Shock Atomic</title>
+		<creator>Feisty Bailey Skylark</creator>
+		<relatedgames/>
+	</game>
+	<game id="16912533" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Athletic/Luke/Fang/16912533.jpg
+		</thumbnail>
+		<title>Jetray Galaxy Rush</title>
+		<creator>Athletic Luke Fang</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17551120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Burly/Brian/Bungee/17551120.jpg
+		</thumbnail>
+		<title>Ultimate Alien Force</title>
+		<creator>Burly Brian Bungee</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038010" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fearless/Jason/Bonkers/10038010.jpg
+		</thumbnail>
+		<title>Galaxy Storm Rustbucket</title>
+		<creator>Fearless Jason Bonkers</creator>
+		<relatedgames/>
+	</game>
+	<game id="17350606" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ashley/Planet/17350606.jpg
+		</thumbnail>
+		<title>Alien Brainstorm Assault</title>
+		<creator>Ashley Planet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17230806" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Emperor/Autumn/Mutant/17230806.jpg
+		</thumbnail>
+		<title>Drone Danger Escape</title>
+		<creator>Emperor Autumn Mutant</creator>
+		<relatedgames/>
+	</game>
+	<game id="17281862" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crispy/Diana/Daffodil/17281862.jpg
+		</thumbnail>
+		<title>Beast Slam Attack</title>
+		<creator>Crispy Diana Daffodil</creator>
+		<relatedgames/>
+	</game>
+	<game id="10949991" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Giggling/Elroy/Domino/10949991.jpg
+		</thumbnail>
+		<title>Rush Attack Rumble</title>
+		<creator>Giggling Elroy Domino</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922483" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sincere/Victor/Boing/10922483.jpg
+		</thumbnail>
+		<title>Fury Power Patrol</title>
+		<creator>Sincere Victor Boing</creator>
+		<relatedgames/>
+	</game>
+	<game id="10936939" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bizarre/Ace/Warthog/10936939.jpg
+		</thumbnail>
+		<title>Fusion Vilgax Galaxy</title>
+		<creator>Bizarre Ace Warthog</creator>
+		<relatedgames/>
+	</game>
+	<game id="17276373" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Snazzy/Madison/Sword/17276373.jpg
+		</thumbnail>
+		<title>Danger Metal Crusher</title>
+		<creator>Snazzy Madison Sword</creator>
+		<relatedgames/>
+	</game>
+	<game id="17376217" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gigantic/Derek/Pelican/17376217.jpg
+		</thumbnail>
+		<title>Ambush Nova Adventure</title>
+		<creator>Gigantic Derek Pelican</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

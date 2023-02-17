@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10953072" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eerie/Elijah/Turtle/10953072.jpg
+		</thumbnail>
+		<title>Search Force Fire</title>
+		<creator>Eerie Elijah Turtle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952492" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Horrid/Blake/Ukulele/10952492.jpg
+		</thumbnail>
+		<title>Cosmic Swampfire Storm</title>
+		<creator>Horrid Blake Ukulele</creator>
+		<relatedgames/>
+	</game>
+	<game id="10068680" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dapper/Jada/Cyborg/10068680.jpg
+		</thumbnail>
+		<title>Patrol Nova Nitro</title>
+		<creator>Dapper Jada Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935329" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Burly/Crystal/Fritter/10935329.jpg
+		</thumbnail>
+		<title>Shadow Champion Invasion</title>
+		<creator>Burly Crystal Fritter</creator>
+		<relatedgames/>
+	</game>
+	<game id="10786380" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Joyous/Logan/Spiral/10786380.jpg
+		</thumbnail>
+		<title>Slam Steel Earth</title>
+		<creator>Joyous Logan Spiral</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953199" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reckless/Emily/Spiral/10953199.jpg
+		</thumbnail>
+		<title>Danger Plumber Storm</title>
+		<creator>Reckless Emily Spiral</creator>
+		<relatedgames/>
+	</game>
+	<game id="10069100" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Alien/Jacob/Brick/10069100.jpg
+		</thumbnail>
+		<title>Swampfire Hero Hex</title>
+		<creator>Alien Jacob Brick</creator>
+		<relatedgames/>
+	</game>
+	<game id="17373576" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Robotic/Owen/Cobra/17373576.jpg
+		</thumbnail>
+		<title>Animo Rampage Energy</title>
+		<creator>Robotic Owen Cobra</creator>
+		<relatedgames/>
+	</game>
+	<game id="16983993" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Visible/Gladys/Kangaroo/16983993.jpg
+		</thumbnail>
+		<title>Patrol Ultimate Beast</title>
+		<creator>Visible Gladys Kangaroo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10946650" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Napoleon/Cupcake/10946650.jpg
+		</thumbnail>
+		<title>Iron Ambush Plumber</title>
+		<creator>Dazzling Napoleon Cupcake</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10069142" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Humorous/Elroy/Klunk/10069142.jpg
+		</thumbnail>
+		<title>Alien Adventure Ultra</title>
+		<creator>Humorous Elroy Klunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17376217" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gigantic/Derek/Pelican/17376217.jpg
+		</thumbnail>
+		<title>Ambush Nova Adventure</title>
+		<creator>Gigantic Derek Pelican</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924451" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Musical/Andrew/Jalapeno/10924451.jpg
+		</thumbnail>
+		<title>Dark Robot Rustbucket</title>
+		<creator>Musical Andrew Jalapeno</creator>
+		<relatedgames/>
+	</game>
+	<game id="10064388" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Sincere/Diego/Tiptoe/10064388.jpg
+		</thumbnail>
+		<title>Adventure Challenge Battle</title>
+		<creator>Sincere Diego Tiptoe</creator>
+		<relatedgames/>
+	</game>
+	<game id="17334444" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Able/Mordecai/Vapor/17334444.jpg
+		</thumbnail>
+		<title>Adventure Rush Terraspin</title>
+		<creator>Able Mordecai Vapor</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928093" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bashful/Gulliver/Clang/10928093.jpg
+		</thumbnail>
+		<title>Swampfire Ben Thunder</title>
+		<creator>Bashful Gulliver Clang</creator>
+		<relatedgames/>
+	</game>
+	<game id="16962875" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Aromatic/Chuck/Planet/16962875.jpg
+		</thumbnail>
+		<title>Attack Dark Racer</title>
+		<creator>Aromatic Chuck Planet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17221993" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Savage/Alvin/Fang/17221993.jpg
+		</thumbnail>
+		<title>Escape Ultimate Rush</title>
+		<creator>Savage Alvin Fang</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Western/Leon/Figment/10952821.jpg
+		</thumbnail>
+		<title>Battle Force Doom</title>
+		<creator>Western Leon Figment</creator>
+		<relatedgames/>
+	</game>
+	<game id="16948692" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/Alyssa/Blammo/16948692.jpg
+		</thumbnail>
+		<title>Rush Breaker Storm</title>
+		<creator>Fiery Alyssa Blammo</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

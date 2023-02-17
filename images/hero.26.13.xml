@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17389654" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tall/Evelyn/Seesaw/17389654.jpg
+		</thumbnail>
+		<title>Big Turbo Battle</title>
+		<creator>Tall Evelyn Seesaw</creator>
+		<relatedgames/>
+	</game>
+	<game id="17554306" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crafty/Emerson/Blast/17554306.jpg
+		</thumbnail>
+		<title>Spark Adventure Search</title>
+		<creator>Crafty Emerson Blast</creator>
+		<relatedgames/>
+	</game>
+	<game id="17311572" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Galactic/Veronica/Trooper/17311572.jpg
+		</thumbnail>
+		<title>Streak Slam Escape</title>
+		<creator>Galactic Veronica Trooper</creator>
+		<relatedgames/>
+	</game>
+	<game id="16989085" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shiny/Homer/Soldier/16989085.jpg
+		</thumbnail>
+		<title>Crusher Adventure Universe</title>
+		<creator>Shiny Homer Soldier</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916758" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Purple/Angel/Cyborg/10916758.jpg
+		</thumbnail>
+		<title>Nitro Plasma Storm</title>
+		<creator>Purple Angel Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924970" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loopy/Beatrice/Dynamite/10924970.jpg
+		</thumbnail>
+		<title>Burst Breaker Vilgax</title>
+		<creator>Loopy Beatrice Dynamite</creator>
+		<relatedgames/>
+	</game>
+	<game id="16949920" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Virtual/Will/Zip/16949920.jpg
+		</thumbnail>
+		<title>Fusion Battle Adventure</title>
+		<creator>Virtual Will Zip</creator>
+		<relatedgames/>
+	</game>
+	<game id="10647306" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Orange/Vanessa/Unicycle/10647306.jpg
+		</thumbnail>
+		<title>Clash Rumble Adventure</title>
+		<creator>Orange Vanessa Unicycle</creator>
+		<relatedgames/>
+	</game>
+	<game id="16975666" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Steady/Hannah/Brute/16975666.jpg
+		</thumbnail>
+		<title>Ambush Battle Search</title>
+		<creator>Steady Hannah Brute</creator>
+		<relatedgames/>
+	</game>
+	<game id="10054675" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Chaotic/Lily/Safari/10054675.jpg
+		</thumbnail>
+		<title>Ultimate Fusion Assault</title>
+		<creator>Chaotic Lily Safari</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

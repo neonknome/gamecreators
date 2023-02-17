@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17387003" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baroness/Bradley/Jungle/17387003.jpg
+		</thumbnail>
+		<title>Alien Adventure Challenge</title>
+		<creator>Baroness Bradley Jungle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10066861" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Sly/Cole/Holler/10066861.jpg
+		</thumbnail>
+		<title>Siege Razor Warrior</title>
+		<creator>Sly Cole Holler</creator>
+		<relatedgames/>
+	</game>
+	<game id="16961418" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Active/Augustus/Lemon/16961418.jpg
+		</thumbnail>
+		<title>Alien Ultimate Universe</title>
+		<creator>Active Augustus Lemon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928541" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bouncing/Ashley/Minotaur/10928541.jpg
+		</thumbnail>
+		<title>Hyper Rocket Champion</title>
+		<creator>Bouncing Ashley Minotaur</creator>
+		<relatedgames/>
+	</game>
+	<game id="16961131" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Epic/Thor/Noob/16961131.jpg
+		</thumbnail>
+		<title>Nano Universe Big</title>
+		<creator>Epic Thor Noob</creator>
+		<relatedgames/>
+	</game>
+	<game id="17005665" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Icy/Kristina/Twilight/17005665.jpg
+		</thumbnail>
+		<title>Ben Power Adventure</title>
+		<creator>Icy Kristina Twilight</creator>
+		<relatedgames/>
+	</game>
+	<game id="16871294" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Golden/Levi/Twilight/16871294.jpg
+		</thumbnail>
+		<title>Ultimate Force Attack</title>
+		<creator>Golden Levi Twilight</creator>
+		<relatedgames/>
+	</game>
+	<game id="17386226" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Neutral/Pedro/Clone/17386226.jpg
+		</thumbnail>
+		<title>Force Swampfire Alien</title>
+		<creator>Neutral Pedro Clone</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952984" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sloppy/Connor/Fondue/10952984.jpg
+		</thumbnail>
+		<title>Breaker Crusher Star</title>
+		<creator>Sloppy Connor Fondue</creator>
+		<relatedgames/>
+	</game>
+	<game id="17003381" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Academic/Mark/Rebel/17003381.jpg
+		</thumbnail>
+		<title>Challenge Brainstorm Cosmic</title>
+		<creator>Academic Mark Rebel</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

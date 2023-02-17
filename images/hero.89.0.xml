@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10927817" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grimy/Blake/Tornado/10927817.jpg
+		</thumbnail>
+		<title>Patrol Energy Magno</title>
+		<creator>Grimy Blake Tornado</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055917" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Southern/Rex/Chipmunk/10055917.jpg
+		</thumbnail>
+		<title>Assault Hex Thunder</title>
+		<creator>Southern Rex Chipmunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17259173" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Regular/Alexis/Crash/17259173.jpg
+		</thumbnail>
+		<title>Alien Slam Thunder</title>
+		<creator>Regular Alexis Crash</creator>
+		<relatedgames/>
+	</game>
+	<game id="17407097" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Extreme/Meghan/Dragoon/17407097.jpg
+		</thumbnail>
+		<title>Rampage Thunder Doom</title>
+		<creator>Extreme Meghan Dragoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922703" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Aquatic/Xerxes/Beeswax/10922703.jpg
+		</thumbnail>
+		<title>Assault Solar Assault</title>
+		<creator>Aquatic Xerxes Beeswax</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916734" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Darling/Hank/Mustang/10916734.jpg
+		</thumbnail>
+		<title>Swampfire Ultra Invasion</title>
+		<creator>Darling Hank Mustang</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935383" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Green/Justin/Saber/10935383.jpg
+		</thumbnail>
+		<title>Racer Techno Dark</title>
+		<creator>Green Justin Saber</creator>
+		<relatedgames/>
+	</game>
+	<game id="10042807" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Noisy/Gretel/Gumbo/10042807.jpg
+		</thumbnail>
+		<title>Adventure Lightning Mega</title>
+		<creator>Noisy Gretel Gumbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921550" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pretty/Oscar/Fireball/10921550.jpg
+		</thumbnail>
+		<title>Shadow Warrior Ultra</title>
+		<creator>Pretty Oscar Fireball</creator>
+		<relatedgames/>
+	</game>
+	<game id="17399233" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Puzzling/Frank/Wolf/17399233.jpg
+		</thumbnail>
+		<title>Battle Spike Rush</title>
+		<creator>Puzzling Frank Wolf</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

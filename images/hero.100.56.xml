@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17386188" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Academic/Oliver/Lemon/17386188.jpg
+		</thumbnail>
+		<title>Fury Vilgax Water</title>
+		<creator>Academic Oliver Lemon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17395975" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cranky/Gregory/Haystack/17395975.jpg
+		</thumbnail>
+		<title>Solar Ambush Whirlwind</title>
+		<creator>Cranky Gregory Haystack</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920342" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Putrid/Tabitha/Cactus/10920342.jpg
+		</thumbnail>
+		<title>Nitro Rush Space</title>
+		<creator>Putrid Tabitha Cactus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10648482" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crafty/Kristen/Quake/10648482.jpg
+		</thumbnail>
+		<title>Light Universe Vilgax</title>
+		<creator>Crafty Kristen Quake</creator>
+		<relatedgames/>
+	</game>
+	<game id="10939013" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stout/Larry/Phantom/10939013.jpg
+		</thumbnail>
+		<title>Force Vilgax Hyper</title>
+		<creator>Stout Larry Phantom</creator>
+		<relatedgames/>
+	</game>
+	<game id="10655820" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cheerful/Leopold/Mantis/10655820.jpg
+		</thumbnail>
+		<title>Clash Smash Adventure</title>
+		<creator>Cheerful Leopold Mantis</creator>
+		<relatedgames/>
+	</game>
+	<game id="17338199" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loud/Connor/Monster/17338199.jpg
+		</thumbnail>
+		<title>Racer Adventure Adventure</title>
+		<creator>Loud Connor Monster</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952504" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Heroic/Danielle/Cobra/10952504.jpg
+		</thumbnail>
+		<title>Escape Fire Patrol</title>
+		<creator>Heroic Danielle Cobra</creator>
+		<relatedgames/>
+	</game>
+	<game id="16994221" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ornery/Chloe/Iguana/16994221.jpg
+		</thumbnail>
+		<title>Patrol Shadow Dark</title>
+		<creator>Ornery Chloe Iguana</creator>
+		<relatedgames/>
+	</game>
+	<game id="17316942" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stinky/James/Avator/17316942.jpg
+		</thumbnail>
+		<title>Nano Nova Thunder</title>
+		<creator>Stinky James Avator</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

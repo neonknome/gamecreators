@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10926798" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Infinite/Leon/Amethyst/10926798.jpg
+		</thumbnail>
+		<title>Rumble Hero Power</title>
+		<creator>Infinite Leon Amethyst</creator>
+		<relatedgames/>
+	</game>
+	<game id="17259049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Lawrence/Eggplant/17259049.jpg
+		</thumbnail>
+		<title>Big Earth Nova</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916917" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Towering/Spike/Thud/10916917.jpg
+		</thumbnail>
+		<title>Fusion Rampage Breaker</title>
+		<creator>Towering Spike Thud</creator>
+		<relatedgames/>
+	</game>
+	<game id="10843570" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Freaky/Savannah/Oddball/10843570.jpg
+		</thumbnail>
+		<title>Rampage Earth Fusion</title>
+		<creator>Freaky Savannah Oddball</creator>
+		<relatedgames/>
+	</game>
+	<game id="17293144" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Savage/Erika/Tsunami/17293144.jpg
+		</thumbnail>
+		<title>Titan Charge Quake</title>
+		<creator>Savage Erika Tsunami</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920338" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stylish/Harvey/Universe/10920338.jpg
+		</thumbnail>
+		<title>Spark Magno Racer</title>
+		<creator>Stylish Harvey Universe</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921871" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Atomic/Vanessa/Zip/10921871.jpg
+		</thumbnail>
+		<title>Shadow Power Hyper</title>
+		<creator>Atomic Vanessa Zip</creator>
+		<relatedgames/>
+	</game>
+	<game id="10647546" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Alan/Cipher/10647546.jpg
+		</thumbnail>
+		<title>Rocket Attack Ambush</title>
+		<creator>Zany Alan Cipher</creator>
+		<relatedgames/>
+	</game>
+	<game id="17159498" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eastern/Grover/Bagpipe/17159498.jpg
+		</thumbnail>
+		<title>Adventure Champion Cosmic</title>
+		<creator>Eastern Grover Bagpipe</creator>
+		<relatedgames/>
+	</game>
+	<game id="10040167" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Honest/Milo/Moonbeam/10040167.jpg
+		</thumbnail>
+		<title>Sonic Pulse Invasion</title>
+		<creator>Honest Milo Moonbeam</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

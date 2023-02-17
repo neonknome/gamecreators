@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17551194" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Pete/Shovel/17551194.jpg
+		</thumbnail>
+		<title>Nano Adventure Omniverse</title>
+		<creator>Colossal Pete Shovel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17176419" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magnetic/Ramona/Bramble/17176419.jpg
+		</thumbnail>
+		<title>Steel Dark Adventure</title>
+		<creator>Magnetic Ramona Bramble</creator>
+		<relatedgames/>
+	</game>
+	<game id="17551679" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Howling/Vince/Bazooka/17551679.jpg
+		</thumbnail>
+		<title>Hyper Invasion Adventure</title>
+		<creator>Howling Vince Bazooka</creator>
+		<relatedgames/>
+	</game>
+	<game id="17379163" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pretty/Scott/Beeswax/17379163.jpg
+		</thumbnail>
+		<title>Razor Titan Blaster</title>
+		<creator>Pretty Scott Beeswax</creator>
+		<relatedgames/>
+	</game>
+	<game id="17248167" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Super/Felipe/Macaroni/17248167.jpg
+		</thumbnail>
+		<title>Gear Adventure Adventure</title>
+		<creator>Super Felipe Macaroni</creator>
+		<relatedgames/>
+	</game>
+	<game id="10944766" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Adam/Squawk/10944766.jpg
+		</thumbnail>
+		<title>Star Patrol Robot</title>
+		<creator>Colossal Adam Squawk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916748" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frosty/Lillian/Crash/10916748.jpg
+		</thumbnail>
+		<title>Doom Blaster Rumble</title>
+		<creator>Frosty Lillian Crash</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916978" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Powerful/Dominic/Grackle/10916978.jpg
+		</thumbnail>
+		<title>Drone Mega Hero</title>
+		<creator>Powerful Dominic Grackle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953468" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grand/Samuel/Penguin/10953468.jpg
+		</thumbnail>
+		<title>Swampfire Mission Challenge</title>
+		<creator>Grand Samuel Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10948057" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fearsome/Rick/Mammoth/10948057.jpg
+		</thumbnail>
+		<title>Plumber Storm Force</title>
+		<creator>Fearsome Rick Mammoth</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

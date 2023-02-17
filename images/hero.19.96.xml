@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10924684" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fizzy/Jackie/Iceberg/10924684.jpg
+		</thumbnail>
+		<title>Mission Turbo Sonic</title>
+		<creator>Fizzy Jackie Iceberg</creator>
+		<relatedgames/>
+	</game>
+	<game id="17389615" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Duke/Ariel/Cookie/17389615.jpg
+		</thumbnail>
+		<title>Alien Techno Turbo</title>
+		<creator>Duke Ariel Cookie</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921874" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magnetic/Ernie/Rumble/10921874.jpg
+		</thumbnail>
+		<title>Rampage Champion Swampfire</title>
+		<creator>Magnetic Ernie Rumble</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953336" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scary/James/Lavender/10953336.jpg
+		</thumbnail>
+		<title>Steel Smash Magno</title>
+		<creator>Scary James Lavender</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930277" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wild/Shirley/Rutabaga/10930277.jpg
+		</thumbnail>
+		<title>Vilgax Rock Burst</title>
+		<creator>Wild Shirley Rutabaga</creator>
+		<relatedgames/>
+	</game>
+	<game id="17364456" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Average/Mike/Pizza/17364456.jpg
+		</thumbnail>
+		<title>Defense Rocket Droid</title>
+		<creator>Average Mike Pizza</creator>
+		<relatedgames/>
+	</game>
+	<game id="17552388" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Drowzy/Finn/Fishbowl/17552388.jpg
+		</thumbnail>
+		<title>Omniverse Cosmic Adventure</title>
+		<creator>Drowzy Finn Fishbowl</creator>
+		<relatedgames/>
+	</game>
+	<game id="17283609" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Haunted/Andre/Tarragon/17283609.jpg
+		</thumbnail>
+		<title>Iron Assault Challenge</title>
+		<creator>Haunted Andre Tarragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10843570" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Freaky/Savannah/Oddball/10843570.jpg
+		</thumbnail>
+		<title>Rampage Earth Fusion</title>
+		<creator>Freaky Savannah Oddball</creator>
+		<relatedgames/>
+	</game>
+	<game id="17293144" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Savage/Erika/Tsunami/17293144.jpg
+		</thumbnail>
+		<title>Titan Charge Quake</title>
+		<creator>Savage Erika Tsunami</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

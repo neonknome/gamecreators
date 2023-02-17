@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10932753" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reliable/Gregory/Gorilla/10932753.jpg
+		</thumbnail>
+		<title>Mega Pursuit Sonic</title>
+		<creator>Reliable Gregory Gorilla</creator>
+		<relatedgames/>
+	</game>
+	<game id="17284323" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Verbose/Felicity/Nibbles/17284323.jpg
+		</thumbnail>
+		<title>Light Attack Nova</title>
+		<creator>Verbose Felicity Nibbles</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953231" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Orange/Donald/Pinwheel/10953231.jpg
+		</thumbnail>
+		<title>Ultimate Dark Nano</title>
+		<creator>Orange Donald Pinwheel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919694" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Jake/Molecule/10919694.jpg
+		</thumbnail>
+		<title>Defense Ultimate Vilgax</title>
+		<creator>Dashing Jake Molecule</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952930" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Western/Leon/Figment/10952930.jpg
+		</thumbnail>
+		<title>Assault Streak Siege</title>
+		<creator>Western Leon Figment</creator>
+		<relatedgames/>
+	</game>
+	<game id="16971326" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Captain/Tony/Bucket/16971326.jpg
+		</thumbnail>
+		<title>Cosmic Gear Quake</title>
+		<creator>Captain Tony Bucket</creator>
+		<relatedgames/>
+	</game>
+	<game id="17254961" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/DJ/Yam/17254961.jpg
+		</thumbnail>
+		<title>Blaster Clash Mega</title>
+		<creator>Fiery DJ Yam</creator>
+		<relatedgames/>
+	</game>
+	<game id="17234049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Lanky/Lily/Licorice/17234049.jpg
+		</thumbnail>
+		<title>Hyper Alien Hero</title>
+		<creator>Lanky Lily Licorice</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055983" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dreadful/Dawn/Mummy/10055983.jpg
+		</thumbnail>
+		<title>Warrior Razor Nano</title>
+		<creator>Dreadful Dawn Mummy</creator>
+		<relatedgames/>
+	</game>
+	<game id="10069204" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Lucky/Simon/Droid/10069204.jpg
+		</thumbnail>
+		<title>Nano Hex Giga</title>
+		<creator>Lucky Simon Droid</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

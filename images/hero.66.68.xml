@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10921283" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Charming/Chase/Behemoth/10921283.jpg
+		</thumbnail>
+		<title>Rumble Adventure Iron</title>
+		<creator>Charming Chase Behemoth</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942755" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awesome/Dylan/Lard/10942755.jpg
+		</thumbnail>
+		<title>Power Champion Racer</title>
+		<creator>Awesome Dylan Lard</creator>
+		<relatedgames/>
+	</game>
+	<game id="10940027" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hectic/Matt/Bingo/10940027.jpg
+		</thumbnail>
+		<title>Streak Warp Rumble</title>
+		<creator>Hectic Matt Bingo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926706" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Orange/Luis/Fireball/10926706.jpg
+		</thumbnail>
+		<title>Adventure Metal Siege</title>
+		<creator>Orange Luis Fireball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930277" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wild/Shirley/Rutabaga/10930277.jpg
+		</thumbnail>
+		<title>Vilgax Rock Burst</title>
+		<creator>Wild Shirley Rutabaga</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933066" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Powerful/Juan/Eggplant/10933066.jpg
+		</thumbnail>
+		<title>Slam Rush Laser</title>
+		<creator>Powerful Juan Eggplant</creator>
+		<relatedgames/>
+	</game>
+	<game id="17331941" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Subtle/Lancelot/Ricochet/17331941.jpg
+		</thumbnail>
+		<title>Rocket Charge Blaster</title>
+		<creator>Subtle Lancelot Ricochet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404209" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Luke/Stampede/17404209.jpg
+		</thumbnail>
+		<title>Pulse Adventure Shadow</title>
+		<creator>Zany Luke Stampede</creator>
+		<relatedgames/>
+	</game>
+	<game id="17260364" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colonel/Danny/Droid/17260364.jpg
+		</thumbnail>
+		<title>Adventure Power Pursuit</title>
+		<creator>Colonel Danny Droid</creator>
+		<relatedgames/>
+	</game>
+	<game id="17555017" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magical/Isaac/Enigma/17555017.jpg
+		</thumbnail>
+		<title>Challenge Target Racer</title>
+		<creator>Magical Isaac Enigma</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

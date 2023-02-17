@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17014033" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Epic/Peter/Possum/17014033.jpg
+		</thumbnail>
+		<title>Ultra Ultimate Energy</title>
+		<creator>Epic Peter Possum</creator>
+		<relatedgames/>
+	</game>
+	<game id="17363619" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Icy/Bridget/Atlas/17363619.jpg
+		</thumbnail>
+		<title>Ultimate Space Alien</title>
+		<creator>Icy Bridget Atlas</creator>
+		<relatedgames/>
+	</game>
+	<game id="17039544" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tireless/Ruby/Phoenix/17039544.jpg
+		</thumbnail>
+		<title>Rock Laser Energy</title>
+		<creator>Tireless Ruby Phoenix</creator>
+		<relatedgames/>
+	</game>
+	<game id="17217564" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dramatic/Austin/Domino/17217564.jpg
+		</thumbnail>
+		<title>Big Thunder Fury</title>
+		<creator>Dramatic Austin Domino</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942111" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fragrant/Cynthia/Ladybug/10942111.jpg
+		</thumbnail>
+		<title>Nano Target Universe</title>
+		<creator>Fragrant Cynthia Ladybug</creator>
+		<relatedgames/>
+	</game>
+	<game id="10059358" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Rowdy/Zachary/Haystack/10059358.jpg
+		</thumbnail>
+		<title>Galaxy Battle Magno</title>
+		<creator>Rowdy Zachary Haystack</creator>
+		<relatedgames/>
+	</game>
+	<game id="17301539" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Athletic/Kaitlin/Dinosaur/17301539.jpg
+		</thumbnail>
+		<title>Waterhazard Adventure Mega</title>
+		<creator>Athletic Kaitlin Dinosaur</creator>
+		<relatedgames/>
+	</game>
+	<game id="17405990" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Diagonal/Cole/Crash/17405990.jpg
+		</thumbnail>
+		<title>Assault Earth Big</title>
+		<creator>Diagonal Cole Crash</creator>
+		<relatedgames/>
+	</game>
+	<game id="17415966" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Witty/Marco/Shadow/17415966.jpg
+		</thumbnail>
+		<title>Slam Attack Warp</title>
+		<creator>Witty Marco Shadow</creator>
+		<relatedgames/>
+	</game>
+	<game id="17400901" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Riley/17400901.jpg
+		</thumbnail>
+		<title>Shadow Clash Atomic</title>
+		<creator>Flying Riley</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

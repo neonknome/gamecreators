@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10935655" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stylish/Rachel/Sphinx/10935655.jpg
+		</thumbnail>
+		<title>Clash Gear Titan</title>
+		<creator>Stylish Rachel Sphinx</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404731" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Clever/Ben/Blade/17404731.jpg
+		</thumbnail>
+		<title>Ultimate Cannonbolt Assault</title>
+		<creator>Clever Ben Blade</creator>
+		<relatedgames/>
+	</game>
+	<game id="17311338" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Freakish/Benson/Banshee/17311338.jpg
+		</thumbnail>
+		<title>Rustbucket Battle Clash</title>
+		<creator>Freakish Benson Banshee</creator>
+		<relatedgames/>
+	</game>
+	<game id="17337519" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Luminous/Cameron/Behemoth/17337519.jpg
+		</thumbnail>
+		<title>Fusion Whirlwind Techno</title>
+		<creator>Luminous Cameron Behemoth</creator>
+		<relatedgames/>
+	</game>
+	<game id="17356919" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sassy/Aaron/Baloney/17356919.jpg
+		</thumbnail>
+		<title>Alien Chase Shock</title>
+		<creator>Sassy Aaron Baloney</creator>
+		<relatedgames/>
+	</game>
+	<game id="17584644" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Plucky/Romeo/Aviator/17584644.jpg
+		</thumbnail>
+		<title>Big Chill Power</title>
+		<creator>Plucky Romeo Aviator</creator>
+		<relatedgames/>
+	</game>
+	<game id="10948852" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Zoe/Wizard/10948852.jpg
+		</thumbnail>
+		<title>Warrior Warrior Warrior</title>
+		<creator>Chilly Zoe Wizard</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952923" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frantic/Chester/Walrus/10952923.jpg
+		</thumbnail>
+		<title>Rustbucket Siege Ben</title>
+		<creator>Frantic Chester Walrus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10941646" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eastern/Ace/Mantis/10941646.jpg
+		</thumbnail>
+		<title>Ultra Rumble Universe</title>
+		<creator>Eastern Ace Mantis</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924702" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fuzzy/Austin/Cosmos/10924702.jpg
+		</thumbnail>
+		<title>Search Steel Magno</title>
+		<creator>Fuzzy Austin Cosmos</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

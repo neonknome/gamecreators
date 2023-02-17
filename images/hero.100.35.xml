@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17237102" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Adjacent/David/Sizzle/17237102.jpg
+		</thumbnail>
+		<title>Space Robot Patrol</title>
+		<creator>Adjacent David Sizzle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17505132" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Creative/David/Anvil/17505132.jpg
+		</thumbnail>
+		<title>Mission Chase Smash</title>
+		<creator>Creative David Anvil</creator>
+		<relatedgames/>
+	</game>
+	<game id="16984393" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quantum/Kevin/Beast/16984393.jpg
+		</thumbnail>
+		<title>Atomic Whirlwind Battle</title>
+		<creator>Quantum Kevin Beast</creator>
+		<relatedgames/>
+	</game>
+	<game id="17016612" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cranky/Zeb/Martian/17016612.jpg
+		</thumbnail>
+		<title>Alien Terraspin Ambush</title>
+		<creator>Cranky Zeb Martian</creator>
+		<relatedgames/>
+	</game>
+	<game id="17348915" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ultimate/Tristan/Yoyo/17348915.jpg
+		</thumbnail>
+		<title>Hex Patrol Storm</title>
+		<creator>Ultimate Tristan Yoyo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924472" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dainty/Hayden/Avocado/10924472.jpg
+		</thumbnail>
+		<title>Burst Atomic Droid</title>
+		<creator>Dainty Hayden Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="17394571" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Golden/Will/Pyramid/17394571.jpg
+		</thumbnail>
+		<title>Slam Blaster Solar</title>
+		<creator>Golden Will Pyramid</creator>
+		<relatedgames/>
+	</game>
+	<game id="10706453" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sloppy/Derrick/Blade/10706453.jpg
+		</thumbnail>
+		<title>Rustbucket Rumble Champion</title>
+		<creator>Sloppy Derrick Blade</creator>
+		<relatedgames/>
+	</game>
+	<game id="17327386" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radical/Romeo/Skeleton/17327386.jpg
+		</thumbnail>
+		<title>Adventure Attack Solar</title>
+		<creator>Radical Romeo Skeleton</creator>
+		<relatedgames/>
+	</game>
+	<game id="10937548" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Haley/Jamboree/10937548.jpg
+		</thumbnail>
+		<title>Rocket Techno Sonic</title>
+		<creator>Alien Haley Jamboree</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

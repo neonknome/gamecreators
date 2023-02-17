@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17348799" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loyal/Helen/Blammo/17348799.jpg
+		</thumbnail>
+		<title>Rock Vilgax Solar</title>
+		<creator>Loyal Helen Blammo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10059358" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Rowdy/Zachary/Haystack/10059358.jpg
+		</thumbnail>
+		<title>Galaxy Battle Magno</title>
+		<creator>Rowdy Zachary Haystack</creator>
+		<relatedgames/>
+	</game>
+	<game id="17282810" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pleasant/Alan/Gamer/17282810.jpg
+		</thumbnail>
+		<title>Terraspin Siege Adventure</title>
+		<creator>Pleasant Alan Gamer</creator>
+		<relatedgames/>
+	</game>
+	<game id="17415966" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Witty/Marco/Shadow/17415966.jpg
+		</thumbnail>
+		<title>Slam Attack Warp</title>
+		<creator>Witty Marco Shadow</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921907" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Bethany/Starfish/10921907.jpg
+		</thumbnail>
+		<title>Slam Star Razor</title>
+		<creator>Chilly Bethany Starfish</creator>
+		<relatedgames/>
+	</game>
+	<game id="17400901" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Riley/17400901.jpg
+		</thumbnail>
+		<title>Shadow Clash Atomic</title>
+		<creator>Flying Riley</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038161" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dynamic/Matt/Aardvark/10038161.jpg
+		</thumbnail>
+		<title>Warrior Ultra Laser</title>
+		<creator>Dynamic Matt Aardvark</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933180" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Funky/Pearl/Zombie/10933180.jpg
+		</thumbnail>
+		<title>Galaxy Titan Breaker</title>
+		<creator>Funky Pearl Zombie</creator>
+		<relatedgames/>
+	</game>
+	<game id="10046403" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Majestic/Chelsea/Squawk/10046403.jpg
+		</thumbnail>
+		<title>Rustbucket Pulse Invasion</title>
+		<creator>Majestic Chelsea Squawk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17269325" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Seismic/Bert/Mercury/17269325.jpg
+		</thumbnail>
+		<title>Star Plumber Thunder</title>
+		<creator>Seismic Bert Mercury</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

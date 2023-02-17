@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17399252" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ancient/Marco/Bingo/17399252.jpg
+		</thumbnail>
+		<title>Turbo Target Defense</title>
+		<creator>Ancient Marco Bingo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10046147" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Noble/Rapunzel/Banjo/10046147.jpg
+		</thumbnail>
+		<title>Alien Ambush Pursuit</title>
+		<creator>Noble Rapunzel Banjo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17342035" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Keen/Ludwig/Quasar/17342035.jpg
+		</thumbnail>
+		<title>Iron Slam Attack</title>
+		<creator>Keen Ludwig Quasar</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919034" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Unusual/Leon/Spiral/10919034.jpg
+		</thumbnail>
+		<title>Magno Titan Defense</title>
+		<creator>Unusual Leon Spiral</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952566" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Megan/Octopus/10952566.jpg
+		</thumbnail>
+		<title>Ben Alien Force</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953622" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spirited/Vladimir/Icicle/10953622.jpg
+		</thumbnail>
+		<title>Pursuit Hex Battle</title>
+		<creator>Spirited Vladimir Icicle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10057035" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Generous/Justin/Coconut/10057035.jpg
+		</thumbnail>
+		<title>Atomic Adventure Alien</title>
+		<creator>Generous Justin Coconut</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942861" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shrewd/Cheyenne/Goofball/10942861.jpg
+		</thumbnail>
+		<title>Rumble Force Swampfire</title>
+		<creator>Shrewd Cheyenne Goofball</creator>
+		<relatedgames/>
+	</game>
+	<game id="16981662" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Duke/Funk/16981662.jpg
+		</thumbnail>
+		<title>Thunder Power Cannonbolt</title>
+		<creator>Barbaric Duke Funk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928563" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sleepy/Arthur/Funk/10928563.jpg
+		</thumbnail>
+		<title>Swampfire Search Hyper</title>
+		<creator>Sleepy Arthur Funk</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

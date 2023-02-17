@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10044541" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Horrid/Bernard/Buffalo/10044541.jpg
+		</thumbnail>
+		<title>Robot Rumble Galaxy</title>
+		<creator>Horrid Bernard Buffalo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17161179" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Galactic/Zeus/Celsius/17161179.jpg
+		</thumbnail>
+		<title>Chill Nano Adventure</title>
+		<creator>Galactic Zeus Celsius</creator>
+		<relatedgames/>
+	</game>
+	<game id="10034816" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Merry/Bjorn/Witch/10034816.jpg
+		</thumbnail>
+		<title>Fire Blaster Force</title>
+		<creator>Merry Bjorn Witch</creator>
+		<relatedgames/>
+	</game>
+	<game id="16886061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shiny/Kara/Insect/16886061.jpg
+		</thumbnail>
+		<title>Adventure Pulse Attack</title>
+		<creator>Shiny Kara Insect</creator>
+		<relatedgames/>
+	</game>
+	<game id="10063915" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Zany/Adam/Mumbles/10063915.jpg
+		</thumbnail>
+		<title>Ben Ultra Alien</title>
+		<creator>Zany Adam Mumbles</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942553" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Joyous/Brian/Daffodil/10942553.jpg
+		</thumbnail>
+		<title>Adventure Universe Siege</title>
+		<creator>Joyous Brian Daffodil</creator>
+		<relatedgames/>
+	</game>
+	<game id="10039014" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Loopy/Logan/Chimera/10039014.jpg
+		</thumbnail>
+		<title>Mega Fire Slam</title>
+		<creator>Loopy Logan Chimera</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933395" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Robotic/Mandy/Kudzu/10933395.jpg
+		</thumbnail>
+		<title>Ambush Patrol Nova</title>
+		<creator>Robotic Mandy Kudzu</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055886" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Visible/Ben/Yodel/10055886.jpg
+		</thumbnail>
+		<title>Universe Metal Steel</title>
+		<creator>Visible Ben Yodel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925264" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Mike/Blubber/10925264.jpg
+		</thumbnail>
+		<title>Fire Ben Nitro</title>
+		<creator>Dazzling Mike Blubber</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10937150" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Western/Tommy/Starfish/10937150.jpg
+		</thumbnail>
+		<title>Fusion Razor Light</title>
+		<creator>Western Tommy Starfish</creator>
+		<relatedgames/>
+	</game>
+	<game id="17370463" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Positive/Adam/Cinnamon/17370463.jpg
+		</thumbnail>
+		<title>Atomic Iron Defense</title>
+		<creator>Positive Adam Cinnamon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933602" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dreadful/Joshua/Techno/10933602.jpg
+		</thumbnail>
+		<title>Swampfire Ultimate Chase</title>
+		<creator>Dreadful Joshua Techno</creator>
+		<relatedgames/>
+	</game>
+	<game id="10934445" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Clever/Avery/Coconut/10934445.jpg
+		</thumbnail>
+		<title>Animo Power Robot</title>
+		<creator>Clever Avery Coconut</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916670" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frantic/Spike/Cobweb/10916670.jpg
+		</thumbnail>
+		<title>Ambush Turbo Racer</title>
+		<creator>Frantic Spike Cobweb</creator>
+		<relatedgames/>
+	</game>
+	<game id="17388599" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Luminous/Brooke/Shogun/17388599.jpg
+		</thumbnail>
+		<title>Ultimate Steel Warrior</title>
+		<creator>Luminous Brooke Shogun</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952796" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Plucky/Larry/Crowbar/10952796.jpg
+		</thumbnail>
+		<title>Search Rocket Pursuit</title>
+		<creator>Plucky Larry Crowbar</creator>
+		<relatedgames/>
+	</game>
+	<game id="17286743" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sharp/Max/Mantis/17286743.jpg
+		</thumbnail>
+		<title>Ben Champion Warrior</title>
+		<creator>Sharp Max Mantis</creator>
+		<relatedgames/>
+	</game>
+	<game id="17551176" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Earnest/Meredith/Tiger/17551176.jpg
+		</thumbnail>
+		<title>Power Siege Rumble</title>
+		<creator>Earnest Meredith Tiger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10015692" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cosmic/Amber/Iceberg/10015692.jpg
+		</thumbnail>
+		<title>Chase Nitro Crusher</title>
+		<creator>Cosmic Amber Iceberg</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

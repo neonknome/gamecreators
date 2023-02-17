@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17311338" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Freakish/Benson/Banshee/17311338.jpg
+		</thumbnail>
+		<title>Rustbucket Battle Clash</title>
+		<creator>Freakish Benson Banshee</creator>
+		<relatedgames/>
+	</game>
+	<game id="17220310" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Edgy/Sid/Clang/17220310.jpg
+		</thumbnail>
+		<title>Ultra Giga Search</title>
+		<creator>Edgy Sid Clang</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926761" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Scott/Crash/10926761.jpg
+		</thumbnail>
+		<title>Alien Ultra Assault</title>
+		<creator>Honest Scott Crash</creator>
+		<relatedgames/>
+	</game>
+	<game id="17375607" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stubborn/Merlin/Turnip/17375607.jpg
+		</thumbnail>
+		<title>Plasma Challenge Light</title>
+		<creator>Stubborn Merlin Turnip</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928201" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Massive/Joseph/Burst/10928201.jpg
+		</thumbnail>
+		<title>Galaxy Shadow Crusher</title>
+		<creator>Massive Joseph Burst</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919042" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shiny/Baxter/Wombat/10919042.jpg
+		</thumbnail>
+		<title>Nitro Pulse Assault</title>
+		<creator>Shiny Baxter Wombat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930139" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Yellow/Zelda/Bullfrog/10930139.jpg
+		</thumbnail>
+		<title>Ultra Challenge Storm</title>
+		<creator>Yellow Zelda Bullfrog</creator>
+		<relatedgames/>
+	</game>
+	<game id="17264533" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baffling/Michelle/Shinobi/17264533.jpg
+		</thumbnail>
+		<title>Fire Ben Dark</title>
+		<creator>Baffling Michelle Shinobi</creator>
+		<relatedgames/>
+	</game>
+	<game id="10941646" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eastern/Ace/Mantis/10941646.jpg
+		</thumbnail>
+		<title>Ultra Rumble Universe</title>
+		<creator>Eastern Ace Mantis</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951251" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Joel/Dynamite/10951251.jpg
+		</thumbnail>
+		<title>Mega Space Rumble</title>
+		<creator>Honest Joel Dynamite</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

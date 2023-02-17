@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10046385" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Majestic/Chelsea/Squawk/10046385.jpg
+		</thumbnail>
+		<title>Atomic Slam Space</title>
+		<creator>Majestic Chelsea Squawk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919681" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wise/Jasmine/Blob/10919681.jpg
+		</thumbnail>
+		<title>Breaker Dark Challenge</title>
+		<creator>Wise Jasmine Blob</creator>
+		<relatedgames/>
+	</game>
+	<game id="17576666" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Prince/Summer/Spider/17576666.jpg
+		</thumbnail>
+		<title>Challenge Star Fury</title>
+		<creator>Prince Summer Spider</creator>
+		<relatedgames/>
+	</game>
+	<game id="10929624" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dynamic/Clyde/Fondue/10929624.jpg
+		</thumbnail>
+		<title>Ben Ben Ben</title>
+		<creator>Dynamic Clyde Fondue</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918167" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Leonardo/Howler/10918167.jpg
+		</thumbnail>
+		<title>Alien Rampage Ambush</title>
+		<creator>Colossal Leonardo Howler</creator>
+		<relatedgames/>
+	</game>
+	<game id="17554096" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frugal/Emmett/Rhombus/17554096.jpg
+		</thumbnail>
+		<title>Robot Challenge Vilgax</title>
+		<creator>Frugal Emmett Rhombus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919889" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magnetic/Natalie/Monolith/10919889.jpg
+		</thumbnail>
+		<title>Universe Doom Rush</title>
+		<creator>Magnetic Natalie Monolith</creator>
+		<relatedgames/>
+	</game>
+	<game id="17083085" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Extreme/Abigail/Magnet/17083085.jpg
+		</thumbnail>
+		<title>Streak Drone Magno</title>
+		<creator>Extreme Abigail Magnet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17318679" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ancient/Finn/Iguana/17318679.jpg
+		</thumbnail>
+		<title>Pursuit Warrior Rescue</title>
+		<creator>Ancient Finn Iguana</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931923" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noble/Noah/Gazelle/10931923.jpg
+		</thumbnail>
+		<title>Escape Rampage Mega</title>
+		<creator>Noble Noah Gazelle</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

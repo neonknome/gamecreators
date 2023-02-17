@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10931915" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Itchy/Haley/Bamboo/10931915.jpg
+		</thumbnail>
+		<title>Chase Magno Star</title>
+		<creator>Itchy Haley Bamboo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10052419" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Kooky/Leonardo/Barnacle/10052419.jpg
+		</thumbnail>
+		<title>Nano Atomic Ambush</title>
+		<creator>Kooky Leonardo Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951370" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Nick/Aurora/10951370.jpg
+		</thumbnail>
+		<title>Energy Breaker Warrior</title>
+		<creator>Red Nick Aurora</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055989" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Valiant/Sterling/Popcorn/10055989.jpg
+		</thumbnail>
+		<title>Spike Force Adventure</title>
+		<creator>Valiant Sterling Popcorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="17188265" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Ronald/Presto/17188265.jpg
+		</thumbnail>
+		<title>Thunder Invasion Doom</title>
+		<creator>Daring Ronald Presto</creator>
+		<relatedgames/>
+	</game>
+	<game id="16965108" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Feral/Andrew/Mustang/16965108.jpg
+		</thumbnail>
+		<title>Titan Hyper Breaker</title>
+		<creator>Feral Andrew Mustang</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919497" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Ethel/Atom/10919497.jpg
+		</thumbnail>
+		<title>Alien Stone Solar</title>
+		<creator>Red Ethel Atom</creator>
+		<relatedgames/>
+	</game>
+	<game id="17232918" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Amusing/Corey/Yoyo/17232918.jpg
+		</thumbnail>
+		<title>Lightning Brainstorm Laser</title>
+		<creator>Amusing Corey Yoyo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17276635" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Roy/Razor/17276635.jpg
+		</thumbnail>
+		<title>Echo Magno Ultra</title>
+		<creator>Roy Razor</creator>
+		<relatedgames/>
+	</game>
+	<game id="17560703" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Volcanic/Veronica/Splat/17560703.jpg
+		</thumbnail>
+		<title>Mega Rocket Chase</title>
+		<creator>Volcanic Veronica Splat</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17389747" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sleepy/William/Tiger/17389747.jpg
+		</thumbnail>
+		<title>Attack Mission Big</title>
+		<creator>Sleepy William Tiger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055468" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Chilly/Hank/Quack/10055468.jpg
+		</thumbnail>
+		<title>Assault Rampage Solar</title>
+		<creator>Chilly Hank Quack</creator>
+		<relatedgames/>
+	</game>
+	<game id="10950440" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loyal/Becky/Fury/10950440.jpg
+		</thumbnail>
+		<title>Rocket Battle Beast</title>
+		<creator>Loyal Becky Fury</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055601" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Hideous/Pedro/Gulch/10055601.jpg
+		</thumbnail>
+		<title>Dark Escape Robot</title>
+		<creator>Hideous Pedro Gulch</creator>
+		<relatedgames/>
+	</game>
+	<game id="17349390" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Perilous/Heidi/Smidgen/17349390.jpg
+		</thumbnail>
+		<title>Racer Energy Iron</title>
+		<creator>Perilous Heidi Smidgen</creator>
+		<relatedgames/>
+	</game>
+	<game id="17411294" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strange/Ariel/Gumdrop/17411294.jpg
+		</thumbnail>
+		<title>Warrior Force Robot</title>
+		<creator>Strange Ariel Gumdrop</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953624" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Witty/Madison/Squish/10953624.jpg
+		</thumbnail>
+		<title>Power Spike Hyper</title>
+		<creator>Witty Madison Squish</creator>
+		<relatedgames/>
+	</game>
+	<game id="16866191" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cheesy/Jade/Wombat/16866191.jpg
+		</thumbnail>
+		<title>Ben Cannonbolt Galaxy</title>
+		<creator>Cheesy Jade Wombat</creator>
+		<relatedgames/>
+	</game>
+	<game id="16860071" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Nicholas/Rumble/16860071.jpg
+		</thumbnail>
+		<title>Battle Spark Force</title>
+		<creator>Flying Nicholas Rumble</creator>
+		<relatedgames/>
+	</game>
+	<game id="17094971" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Peculiar/Edd/Pontoon/17094971.jpg
+		</thumbnail>
+		<title>Jetray Hero Galaxy</title>
+		<creator>Peculiar Edd Pontoon</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

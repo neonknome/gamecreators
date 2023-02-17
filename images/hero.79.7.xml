@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17393934" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Athletic/Lillian/Jigsaw/17393934.jpg
+		</thumbnail>
+		<title>Shadow Vilgax Adventure</title>
+		<creator>Athletic Lillian Jigsaw</creator>
+		<relatedgames/>
+	</game>
+	<game id="10039383" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Gruesome/Justin/Manatee/10039383.jpg
+		</thumbnail>
+		<title>Titan Magno Fire</title>
+		<creator>Gruesome Justin Manatee</creator>
+		<relatedgames/>
+	</game>
+	<game id="10949766" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Heroic/Lucius/Cactus/10949766.jpg
+		</thumbnail>
+		<title>Pulse Adventure Racer</title>
+		<creator>Heroic Lucius Cactus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921090" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stout/Earl/Marigold/10921090.jpg
+		</thumbnail>
+		<title>Iron Crusher Alien</title>
+		<creator>Stout Earl Marigold</creator>
+		<relatedgames/>
+	</game>
+	<game id="10936340" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cheerful/Chelsea/Bolt/10936340.jpg
+		</thumbnail>
+		<title>Cosmic Robot Burst</title>
+		<creator>Cheerful Chelsea Bolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="17564122" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awesome/Xerxes/Dynamite/17564122.jpg
+		</thumbnail>
+		<title>Galaxy Nova Rampage</title>
+		<creator>Awesome Xerxes Dynamite</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953435" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Heroic/Bailey/Kazoo/10953435.jpg
+		</thumbnail>
+		<title>Charge Giga Rescue</title>
+		<creator>Heroic Bailey Kazoo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17054714" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crispy/Marissa/Nanobot/17054714.jpg
+		</thumbnail>
+		<title>Defense Power Star</title>
+		<creator>Crispy Marissa Nanobot</creator>
+		<relatedgames/>
+	</game>
+	<game id="17146824" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Extreme/Alan/Avocado/17146824.jpg
+		</thumbnail>
+		<title>Hyper Adventure Chase</title>
+		<creator>Extreme Alan Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="17188265" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Ronald/Presto/17188265.jpg
+		</thumbnail>
+		<title>Thunder Invasion Doom</title>
+		<creator>Daring Ronald Presto</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

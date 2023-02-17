@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17142675" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/King/Thor/Gulch/17142675.jpg
+		</thumbnail>
+		<title>Invasion Assault Clash</title>
+		<creator>King Thor Gulch</creator>
+		<relatedgames/>
+	</game>
+	<game id="17554096" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frugal/Emmett/Rhombus/17554096.jpg
+		</thumbnail>
+		<title>Robot Challenge Vilgax</title>
+		<creator>Frugal Emmett Rhombus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17331653" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Electric/Izzy/Coconut/17331653.jpg
+		</thumbnail>
+		<title>Energy Whirlwind Cosmic</title>
+		<creator>Electric Izzy Coconut</creator>
+		<relatedgames/>
+	</game>
+	<game id="16947501" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gentle/Rosetta/Snowball/16947501.jpg
+		</thumbnail>
+		<title>Ultimate Brainstorm Vilgax</title>
+		<creator>Gentle Rosetta Snowball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10063843" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Shrewd/Minerva/Aurora/10063843.jpg
+		</thumbnail>
+		<title>Storm Plasma Spike</title>
+		<creator>Shrewd Minerva Aurora</creator>
+		<relatedgames/>
+	</game>
+	<game id="17302569" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Scott/Snake/17302569.jpg
+		</thumbnail>
+		<title>Humungousaur Target Adventure</title>
+		<creator>Zany Scott Snake</creator>
+		<relatedgames/>
+	</game>
+	<game id="16976893" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Grover/Alien/16976893.jpg
+		</thumbnail>
+		<title>Mega Challenge Mission</title>
+		<creator>Barbaric Grover Alien</creator>
+		<relatedgames/>
+	</game>
+	<game id="17280623" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elastic/Connor/Sprocket/17280623.jpg
+		</thumbnail>
+		<title>Danger Power Adventure</title>
+		<creator>Elastic Connor Sprocket</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918666" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Generous/Homer/Potato/10918666.jpg
+		</thumbnail>
+		<title>Drone Ultimate Turbo</title>
+		<creator>Generous Homer Potato</creator>
+		<relatedgames/>
+	</game>
+	<game id="17236008" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Messy/Bart/Robot/17236008.jpg
+		</thumbnail>
+		<title>Techno Siege Cannonbolt</title>
+		<creator>Messy Bart Robot</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10923878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Lively/Orville/Tornado/10923878.jpg
+		</thumbnail>
+		<title>Invasion Adventure Energy</title>
+		<creator>Lively Orville Tornado</creator>
+		<relatedgames/>
+	</game>
+	<game id="17283609" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Haunted/Andre/Tarragon/17283609.jpg
+		</thumbnail>
+		<title>Iron Assault Challenge</title>
+		<creator>Haunted Andre Tarragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924230" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Orange/Caleb/Thunder/10924230.jpg
+		</thumbnail>
+		<title>Magno Pulse Rampage</title>
+		<creator>Orange Caleb Thunder</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916691" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sporty/Ivy/Ketchup/10916691.jpg
+		</thumbnail>
+		<title>Swampfire Fire Storm</title>
+		<creator>Sporty Ivy Ketchup</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933355" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Madcap/Pete/Fritter/10933355.jpg
+		</thumbnail>
+		<title>Universe Target Warrior</title>
+		<creator>Madcap Pete Fritter</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Western/Leon/Figment/10952878.jpg
+		</thumbnail>
+		<title>Crusher Alien Solar</title>
+		<creator>Western Leon Figment</creator>
+		<relatedgames/>
+	</game>
+	<game id="17374839" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Captain/Sapphire/Electron/17374839.jpg
+		</thumbnail>
+		<title>Cosmic Fire Escape</title>
+		<creator>Captain Sapphire Electron</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920338" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stylish/Harvey/Universe/10920338.jpg
+		</thumbnail>
+		<title>Spark Magno Racer</title>
+		<creator>Stylish Harvey Universe</creator>
+		<relatedgames/>
+	</game>
+	<game id="17549594" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Classic/Buffy/Dingo/17549594.jpg
+		</thumbnail>
+		<title>Warrior Rustbucket Echo</title>
+		<creator>Classic Buffy Dingo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953578" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Lucky/Matthew/Avocado/10953578.jpg
+		</thumbnail>
+		<title>Warp Pulse Swampfire</title>
+		<creator>Lucky Matthew Avocado</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

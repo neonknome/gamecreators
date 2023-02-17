@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17164092" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ultimate/Scott/Calypso/17164092.jpg
+		</thumbnail>
+		<title>Siege Dark Space</title>
+		<creator>Ultimate Scott Calypso</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918998" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Northern/Marcus/Turtle/10918998.jpg
+		</thumbnail>
+		<title>Vilgax Blaster Beast</title>
+		<creator>Northern Marcus Turtle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926927" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dainty/Darla/Ketchup/10926927.jpg
+		</thumbnail>
+		<title>Doom Rampage Defense</title>
+		<creator>Dainty Darla Ketchup</creator>
+		<relatedgames/>
+	</game>
+	<game id="16983993" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Visible/Gladys/Kangaroo/16983993.jpg
+		</thumbnail>
+		<title>Patrol Ultimate Beast</title>
+		<creator>Visible Gladys Kangaroo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10946650" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Napoleon/Cupcake/10946650.jpg
+		</thumbnail>
+		<title>Iron Ambush Plumber</title>
+		<creator>Dazzling Napoleon Cupcake</creator>
+		<relatedgames/>
+	</game>
+	<game id="17022147" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loony/Ricardo/Quake/17022147.jpg
+		</thumbnail>
+		<title>Adventure Thunder Blaster</title>
+		<creator>Loony Ricardo Quake</creator>
+		<relatedgames/>
+	</game>
+	<game id="17126481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Restless/Xerxes/Kook/17126481.jpg
+		</thumbnail>
+		<title>Sonic Chase Blaster</title>
+		<creator>Restless Xerxes Kook</creator>
+		<relatedgames/>
+	</game>
+	<game id="17365312" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Vigilant/Floyd/Fizz/17365312.jpg
+		</thumbnail>
+		<title>Waterhazard Force Attack</title>
+		<creator>Vigilant Floyd Fizz</creator>
+		<relatedgames/>
+	</game>
+	<game id="17389194" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artful/Russell/Cobweb/17389194.jpg
+		</thumbnail>
+		<title>Universe Shadow Pursuit</title>
+		<creator>Artful Russell Cobweb</creator>
+		<relatedgames/>
+	</game>
+	<game id="10940698" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Zeb/Crash/10940698.jpg
+		</thumbnail>
+		<title>Hex Robot Rumble</title>
+		<creator>Dashing Zeb Crash</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

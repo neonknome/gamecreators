@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10917704" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Trinity/Cobra/10917704.jpg
+		</thumbnail>
+		<title>Adventure Animo Assault</title>
+		<creator>Dashing Trinity Cobra</creator>
+		<relatedgames/>
+	</game>
+	<game id="10780319" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wild/Richard/Pontoon/10780319.jpg
+		</thumbnail>
+		<title>Galaxy Solar Ambush</title>
+		<creator>Wild Richard Pontoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17252700" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cartoony/Carl/Zebra/17252700.jpg
+		</thumbnail>
+		<title>Search Rustbucket Atomic</title>
+		<creator>Cartoony Carl Zebra</creator>
+		<relatedgames/>
+	</game>
+	<game id="17302719" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/Jose/Walrus/17302719.jpg
+		</thumbnail>
+		<title>Rocket Siege Nitro</title>
+		<creator>Fiery Jose Walrus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Lively/Orville/Tornado/10923878.jpg
+		</thumbnail>
+		<title>Invasion Adventure Energy</title>
+		<creator>Lively Orville Tornado</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933355" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Madcap/Pete/Fritter/10933355.jpg
+		</thumbnail>
+		<title>Universe Target Warrior</title>
+		<creator>Madcap Pete Fritter</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953653" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Savage/Caroline/Fizz/10953653.jpg
+		</thumbnail>
+		<title>Mega Adventure Alien</title>
+		<creator>Savage Caroline Fizz</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Western/Leon/Figment/10952878.jpg
+		</thumbnail>
+		<title>Crusher Alien Solar</title>
+		<creator>Western Leon Figment</creator>
+		<relatedgames/>
+	</game>
+	<game id="17551092" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dreadful/Alex/Dodo/17551092.jpg
+		</thumbnail>
+		<title>Adventure Assault Nitro</title>
+		<creator>Dreadful Alex Dodo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038610" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Frantic/Henry/Crowbar/10038610.jpg
+		</thumbnail>
+		<title>Shock Nano Siege</title>
+		<creator>Frantic Henry Crowbar</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

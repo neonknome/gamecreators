@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10924453" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dramatic/Luke/Charger/10924453.jpg
+		</thumbnail>
+		<title>Invasion Mission Nova</title>
+		<creator>Dramatic Luke Charger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952867" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frantic/Chester/Walrus/10952867.jpg
+		</thumbnail>
+		<title>Search Nova Champion</title>
+		<creator>Frantic Chester Walrus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17014494" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bold/Isabelle/Pizza/17014494.jpg
+		</thumbnail>
+		<title>Pursuit Quake Warp</title>
+		<creator>Bold Isabelle Pizza</creator>
+		<relatedgames/>
+	</game>
+	<game id="17311257" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Epic/Igor/Minotaur/17311257.jpg
+		</thumbnail>
+		<title>Adventure Sonic Fury</title>
+		<creator>Epic Igor Minotaur</creator>
+		<relatedgames/>
+	</game>
+	<game id="17363601" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Icy/Bridget/Atlas/17363601.jpg
+		</thumbnail>
+		<title>Metal Spidermonkey Spidermonkey</title>
+		<creator>Icy Bridget Atlas</creator>
+		<relatedgames/>
+	</game>
+	<game id="10786851" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Puzzling/Carter/Basilisk/10786851.jpg
+		</thumbnail>
+		<title>Spike Turbo Alien</title>
+		<creator>Puzzling Carter Basilisk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17539932" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nervous/Ben/Burst/17539932.jpg
+		</thumbnail>
+		<title>Terraspin Whirlwind Turbo</title>
+		<creator>Nervous Ben Burst</creator>
+		<relatedgames/>
+	</game>
+	<game id="17333152" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Academic/Edward/Cowboy/17333152.jpg
+		</thumbnail>
+		<title>Ultimate Cannonbolt Rush</title>
+		<creator>Academic Edward Cowboy</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926529" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Twisty/Hank/Bamboo/10926529.jpg
+		</thumbnail>
+		<title>Mission Turbo Sonic</title>
+		<creator>Twisty Hank Bamboo</creator>
+		<relatedgames/>
+	</game>
+	<game id="16944232" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bogus/Calvin/Baloney/16944232.jpg
+		</thumbnail>
+		<title>Chill Big Assault</title>
+		<creator>Bogus Calvin Baloney</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

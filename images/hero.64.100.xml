@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17259049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Lawrence/Eggplant/17259049.jpg
+		</thumbnail>
+		<title>Big Earth Nova</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames/>
+	</game>
+	<game id="17418873" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Evil/Marcia/Ballyhoo/17418873.jpg
+		</thumbnail>
+		<title>Animo Shadow Warp</title>
+		<creator>Evil Marcia Ballyhoo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10068680" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dapper/Jada/Cyborg/10068680.jpg
+		</thumbnail>
+		<title>Patrol Nova Nitro</title>
+		<creator>Dapper Jada Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931973" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Graceful/Chad/Beeswax/10931973.jpg
+		</thumbnail>
+		<title>Fury Dark Sonic</title>
+		<creator>Graceful Chad Beeswax</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038005" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Sly/Dinah/Giblets/10038005.jpg
+		</thumbnail>
+		<title>Steel Star Lightning</title>
+		<creator>Sly Dinah Giblets</creator>
+		<relatedgames/>
+	</game>
+	<game id="17549594" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Classic/Buffy/Dingo/17549594.jpg
+		</thumbnail>
+		<title>Warrior Rustbucket Echo</title>
+		<creator>Classic Buffy Dingo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10917016" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baffling/Thomas/Zombie/10917016.jpg
+		</thumbnail>
+		<title>Rampage Cosmic Swampfire</title>
+		<creator>Baffling Thomas Zombie</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921240" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Plucky/Breanna/Figment/10921240.jpg
+		</thumbnail>
+		<title>Animo Rock Beast</title>
+		<creator>Plucky Breanna Figment</creator>
+		<relatedgames/>
+	</game>
+	<game id="17311587" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proper/Kate/Witch/17311587.jpg
+		</thumbnail>
+		<title>Razor Attack Rock</title>
+		<creator>Proper Kate Witch</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935104" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Swift/Mitchell/Parsec/10935104.jpg
+		</thumbnail>
+		<title>Escape Turbo Plumber</title>
+		<creator>Swift Mitchell Parsec</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

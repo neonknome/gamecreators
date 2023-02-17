@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10927274" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Handsome/Noah/Penguin/10927274.jpg
+		</thumbnail>
+		<title>Turbo Assault Burst</title>
+		<creator>Handsome Noah Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="17351878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Acoustic/Jeff/Spider/17351878.jpg
+		</thumbnail>
+		<title>Ultra Warp Star</title>
+		<creator>Acoustic Jeff Spider</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952550" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cranky/Nicole/Galaxy/10952550.jpg
+		</thumbnail>
+		<title>Swampfire Fire Storm</title>
+		<creator>Cranky Nicole Galaxy</creator>
+		<relatedgames/>
+	</game>
+	<game id="17399233" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Puzzling/Frank/Wolf/17399233.jpg
+		</thumbnail>
+		<title>Battle Spike Rush</title>
+		<creator>Puzzling Frank Wolf</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952640" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cranky/Bryan/Varmint/10952640.jpg
+		</thumbnail>
+		<title>Challenge Fire Mission</title>
+		<creator>Cranky Bryan Varmint</creator>
+		<relatedgames/>
+	</game>
+	<game id="10048804" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Twisty/John/Mustang/10048804.jpg
+		</thumbnail>
+		<title>Robot Attack Mission</title>
+		<creator>Twisty John Mustang</creator>
+		<relatedgames/>
+	</game>
+	<game id="17303802" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cunning/Ian/Burst/17303802.jpg
+		</thumbnail>
+		<title>Storm Assault Iron</title>
+		<creator>Cunning Ian Burst</creator>
+		<relatedgames/>
+	</game>
+	<game id="10039390" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Glorious/Gulliver/Gorilla/10039390.jpg
+		</thumbnail>
+		<title>Solar Storm Hero</title>
+		<creator>Glorious Gulliver Gorilla</creator>
+		<relatedgames/>
+	</game>
+	<game id="16947780" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sleek/CJ/Dolphin/16947780.jpg
+		</thumbnail>
+		<title>Mega Chase Invasion</title>
+		<creator>Sleek CJ Dolphin</creator>
+		<relatedgames/>
+	</game>
+	<game id="17377709" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quirky/Tommy/Karate/17377709.jpg
+		</thumbnail>
+		<title>Turbo Cosmic Solar</title>
+		<creator>Quirky Tommy Karate</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

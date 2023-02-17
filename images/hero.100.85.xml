@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17258009" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mystic/Ed/Acorn/17258009.jpg
+		</thumbnail>
+		<title>Ultra Mission Nova</title>
+		<creator>Mystic Ed Acorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="17316554" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Rich/Sunshine/17316554.jpg
+		</thumbnail>
+		<title>Rustbucket Techno Robot</title>
+		<creator>Queen Rich Sunshine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916882" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tricky/Felix/Pontoon/10916882.jpg
+		</thumbnail>
+		<title>Rumble Adventure Challenge</title>
+		<creator>Tricky Felix Pontoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928827" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Adorable/Caitlin/Flamingo/10928827.jpg
+		</thumbnail>
+		<title>Metal Danger Light</title>
+		<creator>Adorable Caitlin Flamingo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17382087" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Creepy/Richard/Oink/17382087.jpg
+		</thumbnail>
+		<title>Fusion Rescue Drone</title>
+		<creator>Creepy Richard Oink</creator>
+		<relatedgames/>
+	</game>
+	<game id="17047482" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Intrepid/Alex/Acorn/17047482.jpg
+		</thumbnail>
+		<title>Waterhazard Hyper Champion</title>
+		<creator>Intrepid Alex Acorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="17288430" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Lawrence/Eggplant/17288430.jpg
+		</thumbnail>
+		<title>Ultimate Echo Echo</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames/>
+	</game>
+	<game id="17540929" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Horrid/Eugene/Haystack/17540929.jpg
+		</thumbnail>
+		<title>Echo Battle Force</title>
+		<creator>Horrid Eugene Haystack</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918517" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stylish/Matthew/Acrobat/10918517.jpg
+		</thumbnail>
+		<title>Iron Challenge Chase</title>
+		<creator>Stylish Matthew Acrobat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10945458" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Atomic/Zelda/Sardine/10945458.jpg
+		</thumbnail>
+		<title>Sonic Alien Universe</title>
+		<creator>Atomic Zelda Sardine</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

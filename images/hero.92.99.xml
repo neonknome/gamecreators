@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16975666" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Steady/Hannah/Brute/16975666.jpg
+		</thumbnail>
+		<title>Ambush Battle Search</title>
+		<creator>Steady Hannah Brute</creator>
+		<relatedgames/>
+	</game>
+	<game id="17389200" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scruffy/Drake/Enigma/17389200.jpg
+		</thumbnail>
+		<title>Sonic Adventure Adventure</title>
+		<creator>Scruffy Drake Enigma</creator>
+		<relatedgames/>
+	</game>
+	<game id="10054675" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Chaotic/Lily/Safari/10054675.jpg
+		</thumbnail>
+		<title>Ultimate Fusion Assault</title>
+		<creator>Chaotic Lily Safari</creator>
+		<relatedgames/>
+	</game>
+	<game id="17012536" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Super/Carol/Blizzard/17012536.jpg
+		</thumbnail>
+		<title>Cannonbolt Challenge Hyper</title>
+		<creator>Super Carol Blizzard</creator>
+		<relatedgames/>
+	</game>
+	<game id="10945050" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awesome/Clyde/Howler/10945050.jpg
+		</thumbnail>
+		<title>Fusion Burst Galaxy</title>
+		<creator>Awesome Clyde Howler</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055588" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Hectic/Cathy/Zigzag/10055588.jpg
+		</thumbnail>
+		<title>Beast Sonic Magno</title>
+		<creator>Hectic Cathy Zigzag</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952666" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/David/Unicycle/10952666.jpg
+		</thumbnail>
+		<title>Adventure Adventure Atomic</title>
+		<creator>Red David Unicycle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919034" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Unusual/Leon/Spiral/10919034.jpg
+		</thumbnail>
+		<title>Magno Titan Defense</title>
+		<creator>Unusual Leon Spiral</creator>
+		<relatedgames/>
+	</game>
+	<game id="10032500" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Daring/Ivy/Zing/10032500.jpg
+		</thumbnail>
+		<title>Hyper Light Invasion</title>
+		<creator>Daring Ivy Zing</creator>
+		<relatedgames/>
+	</game>
+	<game id="10936094" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grand/Michelle/Goulash/10936094.jpg
+		</thumbnail>
+		<title>Alien Atomic Attack</title>
+		<creator>Grand Michelle Goulash</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

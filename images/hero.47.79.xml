@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10927670" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wise/Chris/Boing/10927670.jpg
+		</thumbnail>
+		<title>Invasion Ultimate Pursuit</title>
+		<creator>Wise Chris Boing</creator>
+		<relatedgames/>
+	</game>
+	<game id="17358951" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Duke/Ian/Twilight/17358951.jpg
+		</thumbnail>
+		<title>Metal Smash Robot</title>
+		<creator>Duke Ian Twilight</creator>
+		<relatedgames/>
+	</game>
+	<game id="10940027" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hectic/Matt/Bingo/10940027.jpg
+		</thumbnail>
+		<title>Streak Warp Rumble</title>
+		<creator>Hectic Matt Bingo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952533" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Squishy/Riley/Doodle/10952533.jpg
+		</thumbnail>
+		<title>Racer Invasion Hero</title>
+		<creator>Squishy Riley Doodle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952262" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scary/Kevin/Saber/10952262.jpg
+		</thumbnail>
+		<title>Dark Storm Galaxy</title>
+		<creator>Scary Kevin Saber</creator>
+		<relatedgames/>
+	</game>
+	<game id="17331941" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Subtle/Lancelot/Ricochet/17331941.jpg
+		</thumbnail>
+		<title>Rocket Charge Blaster</title>
+		<creator>Subtle Lancelot Ricochet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17259079" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Lawrence/Eggplant/17259079.jpg
+		</thumbnail>
+		<title>Cosmic Iron Chill</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames/>
+	</game>
+	<game id="17505132" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Creative/David/Anvil/17505132.jpg
+		</thumbnail>
+		<title>Mission Chase Smash</title>
+		<creator>Creative David Anvil</creator>
+		<relatedgames/>
+	</game>
+	<game id="17554026" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Unknown/Zeus/Celsius/17554026.jpg
+		</thumbnail>
+		<title>Light Ben Champion</title>
+		<creator>Unknown Zeus Celsius</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924177" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dapper/Sophia/Bolt/10924177.jpg
+		</thumbnail>
+		<title>Steel Pulse Iron</title>
+		<creator>Dapper Sophia Bolt</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

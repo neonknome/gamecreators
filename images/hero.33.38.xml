@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17017938" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gothic/Sara/Weasel/17017938.jpg
+		</thumbnail>
+		<title>Rush Cosmic Adventure</title>
+		<creator>Gothic Sara Weasel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17574979" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nimble/Joey/Lemon/17574979.jpg
+		</thumbnail>
+		<title>Chill Ambush Adventure</title>
+		<creator>Nimble Joey Lemon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038010" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fearless/Jason/Bonkers/10038010.jpg
+		</thumbnail>
+		<title>Galaxy Storm Rustbucket</title>
+		<creator>Fearless Jason Bonkers</creator>
+		<relatedgames/>
+	</game>
+	<game id="10917920" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Northern/Jason/Shock/10917920.jpg
+		</thumbnail>
+		<title>Ultimate Razor Mission</title>
+		<creator>Northern Jason Shock</creator>
+		<relatedgames/>
+	</game>
+	<game id="17419519" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Speedy/Buster/Popcorn/17419519.jpg
+		</thumbnail>
+		<title>Rocket Alien Ambush</title>
+		<creator>Speedy Buster Popcorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="17569997" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brisk/Aubrey/Camel/17569997.jpg
+		</thumbnail>
+		<title>Hero Rush Alien</title>
+		<creator>Brisk Aubrey Camel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10040051" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fanciful/Pedro/Magma/10040051.jpg
+		</thumbnail>
+		<title>Solar Invasion Ultimate</title>
+		<creator>Fanciful Pedro Magma</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952905" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jolly/Bryan/Kook/10952905.jpg
+		</thumbnail>
+		<title>Laser Plasma Challenge</title>
+		<creator>Jolly Bryan Kook</creator>
+		<relatedgames/>
+	</game>
+	<game id="17338241" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Groovy/Dylan/Bongo/17338241.jpg
+		</thumbnail>
+		<title>Universe Charge Thunder</title>
+		<creator>Groovy Dylan Bongo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952855" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Normal/Mario/Cobra/10952855.jpg
+		</thumbnail>
+		<title>Nova Alien Invasion</title>
+		<creator>Normal Mario Cobra</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

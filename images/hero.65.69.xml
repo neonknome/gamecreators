@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17320483" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Talented/Adam/Tiger/17320483.jpg
+		</thumbnail>
+		<title>Adventure Alien Ambush</title>
+		<creator>Talented Adam Tiger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925908" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baffling/Tex/Jalapeno/10925908.jpg
+		</thumbnail>
+		<title>Droid Laser Hex</title>
+		<creator>Baffling Tex Jalapeno</creator>
+		<relatedgames/>
+	</game>
+	<game id="10934594" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Kenneth/Saber/10934594.jpg
+		</thumbnail>
+		<title>Fusion Chase Invasion</title>
+		<creator>Honest Kenneth Saber</creator>
+		<relatedgames/>
+	</game>
+	<game id="10040051" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fanciful/Pedro/Magma/10040051.jpg
+		</thumbnail>
+		<title>Solar Invasion Ultimate</title>
+		<creator>Fanciful Pedro Magma</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925264" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Mike/Blubber/10925264.jpg
+		</thumbnail>
+		<title>Fire Ben Nitro</title>
+		<creator>Dazzling Mike Blubber</creator>
+		<relatedgames/>
+	</game>
+	<game id="17338241" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Groovy/Dylan/Bongo/17338241.jpg
+		</thumbnail>
+		<title>Universe Charge Thunder</title>
+		<creator>Groovy Dylan Bongo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10786679" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spectral/Leonardo/Zip/10786679.jpg
+		</thumbnail>
+		<title>Star Beast Challenge</title>
+		<creator>Spectral Leonardo Zip</creator>
+		<relatedgames/>
+	</game>
+	<game id="16907817" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Restless/Oscar/Mumbles/16907817.jpg
+		</thumbnail>
+		<title>Razor Alien Iron</title>
+		<creator>Restless Oscar Mumbles</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926182" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brawny/Sara/Galaxy/10926182.jpg
+		</thumbnail>
+		<title>Rock Swampfire Magno</title>
+		<creator>Brawny Sara Galaxy</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404295" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Squishy/Johnny/Toenail/17404295.jpg
+		</thumbnail>
+		<title>Robot Laser Adventure</title>
+		<creator>Squishy Johnny Toenail</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

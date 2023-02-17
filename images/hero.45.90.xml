@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17574763" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bumbling/Andy/Zinger/17574763.jpg
+		</thumbnail>
+		<title>Drone Rampage Smash</title>
+		<creator>Bumbling Andy Zinger</creator>
+		<relatedgames/>
+	</game>
+	<game id="17316942" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stinky/James/Avator/17316942.jpg
+		</thumbnail>
+		<title>Nano Nova Thunder</title>
+		<creator>Stinky James Avator</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921966" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artistic/Mario/Shark/10921966.jpg
+		</thumbnail>
+		<title>Ultimate Spike Adventure</title>
+		<creator>Artistic Mario Shark</creator>
+		<relatedgames/>
+	</game>
+	<game id="10649889" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grouchy/Brittany/Fury/10649889.jpg
+		</thumbnail>
+		<title>Gear Mission Robot</title>
+		<creator>Grouchy Brittany Fury</creator>
+		<relatedgames/>
+	</game>
+	<game id="17364403" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hectic/Taylor/Gazebo/17364403.jpg
+		</thumbnail>
+		<title>Droid Light Escape</title>
+		<creator>Hectic Taylor Gazebo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951531" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stately/Benjamin/Galaxy/10951531.jpg
+		</thumbnail>
+		<title>Mega Titan Search</title>
+		<creator>Stately Benjamin Galaxy</creator>
+		<relatedgames/>
+	</game>
+	<game id="17288430" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Lawrence/Eggplant/17288430.jpg
+		</thumbnail>
+		<title>Ultimate Echo Echo</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames/>
+	</game>
+	<game id="17332505" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Evil/Parker/Planet/17332505.jpg
+		</thumbnail>
+		<title>Mega Champion Robot</title>
+		<creator>Evil Parker Planet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17305923" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Bryce/Cyborg/17305923.jpg
+		</thumbnail>
+		<title>Patrol Turbo Chase</title>
+		<creator>Daring Bryce Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10039284" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Gracious/Vladimir/Yodel/10039284.jpg
+		</thumbnail>
+		<title>Animo Lightning Defense</title>
+		<creator>Gracious Vladimir Yodel</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

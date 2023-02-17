@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17345269" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Super/Floyd/Avator/17345269.jpg
+		</thumbnail>
+		<title>Target Battle Laser</title>
+		<creator>Super Floyd Avator</creator>
+		<relatedgames/>
+	</game>
+	<game id="17353868" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mirthful/Marco/Castle/17353868.jpg
+		</thumbnail>
+		<title>Champion Adventure Ultimate</title>
+		<creator>Mirthful Marco Castle</creator>
+		<relatedgames/>
+	</game>
+	<game id="16993882" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Yorick/Behemoth/16993882.jpg
+		</thumbnail>
+		<title>Spidermonkey Ultra Escape</title>
+		<creator>Zany Yorick Behemoth</creator>
+		<relatedgames/>
+	</game>
+	<game id="17322959" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Arthur/Cyborg/17322959.jpg
+		</thumbnail>
+		<title>Jetray Slam Assault</title>
+		<creator>Colossal Arthur Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="17075414" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tireless/Ruby/Phoenix/17075414.jpg
+		</thumbnail>
+		<title>Fire Ben Universe</title>
+		<creator>Tireless Ruby Phoenix</creator>
+		<relatedgames/>
+	</game>
+	<game id="17233967" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baron/Felipe/Nova/17233967.jpg
+		</thumbnail>
+		<title>Techno Cosmic Slam</title>
+		<creator>Baron Felipe Nova</creator>
+		<relatedgames/>
+	</game>
+	<game id="17418779" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Horrid/Wilford/Rhombus/17418779.jpg
+		</thumbnail>
+		<title>Magno Chase Assault</title>
+		<creator>Horrid Wilford Rhombus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10064405" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cranky/Dawn/Boing/10064405.jpg
+		</thumbnail>
+		<title>Racer Racer Assault</title>
+		<creator>Cranky Dawn Boing</creator>
+		<relatedgames/>
+	</game>
+	<game id="10948032" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Feisty/Bailey/Skylark/10948032.jpg
+		</thumbnail>
+		<title>Smash Shock Atomic</title>
+		<creator>Feisty Bailey Skylark</creator>
+		<relatedgames/>
+	</game>
+	<game id="17232540" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Diagonal/Trevor/Blammo/17232540.jpg
+		</thumbnail>
+		<title>Dark Metal Attack</title>
+		<creator>Diagonal Trevor Blammo</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17136703" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Verbose/Oscar/Glitch/17136703.jpg
+		</thumbnail>
+		<title>Invasion Adventure Rush</title>
+		<creator>Verbose Oscar Glitch</creator>
+		<relatedgames/>
+	</game>
+	<game id="17568465" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brawny/Michael/Dragoon/17568465.jpg
+		</thumbnail>
+		<title>Energy Stone Rocket</title>
+		<creator>Brawny Michael Dragoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10647354" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Karen/Starfish/10647354.jpg
+		</thumbnail>
+		<title>Challenge Burst Breaker</title>
+		<creator>Dashing Karen Starfish</creator>
+		<relatedgames/>
+	</game>
+	<game id="17217964" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Carefree/Penelope/Banshee/17217964.jpg
+		</thumbnail>
+		<title>Animo Lightning Danger</title>
+		<creator>Carefree Penelope Banshee</creator>
+		<relatedgames/>
+	</game>
+	<game id="17338102" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/Ichabod/Tiptoe/17338102.jpg
+		</thumbnail>
+		<title>Burst Mega Pursuit</title>
+		<creator>Fiery Ichabod Tiptoe</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919856" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Leaping/Derek/Elf/10919856.jpg
+		</thumbnail>
+		<title>Spark Lightning Warrior</title>
+		<creator>Leaping Derek Elf</creator>
+		<relatedgames/>
+	</game>
+	<game id="17259173" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Regular/Alexis/Crash/17259173.jpg
+		</thumbnail>
+		<title>Alien Slam Thunder</title>
+		<creator>Regular Alexis Crash</creator>
+		<relatedgames/>
+	</game>
+	<game id="10949020" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Odd/Sean/Mustang/10949020.jpg
+		</thumbnail>
+		<title>Nano Giga Ambush</title>
+		<creator>Odd Sean Mustang</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922703" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Aquatic/Xerxes/Beeswax/10922703.jpg
+		</thumbnail>
+		<title>Assault Solar Assault</title>
+		<creator>Aquatic Xerxes Beeswax</creator>
+		<relatedgames/>
+	</game>
+	<game id="17356919" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sassy/Aaron/Baloney/17356919.jpg
+		</thumbnail>
+		<title>Alien Chase Shock</title>
+		<creator>Sassy Aaron Baloney</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

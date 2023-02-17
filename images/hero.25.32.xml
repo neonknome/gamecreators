@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10924819" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pleasant/Dakota/Rumble/10924819.jpg
+		</thumbnail>
+		<title>Champion Rush Slam</title>
+		<creator>Pleasant Dakota Rumble</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931299" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strange/Tyler/Chipmunk/10931299.jpg
+		</thumbnail>
+		<title>Slam Solar Target</title>
+		<creator>Strange Tyler Chipmunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17299849" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Fred/Bingo/17299849.jpg
+		</thumbnail>
+		<title>Gear Hyper Turbo</title>
+		<creator>Chilly Fred Bingo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952813" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Babbling/Adam/Buckaroo/10952813.jpg
+		</thumbnail>
+		<title>Fury Spark Galaxy</title>
+		<creator>Babbling Adam Buckaroo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17540418" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Peppy/Phillip/Scythe/17540418.jpg
+		</thumbnail>
+		<title>Target Rush Fusion</title>
+		<creator>Peppy Phillip Scythe</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921591" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Majestic/Mario/Sawtooth/10921591.jpg
+		</thumbnail>
+		<title>Dark Adventure Drone</title>
+		<creator>Majestic Mario Sawtooth</creator>
+		<relatedgames/>
+	</game>
+	<game id="16837718" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Witty/Dean/Giblets/16837718.jpg
+		</thumbnail>
+		<title>Nitro Mission Atomic</title>
+		<creator>Witty Dean Giblets</creator>
+		<relatedgames/>
+	</game>
+	<game id="17383531" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Princess/Melanie/Penguin/17383531.jpg
+		</thumbnail>
+		<title>Battle Chill Search</title>
+		<creator>Princess Melanie Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Surreal/Grace/Flypaper/10924687.jpg
+		</thumbnail>
+		<title>Clash Alien Adventure</title>
+		<creator>Surreal Grace Flypaper</creator>
+		<relatedgames/>
+	</game>
+	<game id="10649815" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zippy/Sarah/Tuxedo/10649815.jpg
+		</thumbnail>
+		<title>Storm Robot Adventure</title>
+		<creator>Zippy Sarah Tuxedo</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

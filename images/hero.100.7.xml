@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17326873" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grand/Tex/Gator/17326873.jpg
+		</thumbnail>
+		<title>Droid Quake Light</title>
+		<creator>Grand Tex Gator</creator>
+		<relatedgames/>
+	</game>
+	<game id="17416279" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Smelly/Robin/Hippo/17416279.jpg
+		</thumbnail>
+		<title>Hex Fury Mega</title>
+		<creator>Smelly Robin Hippo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055575" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Reckless/Romeo/Spark/10055575.jpg
+		</thumbnail>
+		<title>Fire Ultra Slam</title>
+		<creator>Reckless Romeo Spark</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953054" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brainy/Casey/Sardine/10953054.jpg
+		</thumbnail>
+		<title>Pursuit Dark Siege</title>
+		<creator>Brainy Casey Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="17504961" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Evil/Mario/Gargoyle/17504961.jpg
+		</thumbnail>
+		<title>Giga Storm Blaster</title>
+		<creator>Evil Mario Gargoyle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10929472" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Shannon/Robot/10929472.jpg
+		</thumbnail>
+		<title>Invasion Vilgax Galaxy</title>
+		<creator>Alien Shannon Robot</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404545" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Graceful/Payten/Dumpling/17404545.jpg
+		</thumbnail>
+		<title>Rumble Streak Mission</title>
+		<creator>Graceful Payten Dumpling</creator>
+		<relatedgames/>
+	</game>
+	<game id="17380207" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Classic/Tanner/Plankton/17380207.jpg
+		</thumbnail>
+		<title>Metal Hyper Champion</title>
+		<creator>Classic Tanner Plankton</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924158" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frantic/Melissa/Porridge/10924158.jpg
+		</thumbnail>
+		<title>Swampfire Techno Warp</title>
+		<creator>Frantic Melissa Porridge</creator>
+		<relatedgames/>
+	</game>
+	<game id="17505120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Galactic/Chuck/Giblets/17505120.jpg
+		</thumbnail>
+		<title>Adventure Jetray Rocket</title>
+		<creator>Galactic Chuck Giblets</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

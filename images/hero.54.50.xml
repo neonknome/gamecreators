@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10055993" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Scary/Leonardo/Droid/10055993.jpg
+		</thumbnail>
+		<title>Earth Alien Adventure</title>
+		<creator>Scary Leonardo Droid</creator>
+		<relatedgames/>
+	</game>
+	<game id="10043501" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Wily/Jackson/Umbrella/10043501.jpg
+		</thumbnail>
+		<title>Alien Blaster Adventure</title>
+		<creator>Wily Jackson Umbrella</creator>
+		<relatedgames/>
+	</game>
+	<game id="17323636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Drowzy/Yancy/Porridge/17323636.jpg
+		</thumbnail>
+		<title>Rocket Hex Drone</title>
+		<creator>Drowzy Yancy Porridge</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923111" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colorful/Cody/Crash/10923111.jpg
+		</thumbnail>
+		<title>Shock Light Light</title>
+		<creator>Colorful Cody Crash</creator>
+		<relatedgames/>
+	</game>
+	<game id="17419559" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Friendly/Felix/Dodo/17419559.jpg
+		</thumbnail>
+		<title>Stone Hero Laser</title>
+		<creator>Friendly Felix Dodo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10934766" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Savage/Jacob/Pulse/10934766.jpg
+		</thumbnail>
+		<title>Nova Assault Earth</title>
+		<creator>Savage Jacob Pulse</creator>
+		<relatedgames/>
+	</game>
+	<game id="10945458" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Atomic/Zelda/Sardine/10945458.jpg
+		</thumbnail>
+		<title>Sonic Alien Universe</title>
+		<creator>Atomic Zelda Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10058578" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Shiny/Rex/Avocado/10058578.jpg
+		</thumbnail>
+		<title>Energy Drone Dark</title>
+		<creator>Shiny Rex Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="17311338" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Freakish/Benson/Banshee/17311338.jpg
+		</thumbnail>
+		<title>Rustbucket Battle Clash</title>
+		<creator>Freakish Benson Banshee</creator>
+		<relatedgames/>
+	</game>
+	<game id="17220310" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Edgy/Sid/Clang/17220310.jpg
+		</thumbnail>
+		<title>Ultra Giga Search</title>
+		<creator>Edgy Sid Clang</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

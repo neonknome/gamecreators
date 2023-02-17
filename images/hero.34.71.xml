@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10925875" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Swift/Shelby/Ninja/10925875.jpg
+		</thumbnail>
+		<title>Mega Attack Swampfire</title>
+		<creator>Swift Shelby Ninja</creator>
+		<relatedgames/>
+	</game>
+	<game id="10032046" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Absurd/Ava/Bayou/10032046.jpg
+		</thumbnail>
+		<title>Defense Alien Humongousaur</title>
+		<creator>Absurd Ava Bayou</creator>
+		<relatedgames/>
+	</game>
+	<game id="10064904" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cosmic/Goliath/Oddball/10064904.jpg
+		</thumbnail>
+		<title>Adventure Mission Sonic</title>
+		<creator>Cosmic Goliath Oddball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10934523" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Leroy/Hedgehog/10934523.jpg
+		</thumbnail>
+		<title>Defense Patrol Rush</title>
+		<creator>Humorous Leroy Hedgehog</creator>
+		<relatedgames/>
+	</game>
+	<game id="10655835" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proper/Dinah/Sardine/10655835.jpg
+		</thumbnail>
+		<title>Shadow Dark Rampage</title>
+		<creator>Proper Dinah Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931694" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Comical/Kelly/Baloney/10931694.jpg
+		</thumbnail>
+		<title>Pulse Nitro Ultra</title>
+		<creator>Comical Kelly Baloney</creator>
+		<relatedgames/>
+	</game>
+	<game id="17395565" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Toxic/Rocky/Photon/17395565.jpg
+		</thumbnail>
+		<title>Sonic Big Rocket</title>
+		<creator>Toxic Rocky Photon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17241860" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Creative/Jay/Buffalo/17241860.jpg
+		</thumbnail>
+		<title>Razor Echo Chill</title>
+		<creator>Creative Jay Buffalo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17217964" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Carefree/Penelope/Banshee/17217964.jpg
+		</thumbnail>
+		<title>Animo Lightning Danger</title>
+		<creator>Carefree Penelope Banshee</creator>
+		<relatedgames/>
+	</game>
+	<game id="17423572" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Average/Angela/Cartoon/17423572.jpg
+		</thumbnail>
+		<title>Star Animo Fusion</title>
+		<creator>Average Angela Cartoon</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

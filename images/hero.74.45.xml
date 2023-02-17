@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17408671" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Popular/Brayden/Spleen/17408671.jpg
+		</thumbnail>
+		<title>Stone Siege Laser</title>
+		<creator>Popular Brayden Spleen</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931774" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stylish/Alan/Cosmos/10931774.jpg
+		</thumbnail>
+		<title>Alien Universe Racer</title>
+		<creator>Stylish Alan Cosmos</creator>
+		<relatedgames/>
+	</game>
+	<game id="17286455" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Classic/Angela/Aviator/17286455.jpg
+		</thumbnail>
+		<title>Doom Danger Adventure</title>
+		<creator>Classic Angela Aviator</creator>
+		<relatedgames/>
+	</game>
+	<game id="10057799" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Swift/Vinny/Crater/10057799.jpg
+		</thumbnail>
+		<title>Swampfire Thunder Adventure</title>
+		<creator>Swift Vinny Crater</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924783" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cosmic/Harry/Bongo/10924783.jpg
+		</thumbnail>
+		<title>Force Rustbucket Attack</title>
+		<creator>Cosmic Harry Bongo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919699" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shaggy/Shawn/Dodo/10919699.jpg
+		</thumbnail>
+		<title>Smash Doom Giga</title>
+		<creator>Shaggy Shawn Dodo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055924" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Proper/Dwight/Mustard/10055924.jpg
+		</thumbnail>
+		<title>Robot Alien Invasion</title>
+		<creator>Proper Dwight Mustard</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952398" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Comical/Ray/Worm/10952398.jpg
+		</thumbnail>
+		<title>Hyper Shock Mission</title>
+		<creator>Comical Ray Worm</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924091" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Funny/Miguel/Gumshoe/10924091.jpg
+		</thumbnail>
+		<title>Assault Gear Slam</title>
+		<creator>Funny Miguel Gumshoe</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922399" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brawny/Nathan/Moonbeam/10922399.jpg
+		</thumbnail>
+		<title>Turbo Robot Shock</title>
+		<creator>Brawny Nathan Moonbeam</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

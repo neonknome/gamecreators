@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17217564" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dramatic/Austin/Domino/17217564.jpg
+		</thumbnail>
+		<title>Big Thunder Fury</title>
+		<creator>Dramatic Austin Domino</creator>
+		<relatedgames/>
+	</game>
+	<game id="17334355" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wondrous/Scooby/Creature/17334355.jpg
+		</thumbnail>
+		<title>Alien Dark Ultimate</title>
+		<creator>Wondrous Scooby Creature</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942111" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fragrant/Cynthia/Ladybug/10942111.jpg
+		</thumbnail>
+		<title>Nano Target Universe</title>
+		<creator>Fragrant Cynthia Ladybug</creator>
+		<relatedgames/>
+	</game>
+	<game id="17380971" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eager/Ella/Vitamin/17380971.jpg
+		</thumbnail>
+		<title>Razor Robot Drone</title>
+		<creator>Eager Ella Vitamin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923788" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Itchy/Timmy/Igloo/10923788.jpg
+		</thumbnail>
+		<title>Shock Adventure Adventure</title>
+		<creator>Itchy Timmy Igloo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17377709" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quirky/Tommy/Karate/17377709.jpg
+		</thumbnail>
+		<title>Turbo Cosmic Solar</title>
+		<creator>Quirky Tommy Karate</creator>
+		<relatedgames/>
+	</game>
+	<game id="10945498" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Twisty/Conrad/Nova/10945498.jpg
+		</thumbnail>
+		<title>Hyper Burst Energy</title>
+		<creator>Twisty Conrad Nova</creator>
+		<relatedgames/>
+	</game>
+	<game id="10045582" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Nomadic/Jamie/Fiddle/10045582.jpg
+		</thumbnail>
+		<title>Nitro Search Fury</title>
+		<creator>Nomadic Jamie Fiddle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17345648" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Agile/Hannah/Balloon/17345648.jpg
+		</thumbnail>
+		<title>Magno Ben Hex</title>
+		<creator>Agile Hannah Balloon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10045066" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Crispy/Wilma/Turbo/10045066.jpg
+		</thumbnail>
+		<title>Rock Rustbucket Rustbucket</title>
+		<creator>Crispy Wilma Turbo</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

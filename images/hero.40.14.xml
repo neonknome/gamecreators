@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10926237" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Robotic/Tyler/Cobweb/10926237.jpg
+		</thumbnail>
+		<title>Attack Warrior Metal</title>
+		<creator>Robotic Tyler Cobweb</creator>
+		<relatedgames/>
+	</game>
+	<game id="17378050" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Visible/Luke/Yam/17378050.jpg
+		</thumbnail>
+		<title>Animo Fury Patrol</title>
+		<creator>Visible Luke Yam</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921507" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Steven/Squish/10921507.jpg
+		</thumbnail>
+		<title>Quake Danger Escape</title>
+		<creator>Dazzling Steven Squish</creator>
+		<relatedgames/>
+	</game>
+	<game id="10043219" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fizzy/Latoya/Hologram/10043219.jpg
+		</thumbnail>
+		<title>Razor Adventure Attack</title>
+		<creator>Fizzy Latoya Hologram</creator>
+		<relatedgames/>
+	</game>
+	<game id="17313005" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Roaring/Douglas/Fuzz/17313005.jpg
+		</thumbnail>
+		<title>Fire Adventure Iron</title>
+		<creator>Roaring Douglas Fuzz</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953211" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artistic/Alan/Stampede/10953211.jpg
+		</thumbnail>
+		<title>Droid Crusher Invasion</title>
+		<creator>Artistic Alan Stampede</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055993" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Scary/Leonardo/Droid/10055993.jpg
+		</thumbnail>
+		<title>Earth Alien Adventure</title>
+		<creator>Scary Leonardo Droid</creator>
+		<relatedgames/>
+	</game>
+	<game id="10043501" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Wily/Jackson/Umbrella/10043501.jpg
+		</thumbnail>
+		<title>Alien Blaster Adventure</title>
+		<creator>Wily Jackson Umbrella</creator>
+		<relatedgames/>
+	</game>
+	<game id="17335970" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Average/Owen/Monster/17335970.jpg
+		</thumbnail>
+		<title>Mega Quake Fusion</title>
+		<creator>Average Owen Monster</creator>
+		<relatedgames/>
+	</game>
+	<game id="17323636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Drowzy/Yancy/Porridge/17323636.jpg
+		</thumbnail>
+		<title>Rocket Hex Drone</title>
+		<creator>Drowzy Yancy Porridge</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

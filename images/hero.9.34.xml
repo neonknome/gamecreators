@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10923848" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Lucky/Egbert/Avocado/10923848.jpg
+		</thumbnail>
+		<title>Alien Adventure Ambush</title>
+		<creator>Lucky Egbert Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="17550908" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pleasant/Leah/Jinx/17550908.jpg
+		</thumbnail>
+		<title>Assault Attack Robot</title>
+		<creator>Pleasant Leah Jinx</creator>
+		<relatedgames/>
+	</game>
+	<game id="10937225" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shaggy/Jonas/Blob/10937225.jpg
+		</thumbnail>
+		<title>Ultimate Ben Galaxy</title>
+		<creator>Shaggy Jonas Blob</creator>
+		<relatedgames/>
+	</game>
+	<game id="17334355" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wondrous/Scooby/Creature/17334355.jpg
+		</thumbnail>
+		<title>Alien Dark Ultimate</title>
+		<creator>Wondrous Scooby Creature</creator>
+		<relatedgames/>
+	</game>
+	<game id="17380971" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eager/Ella/Vitamin/17380971.jpg
+		</thumbnail>
+		<title>Razor Robot Drone</title>
+		<creator>Eager Ella Vitamin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931694" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Comical/Kelly/Baloney/10931694.jpg
+		</thumbnail>
+		<title>Pulse Nitro Ultra</title>
+		<creator>Comical Kelly Baloney</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931474" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Funny/Lauren/Gizmo/10931474.jpg
+		</thumbnail>
+		<title>Magno Cosmic Thunder</title>
+		<creator>Funny Lauren Gizmo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17332543" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shaggy/Dominic/Ion/17332543.jpg
+		</thumbnail>
+		<title>Escape Light Adventure</title>
+		<creator>Shaggy Dominic Ion</creator>
+		<relatedgames/>
+	</game>
+	<game id="10045582" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Nomadic/Jamie/Fiddle/10045582.jpg
+		</thumbnail>
+		<title>Nitro Search Fury</title>
+		<creator>Nomadic Jamie Fiddle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919856" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Leaping/Derek/Elf/10919856.jpg
+		</thumbnail>
+		<title>Spark Lightning Warrior</title>
+		<creator>Leaping Derek Elf</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

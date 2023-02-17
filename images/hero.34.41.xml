@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10919694" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Jake/Molecule/10919694.jpg
+		</thumbnail>
+		<title>Defense Ultimate Vilgax</title>
+		<creator>Dashing Jake Molecule</creator>
+		<relatedgames/>
+	</game>
+	<game id="17261733" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grim/Paige/Kayak/17261733.jpg
+		</thumbnail>
+		<title>Chase Echo Challenge</title>
+		<creator>Grim Paige Kayak</creator>
+		<relatedgames/>
+	</game>
+	<game id="17254961" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/DJ/Yam/17254961.jpg
+		</thumbnail>
+		<title>Blaster Clash Mega</title>
+		<creator>Fiery DJ Yam</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952685" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Tom/Fritter/10952685.jpg
+		</thumbnail>
+		<title>Alien Alien Fire</title>
+		<creator>Red Tom Fritter</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952326" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Aquatic/Egbert/Thud/10952326.jpg
+		</thumbnail>
+		<title>Adventure Clash Metal</title>
+		<creator>Aquatic Egbert Thud</creator>
+		<relatedgames/>
+	</game>
+	<game id="10949368" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Will/Safari/10949368.jpg
+		</thumbnail>
+		<title>Lightning Shock Thunder</title>
+		<creator>Daring Will Safari</creator>
+		<relatedgames/>
+	</game>
+	<game id="10062600" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Weird/Grover/Monkey/10062600.jpg
+		</thumbnail>
+		<title>Swampfire Fire Universe</title>
+		<creator>Weird Grover Monkey</creator>
+		<relatedgames/>
+	</game>
+	<game id="17349988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dramatic/Lois/Sword/17349988.jpg
+		</thumbnail>
+		<title>Hero Swampfire Rumble</title>
+		<creator>Dramatic Lois Sword</creator>
+		<relatedgames/>
+	</game>
+	<game id="10649988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Handsome/Michael/Ladybug/10649988.jpg
+		</thumbnail>
+		<title>Rescue Titan Space</title>
+		<creator>Handsome Michael Ladybug</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931541" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Splendid/Donald/Whizbang/10931541.jpg
+		</thumbnail>
+		<title>Rampage Assault Thunder</title>
+		<creator>Splendid Donald Whizbang</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

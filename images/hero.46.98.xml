@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10923045" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Twisty/Mario/Barnacle/10923045.jpg
+		</thumbnail>
+		<title>Sonic Adventure Adventure</title>
+		<creator>Twisty Mario Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17418777" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Normal/Faith/Brick/17418777.jpg
+		</thumbnail>
+		<title>Shadow Adventure Space</title>
+		<creator>Normal Faith Brick</creator>
+		<relatedgames/>
+	</game>
+	<game id="17408872" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cunning/Samuel/Calypso/17408872.jpg
+		</thumbnail>
+		<title>Champion Defense Warrior</title>
+		<creator>Cunning Samuel Calypso</creator>
+		<relatedgames/>
+	</game>
+	<game id="17567998" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Verbose/Sam/Quasar/17567998.jpg
+		</thumbnail>
+		<title>Mission Techno Nano</title>
+		<creator>Verbose Sam Quasar</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922399" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brawny/Nathan/Moonbeam/10922399.jpg
+		</thumbnail>
+		<title>Turbo Robot Shock</title>
+		<creator>Brawny Nathan Moonbeam</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942820" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Itchy/Wilbur/Moonbeam/10942820.jpg
+		</thumbnail>
+		<title>Swampfire Invasion Nano</title>
+		<creator>Itchy Wilbur Moonbeam</creator>
+		<relatedgames/>
+	</game>
+	<game id="10704405" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Leaping/Emma/Molecule/10704405.jpg
+		</thumbnail>
+		<title>Fusion Pulse Chase</title>
+		<creator>Leaping Emma Molecule</creator>
+		<relatedgames/>
+	</game>
+	<game id="17089029" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Regular/Andrea/Fandango/17089029.jpg
+		</thumbnail>
+		<title>Rumble Adventure Vilgax</title>
+		<creator>Regular Andrea Fandango</creator>
+		<relatedgames/>
+	</game>
+	<game id="16891507" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Vast/Zach/Renegade/16891507.jpg
+		</thumbnail>
+		<title>Assault Alien Ambush</title>
+		<creator>Vast Zach Renegade</creator>
+		<relatedgames/>
+	</game>
+	<game id="17282494" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Superior/Jonas/Jamboree/17282494.jpg
+		</thumbnail>
+		<title>Pursuit Shadow Fire</title>
+		<creator>Superior Jonas Jamboree</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

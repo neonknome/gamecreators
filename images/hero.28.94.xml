@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10033720" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Scary/Morgan/Mummy/10033720.jpg
+		</thumbnail>
+		<title>Humongousaur Hex Thunder</title>
+		<creator>Scary Morgan Mummy</creator>
+		<relatedgames/>
+	</game>
+	<game id="17339288" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wily/Jamie/Presto/17339288.jpg
+		</thumbnail>
+		<title>Chase Hyper Vilgax</title>
+		<creator>Wily Jamie Presto</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404121" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dubious/Chester/Fez/17404121.jpg
+		</thumbnail>
+		<title>Robot Ambush Rumble</title>
+		<creator>Dubious Chester Fez</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921995" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colorful/Leslie/Enigma/10921995.jpg
+		</thumbnail>
+		<title>Iron Fury Mission</title>
+		<creator>Colorful Leslie Enigma</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925341" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frosty/Adam/Rhino/10925341.jpg
+		</thumbnail>
+		<title>Galaxy Adventure Battle</title>
+		<creator>Frosty Adam Rhino</creator>
+		<relatedgames/>
+	</game>
+	<game id="17403542" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magnetic/Crystal/Oyster/17403542.jpg
+		</thumbnail>
+		<title>Ultra Nitro Nano</title>
+		<creator>Magnetic Crystal Oyster</creator>
+		<relatedgames/>
+	</game>
+	<game id="16979963" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Savage/Mary/Wallop/16979963.jpg
+		</thumbnail>
+		<title>Metal Plasma Titan</title>
+		<creator>Savage Mary Wallop</creator>
+		<relatedgames/>
+	</game>
+	<game id="17423572" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Average/Angela/Cartoon/17423572.jpg
+		</thumbnail>
+		<title>Star Animo Fusion</title>
+		<creator>Average Angela Cartoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17373112" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shiny/Roy/Insect/17373112.jpg
+		</thumbnail>
+		<title>Cannonbolt Vilgax Adventure</title>
+		<creator>Shiny Roy Insect</creator>
+		<relatedgames/>
+	</game>
+	<game id="17256921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Freakish/Paul/Neptune/17256921.jpg
+		</thumbnail>
+		<title>Ultra Gear Hex</title>
+		<creator>Freakish Paul Neptune</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

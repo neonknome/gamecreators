@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10953280" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scary/James/Lavender/10953280.jpg
+		</thumbnail>
+		<title>Steel Smash Magno</title>
+		<creator>Scary James Lavender</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933614" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Powerful/Brett/Midnight/10933614.jpg
+		</thumbnail>
+		<title>Streak Pursuit Turbo</title>
+		<creator>Powerful Brett Midnight</creator>
+		<relatedgames/>
+	</game>
+	<game id="17028951" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Average/Carlos/Behemoth/17028951.jpg
+		</thumbnail>
+		<title>Slam Attack Mission</title>
+		<creator>Average Carlos Behemoth</creator>
+		<relatedgames/>
+	</game>
+	<game id="10649314" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shrewd/Baxter/Magma/10649314.jpg
+		</thumbnail>
+		<title>Light Power Rustbucket</title>
+		<creator>Shrewd Baxter Magma</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Freaky/Aaron/Maestro/10951878.jpg
+		</thumbnail>
+		<title>Giga Beast Ambush</title>
+		<creator>Freaky Aaron Maestro</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924138" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eerie/Ben/Tuxedo/10924138.jpg
+		</thumbnail>
+		<title>Battle Beast Nova</title>
+		<creator>Eerie Ben Tuxedo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17311572" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Galactic/Veronica/Trooper/17311572.jpg
+		</thumbnail>
+		<title>Streak Slam Escape</title>
+		<creator>Galactic Veronica Trooper</creator>
+		<relatedgames/>
+	</game>
+	<game id="17312986" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mellow/Benjamin/Banzai/17312986.jpg
+		</thumbnail>
+		<title>Shadow Rock Nova</title>
+		<creator>Mellow Benjamin Banzai</creator>
+		<relatedgames/>
+	</game>
+	<game id="16989085" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shiny/Homer/Soldier/16989085.jpg
+		</thumbnail>
+		<title>Crusher Adventure Universe</title>
+		<creator>Shiny Homer Soldier</creator>
+		<relatedgames/>
+	</game>
+	<game id="17262083" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Yucky/Rufus/Kiwi/17262083.jpg
+		</thumbnail>
+		<title>Invasion Spidermonkey Rock</title>
+		<creator>Yucky Rufus Kiwi</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

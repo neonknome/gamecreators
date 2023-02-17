@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10926749" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Jack/Photon/10926749.jpg
+		</thumbnail>
+		<title>Rustbucket Hero Racer</title>
+		<creator>Daring Jack Photon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17279545" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jumping/Nick/Avocado/17279545.jpg
+		</thumbnail>
+		<title>Power Power Power</title>
+		<creator>Jumping Nick Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933707" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reckless/Jeremy/Monkey/10933707.jpg
+		</thumbnail>
+		<title>Drone Plasma Droid</title>
+		<creator>Reckless Jeremy Monkey</creator>
+		<relatedgames/>
+	</game>
+	<game id="17281331" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Unknown/Magnus/Twist/17281331.jpg
+		</thumbnail>
+		<title>Ultimate Cannonbolt Escape</title>
+		<creator>Unknown Magnus Twist</creator>
+		<relatedgames/>
+	</game>
+	<game id="16974309" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obscure/Julian/Charger/16974309.jpg
+		</thumbnail>
+		<title>Charge Plumber Vilgax</title>
+		<creator>Obscure Julian Charger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953547" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Roy/Cinnamon/10953547.jpg
+		</thumbnail>
+		<title>Quake Laser Ultra</title>
+		<creator>Alien Roy Cinnamon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10068680" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dapper/Jada/Cyborg/10068680.jpg
+		</thumbnail>
+		<title>Patrol Nova Nitro</title>
+		<creator>Dapper Jada Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="17552616" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Volcanic/Alvin/Meteor/17552616.jpg
+		</thumbnail>
+		<title>Vilgax Doom Laser</title>
+		<creator>Volcanic Alvin Meteor</creator>
+		<relatedgames/>
+	</game>
+	<game id="17241636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Devious/Benjamin/Phoenix/17241636.jpg
+		</thumbnail>
+		<title>Ultra Warrior Danger</title>
+		<creator>Devious Benjamin Phoenix</creator>
+		<relatedgames/>
+	</game>
+	<game id="17554265" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loud/Carson/Blob/17554265.jpg
+		</thumbnail>
+		<title>Plumber Nova Stone</title>
+		<creator>Loud Carson Blob</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

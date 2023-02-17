@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17381279" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elegant/Mac/Unicycle/17381279.jpg
+		</thumbnail>
+		<title>Vilgax Plumber Racer</title>
+		<creator>Elegant Mac Unicycle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952531" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humble/Ramona/Fishbowl/10952531.jpg
+		</thumbnail>
+		<title>Magno Laser Shock</title>
+		<creator>Humble Ramona Fishbowl</creator>
+		<relatedgames/>
+	</game>
+	<game id="17374179" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Modest/Juliet/Horsefly/17374179.jpg
+		</thumbnail>
+		<title>Hyper Dark Shadow</title>
+		<creator>Modest Juliet Horsefly</creator>
+		<relatedgames/>
+	</game>
+	<game id="17562268" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Imperial/Cole/Pizza/17562268.jpg
+		</thumbnail>
+		<title>Rocket Big Charge</title>
+		<creator>Imperial Cole Pizza</creator>
+		<relatedgames/>
+	</game>
+	<game id="16920799" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Titanic/Dixie/Macaw/16920799.jpg
+		</thumbnail>
+		<title>Hyper Galaxy Power</title>
+		<creator>Titanic Dixie Macaw</creator>
+		<relatedgames/>
+	</game>
+	<game id="16993737" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baroness/Anna/Beast/16993737.jpg
+		</thumbnail>
+		<title>Rescue Techno Fusion</title>
+		<creator>Baroness Anna Beast</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sly/Aaron/Goulash/10930921.jpg
+		</thumbnail>
+		<title>Nitro Razor Rampage</title>
+		<creator>Sly Aaron Goulash</creator>
+		<relatedgames/>
+	</game>
+	<game id="17351878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Acoustic/Jeff/Spider/17351878.jpg
+		</thumbnail>
+		<title>Ultra Warp Star</title>
+		<creator>Acoustic Jeff Spider</creator>
+		<relatedgames/>
+	</game>
+	<game id="17558739" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bold/Jimmy/Biscuit/17558739.jpg
+		</thumbnail>
+		<title>Omniverse Big Champion</title>
+		<creator>Bold Jimmy Biscuit</creator>
+		<relatedgames/>
+	</game>
+	<game id="17363619" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Icy/Bridget/Atlas/17363619.jpg
+		</thumbnail>
+		<title>Ultimate Space Alien</title>
+		<creator>Icy Bridget Atlas</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

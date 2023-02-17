@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10063915" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Zany/Adam/Mumbles/10063915.jpg
+		</thumbnail>
+		<title>Ben Ultra Alien</title>
+		<creator>Zany Adam Mumbles</creator>
+		<relatedgames/>
+	</game>
+	<game id="17320483" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Talented/Adam/Tiger/17320483.jpg
+		</thumbnail>
+		<title>Adventure Alien Ambush</title>
+		<creator>Talented Adam Tiger</creator>
+		<relatedgames/>
+	</game>
+	<game id="16904399" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Delicate/Bethany/Talon/16904399.jpg
+		</thumbnail>
+		<title>Rush Shock Echo</title>
+		<creator>Delicate Bethany Talon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10039014" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Loopy/Logan/Chimera/10039014.jpg
+		</thumbnail>
+		<title>Mega Fire Slam</title>
+		<creator>Loopy Logan Chimera</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933395" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Robotic/Mandy/Kudzu/10933395.jpg
+		</thumbnail>
+		<title>Ambush Patrol Nova</title>
+		<creator>Robotic Mandy Kudzu</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924555" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artistic/Jose/Blob/10924555.jpg
+		</thumbnail>
+		<title>Swampfire Beast Spike</title>
+		<creator>Artistic Jose Blob</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925264" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Mike/Blubber/10925264.jpg
+		</thumbnail>
+		<title>Fire Ben Nitro</title>
+		<creator>Dazzling Mike Blubber</creator>
+		<relatedgames/>
+	</game>
+	<game id="17338241" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Groovy/Dylan/Bongo/17338241.jpg
+		</thumbnail>
+		<title>Universe Charge Thunder</title>
+		<creator>Groovy Dylan Bongo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10793389" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fizzy/Irwin/Mustang/10793389.jpg
+		</thumbnail>
+		<title>Blaster Adventure Dark</title>
+		<creator>Fizzy Irwin Mustang</creator>
+		<relatedgames/>
+	</game>
+	<game id="16907817" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Restless/Oscar/Mumbles/16907817.jpg
+		</thumbnail>
+		<title>Razor Alien Iron</title>
+		<creator>Restless Oscar Mumbles</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

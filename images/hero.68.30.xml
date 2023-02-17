@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17381990" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Massive/Eva/Shogun/17381990.jpg
+		</thumbnail>
+		<title>Storm Spike Racer</title>
+		<creator>Massive Eva Shogun</creator>
+		<relatedgames/>
+	</game>
+	<game id="17327459" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shannon/Blast/17327459.jpg
+		</thumbnail>
+		<title>Mega Pursuit Sonic</title>
+		<creator>Shannon Blast</creator>
+		<relatedgames/>
+	</game>
+	<game id="10943186" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Babbling/Clark/Daffodil/10943186.jpg
+		</thumbnail>
+		<title>Escape Star Clash</title>
+		<creator>Babbling Clark Daffodil</creator>
+		<relatedgames/>
+	</game>
+	<game id="10936316" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sincere/Victor/Boing/10936316.jpg
+		</thumbnail>
+		<title>Ambush Iron Lightning</title>
+		<creator>Sincere Victor Boing</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933685" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Funny/Samantha/Cosmos/10933685.jpg
+		</thumbnail>
+		<title>Plumber Nitro Chase</title>
+		<creator>Funny Samantha Cosmos</creator>
+		<relatedgames/>
+	</game>
+	<game id="10039132" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Bizarre/Caleb/Blammo/10039132.jpg
+		</thumbnail>
+		<title>Ultimate Spark Spike</title>
+		<creator>Bizarre Caleb Blammo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17277603" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eloquent/Parker/Quarry/17277603.jpg
+		</thumbnail>
+		<title>Echo Champion Pulse</title>
+		<creator>Eloquent Parker Quarry</creator>
+		<relatedgames/>
+	</game>
+	<game id="17117134" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Ethel/Pinball/17117134.jpg
+		</thumbnail>
+		<title>Attack Metal Mission</title>
+		<creator>Humorous Ethel Pinball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10917704" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Trinity/Cobra/10917704.jpg
+		</thumbnail>
+		<title>Adventure Animo Assault</title>
+		<creator>Dashing Trinity Cobra</creator>
+		<relatedgames/>
+	</game>
+	<game id="17252700" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cartoony/Carl/Zebra/17252700.jpg
+		</thumbnail>
+		<title>Search Rustbucket Atomic</title>
+		<creator>Cartoony Carl Zebra</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

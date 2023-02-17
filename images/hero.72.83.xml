@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17405990" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Diagonal/Cole/Crash/17405990.jpg
+		</thumbnail>
+		<title>Assault Earth Big</title>
+		<creator>Diagonal Cole Crash</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927496" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loud/Grover/Talon/10927496.jpg
+		</thumbnail>
+		<title>Force Escape Adventure</title>
+		<creator>Loud Grover Talon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918880" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Robust/Norman/Brick/10918880.jpg
+		</thumbnail>
+		<title>Metal Techno Rescue</title>
+		<creator>Robust Norman Brick</creator>
+		<relatedgames/>
+	</game>
+	<game id="17552120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Volcanic/Alvin/Meteor/17552120.jpg
+		</thumbnail>
+		<title>Lightning Danger Omniverse</title>
+		<creator>Volcanic Alvin Meteor</creator>
+		<relatedgames/>
+	</game>
+	<game id="16904399" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Delicate/Bethany/Talon/16904399.jpg
+		</thumbnail>
+		<title>Rush Shock Echo</title>
+		<creator>Delicate Bethany Talon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919136" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grouchy/Pearl/Rhino/10919136.jpg
+		</thumbnail>
+		<title>Animo Alien Steel</title>
+		<creator>Grouchy Pearl Rhino</creator>
+		<relatedgames/>
+	</game>
+	<game id="17303953" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Crystal/Virtuoso/17303953.jpg
+		</thumbnail>
+		<title>Escape Plasma Cosmic</title>
+		<creator>Flying Crystal Virtuoso</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933395" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Robotic/Mandy/Kudzu/10933395.jpg
+		</thumbnail>
+		<title>Ambush Patrol Nova</title>
+		<creator>Robotic Mandy Kudzu</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924555" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artistic/Jose/Blob/10924555.jpg
+		</thumbnail>
+		<title>Swampfire Beast Spike</title>
+		<creator>Artistic Jose Blob</creator>
+		<relatedgames/>
+	</game>
+	<game id="17389200" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scruffy/Drake/Enigma/17389200.jpg
+		</thumbnail>
+		<title>Sonic Adventure Adventure</title>
+		<creator>Scruffy Drake Enigma</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

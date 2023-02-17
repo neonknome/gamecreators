@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17404731" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Clever/Ben/Blade/17404731.jpg
+		</thumbnail>
+		<title>Ultimate Cannonbolt Assault</title>
+		<creator>Clever Ben Blade</creator>
+		<relatedgames/>
+	</game>
+	<game id="17379327" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tall/Clay/Mystery/17379327.jpg
+		</thumbnail>
+		<title>Laser Warrior Adventure</title>
+		<creator>Tall Clay Mystery</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crafty/Ben/Varmint/10922878.jpg
+		</thumbnail>
+		<title>Storm Patrol Galaxy</title>
+		<creator>Crafty Ben Varmint</creator>
+		<relatedgames/>
+	</game>
+	<game id="16974843" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Husky/Lucius/Foul/16974843.jpg
+		</thumbnail>
+		<title>Hyper Ben Solar</title>
+		<creator>Husky Lucius Foul</creator>
+		<relatedgames/>
+	</game>
+	<game id="17562120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proud/Felix/Thud/17562120.jpg
+		</thumbnail>
+		<title>Burst Blaster Alien</title>
+		<creator>Proud Felix Thud</creator>
+		<relatedgames/>
+	</game>
+	<game id="10064904" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cosmic/Goliath/Oddball/10064904.jpg
+		</thumbnail>
+		<title>Adventure Mission Sonic</title>
+		<creator>Cosmic Goliath Oddball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924702" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fuzzy/Austin/Cosmos/10924702.jpg
+		</thumbnail>
+		<title>Search Steel Magno</title>
+		<creator>Fuzzy Austin Cosmos</creator>
+		<relatedgames/>
+	</game>
+	<game id="10655835" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proper/Dinah/Sardine/10655835.jpg
+		</thumbnail>
+		<title>Shadow Dark Rampage</title>
+		<creator>Proper Dinah Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952647" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sincere/Stephen/Magma/10952647.jpg
+		</thumbnail>
+		<title>Cosmic Star Invasion</title>
+		<creator>Sincere Stephen Magma</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916958" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loony/Ace/Eel/10916958.jpg
+		</thumbnail>
+		<title>Lightning Rampage Droid</title>
+		<creator>Loony Ace Eel</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

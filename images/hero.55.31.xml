@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17188265" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Ronald/Presto/17188265.jpg
+		</thumbnail>
+		<title>Thunder Invasion Doom</title>
+		<creator>Daring Ronald Presto</creator>
+		<relatedgames/>
+	</game>
+	<game id="17239564" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Snazzy/Mandy/Thing/17239564.jpg
+		</thumbnail>
+		<title>Titan Spark Defense</title>
+		<creator>Snazzy Mandy Thing</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919497" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Ethel/Atom/10919497.jpg
+		</thumbnail>
+		<title>Alien Stone Solar</title>
+		<creator>Red Ethel Atom</creator>
+		<relatedgames/>
+	</game>
+	<game id="17232918" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Amusing/Corey/Yoyo/17232918.jpg
+		</thumbnail>
+		<title>Lightning Brainstorm Laser</title>
+		<creator>Amusing Corey Yoyo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926749" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Jack/Photon/10926749.jpg
+		</thumbnail>
+		<title>Rustbucket Hero Racer</title>
+		<creator>Daring Jack Photon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953468" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grand/Samuel/Penguin/10953468.jpg
+		</thumbnail>
+		<title>Swampfire Mission Challenge</title>
+		<creator>Grand Samuel Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10039383" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Gruesome/Justin/Manatee/10039383.jpg
+		</thumbnail>
+		<title>Titan Magno Fire</title>
+		<creator>Gruesome Justin Manatee</creator>
+		<relatedgames/>
+	</game>
+	<game id="17301303" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spicy/Holly/Ion/17301303.jpg
+		</thumbnail>
+		<title>Thunder Drone Charge</title>
+		<creator>Spicy Holly Ion</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953547" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Roy/Cinnamon/10953547.jpg
+		</thumbnail>
+		<title>Quake Laser Ultra</title>
+		<creator>Alien Roy Cinnamon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10067052" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Rowdy/Betty/Chimera/10067052.jpg
+		</thumbnail>
+		<title>Charge Solar Sonic</title>
+		<creator>Rowdy Betty Chimera</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

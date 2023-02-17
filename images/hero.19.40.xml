@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17418509" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obscure/Jenn/Scout/17418509.jpg
+		</thumbnail>
+		<title>Ultimate Cosmic Challenge</title>
+		<creator>Obscure Jenn Scout</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927496" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loud/Grover/Talon/10927496.jpg
+		</thumbnail>
+		<title>Force Escape Adventure</title>
+		<creator>Loud Grover Talon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17552120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Volcanic/Alvin/Meteor/17552120.jpg
+		</thumbnail>
+		<title>Lightning Danger Omniverse</title>
+		<creator>Volcanic Alvin Meteor</creator>
+		<relatedgames/>
+	</game>
+	<game id="10040943" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Burly/Bryan/Blob/10040943.jpg
+		</thumbnail>
+		<title>Ultra Swampfire Challenge</title>
+		<creator>Burly Bryan Blob</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921090" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stout/Earl/Marigold/10921090.jpg
+		</thumbnail>
+		<title>Iron Crusher Alien</title>
+		<creator>Stout Earl Marigold</creator>
+		<relatedgames/>
+	</game>
+	<game id="10936340" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cheerful/Chelsea/Bolt/10936340.jpg
+		</thumbnail>
+		<title>Cosmic Robot Burst</title>
+		<creator>Cheerful Chelsea Bolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="10039014" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Loopy/Logan/Chimera/10039014.jpg
+		</thumbnail>
+		<title>Mega Fire Slam</title>
+		<creator>Loopy Logan Chimera</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933395" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Robotic/Mandy/Kudzu/10933395.jpg
+		</thumbnail>
+		<title>Ambush Patrol Nova</title>
+		<creator>Robotic Mandy Kudzu</creator>
+		<relatedgames/>
+	</game>
+	<game id="17411673" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Organic/Yvonne/Sprocket/17411673.jpg
+		</thumbnail>
+		<title>Fury Doom Ultra</title>
+		<creator>Organic Yvonne Sprocket</creator>
+		<relatedgames/>
+	</game>
+	<game id="17423485" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wily/Wes/Parallax/17423485.jpg
+		</thumbnail>
+		<title>Thunder Ultra Rampage</title>
+		<creator>Wily Wes Parallax</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

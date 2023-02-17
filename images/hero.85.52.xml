@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17221993" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Savage/Alvin/Fang/17221993.jpg
+		</thumbnail>
+		<title>Escape Ultimate Rush</title>
+		<creator>Savage Alvin Fang</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Western/Leon/Figment/10952821.jpg
+		</thumbnail>
+		<title>Battle Force Doom</title>
+		<creator>Western Leon Figment</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919808" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Atomic/Raymond/Chipmunk/10919808.jpg
+		</thumbnail>
+		<title>Energy Slam Space</title>
+		<creator>Atomic Raymond Chipmunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916893" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dramatic/Rufus/Ogre/10916893.jpg
+		</thumbnail>
+		<title>Patrol Rush Chase</title>
+		<creator>Dramatic Rufus Ogre</creator>
+		<relatedgames/>
+	</game>
+	<game id="10044170" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Happy/Bernard/Banjo/10044170.jpg
+		</thumbnail>
+		<title>Mission Stone Pursuit</title>
+		<creator>Happy Bernard Banjo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10937475" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frantic/Hayden/Sawtooth/10937475.jpg
+		</thumbnail>
+		<title>Warrior Blaster Mission</title>
+		<creator>Frantic Hayden Sawtooth</creator>
+		<relatedgames/>
+	</game>
+	<game id="10936585" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Rugged/Dakota/Doodle/10936585.jpg
+		</thumbnail>
+		<title>Robot Rumble Rampage</title>
+		<creator>Rugged Dakota Doodle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17005665" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Icy/Kristina/Twilight/17005665.jpg
+		</thumbnail>
+		<title>Ben Power Adventure</title>
+		<creator>Icy Kristina Twilight</creator>
+		<relatedgames/>
+	</game>
+	<game id="17325012" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cute/Rufus/Droid/17325012.jpg
+		</thumbnail>
+		<title>Danger Chill Doom</title>
+		<creator>Cute Rufus Droid</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952905" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jolly/Bryan/Kook/10952905.jpg
+		</thumbnail>
+		<title>Laser Plasma Challenge</title>
+		<creator>Jolly Bryan Kook</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10031707" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Wondrous/Grace/Fizz/10031707.jpg
+		</thumbnail>
+		<title>Lightning Burst Solar</title>
+		<creator>Wondrous Grace Fizz</creator>
+		<relatedgames/>
+	</game>
+	<game id="17415485" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awful/Jacob/Bronco/17415485.jpg
+		</thumbnail>
+		<title>Mission Shock Patrol</title>
+		<creator>Awful Jacob Bronco</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925847" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dynamic/Stacy/Crumpet/10925847.jpg
+		</thumbnail>
+		<title>Hero Pulse Shock</title>
+		<creator>Dynamic Stacy Crumpet</creator>
+		<relatedgames/>
+	</game>
+	<game id="10655860" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hideous/Donald/Popcorn/10655860.jpg
+		</thumbnail>
+		<title>Ultra Plumber Battle</title>
+		<creator>Hideous Donald Popcorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="10046166" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Funny/Chris/Pinwheel/10046166.jpg
+		</thumbnail>
+		<title>Slam Danger Light</title>
+		<creator>Funny Chris Pinwheel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404129" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shady/Perseus/Comet/17404129.jpg
+		</thumbnail>
+		<title>Ultra Energy Nano</title>
+		<creator>Shady Perseus Comet</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924298" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awful/Bernard/Cumulus/10924298.jpg
+		</thumbnail>
+		<title>Rampage Power Hero</title>
+		<creator>Awful Bernard Cumulus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925948" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Silly/Joshua/Thunder/10925948.jpg
+		</thumbnail>
+		<title>Adventure Storm Siege</title>
+		<creator>Silly Joshua Thunder</creator>
+		<relatedgames/>
+	</game>
+	<game id="10709680" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zippy/Ron/Sardine/10709680.jpg
+		</thumbnail>
+		<title>Turbo Breaker Racer</title>
+		<creator>Zippy Ron Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10056546" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Bashful/Bjorn/Avocado/10056546.jpg
+		</thumbnail>
+		<title>Laser Laser Attack</title>
+		<creator>Bashful Bjorn Avocado</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

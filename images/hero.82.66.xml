@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17404212" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Luke/Stampede/17404212.jpg
+		</thumbnail>
+		<title>Pulse Adventure Shadow</title>
+		<creator>Zany Luke Stampede</creator>
+		<relatedgames/>
+	</game>
+	<game id="17347123" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ticklish/Lancelot/Starfish/17347123.jpg
+		</thumbnail>
+		<title>Smash Atomic Mission</title>
+		<creator>Ticklish Lancelot Starfish</creator>
+		<relatedgames/>
+	</game>
+	<game id="17257125" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Faith/Camel/17257125.jpg
+		</thumbnail>
+		<title>Vilgax Chase Galaxy</title>
+		<creator>Barbaric Faith Camel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10947411" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Absurd/Victor/Charger/10947411.jpg
+		</thumbnail>
+		<title>Alien Shock Rescue</title>
+		<creator>Absurd Victor Charger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10648482" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crafty/Kristen/Quake/10648482.jpg
+		</thumbnail>
+		<title>Light Universe Vilgax</title>
+		<creator>Crafty Kristen Quake</creator>
+		<relatedgames/>
+	</game>
+	<game id="17569422" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hyper/Lucius/Ketchup/17569422.jpg
+		</thumbnail>
+		<title>Burst Rustbucket Galaxy</title>
+		<creator>Hyper Lucius Ketchup</creator>
+		<relatedgames/>
+	</game>
+	<game id="10059235" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Purple/Patrick/Amethyst/10059235.jpg
+		</thumbnail>
+		<title>Charge Alien Streak</title>
+		<creator>Purple Patrick Amethyst</creator>
+		<relatedgames/>
+	</game>
+	<game id="17377059" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tall/Casey/Bingo/17377059.jpg
+		</thumbnail>
+		<title>Solar Fusion Sonic</title>
+		<creator>Tall Casey Bingo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17135325" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nautical/Diego/Bonanza/17135325.jpg
+		</thumbnail>
+		<title>Rampage Hyper Adventure</title>
+		<creator>Nautical Diego Bonanza</creator>
+		<relatedgames/>
+	</game>
+	<game id="17574620" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Countess/Quentin/Gator/17574620.jpg
+		</thumbnail>
+		<title>Animo Charge Galaxy</title>
+		<creator>Countess Quentin Gator</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10933360" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pretty/Clyde/Minotaur/10933360.jpg
+		</thumbnail>
+		<title>Charge Slam Spike</title>
+		<creator>Pretty Clyde Minotaur</creator>
+		<relatedgames/>
+	</game>
+	<game id="17323636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Drowzy/Yancy/Porridge/17323636.jpg
+		</thumbnail>
+		<title>Rocket Hex Drone</title>
+		<creator>Drowzy Yancy Porridge</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923111" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colorful/Cody/Crash/10923111.jpg
+		</thumbnail>
+		<title>Shock Light Light</title>
+		<creator>Colorful Cody Crash</creator>
+		<relatedgames/>
+	</game>
+	<game id="17419559" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Friendly/Felix/Dodo/17419559.jpg
+		</thumbnail>
+		<title>Stone Hero Laser</title>
+		<creator>Friendly Felix Dodo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038852" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Magnetic/Alan/Blubber/10038852.jpg
+		</thumbnail>
+		<title>Shock Spark Invasion</title>
+		<creator>Magnetic Alan Blubber</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918647" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eerie/Natasha/Skunk/10918647.jpg
+		</thumbnail>
+		<title>Streak Quake Pulse</title>
+		<creator>Eerie Natasha Skunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10058578" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Shiny/Rex/Avocado/10058578.jpg
+		</thumbnail>
+		<title>Energy Drone Dark</title>
+		<creator>Shiny Rex Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="17415556" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grubby/Holly/Bayou/17415556.jpg
+		</thumbnail>
+		<title>Shadow Beast Space</title>
+		<creator>Grubby Holly Bayou</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916968" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Northern/Shelby/Goulash/10916968.jpg
+		</thumbnail>
+		<title>Attack Adventure Racer</title>
+		<creator>Northern Shelby Goulash</creator>
+		<relatedgames/>
+	</game>
+	<game id="17378050" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Visible/Luke/Yam/17378050.jpg
+		</thumbnail>
+		<title>Animo Fury Patrol</title>
+		<creator>Visible Luke Yam</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

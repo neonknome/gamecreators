@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16917374" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Galactic/Scarlett/Blast/16917374.jpg
+		</thumbnail>
+		<title>Rocket Burst Adventure</title>
+		<creator>Galactic Scarlett Blast</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928201" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Massive/Joseph/Burst/10928201.jpg
+		</thumbnail>
+		<title>Galaxy Shadow Crusher</title>
+		<creator>Massive Joseph Burst</creator>
+		<relatedgames/>
+	</game>
+	<game id="17357314" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Emperor/Liam/Ghoul/17357314.jpg
+		</thumbnail>
+		<title>Alien Challenge Earth</title>
+		<creator>Emperor Liam Ghoul</creator>
+		<relatedgames/>
+	</game>
+	<game id="17392765" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Husky/Lazlo/Paladin/17392765.jpg
+		</thumbnail>
+		<title>Charge Steel Space</title>
+		<creator>Husky Lazlo Paladin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931749" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Swift/Raymond/Tempest/10931749.jpg
+		</thumbnail>
+		<title>Swampfire Ultra Cosmic</title>
+		<creator>Swift Raymond Tempest</creator>
+		<relatedgames/>
+	</game>
+	<game id="17258009" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mystic/Ed/Acorn/17258009.jpg
+		</thumbnail>
+		<title>Ultra Mission Nova</title>
+		<creator>Mystic Ed Acorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="17324891" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Singular/Shaggy/Robot/17324891.jpg
+		</thumbnail>
+		<title>Light Galaxy Ultra</title>
+		<creator>Singular Shaggy Robot</creator>
+		<relatedgames/>
+	</game>
+	<game id="10043261" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Absurd/Alex/Goofball/10043261.jpg
+		</thumbnail>
+		<title>Spark Spike Challenge</title>
+		<creator>Absurd Alex Goofball</creator>
+		<relatedgames/>
+	</game>
+	<game id="17313005" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Roaring/Douglas/Fuzz/17313005.jpg
+		</thumbnail>
+		<title>Fire Adventure Iron</title>
+		<creator>Roaring Douglas Fuzz</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953211" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artistic/Alan/Stampede/10953211.jpg
+		</thumbnail>
+		<title>Droid Crusher Invasion</title>
+		<creator>Artistic Alan Stampede</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

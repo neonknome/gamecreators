@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10047191" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Lovely/Emma/Zebra/10047191.jpg
+		</thumbnail>
+		<title>Ultra Alien Ambush</title>
+		<creator>Lovely Emma Zebra</creator>
+		<relatedgames/>
+	</game>
+	<game id="17405008" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Volcanic/Bryce/Oyster/17405008.jpg
+		</thumbnail>
+		<title>Cosmic Sonic Burst</title>
+		<creator>Volcanic Bryce Oyster</creator>
+		<relatedgames/>
+	</game>
+	<game id="17339068" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Devious/Jason/Shock/17339068.jpg
+		</thumbnail>
+		<title>Plumber Space Techno</title>
+		<creator>Devious Jason Shock</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922511" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cheerful/Morgan/Charger/10922511.jpg
+		</thumbnail>
+		<title>Space Ultra Plumber</title>
+		<creator>Cheerful Morgan Charger</creator>
+		<relatedgames/>
+	</game>
+	<game id="16947799" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Eugene/Squid/16947799.jpg
+		</thumbnail>
+		<title>Techno Shock Ambush</title>
+		<creator>Flying Eugene Squid</creator>
+		<relatedgames/>
+	</game>
+	<game id="17177367" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loud/DJ/Minotaur/17177367.jpg
+		</thumbnail>
+		<title>Ultimate Smash Challenge</title>
+		<creator>Loud DJ Minotaur</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926237" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Robotic/Tyler/Cobweb/10926237.jpg
+		</thumbnail>
+		<title>Attack Warrior Metal</title>
+		<creator>Robotic Tyler Cobweb</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921966" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artistic/Mario/Shark/10921966.jpg
+		</thumbnail>
+		<title>Ultimate Spike Adventure</title>
+		<creator>Artistic Mario Shark</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924909" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scurvy/Diana/Haystack/10924909.jpg
+		</thumbnail>
+		<title>Gear Battle Racer</title>
+		<creator>Scurvy Diana Haystack</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922667" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wise/Edgar/Frost/10922667.jpg
+		</thumbnail>
+		<title>Droid Stone Metal</title>
+		<creator>Wise Edgar Frost</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

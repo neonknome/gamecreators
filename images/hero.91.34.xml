@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17315386" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Emperor/Joshua/Slurp/17315386.jpg
+		</thumbnail>
+		<title>Shadow Quake Charge</title>
+		<creator>Emperor Joshua Slurp</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935324" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Riley/Ketchup/10935324.jpg
+		</thumbnail>
+		<title>Metal Alien Ambush</title>
+		<creator>Humorous Riley Ketchup</creator>
+		<relatedgames/>
+	</game>
+	<game id="17311587" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proper/Kate/Witch/17311587.jpg
+		</thumbnail>
+		<title>Razor Attack Rock</title>
+		<creator>Proper Kate Witch</creator>
+		<relatedgames/>
+	</game>
+	<game id="17332691" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Musical/Noah/Nanobot/17332691.jpg
+		</thumbnail>
+		<title>Assault Rumble Power</title>
+		<creator>Musical Noah Nanobot</creator>
+		<relatedgames/>
+	</game>
+	<game id="17318747" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gross/Newton/Windmill/17318747.jpg
+		</thumbnail>
+		<title>Shadow Blaster Atomic</title>
+		<creator>Gross Newton Windmill</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924684" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fizzy/Jackie/Iceberg/10924684.jpg
+		</thumbnail>
+		<title>Mission Turbo Sonic</title>
+		<creator>Fizzy Jackie Iceberg</creator>
+		<relatedgames/>
+	</game>
+	<game id="17126481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Restless/Xerxes/Kook/17126481.jpg
+		</thumbnail>
+		<title>Sonic Chase Blaster</title>
+		<creator>Restless Xerxes Kook</creator>
+		<relatedgames/>
+	</game>
+	<game id="17389194" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artful/Russell/Cobweb/17389194.jpg
+		</thumbnail>
+		<title>Universe Shadow Pursuit</title>
+		<creator>Artful Russell Cobweb</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953336" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scary/James/Lavender/10953336.jpg
+		</thumbnail>
+		<title>Steel Smash Magno</title>
+		<creator>Scary James Lavender</creator>
+		<relatedgames/>
+	</game>
+	<game id="17364456" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Average/Mike/Pizza/17364456.jpg
+		</thumbnail>
+		<title>Defense Rocket Droid</title>
+		<creator>Average Mike Pizza</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

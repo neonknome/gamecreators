@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10951732" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Generous/Matthew/Turtle/10951732.jpg
+		</thumbnail>
+		<title>Ben Ben Search</title>
+		<creator>Generous Matthew Turtle</creator>
+		<relatedgames/>
+	</game>
+	<game id="16982684" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Glorious/Rosemary/Sparkle/16982684.jpg
+		</thumbnail>
+		<title>Ambush Spike Plasma</title>
+		<creator>Glorious Rosemary Sparkle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17402735" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sleepy/Destiny/Apple/17402735.jpg
+		</thumbnail>
+		<title>Battle Iron Defense</title>
+		<creator>Sleepy Destiny Apple</creator>
+		<relatedgames/>
+	</game>
+	<game id="17017591" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radiant/Genghis/Warrior/17017591.jpg
+		</thumbnail>
+		<title>Jetray Laser Assault</title>
+		<creator>Radiant Genghis Warrior</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925728" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Heroic/Will/Barnacle/10925728.jpg
+		</thumbnail>
+		<title>Titan Rampage Swampfire</title>
+		<creator>Heroic Will Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17052669" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Peppy/Claire/Pizza/17052669.jpg
+		</thumbnail>
+		<title>Earth Siege Alien</title>
+		<creator>Peppy Claire Pizza</creator>
+		<relatedgames/>
+	</game>
+	<game id="10939013" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stout/Larry/Phantom/10939013.jpg
+		</thumbnail>
+		<title>Force Vilgax Hyper</title>
+		<creator>Stout Larry Phantom</creator>
+		<relatedgames/>
+	</game>
+	<game id="10947551" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wise/Victoria/Volcano/10947551.jpg
+		</thumbnail>
+		<title>Chase Streak Quake</title>
+		<creator>Wise Victoria Volcano</creator>
+		<relatedgames/>
+	</game>
+	<game id="10655820" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cheerful/Leopold/Mantis/10655820.jpg
+		</thumbnail>
+		<title>Clash Smash Adventure</title>
+		<creator>Cheerful Leopold Mantis</creator>
+		<relatedgames/>
+	</game>
+	<game id="17328807" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Ellen/Banjo/17328807.jpg
+		</thumbnail>
+		<title>Light Energy Racer</title>
+		<creator>Flying Ellen Banjo</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

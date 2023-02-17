@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10034816" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Merry/Bjorn/Witch/10034816.jpg
+		</thumbnail>
+		<title>Fire Blaster Force</title>
+		<creator>Merry Bjorn Witch</creator>
+		<relatedgames/>
+	</game>
+	<game id="17312104" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hyper/Ariana/Calypso/17312104.jpg
+		</thumbnail>
+		<title>Blaster Spark Alien</title>
+		<creator>Hyper Ariana Calypso</creator>
+		<relatedgames/>
+	</game>
+	<game id="17320483" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Talented/Adam/Tiger/17320483.jpg
+		</thumbnail>
+		<title>Adventure Alien Ambush</title>
+		<creator>Talented Adam Tiger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925908" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baffling/Tex/Jalapeno/10925908.jpg
+		</thumbnail>
+		<title>Droid Laser Hex</title>
+		<creator>Baffling Tex Jalapeno</creator>
+		<relatedgames/>
+	</game>
+	<game id="17419519" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Speedy/Buster/Popcorn/17419519.jpg
+		</thumbnail>
+		<title>Rocket Alien Ambush</title>
+		<creator>Speedy Buster Popcorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933395" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Robotic/Mandy/Kudzu/10933395.jpg
+		</thumbnail>
+		<title>Ambush Patrol Nova</title>
+		<creator>Robotic Mandy Kudzu</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924555" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artistic/Jose/Blob/10924555.jpg
+		</thumbnail>
+		<title>Swampfire Beast Spike</title>
+		<creator>Artistic Jose Blob</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925264" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Mike/Blubber/10925264.jpg
+		</thumbnail>
+		<title>Fire Ben Nitro</title>
+		<creator>Dazzling Mike Blubber</creator>
+		<relatedgames/>
+	</game>
+	<game id="17338241" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Groovy/Dylan/Bongo/17338241.jpg
+		</thumbnail>
+		<title>Universe Charge Thunder</title>
+		<creator>Groovy Dylan Bongo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10793389" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fizzy/Irwin/Mustang/10793389.jpg
+		</thumbnail>
+		<title>Blaster Adventure Dark</title>
+		<creator>Fizzy Irwin Mustang</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10953085" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cranky/Robin/Sardine/10953085.jpg
+		</thumbnail>
+		<title>Earth Slam Shock</title>
+		<creator>Cranky Robin Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10843598" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ghastly/Leah/Dynamite/10843598.jpg
+		</thumbnail>
+		<title>Storm Shock Adventure</title>
+		<creator>Ghastly Leah Dynamite</creator>
+		<relatedgames/>
+	</game>
+	<game id="16970451" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shy/Ginger/Calamari/16970451.jpg
+		</thumbnail>
+		<title>Target Universe Ultimate</title>
+		<creator>Shy Ginger Calamari</creator>
+		<relatedgames/>
+	</game>
+	<game id="17233967" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baron/Felipe/Nova/17233967.jpg
+		</thumbnail>
+		<title>Techno Cosmic Slam</title>
+		<creator>Baron Felipe Nova</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952984" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sloppy/Connor/Fondue/10952984.jpg
+		</thumbnail>
+		<title>Breaker Crusher Star</title>
+		<creator>Sloppy Connor Fondue</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951732" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Generous/Matthew/Turtle/10951732.jpg
+		</thumbnail>
+		<title>Ben Ben Search</title>
+		<creator>Generous Matthew Turtle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17127565" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Enormous/William/Witch/17127565.jpg
+		</thumbnail>
+		<title>Ultra Thunder Titan</title>
+		<creator>Enormous William Witch</creator>
+		<relatedgames/>
+	</game>
+	<game id="16982684" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Glorious/Rosemary/Sparkle/16982684.jpg
+		</thumbnail>
+		<title>Ambush Spike Plasma</title>
+		<creator>Glorious Rosemary Sparkle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17415520" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Negative/Isaac/Grouch/17415520.jpg
+		</thumbnail>
+		<title>Magno Ultimate Hex</title>
+		<creator>Negative Isaac Grouch</creator>
+		<relatedgames/>
+	</game>
+	<game id="17402735" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sleepy/Destiny/Apple/17402735.jpg
+		</thumbnail>
+		<title>Battle Iron Defense</title>
+		<creator>Sleepy Destiny Apple</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

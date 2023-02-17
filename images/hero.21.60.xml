@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10042856" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Mighty/Matthew/Kayak/10042856.jpg
+		</thumbnail>
+		<title>Hero Drone Atomic</title>
+		<creator>Mighty Matthew Kayak</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918741" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shrewd/Jonas/Yodel/10918741.jpg
+		</thumbnail>
+		<title>Mega Atomic Nova</title>
+		<creator>Shrewd Jonas Yodel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17257047" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Faith/Camel/17257047.jpg
+		</thumbnail>
+		<title>Adventure Adventure Metal</title>
+		<creator>Barbaric Faith Camel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17402735" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sleepy/Destiny/Apple/17402735.jpg
+		</thumbnail>
+		<title>Battle Iron Defense</title>
+		<creator>Sleepy Destiny Apple</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926216" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Blue/Xavier/Giblets/10926216.jpg
+		</thumbnail>
+		<title>Champion Rampage Atomic</title>
+		<creator>Blue Xavier Giblets</creator>
+		<relatedgames/>
+	</game>
+	<game id="17323936" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Enormous/Lucius/Anvil/17323936.jpg
+		</thumbnail>
+		<title>Adventure Chase Warp</title>
+		<creator>Enormous Lucius Anvil</creator>
+		<relatedgames/>
+	</game>
+	<game id="17210216" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hyper/Dexter/Kiwi/17210216.jpg
+		</thumbnail>
+		<title>Target Fury Brainstorm</title>
+		<creator>Hyper Dexter Kiwi</creator>
+		<relatedgames/>
+	</game>
+	<game id="17376817" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Devious/Devon/Glitch/17376817.jpg
+		</thumbnail>
+		<title>Lightning Metal Fusion</title>
+		<creator>Devious Devon Glitch</creator>
+		<relatedgames/>
+	</game>
+	<game id="10655820" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cheerful/Leopold/Mantis/10655820.jpg
+		</thumbnail>
+		<title>Clash Smash Adventure</title>
+		<creator>Cheerful Leopold Mantis</creator>
+		<relatedgames/>
+	</game>
+	<game id="17328807" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Ellen/Banjo/17328807.jpg
+		</thumbnail>
+		<title>Light Energy Racer</title>
+		<creator>Flying Ellen Banjo</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

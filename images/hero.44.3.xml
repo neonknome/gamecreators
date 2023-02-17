@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10647306" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Orange/Vanessa/Unicycle/10647306.jpg
+		</thumbnail>
+		<title>Clash Rumble Adventure</title>
+		<creator>Orange Vanessa Unicycle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17012536" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Super/Carol/Blizzard/17012536.jpg
+		</thumbnail>
+		<title>Cannonbolt Challenge Hyper</title>
+		<creator>Super Carol Blizzard</creator>
+		<relatedgames/>
+	</game>
+	<game id="10945050" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awesome/Clyde/Howler/10945050.jpg
+		</thumbnail>
+		<title>Fusion Burst Galaxy</title>
+		<creator>Awesome Clyde Howler</creator>
+		<relatedgames/>
+	</game>
+	<game id="17318539" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Scott/Snake/17318539.jpg
+		</thumbnail>
+		<title>Terraspin Hex Pulse</title>
+		<creator>Zany Scott Snake</creator>
+		<relatedgames/>
+	</game>
+	<game id="17281337" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magnetic/Dominic/Hologram/17281337.jpg
+		</thumbnail>
+		<title>Pursuit Power Battle</title>
+		<creator>Magnetic Dominic Hologram</creator>
+		<relatedgames/>
+	</game>
+	<game id="10047444" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Horrid/Kristin/Barnacle/10047444.jpg
+		</thumbnail>
+		<title>Attack Alien Metal</title>
+		<creator>Horrid Kristin Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933614" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Powerful/Brett/Midnight/10933614.jpg
+		</thumbnail>
+		<title>Streak Pursuit Turbo</title>
+		<creator>Powerful Brett Midnight</creator>
+		<relatedgames/>
+	</game>
+	<game id="17322825" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Subtle/Apollo/Yoyo/17322825.jpg
+		</thumbnail>
+		<title>Nitro Battle Rock</title>
+		<creator>Subtle Apollo Yoyo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17298605" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mighty/Avery/Mantis/17298605.jpg
+		</thumbnail>
+		<title>Energy Hyper Rampage</title>
+		<creator>Mighty Avery Mantis</creator>
+		<relatedgames/>
+	</game>
+	<game id="10748197" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Isaac/Flipper/10748197.jpg
+		</thumbnail>
+		<title>Fire Rescue Chase</title>
+		<creator>Zany Isaac Flipper</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

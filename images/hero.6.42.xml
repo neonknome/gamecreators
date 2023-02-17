@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10952867" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frantic/Chester/Walrus/10952867.jpg
+		</thumbnail>
+		<title>Search Nova Champion</title>
+		<creator>Frantic Chester Walrus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17219398" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Lucky/Dennis/Penguin/17219398.jpg
+		</thumbnail>
+		<title>Power Cosmic Lightning</title>
+		<creator>Lucky Dennis Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925625" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Royal/Miguel/Sprout/10925625.jpg
+		</thumbnail>
+		<title>Fusion Nova Pursuit</title>
+		<creator>Royal Miguel Sprout</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933919" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pleasant/Jeffrey/Goblin/10933919.jpg
+		</thumbnail>
+		<title>Battle Drone Ultra</title>
+		<creator>Pleasant Jeffrey Goblin</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404696" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Golden/Benjamin/Hedgehog/17404696.jpg
+		</thumbnail>
+		<title>Robot Hyper Mission</title>
+		<creator>Golden Benjamin Hedgehog</creator>
+		<relatedgames/>
+	</game>
+	<game id="17539932" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nervous/Ben/Burst/17539932.jpg
+		</thumbnail>
+		<title>Terraspin Whirlwind Turbo</title>
+		<creator>Nervous Ben Burst</creator>
+		<relatedgames/>
+	</game>
+	<game id="17389747" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sleepy/William/Tiger/17389747.jpg
+		</thumbnail>
+		<title>Attack Mission Big</title>
+		<creator>Sleepy William Tiger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926529" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Twisty/Hank/Bamboo/10926529.jpg
+		</thumbnail>
+		<title>Mission Turbo Sonic</title>
+		<creator>Twisty Hank Bamboo</creator>
+		<relatedgames/>
+	</game>
+	<game id="16944232" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bogus/Calvin/Baloney/16944232.jpg
+		</thumbnail>
+		<title>Chill Big Assault</title>
+		<creator>Bogus Calvin Baloney</creator>
+		<relatedgames/>
+	</game>
+	<game id="17378379" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spectral/Calvin/Android/17378379.jpg
+		</thumbnail>
+		<title>Iron Clash Sonic</title>
+		<creator>Spectral Calvin Android</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

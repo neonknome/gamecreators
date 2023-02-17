@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17369469" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Academic/Lauren/Spider/17369469.jpg
+		</thumbnail>
+		<title>Gear Giga Big</title>
+		<creator>Academic Lauren Spider</creator>
+		<relatedgames/>
+	</game>
+	<game id="17305155" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bold/Brandon/Magpie/17305155.jpg
+		</thumbnail>
+		<title>Plumber Slam Blaster</title>
+		<creator>Bold Brandon Magpie</creator>
+		<relatedgames/>
+	</game>
+	<game id="10649752" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Enormous/Simon/Acrobat/10649752.jpg
+		</thumbnail>
+		<title>Ultra Thunder Hero</title>
+		<creator>Enormous Simon Acrobat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927896" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Don/Penguin/10927896.jpg
+		</thumbnail>
+		<title>Power Turbo Swampfire</title>
+		<creator>Alien Don Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="17115481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Glorious/Logan/Brick/17115481.jpg
+		</thumbnail>
+		<title>Cosmic Clash Adventure</title>
+		<creator>Glorious Logan Brick</creator>
+		<relatedgames/>
+	</game>
+	<game id="17283515" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Negative/Bubbie/Pinwheel/17283515.jpg
+		</thumbnail>
+		<title>Ultimate Adventure Storm</title>
+		<creator>Negative Bubbie Pinwheel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17577028" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Famous/Flapjack/Shogun/17577028.jpg
+		</thumbnail>
+		<title>Echo Alien Omniverse</title>
+		<creator>Famous Flapjack Shogun</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922617" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Twisty/Donald/Magma/10922617.jpg
+		</thumbnail>
+		<title>Galaxy Rampage Dark</title>
+		<creator>Twisty Donald Magma</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952770" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nomadic/Ryan/Grouch/10952770.jpg
+		</thumbnail>
+		<title>Magno Magno Hex</title>
+		<creator>Nomadic Ryan Grouch</creator>
+		<relatedgames/>
+	</game>
+	<game id="17241367" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sparkly/Elijah/Noob/17241367.jpg
+		</thumbnail>
+		<title>Adventure Adventure Chase</title>
+		<creator>Sparkly Elijah Noob</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

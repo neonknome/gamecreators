@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10953085" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cranky/Robin/Sardine/10953085.jpg
+		</thumbnail>
+		<title>Earth Slam Shock</title>
+		<creator>Cranky Robin Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10843598" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ghastly/Leah/Dynamite/10843598.jpg
+		</thumbnail>
+		<title>Storm Shock Adventure</title>
+		<creator>Ghastly Leah Dynamite</creator>
+		<relatedgames/>
+	</game>
+	<game id="16871294" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Golden/Levi/Twilight/16871294.jpg
+		</thumbnail>
+		<title>Ultimate Force Attack</title>
+		<creator>Golden Levi Twilight</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952984" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sloppy/Connor/Fondue/10952984.jpg
+		</thumbnail>
+		<title>Breaker Crusher Star</title>
+		<creator>Sloppy Connor Fondue</creator>
+		<relatedgames/>
+	</game>
+	<game id="17370247" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radical/Ed/Chaos/17370247.jpg
+		</thumbnail>
+		<title>Terraspin Energy Rush</title>
+		<creator>Radical Ed Chaos</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927813" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Chad/Molecule/10927813.jpg
+		</thumbnail>
+		<title>Swampfire Swampfire Swampfire</title>
+		<creator>Honest Chad Molecule</creator>
+		<relatedgames/>
+	</game>
+	<game id="17362833" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pleasant/Alan/Gamer/17362833.jpg
+		</thumbnail>
+		<title>Humungousaur Alien Danger</title>
+		<creator>Pleasant Alan Gamer</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942677" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strange/Dawn/Iguana/10942677.jpg
+		</thumbnail>
+		<title>Rock Steel Fusion</title>
+		<creator>Strange Dawn Iguana</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935019" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wondrous/Connor/Troll/10935019.jpg
+		</thumbnail>
+		<title>Laser Fire Titan</title>
+		<creator>Wondrous Connor Troll</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942444" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Edgar/Quasar/10942444.jpg
+		</thumbnail>
+		<title>Laser Sonic Galaxy</title>
+		<creator>Chilly Edgar Quasar</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

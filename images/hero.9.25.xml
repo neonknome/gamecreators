@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10942924" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jolly/Gretel/Quake/10942924.jpg
+		</thumbnail>
+		<title>Titan Solar Smash</title>
+		<creator>Jolly Gretel Quake</creator>
+		<relatedgames/>
+	</game>
+	<game id="17092970" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ultimate/Charles/Hawk/17092970.jpg
+		</thumbnail>
+		<title>Force Breaker Ultra</title>
+		<creator>Ultimate Charles Hawk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935719" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Normal/Pierre/Goblin/10935719.jpg
+		</thumbnail>
+		<title>Chase Gear Swampfire</title>
+		<creator>Normal Pierre Goblin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927078" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spectral/Tommy/Hologram/10927078.jpg
+		</thumbnail>
+		<title>Stone Hex Metal</title>
+		<creator>Spectral Tommy Hologram</creator>
+		<relatedgames/>
+	</game>
+	<game id="17328767" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Curious/Steven/Catapult/17328767.jpg
+		</thumbnail>
+		<title>Adventure Plumber Adventure</title>
+		<creator>Curious Steven Catapult</creator>
+		<relatedgames/>
+	</game>
+	<game id="17365312" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Vigilant/Floyd/Fizz/17365312.jpg
+		</thumbnail>
+		<title>Waterhazard Force Attack</title>
+		<creator>Vigilant Floyd Fizz</creator>
+		<relatedgames/>
+	</game>
+	<game id="17274855" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brayden/Badger/17274855.jpg
+		</thumbnail>
+		<title>Crusher Cannonbolt Droid</title>
+		<creator>Brayden Badger</creator>
+		<relatedgames/>
+	</game>
+	<game id="17415485" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awful/Jacob/Bronco/17415485.jpg
+		</thumbnail>
+		<title>Mission Shock Patrol</title>
+		<creator>Awful Jacob Bronco</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925847" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dynamic/Stacy/Crumpet/10925847.jpg
+		</thumbnail>
+		<title>Hero Pulse Shock</title>
+		<creator>Dynamic Stacy Crumpet</creator>
+		<relatedgames/>
+	</game>
+	<game id="10046166" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Funny/Chris/Pinwheel/10046166.jpg
+		</thumbnail>
+		<title>Slam Danger Light</title>
+		<creator>Funny Chris Pinwheel</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

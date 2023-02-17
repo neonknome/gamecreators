@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10933914" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Squishy/Phillip/Fritter/10933914.jpg
+		</thumbnail>
+		<title>Rumble Battle Techno</title>
+		<creator>Squishy Phillip Fritter</creator>
+		<relatedgames/>
+	</game>
+	<game id="17252700" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cartoony/Carl/Zebra/17252700.jpg
+		</thumbnail>
+		<title>Search Rustbucket Atomic</title>
+		<creator>Cartoony Carl Zebra</creator>
+		<relatedgames/>
+	</game>
+	<game id="17302719" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/Jose/Walrus/17302719.jpg
+		</thumbnail>
+		<title>Rocket Siege Nitro</title>
+		<creator>Fiery Jose Walrus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Lively/Orville/Tornado/10923878.jpg
+		</thumbnail>
+		<title>Invasion Adventure Energy</title>
+		<creator>Lively Orville Tornado</creator>
+		<relatedgames/>
+	</game>
+	<game id="10944254" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reliable/Bradley/Spumoni/10944254.jpg
+		</thumbnail>
+		<title>Alien Swampfire Assault</title>
+		<creator>Reliable Bradley Spumoni</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924230" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Orange/Caleb/Thunder/10924230.jpg
+		</thumbnail>
+		<title>Magno Pulse Rampage</title>
+		<creator>Orange Caleb Thunder</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Western/Leon/Figment/10952878.jpg
+		</thumbnail>
+		<title>Crusher Alien Solar</title>
+		<creator>Western Leon Figment</creator>
+		<relatedgames/>
+	</game>
+	<game id="17278924" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/Colin/Jungle/17278924.jpg
+		</thumbnail>
+		<title>Alien Ambush Chill</title>
+		<creator>Fiery Colin Jungle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17551092" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dreadful/Alex/Dodo/17551092.jpg
+		</thumbnail>
+		<title>Adventure Assault Nitro</title>
+		<creator>Dreadful Alex Dodo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17239311" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Active/Chip/Mango/17239311.jpg
+		</thumbnail>
+		<title>Ultimate Turbo Spidermonkey</title>
+		<creator>Active Chip Mango</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

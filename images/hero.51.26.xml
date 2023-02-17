@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10047186" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Awesome/Trevor/Bison/10047186.jpg
+		</thumbnail>
+		<title>Ambush Nitro Alien</title>
+		<creator>Awesome Trevor Bison</creator>
+		<relatedgames/>
+	</game>
+	<game id="10650024" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dynamic/Cody/Bullfrog/10650024.jpg
+		</thumbnail>
+		<title>Universe Adventure Attack</title>
+		<creator>Dynamic Cody Bullfrog</creator>
+		<relatedgames/>
+	</game>
+	<game id="10048064" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Hefty/Sara/Pelican/10048064.jpg
+		</thumbnail>
+		<title>Nano Fury Nova</title>
+		<creator>Hefty Sara Pelican</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055491" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Frugal/Grover/Gorilla/10055491.jpg
+		</thumbnail>
+		<title>Atomic Giga Robot</title>
+		<creator>Frugal Grover Gorilla</creator>
+		<relatedgames/>
+	</game>
+	<game id="17012536" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Super/Carol/Blizzard/17012536.jpg
+		</thumbnail>
+		<title>Cannonbolt Challenge Hyper</title>
+		<creator>Super Carol Blizzard</creator>
+		<relatedgames/>
+	</game>
+	<game id="17188190" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Ronald/Presto/17188190.jpg
+		</thumbnail>
+		<title>Rescue Echo Plasma</title>
+		<creator>Daring Ronald Presto</creator>
+		<relatedgames/>
+	</game>
+	<game id="17342035" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Keen/Ludwig/Quasar/17342035.jpg
+		</thumbnail>
+		<title>Iron Slam Attack</title>
+		<creator>Keen Ludwig Quasar</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952666" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/David/Unicycle/10952666.jpg
+		</thumbnail>
+		<title>Adventure Adventure Atomic</title>
+		<creator>Red David Unicycle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919034" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Unusual/Leon/Spiral/10919034.jpg
+		</thumbnail>
+		<title>Magno Titan Defense</title>
+		<creator>Unusual Leon Spiral</creator>
+		<relatedgames/>
+	</game>
+	<game id="17044018" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Amusing/Andrew/Sword/17044018.jpg
+		</thumbnail>
+		<title>Fusion Droid Racer</title>
+		<creator>Amusing Andrew Sword</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

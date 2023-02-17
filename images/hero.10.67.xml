@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10940027" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hectic/Matt/Bingo/10940027.jpg
+		</thumbnail>
+		<title>Streak Warp Rumble</title>
+		<creator>Hectic Matt Bingo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919003" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frosty/Scott/Hambone/10919003.jpg
+		</thumbnail>
+		<title>Danger Plasma Battle</title>
+		<creator>Frosty Scott Hambone</creator>
+		<relatedgames/>
+	</game>
+	<game id="17418779" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Horrid/Wilford/Rhombus/17418779.jpg
+		</thumbnail>
+		<title>Magno Chase Assault</title>
+		<creator>Horrid Wilford Rhombus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17331941" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Subtle/Lancelot/Ricochet/17331941.jpg
+		</thumbnail>
+		<title>Rocket Charge Blaster</title>
+		<creator>Subtle Lancelot Ricochet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17328677" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Average/Owen/Monster/17328677.jpg
+		</thumbnail>
+		<title>Razor Space Rampage</title>
+		<creator>Average Owen Monster</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918741" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shrewd/Jonas/Yodel/10918741.jpg
+		</thumbnail>
+		<title>Mega Atomic Nova</title>
+		<creator>Shrewd Jonas Yodel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404209" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Luke/Stampede/17404209.jpg
+		</thumbnail>
+		<title>Pulse Adventure Shadow</title>
+		<creator>Zany Luke Stampede</creator>
+		<relatedgames/>
+	</game>
+	<game id="17257047" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Faith/Camel/17257047.jpg
+		</thumbnail>
+		<title>Adventure Adventure Metal</title>
+		<creator>Barbaric Faith Camel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953188" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eerie/Iris/Oddball/10953188.jpg
+		</thumbnail>
+		<title>Ultra Droid Titan</title>
+		<creator>Eerie Iris Oddball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924136" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Horrid/Duncan/Squirrel/10924136.jpg
+		</thumbnail>
+		<title>Fury Force Adventure</title>
+		<creator>Horrid Duncan Squirrel</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

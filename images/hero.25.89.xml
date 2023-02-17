@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17311572" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Galactic/Veronica/Trooper/17311572.jpg
+		</thumbnail>
+		<title>Streak Slam Escape</title>
+		<creator>Galactic Veronica Trooper</creator>
+		<relatedgames/>
+	</game>
+	<game id="17312986" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mellow/Benjamin/Banzai/17312986.jpg
+		</thumbnail>
+		<title>Shadow Rock Nova</title>
+		<creator>Mellow Benjamin Banzai</creator>
+		<relatedgames/>
+	</game>
+	<game id="16989085" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shiny/Homer/Soldier/16989085.jpg
+		</thumbnail>
+		<title>Crusher Adventure Universe</title>
+		<creator>Shiny Homer Soldier</creator>
+		<relatedgames/>
+	</game>
+	<game id="17262083" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Yucky/Rufus/Kiwi/17262083.jpg
+		</thumbnail>
+		<title>Invasion Spidermonkey Rock</title>
+		<creator>Yucky Rufus Kiwi</creator>
+		<relatedgames/>
+	</game>
+	<game id="17420096" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Delicate/Aaliyah/Sparkle/17420096.jpg
+		</thumbnail>
+		<title>Giga Space Swampfire</title>
+		<creator>Delicate Aaliyah Sparkle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924970" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loopy/Beatrice/Dynamite/10924970.jpg
+		</thumbnail>
+		<title>Burst Breaker Vilgax</title>
+		<creator>Loopy Beatrice Dynamite</creator>
+		<relatedgames/>
+	</game>
+	<game id="10950318" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Robotic/Diego/Pirate/10950318.jpg
+		</thumbnail>
+		<title>Ben Escape Vilgax</title>
+		<creator>Robotic Diego Pirate</creator>
+		<relatedgames/>
+	</game>
+	<game id="16949920" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Virtual/Will/Zip/16949920.jpg
+		</thumbnail>
+		<title>Fusion Battle Adventure</title>
+		<creator>Virtual Will Zip</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038642" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Artistic/Dominic/Lavender/10038642.jpg
+		</thumbnail>
+		<title>Ultimate Drone Doom</title>
+		<creator>Artistic Dominic Lavender</creator>
+		<relatedgames/>
+	</game>
+	<game id="10943881" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Grover/Fireball/10943881.jpg
+		</thumbnail>
+		<title>Crusher Shock Ben</title>
+		<creator>Dazzling Grover Fireball</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

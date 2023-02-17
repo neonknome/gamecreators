@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17407806" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shaggy/Jason/Spleen/17407806.jpg
+		</thumbnail>
+		<title>Sonic Universe Water</title>
+		<creator>Shaggy Jason Spleen</creator>
+		<relatedgames/>
+	</game>
+	<game id="17415485" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awful/Jacob/Bronco/17415485.jpg
+		</thumbnail>
+		<title>Mission Shock Patrol</title>
+		<creator>Awful Jacob Bronco</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953258" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sincere/Noah/Barnacle/10953258.jpg
+		</thumbnail>
+		<title>Charge Robot Slam</title>
+		<creator>Sincere Noah Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="16918247" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Abnormal/Duke/Bagpipe/16918247.jpg
+		</thumbnail>
+		<title>Alien Adventure Laser</title>
+		<creator>Abnormal Duke Bagpipe</creator>
+		<relatedgames/>
+	</game>
+	<game id="9954616" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Bashful/Zachary/Porridge/9954616.jpg
+		</thumbnail>
+		<title>Robot Humongousaur Nano</title>
+		<creator>Bashful Zachary Porridge</creator>
+		<relatedgames/>
+	</game>
+	<game id="17387237" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elite/Marcus/Balloon/17387237.jpg
+		</thumbnail>
+		<title>Star Slam Space</title>
+		<creator>Elite Marcus Balloon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17046178" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Alvin/Tiger/17046178.jpg
+		</thumbnail>
+		<title>Animo Shock Universe</title>
+		<creator>Humorous Alvin Tiger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10939432" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ghostly/Julia/Planet/10939432.jpg
+		</thumbnail>
+		<title>Ultra Danger Storm</title>
+		<creator>Ghostly Julia Planet</creator>
+		<relatedgames/>
+	</game>
+	<game id="10016036" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Mumbling/Dorothy/Talon/10016036.jpg
+		</thumbnail>
+		<title>Force Ultimate Fire</title>
+		<creator>Mumbling Dorothy Talon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925948" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Silly/Joshua/Thunder/10925948.jpg
+		</thumbnail>
+		<title>Adventure Storm Siege</title>
+		<creator>Silly Joshua Thunder</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

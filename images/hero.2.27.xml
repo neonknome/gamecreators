@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10935655" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stylish/Rachel/Sphinx/10935655.jpg
+		</thumbnail>
+		<title>Clash Gear Titan</title>
+		<creator>Stylish Rachel Sphinx</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920284" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Merry/Stacey/Turtle/10920284.jpg
+		</thumbnail>
+		<title>Fire Shock Attack</title>
+		<creator>Merry Stacey Turtle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17373112" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shiny/Roy/Insect/17373112.jpg
+		</thumbnail>
+		<title>Cannonbolt Vilgax Adventure</title>
+		<creator>Shiny Roy Insect</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922465" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Hunter/Plankton/10922465.jpg
+		</thumbnail>
+		<title>Iron Warrior Metal</title>
+		<creator>Zany Hunter Plankton</creator>
+		<relatedgames/>
+	</game>
+	<game id="17414376" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Brian/Cookie/17414376.jpg
+		</thumbnail>
+		<title>Spidermonkey Rumble Rush</title>
+		<creator>Barbaric Brian Cookie</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921238" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Wesley/Monster/10921238.jpg
+		</thumbnail>
+		<title>Fire Hero Plasma</title>
+		<creator>Honest Wesley Monster</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925587" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Massive/Kristin/Pulse/10925587.jpg
+		</thumbnail>
+		<title>Champion Challenge Magno</title>
+		<creator>Massive Kristin Pulse</creator>
+		<relatedgames/>
+	</game>
+	<game id="16974843" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Husky/Lucius/Foul/16974843.jpg
+		</thumbnail>
+		<title>Hyper Ben Solar</title>
+		<creator>Husky Lucius Foul</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925875" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Swift/Shelby/Ninja/10925875.jpg
+		</thumbnail>
+		<title>Mega Attack Swampfire</title>
+		<creator>Swift Shelby Ninja</creator>
+		<relatedgames/>
+	</game>
+	<game id="17277858" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baffling/Michelle/Shinobi/17277858.jpg
+		</thumbnail>
+		<title>Mega Water Nitro</title>
+		<creator>Baffling Michelle Shinobi</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10916687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tricky/Felix/Pontoon/10916687.jpg
+		</thumbnail>
+		<title>Alien Metal Rock</title>
+		<creator>Tricky Felix Pontoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920432" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bizarre/Scarlett/Catapult/10920432.jpg
+		</thumbnail>
+		<title>Thunder Assault Giga</title>
+		<creator>Bizarre Scarlett Catapult</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055807" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Sneaky/Jackie/Dodo/10055807.jpg
+		</thumbnail>
+		<title>Power Power Pursuit</title>
+		<creator>Sneaky Jackie Dodo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10946286" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Adorable/Benjamin/Robot/10946286.jpg
+		</thumbnail>
+		<title>Fire Fire Robot</title>
+		<creator>Adorable Benjamin Robot</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953063" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brainy/Trevor/Shock/10953063.jpg
+		</thumbnail>
+		<title>Escape Galaxy Force</title>
+		<creator>Brainy Trevor Shock</creator>
+		<relatedgames/>
+	</game>
+	<game id="10043263" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Infinite/Polly/Monster/10043263.jpg
+		</thumbnail>
+		<title>Alien Force Battle</title>
+		<creator>Infinite Polly Monster</creator>
+		<relatedgames/>
+	</game>
+	<game id="17259079" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Lawrence/Eggplant/17259079.jpg
+		</thumbnail>
+		<title>Cosmic Iron Chill</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames/>
+	</game>
+	<game id="17316460" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Drowzy/Yancy/Porridge/17316460.jpg
+		</thumbnail>
+		<title>Nano Rampage Giga</title>
+		<creator>Drowzy Yancy Porridge</creator>
+		<relatedgames/>
+	</game>
+	<game id="17417708" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Friendly/Felix/Dodo/17417708.jpg
+		</thumbnail>
+		<title>Echo Echo Cannonbolt</title>
+		<creator>Friendly Felix Dodo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953188" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eerie/Iris/Oddball/10953188.jpg
+		</thumbnail>
+		<title>Ultra Droid Titan</title>
+		<creator>Eerie Iris Oddball</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

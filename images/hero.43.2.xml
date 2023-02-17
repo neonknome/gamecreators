@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17277858" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baffling/Michelle/Shinobi/17277858.jpg
+		</thumbnail>
+		<title>Mega Water Nitro</title>
+		<creator>Baffling Michelle Shinobi</creator>
+		<relatedgames/>
+	</game>
+	<game id="10032046" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Absurd/Ava/Bayou/10032046.jpg
+		</thumbnail>
+		<title>Defense Alien Humongousaur</title>
+		<creator>Absurd Ava Bayou</creator>
+		<relatedgames/>
+	</game>
+	<game id="10064904" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cosmic/Goliath/Oddball/10064904.jpg
+		</thumbnail>
+		<title>Adventure Mission Sonic</title>
+		<creator>Cosmic Goliath Oddball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10934523" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Leroy/Hedgehog/10934523.jpg
+		</thumbnail>
+		<title>Defense Patrol Rush</title>
+		<creator>Humorous Leroy Hedgehog</creator>
+		<relatedgames/>
+	</game>
+	<game id="10655835" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proper/Dinah/Sardine/10655835.jpg
+		</thumbnail>
+		<title>Shadow Dark Rampage</title>
+		<creator>Proper Dinah Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10704385" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Swift/Alfonso/Monolith/10704385.jpg
+		</thumbnail>
+		<title>Fire Force Fury</title>
+		<creator>Swift Alfonso Monolith</creator>
+		<relatedgames/>
+	</game>
+	<game id="17316546" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Musical/Jared/Alien/17316546.jpg
+		</thumbnail>
+		<title>Danger Challenge Battle</title>
+		<creator>Musical Jared Alien</creator>
+		<relatedgames/>
+	</game>
+	<game id="17287197" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Abnormal/Pearl/Lizard/17287197.jpg
+		</thumbnail>
+		<title>Power Atomic Defense</title>
+		<creator>Abnormal Pearl Lizard</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931694" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Comical/Kelly/Baloney/10931694.jpg
+		</thumbnail>
+		<title>Pulse Nitro Ultra</title>
+		<creator>Comical Kelly Baloney</creator>
+		<relatedgames/>
+	</game>
+	<game id="17395565" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Toxic/Rocky/Photon/17395565.jpg
+		</thumbnail>
+		<title>Sonic Big Rocket</title>
+		<creator>Toxic Rocky Photon</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

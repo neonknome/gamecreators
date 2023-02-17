@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10045421" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Nomadic/Augustus/Nacho/10045421.jpg
+		</thumbnail>
+		<title>Solar Rocket Atomic</title>
+		<creator>Nomadic Augustus Nacho</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055917" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Southern/Rex/Chipmunk/10055917.jpg
+		</thumbnail>
+		<title>Assault Hex Thunder</title>
+		<creator>Southern Rex Chipmunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17540459" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Agile/Drake/Glop/17540459.jpg
+		</thumbnail>
+		<title>Rock Racer Force</title>
+		<creator>Agile Drake Glop</creator>
+		<relatedgames/>
+	</game>
+	<game id="17210717" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Vast/Jack/Creature/17210717.jpg
+		</thumbnail>
+		<title>Metal Iron Defense</title>
+		<creator>Vast Jack Creature</creator>
+		<relatedgames/>
+	</game>
+	<game id="10065549" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Brave/Tabitha/Cupcake/10065549.jpg
+		</thumbnail>
+		<title>Alien Swampfire Star</title>
+		<creator>Brave Tabitha Cupcake</creator>
+		<relatedgames/>
+	</game>
+	<game id="17301462" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ironic/Isaac/Deadbolt/17301462.jpg
+		</thumbnail>
+		<title>Thunder Ultra Alien</title>
+		<creator>Ironic Isaac Deadbolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="10042807" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Noisy/Gretel/Gumbo/10042807.jpg
+		</thumbnail>
+		<title>Adventure Lightning Mega</title>
+		<creator>Noisy Gretel Gumbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17142675" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/King/Thor/Gulch/17142675.jpg
+		</thumbnail>
+		<title>Invasion Assault Clash</title>
+		<creator>King Thor Gulch</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926594" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Valiant/Maya/Rutabaga/10926594.jpg
+		</thumbnail>
+		<title>Light Search Ultra</title>
+		<creator>Valiant Maya Rutabaga</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922895" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brave/Ernie/Blitz/10922895.jpg
+		</thumbnail>
+		<title>Hyper Spark Hero</title>
+		<creator>Brave Ernie Blitz</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

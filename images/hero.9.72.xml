@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10942165" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pretty/Vinny/Zebra/10942165.jpg
+		</thumbnail>
+		<title>Earth Nano Storm</title>
+		<creator>Pretty Vinny Zebra</creator>
+		<relatedgames/>
+	</game>
+	<game id="17332917" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Super/Matt/Dodo/17332917.jpg
+		</thumbnail>
+		<title>Cannonbolt Iron Escape</title>
+		<creator>Super Matt Dodo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17345037" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Arthur/Cyborg/17345037.jpg
+		</thumbnail>
+		<title>Brainstorm Lightning Charge</title>
+		<creator>Colossal Arthur Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919003" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frosty/Scott/Hambone/10919003.jpg
+		</thumbnail>
+		<title>Danger Plasma Battle</title>
+		<creator>Frosty Scott Hambone</creator>
+		<relatedgames/>
+	</game>
+	<game id="17239956" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Precious/Leon/Raptor/17239956.jpg
+		</thumbnail>
+		<title>Crusher Doom Ambush</title>
+		<creator>Precious Leon Raptor</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918741" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shrewd/Jonas/Yodel/10918741.jpg
+		</thumbnail>
+		<title>Mega Atomic Nova</title>
+		<creator>Shrewd Jonas Yodel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920342" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Putrid/Tabitha/Cactus/10920342.jpg
+		</thumbnail>
+		<title>Nitro Rush Space</title>
+		<creator>Putrid Tabitha Cactus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953188" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eerie/Iris/Oddball/10953188.jpg
+		</thumbnail>
+		<title>Ultra Droid Titan</title>
+		<creator>Eerie Iris Oddball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10648482" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crafty/Kristen/Quake/10648482.jpg
+		</thumbnail>
+		<title>Light Universe Vilgax</title>
+		<creator>Crafty Kristen Quake</creator>
+		<relatedgames/>
+	</game>
+	<game id="17382394" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/General/Ian/Fang/17382394.jpg
+		</thumbnail>
+		<title>Champion Smash Ben</title>
+		<creator>General Ian Fang</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

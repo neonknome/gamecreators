@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17539894" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Prolific/Cole/Sprout/17539894.jpg
+		</thumbnail>
+		<title>Vilgax Pulse Nova</title>
+		<creator>Prolific Cole Sprout</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935439" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awful/Edward/Acrobat/10935439.jpg
+		</thumbnail>
+		<title>Beast Pulse Vilgax</title>
+		<creator>Awful Edward Acrobat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925582" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dynamic/Stacy/Crumpet/10925582.jpg
+		</thumbnail>
+		<title>Adventure Adventure Battle</title>
+		<creator>Dynamic Stacy Crumpet</creator>
+		<relatedgames/>
+	</game>
+	<game id="10065361" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Funny/Billy/Barnacle/10065361.jpg
+		</thumbnail>
+		<title>Adventure Smash Racer</title>
+		<creator>Funny Billy Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17102291" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elite/Luke/Mastodon/17102291.jpg
+		</thumbnail>
+		<title>Nano Sonic Assault</title>
+		<creator>Elite Luke Mastodon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17418042" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Silly/Jared/Sardine/17418042.jpg
+		</thumbnail>
+		<title>Cosmic Atomic Assault</title>
+		<creator>Silly Jared Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952952" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zippy/Frank/Bramble/10952952.jpg
+		</thumbnail>
+		<title>Energy Warp Spark</title>
+		<creator>Zippy Frank Bramble</creator>
+		<relatedgames/>
+	</game>
+	<game id="10020537" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Bashful/Ace/Hiccup/10020537.jpg
+		</thumbnail>
+		<title>Fury Sonic Mega</title>
+		<creator>Bashful Ace Hiccup</creator>
+		<relatedgames/>
+	</game>
+	<game id="10929416" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elegant/Crystal/Barnacle/10929416.jpg
+		</thumbnail>
+		<title>Iron Universe Space</title>
+		<creator>Elegant Crystal Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919589" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humble/Adrian/Unicorn/10919589.jpg
+		</thumbnail>
+		<title>Nova Laser Earth</title>
+		<creator>Humble Adrian Unicorn</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

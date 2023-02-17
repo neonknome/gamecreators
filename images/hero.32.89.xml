@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10942820" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Itchy/Wilbur/Moonbeam/10942820.jpg
+		</thumbnail>
+		<title>Swampfire Invasion Nano</title>
+		<creator>Itchy Wilbur Moonbeam</creator>
+		<relatedgames/>
+	</game>
+	<game id="17389507" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grimy/Zachary/Twilight/17389507.jpg
+		</thumbnail>
+		<title>Shock Shadow Ambush</title>
+		<creator>Grimy Zachary Twilight</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952770" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nomadic/Ryan/Grouch/10952770.jpg
+		</thumbnail>
+		<title>Magno Magno Hex</title>
+		<creator>Nomadic Ryan Grouch</creator>
+		<relatedgames/>
+	</game>
+	<game id="10704405" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Leaping/Emma/Molecule/10704405.jpg
+		</thumbnail>
+		<title>Fusion Pulse Chase</title>
+		<creator>Leaping Emma Molecule</creator>
+		<relatedgames/>
+	</game>
+	<game id="16891507" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Vast/Zach/Renegade/16891507.jpg
+		</thumbnail>
+		<title>Assault Alien Ambush</title>
+		<creator>Vast Zach Renegade</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918156" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brawny/Bradley/Howler/10918156.jpg
+		</thumbnail>
+		<title>Hex Mission Plumber</title>
+		<creator>Brawny Bradley Howler</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sporty/Daniel/Iceberg/10926636.jpg
+		</thumbnail>
+		<title>Animo Rocket Search</title>
+		<creator>Sporty Daniel Iceberg</creator>
+		<relatedgames/>
+	</game>
+	<game id="16988735" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Captain/Gwen/Viking/16988735.jpg
+		</thumbnail>
+		<title>Escape Atomic Burst</title>
+		<creator>Captain Gwen Viking</creator>
+		<relatedgames/>
+	</game>
+	<game id="10052419" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Kooky/Leonardo/Barnacle/10052419.jpg
+		</thumbnail>
+		<title>Nano Atomic Ambush</title>
+		<creator>Kooky Leonardo Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951370" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Nick/Aurora/10951370.jpg
+		</thumbnail>
+		<title>Energy Breaker Warrior</title>
+		<creator>Red Nick Aurora</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

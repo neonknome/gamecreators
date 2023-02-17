@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17535805" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ruthless/Dustin/Gulch/17535805.jpg
+		</thumbnail>
+		<title>Gear Adventure Spidermonkey</title>
+		<creator>Ruthless Dustin Gulch</creator>
+		<relatedgames/>
+	</game>
+	<game id="10929318" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Atomic/Jordan/Atom/10929318.jpg
+		</thumbnail>
+		<title>Robot Turbo Warrior</title>
+		<creator>Atomic Jordan Atom</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925450" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Handsome/Noah/Penguin/10925450.jpg
+		</thumbnail>
+		<title>Rocket Ultimate Assault</title>
+		<creator>Handsome Noah Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952660" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Megan/Octopus/10952660.jpg
+		</thumbnail>
+		<title>Search Assault Rumble</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931299" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strange/Tyler/Chipmunk/10931299.jpg
+		</thumbnail>
+		<title>Slam Solar Target</title>
+		<creator>Strange Tyler Chipmunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10786851" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Puzzling/Carter/Basilisk/10786851.jpg
+		</thumbnail>
+		<title>Spike Turbo Alien</title>
+		<creator>Puzzling Carter Basilisk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Golden/Benjamin/Hedgehog/17404687.jpg
+		</thumbnail>
+		<title>Space Star Patrol</title>
+		<creator>Golden Benjamin Hedgehog</creator>
+		<relatedgames/>
+	</game>
+	<game id="10932767" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sleepy/Will/Spider/10932767.jpg
+		</thumbnail>
+		<title>Rocket Ultimate Streak</title>
+		<creator>Sleepy Will Spider</creator>
+		<relatedgames/>
+	</game>
+	<game id="17260152" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radiant/Mckenzie/Kungfu/17260152.jpg
+		</thumbnail>
+		<title>Alien Escape Assault</title>
+		<creator>Radiant Mckenzie Kungfu</creator>
+		<relatedgames/>
+	</game>
+	<game id="10949490" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Enormous/Nathan/Monster/10949490.jpg
+		</thumbnail>
+		<title>Warrior Thunder Iron</title>
+		<creator>Enormous Nathan Monster</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

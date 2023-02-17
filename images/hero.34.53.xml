@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10916758" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Purple/Angel/Cyborg/10916758.jpg
+		</thumbnail>
+		<title>Nitro Plasma Storm</title>
+		<creator>Purple Angel Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10063529" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cosmic/Oscar/Orca/10063529.jpg
+		</thumbnail>
+		<title>Rescue Ultra Universe</title>
+		<creator>Cosmic Oscar Orca</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926490" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fuzzy/Trevor/Zombie/10926490.jpg
+		</thumbnail>
+		<title>Titan Assault Energy</title>
+		<creator>Fuzzy Trevor Zombie</creator>
+		<relatedgames/>
+	</game>
+	<game id="16975666" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Steady/Hannah/Brute/16975666.jpg
+		</thumbnail>
+		<title>Ambush Battle Search</title>
+		<creator>Steady Hannah Brute</creator>
+		<relatedgames/>
+	</game>
+	<game id="10054675" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Chaotic/Lily/Safari/10054675.jpg
+		</thumbnail>
+		<title>Ultimate Fusion Assault</title>
+		<creator>Chaotic Lily Safari</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951833" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loony/Hunter/Penguin/10951833.jpg
+		</thumbnail>
+		<title>Atomic Adventure Galaxy</title>
+		<creator>Loony Hunter Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055588" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Hectic/Cathy/Zigzag/10055588.jpg
+		</thumbnail>
+		<title>Beast Sonic Magno</title>
+		<creator>Hectic Cathy Zigzag</creator>
+		<relatedgames/>
+	</game>
+	<game id="10704476" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Orange/Greg/Basilisk/10704476.jpg
+		</thumbnail>
+		<title>Ultimate Warrior Battle</title>
+		<creator>Orange Greg Basilisk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404295" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Squishy/Johnny/Toenail/17404295.jpg
+		</thumbnail>
+		<title>Robot Laser Adventure</title>
+		<creator>Squishy Johnny Toenail</creator>
+		<relatedgames/>
+	</game>
+	<game id="17281337" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magnetic/Dominic/Hologram/17281337.jpg
+		</thumbnail>
+		<title>Pursuit Power Battle</title>
+		<creator>Magnetic Dominic Hologram</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

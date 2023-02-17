@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17014243" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Expert/Hailey/Knight/17014243.jpg
+		</thumbnail>
+		<title>Adventure Ambush Robot</title>
+		<creator>Expert Hailey Knight</creator>
+		<relatedgames/>
+	</game>
+	<game id="10936094" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grand/Michelle/Goulash/10936094.jpg
+		</thumbnail>
+		<title>Alien Atomic Attack</title>
+		<creator>Grand Michelle Goulash</creator>
+		<relatedgames/>
+	</game>
+	<game id="17220720" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Smart/Pearl/Confetti/17220720.jpg
+		</thumbnail>
+		<title>Cosmic Adventure Ben</title>
+		<creator>Smart Pearl Confetti</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038215" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Reckless/Jeremiah/Doodle/10038215.jpg
+		</thumbnail>
+		<title>Cosmic Fire Adventure</title>
+		<creator>Reckless Jeremiah Doodle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17334361" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Popular/Mary/Frog/17334361.jpg
+		</thumbnail>
+		<title>Animo Giga Adventure</title>
+		<creator>Popular Mary Frog</creator>
+		<relatedgames/>
+	</game>
+	<game id="16947434" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Classic/Bill/Doodle/16947434.jpg
+		</thumbnail>
+		<title>Ambush Rustbucket Light</title>
+		<creator>Classic Bill Doodle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17320483" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Talented/Adam/Tiger/17320483.jpg
+		</thumbnail>
+		<title>Adventure Alien Ambush</title>
+		<creator>Talented Adam Tiger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10063529" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cosmic/Oscar/Orca/10063529.jpg
+		</thumbnail>
+		<title>Rescue Ultra Universe</title>
+		<creator>Cosmic Oscar Orca</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926490" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fuzzy/Trevor/Zombie/10926490.jpg
+		</thumbnail>
+		<title>Titan Assault Energy</title>
+		<creator>Fuzzy Trevor Zombie</creator>
+		<relatedgames/>
+	</game>
+	<game id="17262679" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shaggy/Vladimir/Crowbar/17262679.jpg
+		</thumbnail>
+		<title>Big Adventure Universe</title>
+		<creator>Shaggy Vladimir Crowbar</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

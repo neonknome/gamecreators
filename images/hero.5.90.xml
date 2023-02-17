@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17246245" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artful/Anna/Cosmos/17246245.jpg
+		</thumbnail>
+		<title>Rampage Nitro Storm</title>
+		<creator>Artful Anna Cosmos</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919201" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grimy/Autumn/Gumbo/10919201.jpg
+		</thumbnail>
+		<title>Fire Steel Turbo</title>
+		<creator>Grimy Autumn Gumbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10950896" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nomadic/Alyssa/Kayak/10950896.jpg
+		</thumbnail>
+		<title>Rampage Spark Force</title>
+		<creator>Nomadic Alyssa Kayak</creator>
+		<relatedgames/>
+	</game>
+	<game id="17234049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Lanky/Lily/Licorice/17234049.jpg
+		</thumbnail>
+		<title>Hyper Alien Hero</title>
+		<creator>Lanky Lily Licorice</creator>
+		<relatedgames/>
+	</game>
+	<game id="17394577" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Variable/Ron/Shogun/17394577.jpg
+		</thumbnail>
+		<title>Mega Swampfire Search</title>
+		<creator>Variable Ron Shogun</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918533" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Odd/Gary/Pirate/10918533.jpg
+		</thumbnail>
+		<title>Quake Danger Battle</title>
+		<creator>Odd Gary Pirate</creator>
+		<relatedgames/>
+	</game>
+	<game id="10069216" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Spooky/Kelly/Ketchup/10069216.jpg
+		</thumbnail>
+		<title>Earth Rustbucket Spark</title>
+		<creator>Spooky Kelly Ketchup</creator>
+		<relatedgames/>
+	</game>
+	<game id="17278910" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Captain/Connor/Charger/17278910.jpg
+		</thumbnail>
+		<title>Thunder Mega Champion</title>
+		<creator>Captain Connor Charger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Puzzling/Marsha/Nibbles/10931049.jpg
+		</thumbnail>
+		<title>Nitro Attack Alien</title>
+		<creator>Puzzling Marsha Nibbles</creator>
+		<relatedgames/>
+	</game>
+	<game id="16867305" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baron/Jose/Polka/16867305.jpg
+		</thumbnail>
+		<title>Ultimate Rocket Nano</title>
+		<creator>Baron Jose Polka</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

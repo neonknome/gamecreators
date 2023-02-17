@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10927469" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Calvin/Maestro/10927469.jpg
+		</thumbnail>
+		<title>Rush Ultra Racer</title>
+		<creator>Dashing Calvin Maestro</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Western/Leon/Figment/10952878.jpg
+		</thumbnail>
+		<title>Crusher Alien Solar</title>
+		<creator>Western Leon Figment</creator>
+		<relatedgames/>
+	</game>
+	<game id="17374839" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Captain/Sapphire/Electron/17374839.jpg
+		</thumbnail>
+		<title>Cosmic Fire Escape</title>
+		<creator>Captain Sapphire Electron</creator>
+		<relatedgames/>
+	</game>
+	<game id="17278924" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/Colin/Jungle/17278924.jpg
+		</thumbnail>
+		<title>Alien Ambush Chill</title>
+		<creator>Fiery Colin Jungle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10057867" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Lanky/Joey/Buckaroo/10057867.jpg
+		</thumbnail>
+		<title>Rescue Fire Escape</title>
+		<creator>Lanky Joey Buckaroo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10932117" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Odd/Austin/Sphere/10932117.jpg
+		</thumbnail>
+		<title>Target Fury Nitro</title>
+		<creator>Odd Austin Sphere</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953578" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Lucky/Matthew/Avocado/10953578.jpg
+		</thumbnail>
+		<title>Warp Pulse Swampfire</title>
+		<creator>Lucky Matthew Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="17223057" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bouncing/Benton/Mummy/17223057.jpg
+		</thumbnail>
+		<title>Big Chill Challenge</title>
+		<creator>Bouncing Benton Mummy</creator>
+		<relatedgames/>
+	</game>
+	<game id="17345197" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Epic/Zachary/Dingbat/17345197.jpg
+		</thumbnail>
+		<title>Steel Mission Space</title>
+		<creator>Epic Zachary Dingbat</creator>
+		<relatedgames/>
+	</game>
+	<game id="17351796" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Immense/Jayden/Buzzard/17351796.jpg
+		</thumbnail>
+		<title>Vilgax Warp Swampfire</title>
+		<creator>Immense Jayden Buzzard</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

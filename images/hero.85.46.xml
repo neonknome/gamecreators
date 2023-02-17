@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16947780" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sleek/CJ/Dolphin/16947780.jpg
+		</thumbnail>
+		<title>Mega Chase Invasion</title>
+		<creator>Sleek CJ Dolphin</creator>
+		<relatedgames/>
+	</game>
+	<game id="17377709" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quirky/Tommy/Karate/17377709.jpg
+		</thumbnail>
+		<title>Turbo Cosmic Solar</title>
+		<creator>Quirky Tommy Karate</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055917" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Southern/Rex/Chipmunk/10055917.jpg
+		</thumbnail>
+		<title>Assault Hex Thunder</title>
+		<creator>Southern Rex Chipmunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10046385" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Majestic/Chelsea/Squawk/10046385.jpg
+		</thumbnail>
+		<title>Atomic Slam Space</title>
+		<creator>Majestic Chelsea Squawk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919681" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wise/Jasmine/Blob/10919681.jpg
+		</thumbnail>
+		<title>Breaker Dark Challenge</title>
+		<creator>Wise Jasmine Blob</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038231" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cheerful/Bryan/Sizzle/10038231.jpg
+		</thumbnail>
+		<title>Razor Shadow Rocket</title>
+		<creator>Cheerful Bryan Sizzle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17069768" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Superb/Bart/Zigzag/17069768.jpg
+		</thumbnail>
+		<title>Adventure Swampfire Assault</title>
+		<creator>Superb Bart Zigzag</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918167" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Leonardo/Howler/10918167.jpg
+		</thumbnail>
+		<title>Alien Rampage Ambush</title>
+		<creator>Colossal Leonardo Howler</creator>
+		<relatedgames/>
+	</game>
+	<game id="17554096" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frugal/Emmett/Rhombus/17554096.jpg
+		</thumbnail>
+		<title>Robot Challenge Vilgax</title>
+		<creator>Frugal Emmett Rhombus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919889" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magnetic/Natalie/Monolith/10919889.jpg
+		</thumbnail>
+		<title>Universe Doom Rush</title>
+		<creator>Magnetic Natalie Monolith</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

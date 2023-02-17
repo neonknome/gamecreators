@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10948271" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wacky/Billy/Enigma/10948271.jpg
+		</thumbnail>
+		<title>Rescue Nitro Giga</title>
+		<creator>Wacky Billy Enigma</creator>
+		<relatedgames/>
+	</game>
+	<game id="17232540" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Diagonal/Trevor/Blammo/17232540.jpg
+		</thumbnail>
+		<title>Dark Metal Attack</title>
+		<creator>Diagonal Trevor Blammo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17303375" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Stanley/Quake/17303375.jpg
+		</thumbnail>
+		<title>Rampage Ambush Charge</title>
+		<creator>Flying Stanley Quake</creator>
+		<relatedgames/>
+	</game>
+	<game id="17504532" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Rowdy/Chris/Blast/17504532.jpg
+		</thumbnail>
+		<title>Nano Steel Alien</title>
+		<creator>Rowdy Chris Blast</creator>
+		<relatedgames/>
+	</game>
+	<game id="17156444" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Athletic/Carl/Fathom/17156444.jpg
+		</thumbnail>
+		<title>Rescue Adventure Turbo</title>
+		<creator>Athletic Carl Fathom</creator>
+		<relatedgames/>
+	</game>
+	<game id="17137189" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shady/Albert/Iceberg/17137189.jpg
+		</thumbnail>
+		<title>Big Cannonbolt Spike</title>
+		<creator>Shady Albert Iceberg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10947551" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wise/Victoria/Volcano/10947551.jpg
+		</thumbnail>
+		<title>Chase Streak Quake</title>
+		<creator>Wise Victoria Volcano</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953158" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awful/Austin/Sphinx/10953158.jpg
+		</thumbnail>
+		<title>Dark Search Spike</title>
+		<creator>Awful Austin Sphinx</creator>
+		<relatedgames/>
+	</game>
+	<game id="10031329" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dynamic/Erik/Crater/10031329.jpg
+		</thumbnail>
+		<title>Invasion Robot Shock</title>
+		<creator>Dynamic Erik Crater</creator>
+		<relatedgames/>
+	</game>
+	<game id="10949707" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Heroic/Connor/Fuzz/10949707.jpg
+		</thumbnail>
+		<title>Mission Fusion Ambush</title>
+		<creator>Heroic Connor Fuzz</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

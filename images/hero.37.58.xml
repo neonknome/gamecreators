@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10924271" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Jeremy/Tractor/10924271.jpg
+		</thumbnail>
+		<title>Gear Gear Robot</title>
+		<creator>Chilly Jeremy Tractor</creator>
+		<relatedgames/>
+	</game>
+	<game id="10950785" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fragrant/Dudley/Fritter/10950785.jpg
+		</thumbnail>
+		<title>Laser Rocket Streak</title>
+		<creator>Fragrant Dudley Fritter</creator>
+		<relatedgames/>
+	</game>
+	<game id="17387691" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loyal/Juan/Parallax/17387691.jpg
+		</thumbnail>
+		<title>Cannonbolt Metal Mission</title>
+		<creator>Loyal Juan Parallax</creator>
+		<relatedgames/>
+	</game>
+	<game id="17276635" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Roy/Razor/17276635.jpg
+		</thumbnail>
+		<title>Echo Magno Ultra</title>
+		<creator>Roy Razor</creator>
+		<relatedgames/>
+	</game>
+	<game id="17309781" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pleasant/Alan/Gamer/17309781.jpg
+		</thumbnail>
+		<title>Razor Jetray Laser</title>
+		<creator>Pleasant Alan Gamer</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038578" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Witty/Wes/Grouch/10038578.jpg
+		</thumbnail>
+		<title>Warrior Hero Warrior</title>
+		<creator>Witty Wes Grouch</creator>
+		<relatedgames/>
+	</game>
+	<game id="17296193" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Stanley/Quake/17296193.jpg
+		</thumbnail>
+		<title>Rocket Danger Nitro</title>
+		<creator>Flying Stanley Quake</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918242" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dynamic/Polly/Turbo/10918242.jpg
+		</thumbnail>
+		<title>Danger Sonic Iron</title>
+		<creator>Dynamic Polly Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933292" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Funky/Pearl/Zombie/10933292.jpg
+		</thumbnail>
+		<title>Patrol Rescue Laser</title>
+		<creator>Funky Pearl Zombie</creator>
+		<relatedgames/>
+	</game>
+	<game id="10932957" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Majestic/Don/Ketchup/10932957.jpg
+		</thumbnail>
+		<title>Earth Razor Warp</title>
+		<creator>Majestic Don Ketchup</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

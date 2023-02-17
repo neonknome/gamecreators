@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17279509" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Justin/Phoenix/17279509.jpg
+		</thumbnail>
+		<title>Danger Cosmic Fire</title>
+		<creator>Humorous Justin Phoenix</creator>
+		<relatedgames/>
+	</game>
+	<game id="10647540" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proper/Ben/Popcorn/10647540.jpg
+		</thumbnail>
+		<title>Blaster Robot Universe</title>
+		<creator>Proper Ben Popcorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="17259079" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Lawrence/Eggplant/17259079.jpg
+		</thumbnail>
+		<title>Cosmic Iron Chill</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames/>
+	</game>
+	<game id="17348502" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Toxic/Augustus/Zip/17348502.jpg
+		</thumbnail>
+		<title>Shadow Quake Alien</title>
+		<creator>Toxic Augustus Zip</creator>
+		<relatedgames/>
+	</game>
+	<game id="17237102" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Adjacent/David/Sizzle/17237102.jpg
+		</thumbnail>
+		<title>Space Robot Patrol</title>
+		<creator>Adjacent David Sizzle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17505132" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Creative/David/Anvil/17505132.jpg
+		</thumbnail>
+		<title>Mission Chase Smash</title>
+		<creator>Creative David Anvil</creator>
+		<relatedgames/>
+	</game>
+	<game id="16984393" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quantum/Kevin/Beast/16984393.jpg
+		</thumbnail>
+		<title>Atomic Whirlwind Battle</title>
+		<creator>Quantum Kevin Beast</creator>
+		<relatedgames/>
+	</game>
+	<game id="17016612" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cranky/Zeb/Martian/17016612.jpg
+		</thumbnail>
+		<title>Alien Terraspin Ambush</title>
+		<creator>Cranky Zeb Martian</creator>
+		<relatedgames/>
+	</game>
+	<game id="17348915" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ultimate/Tristan/Yoyo/17348915.jpg
+		</thumbnail>
+		<title>Hex Patrol Storm</title>
+		<creator>Ultimate Tristan Yoyo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17540856" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Plucky/Drew/Yak/17540856.jpg
+		</thumbnail>
+		<title>Shadow Steel Crusher</title>
+		<creator>Plucky Drew Yak</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

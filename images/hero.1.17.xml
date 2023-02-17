@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10925264" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Mike/Blubber/10925264.jpg
+		</thumbnail>
+		<title>Fire Ben Nitro</title>
+		<creator>Dazzling Mike Blubber</creator>
+		<relatedgames/>
+	</game>
+	<game id="10793389" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fizzy/Irwin/Mustang/10793389.jpg
+		</thumbnail>
+		<title>Blaster Adventure Dark</title>
+		<creator>Fizzy Irwin Mustang</creator>
+		<relatedgames/>
+	</game>
+	<game id="16907817" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Restless/Oscar/Mumbles/16907817.jpg
+		</thumbnail>
+		<title>Razor Alien Iron</title>
+		<creator>Restless Oscar Mumbles</creator>
+		<relatedgames/>
+	</game>
+	<game id="17013289" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artful/Michael/Ostrich/17013289.jpg
+		</thumbnail>
+		<title>Escape Magno Breaker</title>
+		<creator>Artful Michael Ostrich</creator>
+		<relatedgames/>
+	</game>
+	<game id="10917704" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Trinity/Cobra/10917704.jpg
+		</thumbnail>
+		<title>Adventure Animo Assault</title>
+		<creator>Dashing Trinity Cobra</creator>
+		<relatedgames/>
+	</game>
+	<game id="10780319" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wild/Richard/Pontoon/10780319.jpg
+		</thumbnail>
+		<title>Galaxy Solar Ambush</title>
+		<creator>Wild Richard Pontoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17360082" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Drowzy/Benny/Droid/17360082.jpg
+		</thumbnail>
+		<title>Clash Smash Fury</title>
+		<creator>Drowzy Benny Droid</creator>
+		<relatedgames/>
+	</game>
+	<game id="17353438" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hardy/Skips/Knight/17353438.jpg
+		</thumbnail>
+		<title>Robot Alien Ambush</title>
+		<creator>Hardy Skips Knight</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927809" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sporty/Helga/Cyborg/10927809.jpg
+		</thumbnail>
+		<title>Ben Challenge Spark</title>
+		<creator>Sporty Helga Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953653" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Savage/Caroline/Fizz/10953653.jpg
+		</thumbnail>
+		<title>Mega Adventure Alien</title>
+		<creator>Savage Caroline Fizz</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

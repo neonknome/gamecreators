@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10929981" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Modest/Gretel/Bongo/10929981.jpg
+		</thumbnail>
+		<title>Rush Cosmic Shadow</title>
+		<creator>Modest Gretel Bongo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17299391" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Imperial/Calvin/Ruckus/17299391.jpg
+		</thumbnail>
+		<title>Razor Adventure Plumber</title>
+		<creator>Imperial Calvin Ruckus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17133581" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Titanic/Clyde/Dwarf/17133581.jpg
+		</thumbnail>
+		<title>Adventure Smash Burst</title>
+		<creator>Titanic Clyde Dwarf</creator>
+		<relatedgames/>
+	</game>
+	<game id="17347654" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baron/Zachary/Nebula/17347654.jpg
+		</thumbnail>
+		<title>Fury Fusion Adventure</title>
+		<creator>Baron Zachary Nebula</creator>
+		<relatedgames/>
+	</game>
+	<game id="17200966" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sloppy/Ronald/Tundra/17200966.jpg
+		</thumbnail>
+		<title>Cannonbolt Spark Metal</title>
+		<creator>Sloppy Ronald Tundra</creator>
+		<relatedgames/>
+	</game>
+	<game id="17562431" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Acoustic/Angel/Nonsense/17562431.jpg
+		</thumbnail>
+		<title>Challenge Humungousaur Smash</title>
+		<creator>Acoustic Angel Nonsense</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931081" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cranky/Jake/Bamboo/10931081.jpg
+		</thumbnail>
+		<title>Vilgax Smash Invasion</title>
+		<creator>Cranky Jake Bamboo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17014494" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bold/Isabelle/Pizza/17014494.jpg
+		</thumbnail>
+		<title>Pursuit Quake Warp</title>
+		<creator>Bold Isabelle Pizza</creator>
+		<relatedgames/>
+	</game>
+	<game id="17363601" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Icy/Bridget/Atlas/17363601.jpg
+		</thumbnail>
+		<title>Metal Spidermonkey Spidermonkey</title>
+		<creator>Icy Bridget Atlas</creator>
+		<relatedgames/>
+	</game>
+	<game id="10786851" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Puzzling/Carter/Basilisk/10786851.jpg
+		</thumbnail>
+		<title>Spike Turbo Alien</title>
+		<creator>Puzzling Carter Basilisk</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

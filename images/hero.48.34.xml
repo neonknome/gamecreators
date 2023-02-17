@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17420096" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Delicate/Aaliyah/Sparkle/17420096.jpg
+		</thumbnail>
+		<title>Giga Space Swampfire</title>
+		<creator>Delicate Aaliyah Sparkle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919681" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wise/Jasmine/Blob/10919681.jpg
+		</thumbnail>
+		<title>Breaker Dark Challenge</title>
+		<creator>Wise Jasmine Blob</creator>
+		<relatedgames/>
+	</game>
+	<game id="17386767" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Brandon/Robot/17386767.jpg
+		</thumbnail>
+		<title>Warrior Atomic Warrior</title>
+		<creator>Flying Brandon Robot</creator>
+		<relatedgames/>
+	</game>
+	<game id="10929624" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dynamic/Clyde/Fondue/10929624.jpg
+		</thumbnail>
+		<title>Ben Ben Ben</title>
+		<creator>Dynamic Clyde Fondue</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953659" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hefty/Brandy/Turtle/10953659.jpg
+		</thumbnail>
+		<title>Clash Iron Rescue</title>
+		<creator>Hefty Brandy Turtle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10059113" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Stately/Hunter/Blade/10059113.jpg
+		</thumbnail>
+		<title>Dark Hex Burst</title>
+		<creator>Stately Hunter Blade</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923388" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scary/Orlando/Phantom/10923388.jpg
+		</thumbnail>
+		<title>Ultra Swampfire Battle</title>
+		<creator>Scary Orlando Phantom</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928502" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awesome/Anthony/Monkey/10928502.jpg
+		</thumbnail>
+		<title>Invasion Danger Fusion</title>
+		<creator>Awesome Anthony Monkey</creator>
+		<relatedgames/>
+	</game>
+	<game id="17562051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dubious/Kevin/Mustard/17562051.jpg
+		</thumbnail>
+		<title>Rampage Swampfire Storm</title>
+		<creator>Dubious Kevin Mustard</creator>
+		<relatedgames/>
+	</game>
+	<game id="17400817" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Healthy/Kyle/Squid/17400817.jpg
+		</thumbnail>
+		<title>Mission Big Chill</title>
+		<creator>Healthy Kyle Squid</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

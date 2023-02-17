@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17345197" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Epic/Zachary/Dingbat/17345197.jpg
+		</thumbnail>
+		<title>Steel Mission Space</title>
+		<creator>Epic Zachary Dingbat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926927" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dainty/Darla/Ketchup/10926927.jpg
+		</thumbnail>
+		<title>Doom Rampage Defense</title>
+		<creator>Dainty Darla Ketchup</creator>
+		<relatedgames/>
+	</game>
+	<game id="17019670" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Golden/Tex/Tornado/17019670.jpg
+		</thumbnail>
+		<title>Chill Nano Spark</title>
+		<creator>Golden Tex Tornado</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sloppy/Connor/Fondue/10953061.jpg
+		</thumbnail>
+		<title>Nitro Rustbucket Invasion</title>
+		<creator>Sloppy Connor Fondue</creator>
+		<relatedgames/>
+	</game>
+	<game id="17415515" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radical/Nick/Cutlass/17415515.jpg
+		</thumbnail>
+		<title>Cosmic Rocket Universe</title>
+		<creator>Radical Nick Cutlass</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928891" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Cole/Dragon/10928891.jpg
+		</thumbnail>
+		<title>Alien Magno Fire</title>
+		<creator>Honest Cole Dragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="16980048" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pleasant/Amanda/Goulash/16980048.jpg
+		</thumbnail>
+		<title>Pursuit Ultimate Plumber</title>
+		<creator>Pleasant Amanda Goulash</creator>
+		<relatedgames/>
+	</game>
+	<game id="17332714" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Major/Raymond/Saturn/17332714.jpg
+		</thumbnail>
+		<title>Techno Challenge Challenge</title>
+		<creator>Major Raymond Saturn</creator>
+		<relatedgames/>
+	</game>
+	<game id="10031446" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Wondrous/Grace/Fizz/10031446.jpg
+		</thumbnail>
+		<title>Stone Humongousaur Force</title>
+		<creator>Wondrous Grace Fizz</creator>
+		<relatedgames/>
+	</game>
+	<game id="10932339" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Floyd/Gumbo/10932339.jpg
+		</thumbnail>
+		<title>Adventure Plasma Nitro</title>
+		<creator>Chilly Floyd Gumbo</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

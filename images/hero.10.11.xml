@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17315171" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Rational/Bobo/Orca/17315171.jpg
+		</thumbnail>
+		<title>Slam Attack Galaxy</title>
+		<creator>Rational Bobo Orca</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924220" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Kenneth/Saber/10924220.jpg
+		</thumbnail>
+		<title>Plasma Mega Chase</title>
+		<creator>Honest Kenneth Saber</creator>
+		<relatedgames/>
+	</game>
+	<game id="17396080" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pleasant/Margaret/Dogfish/17396080.jpg
+		</thumbnail>
+		<title>Alien Mega Danger</title>
+		<creator>Pleasant Margaret Dogfish</creator>
+		<relatedgames/>
+	</game>
+	<game id="17417389" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strong/Matthew/Fez/17417389.jpg
+		</thumbnail>
+		<title>Battle Blaster Titan</title>
+		<creator>Strong Matthew Fez</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Yellow/Aaron/Mango/10920049.jpg
+		</thumbnail>
+		<title>Invasion Adventure Rustbucket</title>
+		<creator>Yellow Aaron Mango</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924271" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Jeremy/Tractor/10924271.jpg
+		</thumbnail>
+		<title>Gear Gear Robot</title>
+		<creator>Chilly Jeremy Tractor</creator>
+		<relatedgames/>
+	</game>
+	<game id="10950785" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fragrant/Dudley/Fritter/10950785.jpg
+		</thumbnail>
+		<title>Laser Rocket Streak</title>
+		<creator>Fragrant Dudley Fritter</creator>
+		<relatedgames/>
+	</game>
+	<game id="17309781" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pleasant/Alan/Gamer/17309781.jpg
+		</thumbnail>
+		<title>Razor Jetray Laser</title>
+		<creator>Pleasant Alan Gamer</creator>
+		<relatedgames/>
+	</game>
+	<game id="17378888" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Major/Alan/Cartoon/17378888.jpg
+		</thumbnail>
+		<title>Ultra Laser Battle</title>
+		<creator>Major Alan Cartoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038578" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Witty/Wes/Grouch/10038578.jpg
+		</thumbnail>
+		<title>Warrior Hero Warrior</title>
+		<creator>Witty Wes Grouch</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

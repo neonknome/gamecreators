@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10930549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humble/Jackson/Blade/10930549.jpg
+		</thumbnail>
+		<title>Danger Fire Hero</title>
+		<creator>Humble Jackson Blade</creator>
+		<relatedgames/>
+	</game>
+	<game id="17244101" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Prince/Dan/Galaxy/17244101.jpg
+		</thumbnail>
+		<title>Ultimate Quake Mission</title>
+		<creator>Prince Dan Galaxy</creator>
+		<relatedgames/>
+	</game>
+	<game id="17013199" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Super/Shnitzel/Aviator/17013199.jpg
+		</thumbnail>
+		<title>Fury Techno Alien</title>
+		<creator>Super Shnitzel Aviator</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952853" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zippy/Bubba/Planet/10952853.jpg
+		</thumbnail>
+		<title>Thunder Animo Sonic</title>
+		<creator>Zippy Bubba Planet</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920479" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Joey/Wizard/10920479.jpg
+		</thumbnail>
+		<title>Rocket Clash Battle</title>
+		<creator>Colossal Joey Wizard</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923281" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frosty/Zoe/Planet/10923281.jpg
+		</thumbnail>
+		<title>Battle Shadow Ambush</title>
+		<creator>Frosty Zoe Planet</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916785" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Splendid/Igor/Rutabaga/10916785.jpg
+		</thumbnail>
+		<title>Rocket Adventure Champion</title>
+		<creator>Splendid Igor Rutabaga</creator>
+		<relatedgames/>
+	</game>
+	<game id="16844411" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Amusing/Rex/Python/16844411.jpg
+		</thumbnail>
+		<title>Mega Hex Star</title>
+		<creator>Amusing Rex Python</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927951" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Feisty/Pearl/Hambone/10927951.jpg
+		</thumbnail>
+		<title>Turbo Alien Adventure</title>
+		<creator>Feisty Pearl Hambone</creator>
+		<relatedgames/>
+	</game>
+	<game id="17391876" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Doctor/Makayla/Atlas/17391876.jpg
+		</thumbnail>
+		<title>Breaker Warrior Star</title>
+		<creator>Doctor Makayla Atlas</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

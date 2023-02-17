@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17417580" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Alyssa/Javelin/17417580.jpg
+		</thumbnail>
+		<title>Search Techno Animo</title>
+		<creator>Queen Alyssa Javelin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10946927" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grand/Mariah/Flipper/10946927.jpg
+		</thumbnail>
+		<title>Atomic Assault Mission</title>
+		<creator>Grand Mariah Flipper</creator>
+		<relatedgames/>
+	</game>
+	<game id="17420645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Smart/Marco/Aardvark/17420645.jpg
+		</thumbnail>
+		<title>Warrior Rumble Fury</title>
+		<creator>Smart Marco Aardvark</creator>
+		<relatedgames/>
+	</game>
+	<game id="17362230" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reckless/Igor/Cupcake/17362230.jpg
+		</thumbnail>
+		<title>Space Metal Assault</title>
+		<creator>Reckless Igor Cupcake</creator>
+		<relatedgames/>
+	</game>
+	<game id="17390861" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Evil/Jeremy/Nacho/17390861.jpg
+		</thumbnail>
+		<title>Big Chill Mission</title>
+		<creator>Evil Jeremy Nacho</creator>
+		<relatedgames/>
+	</game>
+	<game id="10015515" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Alien/Nathan/Parallax/10015515.jpg
+		</thumbnail>
+		<title>Techno Laser Invasion</title>
+		<creator>Alien Nathan Parallax</creator>
+		<relatedgames/>
+	</game>
+	<game id="17292491" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dandy/Penny/Minotaur/17292491.jpg
+		</thumbnail>
+		<title>Clash Invasion Ultimate</title>
+		<creator>Dandy Penny Minotaur</creator>
+		<relatedgames/>
+	</game>
+	<game id="17293112" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gorgeous/Nicole/Presto/17293112.jpg
+		</thumbnail>
+		<title>Rescue Razor Water</title>
+		<creator>Gorgeous Nicole Presto</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924748" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nimble/Bobo/Iguana/10924748.jpg
+		</thumbnail>
+		<title>Battle Escape Light</title>
+		<creator>Nimble Bobo Iguana</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933522" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fearless/Erik/Mummy/10933522.jpg
+		</thumbnail>
+		<title>Swampfire Ambush Rampage</title>
+		<creator>Fearless Erik Mummy</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

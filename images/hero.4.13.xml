@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10059207" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Generous/Medusa/Lard/10059207.jpg
+		</thumbnail>
+		<title>Shadow Alien Rescue</title>
+		<creator>Generous Medusa Lard</creator>
+		<relatedgames/>
+	</game>
+	<game id="10706149" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shrewd/Leah/Acrobat/10706149.jpg
+		</thumbnail>
+		<title>Attack Shadow Smash</title>
+		<creator>Shrewd Leah Acrobat</creator>
+		<relatedgames/>
+	</game>
+	<game id="17257125" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Faith/Camel/17257125.jpg
+		</thumbnail>
+		<title>Vilgax Chase Galaxy</title>
+		<creator>Barbaric Faith Camel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10032562" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Sleepy/Robby/Cobra/10032562.jpg
+		</thumbnail>
+		<title>Challenge Ultra Nano</title>
+		<creator>Sleepy Robby Cobra</creator>
+		<relatedgames/>
+	</game>
+	<game id="17014566" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Generous/Carter/Bazooka/17014566.jpg
+		</thumbnail>
+		<title>Stone Rescue Razor</title>
+		<creator>Generous Carter Bazooka</creator>
+		<relatedgames/>
+	</game>
+	<game id="17334339" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Enormous/Lucius/Anvil/17334339.jpg
+		</thumbnail>
+		<title>Chill Ambush Fusion</title>
+		<creator>Enormous Lucius Anvil</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916923" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gloomy/Heidi/Charger/10916923.jpg
+		</thumbnail>
+		<title>Adventure Atomic Spike</title>
+		<creator>Gloomy Heidi Charger</creator>
+		<relatedgames/>
+	</game>
+	<game id="17135325" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nautical/Diego/Bonanza/17135325.jpg
+		</thumbnail>
+		<title>Rampage Hyper Adventure</title>
+		<creator>Nautical Diego Bonanza</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916779" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Skinny/Jacob/Bullfrog/10916779.jpg
+		</thumbnail>
+		<title>Titan Doom Nova</title>
+		<creator>Skinny Jacob Bullfrog</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952785" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Absurd/Carol/Mustang/10952785.jpg
+		</thumbnail>
+		<title>Power Blaster Universe</title>
+		<creator>Absurd Carol Mustang</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

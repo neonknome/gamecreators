@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17078645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Captain/Waldo/Samurai/17078645.jpg
+		</thumbnail>
+		<title>Challenge Quake Crusher</title>
+		<creator>Captain Waldo Samurai</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918517" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stylish/Matthew/Acrobat/10918517.jpg
+		</thumbnail>
+		<title>Iron Challenge Chase</title>
+		<creator>Stylish Matthew Acrobat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10934445" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Clever/Avery/Coconut/10934445.jpg
+		</thumbnail>
+		<title>Animo Power Robot</title>
+		<creator>Clever Avery Coconut</creator>
+		<relatedgames/>
+	</game>
+	<game id="17388599" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Luminous/Brooke/Shogun/17388599.jpg
+		</thumbnail>
+		<title>Ultimate Steel Warrior</title>
+		<creator>Luminous Brooke Shogun</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952796" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Plucky/Larry/Crowbar/10952796.jpg
+		</thumbnail>
+		<title>Search Rocket Pursuit</title>
+		<creator>Plucky Larry Crowbar</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Zeus/Daffodil/10916921.jpg
+		</thumbnail>
+		<title>Crusher Plumber Force</title>
+		<creator>Chilly Zeus Daffodil</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952867" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frantic/Chester/Walrus/10952867.jpg
+		</thumbnail>
+		<title>Search Nova Champion</title>
+		<creator>Frantic Chester Walrus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10944444" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fuzzy/Alan/Sprinkle/10944444.jpg
+		</thumbnail>
+		<title>Mission Champion Galaxy</title>
+		<creator>Fuzzy Alan Sprinkle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10934549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shaggy/Jeff/Gullet/10934549.jpg
+		</thumbnail>
+		<title>Swampfire Rush Plasma</title>
+		<creator>Shaggy Jeff Gullet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17574180" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wondrous/Rigby/Samurai/17574180.jpg
+		</thumbnail>
+		<title>Brainstorm Galaxy Fusion</title>
+		<creator>Wondrous Rigby Samurai</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

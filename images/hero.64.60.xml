@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10921591" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Majestic/Mario/Sawtooth/10921591.jpg
+		</thumbnail>
+		<title>Dark Adventure Drone</title>
+		<creator>Majestic Mario Sawtooth</creator>
+		<relatedgames/>
+	</game>
+	<game id="16837718" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Witty/Dean/Giblets/16837718.jpg
+		</thumbnail>
+		<title>Nitro Mission Atomic</title>
+		<creator>Witty Dean Giblets</creator>
+		<relatedgames/>
+	</game>
+	<game id="17383531" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Princess/Melanie/Penguin/17383531.jpg
+		</thumbnail>
+		<title>Battle Chill Search</title>
+		<creator>Princess Melanie Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Surreal/Grace/Flypaper/10924687.jpg
+		</thumbnail>
+		<title>Clash Alien Adventure</title>
+		<creator>Surreal Grace Flypaper</creator>
+		<relatedgames/>
+	</game>
+	<game id="10649815" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zippy/Sarah/Tuxedo/10649815.jpg
+		</thumbnail>
+		<title>Storm Robot Adventure</title>
+		<creator>Zippy Sarah Tuxedo</creator>
+		<relatedgames/>
+	</game>
+	<game id="16900941" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Comical/Ariana/Brine/16900941.jpg
+		</thumbnail>
+		<title>Rocket Quake Smash</title>
+		<creator>Comical Ariana Brine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925842" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frugal/Sean/Volcano/10925842.jpg
+		</thumbnail>
+		<title>Swampfire Doom Adventure</title>
+		<creator>Frugal Sean Volcano</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Majestic/Adam/Bolt/10918878.jpg
+		</thumbnail>
+		<title>Blaster Ambush Assault</title>
+		<creator>Majestic Adam Bolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="17244101" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Prince/Dan/Galaxy/17244101.jpg
+		</thumbnail>
+		<title>Ultimate Quake Mission</title>
+		<creator>Prince Dan Galaxy</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920479" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Joey/Wizard/10920479.jpg
+		</thumbnail>
+		<title>Rocket Clash Battle</title>
+		<creator>Colossal Joey Wizard</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

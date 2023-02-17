@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17322959" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Arthur/Cyborg/17322959.jpg
+		</thumbnail>
+		<title>Jetray Slam Assault</title>
+		<creator>Colossal Arthur Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="17233967" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baron/Felipe/Nova/17233967.jpg
+		</thumbnail>
+		<title>Techno Cosmic Slam</title>
+		<creator>Baron Felipe Nova</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933066" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Powerful/Juan/Eggplant/10933066.jpg
+		</thumbnail>
+		<title>Slam Rush Laser</title>
+		<creator>Powerful Juan Eggplant</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924623" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Purple/Thor/Thorax/10924623.jpg
+		</thumbnail>
+		<title>Pulse Atomic Target</title>
+		<creator>Purple Thor Thorax</creator>
+		<relatedgames/>
+	</game>
+	<game id="17362289" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ticklish/Dylan/Steel/17362289.jpg
+		</thumbnail>
+		<title>Ultra Thunder Mission</title>
+		<creator>Ticklish Dylan Steel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10044001" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Crafty/Hunter/Iguana/10044001.jpg
+		</thumbnail>
+		<title>Chase Challenge Rampage</title>
+		<creator>Crafty Hunter Iguana</creator>
+		<relatedgames/>
+	</game>
+	<game id="17286369" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/General/Alvin/Wiffle/17286369.jpg
+		</thumbnail>
+		<title>Ultimate Vilgax Battle</title>
+		<creator>General Alvin Wiffle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922797" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Purple/Kevin/Penguin/10922797.jpg
+		</thumbnail>
+		<title>Energy Lightning Galaxy</title>
+		<creator>Purple Kevin Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="17156444" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Athletic/Carl/Fathom/17156444.jpg
+		</thumbnail>
+		<title>Rescue Adventure Turbo</title>
+		<creator>Athletic Carl Fathom</creator>
+		<relatedgames/>
+	</game>
+	<game id="17336082" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grubby/Clyde/Glop/17336082.jpg
+		</thumbnail>
+		<title>Big Turbo Rush</title>
+		<creator>Grubby Clyde Glop</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

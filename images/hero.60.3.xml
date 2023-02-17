@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17378211" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Snappy/Sherman/Noodle/17378211.jpg
+		</thumbnail>
+		<title>Swampfire Alien Adventure</title>
+		<creator>Snappy Sherman Noodle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17417708" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Friendly/Felix/Dodo/17417708.jpg
+		</thumbnail>
+		<title>Echo Echo Cannonbolt</title>
+		<creator>Friendly Felix Dodo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17383792" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magical/Otis/Vitamin/17383792.jpg
+		</thumbnail>
+		<title>Vilgax Alien Universe</title>
+		<creator>Magical Otis Vitamin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10948918" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Savage/Gavin/Frost/10948918.jpg
+		</thumbnail>
+		<title>Rumble Mission Champion</title>
+		<creator>Savage Gavin Frost</creator>
+		<relatedgames/>
+	</game>
+	<game id="10937150" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Western/Tommy/Starfish/10937150.jpg
+		</thumbnail>
+		<title>Fusion Razor Light</title>
+		<creator>Western Tommy Starfish</creator>
+		<relatedgames/>
+	</game>
+	<game id="17370463" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Positive/Adam/Cinnamon/17370463.jpg
+		</thumbnail>
+		<title>Atomic Iron Defense</title>
+		<creator>Positive Adam Cinnamon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933602" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dreadful/Joshua/Techno/10933602.jpg
+		</thumbnail>
+		<title>Swampfire Ultimate Chase</title>
+		<creator>Dreadful Joshua Techno</creator>
+		<relatedgames/>
+	</game>
+	<game id="10934445" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Clever/Avery/Coconut/10934445.jpg
+		</thumbnail>
+		<title>Animo Power Robot</title>
+		<creator>Clever Avery Coconut</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916670" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frantic/Spike/Cobweb/10916670.jpg
+		</thumbnail>
+		<title>Ambush Turbo Racer</title>
+		<creator>Frantic Spike Cobweb</creator>
+		<relatedgames/>
+	</game>
+	<game id="17392032" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Edgy/Cody/Reptile/17392032.jpg
+		</thumbnail>
+		<title>Fusion Burst Force</title>
+		<creator>Edgy Cody Reptile</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

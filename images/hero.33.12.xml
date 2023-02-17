@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16960561" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hardy/Rosetta/Rhyme/16960561.jpg
+		</thumbnail>
+		<title>Ben Laser Attack</title>
+		<creator>Hardy Rosetta Rhyme</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Freaky/Aaron/Maestro/10951878.jpg
+		</thumbnail>
+		<title>Giga Beast Ambush</title>
+		<creator>Freaky Aaron Maestro</creator>
+		<relatedgames/>
+	</game>
+	<game id="17221993" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Savage/Alvin/Fang/17221993.jpg
+		</thumbnail>
+		<title>Escape Ultimate Rush</title>
+		<creator>Savage Alvin Fang</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919808" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Atomic/Raymond/Chipmunk/10919808.jpg
+		</thumbnail>
+		<title>Energy Slam Space</title>
+		<creator>Atomic Raymond Chipmunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926076" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jolly/Raymond/Sunshine/10926076.jpg
+		</thumbnail>
+		<title>Drone Plasma Metal</title>
+		<creator>Jolly Raymond Sunshine</creator>
+		<relatedgames/>
+	</game>
+	<game id="17315171" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Rational/Bobo/Orca/17315171.jpg
+		</thumbnail>
+		<title>Slam Attack Galaxy</title>
+		<creator>Rational Bobo Orca</creator>
+		<relatedgames/>
+	</game>
+	<game id="17284536" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ultimate/Newton/Dragoon/17284536.jpg
+		</thumbnail>
+		<title>Dark Alien Storm</title>
+		<creator>Ultimate Newton Dragoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17325012" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cute/Rufus/Droid/17325012.jpg
+		</thumbnail>
+		<title>Danger Chill Doom</title>
+		<creator>Cute Rufus Droid</creator>
+		<relatedgames/>
+	</game>
+	<game id="17371687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radical/Alvin/Catapult/17371687.jpg
+		</thumbnail>
+		<title>Ultimate Pulse Lightning</title>
+		<creator>Radical Alvin Catapult</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927896" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Don/Penguin/10927896.jpg
+		</thumbnail>
+		<title>Power Turbo Swampfire</title>
+		<creator>Alien Don Penguin</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

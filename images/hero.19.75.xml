@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17314265" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baron/Jack/Bayou/17314265.jpg
+		</thumbnail>
+		<title>Alien Nano Chase</title>
+		<creator>Baron Jack Bayou</creator>
+		<relatedgames/>
+	</game>
+	<game id="17278985" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Electric/Colton/Warrior/17278985.jpg
+		</thumbnail>
+		<title>Jetray Nitro Droid</title>
+		<creator>Electric Colton Warrior</creator>
+		<relatedgames/>
+	</game>
+	<game id="10040939" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Howling/Evelyn/Bullfrog/10040939.jpg
+		</thumbnail>
+		<title>Star Ben Shock</title>
+		<creator>Howling Evelyn Bullfrog</creator>
+		<relatedgames/>
+	</game>
+	<game id="10059207" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Generous/Medusa/Lard/10059207.jpg
+		</thumbnail>
+		<title>Shadow Alien Rescue</title>
+		<creator>Generous Medusa Lard</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925366" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mighty/Timothy/Mummy/10925366.jpg
+		</thumbnail>
+		<title>Swampfire Plasma Rampage</title>
+		<creator>Mighty Timothy Mummy</creator>
+		<relatedgames/>
+	</game>
+	<game id="10706149" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shrewd/Leah/Acrobat/10706149.jpg
+		</thumbnail>
+		<title>Attack Shadow Smash</title>
+		<creator>Shrewd Leah Acrobat</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404212" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Luke/Stampede/17404212.jpg
+		</thumbnail>
+		<title>Pulse Adventure Shadow</title>
+		<creator>Zany Luke Stampede</creator>
+		<relatedgames/>
+	</game>
+	<game id="17347123" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ticklish/Lancelot/Starfish/17347123.jpg
+		</thumbnail>
+		<title>Smash Atomic Mission</title>
+		<creator>Ticklish Lancelot Starfish</creator>
+		<relatedgames/>
+	</game>
+	<game id="17257125" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Faith/Camel/17257125.jpg
+		</thumbnail>
+		<title>Vilgax Chase Galaxy</title>
+		<creator>Barbaric Faith Camel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10947411" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Absurd/Victor/Charger/10947411.jpg
+		</thumbnail>
+		<title>Alien Shock Rescue</title>
+		<creator>Absurd Victor Charger</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17400821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Venomous/Buster/Tarragon/17400821.jpg
+		</thumbnail>
+		<title>Giga Techno Big</title>
+		<creator>Venomous Buster Tarragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916890" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Billy/Glacier/10916890.jpg
+		</thumbnail>
+		<title>Quake Robot Pursuit</title>
+		<creator>Dashing Billy Glacier</creator>
+		<relatedgames/>
+	</game>
+	<game id="17389503" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Lanky/Flint/Gorgon/17389503.jpg
+		</thumbnail>
+		<title>Stone Nova Star</title>
+		<creator>Lanky Flint Gorgon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10649584" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Rudolph/Spider/10649584.jpg
+		</thumbnail>
+		<title>Pursuit Alien Attack</title>
+		<creator>Red Rudolph Spider</creator>
+		<relatedgames/>
+	</game>
+	<game id="17107636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ancient/Sean/Pizza/17107636.jpg
+		</thumbnail>
+		<title>Metal Doom Escape</title>
+		<creator>Ancient Sean Pizza</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918078" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Will/Safari/10918078.jpg
+		</thumbnail>
+		<title>Solar Dark Fire</title>
+		<creator>Daring Will Safari</creator>
+		<relatedgames/>
+	</game>
+	<game id="10706482" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Green/Cody/Fathom/10706482.jpg
+		</thumbnail>
+		<title>Atomic Swampfire Mission</title>
+		<creator>Green Cody Fathom</creator>
+		<relatedgames/>
+	</game>
+	<game id="16965399" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Feral/Andrew/Mustang/16965399.jpg
+		</thumbnail>
+		<title>Humongousaur Assault Blaster</title>
+		<creator>Feral Andrew Mustang</creator>
+		<relatedgames/>
+	</game>
+	<game id="10706022" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Hunter/Slurp/10706022.jpg
+		</thumbnail>
+		<title>Target Rock Droid</title>
+		<creator>Red Hunter Slurp</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928370" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Handsome/Jeffrey/Aardvark/10928370.jpg
+		</thumbnail>
+		<title>Blaster Slam Razor</title>
+		<creator>Handsome Jeffrey Aardvark</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

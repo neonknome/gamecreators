@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10059235" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Purple/Patrick/Amethyst/10059235.jpg
+		</thumbnail>
+		<title>Charge Alien Streak</title>
+		<creator>Purple Patrick Amethyst</creator>
+		<relatedgames/>
+	</game>
+	<game id="17377059" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tall/Casey/Bingo/17377059.jpg
+		</thumbnail>
+		<title>Solar Fusion Sonic</title>
+		<creator>Tall Casey Bingo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17410111" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grubby/Doug/Tsunami/17410111.jpg
+		</thumbnail>
+		<title>Battle Fire Earth</title>
+		<creator>Grubby Doug Tsunami</creator>
+		<relatedgames/>
+	</game>
+	<game id="10033502" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Northern/Oscar/Vampire/10033502.jpg
+		</thumbnail>
+		<title>Sonic Attack Quake</title>
+		<creator>Northern Oscar Vampire</creator>
+		<relatedgames/>
+	</game>
+	<game id="17415976" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Speedy/Finn/Steel/17415976.jpg
+		</thumbnail>
+		<title>Ultimate Cannonbolt Invasion</title>
+		<creator>Speedy Finn Steel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17574763" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bumbling/Andy/Zinger/17574763.jpg
+		</thumbnail>
+		<title>Drone Rampage Smash</title>
+		<creator>Bumbling Andy Zinger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953226" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fanciful/Xerxes/Aardvark/10953226.jpg
+		</thumbnail>
+		<title>Mission Streak Solar</title>
+		<creator>Fanciful Xerxes Aardvark</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921966" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artistic/Mario/Shark/10921966.jpg
+		</thumbnail>
+		<title>Ultimate Spike Adventure</title>
+		<creator>Artistic Mario Shark</creator>
+		<relatedgames/>
+	</game>
+	<game id="10649889" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grouchy/Brittany/Fury/10649889.jpg
+		</thumbnail>
+		<title>Gear Mission Robot</title>
+		<creator>Grouchy Brittany Fury</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923851" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Normal/Scooter/Squish/10923851.jpg
+		</thumbnail>
+		<title>Patrol Chase Plasma</title>
+		<creator>Normal Scooter Squish</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

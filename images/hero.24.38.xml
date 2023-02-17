@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10026204" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Clever/Erik/Zip/10026204.jpg
+		</thumbnail>
+		<title>Thunder Doom Defense</title>
+		<creator>Clever Erik Zip</creator>
+		<relatedgames/>
+	</game>
+	<game id="17256921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Freakish/Paul/Neptune/17256921.jpg
+		</thumbnail>
+		<title>Ultra Gear Hex</title>
+		<creator>Freakish Paul Neptune</creator>
+		<relatedgames/>
+	</game>
+	<game id="17408671" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Popular/Brayden/Spleen/17408671.jpg
+		</thumbnail>
+		<title>Stone Siege Laser</title>
+		<creator>Popular Brayden Spleen</creator>
+		<relatedgames/>
+	</game>
+	<game id="17422758" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proud/Nate/Foul/17422758.jpg
+		</thumbnail>
+		<title>Cosmic Ambush Adventure</title>
+		<creator>Proud Nate Foul</creator>
+		<relatedgames/>
+	</game>
+	<game id="10057799" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Swift/Vinny/Crater/10057799.jpg
+		</thumbnail>
+		<title>Swampfire Thunder Adventure</title>
+		<creator>Swift Vinny Crater</creator>
+		<relatedgames/>
+	</game>
+	<game id="10028187" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Eastern/Alan/Charger/10028187.jpg
+		</thumbnail>
+		<title>Defense Attack Power</title>
+		<creator>Eastern Alan Charger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924783" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cosmic/Harry/Bongo/10924783.jpg
+		</thumbnail>
+		<title>Force Rustbucket Attack</title>
+		<creator>Cosmic Harry Bongo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922307" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fuzzy/Harry/Droid/10922307.jpg
+		</thumbnail>
+		<title>Fire Attack Power</title>
+		<creator>Fuzzy Harry Droid</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055924" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Proper/Dwight/Mustard/10055924.jpg
+		</thumbnail>
+		<title>Robot Alien Invasion</title>
+		<creator>Proper Dwight Mustard</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921512" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sincere/Victor/Boing/10921512.jpg
+		</thumbnail>
+		<title>Galaxy Mission Rush</title>
+		<creator>Sincere Victor Boing</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10040167" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Honest/Milo/Moonbeam/10040167.jpg
+		</thumbnail>
+		<title>Sonic Pulse Invasion</title>
+		<creator>Honest Milo Moonbeam</creator>
+		<relatedgames/>
+	</game>
+	<game id="17504492" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strong/Wesley/Seagull/17504492.jpg
+		</thumbnail>
+		<title>Burst Blaster Force</title>
+		<creator>Strong Wesley Seagull</creator>
+		<relatedgames/>
+	</game>
+	<game id="10032655" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Massive/Ginger/Phantom/10032655.jpg
+		</thumbnail>
+		<title>Turbo Rock Plasma</title>
+		<creator>Massive Ginger Phantom</creator>
+		<relatedgames/>
+	</game>
+	<game id="17374433" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sharp/Ivan/Flywheel/17374433.jpg
+		</thumbnail>
+		<title>Alien Mega Warrior</title>
+		<creator>Sharp Ivan Flywheel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953076" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Yellow/Owen/Maestro/10953076.jpg
+		</thumbnail>
+		<title>Hero Lightning Rescue</title>
+		<creator>Yellow Owen Maestro</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942924" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jolly/Gretel/Quake/10942924.jpg
+		</thumbnail>
+		<title>Titan Solar Smash</title>
+		<creator>Jolly Gretel Quake</creator>
+		<relatedgames/>
+	</game>
+	<game id="17415515" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radical/Nick/Cutlass/17415515.jpg
+		</thumbnail>
+		<title>Cosmic Rocket Universe</title>
+		<creator>Radical Nick Cutlass</creator>
+		<relatedgames/>
+	</game>
+	<game id="10943083" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Elijah/Fossil/10943083.jpg
+		</thumbnail>
+		<title>Ultimate Shock Magno</title>
+		<creator>Alien Elijah Fossil</creator>
+		<relatedgames/>
+	</game>
+	<game id="17328767" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Curious/Steven/Catapult/17328767.jpg
+		</thumbnail>
+		<title>Adventure Plumber Adventure</title>
+		<creator>Curious Steven Catapult</creator>
+		<relatedgames/>
+	</game>
+	<game id="17365312" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Vigilant/Floyd/Fizz/17365312.jpg
+		</thumbnail>
+		<title>Waterhazard Force Attack</title>
+		<creator>Vigilant Floyd Fizz</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

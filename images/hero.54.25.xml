@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16916886" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awful/Bart/Spark/16916886.jpg
+		</thumbnail>
+		<title>Rush Chill Beast</title>
+		<creator>Awful Bart Spark</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920801" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dynamic/Felix/Gizmo/10920801.jpg
+		</thumbnail>
+		<title>Atomic Cosmic Fusion</title>
+		<creator>Dynamic Felix Gizmo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952504" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Heroic/Danielle/Cobra/10952504.jpg
+		</thumbnail>
+		<title>Escape Fire Patrol</title>
+		<creator>Heroic Danielle Cobra</creator>
+		<relatedgames/>
+	</game>
+	<game id="17380187" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frugal/Ralph/Camel/17380187.jpg
+		</thumbnail>
+		<title>Big Droid Battle</title>
+		<creator>Frugal Ralph Camel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924909" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scurvy/Diana/Haystack/10924909.jpg
+		</thumbnail>
+		<title>Gear Battle Racer</title>
+		<creator>Scurvy Diana Haystack</creator>
+		<relatedgames/>
+	</game>
+	<game id="17337249" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ironic/Ghoul/17337249.jpg
+		</thumbnail>
+		<title>Ultimate Cannonbolt Assault</title>
+		<creator>Ironic Ghoul</creator>
+		<relatedgames/>
+	</game>
+	<game id="17316554" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Rich/Sunshine/17316554.jpg
+		</thumbnail>
+		<title>Rustbucket Techno Robot</title>
+		<creator>Queen Rich Sunshine</creator>
+		<relatedgames/>
+	</game>
+	<game id="9954610" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Red/Jordan/Squawk/9954610.jpg
+		</thumbnail>
+		<title>Drone Stone Ambush</title>
+		<creator>Red Jordan Squawk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10937447" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Valiant/Evan/Varmint/10937447.jpg
+		</thumbnail>
+		<title>Ben Techno Lightning</title>
+		<creator>Valiant Evan Varmint</creator>
+		<relatedgames/>
+	</game>
+	<game id="16993702" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Latoya/Javelin/16993702.jpg
+		</thumbnail>
+		<title>Ben Sonic Siege</title>
+		<creator>Daring Latoya Javelin</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10953287" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crispy/Ben/Bolt/10953287.jpg
+		</thumbnail>
+		<title>Slam Ultimate Beast</title>
+		<creator>Crispy Ben Bolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="17379381" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Extinct/Jay/Dynamite/17379381.jpg
+		</thumbnail>
+		<title>Star Animo Fusion</title>
+		<creator>Extinct Jay Dynamite</creator>
+		<relatedgames/>
+	</game>
+	<game id="17364767" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Naomi/Squeegee/17364767.jpg
+		</thumbnail>
+		<title>Burst Rush Star</title>
+		<creator>Daring Naomi Squeegee</creator>
+		<relatedgames/>
+	</game>
+	<game id="17264863" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Green/Alan/Safari/17264863.jpg
+		</thumbnail>
+		<title>Giga Doom Drone</title>
+		<creator>Green Alan Safari</creator>
+		<relatedgames/>
+	</game>
+	<game id="17228049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Scott/Snake/17228049.jpg
+		</thumbnail>
+		<title>Iron Nano Alien</title>
+		<creator>Zany Scott Snake</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923111" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colorful/Cody/Crash/10923111.jpg
+		</thumbnail>
+		<title>Shock Light Light</title>
+		<creator>Colorful Cody Crash</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038852" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Magnetic/Alan/Blubber/10038852.jpg
+		</thumbnail>
+		<title>Shock Spark Invasion</title>
+		<creator>Magnetic Alan Blubber</creator>
+		<relatedgames/>
+	</game>
+	<game id="17350059" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Positive/Bridget/17350059.jpg
+		</thumbnail>
+		<title>Target Blaster Star</title>
+		<creator>Positive Bridget</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404731" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Clever/Ben/Blade/17404731.jpg
+		</thumbnail>
+		<title>Ultimate Cannonbolt Assault</title>
+		<creator>Clever Ben Blade</creator>
+		<relatedgames/>
+	</game>
+	<game id="17379327" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tall/Clay/Mystery/17379327.jpg
+		</thumbnail>
+		<title>Laser Warrior Adventure</title>
+		<creator>Tall Clay Mystery</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17259079" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Lawrence/Eggplant/17259079.jpg
+		</thumbnail>
+		<title>Cosmic Iron Chill</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames/>
+	</game>
+	<game id="17387237" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elite/Marcus/Balloon/17387237.jpg
+		</thumbnail>
+		<title>Star Slam Space</title>
+		<creator>Elite Marcus Balloon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17505132" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Creative/David/Anvil/17505132.jpg
+		</thumbnail>
+		<title>Mission Chase Smash</title>
+		<creator>Creative David Anvil</creator>
+		<relatedgames/>
+	</game>
+	<game id="10939432" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ghostly/Julia/Planet/10939432.jpg
+		</thumbnail>
+		<title>Ultra Danger Storm</title>
+		<creator>Ghostly Julia Planet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17504961" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Evil/Mario/Gargoyle/17504961.jpg
+		</thumbnail>
+		<title>Giga Storm Blaster</title>
+		<creator>Evil Mario Gargoyle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952447" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sly/Gulliver/Glop/10952447.jpg
+		</thumbnail>
+		<title>Earth Pursuit Nitro</title>
+		<creator>Sly Gulliver Glop</creator>
+		<relatedgames/>
+	</game>
+	<game id="17420517" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Evasive/Ashton/Unicycle/17420517.jpg
+		</thumbnail>
+		<title>Blaster Mission Titan</title>
+		<creator>Evasive Ashton Unicycle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17394571" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Golden/Will/Pyramid/17394571.jpg
+		</thumbnail>
+		<title>Slam Blaster Solar</title>
+		<creator>Golden Will Pyramid</creator>
+		<relatedgames/>
+	</game>
+	<game id="17377498" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nimble/Billy/Flywheel/17377498.jpg
+		</thumbnail>
+		<title>Ambush Smash Challenge</title>
+		<creator>Nimble Billy Flywheel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10706453" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sloppy/Derrick/Blade/10706453.jpg
+		</thumbnail>
+		<title>Rustbucket Rumble Champion</title>
+		<creator>Sloppy Derrick Blade</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

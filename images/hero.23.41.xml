@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10038642" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Artistic/Dominic/Lavender/10038642.jpg
+		</thumbnail>
+		<title>Ultimate Drone Doom</title>
+		<creator>Artistic Dominic Lavender</creator>
+		<relatedgames/>
+	</game>
+	<game id="10943881" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Grover/Fireball/10943881.jpg
+		</thumbnail>
+		<title>Crusher Shock Ben</title>
+		<creator>Dazzling Grover Fireball</creator>
+		<relatedgames/>
+	</game>
+	<game id="16977304" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wily/Sadie/Skeleton/16977304.jpg
+		</thumbnail>
+		<title>Invasion Alien Rush</title>
+		<creator>Wily Sadie Skeleton</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925590" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fizzy/Dominic/Splat/10925590.jpg
+		</thumbnail>
+		<title>Hero Battle Spark</title>
+		<creator>Fizzy Dominic Splat</creator>
+		<relatedgames/>
+	</game>
+	<game id="17562051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dubious/Kevin/Mustard/17562051.jpg
+		</thumbnail>
+		<title>Rampage Swampfire Storm</title>
+		<creator>Dubious Kevin Mustard</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922880" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Squishy/Duncan/Llama/10922880.jpg
+		</thumbnail>
+		<title>Spark Beast Adventure</title>
+		<creator>Squishy Duncan Llama</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953280" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scary/James/Lavender/10953280.jpg
+		</thumbnail>
+		<title>Steel Smash Magno</title>
+		<creator>Scary James Lavender</creator>
+		<relatedgames/>
+	</game>
+	<game id="17028951" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Average/Carlos/Behemoth/17028951.jpg
+		</thumbnail>
+		<title>Slam Attack Mission</title>
+		<creator>Average Carlos Behemoth</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916699" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dreadful/Simon/Dynamite/10916699.jpg
+		</thumbnail>
+		<title>Techno Razor Spark</title>
+		<creator>Dreadful Simon Dynamite</creator>
+		<relatedgames/>
+	</game>
+	<game id="16960561" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hardy/Rosetta/Rhyme/16960561.jpg
+		</thumbnail>
+		<title>Ben Laser Attack</title>
+		<creator>Hardy Rosetta Rhyme</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

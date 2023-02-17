@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10930139" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Yellow/Zelda/Bullfrog/10930139.jpg
+		</thumbnail>
+		<title>Ultra Challenge Storm</title>
+		<creator>Yellow Zelda Bullfrog</creator>
+		<relatedgames/>
+	</game>
+	<game id="16801581" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spectral/Velma/Iceberg/16801581.jpg
+		</thumbnail>
+		<title>Solar Hero Alien</title>
+		<creator>Spectral Velma Iceberg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10050014" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Alien/Hazel/Fishbowl/10050014.jpg
+		</thumbnail>
+		<title>Ultimate Adventure Ambush</title>
+		<creator>Alien Hazel Fishbowl</creator>
+		<relatedgames/>
+	</game>
+	<game id="10864782" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fanciful/Brian/Dragon/10864782.jpg
+		</thumbnail>
+		<title>Universe Rampage Breaker</title>
+		<creator>Fanciful Brian Dragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17386150" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Ellen/Zigzag/17386150.jpg
+		</thumbnail>
+		<title>Ultimate Stone Turbo</title>
+		<creator>Dazzling Ellen Zigzag</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953058" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grizzly/Michael/Pinball/10953058.jpg
+		</thumbnail>
+		<title>Alien Beast Challenge</title>
+		<creator>Grizzly Michael Pinball</creator>
+		<relatedgames/>
+	</game>
+	<game id="17416641" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Normal/Bradley/Dwarf/17416641.jpg
+		</thumbnail>
+		<title>Laser Patrol Water</title>
+		<creator>Normal Bradley Dwarf</creator>
+		<relatedgames/>
+	</game>
+	<game id="17378379" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spectral/Calvin/Android/17378379.jpg
+		</thumbnail>
+		<title>Iron Clash Sonic</title>
+		<creator>Spectral Calvin Android</creator>
+		<relatedgames/>
+	</game>
+	<game id="10706060" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brawny/Chad/Porridge/10706060.jpg
+		</thumbnail>
+		<title>Nova Solar Invasion</title>
+		<creator>Brawny Chad Porridge</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916862" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Squishy/Andrew/Bullfrog/10916862.jpg
+		</thumbnail>
+		<title>Magno Techno Beast</title>
+		<creator>Squishy Andrew Bullfrog</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

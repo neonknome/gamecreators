@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10953226" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fanciful/Xerxes/Aardvark/10953226.jpg
+		</thumbnail>
+		<title>Mission Streak Solar</title>
+		<creator>Fanciful Xerxes Aardvark</creator>
+		<relatedgames/>
+	</game>
+	<game id="16801581" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spectral/Velma/Iceberg/16801581.jpg
+		</thumbnail>
+		<title>Solar Hero Alien</title>
+		<creator>Spectral Velma Iceberg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10050014" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Alien/Hazel/Fishbowl/10050014.jpg
+		</thumbnail>
+		<title>Ultimate Adventure Ambush</title>
+		<creator>Alien Hazel Fishbowl</creator>
+		<relatedgames/>
+	</game>
+	<game id="10934549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shaggy/Jeff/Gullet/10934549.jpg
+		</thumbnail>
+		<title>Swampfire Rush Plasma</title>
+		<creator>Shaggy Jeff Gullet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17574180" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wondrous/Rigby/Samurai/17574180.jpg
+		</thumbnail>
+		<title>Brainstorm Galaxy Fusion</title>
+		<creator>Wondrous Rigby Samurai</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952842" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proper/Brandon/Thud/10952842.jpg
+		</thumbnail>
+		<title>Pursuit Beast Rumble</title>
+		<creator>Proper Brandon Thud</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916795" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eager/Abigail/Turbo/10916795.jpg
+		</thumbnail>
+		<title>Invasion Swampfire Ambush</title>
+		<creator>Eager Abigail Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17383762" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Comical/Jeremiah/Crash/17383762.jpg
+		</thumbnail>
+		<title>Giga Racer Rustbucket</title>
+		<creator>Comical Jeremiah Crash</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951344" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Funny/Jennifer/Sphere/10951344.jpg
+		</thumbnail>
+		<title>Dark Atomic Power</title>
+		<creator>Funny Jennifer Sphere</creator>
+		<relatedgames/>
+	</game>
+	<game id="17352173" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Majestic/Michael/Electron/17352173.jpg
+		</thumbnail>
+		<title>Jetray Cosmic Adventure</title>
+		<creator>Majestic Michael Electron</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17378379" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spectral/Calvin/Android/17378379.jpg
+		</thumbnail>
+		<title>Iron Clash Sonic</title>
+		<creator>Spectral Calvin Android</creator>
+		<relatedgames/>
+	</game>
+	<game id="10056378" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Reliable/Norman/Gazelle/10056378.jpg
+		</thumbnail>
+		<title>Galaxy Fire Breaker</title>
+		<creator>Reliable Norman Gazelle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17000233" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artful/Julia/Mars/17000233.jpg
+		</thumbnail>
+		<title>Adventure Cosmic Alien</title>
+		<creator>Artful Julia Mars</creator>
+		<relatedgames/>
+	</game>
+	<game id="10647354" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Karen/Starfish/10647354.jpg
+		</thumbnail>
+		<title>Challenge Burst Breaker</title>
+		<creator>Dashing Karen Starfish</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927817" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grimy/Blake/Tornado/10927817.jpg
+		</thumbnail>
+		<title>Patrol Energy Magno</title>
+		<creator>Grimy Blake Tornado</creator>
+		<relatedgames/>
+	</game>
+	<game id="10932450" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Happy/Steven/Wizard/10932450.jpg
+		</thumbnail>
+		<title>Champion Patrol Rocket</title>
+		<creator>Happy Steven Wizard</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916765" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spooky/Vinny/Porridge/10916765.jpg
+		</thumbnail>
+		<title>Lightning Hero Danger</title>
+		<creator>Spooky Vinny Porridge</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922703" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Aquatic/Xerxes/Beeswax/10922703.jpg
+		</thumbnail>
+		<title>Assault Solar Assault</title>
+		<creator>Aquatic Xerxes Beeswax</creator>
+		<relatedgames/>
+	</game>
+	<game id="17356919" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sassy/Aaron/Baloney/17356919.jpg
+		</thumbnail>
+		<title>Alien Chase Shock</title>
+		<creator>Sassy Aaron Baloney</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922326" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Atomic/Matthew/Goulash/10922326.jpg
+		</thumbnail>
+		<title>Hyper Battle Crusher</title>
+		<creator>Atomic Matthew Goulash</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

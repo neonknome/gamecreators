@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10039014" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Loopy/Logan/Chimera/10039014.jpg
+		</thumbnail>
+		<title>Mega Fire Slam</title>
+		<creator>Loopy Logan Chimera</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933395" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Robotic/Mandy/Kudzu/10933395.jpg
+		</thumbnail>
+		<title>Ambush Patrol Nova</title>
+		<creator>Robotic Mandy Kudzu</creator>
+		<relatedgames/>
+	</game>
+	<game id="17411673" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Organic/Yvonne/Sprocket/17411673.jpg
+		</thumbnail>
+		<title>Fury Doom Ultra</title>
+		<creator>Organic Yvonne Sprocket</creator>
+		<relatedgames/>
+	</game>
+	<game id="17423485" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wily/Wes/Parallax/17423485.jpg
+		</thumbnail>
+		<title>Thunder Ultra Rampage</title>
+		<creator>Wily Wes Parallax</creator>
+		<relatedgames/>
+	</game>
+	<game id="10042851" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Chaotic/Rob/Pinwheel/10042851.jpg
+		</thumbnail>
+		<title>Ultimate Earth Star</title>
+		<creator>Chaotic Rob Pinwheel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10793389" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fizzy/Irwin/Mustang/10793389.jpg
+		</thumbnail>
+		<title>Blaster Adventure Dark</title>
+		<creator>Fizzy Irwin Mustang</creator>
+		<relatedgames/>
+	</game>
+	<game id="17014783" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Duchess/Cassidy/Fizz/17014783.jpg
+		</thumbnail>
+		<title>Energy Pulse Rescue</title>
+		<creator>Duchess Cassidy Fizz</creator>
+		<relatedgames/>
+	</game>
+	<game id="17578288" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Admiral/Sofia/Mars/17578288.jpg
+		</thumbnail>
+		<title>Echo Adventure Hero</title>
+		<creator>Admiral Sofia Mars</creator>
+		<relatedgames/>
+	</game>
+	<game id="10054722" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Brainy/Otis/Ladybug/10054722.jpg
+		</thumbnail>
+		<title>Thunder Sonic Dark</title>
+		<creator>Brainy Otis Ladybug</creator>
+		<relatedgames/>
+	</game>
+	<game id="17336445" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Expert/Jonathan/Dodo/17336445.jpg
+		</thumbnail>
+		<title>Alien Solar Smash</title>
+		<creator>Expert Jonathan Dodo</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

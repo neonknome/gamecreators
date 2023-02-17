@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16975496" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quiet/Alex/Wolf/16975496.jpg
+		</thumbnail>
+		<title>Dark Nano Power</title>
+		<creator>Quiet Alex Wolf</creator>
+		<relatedgames/>
+	</game>
+	<game id="10063221" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Tricky/Mike/Waffle/10063221.jpg
+		</thumbnail>
+		<title>Adventure Atomic Galaxy</title>
+		<creator>Tricky Mike Waffle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17195393" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Aerobic/Adriana/Galosh/17195393.jpg
+		</thumbnail>
+		<title>Giga Thunder Breaker</title>
+		<creator>Aerobic Adriana Galosh</creator>
+		<relatedgames/>
+	</game>
+	<game id="17054714" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crispy/Marissa/Nanobot/17054714.jpg
+		</thumbnail>
+		<title>Defense Power Star</title>
+		<creator>Crispy Marissa Nanobot</creator>
+		<relatedgames/>
+	</game>
+	<game id="16886469" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ironic/Amanda/Turbo/16886469.jpg
+		</thumbnail>
+		<title>Solar Sonic Slam</title>
+		<creator>Ironic Amanda Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17312994" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Rich/Sunshine/17312994.jpg
+		</thumbnail>
+		<title>Doom Gear Warrior</title>
+		<creator>Queen Rich Sunshine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10058997" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Orange/Isaac/Spider/10058997.jpg
+		</thumbnail>
+		<title>Mission Drone Invasion</title>
+		<creator>Orange Isaac Spider</creator>
+		<relatedgames/>
+	</game>
+	<game id="17331685" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Subtle/Lancelot/Ricochet/17331685.jpg
+		</thumbnail>
+		<title>Hyper Whirlwind Rampage</title>
+		<creator>Subtle Lancelot Ricochet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17364456" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Average/Mike/Pizza/17364456.jpg
+		</thumbnail>
+		<title>Defense Rocket Droid</title>
+		<creator>Average Mike Pizza</creator>
+		<relatedgames/>
+	</game>
+	<game id="10929155" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Isabel/Blade/10929155.jpg
+		</thumbnail>
+		<title>Mega Swampfire Rampage</title>
+		<creator>Zany Isabel Blade</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

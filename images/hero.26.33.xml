@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10066885" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Sincere/Andrew/Monkey/10066885.jpg
+		</thumbnail>
+		<title>Defense Blaster Adventure</title>
+		<creator>Sincere Andrew Monkey</creator>
+		<relatedgames/>
+	</game>
+	<game id="17163650" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quantum/Tanner/Skeleton/17163650.jpg
+		</thumbnail>
+		<title>Galaxy Alien Spark</title>
+		<creator>Quantum Tanner Skeleton</creator>
+		<relatedgames/>
+	</game>
+	<game id="10056052" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Ghastly/Phil/Cyborg/10056052.jpg
+		</thumbnail>
+		<title>Plasma Galaxy Adventure</title>
+		<creator>Ghastly Phil Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="17574176" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Evil/Brandon/Rhombus/17574176.jpg
+		</thumbnail>
+		<title>Rocket Search Siege</title>
+		<creator>Evil Brandon Rhombus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10865542" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gorgeous/Elroy/Iceberg/10865542.jpg
+		</thumbnail>
+		<title>Spark Streak Giga</title>
+		<creator>Gorgeous Elroy Iceberg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sly/Aaron/Goulash/10930921.jpg
+		</thumbnail>
+		<title>Nitro Razor Rampage</title>
+		<creator>Sly Aaron Goulash</creator>
+		<relatedgames/>
+	</game>
+	<game id="17578219" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Rancid/Don/Nova/17578219.jpg
+		</thumbnail>
+		<title>Clash Chill Spidermonkey</title>
+		<creator>Rancid Don Nova</creator>
+		<relatedgames/>
+	</game>
+	<game id="17558739" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bold/Jimmy/Biscuit/17558739.jpg
+		</thumbnail>
+		<title>Omniverse Big Champion</title>
+		<creator>Bold Jimmy Biscuit</creator>
+		<relatedgames/>
+	</game>
+	<game id="17550908" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pleasant/Leah/Jinx/17550908.jpg
+		</thumbnail>
+		<title>Assault Attack Robot</title>
+		<creator>Pleasant Leah Jinx</creator>
+		<relatedgames/>
+	</game>
+	<game id="17334355" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wondrous/Scooby/Creature/17334355.jpg
+		</thumbnail>
+		<title>Alien Dark Ultimate</title>
+		<creator>Wondrous Scooby Creature</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

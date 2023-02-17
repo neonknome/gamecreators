@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17292401" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Lawrence/Eggplant/17292401.jpg
+		</thumbnail>
+		<title>Terraspin Terraspin Terraspin</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames/>
+	</game>
+	<game id="17395565" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Toxic/Rocky/Photon/17395565.jpg
+		</thumbnail>
+		<title>Sonic Big Rocket</title>
+		<creator>Toxic Rocky Photon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927678" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noble/Noah/Gazelle/10927678.jpg
+		</thumbnail>
+		<title>Adventure Hyper Defense</title>
+		<creator>Noble Noah Gazelle</creator>
+		<relatedgames/>
+	</game>
+	<game id="16975152" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Admiral/Ben/Reptile/16975152.jpg
+		</thumbnail>
+		<title>Power Force Universe</title>
+		<creator>Admiral Ben Reptile</creator>
+		<relatedgames/>
+	</game>
+	<game id="17241860" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Creative/Jay/Buffalo/17241860.jpg
+		</thumbnail>
+		<title>Razor Echo Chill</title>
+		<creator>Creative Jay Buffalo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924349" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Unusual/Daniel/Waffle/10924349.jpg
+		</thumbnail>
+		<title>Escape Defense Gear</title>
+		<creator>Unusual Daniel Waffle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918668" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brainy/Logan/Blitz/10918668.jpg
+		</thumbnail>
+		<title>Burst Storm Sonic</title>
+		<creator>Brainy Logan Blitz</creator>
+		<relatedgames/>
+	</game>
+	<game id="10937074" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Infinite/Goliath/Cyborg/10937074.jpg
+		</thumbnail>
+		<title>Spike Robot Pursuit</title>
+		<creator>Infinite Goliath Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10068837" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Jumping/Hannah/Sphinx/10068837.jpg
+		</thumbnail>
+		<title>Cosmic Metal Rampage</title>
+		<creator>Jumping Hannah Sphinx</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925610" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reckless/Hank/Stampede/10925610.jpg
+		</thumbnail>
+		<title>Alien Warrior Adventure</title>
+		<creator>Reckless Hank Stampede</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

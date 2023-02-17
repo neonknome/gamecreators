@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17005665" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Icy/Kristina/Twilight/17005665.jpg
+		</thumbnail>
+		<title>Ben Power Adventure</title>
+		<creator>Icy Kristina Twilight</creator>
+		<relatedgames/>
+	</game>
+	<game id="17275840" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Puzzling/Kristen/Mars/17275840.jpg
+		</thumbnail>
+		<title>Dark Nova Power</title>
+		<creator>Puzzling Kristen Mars</creator>
+		<relatedgames/>
+	</game>
+	<game id="17386226" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Neutral/Pedro/Clone/17386226.jpg
+		</thumbnail>
+		<title>Force Swampfire Alien</title>
+		<creator>Neutral Pedro Clone</creator>
+		<relatedgames/>
+	</game>
+	<game id="17003381" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Academic/Mark/Rebel/17003381.jpg
+		</thumbnail>
+		<title>Challenge Brainstorm Cosmic</title>
+		<creator>Academic Mark Rebel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10056110" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Twisty/Wesley/Clang/10056110.jpg
+		</thumbnail>
+		<title>Beast Attack Galaxy</title>
+		<creator>Twisty Wesley Clang</creator>
+		<relatedgames/>
+	</game>
+	<game id="17012539" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bold/Don/Robot/17012539.jpg
+		</thumbnail>
+		<title>Laser Defense Attack</title>
+		<creator>Bold Don Robot</creator>
+		<relatedgames/>
+	</game>
+	<game id="17220400" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cunning/Sofia/Pinball/17220400.jpg
+		</thumbnail>
+		<title>Earth Pursuit Warrior</title>
+		<creator>Cunning Sofia Pinball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10033985" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Jingling/Gavin/Polliwog/10033985.jpg
+		</thumbnail>
+		<title>Adventure Nano Steel</title>
+		<creator>Jingling Gavin Polliwog</creator>
+		<relatedgames/>
+	</game>
+	<game id="10786966" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radiant/Cynthia/Squeegee/10786966.jpg
+		</thumbnail>
+		<title>Magno Solar Danger</title>
+		<creator>Radiant Cynthia Squeegee</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933814" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Twisty/Douglas/Turbo/10933814.jpg
+		</thumbnail>
+		<title>Mega Mission Shadow</title>
+		<creator>Twisty Douglas Turbo</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

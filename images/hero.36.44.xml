@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17279545" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jumping/Nick/Avocado/17279545.jpg
+		</thumbnail>
+		<title>Power Power Power</title>
+		<creator>Jumping Nick Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933707" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reckless/Jeremy/Monkey/10933707.jpg
+		</thumbnail>
+		<title>Drone Plasma Droid</title>
+		<creator>Reckless Jeremy Monkey</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953547" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Roy/Cinnamon/10953547.jpg
+		</thumbnail>
+		<title>Quake Laser Ultra</title>
+		<creator>Alien Roy Cinnamon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10068680" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dapper/Jada/Cyborg/10068680.jpg
+		</thumbnail>
+		<title>Patrol Nova Nitro</title>
+		<creator>Dapper Jada Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="17552616" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Volcanic/Alvin/Meteor/17552616.jpg
+		</thumbnail>
+		<title>Vilgax Doom Laser</title>
+		<creator>Volcanic Alvin Meteor</creator>
+		<relatedgames/>
+	</game>
+	<game id="17241636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Devious/Benjamin/Phoenix/17241636.jpg
+		</thumbnail>
+		<title>Ultra Warrior Danger</title>
+		<creator>Devious Benjamin Phoenix</creator>
+		<relatedgames/>
+	</game>
+	<game id="17360908" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Speedy/Cole/Fuzz/17360908.jpg
+		</thumbnail>
+		<title>Storm Ultimate Animo</title>
+		<creator>Speedy Cole Fuzz</creator>
+		<relatedgames/>
+	</game>
+	<game id="17373576" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Robotic/Owen/Cobra/17373576.jpg
+		</thumbnail>
+		<title>Animo Rampage Energy</title>
+		<creator>Robotic Owen Cobra</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935324" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Riley/Ketchup/10935324.jpg
+		</thumbnail>
+		<title>Metal Alien Ambush</title>
+		<creator>Humorous Riley Ketchup</creator>
+		<relatedgames/>
+	</game>
+	<game id="17311587" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proper/Kate/Witch/17311587.jpg
+		</thumbnail>
+		<title>Razor Attack Rock</title>
+		<creator>Proper Kate Witch</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

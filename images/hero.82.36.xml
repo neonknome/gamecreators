@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10925264" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Mike/Blubber/10925264.jpg
+		</thumbnail>
+		<title>Fire Ben Nitro</title>
+		<creator>Dazzling Mike Blubber</creator>
+		<relatedgames/>
+	</game>
+	<game id="16907817" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Restless/Oscar/Mumbles/16907817.jpg
+		</thumbnail>
+		<title>Razor Alien Iron</title>
+		<creator>Restless Oscar Mumbles</creator>
+		<relatedgames/>
+	</game>
+	<game id="17013289" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artful/Michael/Ostrich/17013289.jpg
+		</thumbnail>
+		<title>Escape Magno Breaker</title>
+		<creator>Artful Michael Ostrich</creator>
+		<relatedgames/>
+	</game>
+	<game id="10917704" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Trinity/Cobra/10917704.jpg
+		</thumbnail>
+		<title>Adventure Animo Assault</title>
+		<creator>Dashing Trinity Cobra</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953524" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grimy/Zeke/Monkey/10953524.jpg
+		</thumbnail>
+		<title>Ultimate Fury Force</title>
+		<creator>Grimy Zeke Monkey</creator>
+		<relatedgames/>
+	</game>
+	<game id="17302719" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/Jose/Walrus/17302719.jpg
+		</thumbnail>
+		<title>Rocket Siege Nitro</title>
+		<creator>Fiery Jose Walrus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17353438" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hardy/Skips/Knight/17353438.jpg
+		</thumbnail>
+		<title>Robot Alien Ambush</title>
+		<creator>Hardy Skips Knight</creator>
+		<relatedgames/>
+	</game>
+	<game id="17407363" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Adept/Biff/Quark/17407363.jpg
+		</thumbnail>
+		<title>Atomic Earth Plasma</title>
+		<creator>Adept Biff Quark</creator>
+		<relatedgames/>
+	</game>
+	<game id="17214957" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crazy/Payton/Shadow/17214957.jpg
+		</thumbnail>
+		<title>Alien Invasion Breaker</title>
+		<creator>Crazy Payton Shadow</creator>
+		<relatedgames/>
+	</game>
+	<game id="10063345" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Infamous/Florence/Crumpet/10063345.jpg
+		</thumbnail>
+		<title>Adventure Razor Blaster</title>
+		<creator>Infamous Florence Crumpet</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

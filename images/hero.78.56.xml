@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10942111" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fragrant/Cynthia/Ladybug/10942111.jpg
+		</thumbnail>
+		<title>Nano Target Universe</title>
+		<creator>Fragrant Cynthia Ladybug</creator>
+		<relatedgames/>
+	</game>
+	<game id="10059358" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Rowdy/Zachary/Haystack/10059358.jpg
+		</thumbnail>
+		<title>Galaxy Battle Magno</title>
+		<creator>Rowdy Zachary Haystack</creator>
+		<relatedgames/>
+	</game>
+	<game id="17301539" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Athletic/Kaitlin/Dinosaur/17301539.jpg
+		</thumbnail>
+		<title>Waterhazard Adventure Mega</title>
+		<creator>Athletic Kaitlin Dinosaur</creator>
+		<relatedgames/>
+	</game>
+	<game id="17332543" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shaggy/Dominic/Ion/17332543.jpg
+		</thumbnail>
+		<title>Escape Light Adventure</title>
+		<creator>Shaggy Dominic Ion</creator>
+		<relatedgames/>
+	</game>
+	<game id="10950423" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awful/Brittney/Amethyst/10950423.jpg
+		</thumbnail>
+		<title>Robot Force Thunder</title>
+		<creator>Awful Brittney Amethyst</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038161" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dynamic/Matt/Aardvark/10038161.jpg
+		</thumbnail>
+		<title>Warrior Ultra Laser</title>
+		<creator>Dynamic Matt Aardvark</creator>
+		<relatedgames/>
+	</game>
+	<game id="10748430" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Heroic/Igor/Barnacle/10748430.jpg
+		</thumbnail>
+		<title>Champion Danger Alien</title>
+		<creator>Heroic Igor Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17345648" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Agile/Hannah/Balloon/17345648.jpg
+		</thumbnail>
+		<title>Magno Ben Hex</title>
+		<creator>Agile Hannah Balloon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10045066" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Crispy/Wilma/Turbo/10045066.jpg
+		</thumbnail>
+		<title>Rock Rustbucket Rustbucket</title>
+		<creator>Crispy Wilma Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17223749" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quick/Chuck/Cobweb/17223749.jpg
+		</thumbnail>
+		<title>Techno Stone Fusion</title>
+		<creator>Quick Chuck Cobweb</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

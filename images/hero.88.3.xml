@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10931272" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grouchy/Caleb/Atom/10931272.jpg
+		</thumbnail>
+		<title>Nitro Energy Charge</title>
+		<creator>Grouchy Caleb Atom</creator>
+		<relatedgames/>
+	</game>
+	<game id="10061756" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Normal/Tony/Robot/10061756.jpg
+		</thumbnail>
+		<title>Power Plumber Rustbucket</title>
+		<creator>Normal Tony Robot</creator>
+		<relatedgames/>
+	</game>
+	<game id="17386086" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Speedy/Brianna/Beast/17386086.jpg
+		</thumbnail>
+		<title>Adventure Light Energy</title>
+		<creator>Speedy Brianna Beast</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952647" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sincere/Stephen/Magma/10952647.jpg
+		</thumbnail>
+		<title>Cosmic Star Invasion</title>
+		<creator>Sincere Stephen Magma</creator>
+		<relatedgames/>
+	</game>
+	<game id="16945322" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elite/Sam/Catapult/16945322.jpg
+		</thumbnail>
+		<title>Atomic Ambush Assault</title>
+		<creator>Elite Sam Catapult</creator>
+		<relatedgames/>
+	</game>
+	<game id="10934222" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gigantic/Andrew/Tusk/10934222.jpg
+		</thumbnail>
+		<title>Doom Titan Invasion</title>
+		<creator>Gigantic Andrew Tusk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17540239" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mumbling/Kaden/Tarragon/17540239.jpg
+		</thumbnail>
+		<title>Dark Omniverse Charge</title>
+		<creator>Mumbling Kaden Tarragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10066885" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Sincere/Andrew/Monkey/10066885.jpg
+		</thumbnail>
+		<title>Defense Blaster Adventure</title>
+		<creator>Sincere Andrew Monkey</creator>
+		<relatedgames/>
+	</game>
+	<game id="10793298" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bashful/Duncan/Tuxedo/10793298.jpg
+		</thumbnail>
+		<title>Cosmic Assault Plasma</title>
+		<creator>Bashful Duncan Tuxedo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919791" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sly/Wesley/Tiptoe/10919791.jpg
+		</thumbnail>
+		<title>Lightning Energy Invasion</title>
+		<creator>Sly Wesley Tiptoe</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

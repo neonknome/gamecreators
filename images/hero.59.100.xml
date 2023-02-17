@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10927469" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Calvin/Maestro/10927469.jpg
+		</thumbnail>
+		<title>Rush Ultra Racer</title>
+		<creator>Dashing Calvin Maestro</creator>
+		<relatedgames/>
+	</game>
+	<game id="17345413" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grim/Benson/Blizzard/17345413.jpg
+		</thumbnail>
+		<title>Rampage Plasma Rush</title>
+		<creator>Grim Benson Blizzard</creator>
+		<relatedgames/>
+	</game>
+	<game id="17278924" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/Colin/Jungle/17278924.jpg
+		</thumbnail>
+		<title>Alien Ambush Chill</title>
+		<creator>Fiery Colin Jungle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10938438" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Tom/Fritter/10938438.jpg
+		</thumbnail>
+		<title>Pursuit Energy Magno</title>
+		<creator>Red Tom Fritter</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922368" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Aquatic/Dana/Bolt/10922368.jpg
+		</thumbnail>
+		<title>Challenge Battle Battle</title>
+		<creator>Aquatic Dana Bolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926454" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dramatic/Laura/Fishbowl/10926454.jpg
+		</thumbnail>
+		<title>Ultimate Rampage Chase</title>
+		<creator>Dramatic Laura Fishbowl</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928655" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Handsome/Jeffrey/Aardvark/10928655.jpg
+		</thumbnail>
+		<title>Metal Breaker Ultimate</title>
+		<creator>Handsome Jeffrey Aardvark</creator>
+		<relatedgames/>
+	</game>
+	<game id="17386188" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Academic/Oliver/Lemon/17386188.jpg
+		</thumbnail>
+		<title>Fury Vilgax Water</title>
+		<creator>Academic Oliver Lemon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17395975" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cranky/Gregory/Haystack/17395975.jpg
+		</thumbnail>
+		<title>Solar Ambush Whirlwind</title>
+		<creator>Cranky Gregory Haystack</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920342" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Putrid/Tabitha/Cactus/10920342.jpg
+		</thumbnail>
+		<title>Nitro Rush Space</title>
+		<creator>Putrid Tabitha Cactus</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

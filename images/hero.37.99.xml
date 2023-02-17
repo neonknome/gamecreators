@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17126549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jolly/Aiden/Beast/17126549.jpg
+		</thumbnail>
+		<title>Hero Star Rock</title>
+		<creator>Jolly Aiden Beast</creator>
+		<relatedgames/>
+	</game>
+	<game id="17260418" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radiant/Mckenzie/Kungfu/17260418.jpg
+		</thumbnail>
+		<title>Alien Hyper Titan</title>
+		<creator>Radiant Mckenzie Kungfu</creator>
+		<relatedgames/>
+	</game>
+	<game id="16961343" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Normal/Craig/16961343.jpg
+		</thumbnail>
+		<title>Humongousaur Escape Mission</title>
+		<creator>Normal Craig</creator>
+		<relatedgames/>
+	</game>
+	<game id="17136703" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Verbose/Oscar/Glitch/17136703.jpg
+		</thumbnail>
+		<title>Invasion Adventure Rush</title>
+		<creator>Verbose Oscar Glitch</creator>
+		<relatedgames/>
+	</game>
+	<game id="17568465" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brawny/Michael/Dragoon/17568465.jpg
+		</thumbnail>
+		<title>Energy Stone Rocket</title>
+		<creator>Brawny Michael Dragoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10647354" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Karen/Starfish/10647354.jpg
+		</thumbnail>
+		<title>Challenge Burst Breaker</title>
+		<creator>Dashing Karen Starfish</creator>
+		<relatedgames/>
+	</game>
+	<game id="17338102" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/Ichabod/Tiptoe/17338102.jpg
+		</thumbnail>
+		<title>Burst Mega Pursuit</title>
+		<creator>Fiery Ichabod Tiptoe</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919856" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Leaping/Derek/Elf/10919856.jpg
+		</thumbnail>
+		<title>Spark Lightning Warrior</title>
+		<creator>Leaping Derek Elf</creator>
+		<relatedgames/>
+	</game>
+	<game id="17259173" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Regular/Alexis/Crash/17259173.jpg
+		</thumbnail>
+		<title>Alien Slam Thunder</title>
+		<creator>Regular Alexis Crash</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404436" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Vast/Ray/Dynamite/17404436.jpg
+		</thumbnail>
+		<title>Streak Thunder Turbo</title>
+		<creator>Vast Ray Dynamite</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

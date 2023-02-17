@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10038105" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Swift/Breanna/Blitz/10038105.jpg
+		</thumbnail>
+		<title>Doom Plumber Shadow</title>
+		<creator>Swift Breanna Blitz</creator>
+		<relatedgames/>
+	</game>
+	<game id="17343049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spectral/Don/Goblin/17343049.jpg
+		</thumbnail>
+		<title>Hero Burst Invasion</title>
+		<creator>Spectral Don Goblin</creator>
+		<relatedgames/>
+	</game>
+	<game id="17255965" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Restless/Kayla/Vector/17255965.jpg
+		</thumbnail>
+		<title>Nitro Invasion Universe</title>
+		<creator>Restless Kayla Vector</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922399" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brawny/Nathan/Moonbeam/10922399.jpg
+		</thumbnail>
+		<title>Turbo Robot Shock</title>
+		<creator>Brawny Nathan Moonbeam</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922880" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Squishy/Duncan/Llama/10922880.jpg
+		</thumbnail>
+		<title>Spark Beast Adventure</title>
+		<creator>Squishy Duncan Llama</creator>
+		<relatedgames/>
+	</game>
+	<game id="17207527" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artful/Kenny/Gamer/17207527.jpg
+		</thumbnail>
+		<title>Hyper Techno Danger</title>
+		<creator>Artful Kenny Gamer</creator>
+		<relatedgames/>
+	</game>
+	<game id="17389507" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grimy/Zachary/Twilight/17389507.jpg
+		</thumbnail>
+		<title>Shock Shadow Ambush</title>
+		<creator>Grimy Zachary Twilight</creator>
+		<relatedgames/>
+	</game>
+	<game id="16960561" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hardy/Rosetta/Rhyme/16960561.jpg
+		</thumbnail>
+		<title>Ben Laser Attack</title>
+		<creator>Hardy Rosetta Rhyme</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sporty/Daniel/Iceberg/10926636.jpg
+		</thumbnail>
+		<title>Animo Rocket Search</title>
+		<creator>Sporty Daniel Iceberg</creator>
+		<relatedgames/>
+	</game>
+	<game id="16988735" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Captain/Gwen/Viking/16988735.jpg
+		</thumbnail>
+		<title>Escape Atomic Burst</title>
+		<creator>Captain Gwen Viking</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

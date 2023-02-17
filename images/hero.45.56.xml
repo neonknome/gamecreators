@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10943186" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Babbling/Clark/Daffodil/10943186.jpg
+		</thumbnail>
+		<title>Escape Star Clash</title>
+		<creator>Babbling Clark Daffodil</creator>
+		<relatedgames/>
+	</game>
+	<game id="17271206" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Abstract/Hugo/Hambone/17271206.jpg
+		</thumbnail>
+		<title>Spike Stone Energy</title>
+		<creator>Abstract Hugo Hambone</creator>
+		<relatedgames/>
+	</game>
+	<game id="17277603" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eloquent/Parker/Quarry/17277603.jpg
+		</thumbnail>
+		<title>Echo Champion Pulse</title>
+		<creator>Eloquent Parker Quarry</creator>
+		<relatedgames/>
+	</game>
+	<game id="17117134" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Ethel/Pinball/17117134.jpg
+		</thumbnail>
+		<title>Attack Metal Mission</title>
+		<creator>Humorous Ethel Pinball</creator>
+		<relatedgames/>
+	</game>
+	<game id="17503975" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Prolific/Cole/Sprout/17503975.jpg
+		</thumbnail>
+		<title>Rocket Breaker Galaxy</title>
+		<creator>Prolific Cole Sprout</creator>
+		<relatedgames/>
+	</game>
+	<game id="17374738" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Surreal/Mikayla/Ballyhoo/17374738.jpg
+		</thumbnail>
+		<title>Techno Mission Droid</title>
+		<creator>Surreal Mikayla Ballyhoo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17581794" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Musical/Bella/Gizzard/17581794.jpg
+		</thumbnail>
+		<title>Doom Target Patrol</title>
+		<creator>Musical Bella Gizzard</creator>
+		<relatedgames/>
+	</game>
+	<game id="17325121" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Able/Zelda/Platypus/17325121.jpg
+		</thumbnail>
+		<title>Cannonbolt Sonic Adventure</title>
+		<creator>Able Zelda Platypus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17402198" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Comical/CJ/Confetti/17402198.jpg
+		</thumbnail>
+		<title>Shadow Hex Rescue</title>
+		<creator>Comical CJ Confetti</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930625" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Towering/Matthew/Hedgehog/10930625.jpg
+		</thumbnail>
+		<title>Dark Siege Earth</title>
+		<creator>Towering Matthew Hedgehog</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

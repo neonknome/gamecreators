@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16994221" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ornery/Chloe/Iguana/16994221.jpg
+		</thumbnail>
+		<title>Patrol Shadow Dark</title>
+		<creator>Ornery Chloe Iguana</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artistic/Leonardo/Zebra/10953481.jpg
+		</thumbnail>
+		<title>Plasma Robot Fusion</title>
+		<creator>Artistic Leonardo Zebra</creator>
+		<relatedgames/>
+	</game>
+	<game id="10950341" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Reginald/Igloo/10950341.jpg
+		</thumbnail>
+		<title>Blaster Turbo Storm</title>
+		<creator>Dazzling Reginald Igloo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927670" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wise/Chris/Boing/10927670.jpg
+		</thumbnail>
+		<title>Invasion Ultimate Pursuit</title>
+		<creator>Wise Chris Boing</creator>
+		<relatedgames/>
+	</game>
+	<game id="10936068" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fizzy/Kenneth/Cyborg/10936068.jpg
+		</thumbnail>
+		<title>Fire Ambush Assault</title>
+		<creator>Fizzy Kenneth Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tricky/Felix/Pontoon/10916687.jpg
+		</thumbnail>
+		<title>Alien Metal Rock</title>
+		<creator>Tricky Felix Pontoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920432" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bizarre/Scarlett/Catapult/10920432.jpg
+		</thumbnail>
+		<title>Thunder Assault Giga</title>
+		<creator>Bizarre Scarlett Catapult</creator>
+		<relatedgames/>
+	</game>
+	<game id="10946286" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Adorable/Benjamin/Robot/10946286.jpg
+		</thumbnail>
+		<title>Fire Fire Robot</title>
+		<creator>Adorable Benjamin Robot</creator>
+		<relatedgames/>
+	</game>
+	<game id="10043263" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Infinite/Polly/Monster/10043263.jpg
+		</thumbnail>
+		<title>Alien Force Battle</title>
+		<creator>Infinite Polly Monster</creator>
+		<relatedgames/>
+	</game>
+	<game id="17259079" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Lawrence/Eggplant/17259079.jpg
+		</thumbnail>
+		<title>Cosmic Iron Chill</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

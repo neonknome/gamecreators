@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10953231" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Orange/Donald/Pinwheel/10953231.jpg
+		</thumbnail>
+		<title>Ultimate Dark Nano</title>
+		<creator>Orange Donald Pinwheel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924143" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stylish/Katie/Biscuit/10924143.jpg
+		</thumbnail>
+		<title>Hyper Adventure Rescue</title>
+		<creator>Stylish Katie Biscuit</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924601" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Atomic/Vinny/Sawtooth/10924601.jpg
+		</thumbnail>
+		<title>Attack Alien Force</title>
+		<creator>Atomic Vinny Sawtooth</creator>
+		<relatedgames/>
+	</game>
+	<game id="17018925" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Andre/Wolf/17018925.jpg
+		</thumbnail>
+		<title>Clash Water Dark</title>
+		<creator>Zany Andre Wolf</creator>
+		<relatedgames/>
+	</game>
+	<game id="17380207" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Classic/Tanner/Plankton/17380207.jpg
+		</thumbnail>
+		<title>Metal Hyper Champion</title>
+		<creator>Classic Tanner Plankton</creator>
+		<relatedgames/>
+	</game>
+	<game id="10069204" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Lucky/Simon/Droid/10069204.jpg
+		</thumbnail>
+		<title>Nano Hex Giga</title>
+		<creator>Lucky Simon Droid</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926785" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Natasha/Tempest/10926785.jpg
+		</thumbnail>
+		<title>Pursuit Mega Nano</title>
+		<creator>Honest Natasha Tempest</creator>
+		<relatedgames/>
+	</game>
+	<game id="17540856" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Plucky/Drew/Yak/17540856.jpg
+		</thumbnail>
+		<title>Shadow Steel Crusher</title>
+		<creator>Plucky Drew Yak</creator>
+		<relatedgames/>
+	</game>
+	<game id="16902585" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stubborn/Aiden/Beast/16902585.jpg
+		</thumbnail>
+		<title>Atomic Adventure Cosmic</title>
+		<creator>Stubborn Aiden Beast</creator>
+		<relatedgames/>
+	</game>
+	<game id="10938798" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Massive/Hansel/Basilisk/10938798.jpg
+		</thumbnail>
+		<title>Swampfire Galaxy Smash</title>
+		<creator>Massive Hansel Basilisk</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

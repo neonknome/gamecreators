@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17022147" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loony/Ricardo/Quake/17022147.jpg
+		</thumbnail>
+		<title>Adventure Thunder Blaster</title>
+		<creator>Loony Ricardo Quake</creator>
+		<relatedgames/>
+	</game>
+	<game id="17365312" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Vigilant/Floyd/Fizz/17365312.jpg
+		</thumbnail>
+		<title>Waterhazard Force Attack</title>
+		<creator>Vigilant Floyd Fizz</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926706" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Orange/Luis/Fireball/10926706.jpg
+		</thumbnail>
+		<title>Adventure Metal Siege</title>
+		<creator>Orange Luis Fireball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952533" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Squishy/Riley/Doodle/10952533.jpg
+		</thumbnail>
+		<title>Racer Invasion Hero</title>
+		<creator>Squishy Riley Doodle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17291850" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cartoony/Devin/Fiddle/17291850.jpg
+		</thumbnail>
+		<title>Slam Charge Star</title>
+		<creator>Cartoony Devin Fiddle</creator>
+		<relatedgames/>
+	</game>
+	<game id="9954616" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Bashful/Zachary/Porridge/9954616.jpg
+		</thumbnail>
+		<title>Robot Humongousaur Nano</title>
+		<creator>Bashful Zachary Porridge</creator>
+		<relatedgames/>
+	</game>
+	<game id="17387237" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elite/Marcus/Balloon/17387237.jpg
+		</thumbnail>
+		<title>Star Slam Space</title>
+		<creator>Elite Marcus Balloon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10939432" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ghostly/Julia/Planet/10939432.jpg
+		</thumbnail>
+		<title>Ultra Danger Storm</title>
+		<creator>Ghostly Julia Planet</creator>
+		<relatedgames/>
+	</game>
+	<game id="10016036" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Mumbling/Dorothy/Talon/10016036.jpg
+		</thumbnail>
+		<title>Force Ultimate Fire</title>
+		<creator>Mumbling Dorothy Talon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17504961" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Evil/Mario/Gargoyle/17504961.jpg
+		</thumbnail>
+		<title>Giga Storm Blaster</title>
+		<creator>Evil Mario Gargoyle</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

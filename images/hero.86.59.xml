@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10934766" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Savage/Jacob/Pulse/10934766.jpg
+		</thumbnail>
+		<title>Nova Assault Earth</title>
+		<creator>Savage Jacob Pulse</creator>
+		<relatedgames/>
+	</game>
+	<game id="10945458" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Atomic/Zelda/Sardine/10945458.jpg
+		</thumbnail>
+		<title>Sonic Alien Universe</title>
+		<creator>Atomic Zelda Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10058578" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Shiny/Rex/Avocado/10058578.jpg
+		</thumbnail>
+		<title>Energy Drone Dark</title>
+		<creator>Shiny Rex Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="17274858" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Alan/Soldier/17274858.jpg
+		</thumbnail>
+		<title>Waterhazard Battle Fury</title>
+		<creator>Barbaric Alan Soldier</creator>
+		<relatedgames/>
+	</game>
+	<game id="17220310" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Edgy/Sid/Clang/17220310.jpg
+		</thumbnail>
+		<title>Ultra Giga Search</title>
+		<creator>Edgy Sid Clang</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926761" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Scott/Crash/10926761.jpg
+		</thumbnail>
+		<title>Alien Ultra Assault</title>
+		<creator>Honest Scott Crash</creator>
+		<relatedgames/>
+	</game>
+	<game id="16917374" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Galactic/Scarlett/Blast/16917374.jpg
+		</thumbnail>
+		<title>Rocket Burst Adventure</title>
+		<creator>Galactic Scarlett Blast</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928201" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Massive/Joseph/Burst/10928201.jpg
+		</thumbnail>
+		<title>Galaxy Shadow Crusher</title>
+		<creator>Massive Joseph Burst</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919042" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shiny/Baxter/Wombat/10919042.jpg
+		</thumbnail>
+		<title>Nitro Pulse Assault</title>
+		<creator>Shiny Baxter Wombat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930139" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Yellow/Zelda/Bullfrog/10930139.jpg
+		</thumbnail>
+		<title>Ultra Challenge Storm</title>
+		<creator>Yellow Zelda Bullfrog</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16976893" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Grover/Alien/16976893.jpg
+		</thumbnail>
+		<title>Mega Challenge Mission</title>
+		<creator>Barbaric Grover Alien</creator>
+		<relatedgames/>
+	</game>
+	<game id="17389747" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sleepy/William/Tiger/17389747.jpg
+		</thumbnail>
+		<title>Attack Mission Big</title>
+		<creator>Sleepy William Tiger</creator>
+		<relatedgames/>
+	</game>
+	<game id="17333152" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Academic/Edward/Cowboy/17333152.jpg
+		</thumbnail>
+		<title>Ultimate Cannonbolt Rush</title>
+		<creator>Academic Edward Cowboy</creator>
+		<relatedgames/>
+	</game>
+	<game id="16944232" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bogus/Calvin/Baloney/16944232.jpg
+		</thumbnail>
+		<title>Chill Big Assault</title>
+		<creator>Bogus Calvin Baloney</creator>
+		<relatedgames/>
+	</game>
+	<game id="16999418" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hyper/Rex/Minotaur/16999418.jpg
+		</thumbnail>
+		<title>Nano Titan Force</title>
+		<creator>Hyper Rex Minotaur</creator>
+		<relatedgames/>
+	</game>
+	<game id="10058992" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Purple/Peter/Amethyst/10058992.jpg
+		</thumbnail>
+		<title>Hyper Battle Shock</title>
+		<creator>Purple Peter Amethyst</creator>
+		<relatedgames/>
+	</game>
+	<game id="17285330" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Negative/Andy/Atlas/17285330.jpg
+		</thumbnail>
+		<title>Fire Burst Attack</title>
+		<creator>Negative Andy Atlas</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930650" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Absurd/Owen/Dragon/10930650.jpg
+		</thumbnail>
+		<title>Chase Force Power</title>
+		<creator>Absurd Owen Dragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10045430" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Twisty/Bubba/Kazoo/10045430.jpg
+		</thumbnail>
+		<title>Laser Dark Shadow</title>
+		<creator>Twisty Bubba Kazoo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10917007" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Blue/Haley/Bullfrog/10917007.jpg
+		</thumbnail>
+		<title>Laser Turbo Fusion</title>
+		<creator>Blue Haley Bullfrog</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

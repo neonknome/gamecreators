@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10953079" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humble/Daniel/Scorpion/10953079.jpg
+		</thumbnail>
+		<title>Plumber Force Rampage</title>
+		<creator>Humble Daniel Scorpion</creator>
+		<relatedgames/>
+	</game>
+	<game id="16988752" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Prince/Baxter/Horsefly/16988752.jpg
+		</thumbnail>
+		<title>Attack Warrior Ambush</title>
+		<creator>Prince Baxter Horsefly</creator>
+		<relatedgames/>
+	</game>
+	<game id="16950419" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Super/Savannah/Neutron/16950419.jpg
+		</thumbnail>
+		<title>Swampfire Galaxy Rocket</title>
+		<creator>Super Savannah Neutron</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916697" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zippy/Barney/Elephant/10916697.jpg
+		</thumbnail>
+		<title>Beast Rock Thunder</title>
+		<creator>Zippy Barney Elephant</creator>
+		<relatedgames/>
+	</game>
+	<game id="10648224" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Carson/Vampire/10648224.jpg
+		</thumbnail>
+		<title>Humongousaur Hyper Smash</title>
+		<creator>Colossal Carson Vampire</creator>
+		<relatedgames/>
+	</game>
+	<game id="16867305" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baron/Jose/Polka/16867305.jpg
+		</thumbnail>
+		<title>Ultimate Rocket Nano</title>
+		<creator>Baron Jose Polka</creator>
+		<relatedgames/>
+	</game>
+	<game id="10936061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Howling/Faith/Tusk/10936061.jpg
+		</thumbnail>
+		<title>Power Adventure Solar</title>
+		<creator>Howling Faith Tusk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933360" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pretty/Clyde/Minotaur/10933360.jpg
+		</thumbnail>
+		<title>Charge Slam Spike</title>
+		<creator>Pretty Clyde Minotaur</creator>
+		<relatedgames/>
+	</game>
+	<game id="10939640" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Putrid/Tim/Paradox/10939640.jpg
+		</thumbnail>
+		<title>Rocket Robot Robot</title>
+		<creator>Putrid Tim Paradox</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953030" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ticklish/Olivia/Coconut/10953030.jpg
+		</thumbnail>
+		<title>Pursuit Sonic Warrior</title>
+		<creator>Ticklish Olivia Coconut</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

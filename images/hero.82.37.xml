@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17336642" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quaint/Freddy/Oddball/17336642.jpg
+		</thumbnail>
+		<title>Universe Pulse Vilgax</title>
+		<creator>Quaint Freddy Oddball</creator>
+		<relatedgames/>
+	</game>
+	<game id="17034253" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tough/Connor/Sword/17034253.jpg
+		</thumbnail>
+		<title>Chill Ultimate Attack</title>
+		<creator>Tough Connor Sword</creator>
+		<relatedgames/>
+	</game>
+	<game id="10938101" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nimble/Lillian/Robot/10938101.jpg
+		</thumbnail>
+		<title>Swampfire Iron Invasion</title>
+		<creator>Nimble Lillian Robot</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953085" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cranky/Robin/Sardine/10953085.jpg
+		</thumbnail>
+		<title>Earth Slam Shock</title>
+		<creator>Cranky Robin Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="17260921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ultimate/Rocky/Flamingo/17260921.jpg
+		</thumbnail>
+		<title>Spark Titan Siege</title>
+		<creator>Ultimate Rocky Flamingo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17325051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cute/Rufus/Droid/17325051.jpg
+		</thumbnail>
+		<title>Smash Power Techno</title>
+		<creator>Cute Rufus Droid</creator>
+		<relatedgames/>
+	</game>
+	<game id="17370247" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radical/Ed/Chaos/17370247.jpg
+		</thumbnail>
+		<title>Terraspin Energy Rush</title>
+		<creator>Radical Ed Chaos</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Ed/Squawk/10923821.jpg
+		</thumbnail>
+		<title>Swampfire Assault Vilgax</title>
+		<creator>Alien Ed Squawk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17326053" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Curious/Carter/Hornet/17326053.jpg
+		</thumbnail>
+		<title>Ultimate Waterhazard Whirlwind</title>
+		<creator>Curious Carter Hornet</creator>
+		<relatedgames/>
+	</game>
+	<game id="16982684" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Glorious/Rosemary/Sparkle/16982684.jpg
+		</thumbnail>
+		<title>Ambush Spike Plasma</title>
+		<creator>Glorious Rosemary Sparkle</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

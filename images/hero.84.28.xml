@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17569997" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brisk/Aubrey/Camel/17569997.jpg
+		</thumbnail>
+		<title>Hero Rush Alien</title>
+		<creator>Brisk Aubrey Camel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10943881" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Grover/Fireball/10943881.jpg
+		</thumbnail>
+		<title>Crusher Shock Ben</title>
+		<creator>Dazzling Grover Fireball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925590" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fizzy/Dominic/Splat/10925590.jpg
+		</thumbnail>
+		<title>Hero Battle Spark</title>
+		<creator>Fizzy Dominic Splat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951833" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loony/Hunter/Penguin/10951833.jpg
+		</thumbnail>
+		<title>Atomic Adventure Galaxy</title>
+		<creator>Loony Hunter Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="17255965" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Restless/Kayla/Vector/17255965.jpg
+		</thumbnail>
+		<title>Nitro Invasion Universe</title>
+		<creator>Restless Kayla Vector</creator>
+		<relatedgames/>
+	</game>
+	<game id="17585359" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Verbose/Wilt/Bucket/17585359.jpg
+		</thumbnail>
+		<title>Ben Blaster Beast</title>
+		<creator>Verbose Wilt Bucket</creator>
+		<relatedgames/>
+	</game>
+	<game id="10704476" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Orange/Greg/Basilisk/10704476.jpg
+		</thumbnail>
+		<title>Ultimate Warrior Battle</title>
+		<creator>Orange Greg Basilisk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17207527" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artful/Kenny/Gamer/17207527.jpg
+		</thumbnail>
+		<title>Hyper Techno Danger</title>
+		<creator>Artful Kenny Gamer</creator>
+		<relatedgames/>
+	</game>
+	<game id="17261205" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Reuben/Knight/17261205.jpg
+		</thumbnail>
+		<title>Plumber Storm Energy</title>
+		<creator>Dashing Reuben Knight</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935717" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wild/Mike/Squawk/10935717.jpg
+		</thumbnail>
+		<title>Rush Fire Thunder</title>
+		<creator>Wild Mike Squawk</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17387691" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loyal/Juan/Parallax/17387691.jpg
+		</thumbnail>
+		<title>Cannonbolt Metal Mission</title>
+		<creator>Loyal Juan Parallax</creator>
+		<relatedgames/>
+	</game>
+	<game id="17276635" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Roy/Razor/17276635.jpg
+		</thumbnail>
+		<title>Echo Magno Ultra</title>
+		<creator>Roy Razor</creator>
+		<relatedgames/>
+	</game>
+	<game id="17560703" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Volcanic/Veronica/Splat/17560703.jpg
+		</thumbnail>
+		<title>Mega Rocket Chase</title>
+		<creator>Volcanic Veronica Splat</creator>
+		<relatedgames/>
+	</game>
+	<game id="17370479" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Diagonal/Leo/Martian/17370479.jpg
+		</thumbnail>
+		<title>Alien Blaster Hero</title>
+		<creator>Diagonal Leo Martian</creator>
+		<relatedgames/>
+	</game>
+	<game id="10039383" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Gruesome/Justin/Manatee/10039383.jpg
+		</thumbnail>
+		<title>Titan Magno Fire</title>
+		<creator>Gruesome Justin Manatee</creator>
+		<relatedgames/>
+	</game>
+	<game id="17296193" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Stanley/Quake/17296193.jpg
+		</thumbnail>
+		<title>Rocket Danger Nitro</title>
+		<creator>Flying Stanley Quake</creator>
+		<relatedgames/>
+	</game>
+	<game id="10067052" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Rowdy/Betty/Chimera/10067052.jpg
+		</thumbnail>
+		<title>Charge Solar Sonic</title>
+		<creator>Rowdy Betty Chimera</creator>
+		<relatedgames/>
+	</game>
+	<game id="17383696" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Athletic/Calvin/Buffalo/17383696.jpg
+		</thumbnail>
+		<title>Metal Shadow Hex</title>
+		<creator>Athletic Calvin Buffalo</creator>
+		<relatedgames/>
+	</game>
+	<game id="16994396" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sergeant/Leonard/Iceberg/16994396.jpg
+		</thumbnail>
+		<title>Battle Defense Adventure</title>
+		<creator>Sergeant Leonard Iceberg</creator>
+		<relatedgames/>
+	</game>
+	<game id="17564122" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awesome/Xerxes/Dynamite/17564122.jpg
+		</thumbnail>
+		<title>Galaxy Nova Rampage</title>
+		<creator>Awesome Xerxes Dynamite</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

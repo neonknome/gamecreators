@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10918122" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jolly/Jack/Pelican/10918122.jpg
+		</thumbnail>
+		<title>Nano Quake Adventure</title>
+		<creator>Jolly Jack Pelican</creator>
+		<relatedgames/>
+	</game>
+	<game id="17264533" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baffling/Michelle/Shinobi/17264533.jpg
+		</thumbnail>
+		<title>Fire Ben Dark</title>
+		<creator>Baffling Michelle Shinobi</creator>
+		<relatedgames/>
+	</game>
+	<game id="10941646" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eastern/Ace/Mantis/10941646.jpg
+		</thumbnail>
+		<title>Ultra Rumble Universe</title>
+		<creator>Eastern Ace Mantis</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951251" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Joel/Dynamite/10951251.jpg
+		</thumbnail>
+		<title>Mega Space Rumble</title>
+		<creator>Honest Joel Dynamite</creator>
+		<relatedgames/>
+	</game>
+	<game id="10062426" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Massive/Clark/Steam/10062426.jpg
+		</thumbnail>
+		<title>Universe Swampfire Storm</title>
+		<creator>Massive Clark Steam</creator>
+		<relatedgames/>
+	</game>
+	<game id="17372198" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Surreal/Yolanda/Panda/17372198.jpg
+		</thumbnail>
+		<title>Giga Giga Giga</title>
+		<creator>Surreal Yolanda Panda</creator>
+		<relatedgames/>
+	</game>
+	<game id="17395386" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Babbling/Alan/Virtuoso/17395386.jpg
+		</thumbnail>
+		<title>Dark Alien Robot</title>
+		<creator>Babbling Alan Virtuoso</creator>
+		<relatedgames/>
+	</game>
+	<game id="17282201" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Abnormal/Lawrence/Burro/17282201.jpg
+		</thumbnail>
+		<title>Iron Adventure Ben</title>
+		<creator>Abnormal Lawrence Burro</creator>
+		<relatedgames/>
+	</game>
+	<game id="17352173" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Majestic/Michael/Electron/17352173.jpg
+		</thumbnail>
+		<title>Jetray Cosmic Adventure</title>
+		<creator>Majestic Michael Electron</creator>
+		<relatedgames/>
+	</game>
+	<game id="17583724" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Beowulf/Bucket/17583724.jpg
+		</thumbnail>
+		<title>Power Rush Turbo</title>
+		<creator>Humorous Beowulf Bucket</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

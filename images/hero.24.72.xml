@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10924623" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Purple/Thor/Thorax/10924623.jpg
+		</thumbnail>
+		<title>Pulse Atomic Target</title>
+		<creator>Purple Thor Thorax</creator>
+		<relatedgames/>
+	</game>
+	<game id="16982800" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Duke/Funk/16982800.jpg
+		</thumbnail>
+		<title>Pulse Rampage Adventure</title>
+		<creator>Barbaric Duke Funk</creator>
+		<relatedgames/>
+	</game>
+	<game id="16954763" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sleepy/Cameron/Gamer/16954763.jpg
+		</thumbnail>
+		<title>Ultimate Escape Racer</title>
+		<creator>Sleepy Cameron Gamer</creator>
+		<relatedgames/>
+	</game>
+	<game id="10039272" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Loud/Steven/Charger/10039272.jpg
+		</thumbnail>
+		<title>Power Metal Attack</title>
+		<creator>Loud Steven Charger</creator>
+		<relatedgames/>
+	</game>
+	<game id="17552616" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Volcanic/Alvin/Meteor/17552616.jpg
+		</thumbnail>
+		<title>Vilgax Doom Laser</title>
+		<creator>Volcanic Alvin Meteor</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935329" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Burly/Crystal/Fritter/10935329.jpg
+		</thumbnail>
+		<title>Shadow Champion Invasion</title>
+		<creator>Burly Crystal Fritter</creator>
+		<relatedgames/>
+	</game>
+	<game id="17323118" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stout/Herman/Aardvark/17323118.jpg
+		</thumbnail>
+		<title>Lightning Hyper Dark</title>
+		<creator>Stout Herman Aardvark</creator>
+		<relatedgames/>
+	</game>
+	<game id="10020400" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cheerful/Jill/Blubber/10020400.jpg
+		</thumbnail>
+		<title>Gear Warrior Siege</title>
+		<creator>Cheerful Jill Blubber</creator>
+		<relatedgames/>
+	</game>
+	<game id="16995598" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Drake/Sorcerer/16995598.jpg
+		</thumbnail>
+		<title>Charge Alien Clash</title>
+		<creator>Flying Drake Sorcerer</creator>
+		<relatedgames/>
+	</game>
+	<game id="17554265" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loud/Carson/Blob/17554265.jpg
+		</thumbnail>
+		<title>Plumber Nova Stone</title>
+		<creator>Loud Carson Blob</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

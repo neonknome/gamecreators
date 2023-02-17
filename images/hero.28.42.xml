@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10922667" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wise/Edgar/Frost/10922667.jpg
+		</thumbnail>
+		<title>Droid Stone Metal</title>
+		<creator>Wise Edgar Frost</creator>
+		<relatedgames/>
+	</game>
+	<game id="10944185" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Charming/Erin/Steam/10944185.jpg
+		</thumbnail>
+		<title>Spark Fury Escape</title>
+		<creator>Charming Erin Steam</creator>
+		<relatedgames/>
+	</game>
+	<game id="16950419" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Super/Savannah/Neutron/16950419.jpg
+		</thumbnail>
+		<title>Swampfire Galaxy Rocket</title>
+		<creator>Super Savannah Neutron</creator>
+		<relatedgames/>
+	</game>
+	<game id="10648224" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Carson/Vampire/10648224.jpg
+		</thumbnail>
+		<title>Humongousaur Hyper Smash</title>
+		<creator>Colossal Carson Vampire</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953091" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magnetic/Jackie/Turbo/10953091.jpg
+		</thumbnail>
+		<title>Ultimate Earth Rumble</title>
+		<creator>Magnetic Jackie Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933360" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pretty/Clyde/Minotaur/10933360.jpg
+		</thumbnail>
+		<title>Charge Slam Spike</title>
+		<creator>Pretty Clyde Minotaur</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923111" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colorful/Cody/Crash/10923111.jpg
+		</thumbnail>
+		<title>Shock Light Light</title>
+		<creator>Colorful Cody Crash</creator>
+		<relatedgames/>
+	</game>
+	<game id="17419559" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Friendly/Felix/Dodo/17419559.jpg
+		</thumbnail>
+		<title>Stone Hero Laser</title>
+		<creator>Friendly Felix Dodo</creator>
+		<relatedgames/>
+	</game>
+	<game id="16875554" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spirited/Raymond/Moonbeam/16875554.jpg
+		</thumbnail>
+		<title>Alien Adventure Assault</title>
+		<creator>Spirited Raymond Moonbeam</creator>
+		<relatedgames/>
+	</game>
+	<game id="17377392" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Burly/Jacob/Blast/17377392.jpg
+		</thumbnail>
+		<title>Nitro Big Adventure</title>
+		<creator>Burly Jacob Blast</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

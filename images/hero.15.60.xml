@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10953294" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Surreal/William/Fuzz/10953294.jpg
+		</thumbnail>
+		<title>Smash Shadow Crusher</title>
+		<creator>Surreal William Fuzz</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953441" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Comical/Jenna/Funk/10953441.jpg
+		</thumbnail>
+		<title>Attack Hyper Lightning</title>
+		<creator>Comical Jenna Funk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921591" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Majestic/Mario/Sawtooth/10921591.jpg
+		</thumbnail>
+		<title>Dark Adventure Drone</title>
+		<creator>Majestic Mario Sawtooth</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923558" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Benjamin/Ballyhoo/10923558.jpg
+		</thumbnail>
+		<title>Swampfire Hero Adventure</title>
+		<creator>Humorous Benjamin Ballyhoo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17383531" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Princess/Melanie/Penguin/17383531.jpg
+		</thumbnail>
+		<title>Battle Chill Search</title>
+		<creator>Princess Melanie Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="16900941" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Comical/Ariana/Brine/16900941.jpg
+		</thumbnail>
+		<title>Rocket Quake Smash</title>
+		<creator>Comical Ariana Brine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925842" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frugal/Sean/Volcano/10925842.jpg
+		</thumbnail>
+		<title>Swampfire Doom Adventure</title>
+		<creator>Frugal Sean Volcano</creator>
+		<relatedgames/>
+	</game>
+	<game id="17244101" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Prince/Dan/Galaxy/17244101.jpg
+		</thumbnail>
+		<title>Ultimate Quake Mission</title>
+		<creator>Prince Dan Galaxy</creator>
+		<relatedgames/>
+	</game>
+	<game id="17335294" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ghastly/Olive/Cyborg/17335294.jpg
+		</thumbnail>
+		<title>Target Chase Robot</title>
+		<creator>Ghastly Olive Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="17326435" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Silent/Gus/Carousel/17326435.jpg
+		</thumbnail>
+		<title>Spark Patrol Challenge</title>
+		<creator>Silent Gus Carousel</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

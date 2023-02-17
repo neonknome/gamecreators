@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17415976" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Speedy/Finn/Steel/17415976.jpg
+		</thumbnail>
+		<title>Ultimate Cannonbolt Invasion</title>
+		<creator>Speedy Finn Steel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17019676" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Galactic/Luis/Twilight/17019676.jpg
+		</thumbnail>
+		<title>Nano Space Ambush</title>
+		<creator>Galactic Luis Twilight</creator>
+		<relatedgames/>
+	</game>
+	<game id="17177519" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Singular/Egbert/Eel/17177519.jpg
+		</thumbnail>
+		<title>Alien Adventure Adventure</title>
+		<creator>Singular Egbert Eel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17380930" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Emperor/Alex/Sunrise/17380930.jpg
+		</thumbnail>
+		<title>Fusion Big Adventure</title>
+		<creator>Emperor Alex Sunrise</creator>
+		<relatedgames/>
+	</game>
+	<game id="17382087" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Creepy/Richard/Oink/17382087.jpg
+		</thumbnail>
+		<title>Fusion Rescue Drone</title>
+		<creator>Creepy Richard Oink</creator>
+		<relatedgames/>
+	</game>
+	<game id="10937465" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gigantic/Natalie/Marigold/10937465.jpg
+		</thumbnail>
+		<title>Alien Assault Hero</title>
+		<creator>Gigantic Natalie Marigold</creator>
+		<relatedgames/>
+	</game>
+	<game id="17382354" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Musical/Brian/Warrior/17382354.jpg
+		</thumbnail>
+		<title>Turbo Adventure Stone</title>
+		<creator>Musical Brian Warrior</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953330" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sincere/Noah/Barnacle/10953330.jpg
+		</thumbnail>
+		<title>Plumber Attack Ultimate</title>
+		<creator>Sincere Noah Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952497" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Beastly/Amanda/Barnacle/10952497.jpg
+		</thumbnail>
+		<title>Fusion Patrol Quake</title>
+		<creator>Beastly Amanda Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17378211" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Snappy/Sherman/Noodle/17378211.jpg
+		</thumbnail>
+		<title>Swampfire Alien Adventure</title>
+		<creator>Snappy Sherman Noodle</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

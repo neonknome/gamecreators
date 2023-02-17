@@ -1,0 +1,82 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="440596" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="10/26/2010">
+		<thumbnail>
+		</thumbnail>
+		<title>Adventure Alien Warrior</title>
+		<creator>FelipeFuegoA</creator>
+		<relatedgames/>
+	</game>
+	<game id="17217564" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dramatic/Austin/Domino/17217564.jpg
+		</thumbnail>
+		<title>Big Thunder Fury</title>
+		<creator>Dramatic Austin Domino</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942111" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fragrant/Cynthia/Ladybug/10942111.jpg
+		</thumbnail>
+		<title>Nano Target Universe</title>
+		<creator>Fragrant Cynthia Ladybug</creator>
+		<relatedgames/>
+	</game>
+	<game id="17348799" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loyal/Helen/Blammo/17348799.jpg
+		</thumbnail>
+		<title>Rock Vilgax Solar</title>
+		<creator>Loyal Helen Blammo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10059358" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Rowdy/Zachary/Haystack/10059358.jpg
+		</thumbnail>
+		<title>Galaxy Battle Magno</title>
+		<creator>Rowdy Zachary Haystack</creator>
+		<relatedgames/>
+	</game>
+	<game id="17355672" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Purple/Rosetta/Rebel/17355672.jpg
+		</thumbnail>
+		<title>Smash Power Earth</title>
+		<creator>Purple Rosetta Rebel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17285375" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Negative/Andy/Atlas/17285375.jpg
+		</thumbnail>
+		<title>Water Blaster Challenge</title>
+		<creator>Negative Andy Atlas</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930955" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Absurd/Owen/Dragon/10930955.jpg
+		</thumbnail>
+		<title>Fire Force Power</title>
+		<creator>Absurd Owen Dragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10945498" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Twisty/Conrad/Nova/10945498.jpg
+		</thumbnail>
+		<title>Hyper Burst Energy</title>
+		<creator>Twisty Conrad Nova</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952919" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Blue/Jeffrey/Bullfrog/10952919.jpg
+		</thumbnail>
+		<title>Hyper Invasion Rampage</title>
+		<creator>Blue Jeffrey Bullfrog</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

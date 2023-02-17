@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17100222" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Profound/Paula/Turtle/17100222.jpg
+		</thumbnail>
+		<title>Rescue Fusion Metal</title>
+		<creator>Profound Paula Turtle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10069150" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Comical/Cheyenne/Unicycle/10069150.jpg
+		</thumbnail>
+		<title>Shock Stone Pulse</title>
+		<creator>Comical Cheyenne Unicycle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933292" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Funky/Pearl/Zombie/10933292.jpg
+		</thumbnail>
+		<title>Patrol Rescue Laser</title>
+		<creator>Funky Pearl Zombie</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951563" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elegant/Marissa/Tornado/10951563.jpg
+		</thumbnail>
+		<title>Cosmic Stone Stone</title>
+		<creator>Elegant Marissa Tornado</creator>
+		<relatedgames/>
+	</game>
+	<game id="17377907" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ghastly/Roy/Shock/17377907.jpg
+		</thumbnail>
+		<title>Alien Breaker Burst</title>
+		<creator>Ghastly Roy Shock</creator>
+		<relatedgames/>
+	</game>
+	<game id="17359735" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Silly/Franklin/Foghorn/17359735.jpg
+		</thumbnail>
+		<title>Power Mega Techno</title>
+		<creator>Silly Franklin Foghorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="17389024" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Puzzling/Zachary/Thorax/17389024.jpg
+		</thumbnail>
+		<title>Doom Sonic Vilgax</title>
+		<creator>Puzzling Zachary Thorax</creator>
+		<relatedgames/>
+	</game>
+	<game id="17295706" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Electric/Rudolph/Soldier/17295706.jpg
+		</thumbnail>
+		<title>Iron Hero Fury</title>
+		<creator>Electric Rudolph Soldier</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924291" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ghastly/Kristen/Dragon/10924291.jpg
+		</thumbnail>
+		<title>Swampfire Blaster Shadow</title>
+		<creator>Ghastly Kristen Dragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924763" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mirthful/Dorothy/Twist/10924763.jpg
+		</thumbnail>
+		<title>Fire Force Alien</title>
+		<creator>Mirthful Dorothy Twist</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

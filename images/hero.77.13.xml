@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10929106" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eager/Madeline/Barnacle/10929106.jpg
+		</thumbnail>
+		<title>Racer Rocket Crusher</title>
+		<creator>Eager Madeline Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10705689" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Adrian/Shark/10705689.jpg
+		</thumbnail>
+		<title>Ultra Target Danger</title>
+		<creator>Honest Adrian Shark</creator>
+		<relatedgames/>
+	</game>
+	<game id="17309781" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pleasant/Alan/Gamer/17309781.jpg
+		</thumbnail>
+		<title>Razor Jetray Laser</title>
+		<creator>Pleasant Alan Gamer</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918912" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strange/Daniel/Squid/10918912.jpg
+		</thumbnail>
+		<title>Doom Chase Space</title>
+		<creator>Strange Daniel Squid</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931159" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Eddie/Fiddle/10931159.jpg
+		</thumbnail>
+		<title>Alien Ambush Defense</title>
+		<creator>Chilly Eddie Fiddle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10059447" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Surreal/Max/Tusk/10059447.jpg
+		</thumbnail>
+		<title>Doom Doom Siege</title>
+		<creator>Surreal Max Tusk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10950902" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awful/Dylan/Sprinkle/10950902.jpg
+		</thumbnail>
+		<title>Hyper Thunder Assault</title>
+		<creator>Awful Dylan Sprinkle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922525" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Heroic/Michelle/Zebra/10922525.jpg
+		</thumbnail>
+		<title>Rock Challenge Robot</title>
+		<creator>Heroic Michelle Zebra</creator>
+		<relatedgames/>
+	</game>
+	<game id="10069150" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Comical/Cheyenne/Unicycle/10069150.jpg
+		</thumbnail>
+		<title>Shock Stone Pulse</title>
+		<creator>Comical Cheyenne Unicycle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10932957" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Majestic/Don/Ketchup/10932957.jpg
+		</thumbnail>
+		<title>Earth Razor Warp</title>
+		<creator>Majestic Don Ketchup</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

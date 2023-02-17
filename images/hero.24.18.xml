@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10039383" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Gruesome/Justin/Manatee/10039383.jpg
+		</thumbnail>
+		<title>Titan Magno Fire</title>
+		<creator>Gruesome Justin Manatee</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921907" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Bethany/Starfish/10921907.jpg
+		</thumbnail>
+		<title>Slam Star Razor</title>
+		<creator>Chilly Bethany Starfish</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927496" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loud/Grover/Talon/10927496.jpg
+		</thumbnail>
+		<title>Force Escape Adventure</title>
+		<creator>Loud Grover Talon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10949766" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Heroic/Lucius/Cactus/10949766.jpg
+		</thumbnail>
+		<title>Pulse Adventure Racer</title>
+		<creator>Heroic Lucius Cactus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10015822" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Peculiar/Gulliver/Phantom/10015822.jpg
+		</thumbnail>
+		<title>Invasion Defense Swampfire</title>
+		<creator>Peculiar Gulliver Phantom</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921090" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stout/Earl/Marigold/10921090.jpg
+		</thumbnail>
+		<title>Iron Crusher Alien</title>
+		<creator>Stout Earl Marigold</creator>
+		<relatedgames/>
+	</game>
+	<game id="10936340" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cheerful/Chelsea/Bolt/10936340.jpg
+		</thumbnail>
+		<title>Cosmic Robot Burst</title>
+		<creator>Cheerful Chelsea Bolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="17303953" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Crystal/Virtuoso/17303953.jpg
+		</thumbnail>
+		<title>Escape Plasma Cosmic</title>
+		<creator>Flying Crystal Virtuoso</creator>
+		<relatedgames/>
+	</game>
+	<game id="17411673" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Organic/Yvonne/Sprocket/17411673.jpg
+		</thumbnail>
+		<title>Fury Doom Ultra</title>
+		<creator>Organic Yvonne Sprocket</creator>
+		<relatedgames/>
+	</game>
+	<game id="17176419" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magnetic/Ramona/Bramble/17176419.jpg
+		</thumbnail>
+		<title>Steel Dark Adventure</title>
+		<creator>Magnetic Ramona Bramble</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

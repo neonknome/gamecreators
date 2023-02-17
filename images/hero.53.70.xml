@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10952666" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/David/Unicycle/10952666.jpg
+		</thumbnail>
+		<title>Adventure Adventure Atomic</title>
+		<creator>Red David Unicycle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919034" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Unusual/Leon/Spiral/10919034.jpg
+		</thumbnail>
+		<title>Magno Titan Defense</title>
+		<creator>Unusual Leon Spiral</creator>
+		<relatedgames/>
+	</game>
+	<game id="10032500" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Daring/Ivy/Zing/10032500.jpg
+		</thumbnail>
+		<title>Hyper Light Invasion</title>
+		<creator>Daring Ivy Zing</creator>
+		<relatedgames/>
+	</game>
+	<game id="10936094" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grand/Michelle/Goulash/10936094.jpg
+		</thumbnail>
+		<title>Alien Atomic Attack</title>
+		<creator>Grand Michelle Goulash</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038215" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Reckless/Jeremiah/Doodle/10038215.jpg
+		</thumbnail>
+		<title>Cosmic Fire Adventure</title>
+		<creator>Reckless Jeremiah Doodle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10041108" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Alien/Pearl/Cyborg/10041108.jpg
+		</thumbnail>
+		<title>Swampfire Target Burst</title>
+		<creator>Alien Pearl Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935472" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dapper/Earl/Hippo/10935472.jpg
+		</thumbnail>
+		<title>Alien Cosmic Rocket</title>
+		<creator>Dapper Earl Hippo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17552120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Volcanic/Alvin/Meteor/17552120.jpg
+		</thumbnail>
+		<title>Lightning Danger Omniverse</title>
+		<creator>Volcanic Alvin Meteor</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038010" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fearless/Jason/Bonkers/10038010.jpg
+		</thumbnail>
+		<title>Galaxy Storm Rustbucket</title>
+		<creator>Fearless Jason Bonkers</creator>
+		<relatedgames/>
+	</game>
+	<game id="16904399" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Delicate/Bethany/Talon/16904399.jpg
+		</thumbnail>
+		<title>Rush Shock Echo</title>
+		<creator>Delicate Bethany Talon</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

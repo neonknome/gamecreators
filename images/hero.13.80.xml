@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16887190" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tall/Drew/Dragoon/16887190.jpg
+		</thumbnail>
+		<title>Doom Danger Light</title>
+		<creator>Tall Drew Dragoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17504942" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Crystal/Tornado/17504942.jpg
+		</thumbnail>
+		<title>Alien Alien Alien</title>
+		<creator>Barbaric Crystal Tornado</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930650" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Absurd/Owen/Dragon/10930650.jpg
+		</thumbnail>
+		<title>Chase Force Power</title>
+		<creator>Absurd Owen Dragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17312986" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mellow/Benjamin/Banzai/17312986.jpg
+		</thumbnail>
+		<title>Shadow Rock Nova</title>
+		<creator>Mellow Benjamin Banzai</creator>
+		<relatedgames/>
+	</game>
+	<game id="17337988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Enormous/Alice/Dodo/17337988.jpg
+		</thumbnail>
+		<title>Ultimate Mission Droid</title>
+		<creator>Enormous Alice Dodo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055642" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Husky/Todd/Cyborg/10055642.jpg
+		</thumbnail>
+		<title>Stone Siege Crusher</title>
+		<creator>Husky Todd Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10057799" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Swift/Vinny/Crater/10057799.jpg
+		</thumbnail>
+		<title>Swampfire Thunder Adventure</title>
+		<creator>Swift Vinny Crater</creator>
+		<relatedgames/>
+	</game>
+	<game id="17569199" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mystic/Marissa/Venus/17569199.jpg
+		</thumbnail>
+		<title>Chase Hex Adventure</title>
+		<creator>Mystic Marissa Venus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10934745" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Absurd/Baxter/Cosmos/10934745.jpg
+		</thumbnail>
+		<title>Star Rustbucket Quake</title>
+		<creator>Absurd Baxter Cosmos</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924783" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cosmic/Harry/Bongo/10924783.jpg
+		</thumbnail>
+		<title>Force Rustbucket Attack</title>
+		<creator>Cosmic Harry Bongo</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17311338" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Freakish/Benson/Banshee/17311338.jpg
+		</thumbnail>
+		<title>Rustbucket Battle Clash</title>
+		<creator>Freakish Benson Banshee</creator>
+		<relatedgames/>
+	</game>
+	<game id="17220310" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Edgy/Sid/Clang/17220310.jpg
+		</thumbnail>
+		<title>Ultra Giga Search</title>
+		<creator>Edgy Sid Clang</creator>
+		<relatedgames/>
+	</game>
+	<game id="16917374" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Galactic/Scarlett/Blast/16917374.jpg
+		</thumbnail>
+		<title>Rocket Burst Adventure</title>
+		<creator>Galactic Scarlett Blast</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919042" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shiny/Baxter/Wombat/10919042.jpg
+		</thumbnail>
+		<title>Nitro Pulse Assault</title>
+		<creator>Shiny Baxter Wombat</creator>
+		<relatedgames/>
+	</game>
+	<game id="17562120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proud/Felix/Thud/17562120.jpg
+		</thumbnail>
+		<title>Burst Blaster Alien</title>
+		<creator>Proud Felix Thud</creator>
+		<relatedgames/>
+	</game>
+	<game id="10941646" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eastern/Ace/Mantis/10941646.jpg
+		</thumbnail>
+		<title>Ultra Rumble Universe</title>
+		<creator>Eastern Ace Mantis</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924702" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fuzzy/Austin/Cosmos/10924702.jpg
+		</thumbnail>
+		<title>Search Steel Magno</title>
+		<creator>Fuzzy Austin Cosmos</creator>
+		<relatedgames/>
+	</game>
+	<game id="10062426" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Massive/Clark/Steam/10062426.jpg
+		</thumbnail>
+		<title>Universe Swampfire Storm</title>
+		<creator>Massive Clark Steam</creator>
+		<relatedgames/>
+	</game>
+	<game id="16976258" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Emperor/Ashley/Gullet/16976258.jpg
+		</thumbnail>
+		<title>Drone Adventure Patrol</title>
+		<creator>Emperor Ashley Gullet</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952647" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sincere/Stephen/Magma/10952647.jpg
+		</thumbnail>
+		<title>Cosmic Star Invasion</title>
+		<creator>Sincere Stephen Magma</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

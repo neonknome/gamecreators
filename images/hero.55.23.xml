@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16875579" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spirited/Raymond/Moonbeam/16875579.jpg
+		</thumbnail>
+		<title>Mega Shadow Alien</title>
+		<creator>Spirited Raymond Moonbeam</creator>
+		<relatedgames/>
+	</game>
+	<game id="17281265" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Amazing/Alvin/Thing/17281265.jpg
+		</thumbnail>
+		<title>Warrior Spike Mega</title>
+		<creator>Amazing Alvin Thing</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931869" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Rowdy/Trevor/Glop/10931869.jpg
+		</thumbnail>
+		<title>Shadow Patrol Attack</title>
+		<creator>Rowdy Trevor Glop</creator>
+		<relatedgames/>
+	</game>
+	<game id="10043882" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fearsome/Jacob/Crumpet/10043882.jpg
+		</thumbnail>
+		<title>Gear Space Rock</title>
+		<creator>Fearsome Jacob Crumpet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17318169" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Athletic/Jordan/Mustard/17318169.jpg
+		</thumbnail>
+		<title>Energy Escape Challenge</title>
+		<creator>Athletic Jordan Mustard</creator>
+		<relatedgames/>
+	</game>
+	<game id="10043788" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Crafty/Brittany/Quack/10043788.jpg
+		</thumbnail>
+		<title>Sonic Hero Patrol</title>
+		<creator>Crafty Brittany Quack</creator>
+		<relatedgames/>
+	</game>
+	<game id="16917484" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Galactic/Scarlett/Blast/16917484.jpg
+		</thumbnail>
+		<title>Alien Hyper Turbo</title>
+		<creator>Galactic Scarlett Blast</creator>
+		<relatedgames/>
+	</game>
+	<game id="17422758" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proud/Nate/Foul/17422758.jpg
+		</thumbnail>
+		<title>Cosmic Ambush Adventure</title>
+		<creator>Proud Nate Foul</creator>
+		<relatedgames/>
+	</game>
+	<game id="10949978" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sinister/Aidan/Dynamite/10949978.jpg
+		</thumbnail>
+		<title>Ultimate Alien Rumble</title>
+		<creator>Sinister Aidan Dynamite</creator>
+		<relatedgames/>
+	</game>
+	<game id="17223727" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quick/Chuck/Cobweb/17223727.jpg
+		</thumbnail>
+		<title>Power Adventure Champion</title>
+		<creator>Quick Chuck Cobweb</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10047191" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Lovely/Emma/Zebra/10047191.jpg
+		</thumbnail>
+		<title>Ultra Alien Ambush</title>
+		<creator>Lovely Emma Zebra</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923969" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Blustery/Lucas/Viking/10923969.jpg
+		</thumbnail>
+		<title>Rocket Plumber Razor</title>
+		<creator>Blustery Lucas Viking</creator>
+		<relatedgames/>
+	</game>
+	<game id="17334339" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Enormous/Lucius/Anvil/17334339.jpg
+		</thumbnail>
+		<title>Chill Ambush Fusion</title>
+		<creator>Enormous Lucius Anvil</creator>
+		<relatedgames/>
+	</game>
+	<game id="17569422" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hyper/Lucius/Ketchup/17569422.jpg
+		</thumbnail>
+		<title>Burst Rustbucket Galaxy</title>
+		<creator>Hyper Lucius Ketchup</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916923" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gloomy/Heidi/Charger/10916923.jpg
+		</thumbnail>
+		<title>Adventure Atomic Spike</title>
+		<creator>Gloomy Heidi Charger</creator>
+		<relatedgames/>
+	</game>
+	<game id="17135325" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nautical/Diego/Bonanza/17135325.jpg
+		</thumbnail>
+		<title>Rampage Hyper Adventure</title>
+		<creator>Nautical Diego Bonanza</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916779" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Skinny/Jacob/Bullfrog/10916779.jpg
+		</thumbnail>
+		<title>Titan Doom Nova</title>
+		<creator>Skinny Jacob Bullfrog</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952785" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Absurd/Carol/Mustang/10952785.jpg
+		</thumbnail>
+		<title>Power Blaster Universe</title>
+		<creator>Absurd Carol Mustang</creator>
+		<relatedgames/>
+	</game>
+	<game id="10066790" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Tricky/Trevor/Zebra/10066790.jpg
+		</thumbnail>
+		<title>Iron Burst Shadow</title>
+		<creator>Tricky Trevor Zebra</creator>
+		<relatedgames/>
+	</game>
+	<game id="10937329" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Blue/Dustin/Aurora/10937329.jpg
+		</thumbnail>
+		<title>Laser Warrior Racer</title>
+		<creator>Blue Dustin Aurora</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>
