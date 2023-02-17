@@ -1,14 +1,6 @@
 <cartoonnetwork>
 <tunein>
-<text language="es">
-<![CDATA[ BEN 10: ULTIMATE ALIEN - NEW SHOW ]]>
-</text>
-<text language="pt">
-<![CDATA[ BEN 10: SUPREMACIA ALIEN�GENA - NOVO DESENHO ]]>
-</text>
-<text language="en">
-<![CDATA[ BEN 10: ULTIMATE ALIEN - NEW SHOW ]]>
-</text>
+★★★★ curated by neonknome#7835 ★★★★
 </tunein>
 <servicePath>
 <![CDATA[ /do.service ]]>
