@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10933527" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reliable/Jeff/Pulse/10933527.jpg
+		</thumbnail>
+		<title>Warrior Rocket Adventure</title>
+		<creator>Reliable Jeff Pulse</creator>
+		<relatedgames/>
+	</game>
+	<game id="17415199" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Verbose/Lauren/Rhythm/17415199.jpg
+		</thumbnail>
+		<title>Rumble Danger Invasion</title>
+		<creator>Verbose Lauren Rhythm</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953267" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Orange/Donald/Pinwheel/10953267.jpg
+		</thumbnail>
+		<title>Storm Hex Space</title>
+		<creator>Orange Donald Pinwheel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10064835" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dashing/Joey/Atom/10064835.jpg
+		</thumbnail>
+		<title>Battle Razor Magno</title>
+		<creator>Dashing Joey Atom</creator>
+		<relatedgames/>
+	</game>
+	<game id="10937150" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Western/Tommy/Starfish/10937150.jpg
+		</thumbnail>
+		<title>Fusion Razor Light</title>
+		<creator>Western Tommy Starfish</creator>
+		<relatedgames/>
+	</game>
+	<game id="17078645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Captain/Waldo/Samurai/17078645.jpg
+		</thumbnail>
+		<title>Challenge Quake Crusher</title>
+		<creator>Captain Waldo Samurai</creator>
+		<relatedgames/>
+	</game>
+	<game id="17322770" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/Holly/Phoenix/17322770.jpg
+		</thumbnail>
+		<title>Spike Star Clash</title>
+		<creator>Fiery Holly Phoenix</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933602" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dreadful/Joshua/Techno/10933602.jpg
+		</thumbnail>
+		<title>Swampfire Ultimate Chase</title>
+		<creator>Dreadful Joshua Techno</creator>
+		<relatedgames/>
+	</game>
+	<game id="17388599" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Luminous/Brooke/Shogun/17388599.jpg
+		</thumbnail>
+		<title>Ultimate Steel Warrior</title>
+		<creator>Luminous Brooke Shogun</creator>
+		<relatedgames/>
+	</game>
+	<game id="17535805" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ruthless/Dustin/Gulch/17535805.jpg
+		</thumbnail>
+		<title>Gear Adventure Spidermonkey</title>
+		<creator>Ruthless Dustin Gulch</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

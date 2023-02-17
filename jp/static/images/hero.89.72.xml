@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10916785" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Splendid/Igor/Rutabaga/10916785.jpg
+		</thumbnail>
+		<title>Rocket Adventure Champion</title>
+		<creator>Splendid Igor Rutabaga</creator>
+		<relatedgames/>
+	</game>
+	<game id="16844411" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Amusing/Rex/Python/16844411.jpg
+		</thumbnail>
+		<title>Mega Hex Star</title>
+		<creator>Amusing Rex Python</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925625" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Royal/Miguel/Sprout/10925625.jpg
+		</thumbnail>
+		<title>Fusion Nova Pursuit</title>
+		<creator>Royal Miguel Sprout</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927951" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Feisty/Pearl/Hambone/10927951.jpg
+		</thumbnail>
+		<title>Turbo Alien Adventure</title>
+		<creator>Feisty Pearl Hambone</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928185" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Atomic/Craig/Bagpipe/10928185.jpg
+		</thumbnail>
+		<title>Escape Force Crusher</title>
+		<creator>Atomic Craig Bagpipe</creator>
+		<relatedgames/>
+	</game>
+	<game id="17391876" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Doctor/Makayla/Atlas/17391876.jpg
+		</thumbnail>
+		<title>Breaker Warrior Star</title>
+		<creator>Doctor Makayla Atlas</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933122" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Handsome/Breanna/Aurora/10933122.jpg
+		</thumbnail>
+		<title>Rock Space Fire</title>
+		<creator>Handsome Breanna Aurora</creator>
+		<relatedgames/>
+	</game>
+	<game id="16860361" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Cameron/Grackle/16860361.jpg
+		</thumbnail>
+		<title>Titan Defense Whirlwind</title>
+		<creator>Obvious Cameron Grackle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17411231" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strange/Ariel/Gumdrop/17411231.jpg
+		</thumbnail>
+		<title>Defense Spidermonkey Droid</title>
+		<creator>Strange Ariel Gumdrop</creator>
+		<relatedgames/>
+	</game>
+	<game id="17318169" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Athletic/Jordan/Mustard/17318169.jpg
+		</thumbnail>
+		<title>Energy Escape Challenge</title>
+		<creator>Athletic Jordan Mustard</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17194153" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Capable/Gregory/Anvil/17194153.jpg
+		</thumbnail>
+		<title>Techno Sonic Hyper</title>
+		<creator>Capable Gregory Anvil</creator>
+		<relatedgames/>
+	</game>
+	<game id="17410295" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/King/Colin/Iceberg/17410295.jpg
+		</thumbnail>
+		<title>Robot Hero Spike</title>
+		<creator>King Colin Iceberg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928655" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Handsome/Jeffrey/Aardvark/10928655.jpg
+		</thumbnail>
+		<title>Metal Breaker Ultimate</title>
+		<creator>Handsome Jeffrey Aardvark</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952619" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Megan/Octopus/10952619.jpg
+		</thumbnail>
+		<title>Magno Smash Danger</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10646034" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loyal/Maria/Tornado/10646034.jpg
+		</thumbnail>
+		<title>Slam Champion Plumber</title>
+		<creator>Loyal Maria Tornado</creator>
+		<relatedgames/>
+	</game>
+	<game id="10948271" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wacky/Billy/Enigma/10948271.jpg
+		</thumbnail>
+		<title>Rescue Nitro Giga</title>
+		<creator>Wacky Billy Enigma</creator>
+		<relatedgames/>
+	</game>
+	<game id="17246497" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cackling/Cory/Avator/17246497.jpg
+		</thumbnail>
+		<title>Ultra Swampfire Power</title>
+		<creator>Cackling Cory Avator</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942677" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strange/Dawn/Iguana/10942677.jpg
+		</thumbnail>
+		<title>Rock Steel Fusion</title>
+		<creator>Strange Dawn Iguana</creator>
+		<relatedgames/>
+	</game>
+	<game id="17402735" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sleepy/Destiny/Apple/17402735.jpg
+		</thumbnail>
+		<title>Battle Iron Defense</title>
+		<creator>Sleepy Destiny Apple</creator>
+		<relatedgames/>
+	</game>
+	<game id="10932691" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Absurd/Timmy/Calypso/10932691.jpg
+		</thumbnail>
+		<title>Danger Blaster Adventure</title>
+		<creator>Absurd Timmy Calypso</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10923045" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Twisty/Mario/Barnacle/10923045.jpg
+		</thumbnail>
+		<title>Sonic Adventure Adventure</title>
+		<creator>Twisty Mario Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17408872" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cunning/Samuel/Calypso/17408872.jpg
+		</thumbnail>
+		<title>Champion Defense Warrior</title>
+		<creator>Cunning Samuel Calypso</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942820" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Itchy/Wilbur/Moonbeam/10942820.jpg
+		</thumbnail>
+		<title>Swampfire Invasion Nano</title>
+		<creator>Itchy Wilbur Moonbeam</creator>
+		<relatedgames/>
+	</game>
+	<game id="10932493" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radiant/Bucky/Cosmos/10932493.jpg
+		</thumbnail>
+		<title>Titan Warrior Pursuit</title>
+		<creator>Radiant Bucky Cosmos</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922617" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Twisty/Donald/Magma/10922617.jpg
+		</thumbnail>
+		<title>Galaxy Rampage Dark</title>
+		<creator>Twisty Donald Magma</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952770" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nomadic/Ryan/Grouch/10952770.jpg
+		</thumbnail>
+		<title>Magno Magno Hex</title>
+		<creator>Nomadic Ryan Grouch</creator>
+		<relatedgames/>
+	</game>
+	<game id="10949434" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crunchy/Angel/Goblin/10949434.jpg
+		</thumbnail>
+		<title>Burst Target Space</title>
+		<creator>Crunchy Angel Goblin</creator>
+		<relatedgames/>
+	</game>
+	<game id="16891507" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Vast/Zach/Renegade/16891507.jpg
+		</thumbnail>
+		<title>Assault Alien Ambush</title>
+		<creator>Vast Zach Renegade</creator>
+		<relatedgames/>
+	</game>
+	<game id="10934553" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Aaron/Safari/10934553.jpg
+		</thumbnail>
+		<title>Power Nano Force</title>
+		<creator>Dashing Aaron Safari</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951370" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Nick/Aurora/10951370.jpg
+		</thumbnail>
+		<title>Energy Breaker Warrior</title>
+		<creator>Red Nick Aurora</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

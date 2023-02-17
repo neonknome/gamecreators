@@ -1,0 +1,82 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10916994" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Happy/Bucky/Cobweb/10916994.jpg
+		</thumbnail>
+		<title>Star Mega Breaker</title>
+		<creator>Happy Bucky Cobweb</creator>
+		<relatedgames/>
+	</game>
+	<game id="17325051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cute/Rufus/Droid/17325051.jpg
+		</thumbnail>
+		<title>Smash Power Techno</title>
+		<creator>Cute Rufus Droid</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952984" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sloppy/Connor/Fondue/10952984.jpg
+		</thumbnail>
+		<title>Breaker Crusher Star</title>
+		<creator>Sloppy Connor Fondue</creator>
+		<relatedgames/>
+	</game>
+	<game id="17370247" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radical/Ed/Chaos/17370247.jpg
+		</thumbnail>
+		<title>Terraspin Energy Rush</title>
+		<creator>Radical Ed Chaos</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Ed/Squawk/10923821.jpg
+		</thumbnail>
+		<title>Swampfire Assault Vilgax</title>
+		<creator>Alien Ed Squawk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17326053" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Curious/Carter/Hornet/17326053.jpg
+		</thumbnail>
+		<title>Ultimate Waterhazard Whirlwind</title>
+		<creator>Curious Carter Hornet</creator>
+		<relatedgames/>
+	</game>
+	<game id="16982684" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Glorious/Rosemary/Sparkle/16982684.jpg
+		</thumbnail>
+		<title>Ambush Spike Plasma</title>
+		<creator>Glorious Rosemary Sparkle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953524" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grimy/Zeke/Monkey/10953524.jpg
+		</thumbnail>
+		<title>Ultimate Fury Force</title>
+		<creator>Grimy Zeke Monkey</creator>
+		<relatedgames/>
+	</game>
+	<game id="16928645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spectral/Angel/Fang/16928645.jpg
+		</thumbnail>
+		<title>Racer Adventure Storm</title>
+		<creator>Spectral Angel Fang</creator>
+		<relatedgames/>
+	</game>
+	<game id="442251" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="10/26/2010">
+		<thumbnail>
+		</thumbnail>
+		<title>Battle Beast Waterhazard</title>
+		<creator>aisflash</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

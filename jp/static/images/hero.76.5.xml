@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17415556" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grubby/Holly/Bayou/17415556.jpg
+		</thumbnail>
+		<title>Shadow Beast Space</title>
+		<creator>Grubby Holly Bayou</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916968" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Northern/Shelby/Goulash/10916968.jpg
+		</thumbnail>
+		<title>Attack Adventure Racer</title>
+		<creator>Northern Shelby Goulash</creator>
+		<relatedgames/>
+	</game>
+	<game id="17416368" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Speedy/Lancelot/Virtuoso/17416368.jpg
+		</thumbnail>
+		<title>Stone Escape Storm</title>
+		<creator>Speedy Lancelot Virtuoso</creator>
+		<relatedgames/>
+	</game>
+	<game id="17576978" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bumbling/Benton/Kazoo/17576978.jpg
+		</thumbnail>
+		<title>Star Vilgax Spike</title>
+		<creator>Bumbling Benton Kazoo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927840" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fearless/Adam/Cinnamon/10927840.jpg
+		</thumbnail>
+		<title>Alien Chase Adventure</title>
+		<creator>Fearless Adam Cinnamon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17324891" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Singular/Shaggy/Robot/17324891.jpg
+		</thumbnail>
+		<title>Light Galaxy Ultra</title>
+		<creator>Singular Shaggy Robot</creator>
+		<relatedgames/>
+	</game>
+	<game id="16976258" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Emperor/Ashley/Gullet/16976258.jpg
+		</thumbnail>
+		<title>Drone Adventure Patrol</title>
+		<creator>Emperor Ashley Gullet</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953287" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crispy/Ben/Bolt/10953287.jpg
+		</thumbnail>
+		<title>Slam Ultimate Beast</title>
+		<creator>Crispy Ben Bolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952287" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gigantic/Zelda/Turbo/10952287.jpg
+		</thumbnail>
+		<title>Rescue Rampage Rumble</title>
+		<creator>Gigantic Zelda Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17357887" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Musical/CJ/Universe/17357887.jpg
+		</thumbnail>
+		<title>Shadow Adventure Assault</title>
+		<creator>Musical CJ Universe</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17389282" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scruffy/Drake/Enigma/17389282.jpg
+		</thumbnail>
+		<title>Battle Echo Beast</title>
+		<creator>Scruffy Drake Enigma</creator>
+		<relatedgames/>
+	</game>
+	<game id="10929180" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wise/Brooke/Vector/10929180.jpg
+		</thumbnail>
+		<title>Titan Streak Rustbucket</title>
+		<creator>Wise Brooke Vector</creator>
+		<relatedgames/>
+	</game>
+	<game id="17389615" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Duke/Ariel/Cookie/17389615.jpg
+		</thumbnail>
+		<title>Alien Techno Turbo</title>
+		<creator>Duke Ariel Cookie</creator>
+		<relatedgames/>
+	</game>
+	<game id="10043305" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Hectic/Jack/Clang/10043305.jpg
+		</thumbnail>
+		<title>Droid Droid Droid</title>
+		<creator>Hectic Jack Clang</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918154" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frosty/Ramona/Sphinx/10918154.jpg
+		</thumbnail>
+		<title>Ambush Breaker Fury</title>
+		<creator>Frosty Ramona Sphinx</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953336" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scary/James/Lavender/10953336.jpg
+		</thumbnail>
+		<title>Steel Smash Magno</title>
+		<creator>Scary James Lavender</creator>
+		<relatedgames/>
+	</game>
+	<game id="17364456" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Average/Mike/Pizza/17364456.jpg
+		</thumbnail>
+		<title>Defense Rocket Droid</title>
+		<creator>Average Mike Pizza</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952189" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shrewd/Corey/Stampede/10952189.jpg
+		</thumbnail>
+		<title>Cosmic Robot Hero</title>
+		<creator>Shrewd Corey Stampede</creator>
+		<relatedgames/>
+	</game>
+	<game id="17279545" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jumping/Nick/Avocado/17279545.jpg
+		</thumbnail>
+		<title>Power Power Power</title>
+		<creator>Jumping Nick Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933707" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reckless/Jeremy/Monkey/10933707.jpg
+		</thumbnail>
+		<title>Drone Plasma Droid</title>
+		<creator>Reckless Jeremy Monkey</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

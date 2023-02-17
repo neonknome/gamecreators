@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10922615" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spectral/Augustus/Yodel/10922615.jpg
+		</thumbnail>
+		<title>Shock Hyper Titan</title>
+		<creator>Spectral Augustus Yodel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17333120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Venomous/Cheyenne/Venom/17333120.jpg
+		</thumbnail>
+		<title>Escape Burst Ben</title>
+		<creator>Venomous Cheyenne Venom</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921676" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brawny/Brent/Creature/10921676.jpg
+		</thumbnail>
+		<title>Swampfire Power Gear</title>
+		<creator>Brawny Brent Creature</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922954" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noisy/Zelda/Gargoyle/10922954.jpg
+		</thumbnail>
+		<title>Spike Danger Magno</title>
+		<creator>Noisy Zelda Gargoyle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10057867" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Lanky/Joey/Buckaroo/10057867.jpg
+		</thumbnail>
+		<title>Rescue Fire Escape</title>
+		<creator>Lanky Joey Buckaroo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10929377" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Valiant/Tom/Paradox/10929377.jpg
+		</thumbnail>
+		<title>Rocket Drone Champion</title>
+		<creator>Valiant Tom Paradox</creator>
+		<relatedgames/>
+	</game>
+	<game id="10932117" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Odd/Austin/Sphere/10932117.jpg
+		</thumbnail>
+		<title>Target Fury Nitro</title>
+		<creator>Odd Austin Sphere</creator>
+		<relatedgames/>
+	</game>
+	<game id="17223545" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ghastly/Norman/Trapeze/17223545.jpg
+		</thumbnail>
+		<title>Adventure Galaxy Assault</title>
+		<creator>Ghastly Norman Trapeze</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925913" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mirthful/Zeus/Narwhal/10925913.jpg
+		</thumbnail>
+		<title>Danger Adventure Battle</title>
+		<creator>Mirthful Zeus Narwhal</creator>
+		<relatedgames/>
+	</game>
+	<game id="16968272" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Silent/Ed/Spiral/16968272.jpg
+		</thumbnail>
+		<title>Star Laser Battle</title>
+		<creator>Silent Ed Spiral</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

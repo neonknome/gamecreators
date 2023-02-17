@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17386086" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Speedy/Brianna/Beast/17386086.jpg
+		</thumbnail>
+		<title>Adventure Light Energy</title>
+		<creator>Speedy Brianna Beast</creator>
+		<relatedgames/>
+	</game>
+	<game id="17047952" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bright/Grace/Sparkle/17047952.jpg
+		</thumbnail>
+		<title>Turbo Laser Blaster</title>
+		<creator>Bright Grace Sparkle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942635" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fanciful/Brianna/Beeswax/10942635.jpg
+		</thumbnail>
+		<title>Smash Droid Cosmic</title>
+		<creator>Fanciful Brianna Beeswax</creator>
+		<relatedgames/>
+	</game>
+	<game id="17126549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jolly/Aiden/Beast/17126549.jpg
+		</thumbnail>
+		<title>Hero Star Rock</title>
+		<creator>Jolly Aiden Beast</creator>
+		<relatedgames/>
+	</game>
+	<game id="16961343" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Normal/Craig/16961343.jpg
+		</thumbnail>
+		<title>Humongousaur Escape Mission</title>
+		<creator>Normal Craig</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916958" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loony/Ace/Eel/10916958.jpg
+		</thumbnail>
+		<title>Lightning Rampage Droid</title>
+		<creator>Loony Ace Eel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17136703" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Verbose/Oscar/Glitch/17136703.jpg
+		</thumbnail>
+		<title>Invasion Adventure Rush</title>
+		<creator>Verbose Oscar Glitch</creator>
+		<relatedgames/>
+	</game>
+	<game id="17568465" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brawny/Michael/Dragoon/17568465.jpg
+		</thumbnail>
+		<title>Energy Stone Rocket</title>
+		<creator>Brawny Michael Dragoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10936243" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Squishy/Bob/Fishbowl/10936243.jpg
+		</thumbnail>
+		<title>Titan Alien Warp</title>
+		<creator>Squishy Bob Fishbowl</creator>
+		<relatedgames/>
+	</game>
+	<game id="10647354" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Karen/Starfish/10647354.jpg
+		</thumbnail>
+		<title>Challenge Burst Breaker</title>
+		<creator>Dashing Karen Starfish</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

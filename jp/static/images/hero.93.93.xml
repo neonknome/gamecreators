@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10919489" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sinister/Hercules/Monkey/10919489.jpg
+		</thumbnail>
+		<title>Ultra Alien Ambush</title>
+		<creator>Sinister Hercules Monkey</creator>
+		<relatedgames/>
+	</game>
+	<game id="17230806" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Emperor/Autumn/Mutant/17230806.jpg
+		</thumbnail>
+		<title>Drone Danger Escape</title>
+		<creator>Emperor Autumn Mutant</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921477" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Lorenzo/Igloo/10921477.jpg
+		</thumbnail>
+		<title>Fire Siege Giga</title>
+		<creator>Humorous Lorenzo Igloo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10949991" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Giggling/Elroy/Domino/10949991.jpg
+		</thumbnail>
+		<title>Rush Attack Rumble</title>
+		<creator>Giggling Elroy Domino</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918722" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Musical/Julian/Mango/10918722.jpg
+		</thumbnail>
+		<title>Spike Rumble Blaster</title>
+		<creator>Musical Julian Mango</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922483" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sincere/Victor/Boing/10922483.jpg
+		</thumbnail>
+		<title>Fury Power Patrol</title>
+		<creator>Sincere Victor Boing</creator>
+		<relatedgames/>
+	</game>
+	<game id="10936939" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bizarre/Ace/Warthog/10936939.jpg
+		</thumbnail>
+		<title>Fusion Vilgax Galaxy</title>
+		<creator>Bizarre Ace Warthog</creator>
+		<relatedgames/>
+	</game>
+	<game id="17276373" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Snazzy/Madison/Sword/17276373.jpg
+		</thumbnail>
+		<title>Danger Metal Crusher</title>
+		<creator>Snazzy Madison Sword</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953280" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scary/James/Lavender/10953280.jpg
+		</thumbnail>
+		<title>Steel Smash Magno</title>
+		<creator>Scary James Lavender</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935717" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wild/Mike/Squawk/10935717.jpg
+		</thumbnail>
+		<title>Rush Fire Thunder</title>
+		<creator>Wild Mike Squawk</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

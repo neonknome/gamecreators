@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17335294" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ghastly/Olive/Cyborg/17335294.jpg
+		</thumbnail>
+		<title>Target Chase Robot</title>
+		<creator>Ghastly Olive Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923252" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Modest/Bobby/Jungle/10923252.jpg
+		</thumbnail>
+		<title>Charge Nova Escape</title>
+		<creator>Modest Bobby Jungle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17420517" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Evasive/Ashton/Unicycle/17420517.jpg
+		</thumbnail>
+		<title>Blaster Mission Titan</title>
+		<creator>Evasive Ashton Unicycle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17377498" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nimble/Billy/Flywheel/17377498.jpg
+		</thumbnail>
+		<title>Ambush Smash Challenge</title>
+		<creator>Nimble Billy Flywheel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10706453" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sloppy/Derrick/Blade/10706453.jpg
+		</thumbnail>
+		<title>Rustbucket Rumble Champion</title>
+		<creator>Sloppy Derrick Blade</creator>
+		<relatedgames/>
+	</game>
+	<game id="17009687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Academic/Penelope/Licorice/17009687.jpg
+		</thumbnail>
+		<title>Robot Adventure Beast</title>
+		<creator>Academic Penelope Licorice</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935370" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Royal/Kylie/Penguin/10935370.jpg
+		</thumbnail>
+		<title>Rush Rush Mission</title>
+		<creator>Royal Kylie Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924819" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pleasant/Dakota/Rumble/10924819.jpg
+		</thumbnail>
+		<title>Champion Rush Slam</title>
+		<creator>Pleasant Dakota Rumble</creator>
+		<relatedgames/>
+	</game>
+	<game id="10031707" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Wondrous/Grace/Fizz/10031707.jpg
+		</thumbnail>
+		<title>Lightning Burst Solar</title>
+		<creator>Wondrous Grace Fizz</creator>
+		<relatedgames/>
+	</game>
+	<game id="17011631" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Foul/Richard/17011631.jpg
+		</thumbnail>
+		<title>Waterhazard Fire Escape</title>
+		<creator>Foul Richard</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10952923" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frantic/Chester/Walrus/10952923.jpg
+		</thumbnail>
+		<title>Rustbucket Siege Ben</title>
+		<creator>Frantic Chester Walrus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951251" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Joel/Dynamite/10951251.jpg
+		</thumbnail>
+		<title>Mega Space Rumble</title>
+		<creator>Honest Joel Dynamite</creator>
+		<relatedgames/>
+	</game>
+	<game id="17017625" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strong/Ben/Glop/17017625.jpg
+		</thumbnail>
+		<title>Quake Rush Target</title>
+		<creator>Strong Ben Glop</creator>
+		<relatedgames/>
+	</game>
+	<game id="10058669" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Atomic/Diana/Zeppelin/10058669.jpg
+		</thumbnail>
+		<title>Rampage Adventure Beast</title>
+		<creator>Atomic Diana Zeppelin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10937225" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shaggy/Jonas/Blob/10937225.jpg
+		</thumbnail>
+		<title>Ultimate Ben Galaxy</title>
+		<creator>Shaggy Jonas Blob</creator>
+		<relatedgames/>
+	</game>
+	<game id="17260418" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radiant/Mckenzie/Kungfu/17260418.jpg
+		</thumbnail>
+		<title>Alien Hyper Titan</title>
+		<creator>Radiant Mckenzie Kungfu</creator>
+		<relatedgames/>
+	</game>
+	<game id="10048804" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Twisty/John/Mustang/10048804.jpg
+		</thumbnail>
+		<title>Robot Attack Mission</title>
+		<creator>Twisty John Mustang</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953238" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Bob/Virtuoso/10953238.jpg
+		</thumbnail>
+		<title>Assault Siege Fury</title>
+		<creator>Alien Bob Virtuoso</creator>
+		<relatedgames/>
+	</game>
+	<game id="17303802" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cunning/Ian/Burst/17303802.jpg
+		</thumbnail>
+		<title>Storm Assault Iron</title>
+		<creator>Cunning Ian Burst</creator>
+		<relatedgames/>
+	</game>
+	<game id="10039390" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Glorious/Gulliver/Gorilla/10039390.jpg
+		</thumbnail>
+		<title>Solar Storm Hero</title>
+		<creator>Glorious Gulliver Gorilla</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

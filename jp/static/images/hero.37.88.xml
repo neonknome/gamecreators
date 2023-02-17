@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10926706" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Orange/Luis/Fireball/10926706.jpg
+		</thumbnail>
+		<title>Adventure Metal Siege</title>
+		<creator>Orange Luis Fireball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930277" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wild/Shirley/Rutabaga/10930277.jpg
+		</thumbnail>
+		<title>Vilgax Rock Burst</title>
+		<creator>Wild Shirley Rutabaga</creator>
+		<relatedgames/>
+	</game>
+	<game id="17327552" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/Lisa/Rebel/17327552.jpg
+		</thumbnail>
+		<title>Shadow Spidermonkey Warrior</title>
+		<creator>Fiery Lisa Rebel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17552388" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Drowzy/Finn/Fishbowl/17552388.jpg
+		</thumbnail>
+		<title>Omniverse Cosmic Adventure</title>
+		<creator>Drowzy Finn Fishbowl</creator>
+		<relatedgames/>
+	</game>
+	<game id="16968586" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Adept/Briana/Apple/16968586.jpg
+		</thumbnail>
+		<title>Mega Adventure Spike</title>
+		<creator>Adept Briana Apple</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953054" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brainy/Casey/Sardine/10953054.jpg
+		</thumbnail>
+		<title>Pursuit Dark Siege</title>
+		<creator>Brainy Casey Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="17504961" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Evil/Mario/Gargoyle/17504961.jpg
+		</thumbnail>
+		<title>Giga Storm Blaster</title>
+		<creator>Evil Mario Gargoyle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10063462" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Infamous/Florence/Crumpet/10063462.jpg
+		</thumbnail>
+		<title>Storm Turbo Turbo</title>
+		<creator>Infamous Florence Crumpet</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953447" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nimble/Lillian/Robot/10953447.jpg
+		</thumbnail>
+		<title>Mission Hero Smash</title>
+		<creator>Nimble Lillian Robot</creator>
+		<relatedgames/>
+	</game>
+	<game id="10786380" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Joyous/Logan/Spiral/10786380.jpg
+		</thumbnail>
+		<title>Slam Steel Earth</title>
+		<creator>Joyous Logan Spiral</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

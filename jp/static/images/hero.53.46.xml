@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10951878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Freaky/Aaron/Maestro/10951878.jpg
+		</thumbnail>
+		<title>Giga Beast Ambush</title>
+		<creator>Freaky Aaron Maestro</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924138" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eerie/Ben/Tuxedo/10924138.jpg
+		</thumbnail>
+		<title>Battle Beast Nova</title>
+		<creator>Eerie Ben Tuxedo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17551120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Burly/Brian/Bungee/17551120.jpg
+		</thumbnail>
+		<title>Ultimate Alien Force</title>
+		<creator>Burly Brian Bungee</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038010" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fearless/Jason/Bonkers/10038010.jpg
+		</thumbnail>
+		<title>Galaxy Storm Rustbucket</title>
+		<creator>Fearless Jason Bonkers</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926076" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jolly/Raymond/Sunshine/10926076.jpg
+		</thumbnail>
+		<title>Drone Plasma Metal</title>
+		<creator>Jolly Raymond Sunshine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10917920" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Northern/Jason/Shock/10917920.jpg
+		</thumbnail>
+		<title>Ultimate Razor Mission</title>
+		<creator>Northern Jason Shock</creator>
+		<relatedgames/>
+	</game>
+	<game id="16949920" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Virtual/Will/Zip/16949920.jpg
+		</thumbnail>
+		<title>Fusion Battle Adventure</title>
+		<creator>Virtual Will Zip</creator>
+		<relatedgames/>
+	</game>
+	<game id="17569997" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brisk/Aubrey/Camel/17569997.jpg
+		</thumbnail>
+		<title>Hero Rush Alien</title>
+		<creator>Brisk Aubrey Camel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952855" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Normal/Mario/Cobra/10952855.jpg
+		</thumbnail>
+		<title>Nova Alien Invasion</title>
+		<creator>Normal Mario Cobra</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925590" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fizzy/Dominic/Splat/10925590.jpg
+		</thumbnail>
+		<title>Hero Battle Spark</title>
+		<creator>Fizzy Dominic Splat</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

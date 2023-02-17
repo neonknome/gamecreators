@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10929567" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noble/Chelsea/Crowbar/10929567.jpg
+		</thumbnail>
+		<title>Swampfire Warrior Fury</title>
+		<creator>Noble Chelsea Crowbar</creator>
+		<relatedgames/>
+	</game>
+	<game id="17387267" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Active/Yvette/Mackerel/17387267.jpg
+		</thumbnail>
+		<title>Challenge Star Champion</title>
+		<creator>Active Yvette Mackerel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17579668" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crazy/John/Gamer/17579668.jpg
+		</thumbnail>
+		<title>Feedback Ultra Adventure</title>
+		<creator>Crazy John Gamer</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055612" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Uncanny/Dolly/Cyborg/10055612.jpg
+		</thumbnail>
+		<title>Shock Titan Adventure</title>
+		<creator>Uncanny Dolly Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931774" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stylish/Alan/Cosmos/10931774.jpg
+		</thumbnail>
+		<title>Alien Universe Racer</title>
+		<creator>Stylish Alan Cosmos</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919808" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Atomic/Raymond/Chipmunk/10919808.jpg
+		</thumbnail>
+		<title>Energy Slam Space</title>
+		<creator>Atomic Raymond Chipmunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17262083" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Yucky/Rufus/Kiwi/17262083.jpg
+		</thumbnail>
+		<title>Invasion Spidermonkey Rock</title>
+		<creator>Yucky Rufus Kiwi</creator>
+		<relatedgames/>
+	</game>
+	<game id="17306187" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eastern/Brady/Clone/17306187.jpg
+		</thumbnail>
+		<title>Hex Techno Nitro</title>
+		<creator>Eastern Brady Clone</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924220" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Kenneth/Saber/10924220.jpg
+		</thumbnail>
+		<title>Plasma Mega Chase</title>
+		<creator>Honest Kenneth Saber</creator>
+		<relatedgames/>
+	</game>
+	<game id="17396080" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pleasant/Margaret/Dogfish/17396080.jpg
+		</thumbnail>
+		<title>Alien Mega Danger</title>
+		<creator>Pleasant Margaret Dogfish</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

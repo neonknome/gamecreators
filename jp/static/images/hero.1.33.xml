@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17324743" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loopy/Autumn/Snorkel/17324743.jpg
+		</thumbnail>
+		<title>Alien Pulse Universe</title>
+		<creator>Loopy Autumn Snorkel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953659" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hefty/Brandy/Turtle/10953659.jpg
+		</thumbnail>
+		<title>Clash Iron Rescue</title>
+		<creator>Hefty Brandy Turtle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953680" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Orange/Sara/Cyborg/10953680.jpg
+		</thumbnail>
+		<title>Hero Robot Shock</title>
+		<creator>Orange Sara Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="17339288" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wily/Jamie/Presto/17339288.jpg
+		</thumbnail>
+		<title>Chase Hyper Vilgax</title>
+		<creator>Wily Jamie Presto</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919176" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chaotic/Ed/Fossil/10919176.jpg
+		</thumbnail>
+		<title>Robot Mega Ambush</title>
+		<creator>Chaotic Ed Fossil</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918396" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fizzy/Chris/Moonbeam/10918396.jpg
+		</thumbnail>
+		<title>Universe Adventure Space</title>
+		<creator>Fizzy Chris Moonbeam</creator>
+		<relatedgames/>
+	</game>
+	<game id="17403542" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magnetic/Crystal/Oyster/17403542.jpg
+		</thumbnail>
+		<title>Ultra Nitro Nano</title>
+		<creator>Magnetic Crystal Oyster</creator>
+		<relatedgames/>
+	</game>
+	<game id="16979963" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Savage/Mary/Wallop/16979963.jpg
+		</thumbnail>
+		<title>Metal Plasma Titan</title>
+		<creator>Savage Mary Wallop</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933419" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wild/Mike/Squawk/10933419.jpg
+		</thumbnail>
+		<title>Magno Mission Rescue</title>
+		<creator>Wild Mike Squawk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17257447" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Positive/Jill/Orca/17257447.jpg
+		</thumbnail>
+		<title>Breaker Racer Razor</title>
+		<creator>Positive Jill Orca</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

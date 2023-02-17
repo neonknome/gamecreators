@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10919825" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Bruce/Ooze/10919825.jpg
+		</thumbnail>
+		<title>Space Turbo Solar</title>
+		<creator>Red Bruce Ooze</creator>
+		<relatedgames/>
+	</game>
+	<game id="17584078" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Unusual/Krystal/Jupiter/17584078.jpg
+		</thumbnail>
+		<title>Rustbucket Pursuit Rampage</title>
+		<creator>Unusual Krystal Jupiter</creator>
+		<relatedgames/>
+	</game>
+	<game id="17281265" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Amazing/Alvin/Thing/17281265.jpg
+		</thumbnail>
+		<title>Warrior Spike Mega</title>
+		<creator>Amazing Alvin Thing</creator>
+		<relatedgames/>
+	</game>
+	<game id="17392679" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sublime/Alvin/Amoeba/17392679.jpg
+		</thumbnail>
+		<title>Ben Battle Siege</title>
+		<creator>Sublime Alvin Amoeba</creator>
+		<relatedgames/>
+	</game>
+	<game id="17554100" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Ingrid/Sludge/17554100.jpg
+		</thumbnail>
+		<title>Burst Storm Spark</title>
+		<creator>Zany Ingrid Sludge</creator>
+		<relatedgames/>
+	</game>
+	<game id="10026204" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Clever/Erik/Zip/10026204.jpg
+		</thumbnail>
+		<title>Thunder Doom Defense</title>
+		<creator>Clever Erik Zip</creator>
+		<relatedgames/>
+	</game>
+	<game id="17504942" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Crystal/Tornado/17504942.jpg
+		</thumbnail>
+		<title>Alien Alien Alien</title>
+		<creator>Barbaric Crystal Tornado</creator>
+		<relatedgames/>
+	</game>
+	<game id="17550925" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Horrid/Angel/Venus/17550925.jpg
+		</thumbnail>
+		<title>Rescue Nano Echo</title>
+		<creator>Horrid Angel Venus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17408671" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Popular/Brayden/Spleen/17408671.jpg
+		</thumbnail>
+		<title>Stone Siege Laser</title>
+		<creator>Popular Brayden Spleen</creator>
+		<relatedgames/>
+	</game>
+	<game id="17422758" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proud/Nate/Foul/17422758.jpg
+		</thumbnail>
+		<title>Cosmic Ambush Adventure</title>
+		<creator>Proud Nate Foul</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

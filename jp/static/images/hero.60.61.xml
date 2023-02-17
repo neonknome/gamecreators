@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16977304" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wily/Sadie/Skeleton/16977304.jpg
+		</thumbnail>
+		<title>Invasion Alien Rush</title>
+		<creator>Wily Sadie Skeleton</creator>
+		<relatedgames/>
+	</game>
+	<game id="10054675" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Chaotic/Lily/Safari/10054675.jpg
+		</thumbnail>
+		<title>Ultimate Fusion Assault</title>
+		<creator>Chaotic Lily Safari</creator>
+		<relatedgames/>
+	</game>
+	<game id="17012536" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Super/Carol/Blizzard/17012536.jpg
+		</thumbnail>
+		<title>Cannonbolt Challenge Hyper</title>
+		<creator>Super Carol Blizzard</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953620" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colorful/Paige/Hambone/10953620.jpg
+		</thumbnail>
+		<title>Universe Smash Mission</title>
+		<creator>Colorful Paige Hambone</creator>
+		<relatedgames/>
+	</game>
+	<game id="17281337" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magnetic/Dominic/Hologram/17281337.jpg
+		</thumbnail>
+		<title>Pursuit Power Battle</title>
+		<creator>Magnetic Dominic Hologram</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953280" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scary/James/Lavender/10953280.jpg
+		</thumbnail>
+		<title>Steel Smash Magno</title>
+		<creator>Scary James Lavender</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933614" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Powerful/Brett/Midnight/10933614.jpg
+		</thumbnail>
+		<title>Streak Pursuit Turbo</title>
+		<creator>Powerful Brett Midnight</creator>
+		<relatedgames/>
+	</game>
+	<game id="10937222" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Clever/Kristin/Fossil/10937222.jpg
+		</thumbnail>
+		<title>Rampage Quake Iron</title>
+		<creator>Clever Kristin Fossil</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Freaky/Aaron/Maestro/10951878.jpg
+		</thumbnail>
+		<title>Giga Beast Ambush</title>
+		<creator>Freaky Aaron Maestro</creator>
+		<relatedgames/>
+	</game>
+	<game id="17311572" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Galactic/Veronica/Trooper/17311572.jpg
+		</thumbnail>
+		<title>Streak Slam Escape</title>
+		<creator>Galactic Veronica Trooper</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

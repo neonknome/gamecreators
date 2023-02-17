@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17585253" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elite/Nicolas/Crater/17585253.jpg
+		</thumbnail>
+		<title>Universe Robot Storm</title>
+		<creator>Elite Nicolas Crater</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952801" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ghostly/Laura/Bramble/10952801.jpg
+		</thumbnail>
+		<title>Charge Fusion Drone</title>
+		<creator>Ghostly Laura Bramble</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926374" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Silly/Joshua/Thunder/10926374.jpg
+		</thumbnail>
+		<title>Razor Quake Adventure</title>
+		<creator>Silly Joshua Thunder</creator>
+		<relatedgames/>
+	</game>
+	<game id="17418896" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quantum/Scarlett/Nebula/17418896.jpg
+		</thumbnail>
+		<title>Space Space Space</title>
+		<creator>Quantum Scarlett Nebula</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921774" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elegant/Joel/Spumoni/10921774.jpg
+		</thumbnail>
+		<title>Fire Drone Ambush</title>
+		<creator>Elegant Joel Spumoni</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935113" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ghastly/Oliver/Orchid/10935113.jpg
+		</thumbnail>
+		<title>Streak Cosmic Beast</title>
+		<creator>Ghastly Oliver Orchid</creator>
+		<relatedgames/>
+	</game>
+	<game id="10929981" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Modest/Gretel/Bongo/10929981.jpg
+		</thumbnail>
+		<title>Rush Cosmic Shadow</title>
+		<creator>Modest Gretel Bongo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17327437" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Evil/Apollo/Barnacle/17327437.jpg
+		</thumbnail>
+		<title>Warp Rocket Burst</title>
+		<creator>Evil Apollo Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17200966" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sloppy/Ronald/Tundra/17200966.jpg
+		</thumbnail>
+		<title>Cannonbolt Spark Metal</title>
+		<creator>Sloppy Ronald Tundra</creator>
+		<relatedgames/>
+	</game>
+	<game id="17014494" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bold/Isabelle/Pizza/17014494.jpg
+		</thumbnail>
+		<title>Pursuit Quake Warp</title>
+		<creator>Bold Isabelle Pizza</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

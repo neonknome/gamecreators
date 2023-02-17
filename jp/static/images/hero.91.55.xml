@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17397818" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Madcap/Elijah/Python/17397818.jpg
+		</thumbnail>
+		<title>Galaxy Adventure Ambush</title>
+		<creator>Madcap Elijah Python</creator>
+		<relatedgames/>
+	</game>
+	<game id="17221993" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Savage/Alvin/Fang/17221993.jpg
+		</thumbnail>
+		<title>Escape Ultimate Rush</title>
+		<creator>Savage Alvin Fang</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Western/Leon/Figment/10952821.jpg
+		</thumbnail>
+		<title>Battle Force Doom</title>
+		<creator>Western Leon Figment</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919808" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Atomic/Raymond/Chipmunk/10919808.jpg
+		</thumbnail>
+		<title>Energy Slam Space</title>
+		<creator>Atomic Raymond Chipmunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916893" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dramatic/Rufus/Ogre/10916893.jpg
+		</thumbnail>
+		<title>Patrol Rush Chase</title>
+		<creator>Dramatic Rufus Ogre</creator>
+		<relatedgames/>
+	</game>
+	<game id="10044170" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Happy/Bernard/Banjo/10044170.jpg
+		</thumbnail>
+		<title>Mission Stone Pursuit</title>
+		<creator>Happy Bernard Banjo</creator>
+		<relatedgames/>
+	</game>
+	<game id="16961418" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Active/Augustus/Lemon/16961418.jpg
+		</thumbnail>
+		<title>Alien Ultimate Universe</title>
+		<creator>Active Augustus Lemon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17284536" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ultimate/Newton/Dragoon/17284536.jpg
+		</thumbnail>
+		<title>Dark Alien Storm</title>
+		<creator>Ultimate Newton Dragoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928541" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bouncing/Ashley/Minotaur/10928541.jpg
+		</thumbnail>
+		<title>Hyper Rocket Champion</title>
+		<creator>Bouncing Ashley Minotaur</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952905" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jolly/Bryan/Kook/10952905.jpg
+		</thumbnail>
+		<title>Laser Plasma Challenge</title>
+		<creator>Jolly Bryan Kook</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

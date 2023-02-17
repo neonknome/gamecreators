@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17327552" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/Lisa/Rebel/17327552.jpg
+		</thumbnail>
+		<title>Shadow Spidermonkey Warrior</title>
+		<creator>Fiery Lisa Rebel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953231" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Orange/Donald/Pinwheel/10953231.jpg
+		</thumbnail>
+		<title>Ultimate Dark Nano</title>
+		<creator>Orange Donald Pinwheel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10843570" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Freaky/Savannah/Oddball/10843570.jpg
+		</thumbnail>
+		<title>Rampage Earth Fusion</title>
+		<creator>Freaky Savannah Oddball</creator>
+		<relatedgames/>
+	</game>
+	<game id="17555017" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magical/Isaac/Enigma/17555017.jpg
+		</thumbnail>
+		<title>Challenge Target Racer</title>
+		<creator>Magical Isaac Enigma</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953054" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brainy/Casey/Sardine/10953054.jpg
+		</thumbnail>
+		<title>Pursuit Dark Siege</title>
+		<creator>Brainy Casey Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="17504961" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Evil/Mario/Gargoyle/17504961.jpg
+		</thumbnail>
+		<title>Giga Storm Blaster</title>
+		<creator>Evil Mario Gargoyle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10063462" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Infamous/Florence/Crumpet/10063462.jpg
+		</thumbnail>
+		<title>Storm Turbo Turbo</title>
+		<creator>Infamous Florence Crumpet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404545" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Graceful/Payten/Dumpling/17404545.jpg
+		</thumbnail>
+		<title>Rumble Streak Mission</title>
+		<creator>Graceful Payten Dumpling</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953447" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nimble/Lillian/Robot/10953447.jpg
+		</thumbnail>
+		<title>Mission Hero Smash</title>
+		<creator>Nimble Lillian Robot</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952447" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sly/Gulliver/Glop/10952447.jpg
+		</thumbnail>
+		<title>Earth Pursuit Nitro</title>
+		<creator>Sly Gulliver Glop</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

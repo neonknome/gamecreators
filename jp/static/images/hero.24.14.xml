@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17358453" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Profound/Bernard/Scribble/17358453.jpg
+		</thumbnail>
+		<title>Shock Vilgax Droid</title>
+		<creator>Profound Bernard Scribble</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923562" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mumbling/Spencer/Stampede/10923562.jpg
+		</thumbnail>
+		<title>Razor Rustbucket Adventure</title>
+		<creator>Mumbling Spencer Stampede</creator>
+		<relatedgames/>
+	</game>
+	<game id="17377839" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Able/Michelle/Splat/17377839.jpg
+		</thumbnail>
+		<title>Adventure Atomic Champion</title>
+		<creator>Able Michelle Splat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919862" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Towering/Brandy/Nibbles/10919862.jpg
+		</thumbnail>
+		<title>Burst Power Challenge</title>
+		<creator>Towering Brandy Nibbles</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922314" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bashful/Elroy/Sprout/10922314.jpg
+		</thumbnail>
+		<title>Assault Shadow Droid</title>
+		<creator>Bashful Elroy Sprout</creator>
+		<relatedgames/>
+	</game>
+	<game id="17191784" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Active/Michael/Trooper/17191784.jpg
+		</thumbnail>
+		<title>Razor Droid Galaxy</title>
+		<creator>Active Michael Trooper</creator>
+		<relatedgames/>
+	</game>
+	<game id="17552197" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crazy/Edd/Mahogany/17552197.jpg
+		</thumbnail>
+		<title>Siege Metal Titan</title>
+		<creator>Crazy Edd Mahogany</creator>
+		<relatedgames/>
+	</game>
+	<game id="16866584" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Imperial/Mike/Domino/16866584.jpg
+		</thumbnail>
+		<title>Magno Dark Water</title>
+		<creator>Imperial Mike Domino</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952182" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Puzzling/Nick/Potato/10952182.jpg
+		</thumbnail>
+		<title>Challenge Drone Mega</title>
+		<creator>Puzzling Nick Potato</creator>
+		<relatedgames/>
+	</game>
+	<game id="17395502" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Titanic/Hercules/Steel/17395502.jpg
+		</thumbnail>
+		<title>Gear Iron Hero</title>
+		<creator>Titanic Hercules Steel</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

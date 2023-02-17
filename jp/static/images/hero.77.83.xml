@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17287197" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Abnormal/Pearl/Lizard/17287197.jpg
+		</thumbnail>
+		<title>Power Atomic Defense</title>
+		<creator>Abnormal Pearl Lizard</creator>
+		<relatedgames/>
+	</game>
+	<game id="10058550" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Beastly/Duke/Stampede/10058550.jpg
+		</thumbnail>
+		<title>Sonic Alien Invasion</title>
+		<creator>Beastly Duke Stampede</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952545" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eloquent/Blake/Fishbowl/10952545.jpg
+		</thumbnail>
+		<title>Sonic Light Adventure</title>
+		<creator>Eloquent Blake Fishbowl</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923431" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Bryan/Goofball/10923431.jpg
+		</thumbnail>
+		<title>Crusher Ambush Assault</title>
+		<creator>Humorous Bryan Goofball</creator>
+		<relatedgames/>
+	</game>
+	<game id="17262269" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gigantic/Bob/Chaos/17262269.jpg
+		</thumbnail>
+		<title>Ben Smash Vilgax</title>
+		<creator>Gigantic Bob Chaos</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923562" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mumbling/Spencer/Stampede/10923562.jpg
+		</thumbnail>
+		<title>Razor Rustbucket Adventure</title>
+		<creator>Mumbling Spencer Stampede</creator>
+		<relatedgames/>
+	</game>
+	<game id="16883820" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/James/Cyclone/16883820.jpg
+		</thumbnail>
+		<title>Warp Waterhazard Adventure</title>
+		<creator>Fiery James Cyclone</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921135" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dreadful/Medusa/Fishbowl/10921135.jpg
+		</thumbnail>
+		<title>Swampfire Assault Invasion</title>
+		<creator>Dreadful Medusa Fishbowl</creator>
+		<relatedgames/>
+	</game>
+	<game id="17421965" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Luminous/Mark/Narwhal/17421965.jpg
+		</thumbnail>
+		<title>Metal Streak Shadow</title>
+		<creator>Luminous Mark Narwhal</creator>
+		<relatedgames/>
+	</game>
+	<game id="17356933" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sassy/Aaron/Baloney/17356933.jpg
+		</thumbnail>
+		<title>Spidermonkey Dark Target</title>
+		<creator>Sassy Aaron Baloney</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

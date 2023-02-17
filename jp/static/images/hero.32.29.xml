@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17326435" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Silent/Gus/Carousel/17326435.jpg
+		</thumbnail>
+		<title>Spark Patrol Challenge</title>
+		<creator>Silent Gus Carousel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916697" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zippy/Barney/Elephant/10916697.jpg
+		</thumbnail>
+		<title>Beast Rock Thunder</title>
+		<creator>Zippy Barney Elephant</creator>
+		<relatedgames/>
+	</game>
+	<game id="17376535" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/King/Leopold/Python/17376535.jpg
+		</thumbnail>
+		<title>Beast Atomic Magno</title>
+		<creator>King Leopold Python</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918460" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Julian/Shark/10918460.jpg
+		</thumbnail>
+		<title>Giga Champion Solar</title>
+		<creator>Red Julian Shark</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924741" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Valiant/Maya/Rutabaga/10924741.jpg
+		</thumbnail>
+		<title>Nova Warrior Hero</title>
+		<creator>Valiant Maya Rutabaga</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952660" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Megan/Octopus/10952660.jpg
+		</thumbnail>
+		<title>Search Assault Rumble</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17364767" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Naomi/Squeegee/17364767.jpg
+		</thumbnail>
+		<title>Burst Rush Star</title>
+		<creator>Daring Naomi Squeegee</creator>
+		<relatedgames/>
+	</game>
+	<game id="10709585" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wacky/Destiny/Steam/10709585.jpg
+		</thumbnail>
+		<title>Battle Adventure Siege</title>
+		<creator>Wacky Destiny Steam</creator>
+		<relatedgames/>
+	</game>
+	<game id="17417038" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cagey/Bailey/Jalapeno/17417038.jpg
+		</thumbnail>
+		<title>Animo Ambush Target</title>
+		<creator>Cagey Bailey Jalapeno</creator>
+		<relatedgames/>
+	</game>
+	<game id="17584909" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dizzy/Joshua/Deadbolt/17584909.jpg
+		</thumbnail>
+		<title>Iron Alien Adventure</title>
+		<creator>Dizzy Joshua Deadbolt</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

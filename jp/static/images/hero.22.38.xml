@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10919791" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sly/Wesley/Tiptoe/10919791.jpg
+		</thumbnail>
+		<title>Lightning Energy Invasion</title>
+		<creator>Sly Wesley Tiptoe</creator>
+		<relatedgames/>
+	</game>
+	<game id="17303785" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Active/Kenny/Zinger/17303785.jpg
+		</thumbnail>
+		<title>Mission Ambush Earth</title>
+		<creator>Active Kenny Zinger</creator>
+		<relatedgames/>
+	</game>
+	<game id="17359324" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crazy/Andy/Turbo/17359324.jpg
+		</thumbnail>
+		<title>Streak Drone Adventure</title>
+		<creator>Crazy Andy Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17361579" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ultimate/Waldo/Firefly/17361579.jpg
+		</thumbnail>
+		<title>Cosmic Adventure Sonic</title>
+		<creator>Ultimate Waldo Firefly</creator>
+		<relatedgames/>
+	</game>
+	<game id="17234140" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bouncing/Franklin/Nibbles/17234140.jpg
+		</thumbnail>
+		<title>Universe Ultimate Power</title>
+		<creator>Bouncing Franklin Nibbles</creator>
+		<relatedgames/>
+	</game>
+	<game id="17562268" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Imperial/Cole/Pizza/17562268.jpg
+		</thumbnail>
+		<title>Rocket Big Charge</title>
+		<creator>Imperial Cole Pizza</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924605" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nimble/Bobo/Iguana/10924605.jpg
+		</thumbnail>
+		<title>Force Animo Chase</title>
+		<creator>Nimble Bobo Iguana</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918122" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jolly/Jack/Pelican/10918122.jpg
+		</thumbnail>
+		<title>Nano Quake Adventure</title>
+		<creator>Jolly Jack Pelican</creator>
+		<relatedgames/>
+	</game>
+	<game id="17204454" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ultimate/Jake/Gargoyle/17204454.jpg
+		</thumbnail>
+		<title>Doom Energy Adventure</title>
+		<creator>Ultimate Jake Gargoyle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925503" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Curious/Tyler/Tiptoe/10925503.jpg
+		</thumbnail>
+		<title>Pursuit Razor Energy</title>
+		<creator>Curious Tyler Tiptoe</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

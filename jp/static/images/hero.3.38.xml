@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10918741" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shrewd/Jonas/Yodel/10918741.jpg
+		</thumbnail>
+		<title>Mega Atomic Nova</title>
+		<creator>Shrewd Jonas Yodel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404209" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Luke/Stampede/17404209.jpg
+		</thumbnail>
+		<title>Pulse Adventure Shadow</title>
+		<creator>Zany Luke Stampede</creator>
+		<relatedgames/>
+	</game>
+	<game id="17257047" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Faith/Camel/17257047.jpg
+		</thumbnail>
+		<title>Adventure Adventure Metal</title>
+		<creator>Barbaric Faith Camel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924136" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Horrid/Duncan/Squirrel/10924136.jpg
+		</thumbnail>
+		<title>Fury Force Adventure</title>
+		<creator>Horrid Duncan Squirrel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17262274" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Popular/Roscoe/Volcano/17262274.jpg
+		</thumbnail>
+		<title>Universe Ultimate Nitro</title>
+		<creator>Popular Roscoe Volcano</creator>
+		<relatedgames/>
+	</game>
+	<game id="10865866" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Merry/Jayden/Phantom/10865866.jpg
+		</thumbnail>
+		<title>Patrol Plumber Hyper</title>
+		<creator>Merry Jayden Phantom</creator>
+		<relatedgames/>
+	</game>
+	<game id="17018925" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Andre/Wolf/17018925.jpg
+		</thumbnail>
+		<title>Clash Water Dark</title>
+		<creator>Zany Andre Wolf</creator>
+		<relatedgames/>
+	</game>
+	<game id="17052967" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Talented/Owen/Deadbolt/17052967.jpg
+		</thumbnail>
+		<title>Plumber Slam Turbo</title>
+		<creator>Talented Owen Deadbolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="10649467" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baffling/Zoe/Kazoo/10649467.jpg
+		</thumbnail>
+		<title>Plumber Escape Rock</title>
+		<creator>Baffling Zoe Kazoo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10648025" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Absurd/Bob/Hambone/10648025.jpg
+		</thumbnail>
+		<title>Spike Smash Thunder</title>
+		<creator>Absurd Bob Hambone</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

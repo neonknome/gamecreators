@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10068663" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Alien/Isaiah/Thud/10068663.jpg
+		</thumbnail>
+		<title>Alien Adventure Ambush</title>
+		<creator>Alien Isaiah Thud</creator>
+		<relatedgames/>
+	</game>
+	<game id="17325051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cute/Rufus/Droid/17325051.jpg
+		</thumbnail>
+		<title>Smash Power Techno</title>
+		<creator>Cute Rufus Droid</creator>
+		<relatedgames/>
+	</game>
+	<game id="16871294" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Golden/Levi/Twilight/16871294.jpg
+		</thumbnail>
+		<title>Ultimate Force Attack</title>
+		<creator>Golden Levi Twilight</creator>
+		<relatedgames/>
+	</game>
+	<game id="17370247" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radical/Ed/Chaos/17370247.jpg
+		</thumbnail>
+		<title>Terraspin Energy Rush</title>
+		<creator>Radical Ed Chaos</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Ed/Squawk/10923821.jpg
+		</thumbnail>
+		<title>Swampfire Assault Vilgax</title>
+		<creator>Alien Ed Squawk</creator>
+		<relatedgames/>
+	</game>
+	<game id="16988994" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Famous/Hugo/16988994.jpg
+		</thumbnail>
+		<title>Turbo Cosmic Whirlwind</title>
+		<creator>Famous Hugo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10917704" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Trinity/Cobra/10917704.jpg
+		</thumbnail>
+		<title>Adventure Animo Assault</title>
+		<creator>Dashing Trinity Cobra</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953524" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grimy/Zeke/Monkey/10953524.jpg
+		</thumbnail>
+		<title>Ultimate Fury Force</title>
+		<creator>Grimy Zeke Monkey</creator>
+		<relatedgames/>
+	</game>
+	<game id="16928645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spectral/Angel/Fang/16928645.jpg
+		</thumbnail>
+		<title>Racer Adventure Storm</title>
+		<creator>Spectral Angel Fang</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931113" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Majestic/Kevin/Iceberg/10931113.jpg
+		</thumbnail>
+		<title>Spark Hex Clash</title>
+		<creator>Majestic Kevin Iceberg</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

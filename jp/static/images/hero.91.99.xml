@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17395565" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Toxic/Rocky/Photon/17395565.jpg
+		</thumbnail>
+		<title>Sonic Big Rocket</title>
+		<creator>Toxic Rocky Photon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10058550" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Beastly/Duke/Stampede/10058550.jpg
+		</thumbnail>
+		<title>Sonic Alien Invasion</title>
+		<creator>Beastly Duke Stampede</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923431" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Bryan/Goofball/10923431.jpg
+		</thumbnail>
+		<title>Crusher Ambush Assault</title>
+		<creator>Humorous Bryan Goofball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10937074" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Infinite/Goliath/Cyborg/10937074.jpg
+		</thumbnail>
+		<title>Spike Robot Pursuit</title>
+		<creator>Infinite Goliath Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="17163650" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quantum/Tanner/Skeleton/17163650.jpg
+		</thumbnail>
+		<title>Galaxy Alien Spark</title>
+		<creator>Quantum Tanner Skeleton</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919862" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Towering/Brandy/Nibbles/10919862.jpg
+		</thumbnail>
+		<title>Burst Power Challenge</title>
+		<creator>Towering Brandy Nibbles</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921135" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dreadful/Medusa/Fishbowl/10921135.jpg
+		</thumbnail>
+		<title>Swampfire Assault Invasion</title>
+		<creator>Dreadful Medusa Fishbowl</creator>
+		<relatedgames/>
+	</game>
+	<game id="10786623" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hardy/Adam/Fossil/10786623.jpg
+		</thumbnail>
+		<title>Hyper Adventure Rustbucket</title>
+		<creator>Hardy Adam Fossil</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953409" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spooky/Zeb/Gargoyle/10953409.jpg
+		</thumbnail>
+		<title>Mission Ultimate Pursuit</title>
+		<creator>Spooky Zeb Gargoyle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17392041" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Captain/Ed/Hornet/17392041.jpg
+		</thumbnail>
+		<title>Lightning Vilgax Metal</title>
+		<creator>Captain Ed Hornet</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

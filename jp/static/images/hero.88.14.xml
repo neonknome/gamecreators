@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17005665" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Icy/Kristina/Twilight/17005665.jpg
+		</thumbnail>
+		<title>Ben Power Adventure</title>
+		<creator>Icy Kristina Twilight</creator>
+		<relatedgames/>
+	</game>
+	<game id="16871294" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Golden/Levi/Twilight/16871294.jpg
+		</thumbnail>
+		<title>Ultimate Force Attack</title>
+		<creator>Golden Levi Twilight</creator>
+		<relatedgames/>
+	</game>
+	<game id="17386226" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Neutral/Pedro/Clone/17386226.jpg
+		</thumbnail>
+		<title>Force Swampfire Alien</title>
+		<creator>Neutral Pedro Clone</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952984" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sloppy/Connor/Fondue/10952984.jpg
+		</thumbnail>
+		<title>Breaker Crusher Star</title>
+		<creator>Sloppy Connor Fondue</creator>
+		<relatedgames/>
+	</game>
+	<game id="17012539" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bold/Don/Robot/17012539.jpg
+		</thumbnail>
+		<title>Laser Defense Attack</title>
+		<creator>Bold Don Robot</creator>
+		<relatedgames/>
+	</game>
+	<game id="10786679" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spectral/Leonardo/Zip/10786679.jpg
+		</thumbnail>
+		<title>Star Beast Challenge</title>
+		<creator>Spectral Leonardo Zip</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Ed/Squawk/10923821.jpg
+		</thumbnail>
+		<title>Swampfire Assault Vilgax</title>
+		<creator>Alien Ed Squawk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926182" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brawny/Sara/Galaxy/10926182.jpg
+		</thumbnail>
+		<title>Rock Swampfire Magno</title>
+		<creator>Brawny Sara Galaxy</creator>
+		<relatedgames/>
+	</game>
+	<game id="16988994" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Famous/Hugo/16988994.jpg
+		</thumbnail>
+		<title>Turbo Cosmic Whirlwind</title>
+		<creator>Famous Hugo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10033985" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Jingling/Gavin/Polliwog/10033985.jpg
+		</thumbnail>
+		<title>Adventure Nano Steel</title>
+		<creator>Jingling Gavin Polliwog</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,82 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10926216" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Blue/Xavier/Giblets/10926216.jpg
+		</thumbnail>
+		<title>Champion Rampage Atomic</title>
+		<creator>Blue Xavier Giblets</creator>
+		<relatedgames/>
+	</game>
+	<game id="16928645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spectral/Angel/Fang/16928645.jpg
+		</thumbnail>
+		<title>Racer Adventure Storm</title>
+		<creator>Spectral Angel Fang</creator>
+		<relatedgames/>
+	</game>
+	<game id="442251" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="10/26/2010">
+		<thumbnail>
+		</thumbnail>
+		<title>Battle Beast Waterhazard</title>
+		<creator>aisflash</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952590" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gloomy/Harry/Bolt/10952590.jpg
+		</thumbnail>
+		<title>Nitro Giga Quake</title>
+		<creator>Gloomy Harry Bolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="17363548" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fabulous/Chase/Goulash/17363548.jpg
+		</thumbnail>
+		<title>Danger Charge Assault</title>
+		<creator>Fabulous Chase Goulash</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916844" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Itchy/Jared/Kazoo/10916844.jpg
+		</thumbnail>
+		<title>Rampage Smash Fusion</title>
+		<creator>Itchy Jared Kazoo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17345413" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grim/Benson/Blizzard/17345413.jpg
+		</thumbnail>
+		<title>Rampage Plasma Rush</title>
+		<creator>Grim Benson Blizzard</creator>
+		<relatedgames/>
+	</game>
+	<game id="17551180" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noisy/Nicholas/Crowbar/17551180.jpg
+		</thumbnail>
+		<title>Ben Echo Star</title>
+		<creator>Noisy Nicholas Crowbar</creator>
+		<relatedgames/>
+	</game>
+	<game id="17028218" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Solid/Shawn/Oyster/17028218.jpg
+		</thumbnail>
+		<title>Jetray Rock Animo</title>
+		<creator>Solid Shawn Oyster</creator>
+		<relatedgames/>
+	</game>
+	<game id="16871238" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Aerobic/Larry/Mango/16871238.jpg
+		</thumbnail>
+		<title>Target Robot Fire</title>
+		<creator>Aerobic Larry Mango</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10925264" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Mike/Blubber/10925264.jpg
+		</thumbnail>
+		<title>Fire Ben Nitro</title>
+		<creator>Dazzling Mike Blubber</creator>
+		<relatedgames/>
+	</game>
+	<game id="17423485" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wily/Wes/Parallax/17423485.jpg
+		</thumbnail>
+		<title>Thunder Ultra Rampage</title>
+		<creator>Wily Wes Parallax</creator>
+		<relatedgames/>
+	</game>
+	<game id="10793389" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fizzy/Irwin/Mustang/10793389.jpg
+		</thumbnail>
+		<title>Blaster Adventure Dark</title>
+		<creator>Fizzy Irwin Mustang</creator>
+		<relatedgames/>
+	</game>
+	<game id="17014783" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Duchess/Cassidy/Fizz/17014783.jpg
+		</thumbnail>
+		<title>Energy Pulse Rescue</title>
+		<creator>Duchess Cassidy Fizz</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055588" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Hectic/Cathy/Zigzag/10055588.jpg
+		</thumbnail>
+		<title>Beast Sonic Magno</title>
+		<creator>Hectic Cathy Zigzag</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404295" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Squishy/Johnny/Toenail/17404295.jpg
+		</thumbnail>
+		<title>Robot Laser Adventure</title>
+		<creator>Squishy Johnny Toenail</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953304" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scary/James/Lavender/10953304.jpg
+		</thumbnail>
+		<title>Rustbucket Magno Plasma</title>
+		<creator>Scary James Lavender</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922520" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Infinite/Jill/Thorax/10922520.jpg
+		</thumbnail>
+		<title>Swampfire Challenge Hyper</title>
+		<creator>Infinite Jill Thorax</creator>
+		<relatedgames/>
+	</game>
+	<game id="17366681" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Jeff/Kayak/17366681.jpg
+		</thumbnail>
+		<title>Mission Swampfire Burst</title>
+		<creator>Queen Jeff Kayak</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930625" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Towering/Matthew/Hedgehog/10930625.jpg
+		</thumbnail>
+		<title>Dark Siege Earth</title>
+		<creator>Towering Matthew Hedgehog</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

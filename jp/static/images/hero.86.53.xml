@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16983732" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Golden/Ben/Yak/16983732.jpg
+		</thumbnail>
+		<title>Streak Adventure Lightning</title>
+		<creator>Golden Ben Yak</creator>
+		<relatedgames/>
+	</game>
+	<game id="17182146" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Famous/Karl/Fossil/17182146.jpg
+		</thumbnail>
+		<title>Adventure Rush Light</title>
+		<creator>Famous Karl Fossil</creator>
+		<relatedgames/>
+	</game>
+	<game id="17584138" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grizzly/Dolly/Moonbeam/17584138.jpg
+		</thumbnail>
+		<title>Adventure Adventure Water</title>
+		<creator>Grizzly Dolly Moonbeam</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922615" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spectral/Augustus/Yodel/10922615.jpg
+		</thumbnail>
+		<title>Shock Hyper Titan</title>
+		<creator>Spectral Augustus Yodel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924886" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Amelia/Baloney/10924886.jpg
+		</thumbnail>
+		<title>Blaster Alien Storm</title>
+		<creator>Alien Amelia Baloney</creator>
+		<relatedgames/>
+	</game>
+	<game id="10932753" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reliable/Gregory/Gorilla/10932753.jpg
+		</thumbnail>
+		<title>Mega Pursuit Sonic</title>
+		<creator>Reliable Gregory Gorilla</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921676" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brawny/Brent/Creature/10921676.jpg
+		</thumbnail>
+		<title>Swampfire Power Gear</title>
+		<creator>Brawny Brent Creature</creator>
+		<relatedgames/>
+	</game>
+	<game id="17413288" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fabulous/Luke/Fox/17413288.jpg
+		</thumbnail>
+		<title>Alien Galaxy Doom</title>
+		<creator>Fabulous Luke Fox</creator>
+		<relatedgames/>
+	</game>
+	<game id="17209454" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Aromatic/Milo/Spark/17209454.jpg
+		</thumbnail>
+		<title>Galaxy Attack Turbo</title>
+		<creator>Aromatic Milo Spark</creator>
+		<relatedgames/>
+	</game>
+	<game id="17261733" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grim/Paige/Kayak/17261733.jpg
+		</thumbnail>
+		<title>Chase Echo Challenge</title>
+		<creator>Grim Paige Kayak</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

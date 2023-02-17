@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17284536" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ultimate/Newton/Dragoon/17284536.jpg
+		</thumbnail>
+		<title>Dark Alien Storm</title>
+		<creator>Ultimate Newton Dragoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17325012" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cute/Rufus/Droid/17325012.jpg
+		</thumbnail>
+		<title>Danger Chill Doom</title>
+		<creator>Cute Rufus Droid</creator>
+		<relatedgames/>
+	</game>
+	<game id="17569997" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brisk/Aubrey/Camel/17569997.jpg
+		</thumbnail>
+		<title>Hero Rush Alien</title>
+		<creator>Brisk Aubrey Camel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952905" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jolly/Bryan/Kook/10952905.jpg
+		</thumbnail>
+		<title>Laser Plasma Challenge</title>
+		<creator>Jolly Bryan Kook</creator>
+		<relatedgames/>
+	</game>
+	<game id="17371687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radical/Alvin/Catapult/17371687.jpg
+		</thumbnail>
+		<title>Ultimate Pulse Lightning</title>
+		<creator>Radical Alvin Catapult</creator>
+		<relatedgames/>
+	</game>
+	<game id="17554074" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eloquent/Dillon/Bayou/17554074.jpg
+		</thumbnail>
+		<title>Gear Magno Droid</title>
+		<creator>Eloquent Dillon Bayou</creator>
+		<relatedgames/>
+	</game>
+	<game id="10069142" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Humorous/Elroy/Klunk/10069142.jpg
+		</thumbnail>
+		<title>Alien Adventure Ultra</title>
+		<creator>Humorous Elroy Klunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10059447" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Surreal/Max/Tusk/10059447.jpg
+		</thumbnail>
+		<title>Doom Doom Siege</title>
+		<creator>Surreal Max Tusk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924451" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Musical/Andrew/Jalapeno/10924451.jpg
+		</thumbnail>
+		<title>Dark Robot Rustbucket</title>
+		<creator>Musical Andrew Jalapeno</creator>
+		<relatedgames/>
+	</game>
+	<game id="17334444" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Able/Mordecai/Vapor/17334444.jpg
+		</thumbnail>
+		<title>Adventure Rush Terraspin</title>
+		<creator>Able Mordecai Vapor</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

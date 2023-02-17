@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10916821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crunchy/Miranda/Witch/10916821.jpg
+		</thumbnail>
+		<title>Steel Swampfire Champion</title>
+		<creator>Crunchy Miranda Witch</creator>
+		<relatedgames/>
+	</game>
+	<game id="17284323" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Verbose/Felicity/Nibbles/17284323.jpg
+		</thumbnail>
+		<title>Light Attack Nova</title>
+		<creator>Verbose Felicity Nibbles</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919694" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Jake/Molecule/10919694.jpg
+		</thumbnail>
+		<title>Defense Ultimate Vilgax</title>
+		<creator>Dashing Jake Molecule</creator>
+		<relatedgames/>
+	</game>
+	<game id="17234049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Lanky/Lily/Licorice/17234049.jpg
+		</thumbnail>
+		<title>Hyper Alien Hero</title>
+		<creator>Lanky Lily Licorice</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952685" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Tom/Fritter/10952685.jpg
+		</thumbnail>
+		<title>Alien Alien Fire</title>
+		<creator>Red Tom Fritter</creator>
+		<relatedgames/>
+	</game>
+	<game id="17394577" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Variable/Ron/Shogun/17394577.jpg
+		</thumbnail>
+		<title>Mega Swampfire Search</title>
+		<creator>Variable Ron Shogun</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952326" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Aquatic/Egbert/Thud/10952326.jpg
+		</thumbnail>
+		<title>Adventure Clash Metal</title>
+		<creator>Aquatic Egbert Thud</creator>
+		<relatedgames/>
+	</game>
+	<game id="10949368" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Will/Safari/10949368.jpg
+		</thumbnail>
+		<title>Lightning Shock Thunder</title>
+		<creator>Daring Will Safari</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951422" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Green/Grace/Manatee/10951422.jpg
+		</thumbnail>
+		<title>Adventure Alien Droid</title>
+		<creator>Green Grace Manatee</creator>
+		<relatedgames/>
+	</game>
+	<game id="10949397" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fierce/Anthony/Lobster/10949397.jpg
+		</thumbnail>
+		<title>Shadow Search Shock</title>
+		<creator>Fierce Anthony Lobster</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

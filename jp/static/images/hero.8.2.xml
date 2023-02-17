@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10055518" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Sinister/Zoe/Ballyhoo/10055518.jpg
+		</thumbnail>
+		<title>Atomic Quake Assault</title>
+		<creator>Sinister Zoe Ballyhoo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17423219" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quiet/Hunter/Blob/17423219.jpg
+		</thumbnail>
+		<title>Turbo Champion Adventure</title>
+		<creator>Quiet Hunter Blob</creator>
+		<relatedgames/>
+	</game>
+	<game id="10057344" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Crispy/Michael/Dynamite/10057344.jpg
+		</thumbnail>
+		<title>Ultimate Fire Force</title>
+		<creator>Crispy Michael Dynamite</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928690" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Giggling/Tom/Stampede/10928690.jpg
+		</thumbnail>
+		<title>Pulse Doom Shadow</title>
+		<creator>Giggling Tom Stampede</creator>
+		<relatedgames/>
+	</game>
+	<game id="17178491" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Extreme/Alan/Avocado/17178491.jpg
+		</thumbnail>
+		<title>Chase Steel Thunder</title>
+		<creator>Extreme Alan Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="10706482" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Green/Cody/Fathom/10706482.jpg
+		</thumbnail>
+		<title>Atomic Swampfire Mission</title>
+		<creator>Green Cody Fathom</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918670" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sneaky/Bubba/Kumquat/10918670.jpg
+		</thumbnail>
+		<title>Cosmic Steel Warrior</title>
+		<creator>Sneaky Bubba Kumquat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10706022" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Hunter/Slurp/10706022.jpg
+		</thumbnail>
+		<title>Target Rock Droid</title>
+		<creator>Red Hunter Slurp</creator>
+		<relatedgames/>
+	</game>
+	<game id="16979806" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Extinct/Bobo/Wombat/16979806.jpg
+		</thumbnail>
+		<title>Rumble Energy Ultimate</title>
+		<creator>Extinct Bobo Wombat</creator>
+		<relatedgames/>
+	</game>
+	<game id="16949124" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Amusing/Nicolas/Skater/16949124.jpg
+		</thumbnail>
+		<title>Spike Atomic Search</title>
+		<creator>Amusing Nicolas Skater</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

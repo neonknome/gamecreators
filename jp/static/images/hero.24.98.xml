@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17400821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Venomous/Buster/Tarragon/17400821.jpg
+		</thumbnail>
+		<title>Giga Techno Big</title>
+		<creator>Venomous Buster Tarragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916890" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Billy/Glacier/10916890.jpg
+		</thumbnail>
+		<title>Quake Robot Pursuit</title>
+		<creator>Dashing Billy Glacier</creator>
+		<relatedgames/>
+	</game>
+	<game id="17387003" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baroness/Bradley/Jungle/17387003.jpg
+		</thumbnail>
+		<title>Alien Adventure Challenge</title>
+		<creator>Baroness Bradley Jungle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17392924" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elegant/Benson/Shinobi/17392924.jpg
+		</thumbnail>
+		<title>Solar Search Warp</title>
+		<creator>Elegant Benson Shinobi</creator>
+		<relatedgames/>
+	</game>
+	<game id="17376106" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humble/Ace/Ooze/17376106.jpg
+		</thumbnail>
+		<title>Shock Alien Spike</title>
+		<creator>Humble Ace Ooze</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923277" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pretty/Valerie/Buzzard/10923277.jpg
+		</thumbnail>
+		<title>Ultra Nova Hero</title>
+		<creator>Pretty Valerie Buzzard</creator>
+		<relatedgames/>
+	</game>
+	<game id="17353868" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mirthful/Marco/Castle/17353868.jpg
+		</thumbnail>
+		<title>Champion Adventure Ultimate</title>
+		<creator>Mirthful Marco Castle</creator>
+		<relatedgames/>
+	</game>
+	<game id="16993882" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Yorick/Behemoth/16993882.jpg
+		</thumbnail>
+		<title>Spidermonkey Ultra Escape</title>
+		<creator>Zany Yorick Behemoth</creator>
+		<relatedgames/>
+	</game>
+	<game id="17075414" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tireless/Ruby/Phoenix/17075414.jpg
+		</thumbnail>
+		<title>Fire Ben Universe</title>
+		<creator>Tireless Ruby Phoenix</creator>
+		<relatedgames/>
+	</game>
+	<game id="17233967" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baron/Felipe/Nova/17233967.jpg
+		</thumbnail>
+		<title>Techno Cosmic Slam</title>
+		<creator>Baron Felipe Nova</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

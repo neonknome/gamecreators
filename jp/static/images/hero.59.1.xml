@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10931915" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Itchy/Haley/Bamboo/10931915.jpg
+		</thumbnail>
+		<title>Chase Magno Star</title>
+		<creator>Itchy Haley Bamboo</creator>
+		<relatedgames/>
+	</game>
+	<game id="16975496" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quiet/Alex/Wolf/16975496.jpg
+		</thumbnail>
+		<title>Dark Nano Power</title>
+		<creator>Quiet Alex Wolf</creator>
+		<relatedgames/>
+	</game>
+	<game id="10063221" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Tricky/Mike/Waffle/10063221.jpg
+		</thumbnail>
+		<title>Adventure Atomic Galaxy</title>
+		<creator>Tricky Mike Waffle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17195393" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Aerobic/Adriana/Galosh/17195393.jpg
+		</thumbnail>
+		<title>Giga Thunder Breaker</title>
+		<creator>Aerobic Adriana Galosh</creator>
+		<relatedgames/>
+	</game>
+	<game id="17054714" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crispy/Marissa/Nanobot/17054714.jpg
+		</thumbnail>
+		<title>Defense Power Star</title>
+		<creator>Crispy Marissa Nanobot</creator>
+		<relatedgames/>
+	</game>
+	<game id="17331560" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Giggling/Lydia/Rhythm/17331560.jpg
+		</thumbnail>
+		<title>Ultimate Echo Assault</title>
+		<creator>Giggling Lydia Rhythm</creator>
+		<relatedgames/>
+	</game>
+	<game id="17312994" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Rich/Sunshine/17312994.jpg
+		</thumbnail>
+		<title>Doom Gear Warrior</title>
+		<creator>Queen Rich Sunshine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919497" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Ethel/Atom/10919497.jpg
+		</thumbnail>
+		<title>Alien Stone Solar</title>
+		<creator>Red Ethel Atom</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928015" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Unusual/Rocky/Gizzard/10928015.jpg
+		</thumbnail>
+		<title>Fury Lightning Nova</title>
+		<creator>Unusual Rocky Gizzard</creator>
+		<relatedgames/>
+	</game>
+	<game id="17336445" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Expert/Jonathan/Dodo/17336445.jpg
+		</thumbnail>
+		<title>Alien Solar Smash</title>
+		<creator>Expert Jonathan Dodo</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

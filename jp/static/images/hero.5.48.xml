@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17305485" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Soggy/Yvette/Magma/17305485.jpg
+		</thumbnail>
+		<title>Rustbucket Lightning Danger</title>
+		<creator>Soggy Yvette Magma</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924392" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Adorable/Eddie/Catapult/10924392.jpg
+		</thumbnail>
+		<title>Fury Fusion Crusher</title>
+		<creator>Adorable Eddie Catapult</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922895" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brave/Ernie/Blitz/10922895.jpg
+		</thumbnail>
+		<title>Hyper Spark Hero</title>
+		<creator>Brave Ernie Blitz</creator>
+		<relatedgames/>
+	</game>
+	<game id="17083085" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Extreme/Abigail/Magnet/17083085.jpg
+		</thumbnail>
+		<title>Streak Drone Magno</title>
+		<creator>Extreme Abigail Magnet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17318679" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ancient/Finn/Iguana/17318679.jpg
+		</thumbnail>
+		<title>Pursuit Warrior Rescue</title>
+		<creator>Ancient Finn Iguana</creator>
+		<relatedgames/>
+	</game>
+	<game id="10793505" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Green/Brianna/Thorax/10793505.jpg
+		</thumbnail>
+		<title>Escape Escape Smash</title>
+		<creator>Green Brianna Thorax</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931923" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noble/Noah/Gazelle/10931923.jpg
+		</thumbnail>
+		<title>Escape Rampage Mega</title>
+		<creator>Noble Noah Gazelle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931325" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Feisty/Pearl/Hambone/10931325.jpg
+		</thumbnail>
+		<title>Ultra Fire Warrior</title>
+		<creator>Feisty Pearl Hambone</creator>
+		<relatedgames/>
+	</game>
+	<game id="17280623" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elastic/Connor/Sprocket/17280623.jpg
+		</thumbnail>
+		<title>Danger Power Adventure</title>
+		<creator>Elastic Connor Sprocket</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952640" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cranky/Bryan/Varmint/10952640.jpg
+		</thumbnail>
+		<title>Challenge Fire Mission</title>
+		<creator>Cranky Bryan Varmint</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

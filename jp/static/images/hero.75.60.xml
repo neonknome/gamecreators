@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10068760" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dynamic/Leopold/Wizard/10068760.jpg
+		</thumbnail>
+		<title>Swampfire Mega Battle</title>
+		<creator>Dynamic Leopold Wizard</creator>
+		<relatedgames/>
+	</game>
+	<game id="17554036" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Heroic/Gavin/Fury/17554036.jpg
+		</thumbnail>
+		<title>Adventure Assault Clash</title>
+		<creator>Heroic Gavin Fury</creator>
+		<relatedgames/>
+	</game>
+	<game id="17417687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stormy/Mordecai/Vulture/17417687.jpg
+		</thumbnail>
+		<title>Invasion Ultra Lightning</title>
+		<creator>Stormy Mordecai Vulture</creator>
+		<relatedgames/>
+	</game>
+	<game id="17335491" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scurvy/Payton/Pelican/17335491.jpg
+		</thumbnail>
+		<title>Plasma Magno Space</title>
+		<creator>Scurvy Payton Pelican</creator>
+		<relatedgames/>
+	</game>
+	<game id="17301462" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ironic/Isaac/Deadbolt/17301462.jpg
+		</thumbnail>
+		<title>Thunder Ultra Alien</title>
+		<creator>Ironic Isaac Deadbolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="17223727" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quick/Chuck/Cobweb/17223727.jpg
+		</thumbnail>
+		<title>Power Adventure Champion</title>
+		<creator>Quick Chuck Cobweb</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923763" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tricky/Fred/Biscuit/10923763.jpg
+		</thumbnail>
+		<title>Rampage Ultra Nano</title>
+		<creator>Tricky Fred Biscuit</creator>
+		<relatedgames/>
+	</game>
+	<game id="10042807" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Noisy/Gretel/Gumbo/10042807.jpg
+		</thumbnail>
+		<title>Adventure Lightning Mega</title>
+		<creator>Noisy Gretel Gumbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924693" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crispy/Cory/Dingbat/10924693.jpg
+		</thumbnail>
+		<title>Smash Breaker Fire</title>
+		<creator>Crispy Cory Dingbat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926594" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Valiant/Maya/Rutabaga/10926594.jpg
+		</thumbnail>
+		<title>Light Search Ultra</title>
+		<creator>Valiant Maya Rutabaga</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

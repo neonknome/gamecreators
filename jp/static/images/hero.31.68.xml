@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10951563" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elegant/Marissa/Tornado/10951563.jpg
+		</thumbnail>
+		<title>Cosmic Stone Stone</title>
+		<creator>Elegant Marissa Tornado</creator>
+		<relatedgames/>
+	</game>
+	<game id="17377907" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ghastly/Roy/Shock/17377907.jpg
+		</thumbnail>
+		<title>Alien Breaker Burst</title>
+		<creator>Ghastly Roy Shock</creator>
+		<relatedgames/>
+	</game>
+	<game id="17359735" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Silly/Franklin/Foghorn/17359735.jpg
+		</thumbnail>
+		<title>Power Mega Techno</title>
+		<creator>Silly Franklin Foghorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952750" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zippy/Destiny/Dragon/10952750.jpg
+		</thumbnail>
+		<title>Warp Energy Star</title>
+		<creator>Zippy Destiny Dragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="16993778" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baroness/Anna/Beast/16993778.jpg
+		</thumbnail>
+		<title>Animo Patrol Steel</title>
+		<creator>Baroness Anna Beast</creator>
+		<relatedgames/>
+	</game>
+	<game id="17295706" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Electric/Rudolph/Soldier/17295706.jpg
+		</thumbnail>
+		<title>Iron Hero Fury</title>
+		<creator>Electric Rudolph Soldier</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924291" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ghastly/Kristen/Dragon/10924291.jpg
+		</thumbnail>
+		<title>Swampfire Blaster Shadow</title>
+		<creator>Ghastly Kristen Dragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925864" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wacky/Jack/Virtuoso/10925864.jpg
+		</thumbnail>
+		<title>Turbo Techno Laser</title>
+		<creator>Wacky Jack Virtuoso</creator>
+		<relatedgames/>
+	</game>
+	<game id="16956383" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Capable/Bugsy/Sword/16956383.jpg
+		</thumbnail>
+		<title>Rush Ultimate Titan</title>
+		<creator>Capable Bugsy Sword</creator>
+		<relatedgames/>
+	</game>
+	<game id="16965108" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Feral/Andrew/Mustang/16965108.jpg
+		</thumbnail>
+		<title>Titan Hyper Breaker</title>
+		<creator>Feral Andrew Mustang</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

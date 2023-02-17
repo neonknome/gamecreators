@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17312994" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Rich/Sunshine/17312994.jpg
+		</thumbnail>
+		<title>Doom Gear Warrior</title>
+		<creator>Queen Rich Sunshine</creator>
+		<relatedgames/>
+	</game>
+	<game id="17277603" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eloquent/Parker/Quarry/17277603.jpg
+		</thumbnail>
+		<title>Echo Champion Pulse</title>
+		<creator>Eloquent Parker Quarry</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953074" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gigantic/Felix/Shark/10953074.jpg
+		</thumbnail>
+		<title>Nitro Plasma Light</title>
+		<creator>Gigantic Felix Shark</creator>
+		<relatedgames/>
+	</game>
+	<game id="17581794" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Musical/Bella/Gizzard/17581794.jpg
+		</thumbnail>
+		<title>Doom Target Patrol</title>
+		<creator>Musical Bella Gizzard</creator>
+		<relatedgames/>
+	</game>
+	<game id="17336445" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Expert/Jonathan/Dodo/17336445.jpg
+		</thumbnail>
+		<title>Alien Solar Smash</title>
+		<creator>Expert Jonathan Dodo</creator>
+		<relatedgames/>
+	</game>
+	<game id="16914025" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Smelly/Micah/Hawk/16914025.jpg
+		</thumbnail>
+		<title>Techno Laser Cannonbolt</title>
+		<creator>Smelly Micah Hawk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10064428" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Bouncing/Wesley/Parallax/10064428.jpg
+		</thumbnail>
+		<title>Ben Smash Force</title>
+		<creator>Bouncing Wesley Parallax</creator>
+		<relatedgames/>
+	</game>
+	<game id="17418873" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Evil/Marcia/Ballyhoo/17418873.jpg
+		</thumbnail>
+		<title>Animo Shadow Warp</title>
+		<creator>Evil Marcia Ballyhoo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10063345" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Infamous/Florence/Crumpet/10063345.jpg
+		</thumbnail>
+		<title>Adventure Razor Blaster</title>
+		<creator>Infamous Florence Crumpet</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931973" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Graceful/Chad/Beeswax/10931973.jpg
+		</thumbnail>
+		<title>Fury Dark Sonic</title>
+		<creator>Graceful Chad Beeswax</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

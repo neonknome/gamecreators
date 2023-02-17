@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17332917" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Super/Matt/Dodo/17332917.jpg
+		</thumbnail>
+		<title>Cannonbolt Iron Escape</title>
+		<creator>Super Matt Dodo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17345037" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Arthur/Cyborg/17345037.jpg
+		</thumbnail>
+		<title>Brainstorm Lightning Charge</title>
+		<creator>Colossal Arthur Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="17078860" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tireless/Ruby/Phoenix/17078860.jpg
+		</thumbnail>
+		<title>Water Nano Alien</title>
+		<creator>Tireless Ruby Phoenix</creator>
+		<relatedgames/>
+	</game>
+	<game id="17395975" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cranky/Gregory/Haystack/17395975.jpg
+		</thumbnail>
+		<title>Solar Ambush Whirlwind</title>
+		<creator>Cranky Gregory Haystack</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918741" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shrewd/Jonas/Yodel/10918741.jpg
+		</thumbnail>
+		<title>Mega Atomic Nova</title>
+		<creator>Shrewd Jonas Yodel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920342" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Putrid/Tabitha/Cactus/10920342.jpg
+		</thumbnail>
+		<title>Nitro Rush Space</title>
+		<creator>Putrid Tabitha Cactus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10648482" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crafty/Kristen/Quake/10648482.jpg
+		</thumbnail>
+		<title>Light Universe Vilgax</title>
+		<creator>Crafty Kristen Quake</creator>
+		<relatedgames/>
+	</game>
+	<game id="17382394" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/General/Ian/Fang/17382394.jpg
+		</thumbnail>
+		<title>Champion Smash Ben</title>
+		<creator>General Ian Fang</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952590" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gloomy/Harry/Bolt/10952590.jpg
+		</thumbnail>
+		<title>Nitro Giga Quake</title>
+		<creator>Gloomy Harry Bolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="10843681" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Skinny/Andrew/Celsius/10843681.jpg
+		</thumbnail>
+		<title>Universe Mission Vilgax</title>
+		<creator>Skinny Andrew Celsius</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

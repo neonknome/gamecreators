@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10918900" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Comical/Ivy/Doodle/10918900.jpg
+		</thumbnail>
+		<title>Vilgax Metal Nova</title>
+		<creator>Comical Ivy Doodle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10065361" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Funny/Billy/Barnacle/10065361.jpg
+		</thumbnail>
+		<title>Adventure Smash Racer</title>
+		<creator>Funny Billy Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17290900" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shady/Dalton/Ion/17290900.jpg
+		</thumbnail>
+		<title>Pursuit Rock Water</title>
+		<creator>Shady Dalton Ion</creator>
+		<relatedgames/>
+	</game>
+	<game id="16916886" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awful/Bart/Spark/16916886.jpg
+		</thumbnail>
+		<title>Rush Chill Beast</title>
+		<creator>Awful Bart Spark</creator>
+		<relatedgames/>
+	</game>
+	<game id="17418042" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Silly/Jared/Sardine/17418042.jpg
+		</thumbnail>
+		<title>Cosmic Atomic Assault</title>
+		<creator>Silly Jared Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="17380187" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frugal/Ralph/Camel/17380187.jpg
+		</thumbnail>
+		<title>Big Droid Battle</title>
+		<creator>Frugal Ralph Camel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10020537" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Bashful/Ace/Hiccup/10020537.jpg
+		</thumbnail>
+		<title>Fury Sonic Mega</title>
+		<creator>Bashful Ace Hiccup</creator>
+		<relatedgames/>
+	</game>
+	<game id="10929416" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elegant/Crystal/Barnacle/10929416.jpg
+		</thumbnail>
+		<title>Iron Universe Space</title>
+		<creator>Elegant Crystal Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919589" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humble/Adrian/Unicorn/10919589.jpg
+		</thumbnail>
+		<title>Nova Laser Earth</title>
+		<creator>Humble Adrian Unicorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="17223545" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ghastly/Norman/Trapeze/17223545.jpg
+		</thumbnail>
+		<title>Adventure Galaxy Assault</title>
+		<creator>Ghastly Norman Trapeze</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

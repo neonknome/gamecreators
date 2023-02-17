@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16907817" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Restless/Oscar/Mumbles/16907817.jpg
+		</thumbnail>
+		<title>Razor Alien Iron</title>
+		<creator>Restless Oscar Mumbles</creator>
+		<relatedgames/>
+	</game>
+	<game id="17085481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Vibrant/Gabriel/Mahogany/17085481.jpg
+		</thumbnail>
+		<title>Nitro Mega Smash</title>
+		<creator>Vibrant Gabriel Mahogany</creator>
+		<relatedgames/>
+	</game>
+	<game id="17013289" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artful/Michael/Ostrich/17013289.jpg
+		</thumbnail>
+		<title>Escape Magno Breaker</title>
+		<creator>Artful Michael Ostrich</creator>
+		<relatedgames/>
+	</game>
+	<game id="10917704" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Trinity/Cobra/10917704.jpg
+		</thumbnail>
+		<title>Adventure Animo Assault</title>
+		<creator>Dashing Trinity Cobra</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953524" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grimy/Zeke/Monkey/10953524.jpg
+		</thumbnail>
+		<title>Ultimate Fury Force</title>
+		<creator>Grimy Zeke Monkey</creator>
+		<relatedgames/>
+	</game>
+	<game id="17325121" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Able/Zelda/Platypus/17325121.jpg
+		</thumbnail>
+		<title>Cannonbolt Sonic Adventure</title>
+		<creator>Able Zelda Platypus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17402198" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Comical/CJ/Confetti/17402198.jpg
+		</thumbnail>
+		<title>Shadow Hex Rescue</title>
+		<creator>Comical CJ Confetti</creator>
+		<relatedgames/>
+	</game>
+	<game id="10033590" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Bashful/Penny/Orca/10033590.jpg
+		</thumbnail>
+		<title>Droid Adventure Fire</title>
+		<creator>Bashful Penny Orca</creator>
+		<relatedgames/>
+	</game>
+	<game id="17337940" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humble/Wilbur/Skunk/17337940.jpg
+		</thumbnail>
+		<title>Jetray Ambush Adventure</title>
+		<creator>Humble Wilbur Skunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17071643" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Princess/George/Turbo/17071643.jpg
+		</thumbnail>
+		<title>Assault Gear Danger</title>
+		<creator>Princess George Turbo</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

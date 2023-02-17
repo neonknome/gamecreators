@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17044018" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Amusing/Andrew/Sword/17044018.jpg
+		</thumbnail>
+		<title>Fusion Droid Racer</title>
+		<creator>Amusing Andrew Sword</creator>
+		<relatedgames/>
+	</game>
+	<game id="10032500" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Daring/Ivy/Zing/10032500.jpg
+		</thumbnail>
+		<title>Hyper Light Invasion</title>
+		<creator>Daring Ivy Zing</creator>
+		<relatedgames/>
+	</game>
+	<game id="17408454" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Volcanic/Ralph/Shinobi/17408454.jpg
+		</thumbnail>
+		<title>Jetray Target Smash</title>
+		<creator>Volcanic Ralph Shinobi</creator>
+		<relatedgames/>
+	</game>
+	<game id="17405990" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Diagonal/Cole/Crash/17405990.jpg
+		</thumbnail>
+		<title>Assault Earth Big</title>
+		<creator>Diagonal Cole Crash</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927496" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loud/Grover/Talon/10927496.jpg
+		</thumbnail>
+		<title>Force Escape Adventure</title>
+		<creator>Loud Grover Talon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918880" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Robust/Norman/Brick/10918880.jpg
+		</thumbnail>
+		<title>Metal Techno Rescue</title>
+		<creator>Robust Norman Brick</creator>
+		<relatedgames/>
+	</game>
+	<game id="17350606" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ashley/Planet/17350606.jpg
+		</thumbnail>
+		<title>Alien Brainstorm Assault</title>
+		<creator>Ashley Planet</creator>
+		<relatedgames/>
+	</game>
+	<game id="16904399" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Delicate/Bethany/Talon/16904399.jpg
+		</thumbnail>
+		<title>Rush Shock Echo</title>
+		<creator>Delicate Bethany Talon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919136" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grouchy/Pearl/Rhino/10919136.jpg
+		</thumbnail>
+		<title>Animo Alien Steel</title>
+		<creator>Grouchy Pearl Rhino</creator>
+		<relatedgames/>
+	</game>
+	<game id="17303953" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Crystal/Virtuoso/17303953.jpg
+		</thumbnail>
+		<title>Escape Plasma Cosmic</title>
+		<creator>Flying Crystal Virtuoso</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

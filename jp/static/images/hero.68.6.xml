@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17381990" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Massive/Eva/Shogun/17381990.jpg
+		</thumbnail>
+		<title>Storm Spike Racer</title>
+		<creator>Massive Eva Shogun</creator>
+		<relatedgames/>
+	</game>
+	<game id="10843789" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Yellow/Luke/Acrobat/10843789.jpg
+		</thumbnail>
+		<title>Shock Giga Challenge</title>
+		<creator>Yellow Luke Acrobat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953516" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proper/Goliath/Wombat/10953516.jpg
+		</thumbnail>
+		<title>Rampage Breaker Pulse</title>
+		<creator>Proper Goliath Wombat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935006" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Swift/Mitchell/Parsec/10935006.jpg
+		</thumbnail>
+		<title>Space Assault Clash</title>
+		<creator>Swift Mitchell Parsec</creator>
+		<relatedgames/>
+	</game>
+	<game id="17271206" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Abstract/Hugo/Hambone/17271206.jpg
+		</thumbnail>
+		<title>Spike Stone Energy</title>
+		<creator>Abstract Hugo Hambone</creator>
+		<relatedgames/>
+	</game>
+	<game id="17296006" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Complex/Dennis/Apple/17296006.jpg
+		</thumbnail>
+		<title>Stone Rustbucket Adventure</title>
+		<creator>Complex Dennis Apple</creator>
+		<relatedgames/>
+	</game>
+	<game id="17423217" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Major/Kelly/Beeswax/17423217.jpg
+		</thumbnail>
+		<title>Rumble Streak Ben</title>
+		<creator>Major Kelly Beeswax</creator>
+		<relatedgames/>
+	</game>
+	<game id="17117134" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Ethel/Pinball/17117134.jpg
+		</thumbnail>
+		<title>Attack Metal Mission</title>
+		<creator>Humorous Ethel Pinball</creator>
+		<relatedgames/>
+	</game>
+	<game id="17503975" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Prolific/Cole/Sprout/17503975.jpg
+		</thumbnail>
+		<title>Rocket Breaker Galaxy</title>
+		<creator>Prolific Cole Sprout</creator>
+		<relatedgames/>
+	</game>
+	<game id="17402198" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Comical/CJ/Confetti/17402198.jpg
+		</thumbnail>
+		<title>Shadow Hex Rescue</title>
+		<creator>Comical CJ Confetti</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

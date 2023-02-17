@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10926785" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Natasha/Tempest/10926785.jpg
+		</thumbnail>
+		<title>Pursuit Mega Nano</title>
+		<creator>Honest Natasha Tempest</creator>
+		<relatedgames/>
+	</game>
+	<game id="16902585" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stubborn/Aiden/Beast/16902585.jpg
+		</thumbnail>
+		<title>Atomic Adventure Cosmic</title>
+		<creator>Stubborn Aiden Beast</creator>
+		<relatedgames/>
+	</game>
+	<game id="10938798" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Massive/Hansel/Basilisk/10938798.jpg
+		</thumbnail>
+		<title>Swampfire Galaxy Smash</title>
+		<creator>Massive Hansel Basilisk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17286743" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sharp/Max/Mantis/17286743.jpg
+		</thumbnail>
+		<title>Ben Champion Warrior</title>
+		<creator>Sharp Max Mantis</creator>
+		<relatedgames/>
+	</game>
+	<game id="10947189" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Yellow/Scooter/Manatee/10947189.jpg
+		</thumbnail>
+		<title>Rumble Pulse Cosmic</title>
+		<creator>Yellow Scooter Manatee</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922330" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Babbling/Oscar/Tornado/10922330.jpg
+		</thumbnail>
+		<title>Shadow Defense Spark</title>
+		<creator>Babbling Oscar Tornado</creator>
+		<relatedgames/>
+	</game>
+	<game id="17551176" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Earnest/Meredith/Tiger/17551176.jpg
+		</thumbnail>
+		<title>Power Siege Rumble</title>
+		<creator>Earnest Meredith Tiger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952675" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Florence/Squeegee/10952675.jpg
+		</thumbnail>
+		<title>Swampfire Fury Attack</title>
+		<creator>Honest Florence Squeegee</creator>
+		<relatedgames/>
+	</game>
+	<game id="16952681" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Massive/Bart/Steel/16952681.jpg
+		</thumbnail>
+		<title>Metal Rumble Adventure</title>
+		<creator>Massive Bart Steel</creator>
+		<relatedgames/>
+	</game>
+	<game id="16950338" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Angelica/Castle/16950338.jpg
+		</thumbnail>
+		<title>Star Atomic Animo</title>
+		<creator>Dazzling Angelica Castle</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

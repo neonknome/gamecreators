@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10953336" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scary/James/Lavender/10953336.jpg
+		</thumbnail>
+		<title>Steel Smash Magno</title>
+		<creator>Scary James Lavender</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933066" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Powerful/Juan/Eggplant/10933066.jpg
+		</thumbnail>
+		<title>Slam Rush Laser</title>
+		<creator>Powerful Juan Eggplant</creator>
+		<relatedgames/>
+	</game>
+	<game id="17260364" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colonel/Danny/Droid/17260364.jpg
+		</thumbnail>
+		<title>Adventure Power Pursuit</title>
+		<creator>Colonel Danny Droid</creator>
+		<relatedgames/>
+	</game>
+	<game id="10843570" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Freaky/Savannah/Oddball/10843570.jpg
+		</thumbnail>
+		<title>Rampage Earth Fusion</title>
+		<creator>Freaky Savannah Oddball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935329" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Burly/Crystal/Fritter/10935329.jpg
+		</thumbnail>
+		<title>Shadow Champion Invasion</title>
+		<creator>Burly Crystal Fritter</creator>
+		<relatedgames/>
+	</game>
+	<game id="10646812" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fearless/Julian/Sizzle/10646812.jpg
+		</thumbnail>
+		<title>Pursuit Rumble Warrior</title>
+		<creator>Fearless Julian Sizzle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10786380" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Joyous/Logan/Spiral/10786380.jpg
+		</thumbnail>
+		<title>Slam Steel Earth</title>
+		<creator>Joyous Logan Spiral</creator>
+		<relatedgames/>
+	</game>
+	<game id="17336082" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grubby/Clyde/Glop/17336082.jpg
+		</thumbnail>
+		<title>Big Turbo Rush</title>
+		<creator>Grubby Clyde Glop</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918998" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Northern/Marcus/Turtle/10918998.jpg
+		</thumbnail>
+		<title>Vilgax Blaster Beast</title>
+		<creator>Northern Marcus Turtle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17391991" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Speedy/Eli/Firefly/17391991.jpg
+		</thumbnail>
+		<title>Nova Power Fury</title>
+		<creator>Speedy Eli Firefly</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

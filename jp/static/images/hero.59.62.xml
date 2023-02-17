@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10926893" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wild/Ernie/Fireball/10926893.jpg
+		</thumbnail>
+		<title>Alien Invasion Mission</title>
+		<creator>Wild Ernie Fireball</creator>
+		<relatedgames/>
+	</game>
+	<game id="17350059" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Positive/Bridget/17350059.jpg
+		</thumbnail>
+		<title>Target Blaster Star</title>
+		<creator>Positive Bridget</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935655" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stylish/Rachel/Sphinx/10935655.jpg
+		</thumbnail>
+		<title>Clash Gear Titan</title>
+		<creator>Stylish Rachel Sphinx</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922465" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Hunter/Plankton/10922465.jpg
+		</thumbnail>
+		<title>Iron Warrior Metal</title>
+		<creator>Zany Hunter Plankton</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404731" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Clever/Ben/Blade/17404731.jpg
+		</thumbnail>
+		<title>Ultimate Cannonbolt Assault</title>
+		<creator>Clever Ben Blade</creator>
+		<relatedgames/>
+	</game>
+	<game id="17337519" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Luminous/Cameron/Behemoth/17337519.jpg
+		</thumbnail>
+		<title>Fusion Whirlwind Techno</title>
+		<creator>Luminous Cameron Behemoth</creator>
+		<relatedgames/>
+	</game>
+	<game id="17584644" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Plucky/Romeo/Aviator/17584644.jpg
+		</thumbnail>
+		<title>Big Chill Power</title>
+		<creator>Plucky Romeo Aviator</creator>
+		<relatedgames/>
+	</game>
+	<game id="10948852" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Zoe/Wizard/10948852.jpg
+		</thumbnail>
+		<title>Warrior Warrior Warrior</title>
+		<creator>Chilly Zoe Wizard</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925875" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Swift/Shelby/Ninja/10925875.jpg
+		</thumbnail>
+		<title>Mega Attack Swampfire</title>
+		<creator>Swift Shelby Ninja</creator>
+		<relatedgames/>
+	</game>
+	<game id="10064904" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cosmic/Goliath/Oddball/10064904.jpg
+		</thumbnail>
+		<title>Adventure Mission Sonic</title>
+		<creator>Cosmic Goliath Oddball</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10015961" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Twisty/Avery/Fondue/10015961.jpg
+		</thumbnail>
+		<title>Star Breaker Attack</title>
+		<creator>Twisty Avery Fondue</creator>
+		<relatedgames/>
+	</game>
+	<game id="10945010" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Blue/Fred/Howler/10945010.jpg
+		</thumbnail>
+		<title>Champion Rock Plasma</title>
+		<creator>Blue Fred Howler</creator>
+		<relatedgames/>
+	</game>
+	<game id="16974843" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Husky/Lucius/Foul/16974843.jpg
+		</thumbnail>
+		<title>Hyper Ben Solar</title>
+		<creator>Husky Lucius Foul</creator>
+		<relatedgames/>
+	</game>
+	<game id="17260234" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mystic/Ed/Acorn/17260234.jpg
+		</thumbnail>
+		<title>Nova Titan Hero</title>
+		<creator>Mystic Ed Acorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="17402611" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ironic/Gulliver/Pirate/17402611.jpg
+		</thumbnail>
+		<title>Hyper Earth Fusion</title>
+		<creator>Ironic Gulliver Pirate</creator>
+		<relatedgames/>
+	</game>
+	<game id="16956406" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Tim/Dogfish/16956406.jpg
+		</thumbnail>
+		<title>Champion Solar Attack</title>
+		<creator>Queen Tim Dogfish</creator>
+		<relatedgames/>
+	</game>
+	<game id="10938646" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tricky/Frank/Blade/10938646.jpg
+		</thumbnail>
+		<title>Swampfire Spark Charge</title>
+		<creator>Tricky Frank Blade</creator>
+		<relatedgames/>
+	</game>
+	<game id="10938043" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Adorable/Celeste/Chutney/10938043.jpg
+		</thumbnail>
+		<title>Earth Ambush Doom</title>
+		<creator>Adorable Celeste Chutney</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953287" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crispy/Ben/Bolt/10953287.jpg
+		</thumbnail>
+		<title>Slam Ultimate Beast</title>
+		<creator>Crispy Ben Bolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922845" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brave/Ernie/Blitz/10922845.jpg
+		</thumbnail>
+		<title>Mission Defense Hero</title>
+		<creator>Brave Ernie Blitz</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

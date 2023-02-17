@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10931113" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Majestic/Kevin/Iceberg/10931113.jpg
+		</thumbnail>
+		<title>Spark Hex Clash</title>
+		<creator>Majestic Kevin Iceberg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10947551" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wise/Victoria/Volcano/10947551.jpg
+		</thumbnail>
+		<title>Chase Streak Quake</title>
+		<creator>Wise Victoria Volcano</creator>
+		<relatedgames/>
+	</game>
+	<game id="17071643" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Princess/George/Turbo/17071643.jpg
+		</thumbnail>
+		<title>Assault Gear Danger</title>
+		<creator>Princess George Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10031329" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dynamic/Erik/Crater/10031329.jpg
+		</thumbnail>
+		<title>Invasion Robot Shock</title>
+		<creator>Dynamic Erik Crater</creator>
+		<relatedgames/>
+	</game>
+	<game id="17105222" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Ulysses/Knight/17105222.jpg
+		</thumbnail>
+		<title>Plasma Energy Vilgax</title>
+		<creator>Colossal Ulysses Knight</creator>
+		<relatedgames/>
+	</game>
+	<game id="10068460" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Frugal/Natasha/Minotaur/10068460.jpg
+		</thumbnail>
+		<title>Atomic Spike Danger</title>
+		<creator>Frugal Natasha Minotaur</creator>
+		<relatedgames/>
+	</game>
+	<game id="17332957" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magnetic/Tiffany/Tugboat/17332957.jpg
+		</thumbnail>
+		<title>Breaker Siege Mega</title>
+		<creator>Magnetic Tiffany Tugboat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942165" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pretty/Vinny/Zebra/10942165.jpg
+		</thumbnail>
+		<title>Earth Nano Storm</title>
+		<creator>Pretty Vinny Zebra</creator>
+		<relatedgames/>
+	</game>
+	<game id="16970451" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shy/Ginger/Calamari/16970451.jpg
+		</thumbnail>
+		<title>Target Universe Ultimate</title>
+		<creator>Shy Ginger Calamari</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930482" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noble/Tyler/Hogwash/10930482.jpg
+		</thumbnail>
+		<title>Doom Pulse Fusion</title>
+		<creator>Noble Tyler Hogwash</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

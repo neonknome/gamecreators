@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17384530" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cranky/Jaden/Phoenix/17384530.jpg
+		</thumbnail>
+		<title>Fury Plasma Star</title>
+		<creator>Cranky Jaden Phoenix</creator>
+		<relatedgames/>
+	</game>
+	<game id="17387959" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bold/Ian/Cactus/17387959.jpg
+		</thumbnail>
+		<title>Alien Adventure Robot</title>
+		<creator>Bold Ian Cactus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17003097" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hypnotic/Tex/Scorpion/17003097.jpg
+		</thumbnail>
+		<title>Storm Light Light</title>
+		<creator>Hypnotic Tex Scorpion</creator>
+		<relatedgames/>
+	</game>
+	<game id="10939640" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Putrid/Tim/Paradox/10939640.jpg
+		</thumbnail>
+		<title>Rocket Robot Robot</title>
+		<creator>Putrid Tim Paradox</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953024" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radiant/Karen/Dingo/10953024.jpg
+		</thumbnail>
+		<title>Plasma Rumble Beast</title>
+		<creator>Radiant Karen Dingo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926958" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Twisty/Gavin/Seesaw/10926958.jpg
+		</thumbnail>
+		<title>Adventure Smash Adventure</title>
+		<creator>Twisty Gavin Seesaw</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crunchy/Miranda/Witch/10916821.jpg
+		</thumbnail>
+		<title>Steel Swampfire Champion</title>
+		<creator>Crunchy Miranda Witch</creator>
+		<relatedgames/>
+	</game>
+	<game id="17410012" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Surreal/Ashlyn/Mahogany/17410012.jpg
+		</thumbnail>
+		<title>Echo Rescue Chill</title>
+		<creator>Surreal Ashlyn Mahogany</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924298" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awful/Bernard/Cumulus/10924298.jpg
+		</thumbnail>
+		<title>Rampage Power Hero</title>
+		<creator>Awful Bernard Cumulus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17553979" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Heroic/Gavin/Fury/17553979.jpg
+		</thumbnail>
+		<title>Adventure Plumber Adventure</title>
+		<creator>Heroic Gavin Fury</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

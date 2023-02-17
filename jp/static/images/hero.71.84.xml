@@ -1,0 +1,82 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10924748" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nimble/Bobo/Iguana/10924748.jpg
+		</thumbnail>
+		<title>Battle Escape Light</title>
+		<creator>Nimble Bobo Iguana</creator>
+		<relatedgames/>
+	</game>
+	<game id="17308153" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Acoustic/Shelby/Oink/17308153.jpg
+		</thumbnail>
+		<title>Shadow Laser Spark</title>
+		<creator>Acoustic Shelby Oink</creator>
+		<relatedgames/>
+	</game>
+	<game id="10058625" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cranky/Rob/Tractor/10058625.jpg
+		</thumbnail>
+		<title>Charge Gear Shock</title>
+		<creator>Cranky Rob Tractor</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916703" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Rugged/Bianca/Fiddle/10916703.jpg
+		</thumbnail>
+		<title>Razor Alien Shock</title>
+		<creator>Rugged Bianca Fiddle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17386673" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strong/Chris/Eel/17386673.jpg
+		</thumbnail>
+		<title>Plasma Mission Escape</title>
+		<creator>Strong Chris Eel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953586" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Atomic/Fred/Jungle/10953586.jpg
+		</thumbnail>
+		<title>Streak Ultimate Nitro</title>
+		<creator>Atomic Fred Jungle</creator>
+		<relatedgames/>
+	</game>
+	<game id="420224" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="10/24/2010">
+		<thumbnail>
+		</thumbnail>
+		<title>Jetray Ambush Animo</title>
+		<creator>wyncks</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918863" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eager/Katelyn/Ooze/10918863.jpg
+		</thumbnail>
+		<title>Ultimate Fury Invasion</title>
+		<creator>Eager Katelyn Ooze</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952739" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hideous/Sterling/Ballyhoo/10952739.jpg
+		</thumbnail>
+		<title>Blaster Swampfire Drone</title>
+		<creator>Hideous Sterling Ballyhoo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10066116" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Strange/Cody/Python/10066116.jpg
+		</thumbnail>
+		<title>Smash Power Magno</title>
+		<creator>Strange Cody Python</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

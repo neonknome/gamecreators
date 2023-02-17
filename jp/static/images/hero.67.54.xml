@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16989085" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shiny/Homer/Soldier/16989085.jpg
+		</thumbnail>
+		<title>Crusher Adventure Universe</title>
+		<creator>Shiny Homer Soldier</creator>
+		<relatedgames/>
+	</game>
+	<game id="17262083" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Yucky/Rufus/Kiwi/17262083.jpg
+		</thumbnail>
+		<title>Invasion Spidermonkey Rock</title>
+		<creator>Yucky Rufus Kiwi</creator>
+		<relatedgames/>
+	</game>
+	<game id="10057799" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Swift/Vinny/Crater/10057799.jpg
+		</thumbnail>
+		<title>Swampfire Thunder Adventure</title>
+		<creator>Swift Vinny Crater</creator>
+		<relatedgames/>
+	</game>
+	<game id="10786744" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baffling/Otis/Moonbeam/10786744.jpg
+		</thumbnail>
+		<title>Plasma Crusher Droid</title>
+		<creator>Baffling Otis Moonbeam</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924220" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Kenneth/Saber/10924220.jpg
+		</thumbnail>
+		<title>Plasma Mega Chase</title>
+		<creator>Honest Kenneth Saber</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920066" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Massive/Ethel/Glop/10920066.jpg
+		</thumbnail>
+		<title>Beast Ambush Spike</title>
+		<creator>Massive Ethel Glop</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921477" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Lorenzo/Igloo/10921477.jpg
+		</thumbnail>
+		<title>Fire Siege Giga</title>
+		<creator>Humorous Lorenzo Igloo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038105" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Swift/Breanna/Blitz/10038105.jpg
+		</thumbnail>
+		<title>Doom Plumber Shadow</title>
+		<creator>Swift Breanna Blitz</creator>
+		<relatedgames/>
+	</game>
+	<game id="17363715" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Babbling/Brett/Nonsense/17363715.jpg
+		</thumbnail>
+		<title>Space Spark Nano</title>
+		<creator>Babbling Brett Nonsense</creator>
+		<relatedgames/>
+	</game>
+	<game id="17326120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Abstract/Hector/Dragoon/17326120.jpg
+		</thumbnail>
+		<title>Giga Turbo Space</title>
+		<creator>Abstract Hector Dragoon</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

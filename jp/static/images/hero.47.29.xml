@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10935329" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Burly/Crystal/Fritter/10935329.jpg
+		</thumbnail>
+		<title>Shadow Champion Invasion</title>
+		<creator>Burly Crystal Fritter</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953199" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reckless/Emily/Spiral/10953199.jpg
+		</thumbnail>
+		<title>Danger Plumber Storm</title>
+		<creator>Reckless Emily Spiral</creator>
+		<relatedgames/>
+	</game>
+	<game id="10069100" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Alien/Jacob/Brick/10069100.jpg
+		</thumbnail>
+		<title>Swampfire Hero Hex</title>
+		<creator>Alien Jacob Brick</creator>
+		<relatedgames/>
+	</game>
+	<game id="17373576" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Robotic/Owen/Cobra/17373576.jpg
+		</thumbnail>
+		<title>Animo Rampage Energy</title>
+		<creator>Robotic Owen Cobra</creator>
+		<relatedgames/>
+	</game>
+	<game id="16983993" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Visible/Gladys/Kangaroo/16983993.jpg
+		</thumbnail>
+		<title>Patrol Ultimate Beast</title>
+		<creator>Visible Gladys Kangaroo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935104" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Swift/Mitchell/Parsec/10935104.jpg
+		</thumbnail>
+		<title>Escape Turbo Plumber</title>
+		<creator>Swift Mitchell Parsec</creator>
+		<relatedgames/>
+	</game>
+	<game id="17379498" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Abstract/Natalia/Mackerel/17379498.jpg
+		</thumbnail>
+		<title>Quake Spike Storm</title>
+		<creator>Abstract Natalia Mackerel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17352503" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Complex/Finn/Zeppelin/17352503.jpg
+		</thumbnail>
+		<title>Invasion Sonic Racer</title>
+		<creator>Complex Finn Zeppelin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920288" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bizarre/Jonathan/Gong/10920288.jpg
+		</thumbnail>
+		<title>Escape Beast Adventure</title>
+		<creator>Bizarre Jonathan Gong</creator>
+		<relatedgames/>
+	</game>
+	<game id="17274962" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Justin/Phoenix/17274962.jpg
+		</thumbnail>
+		<title>Energy Burst Laser</title>
+		<creator>Humorous Justin Phoenix</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

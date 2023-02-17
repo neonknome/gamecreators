@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17319388" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Evil/Keith/Dynamite/17319388.jpg
+		</thumbnail>
+		<title>Chase Blaster Smash</title>
+		<creator>Evil Keith Dynamite</creator>
+		<relatedgames/>
+	</game>
+	<game id="10041108" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Alien/Pearl/Cyborg/10041108.jpg
+		</thumbnail>
+		<title>Swampfire Target Burst</title>
+		<creator>Alien Pearl Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935472" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dapper/Earl/Hippo/10935472.jpg
+		</thumbnail>
+		<title>Alien Cosmic Rocket</title>
+		<creator>Dapper Earl Hippo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17017938" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gothic/Sara/Weasel/17017938.jpg
+		</thumbnail>
+		<title>Rush Cosmic Adventure</title>
+		<creator>Gothic Sara Weasel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935790" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reckless/Arthur/Fossil/10935790.jpg
+		</thumbnail>
+		<title>Escape Ambush Space</title>
+		<creator>Reckless Arthur Fossil</creator>
+		<relatedgames/>
+	</game>
+	<game id="17419519" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Speedy/Buster/Popcorn/17419519.jpg
+		</thumbnail>
+		<title>Rocket Alien Ambush</title>
+		<creator>Speedy Buster Popcorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="10068663" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Alien/Isaiah/Thud/10068663.jpg
+		</thumbnail>
+		<title>Alien Adventure Ambush</title>
+		<creator>Alien Isaiah Thud</creator>
+		<relatedgames/>
+	</game>
+	<game id="10040051" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fanciful/Pedro/Magma/10040051.jpg
+		</thumbnail>
+		<title>Solar Invasion Ultimate</title>
+		<creator>Fanciful Pedro Magma</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925264" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Mike/Blubber/10925264.jpg
+		</thumbnail>
+		<title>Fire Ben Nitro</title>
+		<creator>Dazzling Mike Blubber</creator>
+		<relatedgames/>
+	</game>
+	<game id="17338241" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Groovy/Dylan/Bongo/17338241.jpg
+		</thumbnail>
+		<title>Universe Charge Thunder</title>
+		<creator>Groovy Dylan Bongo</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

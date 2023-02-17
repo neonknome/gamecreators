@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10923388" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scary/Orlando/Phantom/10923388.jpg
+		</thumbnail>
+		<title>Ultra Swampfire Battle</title>
+		<creator>Scary Orlando Phantom</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921550" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pretty/Oscar/Fireball/10921550.jpg
+		</thumbnail>
+		<title>Shadow Warrior Ultra</title>
+		<creator>Pretty Oscar Fireball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953620" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colorful/Paige/Hambone/10953620.jpg
+		</thumbnail>
+		<title>Universe Smash Mission</title>
+		<creator>Colorful Paige Hambone</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924399" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frosty/Cory/Cyclone/10924399.jpg
+		</thumbnail>
+		<title>Swampfire Spark Star</title>
+		<creator>Frosty Cory Cyclone</creator>
+		<relatedgames/>
+	</game>
+	<game id="17280623" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elastic/Connor/Sprocket/17280623.jpg
+		</thumbnail>
+		<title>Danger Power Adventure</title>
+		<creator>Elastic Connor Sprocket</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918666" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Generous/Homer/Potato/10918666.jpg
+		</thumbnail>
+		<title>Drone Ultimate Turbo</title>
+		<creator>Generous Homer Potato</creator>
+		<relatedgames/>
+	</game>
+	<game id="10649314" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shrewd/Baxter/Magma/10649314.jpg
+		</thumbnail>
+		<title>Light Power Rustbucket</title>
+		<creator>Shrewd Baxter Magma</creator>
+		<relatedgames/>
+	</game>
+	<game id="16999184" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cackling/Apollo/Cosmos/16999184.jpg
+		</thumbnail>
+		<title>Magno Ultimate Fusion</title>
+		<creator>Cackling Apollo Cosmos</creator>
+		<relatedgames/>
+	</game>
+	<game id="10061653" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fearsome/Julia/Vampire/10061653.jpg
+		</thumbnail>
+		<title>Drone Escape Space</title>
+		<creator>Fearsome Julia Vampire</creator>
+		<relatedgames/>
+	</game>
+	<game id="17585272" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jumping/Joel/Zigzag/17585272.jpg
+		</thumbnail>
+		<title>Adventure Adventure Hero</title>
+		<creator>Jumping Joel Zigzag</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

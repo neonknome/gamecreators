@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10939432" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ghostly/Julia/Planet/10939432.jpg
+		</thumbnail>
+		<title>Ultra Danger Storm</title>
+		<creator>Ghostly Julia Planet</creator>
+		<relatedgames/>
+	</game>
+	<game id="10016036" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Mumbling/Dorothy/Talon/10016036.jpg
+		</thumbnail>
+		<title>Force Ultimate Fire</title>
+		<creator>Mumbling Dorothy Talon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925948" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Silly/Joshua/Thunder/10925948.jpg
+		</thumbnail>
+		<title>Adventure Storm Siege</title>
+		<creator>Silly Joshua Thunder</creator>
+		<relatedgames/>
+	</game>
+	<game id="10063462" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Infamous/Florence/Crumpet/10063462.jpg
+		</thumbnail>
+		<title>Storm Turbo Turbo</title>
+		<creator>Infamous Florence Crumpet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17242231" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tough/Jose/Wombat/17242231.jpg
+		</thumbnail>
+		<title>Water Universe Rumble</title>
+		<creator>Tough Jose Wombat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10056546" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Bashful/Bjorn/Avocado/10056546.jpg
+		</thumbnail>
+		<title>Laser Laser Attack</title>
+		<creator>Bashful Bjorn Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952447" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sly/Gulliver/Glop/10952447.jpg
+		</thumbnail>
+		<title>Earth Pursuit Nitro</title>
+		<creator>Sly Gulliver Glop</creator>
+		<relatedgames/>
+	</game>
+	<game id="17331676" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Active/Ian/Cactus/17331676.jpg
+		</thumbnail>
+		<title>Adventure Blaster Alien</title>
+		<creator>Active Ian Cactus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17224970" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bouncing/Benton/Mummy/17224970.jpg
+		</thumbnail>
+		<title>Ben Jetray Beast</title>
+		<creator>Bouncing Benton Mummy</creator>
+		<relatedgames/>
+	</game>
+	<game id="17420517" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Evasive/Ashton/Unicycle/17420517.jpg
+		</thumbnail>
+		<title>Blaster Mission Titan</title>
+		<creator>Evasive Ashton Unicycle</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

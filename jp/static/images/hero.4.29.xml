@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10059447" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Surreal/Max/Tusk/10059447.jpg
+		</thumbnail>
+		<title>Doom Doom Siege</title>
+		<creator>Surreal Max Tusk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10950902" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awful/Dylan/Sprinkle/10950902.jpg
+		</thumbnail>
+		<title>Hyper Thunder Assault</title>
+		<creator>Awful Dylan Sprinkle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10938061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Lively/Felix/Cipher/10938061.jpg
+		</thumbnail>
+		<title>Racer Universe Sonic</title>
+		<creator>Lively Felix Cipher</creator>
+		<relatedgames/>
+	</game>
+	<game id="16977289" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Regular/Will/Noob/16977289.jpg
+		</thumbnail>
+		<title>Ultimate Shadow Invasion</title>
+		<creator>Regular Will Noob</creator>
+		<relatedgames/>
+	</game>
+	<game id="16962875" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Aromatic/Chuck/Planet/16962875.jpg
+		</thumbnail>
+		<title>Attack Dark Racer</title>
+		<creator>Aromatic Chuck Planet</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916890" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Billy/Glacier/10916890.jpg
+		</thumbnail>
+		<title>Quake Robot Pursuit</title>
+		<creator>Dashing Billy Glacier</creator>
+		<relatedgames/>
+	</game>
+	<game id="17407467" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Green/Vince/Warthog/17407467.jpg
+		</thumbnail>
+		<title>Mission Nitro Vilgax</title>
+		<creator>Green Vince Warthog</creator>
+		<relatedgames/>
+	</game>
+	<game id="16948692" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/Alyssa/Blammo/16948692.jpg
+		</thumbnail>
+		<title>Rush Breaker Storm</title>
+		<creator>Fiery Alyssa Blammo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10649584" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Rudolph/Spider/10649584.jpg
+		</thumbnail>
+		<title>Pursuit Alien Attack</title>
+		<creator>Red Rudolph Spider</creator>
+		<relatedgames/>
+	</game>
+	<game id="16930985" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Splendid/Simon/Sardine/16930985.jpg
+		</thumbnail>
+		<title>Shock Charge Rocket</title>
+		<creator>Splendid Simon Sardine</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

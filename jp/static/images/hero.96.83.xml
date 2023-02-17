@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17331560" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Giggling/Lydia/Rhythm/17331560.jpg
+		</thumbnail>
+		<title>Ultimate Echo Assault</title>
+		<creator>Giggling Lydia Rhythm</creator>
+		<relatedgames/>
+	</game>
+	<game id="17343320" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Musical/Nicolas/Noob/17343320.jpg
+		</thumbnail>
+		<title>Spike Defense Vilgax</title>
+		<creator>Musical Nicolas Noob</creator>
+		<relatedgames/>
+	</game>
+	<game id="17146824" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Extreme/Alan/Avocado/17146824.jpg
+		</thumbnail>
+		<title>Hyper Adventure Chase</title>
+		<creator>Extreme Alan Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="17397946" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ironclad/Gigi/Rhyme/17397946.jpg
+		</thumbnail>
+		<title>Fusion Big Sonic</title>
+		<creator>Ironclad Gigi Rhyme</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921864" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tricky/Cheyenne/Iceberg/10921864.jpg
+		</thumbnail>
+		<title>Ultimate Alien Smash</title>
+		<creator>Tricky Cheyenne Iceberg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10046147" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Noble/Rapunzel/Banjo/10046147.jpg
+		</thumbnail>
+		<title>Alien Ambush Pursuit</title>
+		<creator>Noble Rapunzel Banjo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17239564" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Snazzy/Mandy/Thing/17239564.jpg
+		</thumbnail>
+		<title>Titan Spark Defense</title>
+		<creator>Snazzy Mandy Thing</creator>
+		<relatedgames/>
+	</game>
+	<game id="17578288" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Admiral/Sofia/Mars/17578288.jpg
+		</thumbnail>
+		<title>Echo Adventure Hero</title>
+		<creator>Admiral Sofia Mars</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921643" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magnetic/Ernie/Rumble/10921643.jpg
+		</thumbnail>
+		<title>Rampage Defense Galaxy</title>
+		<creator>Magnetic Ernie Rumble</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953304" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scary/James/Lavender/10953304.jpg
+		</thumbnail>
+		<title>Rustbucket Magno Plasma</title>
+		<creator>Scary James Lavender</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

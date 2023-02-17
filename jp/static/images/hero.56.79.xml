@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16995598" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Drake/Sorcerer/16995598.jpg
+		</thumbnail>
+		<title>Charge Alien Clash</title>
+		<creator>Flying Drake Sorcerer</creator>
+		<relatedgames/>
+	</game>
+	<game id="17554265" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loud/Carson/Blob/17554265.jpg
+		</thumbnail>
+		<title>Plumber Nova Stone</title>
+		<creator>Loud Carson Blob</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952824" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Blue/Chad/Nova/10952824.jpg
+		</thumbnail>
+		<title>Doom Rumble Challenge</title>
+		<creator>Blue Chad Nova</creator>
+		<relatedgames/>
+	</game>
+	<game id="17315386" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Emperor/Joshua/Slurp/17315386.jpg
+		</thumbnail>
+		<title>Shadow Quake Charge</title>
+		<creator>Emperor Joshua Slurp</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935324" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Riley/Ketchup/10935324.jpg
+		</thumbnail>
+		<title>Metal Alien Ambush</title>
+		<creator>Humorous Riley Ketchup</creator>
+		<relatedgames/>
+	</game>
+	<game id="17332691" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Musical/Noah/Nanobot/17332691.jpg
+		</thumbnail>
+		<title>Assault Rumble Power</title>
+		<creator>Musical Noah Nanobot</creator>
+		<relatedgames/>
+	</game>
+	<game id="16886469" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ironic/Amanda/Turbo/16886469.jpg
+		</thumbnail>
+		<title>Solar Sonic Slam</title>
+		<creator>Ironic Amanda Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935773" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tricky/Dixie/Creature/10935773.jpg
+		</thumbnail>
+		<title>Swampfire Target Challenge</title>
+		<creator>Tricky Dixie Creature</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920288" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bizarre/Jonathan/Gong/10920288.jpg
+		</thumbnail>
+		<title>Escape Beast Adventure</title>
+		<creator>Bizarre Jonathan Gong</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918670" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sneaky/Bubba/Kumquat/10918670.jpg
+		</thumbnail>
+		<title>Cosmic Steel Warrior</title>
+		<creator>Sneaky Bubba Kumquat</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

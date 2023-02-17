@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10926778" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shaggy/Brett/Shark/10926778.jpg
+		</thumbnail>
+		<title>Doom Atomic Razor</title>
+		<creator>Shaggy Brett Shark</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953381" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cheerful/Vincent/Dragon/10953381.jpg
+		</thumbnail>
+		<title>Plasma Giga Droid</title>
+		<creator>Cheerful Vincent Dragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Surreal/Grace/Flypaper/10924687.jpg
+		</thumbnail>
+		<title>Clash Alien Adventure</title>
+		<creator>Surreal Grace Flypaper</creator>
+		<relatedgames/>
+	</game>
+	<game id="17234945" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awful/Bobby/Fossil/17234945.jpg
+		</thumbnail>
+		<title>Racer Adventure Light</title>
+		<creator>Awful Bobby Fossil</creator>
+		<relatedgames/>
+	</game>
+	<game id="17554036" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Heroic/Gavin/Fury/17554036.jpg
+		</thumbnail>
+		<title>Adventure Assault Clash</title>
+		<creator>Heroic Gavin Fury</creator>
+		<relatedgames/>
+	</game>
+	<game id="17210717" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Vast/Jack/Creature/17210717.jpg
+		</thumbnail>
+		<title>Metal Iron Defense</title>
+		<creator>Vast Jack Creature</creator>
+		<relatedgames/>
+	</game>
+	<game id="10917836" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Darling/Buffy/Narwhal/10917836.jpg
+		</thumbnail>
+		<title>Universe Adventure Adventure</title>
+		<creator>Darling Buffy Narwhal</creator>
+		<relatedgames/>
+	</game>
+	<game id="10780341" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Green/Holly/Crater/10780341.jpg
+		</thumbnail>
+		<title>Shock Defense Magno</title>
+		<creator>Green Holly Crater</creator>
+		<relatedgames/>
+	</game>
+	<game id="17413070" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Soggy/Quinn/Pizza/17413070.jpg
+		</thumbnail>
+		<title>Star Attack Magno</title>
+		<creator>Soggy Quinn Pizza</creator>
+		<relatedgames/>
+	</game>
+	<game id="10937036" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Laura/Jungle/10937036.jpg
+		</thumbnail>
+		<title>Ultra Mega Fire</title>
+		<creator>Red Laura Jungle</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

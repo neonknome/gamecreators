@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10647540" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proper/Ben/Popcorn/10647540.jpg
+		</thumbnail>
+		<title>Blaster Robot Universe</title>
+		<creator>Proper Ben Popcorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="16969957" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Haunted/Harry/Catapult/16969957.jpg
+		</thumbnail>
+		<title>Warp Fire Warrior</title>
+		<creator>Haunted Harry Catapult</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953231" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Orange/Donald/Pinwheel/10953231.jpg
+		</thumbnail>
+		<title>Ultimate Dark Nano</title>
+		<creator>Orange Donald Pinwheel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921236" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sporty/Matt/Citrus/10921236.jpg
+		</thumbnail>
+		<title>Sonic Hero Universe</title>
+		<creator>Sporty Matt Citrus</creator>
+		<relatedgames/>
+	</game>
+	<game id="16971326" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Captain/Tony/Bucket/16971326.jpg
+		</thumbnail>
+		<title>Cosmic Gear Quake</title>
+		<creator>Captain Tony Bucket</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924601" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Atomic/Vinny/Sawtooth/10924601.jpg
+		</thumbnail>
+		<title>Attack Alien Force</title>
+		<creator>Atomic Vinny Sawtooth</creator>
+		<relatedgames/>
+	</game>
+	<game id="10058809" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Happy/Simon/Steam/10058809.jpg
+		</thumbnail>
+		<title>Swampfire Blaster Smash</title>
+		<creator>Happy Simon Steam</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918533" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Odd/Gary/Pirate/10918533.jpg
+		</thumbnail>
+		<title>Quake Danger Battle</title>
+		<creator>Odd Gary Pirate</creator>
+		<relatedgames/>
+	</game>
+	<game id="10069204" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Lucky/Simon/Droid/10069204.jpg
+		</thumbnail>
+		<title>Nano Hex Giga</title>
+		<creator>Lucky Simon Droid</creator>
+		<relatedgames/>
+	</game>
+	<game id="10062600" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Weird/Grover/Monkey/10062600.jpg
+		</thumbnail>
+		<title>Swampfire Fire Universe</title>
+		<creator>Weird Grover Monkey</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

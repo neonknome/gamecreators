@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17554265" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loud/Carson/Blob/17554265.jpg
+		</thumbnail>
+		<title>Plumber Nova Stone</title>
+		<creator>Loud Carson Blob</creator>
+		<relatedgames/>
+	</game>
+	<game id="16983993" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Visible/Gladys/Kangaroo/16983993.jpg
+		</thumbnail>
+		<title>Patrol Ultimate Beast</title>
+		<creator>Visible Gladys Kangaroo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10947203" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ornery/Bjorn/Wizard/10947203.jpg
+		</thumbnail>
+		<title>Nitro Swampfire Storm</title>
+		<creator>Ornery Bjorn Wizard</creator>
+		<relatedgames/>
+	</game>
+	<game id="17562599" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Steven/Buffalo/17562599.jpg
+		</thumbnail>
+		<title>Escape Burst Defense</title>
+		<creator>Steven Buffalo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921283" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Charming/Chase/Behemoth/10921283.jpg
+		</thumbnail>
+		<title>Rumble Adventure Iron</title>
+		<creator>Charming Chase Behemoth</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924684" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fizzy/Jackie/Iceberg/10924684.jpg
+		</thumbnail>
+		<title>Mission Turbo Sonic</title>
+		<creator>Fizzy Jackie Iceberg</creator>
+		<relatedgames/>
+	</game>
+	<game id="17022147" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loony/Ricardo/Quake/17022147.jpg
+		</thumbnail>
+		<title>Adventure Thunder Blaster</title>
+		<creator>Loony Ricardo Quake</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926706" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Orange/Luis/Fireball/10926706.jpg
+		</thumbnail>
+		<title>Adventure Metal Siege</title>
+		<creator>Orange Luis Fireball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921874" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magnetic/Ernie/Rumble/10921874.jpg
+		</thumbnail>
+		<title>Rampage Champion Swampfire</title>
+		<creator>Magnetic Ernie Rumble</creator>
+		<relatedgames/>
+	</game>
+	<game id="16943806" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Musical/Bradley/Centaur/16943806.jpg
+		</thumbnail>
+		<title>Quake Rumble Mega</title>
+		<creator>Musical Bradley Centaur</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

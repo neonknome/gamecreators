@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16981662" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Duke/Funk/16981662.jpg
+		</thumbnail>
+		<title>Thunder Power Cannonbolt</title>
+		<creator>Barbaric Duke Funk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925521" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eerie/Dominic/Quack/10925521.jpg
+		</thumbnail>
+		<title>Turbo Titan Patrol</title>
+		<creator>Eerie Dominic Quack</creator>
+		<relatedgames/>
+	</game>
+	<game id="17161179" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Galactic/Zeus/Celsius/17161179.jpg
+		</thumbnail>
+		<title>Chill Nano Adventure</title>
+		<creator>Galactic Zeus Celsius</creator>
+		<relatedgames/>
+	</game>
+	<game id="10034816" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Merry/Bjorn/Witch/10034816.jpg
+		</thumbnail>
+		<title>Fire Blaster Force</title>
+		<creator>Merry Bjorn Witch</creator>
+		<relatedgames/>
+	</game>
+	<game id="16981505" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Enormous/Bella/Bucket/16981505.jpg
+		</thumbnail>
+		<title>Adventure Lightning Challenge</title>
+		<creator>Enormous Bella Bucket</creator>
+		<relatedgames/>
+	</game>
+	<game id="17312104" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hyper/Ariana/Calypso/17312104.jpg
+		</thumbnail>
+		<title>Blaster Spark Alien</title>
+		<creator>Hyper Ariana Calypso</creator>
+		<relatedgames/>
+	</game>
+	<game id="17320483" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Talented/Adam/Tiger/17320483.jpg
+		</thumbnail>
+		<title>Adventure Alien Ambush</title>
+		<creator>Talented Adam Tiger</creator>
+		<relatedgames/>
+	</game>
+	<game id="17326887" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mystic/Maxwell/Martian/17326887.jpg
+		</thumbnail>
+		<title>Jetray Quake Fire</title>
+		<creator>Mystic Maxwell Martian</creator>
+		<relatedgames/>
+	</game>
+	<game id="17393705" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sinister/Marcus/Oink/17393705.jpg
+		</thumbnail>
+		<title>Hero Alien Beast</title>
+		<creator>Sinister Marcus Oink</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918539" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Absurd/Blake/Eggplant/10918539.jpg
+		</thumbnail>
+		<title>Beast Universe Doom</title>
+		<creator>Absurd Blake Eggplant</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

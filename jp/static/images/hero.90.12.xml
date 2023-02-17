@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10068680" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dapper/Jada/Cyborg/10068680.jpg
+		</thumbnail>
+		<title>Patrol Nova Nitro</title>
+		<creator>Dapper Jada Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10786380" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Joyous/Logan/Spiral/10786380.jpg
+		</thumbnail>
+		<title>Slam Steel Earth</title>
+		<creator>Joyous Logan Spiral</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953199" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reckless/Emily/Spiral/10953199.jpg
+		</thumbnail>
+		<title>Danger Plumber Storm</title>
+		<creator>Reckless Emily Spiral</creator>
+		<relatedgames/>
+	</game>
+	<game id="17164092" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ultimate/Scott/Calypso/17164092.jpg
+		</thumbnail>
+		<title>Siege Dark Space</title>
+		<creator>Ultimate Scott Calypso</creator>
+		<relatedgames/>
+	</game>
+	<game id="10069100" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Alien/Jacob/Brick/10069100.jpg
+		</thumbnail>
+		<title>Swampfire Hero Hex</title>
+		<creator>Alien Jacob Brick</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926927" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dainty/Darla/Ketchup/10926927.jpg
+		</thumbnail>
+		<title>Doom Rampage Defense</title>
+		<creator>Dainty Darla Ketchup</creator>
+		<relatedgames/>
+	</game>
+	<game id="17019670" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Golden/Tex/Tornado/17019670.jpg
+		</thumbnail>
+		<title>Chill Nano Spark</title>
+		<creator>Golden Tex Tornado</creator>
+		<relatedgames/>
+	</game>
+	<game id="17415515" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radical/Nick/Cutlass/17415515.jpg
+		</thumbnail>
+		<title>Cosmic Rocket Universe</title>
+		<creator>Radical Nick Cutlass</creator>
+		<relatedgames/>
+	</game>
+	<game id="10943083" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Elijah/Fossil/10943083.jpg
+		</thumbnail>
+		<title>Ultimate Shock Magno</title>
+		<creator>Alien Elijah Fossil</creator>
+		<relatedgames/>
+	</game>
+	<game id="17126481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Restless/Xerxes/Kook/17126481.jpg
+		</thumbnail>
+		<title>Sonic Chase Blaster</title>
+		<creator>Restless Xerxes Kook</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

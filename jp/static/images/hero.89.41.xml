@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10926785" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Natasha/Tempest/10926785.jpg
+		</thumbnail>
+		<title>Pursuit Mega Nano</title>
+		<creator>Honest Natasha Tempest</creator>
+		<relatedgames/>
+	</game>
+	<game id="17540856" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Plucky/Drew/Yak/17540856.jpg
+		</thumbnail>
+		<title>Shadow Steel Crusher</title>
+		<creator>Plucky Drew Yak</creator>
+		<relatedgames/>
+	</game>
+	<game id="16902585" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stubborn/Aiden/Beast/16902585.jpg
+		</thumbnail>
+		<title>Atomic Adventure Cosmic</title>
+		<creator>Stubborn Aiden Beast</creator>
+		<relatedgames/>
+	</game>
+	<game id="10938798" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Massive/Hansel/Basilisk/10938798.jpg
+		</thumbnail>
+		<title>Swampfire Galaxy Smash</title>
+		<creator>Massive Hansel Basilisk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10947189" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Yellow/Scooter/Manatee/10947189.jpg
+		</thumbnail>
+		<title>Rumble Pulse Cosmic</title>
+		<creator>Yellow Scooter Manatee</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952702" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Phyllis/Talon/10952702.jpg
+		</thumbnail>
+		<title>Swampfire Rustbucket Rocket</title>
+		<creator>Chilly Phyllis Talon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953554" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Swift/Owen/Gumbo/10953554.jpg
+		</thumbnail>
+		<title>Turbo Turbo Battle</title>
+		<creator>Swift Owen Gumbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17414730" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Complex/James/Karate/17414730.jpg
+		</thumbnail>
+		<title>Mega Ambush Mission</title>
+		<creator>Complex James Karate</creator>
+		<relatedgames/>
+	</game>
+	<game id="17279509" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Justin/Phoenix/17279509.jpg
+		</thumbnail>
+		<title>Danger Cosmic Fire</title>
+		<creator>Humorous Justin Phoenix</creator>
+		<relatedgames/>
+	</game>
+	<game id="10647540" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proper/Ben/Popcorn/10647540.jpg
+		</thumbnail>
+		<title>Blaster Robot Universe</title>
+		<creator>Proper Ben Popcorn</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

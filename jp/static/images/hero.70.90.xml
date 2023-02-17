@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10918863" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eager/Katelyn/Ooze/10918863.jpg
+		</thumbnail>
+		<title>Ultimate Fury Invasion</title>
+		<creator>Eager Katelyn Ooze</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952398" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Comical/Ray/Worm/10952398.jpg
+		</thumbnail>
+		<title>Hyper Shock Mission</title>
+		<creator>Comical Ray Worm</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924091" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Funny/Miguel/Gumshoe/10924091.jpg
+		</thumbnail>
+		<title>Assault Gear Slam</title>
+		<creator>Funny Miguel Gumshoe</creator>
+		<relatedgames/>
+	</game>
+	<game id="17378888" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Major/Alan/Cartoon/17378888.jpg
+		</thumbnail>
+		<title>Ultra Laser Battle</title>
+		<creator>Major Alan Cartoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922399" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brawny/Nathan/Moonbeam/10922399.jpg
+		</thumbnail>
+		<title>Turbo Robot Shock</title>
+		<creator>Brawny Nathan Moonbeam</creator>
+		<relatedgames/>
+	</game>
+	<game id="17577028" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Famous/Flapjack/Shogun/17577028.jpg
+		</thumbnail>
+		<title>Echo Alien Omniverse</title>
+		<creator>Famous Flapjack Shogun</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942820" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Itchy/Wilbur/Moonbeam/10942820.jpg
+		</thumbnail>
+		<title>Swampfire Invasion Nano</title>
+		<creator>Itchy Wilbur Moonbeam</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952770" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nomadic/Ryan/Grouch/10952770.jpg
+		</thumbnail>
+		<title>Magno Magno Hex</title>
+		<creator>Nomadic Ryan Grouch</creator>
+		<relatedgames/>
+	</game>
+	<game id="10704405" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Leaping/Emma/Molecule/10704405.jpg
+		</thumbnail>
+		<title>Fusion Pulse Chase</title>
+		<creator>Leaping Emma Molecule</creator>
+		<relatedgames/>
+	</game>
+	<game id="16891507" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Vast/Zach/Renegade/16891507.jpg
+		</thumbnail>
+		<title>Assault Alien Ambush</title>
+		<creator>Vast Zach Renegade</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17405990" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Diagonal/Cole/Crash/17405990.jpg
+		</thumbnail>
+		<title>Assault Earth Big</title>
+		<creator>Diagonal Cole Crash</creator>
+		<relatedgames/>
+	</game>
+	<game id="17179754" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gruesome/Doug/Gator/17179754.jpg
+		</thumbnail>
+		<title>Ultimate Challenge Hex</title>
+		<creator>Gruesome Doug Gator</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930955" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Absurd/Owen/Dragon/10930955.jpg
+		</thumbnail>
+		<title>Fire Force Power</title>
+		<creator>Absurd Owen Dragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10945498" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Twisty/Conrad/Nova/10945498.jpg
+		</thumbnail>
+		<title>Hyper Burst Energy</title>
+		<creator>Twisty Conrad Nova</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952919" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Blue/Jeffrey/Bullfrog/10952919.jpg
+		</thumbnail>
+		<title>Hyper Invasion Rampage</title>
+		<creator>Blue Jeffrey Bullfrog</creator>
+		<relatedgames/>
+	</game>
+	<game id="17345648" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Agile/Hannah/Balloon/17345648.jpg
+		</thumbnail>
+		<title>Magno Ben Hex</title>
+		<creator>Agile Hannah Balloon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10045066" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Crispy/Wilma/Turbo/10045066.jpg
+		</thumbnail>
+		<title>Rock Rustbucket Rustbucket</title>
+		<creator>Crispy Wilma Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10936465" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Itchy/Cameron/Blammo/10936465.jpg
+		</thumbnail>
+		<title>Pursuit Earth Thunder</title>
+		<creator>Itchy Cameron Blammo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17223749" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quick/Chuck/Cobweb/17223749.jpg
+		</thumbnail>
+		<title>Techno Stone Fusion</title>
+		<creator>Quick Chuck Cobweb</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922700" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tricky/Ingrid/Unicorn/10922700.jpg
+		</thumbnail>
+		<title>Iron Pulse Storm</title>
+		<creator>Tricky Ingrid Unicorn</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

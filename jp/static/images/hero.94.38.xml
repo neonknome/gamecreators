@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17343024" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spectral/Don/Goblin/17343024.jpg
+		</thumbnail>
+		<title>Cosmic Rock Breaker</title>
+		<creator>Spectral Don Goblin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10917018" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reliable/Victor/Whizbang/10917018.jpg
+		</thumbnail>
+		<title>Solar Storm Chase</title>
+		<creator>Reliable Victor Whizbang</creator>
+		<relatedgames/>
+	</game>
+	<game id="10058550" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Beastly/Duke/Stampede/10058550.jpg
+		</thumbnail>
+		<title>Sonic Alien Invasion</title>
+		<creator>Beastly Duke Stampede</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923431" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Bryan/Goofball/10923431.jpg
+		</thumbnail>
+		<title>Crusher Ambush Assault</title>
+		<creator>Humorous Bryan Goofball</creator>
+		<relatedgames/>
+	</game>
+	<game id="17358453" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Profound/Bernard/Scribble/17358453.jpg
+		</thumbnail>
+		<title>Shock Vilgax Droid</title>
+		<creator>Profound Bernard Scribble</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923562" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mumbling/Spencer/Stampede/10923562.jpg
+		</thumbnail>
+		<title>Razor Rustbucket Adventure</title>
+		<creator>Mumbling Spencer Stampede</creator>
+		<relatedgames/>
+	</game>
+	<game id="17163650" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quantum/Tanner/Skeleton/17163650.jpg
+		</thumbnail>
+		<title>Galaxy Alien Spark</title>
+		<creator>Quantum Tanner Skeleton</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919862" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Towering/Brandy/Nibbles/10919862.jpg
+		</thumbnail>
+		<title>Burst Power Challenge</title>
+		<creator>Towering Brandy Nibbles</creator>
+		<relatedgames/>
+	</game>
+	<game id="17191784" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Active/Michael/Trooper/17191784.jpg
+		</thumbnail>
+		<title>Razor Droid Galaxy</title>
+		<creator>Active Michael Trooper</creator>
+		<relatedgames/>
+	</game>
+	<game id="17552197" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crazy/Edd/Mahogany/17552197.jpg
+		</thumbnail>
+		<title>Siege Metal Titan</title>
+		<creator>Crazy Edd Mahogany</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

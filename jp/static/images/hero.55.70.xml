@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10930139" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Yellow/Zelda/Bullfrog/10930139.jpg
+		</thumbnail>
+		<title>Ultra Challenge Storm</title>
+		<creator>Yellow Zelda Bullfrog</creator>
+		<relatedgames/>
+	</game>
+	<game id="17288662" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Rancid/Chester/Magician/17288662.jpg
+		</thumbnail>
+		<title>Titan Alien Nano</title>
+		<creator>Rancid Chester Magician</creator>
+		<relatedgames/>
+	</game>
+	<game id="10061756" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Normal/Tony/Robot/10061756.jpg
+		</thumbnail>
+		<title>Power Plumber Rustbucket</title>
+		<creator>Normal Tony Robot</creator>
+		<relatedgames/>
+	</game>
+	<game id="10050014" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Alien/Hazel/Fishbowl/10050014.jpg
+		</thumbnail>
+		<title>Ultimate Adventure Ambush</title>
+		<creator>Alien Hazel Fishbowl</creator>
+		<relatedgames/>
+	</game>
+	<game id="17313005" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Roaring/Douglas/Fuzz/17313005.jpg
+		</thumbnail>
+		<title>Fire Adventure Iron</title>
+		<creator>Roaring Douglas Fuzz</creator>
+		<relatedgames/>
+	</game>
+	<game id="17319185" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Virtual/Johnny/Vortex/17319185.jpg
+		</thumbnail>
+		<title>Cosmic Assault Alien</title>
+		<creator>Virtual Johnny Vortex</creator>
+		<relatedgames/>
+	</game>
+	<game id="17386150" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Ellen/Zigzag/17386150.jpg
+		</thumbnail>
+		<title>Ultimate Stone Turbo</title>
+		<creator>Dazzling Ellen Zigzag</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930994" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fizzy/Casey/Flipper/10930994.jpg
+		</thumbnail>
+		<title>Fire Fire Warrior</title>
+		<creator>Fizzy Casey Flipper</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916958" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loony/Ace/Eel/10916958.jpg
+		</thumbnail>
+		<title>Lightning Rampage Droid</title>
+		<creator>Loony Ace Eel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10056378" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Reliable/Norman/Gazelle/10056378.jpg
+		</thumbnail>
+		<title>Galaxy Fire Breaker</title>
+		<creator>Reliable Norman Gazelle</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

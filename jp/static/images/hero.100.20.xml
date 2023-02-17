@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10933180" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Funky/Pearl/Zombie/10933180.jpg
+		</thumbnail>
+		<title>Galaxy Titan Breaker</title>
+		<creator>Funky Pearl Zombie</creator>
+		<relatedgames/>
+	</game>
+	<game id="17269325" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Seismic/Bert/Mercury/17269325.jpg
+		</thumbnail>
+		<title>Star Plumber Thunder</title>
+		<creator>Seismic Bert Mercury</creator>
+		<relatedgames/>
+	</game>
+	<game id="10047186" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Awesome/Trevor/Bison/10047186.jpg
+		</thumbnail>
+		<title>Ambush Nitro Alien</title>
+		<creator>Awesome Trevor Bison</creator>
+		<relatedgames/>
+	</game>
+	<game id="17160674" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Silly/Franklin/Foghorn/17160674.jpg
+		</thumbnail>
+		<title>Adventure Earth Patrol</title>
+		<creator>Silly Franklin Foghorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="16993737" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baroness/Anna/Beast/16993737.jpg
+		</thumbnail>
+		<title>Rescue Techno Fusion</title>
+		<creator>Baroness Anna Beast</creator>
+		<relatedgames/>
+	</game>
+	<game id="16840527" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Electric/Jeffrey/Wingding/16840527.jpg
+		</thumbnail>
+		<title>Crusher Energy Rampage</title>
+		<creator>Electric Jeffrey Wingding</creator>
+		<relatedgames/>
+	</game>
+	<game id="17327969" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Howling/Seth/Virtuoso/17327969.jpg
+		</thumbnail>
+		<title>Fire Drone Adventure</title>
+		<creator>Howling Seth Virtuoso</creator>
+		<relatedgames/>
+	</game>
+	<game id="16948219" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gentle/Rosetta/Snowball/16948219.jpg
+		</thumbnail>
+		<title>Shock Big Cannonbolt</title>
+		<creator>Gentle Rosetta Snowball</creator>
+		<relatedgames/>
+	</game>
+	<game id="17285614" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mirthful/Destiny/Citrus/17285614.jpg
+		</thumbnail>
+		<title>Spike Spike Blaster</title>
+		<creator>Mirthful Destiny Citrus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17259995" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shrewd/Stanley/Sunset/17259995.jpg
+		</thumbnail>
+		<title>Warrior Robot Giga</title>
+		<creator>Shrewd Stanley Sunset</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

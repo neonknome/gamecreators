@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10923281" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frosty/Zoe/Planet/10923281.jpg
+		</thumbnail>
+		<title>Battle Shadow Ambush</title>
+		<creator>Frosty Zoe Planet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17409654" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magnetic/Lucas/Mars/17409654.jpg
+		</thumbnail>
+		<title>Assault Titan Laser</title>
+		<creator>Magnetic Lucas Mars</creator>
+		<relatedgames/>
+	</game>
+	<game id="10033720" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Scary/Morgan/Mummy/10033720.jpg
+		</thumbnail>
+		<title>Humongousaur Hex Thunder</title>
+		<creator>Scary Morgan Mummy</creator>
+		<relatedgames/>
+	</game>
+	<game id="17372287" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Average/Owen/Monster/17372287.jpg
+		</thumbnail>
+		<title>Steel Space Techno</title>
+		<creator>Average Owen Monster</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930760" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shrewd/Mia/Wombat/10930760.jpg
+		</thumbnail>
+		<title>Invasion Earth Magno</title>
+		<creator>Shrewd Mia Wombat</creator>
+		<relatedgames/>
+	</game>
+	<game id="17403331" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Keen/Helen/Tundra/17403331.jpg
+		</thumbnail>
+		<title>Adventure Alien Droid</title>
+		<creator>Keen Helen Tundra</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924349" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Unusual/Daniel/Waffle/10924349.jpg
+		</thumbnail>
+		<title>Escape Defense Gear</title>
+		<creator>Unusual Daniel Waffle</creator>
+		<relatedgames/>
+	</game>
+	<game id="16860361" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Cameron/Grackle/16860361.jpg
+		</thumbnail>
+		<title>Titan Defense Whirlwind</title>
+		<creator>Obvious Cameron Grackle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10939122" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Bubba/Mustard/10939122.jpg
+		</thumbnail>
+		<title>Adventure Shock Chase</title>
+		<creator>Daring Bubba Mustard</creator>
+		<relatedgames/>
+	</game>
+	<game id="16886464" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Volcanic/Chowder/Cyborg/16886464.jpg
+		</thumbnail>
+		<title>Ultra Spike Fusion</title>
+		<creator>Volcanic Chowder Cyborg</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

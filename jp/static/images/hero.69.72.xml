@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17275942" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Timmy/Yak/17275942.jpg
+		</thumbnail>
+		<title>Ben Techno Warrior</title>
+		<creator>Zany Timmy Yak</creator>
+		<relatedgames/>
+	</game>
+	<game id="17227748" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baron/Benjamin/Twilight/17227748.jpg
+		</thumbnail>
+		<title>Whirlwind Giga Chill</title>
+		<creator>Baron Benjamin Twilight</creator>
+		<relatedgames/>
+	</game>
+	<game id="17346658" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Electric/Bailey/Beast/17346658.jpg
+		</thumbnail>
+		<title>Champion Stone Slam</title>
+		<creator>Electric Bailey Beast</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923136" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Horrid/Mario/Dwarf/10923136.jpg
+		</thumbnail>
+		<title>Mission Vilgax Fusion</title>
+		<creator>Horrid Mario Dwarf</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055578" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Mighty/Jesse/Bonkers/10055578.jpg
+		</thumbnail>
+		<title>Rescue Adventure Attack</title>
+		<creator>Mighty Jesse Bonkers</creator>
+		<relatedgames/>
+	</game>
+	<game id="17191368" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hypnotic/Jayden/Marmoset/17191368.jpg
+		</thumbnail>
+		<title>Nova Power Adventure</title>
+		<creator>Hypnotic Jayden Marmoset</creator>
+		<relatedgames/>
+	</game>
+	<game id="17562390" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tall/Sara/Hippo/17562390.jpg
+		</thumbnail>
+		<title>Fury Adventure Ambush</title>
+		<creator>Tall Sara Hippo</creator>
+		<relatedgames/>
+	</game>
+	<game id="16982800" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Duke/Funk/16982800.jpg
+		</thumbnail>
+		<title>Pulse Rampage Adventure</title>
+		<creator>Barbaric Duke Funk</creator>
+		<relatedgames/>
+	</game>
+	<game id="16954763" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sleepy/Cameron/Gamer/16954763.jpg
+		</thumbnail>
+		<title>Ultimate Escape Racer</title>
+		<creator>Sleepy Cameron Gamer</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916846" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Absurd/Rocky/Penguin/10916846.jpg
+		</thumbnail>
+		<title>Ben Magno Blaster</title>
+		<creator>Absurd Rocky Penguin</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

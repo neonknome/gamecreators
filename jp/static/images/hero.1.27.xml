@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17322770" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/Holly/Phoenix/17322770.jpg
+		</thumbnail>
+		<title>Spike Star Clash</title>
+		<creator>Fiery Holly Phoenix</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933602" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dreadful/Joshua/Techno/10933602.jpg
+		</thumbnail>
+		<title>Swampfire Ultimate Chase</title>
+		<creator>Dreadful Joshua Techno</creator>
+		<relatedgames/>
+	</game>
+	<game id="10058809" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Happy/Simon/Steam/10058809.jpg
+		</thumbnail>
+		<title>Swampfire Blaster Smash</title>
+		<creator>Happy Simon Steam</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916670" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frantic/Spike/Cobweb/10916670.jpg
+		</thumbnail>
+		<title>Ambush Turbo Racer</title>
+		<creator>Frantic Spike Cobweb</creator>
+		<relatedgames/>
+	</game>
+	<game id="17535805" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ruthless/Dustin/Gulch/17535805.jpg
+		</thumbnail>
+		<title>Gear Adventure Spidermonkey</title>
+		<creator>Ruthless Dustin Gulch</creator>
+		<relatedgames/>
+	</game>
+	<game id="10929318" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Atomic/Jordan/Atom/10929318.jpg
+		</thumbnail>
+		<title>Robot Turbo Warrior</title>
+		<creator>Atomic Jordan Atom</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924453" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dramatic/Luke/Charger/10924453.jpg
+		</thumbnail>
+		<title>Invasion Mission Nova</title>
+		<creator>Dramatic Luke Charger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10947189" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Yellow/Scooter/Manatee/10947189.jpg
+		</thumbnail>
+		<title>Rumble Pulse Cosmic</title>
+		<creator>Yellow Scooter Manatee</creator>
+		<relatedgames/>
+	</game>
+	<game id="17551176" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Earnest/Meredith/Tiger/17551176.jpg
+		</thumbnail>
+		<title>Power Siege Rumble</title>
+		<creator>Earnest Meredith Tiger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952675" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Florence/Squeegee/10952675.jpg
+		</thumbnail>
+		<title>Swampfire Fury Attack</title>
+		<creator>Honest Florence Squeegee</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

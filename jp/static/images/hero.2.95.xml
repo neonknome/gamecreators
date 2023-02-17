@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17305923" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Bryce/Cyborg/17305923.jpg
+		</thumbnail>
+		<title>Patrol Turbo Chase</title>
+		<creator>Daring Bryce Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="17377392" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Burly/Jacob/Blast/17377392.jpg
+		</thumbnail>
+		<title>Nitro Big Adventure</title>
+		<creator>Burly Jacob Blast</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952734" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jumping/Billy/Vittles/10952734.jpg
+		</thumbnail>
+		<title>Shock Rocket Mission</title>
+		<creator>Jumping Billy Vittles</creator>
+		<relatedgames/>
+	</game>
+	<game id="17415229" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reckless/Ernest/Fathom/17415229.jpg
+		</thumbnail>
+		<title>Siege Hero Sonic</title>
+		<creator>Reckless Ernest Fathom</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916968" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Northern/Shelby/Goulash/10916968.jpg
+		</thumbnail>
+		<title>Attack Adventure Racer</title>
+		<creator>Northern Shelby Goulash</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926237" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Robotic/Tyler/Cobweb/10926237.jpg
+		</thumbnail>
+		<title>Attack Warrior Metal</title>
+		<creator>Robotic Tyler Cobweb</creator>
+		<relatedgames/>
+	</game>
+	<game id="17378050" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Visible/Luke/Yam/17378050.jpg
+		</thumbnail>
+		<title>Animo Fury Patrol</title>
+		<creator>Visible Luke Yam</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931749" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Swift/Raymond/Tempest/10931749.jpg
+		</thumbnail>
+		<title>Swampfire Ultra Cosmic</title>
+		<creator>Swift Raymond Tempest</creator>
+		<relatedgames/>
+	</game>
+	<game id="17258009" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mystic/Ed/Acorn/17258009.jpg
+		</thumbnail>
+		<title>Ultra Mission Nova</title>
+		<creator>Mystic Ed Acorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="17324891" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Singular/Shaggy/Robot/17324891.jpg
+		</thumbnail>
+		<title>Light Galaxy Ultra</title>
+		<creator>Singular Shaggy Robot</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

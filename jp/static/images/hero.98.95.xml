@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17384988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Robust/Isaac/Pudding/17384988.jpg
+		</thumbnail>
+		<title>Escape Nano Smash</title>
+		<creator>Robust Isaac Pudding</creator>
+		<relatedgames/>
+	</game>
+	<game id="17576978" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bumbling/Benton/Kazoo/17576978.jpg
+		</thumbnail>
+		<title>Star Vilgax Spike</title>
+		<creator>Bumbling Benton Kazoo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17305208" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stormy/Anthony/Pizza/17305208.jpg
+		</thumbnail>
+		<title>Pursuit Robot Robot</title>
+		<creator>Stormy Anthony Pizza</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924638" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artistic/Ramona/Prism/10924638.jpg
+		</thumbnail>
+		<title>Droid Escape Blaster</title>
+		<creator>Artistic Ramona Prism</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931272" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grouchy/Caleb/Atom/10931272.jpg
+		</thumbnail>
+		<title>Nitro Energy Charge</title>
+		<creator>Grouchy Caleb Atom</creator>
+		<relatedgames/>
+	</game>
+	<game id="17364488" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hectic/Taylor/Gazebo/17364488.jpg
+		</thumbnail>
+		<title>Ultimate Dark Fusion</title>
+		<creator>Hectic Taylor Gazebo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10064634" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Stately/Bob/Avocado/10064634.jpg
+		</thumbnail>
+		<title>Rumble Razor Turbo</title>
+		<creator>Stately Bob Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920193" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chaotic/Carson/Thunder/10920193.jpg
+		</thumbnail>
+		<title>Atomic Force Clash</title>
+		<creator>Chaotic Carson Thunder</creator>
+		<relatedgames/>
+	</game>
+	<game id="17372287" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Average/Owen/Monster/17372287.jpg
+		</thumbnail>
+		<title>Steel Space Techno</title>
+		<creator>Average Owen Monster</creator>
+		<relatedgames/>
+	</game>
+	<game id="17241860" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Creative/Jay/Buffalo/17241860.jpg
+		</thumbnail>
+		<title>Razor Echo Chill</title>
+		<creator>Creative Jay Buffalo</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

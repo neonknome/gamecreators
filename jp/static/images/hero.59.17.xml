@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17576666" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Prince/Summer/Spider/17576666.jpg
+		</thumbnail>
+		<title>Challenge Star Fury</title>
+		<creator>Prince Summer Spider</creator>
+		<relatedgames/>
+	</game>
+	<game id="10929624" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dynamic/Clyde/Fondue/10929624.jpg
+		</thumbnail>
+		<title>Ben Ben Ben</title>
+		<creator>Dynamic Clyde Fondue</creator>
+		<relatedgames/>
+	</game>
+	<game id="17554096" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frugal/Emmett/Rhombus/17554096.jpg
+		</thumbnail>
+		<title>Robot Challenge Vilgax</title>
+		<creator>Frugal Emmett Rhombus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17331653" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Electric/Izzy/Coconut/17331653.jpg
+		</thumbnail>
+		<title>Energy Whirlwind Cosmic</title>
+		<creator>Electric Izzy Coconut</creator>
+		<relatedgames/>
+	</game>
+	<game id="10063843" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Shrewd/Minerva/Aurora/10063843.jpg
+		</thumbnail>
+		<title>Storm Plasma Spike</title>
+		<creator>Shrewd Minerva Aurora</creator>
+		<relatedgames/>
+	</game>
+	<game id="17302569" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Scott/Snake/17302569.jpg
+		</thumbnail>
+		<title>Humungousaur Target Adventure</title>
+		<creator>Zany Scott Snake</creator>
+		<relatedgames/>
+	</game>
+	<game id="17585367" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Keen/Isaiah/Phoenix/17585367.jpg
+		</thumbnail>
+		<title>Energy Giga Dark</title>
+		<creator>Keen Isaiah Phoenix</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919825" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Bruce/Ooze/10919825.jpg
+		</thumbnail>
+		<title>Space Turbo Solar</title>
+		<creator>Red Bruce Ooze</creator>
+		<relatedgames/>
+	</game>
+	<game id="17584078" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Unusual/Krystal/Jupiter/17584078.jpg
+		</thumbnail>
+		<title>Rustbucket Pursuit Rampage</title>
+		<creator>Unusual Krystal Jupiter</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952782" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Fred/Mallard/10952782.jpg
+		</thumbnail>
+		<title>Swampfire Dark Rescue</title>
+		<creator>Obvious Fred Mallard</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

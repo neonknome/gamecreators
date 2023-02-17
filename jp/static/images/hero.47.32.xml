@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16918247" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Abnormal/Duke/Bagpipe/16918247.jpg
+		</thumbnail>
+		<title>Alien Adventure Laser</title>
+		<creator>Abnormal Duke Bagpipe</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918900" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Comical/Ivy/Doodle/10918900.jpg
+		</thumbnail>
+		<title>Vilgax Metal Nova</title>
+		<creator>Comical Ivy Doodle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10932732" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Majestic/Logan/Obelisk/10932732.jpg
+		</thumbnail>
+		<title>Chase Spark Adventure</title>
+		<creator>Majestic Logan Obelisk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17241048" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Princess/George/Turbo/17241048.jpg
+		</thumbnail>
+		<title>Rumble Burst Doom</title>
+		<creator>Princess George Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922841" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Vincent/Blade/10922841.jpg
+		</thumbnail>
+		<title>Alien Swampfire Nitro</title>
+		<creator>Colossal Vincent Blade</creator>
+		<relatedgames/>
+	</game>
+	<game id="17242231" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tough/Jose/Wombat/17242231.jpg
+		</thumbnail>
+		<title>Water Universe Rumble</title>
+		<creator>Tough Jose Wombat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10052360" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Spooky/Dylan/Moxie/10052360.jpg
+		</thumbnail>
+		<title>Sonic Burst Razor</title>
+		<creator>Spooky Dylan Moxie</creator>
+		<relatedgames/>
+	</game>
+	<game id="17323066" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Capable/Marvin/Brick/17323066.jpg
+		</thumbnail>
+		<title>Fury Clash Lightning</title>
+		<creator>Capable Marvin Brick</creator>
+		<relatedgames/>
+	</game>
+	<game id="17341141" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/King/Edward/Robot/17341141.jpg
+		</thumbnail>
+		<title>Breaker Siege Earth</title>
+		<creator>King Edward Robot</creator>
+		<relatedgames/>
+	</game>
+	<game id="10649988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Handsome/Michael/Ladybug/10649988.jpg
+		</thumbnail>
+		<title>Rescue Titan Space</title>
+		<creator>Handsome Michael Ladybug</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17338102" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/Ichabod/Tiptoe/17338102.jpg
+		</thumbnail>
+		<title>Burst Mega Pursuit</title>
+		<creator>Fiery Ichabod Tiptoe</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919856" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Leaping/Derek/Elf/10919856.jpg
+		</thumbnail>
+		<title>Spark Lightning Warrior</title>
+		<creator>Leaping Derek Elf</creator>
+		<relatedgames/>
+	</game>
+	<game id="10949020" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Odd/Sean/Mustang/10949020.jpg
+		</thumbnail>
+		<title>Nano Giga Ambush</title>
+		<creator>Odd Sean Mustang</creator>
+		<relatedgames/>
+	</game>
+	<game id="17337519" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Luminous/Cameron/Behemoth/17337519.jpg
+		</thumbnail>
+		<title>Fusion Whirlwind Techno</title>
+		<creator>Luminous Cameron Behemoth</creator>
+		<relatedgames/>
+	</game>
+	<game id="17356919" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sassy/Aaron/Baloney/17356919.jpg
+		</thumbnail>
+		<title>Alien Chase Shock</title>
+		<creator>Sassy Aaron Baloney</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922876" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Weird/Zelda/Pulse/10922876.jpg
+		</thumbnail>
+		<title>Plasma Ambush Storm</title>
+		<creator>Weird Zelda Pulse</creator>
+		<relatedgames/>
+	</game>
+	<game id="10058843" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dramatic/Matt/Igloo/10058843.jpg
+		</thumbnail>
+		<title>Smash Invasion Plumber</title>
+		<creator>Dramatic Matt Igloo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10948852" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Zoe/Wizard/10948852.jpg
+		</thumbnail>
+		<title>Warrior Warrior Warrior</title>
+		<creator>Chilly Zoe Wizard</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952923" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frantic/Chester/Walrus/10952923.jpg
+		</thumbnail>
+		<title>Rustbucket Siege Ben</title>
+		<creator>Frantic Chester Walrus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923848" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Lucky/Egbert/Avocado/10923848.jpg
+		</thumbnail>
+		<title>Alien Adventure Ambush</title>
+		<creator>Lucky Egbert Avocado</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

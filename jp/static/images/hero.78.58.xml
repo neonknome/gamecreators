@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17405990" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Diagonal/Cole/Crash/17405990.jpg
+		</thumbnail>
+		<title>Assault Earth Big</title>
+		<creator>Diagonal Cole Crash</creator>
+		<relatedgames/>
+	</game>
+	<game id="17179754" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gruesome/Doug/Gator/17179754.jpg
+		</thumbnail>
+		<title>Ultimate Challenge Hex</title>
+		<creator>Gruesome Doug Gator</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930955" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Absurd/Owen/Dragon/10930955.jpg
+		</thumbnail>
+		<title>Fire Force Power</title>
+		<creator>Absurd Owen Dragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17554306" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crafty/Emerson/Blast/17554306.jpg
+		</thumbnail>
+		<title>Spark Adventure Search</title>
+		<creator>Crafty Emerson Blast</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916758" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Purple/Angel/Cyborg/10916758.jpg
+		</thumbnail>
+		<title>Nitro Plasma Storm</title>
+		<creator>Purple Angel Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="17223749" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quick/Chuck/Cobweb/17223749.jpg
+		</thumbnail>
+		<title>Techno Stone Fusion</title>
+		<creator>Quick Chuck Cobweb</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922700" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tricky/Ingrid/Unicorn/10922700.jpg
+		</thumbnail>
+		<title>Iron Pulse Storm</title>
+		<creator>Tricky Ingrid Unicorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="17230806" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Emperor/Autumn/Mutant/17230806.jpg
+		</thumbnail>
+		<title>Drone Danger Escape</title>
+		<creator>Emperor Autumn Mutant</creator>
+		<relatedgames/>
+	</game>
+	<game id="17281862" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crispy/Diana/Daffodil/17281862.jpg
+		</thumbnail>
+		<title>Beast Slam Attack</title>
+		<creator>Crispy Diana Daffodil</creator>
+		<relatedgames/>
+	</game>
+	<game id="10949991" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Giggling/Elroy/Domino/10949991.jpg
+		</thumbnail>
+		<title>Rush Attack Rumble</title>
+		<creator>Giggling Elroy Domino</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

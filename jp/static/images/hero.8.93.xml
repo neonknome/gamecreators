@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10038105" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Swift/Breanna/Blitz/10038105.jpg
+		</thumbnail>
+		<title>Doom Plumber Shadow</title>
+		<creator>Swift Breanna Blitz</creator>
+		<relatedgames/>
+	</game>
+	<game id="17343049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spectral/Don/Goblin/17343049.jpg
+		</thumbnail>
+		<title>Hero Burst Invasion</title>
+		<creator>Spectral Don Goblin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927896" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Don/Penguin/10927896.jpg
+		</thumbnail>
+		<title>Power Turbo Swampfire</title>
+		<creator>Alien Don Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="17577028" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Famous/Flapjack/Shogun/17577028.jpg
+		</thumbnail>
+		<title>Echo Alien Omniverse</title>
+		<creator>Famous Flapjack Shogun</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942820" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Itchy/Wilbur/Moonbeam/10942820.jpg
+		</thumbnail>
+		<title>Swampfire Invasion Nano</title>
+		<creator>Itchy Wilbur Moonbeam</creator>
+		<relatedgames/>
+	</game>
+	<game id="17389507" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grimy/Zachary/Twilight/17389507.jpg
+		</thumbnail>
+		<title>Shock Shadow Ambush</title>
+		<creator>Grimy Zachary Twilight</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952770" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nomadic/Ryan/Grouch/10952770.jpg
+		</thumbnail>
+		<title>Magno Magno Hex</title>
+		<creator>Nomadic Ryan Grouch</creator>
+		<relatedgames/>
+	</game>
+	<game id="17241367" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sparkly/Elijah/Noob/17241367.jpg
+		</thumbnail>
+		<title>Adventure Adventure Chase</title>
+		<creator>Sparkly Elijah Noob</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918156" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brawny/Bradley/Howler/10918156.jpg
+		</thumbnail>
+		<title>Hex Mission Plumber</title>
+		<creator>Brawny Bradley Howler</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sporty/Daniel/Iceberg/10926636.jpg
+		</thumbnail>
+		<title>Animo Rocket Search</title>
+		<creator>Sporty Daniel Iceberg</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

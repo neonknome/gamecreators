@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10952455" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brave/Raymond/Atom/10952455.jpg
+		</thumbnail>
+		<title>Swampfire Smash Vilgax</title>
+		<creator>Brave Raymond Atom</creator>
+		<relatedgames/>
+	</game>
+	<game id="17337249" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ironic/Ghoul/17337249.jpg
+		</thumbnail>
+		<title>Ultimate Cannonbolt Assault</title>
+		<creator>Ironic Ghoul</creator>
+		<relatedgames/>
+	</game>
+	<game id="17316554" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Rich/Sunshine/17316554.jpg
+		</thumbnail>
+		<title>Rustbucket Techno Robot</title>
+		<creator>Queen Rich Sunshine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927316" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awesome/Robin/Nova/10927316.jpg
+		</thumbnail>
+		<title>Adventure Escape Challenge</title>
+		<creator>Awesome Robin Nova</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926589" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dynamic/Celeste/Dolphin/10926589.jpg
+		</thumbnail>
+		<title>Adventure Racer Shadow</title>
+		<creator>Dynamic Celeste Dolphin</creator>
+		<relatedgames/>
+	</game>
+	<game id="17364403" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hectic/Taylor/Gazebo/17364403.jpg
+		</thumbnail>
+		<title>Droid Light Escape</title>
+		<creator>Hectic Taylor Gazebo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10917786" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frosty/Vincent/Narwhal/10917786.jpg
+		</thumbnail>
+		<title>Danger Lightning Galaxy</title>
+		<creator>Frosty Vincent Narwhal</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055993" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Scary/Leonardo/Droid/10055993.jpg
+		</thumbnail>
+		<title>Earth Alien Adventure</title>
+		<creator>Scary Leonardo Droid</creator>
+		<relatedgames/>
+	</game>
+	<game id="10040939" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Howling/Evelyn/Bullfrog/10040939.jpg
+		</thumbnail>
+		<title>Star Ben Shock</title>
+		<creator>Howling Evelyn Bullfrog</creator>
+		<relatedgames/>
+	</game>
+	<game id="17562791" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sunny/Caden/Grackle/17562791.jpg
+		</thumbnail>
+		<title>Spark Stone Doom</title>
+		<creator>Sunny Caden Grackle</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

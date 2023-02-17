@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17278985" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Electric/Colton/Warrior/17278985.jpg
+		</thumbnail>
+		<title>Jetray Nitro Droid</title>
+		<creator>Electric Colton Warrior</creator>
+		<relatedgames/>
+	</game>
+	<game id="10706149" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shrewd/Leah/Acrobat/10706149.jpg
+		</thumbnail>
+		<title>Attack Shadow Smash</title>
+		<creator>Shrewd Leah Acrobat</creator>
+		<relatedgames/>
+	</game>
+	<game id="17257125" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Faith/Camel/17257125.jpg
+		</thumbnail>
+		<title>Vilgax Chase Galaxy</title>
+		<creator>Barbaric Faith Camel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918647" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eerie/Natasha/Skunk/10918647.jpg
+		</thumbnail>
+		<title>Streak Quake Pulse</title>
+		<creator>Eerie Natasha Skunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916719" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Anthony/Goofball/10916719.jpg
+		</thumbnail>
+		<title>Swampfire Rampage Chase</title>
+		<creator>Obvious Anthony Goofball</creator>
+		<relatedgames/>
+	</game>
+	<game id="17014566" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Generous/Carter/Bazooka/17014566.jpg
+		</thumbnail>
+		<title>Stone Rescue Razor</title>
+		<creator>Generous Carter Bazooka</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916937" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Merry/Mike/Doodad/10916937.jpg
+		</thumbnail>
+		<title>Fusion Hero Sonic</title>
+		<creator>Merry Mike Doodad</creator>
+		<relatedgames/>
+	</game>
+	<game id="10058578" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Shiny/Rex/Avocado/10058578.jpg
+		</thumbnail>
+		<title>Energy Drone Dark</title>
+		<creator>Shiny Rex Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952734" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jumping/Billy/Vittles/10952734.jpg
+		</thumbnail>
+		<title>Shock Rocket Mission</title>
+		<creator>Jumping Billy Vittles</creator>
+		<relatedgames/>
+	</game>
+	<game id="17274858" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Alan/Soldier/17274858.jpg
+		</thumbnail>
+		<title>Waterhazard Battle Fury</title>
+		<creator>Barbaric Alan Soldier</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

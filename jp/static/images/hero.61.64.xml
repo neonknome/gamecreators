@@ -1,0 +1,82 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17504492" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strong/Wesley/Seagull/17504492.jpg
+		</thumbnail>
+		<title>Burst Blaster Force</title>
+		<creator>Strong Wesley Seagull</creator>
+		<relatedgames/>
+	</game>
+	<game id="10032655" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Massive/Ginger/Phantom/10032655.jpg
+		</thumbnail>
+		<title>Turbo Rock Plasma</title>
+		<creator>Massive Ginger Phantom</creator>
+		<relatedgames/>
+	</game>
+	<game id="17374433" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sharp/Ivan/Flywheel/17374433.jpg
+		</thumbnail>
+		<title>Alien Mega Warrior</title>
+		<creator>Sharp Ivan Flywheel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953076" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Yellow/Owen/Maestro/10953076.jpg
+		</thumbnail>
+		<title>Hero Lightning Rescue</title>
+		<creator>Yellow Owen Maestro</creator>
+		<relatedgames/>
+	</game>
+	<game id="17314812" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Babbling/Hayden/Aurora/17314812.jpg
+		</thumbnail>
+		<title>Fire Cosmic Clash</title>
+		<creator>Babbling Hayden Aurora</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928891" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Cole/Dragon/10928891.jpg
+		</thumbnail>
+		<title>Alien Magno Fire</title>
+		<creator>Honest Cole Dragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="416237" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="10/24/2010">
+		<thumbnail>
+		</thumbnail>
+		<title>Swampfire Droid Warrior</title>
+		<creator>mamamaster</creator>
+		<relatedgames/>
+	</game>
+	<game id="17274962" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Justin/Phoenix/17274962.jpg
+		</thumbnail>
+		<title>Energy Burst Laser</title>
+		<creator>Humorous Justin Phoenix</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933350" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Surreal/Natasha/Crater/10933350.jpg
+		</thumbnail>
+		<title>Plumber Fire Light</title>
+		<creator>Surreal Natasha Crater</creator>
+		<relatedgames/>
+	</game>
+	<game id="17415485" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awful/Jacob/Bronco/17415485.jpg
+		</thumbnail>
+		<title>Mission Shock Patrol</title>
+		<creator>Awful Jacob Bronco</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10953054" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brainy/Casey/Sardine/10953054.jpg
+		</thumbnail>
+		<title>Pursuit Dark Siege</title>
+		<creator>Brainy Casey Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="17504961" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Evil/Mario/Gargoyle/17504961.jpg
+		</thumbnail>
+		<title>Giga Storm Blaster</title>
+		<creator>Evil Mario Gargoyle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10063462" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Infamous/Florence/Crumpet/10063462.jpg
+		</thumbnail>
+		<title>Storm Turbo Turbo</title>
+		<creator>Infamous Florence Crumpet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404545" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Graceful/Payten/Dumpling/17404545.jpg
+		</thumbnail>
+		<title>Rumble Streak Mission</title>
+		<creator>Graceful Payten Dumpling</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953447" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nimble/Lillian/Robot/10953447.jpg
+		</thumbnail>
+		<title>Mission Hero Smash</title>
+		<creator>Nimble Lillian Robot</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952447" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sly/Gulliver/Glop/10952447.jpg
+		</thumbnail>
+		<title>Earth Pursuit Nitro</title>
+		<creator>Sly Gulliver Glop</creator>
+		<relatedgames/>
+	</game>
+	<game id="17164092" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ultimate/Scott/Calypso/17164092.jpg
+		</thumbnail>
+		<title>Siege Dark Space</title>
+		<creator>Ultimate Scott Calypso</creator>
+		<relatedgames/>
+	</game>
+	<game id="17224970" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bouncing/Benton/Mummy/17224970.jpg
+		</thumbnail>
+		<title>Ben Jetray Beast</title>
+		<creator>Bouncing Benton Mummy</creator>
+		<relatedgames/>
+	</game>
+	<game id="17391991" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Speedy/Eli/Firefly/17391991.jpg
+		</thumbnail>
+		<title>Nova Power Fury</title>
+		<creator>Speedy Eli Firefly</creator>
+		<relatedgames/>
+	</game>
+	<game id="17505120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Galactic/Chuck/Giblets/17505120.jpg
+		</thumbnail>
+		<title>Adventure Jetray Rocket</title>
+		<creator>Galactic Chuck Giblets</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

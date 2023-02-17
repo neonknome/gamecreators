@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17423572" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Average/Angela/Cartoon/17423572.jpg
+		</thumbnail>
+		<title>Star Animo Fusion</title>
+		<creator>Average Angela Cartoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10786623" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hardy/Adam/Fossil/10786623.jpg
+		</thumbnail>
+		<title>Hyper Adventure Rustbucket</title>
+		<creator>Hardy Adam Fossil</creator>
+		<relatedgames/>
+	</game>
+	<game id="10949020" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Odd/Sean/Mustang/10949020.jpg
+		</thumbnail>
+		<title>Nano Giga Ambush</title>
+		<creator>Odd Sean Mustang</creator>
+		<relatedgames/>
+	</game>
+	<game id="17584644" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Plucky/Romeo/Aviator/17584644.jpg
+		</thumbnail>
+		<title>Big Chill Power</title>
+		<creator>Plucky Romeo Aviator</creator>
+		<relatedgames/>
+	</game>
+	<game id="17389018" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stunning/Sid/Hambone/17389018.jpg
+		</thumbnail>
+		<title>Adventure Rescue Slam</title>
+		<creator>Stunning Sid Hambone</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sly/Aaron/Goulash/10930921.jpg
+		</thumbnail>
+		<title>Nitro Razor Rampage</title>
+		<creator>Sly Aaron Goulash</creator>
+		<relatedgames/>
+	</game>
+	<game id="17578219" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Rancid/Don/Nova/17578219.jpg
+		</thumbnail>
+		<title>Clash Chill Spidermonkey</title>
+		<creator>Rancid Don Nova</creator>
+		<relatedgames/>
+	</game>
+	<game id="17014033" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Epic/Peter/Possum/17014033.jpg
+		</thumbnail>
+		<title>Ultra Ultimate Energy</title>
+		<creator>Epic Peter Possum</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953046" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Henry/Quasar/10953046.jpg
+		</thumbnail>
+		<title>Universe Adventure Ultra</title>
+		<creator>Alien Henry Quasar</creator>
+		<relatedgames/>
+	</game>
+	<game id="17335398" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Golden/Dominic/Giblets/17335398.jpg
+		</thumbnail>
+		<title>Danger Champion Thunder</title>
+		<creator>Golden Dominic Giblets</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17102291" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elite/Luke/Mastodon/17102291.jpg
+		</thumbnail>
+		<title>Nano Sonic Assault</title>
+		<creator>Elite Luke Mastodon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942784" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ghostly/Jacob/Thorax/10942784.jpg
+		</thumbnail>
+		<title>Rock Fusion Nitro</title>
+		<creator>Ghostly Jacob Thorax</creator>
+		<relatedgames/>
+	</game>
+	<game id="17374839" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Captain/Sapphire/Electron/17374839.jpg
+		</thumbnail>
+		<title>Cosmic Fire Escape</title>
+		<creator>Captain Sapphire Electron</creator>
+		<relatedgames/>
+	</game>
+	<game id="10057867" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Lanky/Joey/Buckaroo/10057867.jpg
+		</thumbnail>
+		<title>Rescue Fire Escape</title>
+		<creator>Lanky Joey Buckaroo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10947072" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Happy/Devin/Macaroni/10947072.jpg
+		</thumbnail>
+		<title>Invasion Thunder Mega</title>
+		<creator>Happy Devin Macaroni</creator>
+		<relatedgames/>
+	</game>
+	<game id="10932117" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Odd/Austin/Sphere/10932117.jpg
+		</thumbnail>
+		<title>Target Fury Nitro</title>
+		<creator>Odd Austin Sphere</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953578" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Lucky/Matthew/Avocado/10953578.jpg
+		</thumbnail>
+		<title>Warp Pulse Swampfire</title>
+		<creator>Lucky Matthew Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951804" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Weird/Gretel/Troll/10951804.jpg
+		</thumbnail>
+		<title>Hero Target Adventure</title>
+		<creator>Weird Gretel Troll</creator>
+		<relatedgames/>
+	</game>
+	<game id="17323066" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Capable/Marvin/Brick/17323066.jpg
+		</thumbnail>
+		<title>Fury Clash Lightning</title>
+		<creator>Capable Marvin Brick</creator>
+		<relatedgames/>
+	</game>
+	<game id="17504492" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strong/Wesley/Seagull/17504492.jpg
+		</thumbnail>
+		<title>Burst Blaster Force</title>
+		<creator>Strong Wesley Seagull</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

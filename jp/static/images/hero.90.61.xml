@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16993882" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Yorick/Behemoth/16993882.jpg
+		</thumbnail>
+		<title>Spidermonkey Ultra Escape</title>
+		<creator>Zany Yorick Behemoth</creator>
+		<relatedgames/>
+	</game>
+	<game id="10706022" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Hunter/Slurp/10706022.jpg
+		</thumbnail>
+		<title>Target Rock Droid</title>
+		<creator>Red Hunter Slurp</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952619" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Megan/Octopus/10952619.jpg
+		</thumbnail>
+		<title>Magno Smash Danger</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10948271" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wacky/Billy/Enigma/10948271.jpg
+		</thumbnail>
+		<title>Rescue Nitro Giga</title>
+		<creator>Wacky Billy Enigma</creator>
+		<relatedgames/>
+	</game>
+	<game id="17232540" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Diagonal/Trevor/Blammo/17232540.jpg
+		</thumbnail>
+		<title>Dark Metal Attack</title>
+		<creator>Diagonal Trevor Blammo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17303375" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Stanley/Quake/17303375.jpg
+		</thumbnail>
+		<title>Rampage Ambush Charge</title>
+		<creator>Flying Stanley Quake</creator>
+		<relatedgames/>
+	</game>
+	<game id="10039822" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Loud/Steven/Charger/10039822.jpg
+		</thumbnail>
+		<title>Swampfire Invasion Rampage</title>
+		<creator>Loud Steven Charger</creator>
+		<relatedgames/>
+	</game>
+	<game id="17504532" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Rowdy/Chris/Blast/17504532.jpg
+		</thumbnail>
+		<title>Nano Steel Alien</title>
+		<creator>Rowdy Chris Blast</creator>
+		<relatedgames/>
+	</game>
+	<game id="17423166" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Volcanic/Brad/Warrior/17423166.jpg
+		</thumbnail>
+		<title>Light Earth Crusher</title>
+		<creator>Volcanic Brad Warrior</creator>
+		<relatedgames/>
+	</game>
+	<game id="17052669" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Peppy/Claire/Pizza/17052669.jpg
+		</thumbnail>
+		<title>Earth Siege Alien</title>
+		<creator>Peppy Claire Pizza</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

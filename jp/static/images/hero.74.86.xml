@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17576978" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bumbling/Benton/Kazoo/17576978.jpg
+		</thumbnail>
+		<title>Star Vilgax Spike</title>
+		<creator>Bumbling Benton Kazoo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17305208" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stormy/Anthony/Pizza/17305208.jpg
+		</thumbnail>
+		<title>Pursuit Robot Robot</title>
+		<creator>Stormy Anthony Pizza</creator>
+		<relatedgames/>
+	</game>
+	<game id="10944185" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Charming/Erin/Steam/10944185.jpg
+		</thumbnail>
+		<title>Spark Fury Escape</title>
+		<creator>Charming Erin Steam</creator>
+		<relatedgames/>
+	</game>
+	<game id="17554156" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loony/Sam/Garlic/17554156.jpg
+		</thumbnail>
+		<title>Laser Sonic Adventure</title>
+		<creator>Loony Sam Garlic</creator>
+		<relatedgames/>
+	</game>
+	<game id="17364488" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hectic/Taylor/Gazebo/17364488.jpg
+		</thumbnail>
+		<title>Ultimate Dark Fusion</title>
+		<creator>Hectic Taylor Gazebo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17265238" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Orange/Olivia/Maestro/17265238.jpg
+		</thumbnail>
+		<title>Gear Vilgax Burst</title>
+		<creator>Orange Olivia Maestro</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952287" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gigantic/Zelda/Turbo/10952287.jpg
+		</thumbnail>
+		<title>Rescue Rampage Rumble</title>
+		<creator>Gigantic Zelda Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17357887" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Musical/CJ/Universe/17357887.jpg
+		</thumbnail>
+		<title>Shadow Adventure Assault</title>
+		<creator>Musical CJ Universe</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952647" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sincere/Stephen/Magma/10952647.jpg
+		</thumbnail>
+		<title>Cosmic Star Invasion</title>
+		<creator>Sincere Stephen Magma</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931981" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Beastly/Corey/Citrus/10931981.jpg
+		</thumbnail>
+		<title>Adventure Nova Warrior</title>
+		<creator>Beastly Corey Citrus</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17217564" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dramatic/Austin/Domino/17217564.jpg
+		</thumbnail>
+		<title>Big Thunder Fury</title>
+		<creator>Dramatic Austin Domino</creator>
+		<relatedgames/>
+	</game>
+	<game id="17334355" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wondrous/Scooby/Creature/17334355.jpg
+		</thumbnail>
+		<title>Alien Dark Ultimate</title>
+		<creator>Wondrous Scooby Creature</creator>
+		<relatedgames/>
+	</game>
+	<game id="10040009" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Chilly/Jackson/Hedgehog/10040009.jpg
+		</thumbnail>
+		<title>Titan Animo Mega</title>
+		<creator>Chilly Jackson Hedgehog</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942111" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fragrant/Cynthia/Ladybug/10942111.jpg
+		</thumbnail>
+		<title>Nano Target Universe</title>
+		<creator>Fragrant Cynthia Ladybug</creator>
+		<relatedgames/>
+	</game>
+	<game id="17380971" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eager/Ella/Vitamin/17380971.jpg
+		</thumbnail>
+		<title>Razor Robot Drone</title>
+		<creator>Eager Ella Vitamin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953099" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Majestic/Minerva/Sphere/10953099.jpg
+		</thumbnail>
+		<title>Fire Rush Ultimate</title>
+		<creator>Majestic Minerva Sphere</creator>
+		<relatedgames/>
+	</game>
+	<game id="17332543" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shaggy/Dominic/Ion/17332543.jpg
+		</thumbnail>
+		<title>Escape Light Adventure</title>
+		<creator>Shaggy Dominic Ion</creator>
+		<relatedgames/>
+	</game>
+	<game id="17415966" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Witty/Marco/Shadow/17415966.jpg
+		</thumbnail>
+		<title>Slam Attack Warp</title>
+		<creator>Witty Marco Shadow</creator>
+		<relatedgames/>
+	</game>
+	<game id="17215734" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fair/Zeke/Badger/17215734.jpg
+		</thumbnail>
+		<title>Swampfire Drone Battle</title>
+		<creator>Fair Zeke Badger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923788" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Itchy/Timmy/Igloo/10923788.jpg
+		</thumbnail>
+		<title>Shock Adventure Adventure</title>
+		<creator>Itchy Timmy Igloo</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

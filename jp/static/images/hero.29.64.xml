@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10936010" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Surreal/Ivy/Fury/10936010.jpg
+		</thumbnail>
+		<title>Thunder Giga Swampfire</title>
+		<creator>Surreal Ivy Fury</creator>
+		<relatedgames/>
+	</game>
+	<game id="17540239" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mumbling/Kaden/Tarragon/17540239.jpg
+		</thumbnail>
+		<title>Dark Omniverse Charge</title>
+		<creator>Mumbling Kaden Tarragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10066885" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Sincere/Andrew/Monkey/10066885.jpg
+		</thumbnail>
+		<title>Defense Blaster Adventure</title>
+		<creator>Sincere Andrew Monkey</creator>
+		<relatedgames/>
+	</game>
+	<game id="16988536" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Able/Caden/Doodad/16988536.jpg
+		</thumbnail>
+		<title>Mission Techno Breaker</title>
+		<creator>Able Caden Doodad</creator>
+		<relatedgames/>
+	</game>
+	<game id="10793298" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bashful/Duncan/Tuxedo/10793298.jpg
+		</thumbnail>
+		<title>Cosmic Assault Plasma</title>
+		<creator>Bashful Duncan Tuxedo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952531" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humble/Ramona/Fishbowl/10952531.jpg
+		</thumbnail>
+		<title>Magno Laser Shock</title>
+		<creator>Humble Ramona Fishbowl</creator>
+		<relatedgames/>
+	</game>
+	<game id="17374179" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Modest/Juliet/Horsefly/17374179.jpg
+		</thumbnail>
+		<title>Hyper Dark Shadow</title>
+		<creator>Modest Juliet Horsefly</creator>
+		<relatedgames/>
+	</game>
+	<game id="17562268" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Imperial/Cole/Pizza/17562268.jpg
+		</thumbnail>
+		<title>Rocket Big Charge</title>
+		<creator>Imperial Cole Pizza</creator>
+		<relatedgames/>
+	</game>
+	<game id="16920799" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Titanic/Dixie/Macaw/16920799.jpg
+		</thumbnail>
+		<title>Hyper Galaxy Power</title>
+		<creator>Titanic Dixie Macaw</creator>
+		<relatedgames/>
+	</game>
+	<game id="16993737" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baroness/Anna/Beast/16993737.jpg
+		</thumbnail>
+		<title>Rescue Techno Fusion</title>
+		<creator>Baroness Anna Beast</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

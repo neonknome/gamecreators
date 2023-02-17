@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10055924" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Proper/Dwight/Mustard/10055924.jpg
+		</thumbnail>
+		<title>Robot Alien Invasion</title>
+		<creator>Proper Dwight Mustard</creator>
+		<relatedgames/>
+	</game>
+	<game id="17273223" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Babbling/Bethany/Buzzard/17273223.jpg
+		</thumbnail>
+		<title>Power Battle Siege</title>
+		<creator>Babbling Bethany Buzzard</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921512" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sincere/Victor/Boing/10921512.jpg
+		</thumbnail>
+		<title>Galaxy Mission Rush</title>
+		<creator>Sincere Victor Boing</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924091" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Funny/Miguel/Gumshoe/10924091.jpg
+		</thumbnail>
+		<title>Assault Gear Slam</title>
+		<creator>Funny Miguel Gumshoe</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952545" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eloquent/Blake/Fishbowl/10952545.jpg
+		</thumbnail>
+		<title>Sonic Light Adventure</title>
+		<creator>Eloquent Blake Fishbowl</creator>
+		<relatedgames/>
+	</game>
+	<game id="17262269" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gigantic/Bob/Chaos/17262269.jpg
+		</thumbnail>
+		<title>Ben Smash Vilgax</title>
+		<creator>Gigantic Bob Chaos</creator>
+		<relatedgames/>
+	</game>
+	<game id="10946279" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sincere/Diego/Obelisk/10946279.jpg
+		</thumbnail>
+		<title>Rescue Alien Hex</title>
+		<creator>Sincere Diego Obelisk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17377839" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Able/Michelle/Splat/17377839.jpg
+		</thumbnail>
+		<title>Adventure Atomic Champion</title>
+		<creator>Able Michelle Splat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922314" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bashful/Elroy/Sprout/10922314.jpg
+		</thumbnail>
+		<title>Assault Shadow Droid</title>
+		<creator>Bashful Elroy Sprout</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951563" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elegant/Marissa/Tornado/10951563.jpg
+		</thumbnail>
+		<title>Cosmic Stone Stone</title>
+		<creator>Elegant Marissa Tornado</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

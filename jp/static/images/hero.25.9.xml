@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10952287" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gigantic/Zelda/Turbo/10952287.jpg
+		</thumbnail>
+		<title>Rescue Rampage Rumble</title>
+		<creator>Gigantic Zelda Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17292401" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Lawrence/Eggplant/17292401.jpg
+		</thumbnail>
+		<title>Terraspin Terraspin Terraspin</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames/>
+	</game>
+	<game id="10917851" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Antonio/Spider/10917851.jpg
+		</thumbnail>
+		<title>Nitro Fire Lightning</title>
+		<creator>Red Antonio Spider</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924349" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Unusual/Daniel/Waffle/10924349.jpg
+		</thumbnail>
+		<title>Escape Defense Gear</title>
+		<creator>Unusual Daniel Waffle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17009487" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Expert/Hailey/Knight/17009487.jpg
+		</thumbnail>
+		<title>Rock Drone Nova</title>
+		<creator>Expert Hailey Knight</creator>
+		<relatedgames/>
+	</game>
+	<game id="17419128" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Amazing/Aaron/Macaroni/17419128.jpg
+		</thumbnail>
+		<title>Energy Smash Spike</title>
+		<creator>Amazing Aaron Macaroni</creator>
+		<relatedgames/>
+	</game>
+	<game id="10939122" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Bubba/Mustard/10939122.jpg
+		</thumbnail>
+		<title>Adventure Shock Chase</title>
+		<creator>Daring Bubba Mustard</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953017" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grand/Jessica/Skunk/10953017.jpg
+		</thumbnail>
+		<title>Invasion Star Galaxy</title>
+		<creator>Grand Jessica Skunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925610" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reckless/Hank/Stampede/10925610.jpg
+		</thumbnail>
+		<title>Alien Warrior Adventure</title>
+		<creator>Reckless Hank Stampede</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crafty/Ben/Varmint/10922878.jpg
+		</thumbnail>
+		<title>Storm Patrol Galaxy</title>
+		<creator>Crafty Ben Varmint</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

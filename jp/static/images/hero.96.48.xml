@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17256324" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crispy/Olivia/Lime/17256324.jpg
+		</thumbnail>
+		<title>Hyper Invasion Iron</title>
+		<creator>Crispy Olivia Lime</creator>
+		<relatedgames/>
+	</game>
+	<game id="17402611" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ironic/Gulliver/Pirate/17402611.jpg
+		</thumbnail>
+		<title>Hyper Earth Fusion</title>
+		<creator>Ironic Gulliver Pirate</creator>
+		<relatedgames/>
+	</game>
+	<game id="16956406" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Tim/Dogfish/16956406.jpg
+		</thumbnail>
+		<title>Champion Solar Attack</title>
+		<creator>Queen Tim Dogfish</creator>
+		<relatedgames/>
+	</game>
+	<game id="10938646" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tricky/Frank/Blade/10938646.jpg
+		</thumbnail>
+		<title>Swampfire Spark Charge</title>
+		<creator>Tricky Frank Blade</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953287" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crispy/Ben/Bolt/10953287.jpg
+		</thumbnail>
+		<title>Slam Ultimate Beast</title>
+		<creator>Crispy Ben Bolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952287" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gigantic/Zelda/Turbo/10952287.jpg
+		</thumbnail>
+		<title>Rescue Rampage Rumble</title>
+		<creator>Gigantic Zelda Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17292401" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Lawrence/Eggplant/17292401.jpg
+		</thumbnail>
+		<title>Terraspin Terraspin Terraspin</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames/>
+	</game>
+	<game id="16994121" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Snazzy/DJ/Cyborg/16994121.jpg
+		</thumbnail>
+		<title>Nitro Razor Warp</title>
+		<creator>Snazzy DJ Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10917851" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Antonio/Spider/10917851.jpg
+		</thumbnail>
+		<title>Nitro Fire Lightning</title>
+		<creator>Red Antonio Spider</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038852" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Magnetic/Alan/Blubber/10038852.jpg
+		</thumbnail>
+		<title>Shock Spark Invasion</title>
+		<creator>Magnetic Alan Blubber</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

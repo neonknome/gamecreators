@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10918223" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Purple/Sam/Warp/10918223.jpg
+		</thumbnail>
+		<title>Rumble Swampfire Warrior</title>
+		<creator>Purple Sam Warp</creator>
+		<relatedgames/>
+	</game>
+	<game id="17562390" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tall/Sara/Hippo/17562390.jpg
+		</thumbnail>
+		<title>Fury Adventure Ambush</title>
+		<creator>Tall Sara Hippo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916846" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Absurd/Rocky/Penguin/10916846.jpg
+		</thumbnail>
+		<title>Ben Magno Blaster</title>
+		<creator>Absurd Rocky Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10041474" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Crafty/Harvey/Atom/10041474.jpg
+		</thumbnail>
+		<title>Swampfire Ultimate Smash</title>
+		<creator>Crafty Harvey Atom</creator>
+		<relatedgames/>
+	</game>
+	<game id="17161179" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Galactic/Zeus/Celsius/17161179.jpg
+		</thumbnail>
+		<title>Chill Nano Adventure</title>
+		<creator>Galactic Zeus Celsius</creator>
+		<relatedgames/>
+	</game>
+	<game id="17385004" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Purple/Dominic/Gorilla/17385004.jpg
+		</thumbnail>
+		<title>Adventure Adventure Stone</title>
+		<creator>Purple Dominic Gorilla</creator>
+		<relatedgames/>
+	</game>
+	<game id="10034847" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cosmic/Steven/Kumquat/10034847.jpg
+		</thumbnail>
+		<title>Hero Adventure Shadow</title>
+		<creator>Cosmic Steven Kumquat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10063221" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Tricky/Mike/Waffle/10063221.jpg
+		</thumbnail>
+		<title>Adventure Atomic Galaxy</title>
+		<creator>Tricky Mike Waffle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17305493" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Emperor/Autumn/Mutant/17305493.jpg
+		</thumbnail>
+		<title>Adventure Cosmic Metal</title>
+		<creator>Emperor Autumn Mutant</creator>
+		<relatedgames/>
+	</game>
+	<game id="17054714" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crispy/Marissa/Nanobot/17054714.jpg
+		</thumbnail>
+		<title>Defense Power Star</title>
+		<creator>Crispy Marissa Nanobot</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

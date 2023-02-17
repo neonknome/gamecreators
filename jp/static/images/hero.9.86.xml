@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10063245" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fierce/Shelby/Zigzag/10063245.jpg
+		</thumbnail>
+		<title>Shadow Invasion Shadow</title>
+		<creator>Fierce Shelby Zigzag</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038151" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dramatic/Nick/Porridge/10038151.jpg
+		</thumbnail>
+		<title>Ultra Doom Storm</title>
+		<creator>Dramatic Nick Porridge</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frantic/Chester/Walrus/10953549.jpg
+		</thumbnail>
+		<title>Chase Slam Alien</title>
+		<creator>Frantic Chester Walrus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921998" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Lucky/Katie/Bongo/10921998.jpg
+		</thumbnail>
+		<title>Earth Thunder Ben</title>
+		<creator>Lucky Katie Bongo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916703" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Rugged/Bianca/Fiddle/10916703.jpg
+		</thumbnail>
+		<title>Razor Alien Shock</title>
+		<creator>Rugged Bianca Fiddle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953586" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Atomic/Fred/Jungle/10953586.jpg
+		</thumbnail>
+		<title>Streak Ultimate Nitro</title>
+		<creator>Atomic Fred Jungle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10057898" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dramatic/Dora/Doodad/10057898.jpg
+		</thumbnail>
+		<title>Nova Rush Adventure</title>
+		<creator>Dramatic Dora Doodad</creator>
+		<relatedgames/>
+	</game>
+	<game id="10950785" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fragrant/Dudley/Fritter/10950785.jpg
+		</thumbnail>
+		<title>Laser Rocket Streak</title>
+		<creator>Fragrant Dudley Fritter</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918863" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eager/Katelyn/Ooze/10918863.jpg
+		</thumbnail>
+		<title>Ultimate Fury Invasion</title>
+		<creator>Eager Katelyn Ooze</creator>
+		<relatedgames/>
+	</game>
+	<game id="10066116" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Strange/Cody/Python/10066116.jpg
+		</thumbnail>
+		<title>Smash Power Magno</title>
+		<creator>Strange Cody Python</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

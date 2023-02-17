@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17350059" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Positive/Bridget/17350059.jpg
+		</thumbnail>
+		<title>Target Blaster Star</title>
+		<creator>Positive Bridget</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935655" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stylish/Rachel/Sphinx/10935655.jpg
+		</thumbnail>
+		<title>Clash Gear Titan</title>
+		<creator>Stylish Rachel Sphinx</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404731" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Clever/Ben/Blade/17404731.jpg
+		</thumbnail>
+		<title>Ultimate Cannonbolt Assault</title>
+		<creator>Clever Ben Blade</creator>
+		<relatedgames/>
+	</game>
+	<game id="17311338" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Freakish/Benson/Banshee/17311338.jpg
+		</thumbnail>
+		<title>Rustbucket Battle Clash</title>
+		<creator>Freakish Benson Banshee</creator>
+		<relatedgames/>
+	</game>
+	<game id="17584644" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Plucky/Romeo/Aviator/17584644.jpg
+		</thumbnail>
+		<title>Big Chill Power</title>
+		<creator>Plucky Romeo Aviator</creator>
+		<relatedgames/>
+	</game>
+	<game id="17562120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proud/Felix/Thud/17562120.jpg
+		</thumbnail>
+		<title>Burst Blaster Alien</title>
+		<creator>Proud Felix Thud</creator>
+		<relatedgames/>
+	</game>
+	<game id="10941646" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eastern/Ace/Mantis/10941646.jpg
+		</thumbnail>
+		<title>Ultra Rumble Universe</title>
+		<creator>Eastern Ace Mantis</creator>
+		<relatedgames/>
+	</game>
+	<game id="10064904" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cosmic/Goliath/Oddball/10064904.jpg
+		</thumbnail>
+		<title>Adventure Mission Sonic</title>
+		<creator>Cosmic Goliath Oddball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924702" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fuzzy/Austin/Cosmos/10924702.jpg
+		</thumbnail>
+		<title>Search Steel Magno</title>
+		<creator>Fuzzy Austin Cosmos</creator>
+		<relatedgames/>
+	</game>
+	<game id="10655835" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proper/Dinah/Sardine/10655835.jpg
+		</thumbnail>
+		<title>Shadow Dark Rampage</title>
+		<creator>Proper Dinah Sardine</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

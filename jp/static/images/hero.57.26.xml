@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16947434" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Classic/Bill/Doodle/16947434.jpg
+		</thumbnail>
+		<title>Ambush Rustbucket Light</title>
+		<creator>Classic Bill Doodle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17320483" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Talented/Adam/Tiger/17320483.jpg
+		</thumbnail>
+		<title>Adventure Alien Ambush</title>
+		<creator>Talented Adam Tiger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925908" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baffling/Tex/Jalapeno/10925908.jpg
+		</thumbnail>
+		<title>Droid Laser Hex</title>
+		<creator>Baffling Tex Jalapeno</creator>
+		<relatedgames/>
+	</game>
+	<game id="10063529" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cosmic/Oscar/Orca/10063529.jpg
+		</thumbnail>
+		<title>Rescue Ultra Universe</title>
+		<creator>Cosmic Oscar Orca</creator>
+		<relatedgames/>
+	</game>
+	<game id="17413193" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Matthew/Dingbat/17413193.jpg
+		</thumbnail>
+		<title>Waterhazard Steel Adventure</title>
+		<creator>Humorous Matthew Dingbat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953516" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proper/Goliath/Wombat/10953516.jpg
+		</thumbnail>
+		<title>Rampage Breaker Pulse</title>
+		<creator>Proper Goliath Wombat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935006" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Swift/Mitchell/Parsec/10935006.jpg
+		</thumbnail>
+		<title>Space Assault Clash</title>
+		<creator>Swift Mitchell Parsec</creator>
+		<relatedgames/>
+	</game>
+	<game id="17296006" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Complex/Dennis/Apple/17296006.jpg
+		</thumbnail>
+		<title>Stone Rustbucket Adventure</title>
+		<creator>Complex Dennis Apple</creator>
+		<relatedgames/>
+	</game>
+	<game id="10932051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Funny/Sam/Bramble/10932051.jpg
+		</thumbnail>
+		<title>Razor Fire Titan</title>
+		<creator>Funny Sam Bramble</creator>
+		<relatedgames/>
+	</game>
+	<game id="17503975" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Prolific/Cole/Sprout/17503975.jpg
+		</thumbnail>
+		<title>Rocket Breaker Galaxy</title>
+		<creator>Prolific Cole Sprout</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

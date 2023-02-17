@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10921774" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elegant/Joel/Spumoni/10921774.jpg
+		</thumbnail>
+		<title>Fire Drone Ambush</title>
+		<creator>Elegant Joel Spumoni</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935113" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ghastly/Oliver/Orchid/10935113.jpg
+		</thumbnail>
+		<title>Streak Cosmic Beast</title>
+		<creator>Ghastly Oliver Orchid</creator>
+		<relatedgames/>
+	</game>
+	<game id="10929981" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Modest/Gretel/Bongo/10929981.jpg
+		</thumbnail>
+		<title>Rush Cosmic Shadow</title>
+		<creator>Modest Gretel Bongo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10843782" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Silent/Jimbo/Zombie/10843782.jpg
+		</thumbnail>
+		<title>Vilgax Breaker Assault</title>
+		<creator>Silent Jimbo Zombie</creator>
+		<relatedgames/>
+	</game>
+	<game id="17347654" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baron/Zachary/Nebula/17347654.jpg
+		</thumbnail>
+		<title>Fury Fusion Adventure</title>
+		<creator>Baron Zachary Nebula</creator>
+		<relatedgames/>
+	</game>
+	<game id="17200966" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sloppy/Ronald/Tundra/17200966.jpg
+		</thumbnail>
+		<title>Cannonbolt Spark Metal</title>
+		<creator>Sloppy Ronald Tundra</creator>
+		<relatedgames/>
+	</game>
+	<game id="17014494" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bold/Isabelle/Pizza/17014494.jpg
+		</thumbnail>
+		<title>Pursuit Quake Warp</title>
+		<creator>Bold Isabelle Pizza</creator>
+		<relatedgames/>
+	</game>
+	<game id="17311257" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Epic/Igor/Minotaur/17311257.jpg
+		</thumbnail>
+		<title>Adventure Sonic Fury</title>
+		<creator>Epic Igor Minotaur</creator>
+		<relatedgames/>
+	</game>
+	<game id="17363601" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Icy/Bridget/Atlas/17363601.jpg
+		</thumbnail>
+		<title>Metal Spidermonkey Spidermonkey</title>
+		<creator>Icy Bridget Atlas</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404696" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Golden/Benjamin/Hedgehog/17404696.jpg
+		</thumbnail>
+		<title>Robot Hyper Mission</title>
+		<creator>Golden Benjamin Hedgehog</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

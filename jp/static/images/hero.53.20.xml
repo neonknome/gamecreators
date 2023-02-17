@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17028951" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Average/Carlos/Behemoth/17028951.jpg
+		</thumbnail>
+		<title>Slam Attack Mission</title>
+		<creator>Average Carlos Behemoth</creator>
+		<relatedgames/>
+	</game>
+	<game id="16960561" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hardy/Rosetta/Rhyme/16960561.jpg
+		</thumbnail>
+		<title>Ben Laser Attack</title>
+		<creator>Hardy Rosetta Rhyme</creator>
+		<relatedgames/>
+	</game>
+	<game id="17550925" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Horrid/Angel/Venus/17550925.jpg
+		</thumbnail>
+		<title>Rescue Nano Echo</title>
+		<creator>Horrid Angel Venus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931774" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stylish/Alan/Cosmos/10931774.jpg
+		</thumbnail>
+		<title>Alien Universe Racer</title>
+		<creator>Stylish Alan Cosmos</creator>
+		<relatedgames/>
+	</game>
+	<game id="17262083" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Yucky/Rufus/Kiwi/17262083.jpg
+		</thumbnail>
+		<title>Invasion Spidermonkey Rock</title>
+		<creator>Yucky Rufus Kiwi</creator>
+		<relatedgames/>
+	</game>
+	<game id="17286455" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Classic/Angela/Aviator/17286455.jpg
+		</thumbnail>
+		<title>Doom Danger Adventure</title>
+		<creator>Classic Angela Aviator</creator>
+		<relatedgames/>
+	</game>
+	<game id="10786744" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baffling/Otis/Moonbeam/10786744.jpg
+		</thumbnail>
+		<title>Plasma Crusher Droid</title>
+		<creator>Baffling Otis Moonbeam</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924220" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Kenneth/Saber/10924220.jpg
+		</thumbnail>
+		<title>Plasma Mega Chase</title>
+		<creator>Honest Kenneth Saber</creator>
+		<relatedgames/>
+	</game>
+	<game id="17396080" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pleasant/Margaret/Dogfish/17396080.jpg
+		</thumbnail>
+		<title>Alien Mega Danger</title>
+		<creator>Pleasant Margaret Dogfish</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055924" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Proper/Dwight/Mustard/10055924.jpg
+		</thumbnail>
+		<title>Robot Alien Invasion</title>
+		<creator>Proper Dwight Mustard</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

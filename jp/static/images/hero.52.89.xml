@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17234945" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awful/Bobby/Fossil/17234945.jpg
+		</thumbnail>
+		<title>Racer Adventure Light</title>
+		<creator>Awful Bobby Fossil</creator>
+		<relatedgames/>
+	</game>
+	<game id="17554036" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Heroic/Gavin/Fury/17554036.jpg
+		</thumbnail>
+		<title>Adventure Assault Clash</title>
+		<creator>Heroic Gavin Fury</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humble/Jackson/Blade/10930549.jpg
+		</thumbnail>
+		<title>Danger Fire Hero</title>
+		<creator>Humble Jackson Blade</creator>
+		<relatedgames/>
+	</game>
+	<game id="17244101" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Prince/Dan/Galaxy/17244101.jpg
+		</thumbnail>
+		<title>Ultimate Quake Mission</title>
+		<creator>Prince Dan Galaxy</creator>
+		<relatedgames/>
+	</game>
+	<game id="17013199" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Super/Shnitzel/Aviator/17013199.jpg
+		</thumbnail>
+		<title>Fury Techno Alien</title>
+		<creator>Super Shnitzel Aviator</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952853" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zippy/Bubba/Planet/10952853.jpg
+		</thumbnail>
+		<title>Thunder Animo Sonic</title>
+		<creator>Zippy Bubba Planet</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920479" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Joey/Wizard/10920479.jpg
+		</thumbnail>
+		<title>Rocket Clash Battle</title>
+		<creator>Colossal Joey Wizard</creator>
+		<relatedgames/>
+	</game>
+	<game id="17347654" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baron/Zachary/Nebula/17347654.jpg
+		</thumbnail>
+		<title>Fury Fusion Adventure</title>
+		<creator>Baron Zachary Nebula</creator>
+		<relatedgames/>
+	</game>
+	<game id="17403705" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Howling/Nicholas/Sardine/17403705.jpg
+		</thumbnail>
+		<title>Escape Ambush Slam</title>
+		<creator>Howling Nicholas Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930717" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pretty/Isabel/Mallard/10930717.jpg
+		</thumbnail>
+		<title>Crusher Ben Earth</title>
+		<creator>Pretty Isabel Mallard</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

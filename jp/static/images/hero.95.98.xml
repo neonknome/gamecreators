@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10916882" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tricky/Felix/Pontoon/10916882.jpg
+		</thumbnail>
+		<title>Rumble Adventure Challenge</title>
+		<creator>Tricky Felix Pontoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17382087" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Creepy/Richard/Oink/17382087.jpg
+		</thumbnail>
+		<title>Fusion Rescue Drone</title>
+		<creator>Creepy Richard Oink</creator>
+		<relatedgames/>
+	</game>
+	<game id="17047482" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Intrepid/Alex/Acorn/17047482.jpg
+		</thumbnail>
+		<title>Waterhazard Hyper Champion</title>
+		<creator>Intrepid Alex Acorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="17288430" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Lawrence/Eggplant/17288430.jpg
+		</thumbnail>
+		<title>Ultimate Echo Echo</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953267" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Orange/Donald/Pinwheel/10953267.jpg
+		</thumbnail>
+		<title>Storm Hex Space</title>
+		<creator>Orange Donald Pinwheel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916862" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Squishy/Andrew/Bullfrog/10916862.jpg
+		</thumbnail>
+		<title>Magno Techno Beast</title>
+		<creator>Squishy Andrew Bullfrog</creator>
+		<relatedgames/>
+	</game>
+	<game id="17078645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Captain/Waldo/Samurai/17078645.jpg
+		</thumbnail>
+		<title>Challenge Quake Crusher</title>
+		<creator>Captain Waldo Samurai</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918517" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stylish/Matthew/Acrobat/10918517.jpg
+		</thumbnail>
+		<title>Iron Challenge Chase</title>
+		<creator>Stylish Matthew Acrobat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10945458" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Atomic/Zelda/Sardine/10945458.jpg
+		</thumbnail>
+		<title>Sonic Alien Universe</title>
+		<creator>Atomic Zelda Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10934445" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Clever/Avery/Coconut/10934445.jpg
+		</thumbnail>
+		<title>Animo Power Robot</title>
+		<creator>Clever Avery Coconut</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

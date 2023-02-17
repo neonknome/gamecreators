@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10921240" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Plucky/Breanna/Figment/10921240.jpg
+		</thumbnail>
+		<title>Animo Rock Beast</title>
+		<creator>Plucky Breanna Figment</creator>
+		<relatedgames/>
+	</game>
+	<game id="17504492" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strong/Wesley/Seagull/17504492.jpg
+		</thumbnail>
+		<title>Burst Blaster Force</title>
+		<creator>Strong Wesley Seagull</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926454" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dramatic/Laura/Fishbowl/10926454.jpg
+		</thumbnail>
+		<title>Ultimate Rampage Chase</title>
+		<creator>Dramatic Laura Fishbowl</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952826" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Leah/Haystack/10952826.jpg
+		</thumbnail>
+		<title>Pursuit Fire Nova</title>
+		<creator>Chilly Leah Haystack</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918854" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fragrant/Shannon/Spider/10918854.jpg
+		</thumbnail>
+		<title>Siege Nova Crusher</title>
+		<creator>Fragrant Shannon Spider</creator>
+		<relatedgames/>
+	</game>
+	<game id="10648030" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loyal/Maria/Tornado/10648030.jpg
+		</thumbnail>
+		<title>Battle Challenge Force</title>
+		<creator>Loyal Maria Tornado</creator>
+		<relatedgames/>
+	</game>
+	<game id="16980048" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pleasant/Amanda/Goulash/16980048.jpg
+		</thumbnail>
+		<title>Pursuit Ultimate Plumber</title>
+		<creator>Pleasant Amanda Goulash</creator>
+		<relatedgames/>
+	</game>
+	<game id="17332714" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Major/Raymond/Saturn/17332714.jpg
+		</thumbnail>
+		<title>Techno Challenge Challenge</title>
+		<creator>Major Raymond Saturn</creator>
+		<relatedgames/>
+	</game>
+	<game id="10932922" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shaggy/Hunter/Behemoth/10932922.jpg
+		</thumbnail>
+		<title>Pursuit Force Ambush</title>
+		<creator>Shaggy Hunter Behemoth</creator>
+		<relatedgames/>
+	</game>
+	<game id="10031446" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Wondrous/Grace/Fizz/10031446.jpg
+		</thumbnail>
+		<title>Stone Humongousaur Force</title>
+		<creator>Wondrous Grace Fizz</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

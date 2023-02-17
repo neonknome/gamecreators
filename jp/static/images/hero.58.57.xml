@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10947551" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wise/Victoria/Volcano/10947551.jpg
+		</thumbnail>
+		<title>Chase Streak Quake</title>
+		<creator>Wise Victoria Volcano</creator>
+		<relatedgames/>
+	</game>
+	<game id="17328807" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Ellen/Banjo/17328807.jpg
+		</thumbnail>
+		<title>Light Energy Racer</title>
+		<creator>Flying Ellen Banjo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10031329" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dynamic/Erik/Crater/10031329.jpg
+		</thumbnail>
+		<title>Invasion Robot Shock</title>
+		<creator>Dynamic Erik Crater</creator>
+		<relatedgames/>
+	</game>
+	<game id="17332957" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magnetic/Tiffany/Tugboat/17332957.jpg
+		</thumbnail>
+		<title>Breaker Siege Mega</title>
+		<creator>Magnetic Tiffany Tugboat</creator>
+		<relatedgames/>
+	</game>
+	<game id="17202873" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scruffy/Ludwig/Stampede/17202873.jpg
+		</thumbnail>
+		<title>Nova Techno Adventure</title>
+		<creator>Scruffy Ludwig Stampede</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927670" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wise/Chris/Boing/10927670.jpg
+		</thumbnail>
+		<title>Invasion Ultimate Pursuit</title>
+		<creator>Wise Chris Boing</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942755" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awesome/Dylan/Lard/10942755.jpg
+		</thumbnail>
+		<title>Power Champion Racer</title>
+		<creator>Awesome Dylan Lard</creator>
+		<relatedgames/>
+	</game>
+	<game id="17358951" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Duke/Ian/Twilight/17358951.jpg
+		</thumbnail>
+		<title>Metal Smash Robot</title>
+		<creator>Duke Ian Twilight</creator>
+		<relatedgames/>
+	</game>
+	<game id="10940027" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hectic/Matt/Bingo/10940027.jpg
+		</thumbnail>
+		<title>Streak Warp Rumble</title>
+		<creator>Hectic Matt Bingo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919003" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frosty/Scott/Hambone/10919003.jpg
+		</thumbnail>
+		<title>Danger Plasma Battle</title>
+		<creator>Frosty Scott Hambone</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

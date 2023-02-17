@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10951370" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Nick/Aurora/10951370.jpg
+		</thumbnail>
+		<title>Energy Breaker Warrior</title>
+		<creator>Red Nick Aurora</creator>
+		<relatedgames/>
+	</game>
+	<game id="17399252" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ancient/Marco/Bingo/17399252.jpg
+		</thumbnail>
+		<title>Turbo Target Defense</title>
+		<creator>Ancient Marco Bingo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916703" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Rugged/Bianca/Fiddle/10916703.jpg
+		</thumbnail>
+		<title>Razor Alien Shock</title>
+		<creator>Rugged Bianca Fiddle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925864" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wacky/Jack/Virtuoso/10925864.jpg
+		</thumbnail>
+		<title>Turbo Techno Laser</title>
+		<creator>Wacky Jack Virtuoso</creator>
+		<relatedgames/>
+	</game>
+	<game id="16965108" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Feral/Andrew/Mustang/16965108.jpg
+		</thumbnail>
+		<title>Titan Hyper Breaker</title>
+		<creator>Feral Andrew Mustang</creator>
+		<relatedgames/>
+	</game>
+	<game id="10057898" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dramatic/Dora/Doodad/10057898.jpg
+		</thumbnail>
+		<title>Nova Rush Adventure</title>
+		<creator>Dramatic Dora Doodad</creator>
+		<relatedgames/>
+	</game>
+	<game id="10950785" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fragrant/Dudley/Fritter/10950785.jpg
+		</thumbnail>
+		<title>Laser Rocket Streak</title>
+		<creator>Fragrant Dudley Fritter</creator>
+		<relatedgames/>
+	</game>
+	<game id="17276635" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Roy/Razor/17276635.jpg
+		</thumbnail>
+		<title>Echo Magno Ultra</title>
+		<creator>Roy Razor</creator>
+		<relatedgames/>
+	</game>
+	<game id="17393934" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Athletic/Lillian/Jigsaw/17393934.jpg
+		</thumbnail>
+		<title>Shadow Vilgax Adventure</title>
+		<creator>Athletic Lillian Jigsaw</creator>
+		<relatedgames/>
+	</game>
+	<game id="17370479" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Diagonal/Leo/Martian/17370479.jpg
+		</thumbnail>
+		<title>Alien Blaster Hero</title>
+		<creator>Diagonal Leo Martian</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17554100" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Ingrid/Sludge/17554100.jpg
+		</thumbnail>
+		<title>Burst Storm Spark</title>
+		<creator>Zany Ingrid Sludge</creator>
+		<relatedgames/>
+	</game>
+	<game id="17504942" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Crystal/Tornado/17504942.jpg
+		</thumbnail>
+		<title>Alien Alien Alien</title>
+		<creator>Barbaric Crystal Tornado</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924138" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eerie/Ben/Tuxedo/10924138.jpg
+		</thumbnail>
+		<title>Battle Beast Nova</title>
+		<creator>Eerie Ben Tuxedo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17550925" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Horrid/Angel/Venus/17550925.jpg
+		</thumbnail>
+		<title>Rescue Nano Echo</title>
+		<creator>Horrid Angel Venus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17312986" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mellow/Benjamin/Banzai/17312986.jpg
+		</thumbnail>
+		<title>Shadow Rock Nova</title>
+		<creator>Mellow Benjamin Banzai</creator>
+		<relatedgames/>
+	</game>
+	<game id="17262083" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Yucky/Rufus/Kiwi/17262083.jpg
+		</thumbnail>
+		<title>Invasion Spidermonkey Rock</title>
+		<creator>Yucky Rufus Kiwi</creator>
+		<relatedgames/>
+	</game>
+	<game id="17315171" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Rational/Bobo/Orca/17315171.jpg
+		</thumbnail>
+		<title>Slam Attack Galaxy</title>
+		<creator>Rational Bobo Orca</creator>
+		<relatedgames/>
+	</game>
+	<game id="10068519" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Alien/Isaiah/Thud/10068519.jpg
+		</thumbnail>
+		<title>Force Pursuit Target</title>
+		<creator>Alien Isaiah Thud</creator>
+		<relatedgames/>
+	</game>
+	<game id="10950318" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Robotic/Diego/Pirate/10950318.jpg
+		</thumbnail>
+		<title>Ben Escape Vilgax</title>
+		<creator>Robotic Diego Pirate</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918851" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fanciful/Mandy/Cinnamon/10918851.jpg
+		</thumbnail>
+		<title>Metal Sonic Blaster</title>
+		<creator>Fanciful Mandy Cinnamon</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

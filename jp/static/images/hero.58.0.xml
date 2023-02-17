@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10649752" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Enormous/Simon/Acrobat/10649752.jpg
+		</thumbnail>
+		<title>Ultra Thunder Hero</title>
+		<creator>Enormous Simon Acrobat</creator>
+		<relatedgames/>
+	</game>
+	<game id="17115481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Glorious/Logan/Brick/17115481.jpg
+		</thumbnail>
+		<title>Cosmic Clash Adventure</title>
+		<creator>Glorious Logan Brick</creator>
+		<relatedgames/>
+	</game>
+	<game id="16954763" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sleepy/Cameron/Gamer/16954763.jpg
+		</thumbnail>
+		<title>Ultimate Escape Racer</title>
+		<creator>Sleepy Cameron Gamer</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916846" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Absurd/Rocky/Penguin/10916846.jpg
+		</thumbnail>
+		<title>Ben Magno Blaster</title>
+		<creator>Absurd Rocky Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930381" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Blue/Jonathan/Sunshine/10930381.jpg
+		</thumbnail>
+		<title>Gear Storm Alien</title>
+		<creator>Blue Jonathan Sunshine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924853" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Enormous/Brandon/Vector/10924853.jpg
+		</thumbnail>
+		<title>Solar Ultimate Fury</title>
+		<creator>Enormous Brandon Vector</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952581" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gloomy/Harry/Bolt/10952581.jpg
+		</thumbnail>
+		<title>Danger Vilgax Fusion</title>
+		<creator>Gloomy Harry Bolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="17277286" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mystic/Roscoe/Mummy/17277286.jpg
+		</thumbnail>
+		<title>Adventure Slam Adventure</title>
+		<creator>Mystic Roscoe Mummy</creator>
+		<relatedgames/>
+	</game>
+	<game id="17378377" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fabulous/Austin/Behemoth/17378377.jpg
+		</thumbnail>
+		<title>Cosmic Big Spark</title>
+		<creator>Fabulous Austin Behemoth</creator>
+		<relatedgames/>
+	</game>
+	<game id="10063221" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Tricky/Mike/Waffle/10063221.jpg
+		</thumbnail>
+		<title>Adventure Atomic Galaxy</title>
+		<creator>Tricky Mike Waffle</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

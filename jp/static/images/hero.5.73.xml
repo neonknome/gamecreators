@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17380971" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eager/Ella/Vitamin/17380971.jpg
+		</thumbnail>
+		<title>Razor Robot Drone</title>
+		<creator>Eager Ella Vitamin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953099" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Majestic/Minerva/Sphere/10953099.jpg
+		</thumbnail>
+		<title>Fire Rush Ultimate</title>
+		<creator>Majestic Minerva Sphere</creator>
+		<relatedgames/>
+	</game>
+	<game id="17332543" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shaggy/Dominic/Ion/17332543.jpg
+		</thumbnail>
+		<title>Escape Light Adventure</title>
+		<creator>Shaggy Dominic Ion</creator>
+		<relatedgames/>
+	</game>
+	<game id="10950423" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awful/Brittney/Amethyst/10950423.jpg
+		</thumbnail>
+		<title>Robot Force Thunder</title>
+		<creator>Awful Brittney Amethyst</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038161" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dynamic/Matt/Aardvark/10038161.jpg
+		</thumbnail>
+		<title>Warrior Ultra Laser</title>
+		<creator>Dynamic Matt Aardvark</creator>
+		<relatedgames/>
+	</game>
+	<game id="10748430" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Heroic/Igor/Barnacle/10748430.jpg
+		</thumbnail>
+		<title>Champion Danger Alien</title>
+		<creator>Heroic Igor Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933180" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Funky/Pearl/Zombie/10933180.jpg
+		</thumbnail>
+		<title>Galaxy Titan Breaker</title>
+		<creator>Funky Pearl Zombie</creator>
+		<relatedgames/>
+	</game>
+	<game id="17269325" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Seismic/Bert/Mercury/17269325.jpg
+		</thumbnail>
+		<title>Star Plumber Thunder</title>
+		<creator>Seismic Bert Mercury</creator>
+		<relatedgames/>
+	</game>
+	<game id="17069768" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Superb/Bart/Zigzag/17069768.jpg
+		</thumbnail>
+		<title>Adventure Swampfire Assault</title>
+		<creator>Superb Bart Zigzag</creator>
+		<relatedgames/>
+	</game>
+	<game id="10047186" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Awesome/Trevor/Bison/10047186.jpg
+		</thumbnail>
+		<title>Ambush Nitro Alien</title>
+		<creator>Awesome Trevor Bison</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

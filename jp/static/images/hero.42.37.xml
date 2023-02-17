@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17391769" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noisy/Judith/Taco/17391769.jpg
+		</thumbnail>
+		<title>Doom Warp Crusher</title>
+		<creator>Noisy Judith Taco</creator>
+		<relatedgames/>
+	</game>
+	<game id="10052419" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Kooky/Leonardo/Barnacle/10052419.jpg
+		</thumbnail>
+		<title>Nano Atomic Ambush</title>
+		<creator>Kooky Leonardo Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055989" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Valiant/Sterling/Popcorn/10055989.jpg
+		</thumbnail>
+		<title>Spike Force Adventure</title>
+		<creator>Valiant Sterling Popcorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="17226624" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Sean/17226624.jpg
+		</thumbnail>
+		<title>Alien Invasion Challenge</title>
+		<creator>Obvious Sean</creator>
+		<relatedgames/>
+	</game>
+	<game id="16930985" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Splendid/Simon/Sardine/16930985.jpg
+		</thumbnail>
+		<title>Shock Charge Rocket</title>
+		<creator>Splendid Simon Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="17188265" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Ronald/Presto/17188265.jpg
+		</thumbnail>
+		<title>Thunder Invasion Doom</title>
+		<creator>Daring Ronald Presto</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925864" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wacky/Jack/Virtuoso/10925864.jpg
+		</thumbnail>
+		<title>Turbo Techno Laser</title>
+		<creator>Wacky Jack Virtuoso</creator>
+		<relatedgames/>
+	</game>
+	<game id="16956383" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Capable/Bugsy/Sword/16956383.jpg
+		</thumbnail>
+		<title>Rush Ultimate Titan</title>
+		<creator>Capable Bugsy Sword</creator>
+		<relatedgames/>
+	</game>
+	<game id="16965108" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Feral/Andrew/Mustang/16965108.jpg
+		</thumbnail>
+		<title>Titan Hyper Breaker</title>
+		<creator>Feral Andrew Mustang</creator>
+		<relatedgames/>
+	</game>
+	<game id="16917205" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/King/Bernard/Fizz/16917205.jpg
+		</thumbnail>
+		<title>Shadow Target Hyper</title>
+		<creator>King Bernard Fizz</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

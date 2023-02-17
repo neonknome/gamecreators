@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="9954616" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Bashful/Zachary/Porridge/9954616.jpg
+		</thumbnail>
+		<title>Robot Humongousaur Nano</title>
+		<creator>Bashful Zachary Porridge</creator>
+		<relatedgames/>
+	</game>
+	<game id="17241048" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Princess/George/Turbo/17241048.jpg
+		</thumbnail>
+		<title>Rumble Burst Doom</title>
+		<creator>Princess George Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17258413" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quaint/Scarlett/Sardine/17258413.jpg
+		</thumbnail>
+		<title>Adventure Solar Nova</title>
+		<creator>Quaint Scarlett Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="17242231" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tough/Jose/Wombat/17242231.jpg
+		</thumbnail>
+		<title>Water Universe Rumble</title>
+		<creator>Tough Jose Wombat</creator>
+		<relatedgames/>
+	</game>
+	<game id="17331676" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Active/Ian/Cactus/17331676.jpg
+		</thumbnail>
+		<title>Adventure Blaster Alien</title>
+		<creator>Active Ian Cactus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10949874" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cranky/Theodore/Dwarf/10949874.jpg
+		</thumbnail>
+		<title>Dark Beast Invasion</title>
+		<creator>Cranky Theodore Dwarf</creator>
+		<relatedgames/>
+	</game>
+	<game id="17223545" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ghastly/Norman/Trapeze/17223545.jpg
+		</thumbnail>
+		<title>Adventure Galaxy Assault</title>
+		<creator>Ghastly Norman Trapeze</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926231" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Puzzling/Ludwig/Zigzag/10926231.jpg
+		</thumbnail>
+		<title>Sonic Shadow Racer</title>
+		<creator>Puzzling Ludwig Zigzag</creator>
+		<relatedgames/>
+	</game>
+	<game id="17384530" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cranky/Jaden/Phoenix/17384530.jpg
+		</thumbnail>
+		<title>Fury Plasma Star</title>
+		<creator>Cranky Jaden Phoenix</creator>
+		<relatedgames/>
+	</game>
+	<game id="17359435" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Epic/Calvin/Baloney/17359435.jpg
+		</thumbnail>
+		<title>Battle Slam Crusher</title>
+		<creator>Epic Calvin Baloney</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

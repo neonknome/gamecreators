@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17285330" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Negative/Andy/Atlas/17285330.jpg
+		</thumbnail>
+		<title>Fire Burst Attack</title>
+		<creator>Negative Andy Atlas</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930650" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Absurd/Owen/Dragon/10930650.jpg
+		</thumbnail>
+		<title>Chase Force Power</title>
+		<creator>Absurd Owen Dragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10045430" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Twisty/Bubba/Kazoo/10045430.jpg
+		</thumbnail>
+		<title>Laser Dark Shadow</title>
+		<creator>Twisty Bubba Kazoo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10917007" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Blue/Haley/Bullfrog/10917007.jpg
+		</thumbnail>
+		<title>Laser Turbo Fusion</title>
+		<creator>Blue Haley Bullfrog</creator>
+		<relatedgames/>
+	</game>
+	<game id="17540459" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Agile/Drake/Glop/17540459.jpg
+		</thumbnail>
+		<title>Rock Racer Force</title>
+		<creator>Agile Drake Glop</creator>
+		<relatedgames/>
+	</game>
+	<game id="10046385" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Majestic/Chelsea/Squawk/10046385.jpg
+		</thumbnail>
+		<title>Atomic Slam Space</title>
+		<creator>Majestic Chelsea Squawk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17335491" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scurvy/Payton/Pelican/17335491.jpg
+		</thumbnail>
+		<title>Plasma Magno Space</title>
+		<creator>Scurvy Payton Pelican</creator>
+		<relatedgames/>
+	</game>
+	<game id="10017418" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Awesome/Travis/Kangaroo/10017418.jpg
+		</thumbnail>
+		<title>Hyper Humongousaur Force</title>
+		<creator>Awesome Travis Kangaroo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10929624" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dynamic/Clyde/Fondue/10929624.jpg
+		</thumbnail>
+		<title>Ben Ben Ben</title>
+		<creator>Dynamic Clyde Fondue</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953659" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hefty/Brandy/Turtle/10953659.jpg
+		</thumbnail>
+		<title>Clash Iron Rescue</title>
+		<creator>Hefty Brandy Turtle</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17415028" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noisy/Ben/Hiccup/17415028.jpg
+		</thumbnail>
+		<title>Beast Search Chase</title>
+		<creator>Noisy Ben Hiccup</creator>
+		<relatedgames/>
+	</game>
+	<game id="17376535" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/King/Leopold/Python/17376535.jpg
+		</thumbnail>
+		<title>Beast Atomic Magno</title>
+		<creator>King Leopold Python</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924741" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Valiant/Maya/Rutabaga/10924741.jpg
+		</thumbnail>
+		<title>Nova Warrior Hero</title>
+		<creator>Valiant Maya Rutabaga</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952660" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Megan/Octopus/10952660.jpg
+		</thumbnail>
+		<title>Search Assault Rumble</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916785" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Splendid/Igor/Rutabaga/10916785.jpg
+		</thumbnail>
+		<title>Rocket Adventure Champion</title>
+		<creator>Splendid Igor Rutabaga</creator>
+		<relatedgames/>
+	</game>
+	<game id="17417038" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cagey/Bailey/Jalapeno/17417038.jpg
+		</thumbnail>
+		<title>Animo Ambush Target</title>
+		<creator>Cagey Bailey Jalapeno</creator>
+		<relatedgames/>
+	</game>
+	<game id="17403331" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Keen/Helen/Tundra/17403331.jpg
+		</thumbnail>
+		<title>Adventure Alien Droid</title>
+		<creator>Keen Helen Tundra</creator>
+		<relatedgames/>
+	</game>
+	<game id="16860361" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Cameron/Grackle/16860361.jpg
+		</thumbnail>
+		<title>Titan Defense Whirlwind</title>
+		<creator>Obvious Cameron Grackle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10058916" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Lovely/Theodore/Avocado/10058916.jpg
+		</thumbnail>
+		<title>Assault Vilgax Space</title>
+		<creator>Lovely Theodore Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="16886464" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Volcanic/Chowder/Cyborg/16886464.jpg
+		</thumbnail>
+		<title>Ultra Spike Fusion</title>
+		<creator>Volcanic Chowder Cyborg</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

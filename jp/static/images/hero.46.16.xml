@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10931749" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Swift/Raymond/Tempest/10931749.jpg
+		</thumbnail>
+		<title>Swampfire Ultra Cosmic</title>
+		<creator>Swift Raymond Tempest</creator>
+		<relatedgames/>
+	</game>
+	<game id="17264533" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baffling/Michelle/Shinobi/17264533.jpg
+		</thumbnail>
+		<title>Fire Ben Dark</title>
+		<creator>Baffling Michelle Shinobi</creator>
+		<relatedgames/>
+	</game>
+	<game id="10043261" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Absurd/Alex/Goofball/10043261.jpg
+		</thumbnail>
+		<title>Spark Spike Challenge</title>
+		<creator>Absurd Alex Goofball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10062426" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Massive/Clark/Steam/10062426.jpg
+		</thumbnail>
+		<title>Universe Swampfire Storm</title>
+		<creator>Massive Clark Steam</creator>
+		<relatedgames/>
+	</game>
+	<game id="16976258" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Emperor/Ashley/Gullet/16976258.jpg
+		</thumbnail>
+		<title>Drone Adventure Patrol</title>
+		<creator>Emperor Ashley Gullet</creator>
+		<relatedgames/>
+	</game>
+	<game id="10703285" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Kyle/Penguin/10703285.jpg
+		</thumbnail>
+		<title>Cosmic Swampfire Rescue</title>
+		<creator>Humorous Kyle Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="17372198" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Surreal/Yolanda/Panda/17372198.jpg
+		</thumbnail>
+		<title>Giga Giga Giga</title>
+		<creator>Surreal Yolanda Panda</creator>
+		<relatedgames/>
+	</game>
+	<game id="17357887" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Musical/CJ/Universe/17357887.jpg
+		</thumbnail>
+		<title>Shadow Adventure Assault</title>
+		<creator>Musical CJ Universe</creator>
+		<relatedgames/>
+	</game>
+	<game id="17282201" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Abnormal/Lawrence/Burro/17282201.jpg
+		</thumbnail>
+		<title>Iron Adventure Ben</title>
+		<creator>Abnormal Lawrence Burro</creator>
+		<relatedgames/>
+	</game>
+	<game id="17383762" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Comical/Jeremiah/Crash/17383762.jpg
+		</thumbnail>
+		<title>Giga Racer Rustbucket</title>
+		<creator>Comical Jeremiah Crash</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10918647" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eerie/Natasha/Skunk/10918647.jpg
+		</thumbnail>
+		<title>Streak Quake Pulse</title>
+		<creator>Eerie Natasha Skunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930634" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crafty/Sarah/Zombie/10930634.jpg
+		</thumbnail>
+		<title>Atomic Alien Ambush</title>
+		<creator>Crafty Sarah Zombie</creator>
+		<relatedgames/>
+	</game>
+	<game id="17014566" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Generous/Carter/Bazooka/17014566.jpg
+		</thumbnail>
+		<title>Stone Rescue Razor</title>
+		<creator>Generous Carter Bazooka</creator>
+		<relatedgames/>
+	</game>
+	<game id="10058578" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Shiny/Rex/Avocado/10058578.jpg
+		</thumbnail>
+		<title>Energy Drone Dark</title>
+		<creator>Shiny Rex Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="17274858" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Alan/Soldier/17274858.jpg
+		</thumbnail>
+		<title>Waterhazard Battle Fury</title>
+		<creator>Barbaric Alan Soldier</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916779" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Skinny/Jacob/Bullfrog/10916779.jpg
+		</thumbnail>
+		<title>Titan Doom Nova</title>
+		<creator>Skinny Jacob Bullfrog</creator>
+		<relatedgames/>
+	</game>
+	<game id="16917374" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Galactic/Scarlett/Blast/16917374.jpg
+		</thumbnail>
+		<title>Rocket Burst Adventure</title>
+		<creator>Galactic Scarlett Blast</creator>
+		<relatedgames/>
+	</game>
+	<game id="17357314" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Emperor/Liam/Ghoul/17357314.jpg
+		</thumbnail>
+		<title>Alien Challenge Earth</title>
+		<creator>Emperor Liam Ghoul</creator>
+		<relatedgames/>
+	</game>
+	<game id="17392765" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Husky/Lazlo/Paladin/17392765.jpg
+		</thumbnail>
+		<title>Charge Steel Space</title>
+		<creator>Husky Lazlo Paladin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921507" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Steven/Squish/10921507.jpg
+		</thumbnail>
+		<title>Quake Danger Escape</title>
+		<creator>Dazzling Steven Squish</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

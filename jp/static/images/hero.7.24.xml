@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10057035" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Generous/Justin/Coconut/10057035.jpg
+		</thumbnail>
+		<title>Atomic Adventure Alien</title>
+		<creator>Generous Justin Coconut</creator>
+		<relatedgames/>
+	</game>
+	<game id="17298605" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mighty/Avery/Mantis/17298605.jpg
+		</thumbnail>
+		<title>Energy Hyper Rampage</title>
+		<creator>Mighty Avery Mantis</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920181" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Enormous/Romeo/Bongo/10920181.jpg
+		</thumbnail>
+		<title>Adventure Adventure Adventure</title>
+		<creator>Enormous Romeo Bongo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928563" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sleepy/Arthur/Funk/10928563.jpg
+		</thumbnail>
+		<title>Swampfire Search Hyper</title>
+		<creator>Sleepy Arthur Funk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952919" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Blue/Jeffrey/Bullfrog/10952919.jpg
+		</thumbnail>
+		<title>Hyper Invasion Rampage</title>
+		<creator>Blue Jeffrey Bullfrog</creator>
+		<relatedgames/>
+	</game>
+	<game id="16981505" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Enormous/Bella/Bucket/16981505.jpg
+		</thumbnail>
+		<title>Adventure Lightning Challenge</title>
+		<creator>Enormous Bella Bucket</creator>
+		<relatedgames/>
+	</game>
+	<game id="17312104" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hyper/Ariana/Calypso/17312104.jpg
+		</thumbnail>
+		<title>Blaster Spark Alien</title>
+		<creator>Hyper Ariana Calypso</creator>
+		<relatedgames/>
+	</game>
+	<game id="10047193" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Wise/Max/Avocado/10047193.jpg
+		</thumbnail>
+		<title>Dark Energy Defense</title>
+		<creator>Wise Max Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="10936340" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cheerful/Chelsea/Bolt/10936340.jpg
+		</thumbnail>
+		<title>Cosmic Robot Burst</title>
+		<creator>Cheerful Chelsea Bolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="17303953" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Crystal/Virtuoso/17303953.jpg
+		</thumbnail>
+		<title>Escape Plasma Cosmic</title>
+		<creator>Flying Crystal Virtuoso</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

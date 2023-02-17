@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17359324" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crazy/Andy/Turbo/17359324.jpg
+		</thumbnail>
+		<title>Streak Drone Adventure</title>
+		<creator>Crazy Andy Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17361579" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ultimate/Waldo/Firefly/17361579.jpg
+		</thumbnail>
+		<title>Cosmic Adventure Sonic</title>
+		<creator>Ultimate Waldo Firefly</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921299" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dainty/Rachel/Ladybug/10921299.jpg
+		</thumbnail>
+		<title>Rumble Chase Assault</title>
+		<creator>Dainty Rachel Ladybug</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918122" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jolly/Jack/Pelican/10918122.jpg
+		</thumbnail>
+		<title>Nano Quake Adventure</title>
+		<creator>Jolly Jack Pelican</creator>
+		<relatedgames/>
+	</game>
+	<game id="17288662" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Rancid/Chester/Magician/17288662.jpg
+		</thumbnail>
+		<title>Titan Alien Nano</title>
+		<creator>Rancid Chester Magician</creator>
+		<relatedgames/>
+	</game>
+	<game id="10050014" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Alien/Hazel/Fishbowl/10050014.jpg
+		</thumbnail>
+		<title>Ultimate Adventure Ambush</title>
+		<creator>Alien Hazel Fishbowl</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925503" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Curious/Tyler/Tiptoe/10925503.jpg
+		</thumbnail>
+		<title>Pursuit Razor Energy</title>
+		<creator>Curious Tyler Tiptoe</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404696" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Golden/Benjamin/Hedgehog/17404696.jpg
+		</thumbnail>
+		<title>Robot Hyper Mission</title>
+		<creator>Golden Benjamin Hedgehog</creator>
+		<relatedgames/>
+	</game>
+	<game id="17260418" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radiant/Mckenzie/Kungfu/17260418.jpg
+		</thumbnail>
+		<title>Alien Hyper Titan</title>
+		<creator>Radiant Mckenzie Kungfu</creator>
+		<relatedgames/>
+	</game>
+	<game id="17282201" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Abnormal/Lawrence/Burro/17282201.jpg
+		</thumbnail>
+		<title>Iron Adventure Ben</title>
+		<creator>Abnormal Lawrence Burro</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

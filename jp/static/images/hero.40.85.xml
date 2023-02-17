@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10948918" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Savage/Gavin/Frost/10948918.jpg
+		</thumbnail>
+		<title>Rumble Mission Champion</title>
+		<creator>Savage Gavin Frost</creator>
+		<relatedgames/>
+	</game>
+	<game id="10937150" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Western/Tommy/Starfish/10937150.jpg
+		</thumbnail>
+		<title>Fusion Razor Light</title>
+		<creator>Western Tommy Starfish</creator>
+		<relatedgames/>
+	</game>
+	<game id="17322770" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/Holly/Phoenix/17322770.jpg
+		</thumbnail>
+		<title>Spike Star Clash</title>
+		<creator>Fiery Holly Phoenix</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924601" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Atomic/Vinny/Sawtooth/10924601.jpg
+		</thumbnail>
+		<title>Attack Alien Force</title>
+		<creator>Atomic Vinny Sawtooth</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933602" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dreadful/Joshua/Techno/10933602.jpg
+		</thumbnail>
+		<title>Swampfire Ultimate Chase</title>
+		<creator>Dreadful Joshua Techno</creator>
+		<relatedgames/>
+	</game>
+	<game id="10058809" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Happy/Simon/Steam/10058809.jpg
+		</thumbnail>
+		<title>Swampfire Blaster Smash</title>
+		<creator>Happy Simon Steam</creator>
+		<relatedgames/>
+	</game>
+	<game id="17262259" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Active/Jesse/Javelin/17262259.jpg
+		</thumbnail>
+		<title>Force Rocket Thunder</title>
+		<creator>Active Jesse Javelin</creator>
+		<relatedgames/>
+	</game>
+	<game id="17016612" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cranky/Zeb/Martian/17016612.jpg
+		</thumbnail>
+		<title>Alien Terraspin Ambush</title>
+		<creator>Cranky Zeb Martian</creator>
+		<relatedgames/>
+	</game>
+	<game id="10699059" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bouncing/Elijah/Acrobat/10699059.jpg
+		</thumbnail>
+		<title>Atomic Ultimate Nova</title>
+		<creator>Bouncing Elijah Acrobat</creator>
+		<relatedgames/>
+	</game>
+	<game id="17299391" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Imperial/Calvin/Ruckus/17299391.jpg
+		</thumbnail>
+		<title>Razor Adventure Plumber</title>
+		<creator>Imperial Calvin Ruckus</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

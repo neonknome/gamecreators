@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17551092" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dreadful/Alex/Dodo/17551092.jpg
+		</thumbnail>
+		<title>Adventure Assault Nitro</title>
+		<creator>Dreadful Alex Dodo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17239311" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Active/Chip/Mango/17239311.jpg
+		</thumbnail>
+		<title>Ultimate Turbo Spidermonkey</title>
+		<creator>Active Chip Mango</creator>
+		<relatedgames/>
+	</game>
+	<game id="17260921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ultimate/Rocky/Flamingo/17260921.jpg
+		</thumbnail>
+		<title>Spark Titan Siege</title>
+		<creator>Ultimate Rocky Flamingo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17223057" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bouncing/Benton/Mummy/17223057.jpg
+		</thumbnail>
+		<title>Big Chill Challenge</title>
+		<creator>Bouncing Benton Mummy</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953354" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jolly/Bryan/Kook/10953354.jpg
+		</thumbnail>
+		<title>Alien Robot Nitro</title>
+		<creator>Jolly Bryan Kook</creator>
+		<relatedgames/>
+	</game>
+	<game id="17370247" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radical/Ed/Chaos/17370247.jpg
+		</thumbnail>
+		<title>Terraspin Energy Rush</title>
+		<creator>Radical Ed Chaos</creator>
+		<relatedgames/>
+	</game>
+	<game id="16893803" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ultimate/Andrew/Vulture/16893803.jpg
+		</thumbnail>
+		<title>Nitro Blaster Challenge</title>
+		<creator>Ultimate Andrew Vulture</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923524" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Normal/Merlin/Monster/10923524.jpg
+		</thumbnail>
+		<title>Robot Drone Fury</title>
+		<creator>Normal Merlin Monster</creator>
+		<relatedgames/>
+	</game>
+	<game id="17326053" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Curious/Carter/Hornet/17326053.jpg
+		</thumbnail>
+		<title>Ultimate Waterhazard Whirlwind</title>
+		<creator>Curious Carter Hornet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17085481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Vibrant/Gabriel/Mahogany/17085481.jpg
+		</thumbnail>
+		<title>Nitro Mega Smash</title>
+		<creator>Vibrant Gabriel Mahogany</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

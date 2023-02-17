@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17395502" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Titanic/Hercules/Steel/17395502.jpg
+		</thumbnail>
+		<title>Gear Iron Hero</title>
+		<creator>Titanic Hercules Steel</creator>
+		<relatedgames/>
+	</game>
+	<game id="16993778" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baroness/Anna/Beast/16993778.jpg
+		</thumbnail>
+		<title>Animo Patrol Steel</title>
+		<creator>Baroness Anna Beast</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927028" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sly/Ava/Tugboat/10927028.jpg
+		</thumbnail>
+		<title>Force Adventure Stone</title>
+		<creator>Sly Ava Tugboat</creator>
+		<relatedgames/>
+	</game>
+	<game id="17308153" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Acoustic/Shelby/Oink/17308153.jpg
+		</thumbnail>
+		<title>Shadow Laser Spark</title>
+		<creator>Acoustic Shelby Oink</creator>
+		<relatedgames/>
+	</game>
+	<game id="16997114" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bouncing/Aaliyah/Vitamin/16997114.jpg
+		</thumbnail>
+		<title>Danger Burst Cosmic</title>
+		<creator>Bouncing Aaliyah Vitamin</creator>
+		<relatedgames/>
+	</game>
+	<game id="17204863" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Epic/Ray/Glop/17204863.jpg
+		</thumbnail>
+		<title>Defense Streak Gear</title>
+		<creator>Epic Ray Glop</creator>
+		<relatedgames/>
+	</game>
+	<game id="17340152" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Icy/Ernest/Behemoth/17340152.jpg
+		</thumbnail>
+		<title>Fury Stone Shadow</title>
+		<creator>Icy Ernest Behemoth</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931089" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Puzzling/Gigi/Thunder/10931089.jpg
+		</thumbnail>
+		<title>Rustbucket Quake Magno</title>
+		<creator>Puzzling Gigi Thunder</creator>
+		<relatedgames/>
+	</game>
+	<game id="10057898" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dramatic/Dora/Doodad/10057898.jpg
+		</thumbnail>
+		<title>Nova Rush Adventure</title>
+		<creator>Dramatic Dora Doodad</creator>
+		<relatedgames/>
+	</game>
+	<game id="10044442" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Handsome/Hercules/Catapult/10044442.jpg
+		</thumbnail>
+		<title>Rumble Alien Invasion</title>
+		<creator>Handsome Hercules Catapult</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

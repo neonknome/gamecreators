@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10926374" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Silly/Joshua/Thunder/10926374.jpg
+		</thumbnail>
+		<title>Razor Quake Adventure</title>
+		<creator>Silly Joshua Thunder</creator>
+		<relatedgames/>
+	</game>
+	<game id="17418896" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quantum/Scarlett/Nebula/17418896.jpg
+		</thumbnail>
+		<title>Space Space Space</title>
+		<creator>Quantum Scarlett Nebula</creator>
+		<relatedgames/>
+	</game>
+	<game id="17218349" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Odd/Jeremy/Knight/17218349.jpg
+		</thumbnail>
+		<title>Light Atomic Vilgax</title>
+		<creator>Odd Jeremy Knight</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916765" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spooky/Vinny/Porridge/10916765.jpg
+		</thumbnail>
+		<title>Lightning Hero Danger</title>
+		<creator>Spooky Vinny Porridge</creator>
+		<relatedgames/>
+	</game>
+	<game id="17387667" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Captain/Curtis/Skunk/17387667.jpg
+		</thumbnail>
+		<title>Ambush Charge Rescue</title>
+		<creator>Captain Curtis Skunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17375607" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stubborn/Merlin/Turnip/17375607.jpg
+		</thumbnail>
+		<title>Plasma Challenge Light</title>
+		<creator>Stubborn Merlin Turnip</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Zeus/Daffodil/10916921.jpg
+		</thumbnail>
+		<title>Crusher Plumber Force</title>
+		<creator>Chilly Zeus Daffodil</creator>
+		<relatedgames/>
+	</game>
+	<game id="17219398" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Lucky/Dennis/Penguin/17219398.jpg
+		</thumbnail>
+		<title>Power Cosmic Lightning</title>
+		<creator>Lucky Dennis Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951251" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Joel/Dynamite/10951251.jpg
+		</thumbnail>
+		<title>Mega Space Rumble</title>
+		<creator>Honest Joel Dynamite</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933919" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pleasant/Jeffrey/Goblin/10933919.jpg
+		</thumbnail>
+		<title>Battle Drone Ultra</title>
+		<creator>Pleasant Jeffrey Goblin</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

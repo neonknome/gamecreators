@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10946279" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sincere/Diego/Obelisk/10946279.jpg
+		</thumbnail>
+		<title>Rescue Alien Hex</title>
+		<creator>Sincere Diego Obelisk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17377839" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Able/Michelle/Splat/17377839.jpg
+		</thumbnail>
+		<title>Adventure Atomic Champion</title>
+		<creator>Able Michelle Splat</creator>
+		<relatedgames/>
+	</game>
+	<game id="16883820" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/James/Cyclone/16883820.jpg
+		</thumbnail>
+		<title>Warp Waterhazard Adventure</title>
+		<creator>Fiery James Cyclone</creator>
+		<relatedgames/>
+	</game>
+	<game id="10704405" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Leaping/Emma/Molecule/10704405.jpg
+		</thumbnail>
+		<title>Fusion Pulse Chase</title>
+		<creator>Leaping Emma Molecule</creator>
+		<relatedgames/>
+	</game>
+	<game id="17089029" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Regular/Andrea/Fandango/17089029.jpg
+		</thumbnail>
+		<title>Rumble Adventure Vilgax</title>
+		<creator>Regular Andrea Fandango</creator>
+		<relatedgames/>
+	</game>
+	<game id="16891507" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Vast/Zach/Renegade/16891507.jpg
+		</thumbnail>
+		<title>Assault Alien Ambush</title>
+		<creator>Vast Zach Renegade</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038814" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Odd/Spike/Thud/10038814.jpg
+		</thumbnail>
+		<title>Fusion Vilgax Techno</title>
+		<creator>Odd Spike Thud</creator>
+		<relatedgames/>
+	</game>
+	<game id="16873112" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Aromatic/Amy/Mango/16873112.jpg
+		</thumbnail>
+		<title>Rocket Smash Power</title>
+		<creator>Aromatic Amy Mango</creator>
+		<relatedgames/>
+	</game>
+	<game id="10934553" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Aaron/Safari/10934553.jpg
+		</thumbnail>
+		<title>Power Nano Force</title>
+		<creator>Dashing Aaron Safari</creator>
+		<relatedgames/>
+	</game>
+	<game id="16977448" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Western/Cameron/Jigsaw/16977448.jpg
+		</thumbnail>
+		<title>Assault Humongousaur Laser</title>
+		<creator>Western Cameron Jigsaw</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

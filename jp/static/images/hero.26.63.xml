@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10044442" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Handsome/Hercules/Catapult/10044442.jpg
+		</thumbnail>
+		<title>Rumble Alien Invasion</title>
+		<creator>Handsome Hercules Catapult</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952739" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hideous/Sterling/Ballyhoo/10952739.jpg
+		</thumbnail>
+		<title>Blaster Swampfire Drone</title>
+		<creator>Hideous Sterling Ballyhoo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10066116" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Strange/Cody/Python/10066116.jpg
+		</thumbnail>
+		<title>Smash Power Magno</title>
+		<creator>Strange Cody Python</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921907" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Bethany/Starfish/10921907.jpg
+		</thumbnail>
+		<title>Slam Star Razor</title>
+		<creator>Chilly Bethany Starfish</creator>
+		<relatedgames/>
+	</game>
+	<game id="10932493" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radiant/Bucky/Cosmos/10932493.jpg
+		</thumbnail>
+		<title>Titan Warrior Pursuit</title>
+		<creator>Radiant Bucky Cosmos</creator>
+		<relatedgames/>
+	</game>
+	<game id="10949434" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crunchy/Angel/Goblin/10949434.jpg
+		</thumbnail>
+		<title>Burst Target Space</title>
+		<creator>Crunchy Angel Goblin</creator>
+		<relatedgames/>
+	</game>
+	<game id="17585376" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Extreme/Vicky/Penguin/17585376.jpg
+		</thumbnail>
+		<title>Magno Rock Patrol</title>
+		<creator>Extreme Vicky Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10934553" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Aaron/Safari/10934553.jpg
+		</thumbnail>
+		<title>Power Nano Force</title>
+		<creator>Dashing Aaron Safari</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923067" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Green/Milo/Quake/10923067.jpg
+		</thumbnail>
+		<title>Defense Shock Droid</title>
+		<creator>Green Milo Quake</creator>
+		<relatedgames/>
+	</game>
+	<game id="17310960" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Solar/Mario/Avator/17310960.jpg
+		</thumbnail>
+		<title>Ultimate Turbo Storm</title>
+		<creator>Solar Mario Avator</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

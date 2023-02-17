@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10038215" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Reckless/Jeremiah/Doodle/10038215.jpg
+		</thumbnail>
+		<title>Cosmic Fire Adventure</title>
+		<creator>Reckless Jeremiah Doodle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10041108" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Alien/Pearl/Cyborg/10041108.jpg
+		</thumbnail>
+		<title>Swampfire Target Burst</title>
+		<creator>Alien Pearl Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918880" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Robust/Norman/Brick/10918880.jpg
+		</thumbnail>
+		<title>Metal Techno Rescue</title>
+		<creator>Robust Norman Brick</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038010" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fearless/Jason/Bonkers/10038010.jpg
+		</thumbnail>
+		<title>Galaxy Storm Rustbucket</title>
+		<creator>Fearless Jason Bonkers</creator>
+		<relatedgames/>
+	</game>
+	<game id="17350606" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ashley/Planet/17350606.jpg
+		</thumbnail>
+		<title>Alien Brainstorm Assault</title>
+		<creator>Ashley Planet</creator>
+		<relatedgames/>
+	</game>
+	<game id="16904399" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Delicate/Bethany/Talon/16904399.jpg
+		</thumbnail>
+		<title>Rush Shock Echo</title>
+		<creator>Delicate Bethany Talon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919136" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grouchy/Pearl/Rhino/10919136.jpg
+		</thumbnail>
+		<title>Animo Alien Steel</title>
+		<creator>Grouchy Pearl Rhino</creator>
+		<relatedgames/>
+	</game>
+	<game id="17303953" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Crystal/Virtuoso/17303953.jpg
+		</thumbnail>
+		<title>Escape Plasma Cosmic</title>
+		<creator>Flying Crystal Virtuoso</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933395" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Robotic/Mandy/Kudzu/10933395.jpg
+		</thumbnail>
+		<title>Ambush Patrol Nova</title>
+		<creator>Robotic Mandy Kudzu</creator>
+		<relatedgames/>
+	</game>
+	<game id="16975666" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Steady/Hannah/Brute/16975666.jpg
+		</thumbnail>
+		<title>Ambush Battle Search</title>
+		<creator>Steady Hannah Brute</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

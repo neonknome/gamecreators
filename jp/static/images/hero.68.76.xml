@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17389024" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Puzzling/Zachary/Thorax/17389024.jpg
+		</thumbnail>
+		<title>Doom Sonic Vilgax</title>
+		<creator>Puzzling Zachary Thorax</creator>
+		<relatedgames/>
+	</game>
+	<game id="17304014" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Titanic/Penny/Calliope/17304014.jpg
+		</thumbnail>
+		<title>Vilgax Nova Siege</title>
+		<creator>Titanic Penny Calliope</creator>
+		<relatedgames/>
+	</game>
+	<game id="10058927" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cranky/Rob/Tractor/10058927.jpg
+		</thumbnail>
+		<title>Galaxy Shock Shock</title>
+		<creator>Cranky Rob Tractor</creator>
+		<relatedgames/>
+	</game>
+	<game id="17417389" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strong/Matthew/Fez/17417389.jpg
+		</thumbnail>
+		<title>Battle Blaster Titan</title>
+		<creator>Strong Matthew Fez</creator>
+		<relatedgames/>
+	</game>
+	<game id="10028568" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Atomic/Harvey/Aardvark/10028568.jpg
+		</thumbnail>
+		<title>Fire Spike Search</title>
+		<creator>Atomic Harvey Aardvark</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Yellow/Aaron/Mango/10920049.jpg
+		</thumbnail>
+		<title>Invasion Adventure Rustbucket</title>
+		<creator>Yellow Aaron Mango</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924271" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Jeremy/Tractor/10924271.jpg
+		</thumbnail>
+		<title>Gear Gear Robot</title>
+		<creator>Chilly Jeremy Tractor</creator>
+		<relatedgames/>
+	</game>
+	<game id="17387691" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loyal/Juan/Parallax/17387691.jpg
+		</thumbnail>
+		<title>Cannonbolt Metal Mission</title>
+		<creator>Loyal Juan Parallax</creator>
+		<relatedgames/>
+	</game>
+	<game id="10705689" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Adrian/Shark/10705689.jpg
+		</thumbnail>
+		<title>Ultra Target Danger</title>
+		<creator>Honest Adrian Shark</creator>
+		<relatedgames/>
+	</game>
+	<game id="17309781" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pleasant/Alan/Gamer/17309781.jpg
+		</thumbnail>
+		<title>Razor Jetray Laser</title>
+		<creator>Pleasant Alan Gamer</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

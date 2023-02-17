@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10039147" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Husky/Bessie/Iceberg/10039147.jpg
+		</thumbnail>
+		<title>Shadow Attack Galaxy</title>
+		<creator>Husky Bessie Iceberg</creator>
+		<relatedgames/>
+	</game>
+	<game id="17015007" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proper/Vince/Volcano/17015007.jpg
+		</thumbnail>
+		<title>Swampfire Gear Defense</title>
+		<creator>Proper Vince Volcano</creator>
+		<relatedgames/>
+	</game>
+	<game id="17316341" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Rich/Sunshine/17316341.jpg
+		</thumbnail>
+		<title>Galaxy Danger Challenge</title>
+		<creator>Queen Rich Sunshine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tricky/Felix/Pontoon/10916687.jpg
+		</thumbnail>
+		<title>Alien Metal Rock</title>
+		<creator>Tricky Felix Pontoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10946286" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Adorable/Benjamin/Robot/10946286.jpg
+		</thumbnail>
+		<title>Fire Fire Robot</title>
+		<creator>Adorable Benjamin Robot</creator>
+		<relatedgames/>
+	</game>
+	<game id="17574657" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Creepy/George/Sprinkle/17574657.jpg
+		</thumbnail>
+		<title>Chill Plumber Vilgax</title>
+		<creator>Creepy George Sprinkle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17259079" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Lawrence/Eggplant/17259079.jpg
+		</thumbnail>
+		<title>Cosmic Iron Chill</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames/>
+	</game>
+	<game id="17505132" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Creative/David/Anvil/17505132.jpg
+		</thumbnail>
+		<title>Mission Chase Smash</title>
+		<creator>Creative David Anvil</creator>
+		<relatedgames/>
+	</game>
+	<game id="17554026" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Unknown/Zeus/Celsius/17554026.jpg
+		</thumbnail>
+		<title>Light Ben Champion</title>
+		<creator>Unknown Zeus Celsius</creator>
+		<relatedgames/>
+	</game>
+	<game id="17504961" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Evil/Mario/Gargoyle/17504961.jpg
+		</thumbnail>
+		<title>Giga Storm Blaster</title>
+		<creator>Evil Mario Gargoyle</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

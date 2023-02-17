@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10031707" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Wondrous/Grace/Fizz/10031707.jpg
+		</thumbnail>
+		<title>Lightning Burst Solar</title>
+		<creator>Wondrous Grace Fizz</creator>
+		<relatedgames/>
+	</game>
+	<game id="17299849" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Fred/Bingo/17299849.jpg
+		</thumbnail>
+		<title>Gear Hyper Turbo</title>
+		<creator>Chilly Fred Bingo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953294" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Surreal/William/Fuzz/10953294.jpg
+		</thumbnail>
+		<title>Smash Shadow Crusher</title>
+		<creator>Surreal William Fuzz</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953441" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Comical/Jenna/Funk/10953441.jpg
+		</thumbnail>
+		<title>Attack Hyper Lightning</title>
+		<creator>Comical Jenna Funk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10046166" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Funny/Chris/Pinwheel/10046166.jpg
+		</thumbnail>
+		<title>Slam Danger Light</title>
+		<creator>Funny Chris Pinwheel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921591" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Majestic/Mario/Sawtooth/10921591.jpg
+		</thumbnail>
+		<title>Dark Adventure Drone</title>
+		<creator>Majestic Mario Sawtooth</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404129" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shady/Perseus/Comet/17404129.jpg
+		</thumbnail>
+		<title>Ultra Energy Nano</title>
+		<creator>Shady Perseus Comet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17383531" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Princess/Melanie/Penguin/17383531.jpg
+		</thumbnail>
+		<title>Battle Chill Search</title>
+		<creator>Princess Melanie Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10950896" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nomadic/Alyssa/Kayak/10950896.jpg
+		</thumbnail>
+		<title>Rampage Spark Force</title>
+		<creator>Nomadic Alyssa Kayak</creator>
+		<relatedgames/>
+	</game>
+	<game id="10929381" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Southern/Justin/Steam/10929381.jpg
+		</thumbnail>
+		<title>Swampfire Attack Challenge</title>
+		<creator>Southern Justin Steam</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

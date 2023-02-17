@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17000233" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artful/Julia/Mars/17000233.jpg
+		</thumbnail>
+		<title>Adventure Cosmic Alien</title>
+		<creator>Artful Julia Mars</creator>
+		<relatedgames/>
+	</game>
+	<game id="10647354" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Karen/Starfish/10647354.jpg
+		</thumbnail>
+		<title>Challenge Burst Breaker</title>
+		<creator>Dashing Karen Starfish</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927817" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grimy/Blake/Tornado/10927817.jpg
+		</thumbnail>
+		<title>Patrol Energy Magno</title>
+		<creator>Grimy Blake Tornado</creator>
+		<relatedgames/>
+	</game>
+	<game id="17338102" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/Ichabod/Tiptoe/17338102.jpg
+		</thumbnail>
+		<title>Burst Mega Pursuit</title>
+		<creator>Fiery Ichabod Tiptoe</creator>
+		<relatedgames/>
+	</game>
+	<game id="17283059" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Towering/Angel/Bucket/17283059.jpg
+		</thumbnail>
+		<title>Fire Metal Crusher</title>
+		<creator>Towering Angel Bucket</creator>
+		<relatedgames/>
+	</game>
+	<game id="10793298" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bashful/Duncan/Tuxedo/10793298.jpg
+		</thumbnail>
+		<title>Cosmic Assault Plasma</title>
+		<creator>Bashful Duncan Tuxedo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17303785" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Active/Kenny/Zinger/17303785.jpg
+		</thumbnail>
+		<title>Mission Ambush Earth</title>
+		<creator>Active Kenny Zinger</creator>
+		<relatedgames/>
+	</game>
+	<game id="17562268" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Imperial/Cole/Pizza/17562268.jpg
+		</thumbnail>
+		<title>Rocket Big Charge</title>
+		<creator>Imperial Cole Pizza</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952470" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Puzzling/Misty/Polliwog/10952470.jpg
+		</thumbnail>
+		<title>Racer Burst Fusion</title>
+		<creator>Puzzling Misty Polliwog</creator>
+		<relatedgames/>
+	</game>
+	<game id="16920799" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Titanic/Dixie/Macaw/16920799.jpg
+		</thumbnail>
+		<title>Hyper Galaxy Power</title>
+		<creator>Titanic Dixie Macaw</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

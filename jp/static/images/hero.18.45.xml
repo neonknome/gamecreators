@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10920338" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stylish/Harvey/Universe/10920338.jpg
+		</thumbnail>
+		<title>Spark Magno Racer</title>
+		<creator>Stylish Harvey Universe</creator>
+		<relatedgames/>
+	</game>
+	<game id="10647546" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Alan/Cipher/10647546.jpg
+		</thumbnail>
+		<title>Rocket Attack Ambush</title>
+		<creator>Zany Alan Cipher</creator>
+		<relatedgames/>
+	</game>
+	<game id="17549594" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Classic/Buffy/Dingo/17549594.jpg
+		</thumbnail>
+		<title>Warrior Rustbucket Echo</title>
+		<creator>Classic Buffy Dingo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038610" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Frantic/Henry/Crowbar/10038610.jpg
+		</thumbnail>
+		<title>Shock Nano Siege</title>
+		<creator>Frantic Henry Crowbar</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953578" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Lucky/Matthew/Avocado/10953578.jpg
+		</thumbnail>
+		<title>Warp Pulse Swampfire</title>
+		<creator>Lucky Matthew Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921240" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Plucky/Breanna/Figment/10921240.jpg
+		</thumbnail>
+		<title>Animo Rock Beast</title>
+		<creator>Plucky Breanna Figment</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952826" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Leah/Haystack/10952826.jpg
+		</thumbnail>
+		<title>Pursuit Fire Nova</title>
+		<creator>Chilly Leah Haystack</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935104" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Swift/Mitchell/Parsec/10935104.jpg
+		</thumbnail>
+		<title>Escape Turbo Plumber</title>
+		<creator>Swift Mitchell Parsec</creator>
+		<relatedgames/>
+	</game>
+	<game id="16967196" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eager/Rachel/Samurai/16967196.jpg
+		</thumbnail>
+		<title>Mission Fury Fire</title>
+		<creator>Eager Rachel Samurai</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923524" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Normal/Merlin/Monster/10923524.jpg
+		</thumbnail>
+		<title>Robot Drone Fury</title>
+		<creator>Normal Merlin Monster</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

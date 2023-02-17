@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17400821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Venomous/Buster/Tarragon/17400821.jpg
+		</thumbnail>
+		<title>Giga Techno Big</title>
+		<creator>Venomous Buster Tarragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17225306" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Omar/Apple/17225306.jpg
+		</thumbnail>
+		<title>Charge Assault Stone</title>
+		<creator>Omar Apple</creator>
+		<relatedgames/>
+	</game>
+	<game id="16962875" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Aromatic/Chuck/Planet/16962875.jpg
+		</thumbnail>
+		<title>Attack Dark Racer</title>
+		<creator>Aromatic Chuck Planet</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916890" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Billy/Glacier/10916890.jpg
+		</thumbnail>
+		<title>Quake Robot Pursuit</title>
+		<creator>Dashing Billy Glacier</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Western/Leon/Figment/10952821.jpg
+		</thumbnail>
+		<title>Battle Force Doom</title>
+		<creator>Western Leon Figment</creator>
+		<relatedgames/>
+	</game>
+	<game id="16948692" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/Alyssa/Blammo/16948692.jpg
+		</thumbnail>
+		<title>Rush Breaker Storm</title>
+		<creator>Fiery Alyssa Blammo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916893" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dramatic/Rufus/Ogre/10916893.jpg
+		</thumbnail>
+		<title>Patrol Rush Chase</title>
+		<creator>Dramatic Rufus Ogre</creator>
+		<relatedgames/>
+	</game>
+	<game id="10936585" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Rugged/Dakota/Doodle/10936585.jpg
+		</thumbnail>
+		<title>Robot Rumble Rampage</title>
+		<creator>Rugged Dakota Doodle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17005665" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Icy/Kristina/Twilight/17005665.jpg
+		</thumbnail>
+		<title>Ben Power Adventure</title>
+		<creator>Icy Kristina Twilight</creator>
+		<relatedgames/>
+	</game>
+	<game id="17275840" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Puzzling/Kristen/Mars/17275840.jpg
+		</thumbnail>
+		<title>Dark Nova Power</title>
+		<creator>Puzzling Kristen Mars</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

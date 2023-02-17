@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10949490" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Enormous/Nathan/Monster/10949490.jpg
+		</thumbnail>
+		<title>Warrior Thunder Iron</title>
+		<creator>Enormous Nathan Monster</creator>
+		<relatedgames/>
+	</game>
+	<game id="17560298" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hyper/Rebecca/Barnacle/17560298.jpg
+		</thumbnail>
+		<title>Chase Adventure Adventure</title>
+		<creator>Hyper Rebecca Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17379327" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tall/Clay/Mystery/17379327.jpg
+		</thumbnail>
+		<title>Laser Warrior Adventure</title>
+		<creator>Tall Clay Mystery</creator>
+		<relatedgames/>
+	</game>
+	<game id="16850246" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nautical/Mark/Aardvark/16850246.jpg
+		</thumbnail>
+		<title>Fury Nano Ultimate</title>
+		<creator>Nautical Mark Aardvark</creator>
+		<relatedgames/>
+	</game>
+	<game id="16866155" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Skinny/Ryan/Skeleton/16866155.jpg
+		</thumbnail>
+		<title>Lightning Atomic Razor</title>
+		<creator>Skinny Ryan Skeleton</creator>
+		<relatedgames/>
+	</game>
+	<game id="10039310" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Absurd/Leonardo/Ladybug/10039310.jpg
+		</thumbnail>
+		<title>Rescue Mission Assault</title>
+		<creator>Absurd Leonardo Ladybug</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crafty/Ben/Varmint/10922878.jpg
+		</thumbnail>
+		<title>Storm Patrol Galaxy</title>
+		<creator>Crafty Ben Varmint</creator>
+		<relatedgames/>
+	</game>
+	<game id="10015961" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Twisty/Avery/Fondue/10015961.jpg
+		</thumbnail>
+		<title>Star Breaker Attack</title>
+		<creator>Twisty Avery Fondue</creator>
+		<relatedgames/>
+	</game>
+	<game id="10945010" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Blue/Fred/Howler/10945010.jpg
+		</thumbnail>
+		<title>Champion Rock Plasma</title>
+		<creator>Blue Fred Howler</creator>
+		<relatedgames/>
+	</game>
+	<game id="16974843" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Husky/Lucius/Foul/16974843.jpg
+		</thumbnail>
+		<title>Hyper Ben Solar</title>
+		<creator>Husky Lucius Foul</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

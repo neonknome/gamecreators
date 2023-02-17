@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10922895" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brave/Ernie/Blitz/10922895.jpg
+		</thumbnail>
+		<title>Hyper Spark Hero</title>
+		<creator>Brave Ernie Blitz</creator>
+		<relatedgames/>
+	</game>
+	<game id="17083085" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Extreme/Abigail/Magnet/17083085.jpg
+		</thumbnail>
+		<title>Streak Drone Magno</title>
+		<creator>Extreme Abigail Magnet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17584898" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Intrepid/Finn/Clone/17584898.jpg
+		</thumbnail>
+		<title>Cannonbolt Storm Assault</title>
+		<creator>Intrepid Finn Clone</creator>
+		<relatedgames/>
+	</game>
+	<game id="10793505" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Green/Brianna/Thorax/10793505.jpg
+		</thumbnail>
+		<title>Escape Escape Smash</title>
+		<creator>Green Brianna Thorax</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931923" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noble/Noah/Gazelle/10931923.jpg
+		</thumbnail>
+		<title>Escape Rampage Mega</title>
+		<creator>Noble Noah Gazelle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17340123" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Admiral/Joshua/Tuxedo/17340123.jpg
+		</thumbnail>
+		<title>Power Shock Smash</title>
+		<creator>Admiral Joshua Tuxedo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924399" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frosty/Cory/Cyclone/10924399.jpg
+		</thumbnail>
+		<title>Swampfire Spark Star</title>
+		<creator>Frosty Cory Cyclone</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953280" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scary/James/Lavender/10953280.jpg
+		</thumbnail>
+		<title>Steel Smash Magno</title>
+		<creator>Scary James Lavender</creator>
+		<relatedgames/>
+	</game>
+	<game id="17028951" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Average/Carlos/Behemoth/17028951.jpg
+		</thumbnail>
+		<title>Slam Attack Mission</title>
+		<creator>Average Carlos Behemoth</creator>
+		<relatedgames/>
+	</game>
+	<game id="10649314" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shrewd/Baxter/Magma/10649314.jpg
+		</thumbnail>
+		<title>Light Power Rustbucket</title>
+		<creator>Shrewd Baxter Magma</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

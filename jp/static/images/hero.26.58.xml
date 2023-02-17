@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10925587" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Massive/Kristin/Pulse/10925587.jpg
+		</thumbnail>
+		<title>Champion Challenge Magno</title>
+		<creator>Massive Kristin Pulse</creator>
+		<relatedgames/>
+	</game>
+	<game id="10024911" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Shiny/Bobby/Werewolf/10024911.jpg
+		</thumbnail>
+		<title>Fire Iron Burst</title>
+		<creator>Shiny Bobby Werewolf</creator>
+		<relatedgames/>
+	</game>
+	<game id="17277858" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baffling/Michelle/Shinobi/17277858.jpg
+		</thumbnail>
+		<title>Mega Water Nitro</title>
+		<creator>Baffling Michelle Shinobi</creator>
+		<relatedgames/>
+	</game>
+	<game id="10949978" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sinister/Aidan/Dynamite/10949978.jpg
+		</thumbnail>
+		<title>Ultimate Alien Rumble</title>
+		<creator>Sinister Aidan Dynamite</creator>
+		<relatedgames/>
+	</game>
+	<game id="10032046" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Absurd/Ava/Bayou/10032046.jpg
+		</thumbnail>
+		<title>Defense Alien Humongousaur</title>
+		<creator>Absurd Ava Bayou</creator>
+		<relatedgames/>
+	</game>
+	<game id="17218382" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Roaring/Zelda/Monster/17218382.jpg
+		</thumbnail>
+		<title>Hyper Galaxy Clash</title>
+		<creator>Roaring Zelda Monster</creator>
+		<relatedgames/>
+	</game>
+	<game id="17278972" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Virtual/Victor/Rebel/17278972.jpg
+		</thumbnail>
+		<title>Giga Hyper Rustbucket</title>
+		<creator>Virtual Victor Rebel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953680" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Orange/Sara/Cyborg/10953680.jpg
+		</thumbnail>
+		<title>Hero Robot Shock</title>
+		<creator>Orange Sara Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10937939" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Gigi/Lobster/10937939.jpg
+		</thumbnail>
+		<title>Alien Fire Smash</title>
+		<creator>Dazzling Gigi Lobster</creator>
+		<relatedgames/>
+	</game>
+	<game id="17339288" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wily/Jamie/Presto/17339288.jpg
+		</thumbnail>
+		<title>Chase Hyper Vilgax</title>
+		<creator>Wily Jamie Presto</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

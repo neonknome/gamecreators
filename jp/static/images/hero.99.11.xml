@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17328807" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Ellen/Banjo/17328807.jpg
+		</thumbnail>
+		<title>Light Energy Racer</title>
+		<creator>Flying Ellen Banjo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10031329" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dynamic/Erik/Crater/10031329.jpg
+		</thumbnail>
+		<title>Invasion Robot Shock</title>
+		<creator>Dynamic Erik Crater</creator>
+		<relatedgames/>
+	</game>
+	<game id="17332957" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magnetic/Tiffany/Tugboat/17332957.jpg
+		</thumbnail>
+		<title>Breaker Siege Mega</title>
+		<creator>Magnetic Tiffany Tugboat</creator>
+		<relatedgames/>
+	</game>
+	<game id="17202873" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scruffy/Ludwig/Stampede/17202873.jpg
+		</thumbnail>
+		<title>Nova Techno Adventure</title>
+		<creator>Scruffy Ludwig Stampede</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927670" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wise/Chris/Boing/10927670.jpg
+		</thumbnail>
+		<title>Invasion Ultimate Pursuit</title>
+		<creator>Wise Chris Boing</creator>
+		<relatedgames/>
+	</game>
+	<game id="17179810" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Extreme/Alan/Avocado/17179810.jpg
+		</thumbnail>
+		<title>Cosmic Beast Quake</title>
+		<creator>Extreme Alan Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="17316341" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Rich/Sunshine/17316341.jpg
+		</thumbnail>
+		<title>Galaxy Danger Challenge</title>
+		<creator>Queen Rich Sunshine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tricky/Felix/Pontoon/10916687.jpg
+		</thumbnail>
+		<title>Alien Metal Rock</title>
+		<creator>Tricky Felix Pontoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930482" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noble/Tyler/Hogwash/10930482.jpg
+		</thumbnail>
+		<title>Doom Pulse Fusion</title>
+		<creator>Noble Tyler Hogwash</creator>
+		<relatedgames/>
+	</game>
+	<game id="10946286" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Adorable/Benjamin/Robot/10946286.jpg
+		</thumbnail>
+		<title>Fire Fire Robot</title>
+		<creator>Adorable Benjamin Robot</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

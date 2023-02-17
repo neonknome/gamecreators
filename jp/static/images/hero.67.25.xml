@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10045430" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Twisty/Bubba/Kazoo/10045430.jpg
+		</thumbnail>
+		<title>Laser Dark Shadow</title>
+		<creator>Twisty Bubba Kazoo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17540459" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Agile/Drake/Glop/17540459.jpg
+		</thumbnail>
+		<title>Rock Racer Force</title>
+		<creator>Agile Drake Glop</creator>
+		<relatedgames/>
+	</game>
+	<game id="17188315" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crispy/Steven/Bazooka/17188315.jpg
+		</thumbnail>
+		<title>Shock Echo Adventure</title>
+		<creator>Crispy Steven Bazooka</creator>
+		<relatedgames/>
+	</game>
+	<game id="17223727" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quick/Chuck/Cobweb/17223727.jpg
+		</thumbnail>
+		<title>Power Adventure Champion</title>
+		<creator>Quick Chuck Cobweb</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924693" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crispy/Cory/Dingbat/10924693.jpg
+		</thumbnail>
+		<title>Smash Breaker Fire</title>
+		<creator>Crispy Cory Dingbat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926594" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Valiant/Maya/Rutabaga/10926594.jpg
+		</thumbnail>
+		<title>Light Search Ultra</title>
+		<creator>Valiant Maya Rutabaga</creator>
+		<relatedgames/>
+	</game>
+	<game id="17333051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Ricardo/Tiger/17333051.jpg
+		</thumbnail>
+		<title>Chill Dark Sonic</title>
+		<creator>Daring Ricardo Tiger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10068757" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Green/Andy/Tusk/10068757.jpg
+		</thumbnail>
+		<title>Ben Alien Force</title>
+		<creator>Green Andy Tusk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17336600" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Snazzy/Harry/Sawtooth/17336600.jpg
+		</thumbnail>
+		<title>Lightning Racer Rampage</title>
+		<creator>Snazzy Harry Sawtooth</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921995" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colorful/Leslie/Enigma/10921995.jpg
+		</thumbnail>
+		<title>Iron Fury Mission</title>
+		<creator>Colorful Leslie Enigma</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

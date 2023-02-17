@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17220619" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Carefree/Penelope/Banshee/17220619.jpg
+		</thumbnail>
+		<title>Lightning Big Animo</title>
+		<creator>Carefree Penelope Banshee</creator>
+		<relatedgames/>
+	</game>
+	<game id="16883820" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/James/Cyclone/16883820.jpg
+		</thumbnail>
+		<title>Warp Waterhazard Adventure</title>
+		<creator>Fiery James Cyclone</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921135" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dreadful/Medusa/Fishbowl/10921135.jpg
+		</thumbnail>
+		<title>Swampfire Assault Invasion</title>
+		<creator>Dreadful Medusa Fishbowl</creator>
+		<relatedgames/>
+	</game>
+	<game id="17256921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Freakish/Paul/Neptune/17256921.jpg
+		</thumbnail>
+		<title>Ultra Gear Hex</title>
+		<creator>Freakish Paul Neptune</creator>
+		<relatedgames/>
+	</game>
+	<game id="17421965" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Luminous/Mark/Narwhal/17421965.jpg
+		</thumbnail>
+		<title>Metal Streak Shadow</title>
+		<creator>Luminous Mark Narwhal</creator>
+		<relatedgames/>
+	</game>
+	<game id="17356933" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sassy/Aaron/Baloney/17356933.jpg
+		</thumbnail>
+		<title>Spidermonkey Dark Target</title>
+		<creator>Sassy Aaron Baloney</creator>
+		<relatedgames/>
+	</game>
+	<game id="16977448" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Western/Cameron/Jigsaw/16977448.jpg
+		</thumbnail>
+		<title>Assault Humongousaur Laser</title>
+		<creator>Western Cameron Jigsaw</creator>
+		<relatedgames/>
+	</game>
+	<game id="17408671" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Popular/Brayden/Spleen/17408671.jpg
+		</thumbnail>
+		<title>Stone Siege Laser</title>
+		<creator>Popular Brayden Spleen</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924748" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nimble/Bobo/Iguana/10924748.jpg
+		</thumbnail>
+		<title>Battle Escape Light</title>
+		<creator>Nimble Bobo Iguana</creator>
+		<relatedgames/>
+	</game>
+	<game id="10936013" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jolly/Julian/Howler/10936013.jpg
+		</thumbnail>
+		<title>Energy Invasion Champion</title>
+		<creator>Jolly Julian Howler</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

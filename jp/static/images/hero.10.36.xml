@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17419519" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Speedy/Buster/Popcorn/17419519.jpg
+		</thumbnail>
+		<title>Rocket Alien Ambush</title>
+		<creator>Speedy Buster Popcorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="17325012" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cute/Rufus/Droid/17325012.jpg
+		</thumbnail>
+		<title>Danger Chill Doom</title>
+		<creator>Cute Rufus Droid</creator>
+		<relatedgames/>
+	</game>
+	<game id="17569997" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brisk/Aubrey/Camel/17569997.jpg
+		</thumbnail>
+		<title>Hero Rush Alien</title>
+		<creator>Brisk Aubrey Camel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Yellow/Aaron/Mango/10920049.jpg
+		</thumbnail>
+		<title>Invasion Adventure Rustbucket</title>
+		<creator>Yellow Aaron Mango</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952905" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jolly/Bryan/Kook/10952905.jpg
+		</thumbnail>
+		<title>Laser Plasma Challenge</title>
+		<creator>Jolly Bryan Kook</creator>
+		<relatedgames/>
+	</game>
+	<game id="17371687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radical/Alvin/Catapult/17371687.jpg
+		</thumbnail>
+		<title>Ultimate Pulse Lightning</title>
+		<creator>Radical Alvin Catapult</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952855" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Normal/Mario/Cobra/10952855.jpg
+		</thumbnail>
+		<title>Nova Alien Invasion</title>
+		<creator>Normal Mario Cobra</creator>
+		<relatedgames/>
+	</game>
+	<game id="17255965" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Restless/Kayla/Vector/17255965.jpg
+		</thumbnail>
+		<title>Nitro Invasion Universe</title>
+		<creator>Restless Kayla Vector</creator>
+		<relatedgames/>
+	</game>
+	<game id="17585359" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Verbose/Wilt/Bucket/17585359.jpg
+		</thumbnail>
+		<title>Ben Blaster Beast</title>
+		<creator>Verbose Wilt Bucket</creator>
+		<relatedgames/>
+	</game>
+	<game id="17261205" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Reuben/Knight/17261205.jpg
+		</thumbnail>
+		<title>Plumber Storm Energy</title>
+		<creator>Dashing Reuben Knight</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

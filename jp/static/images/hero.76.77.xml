@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10922341" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Weird/Vinny/Spider/10922341.jpg
+		</thumbnail>
+		<title>Atomic Champion Hero</title>
+		<creator>Weird Vinny Spider</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924453" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dramatic/Luke/Charger/10924453.jpg
+		</thumbnail>
+		<title>Invasion Mission Nova</title>
+		<creator>Dramatic Luke Charger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Zeus/Daffodil/10916921.jpg
+		</thumbnail>
+		<title>Crusher Plumber Force</title>
+		<creator>Chilly Zeus Daffodil</creator>
+		<relatedgames/>
+	</game>
+	<game id="17562431" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Acoustic/Angel/Nonsense/17562431.jpg
+		</thumbnail>
+		<title>Challenge Humungousaur Smash</title>
+		<creator>Acoustic Angel Nonsense</creator>
+		<relatedgames/>
+	</game>
+	<game id="17014494" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bold/Isabelle/Pizza/17014494.jpg
+		</thumbnail>
+		<title>Pursuit Quake Warp</title>
+		<creator>Bold Isabelle Pizza</creator>
+		<relatedgames/>
+	</game>
+	<game id="17311257" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Epic/Igor/Minotaur/17311257.jpg
+		</thumbnail>
+		<title>Adventure Sonic Fury</title>
+		<creator>Epic Igor Minotaur</creator>
+		<relatedgames/>
+	</game>
+	<game id="17363601" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Icy/Bridget/Atlas/17363601.jpg
+		</thumbnail>
+		<title>Metal Spidermonkey Spidermonkey</title>
+		<creator>Icy Bridget Atlas</creator>
+		<relatedgames/>
+	</game>
+	<game id="17539932" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nervous/Ben/Burst/17539932.jpg
+		</thumbnail>
+		<title>Terraspin Whirlwind Turbo</title>
+		<creator>Nervous Ben Burst</creator>
+		<relatedgames/>
+	</game>
+	<game id="17000132" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jolly/Aaron/Fuzz/17000132.jpg
+		</thumbnail>
+		<title>Ultra Nano Warrior</title>
+		<creator>Jolly Aaron Fuzz</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926529" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Twisty/Hank/Bamboo/10926529.jpg
+		</thumbnail>
+		<title>Mission Turbo Sonic</title>
+		<creator>Twisty Hank Bamboo</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

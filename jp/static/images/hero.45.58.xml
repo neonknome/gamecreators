@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17404821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strong/Orlando/Buckaroo/17404821.jpg
+		</thumbnail>
+		<title>Space Universe Swampfire</title>
+		<creator>Strong Orlando Buckaroo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10056515" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Atomic/Jacob/Mahogany/10056515.jpg
+		</thumbnail>
+		<title>Hyper Doom Hero</title>
+		<creator>Atomic Jacob Mahogany</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928655" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Handsome/Jeffrey/Aardvark/10928655.jpg
+		</thumbnail>
+		<title>Metal Breaker Ultimate</title>
+		<creator>Handsome Jeffrey Aardvark</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927813" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Chad/Molecule/10927813.jpg
+		</thumbnail>
+		<title>Swampfire Swampfire Swampfire</title>
+		<creator>Honest Chad Molecule</creator>
+		<relatedgames/>
+	</game>
+	<game id="17362833" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pleasant/Alan/Gamer/17362833.jpg
+		</thumbnail>
+		<title>Humungousaur Alien Danger</title>
+		<creator>Pleasant Alan Gamer</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942677" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strange/Dawn/Iguana/10942677.jpg
+		</thumbnail>
+		<title>Rock Steel Fusion</title>
+		<creator>Strange Dawn Iguana</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942444" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Edgar/Quasar/10942444.jpg
+		</thumbnail>
+		<title>Laser Sonic Galaxy</title>
+		<creator>Chilly Edgar Quasar</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935439" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awful/Edward/Acrobat/10935439.jpg
+		</thumbnail>
+		<title>Beast Pulse Vilgax</title>
+		<creator>Awful Edward Acrobat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925728" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Heroic/Will/Barnacle/10925728.jpg
+		</thumbnail>
+		<title>Titan Rampage Swampfire</title>
+		<creator>Heroic Will Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17052669" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Peppy/Claire/Pizza/17052669.jpg
+		</thumbnail>
+		<title>Earth Siege Alien</title>
+		<creator>Peppy Claire Pizza</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

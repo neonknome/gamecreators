@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17105222" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Ulysses/Knight/17105222.jpg
+		</thumbnail>
+		<title>Plasma Energy Vilgax</title>
+		<creator>Colossal Ulysses Knight</creator>
+		<relatedgames/>
+	</game>
+	<game id="17332957" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magnetic/Tiffany/Tugboat/17332957.jpg
+		</thumbnail>
+		<title>Breaker Siege Mega</title>
+		<creator>Magnetic Tiffany Tugboat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942165" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pretty/Vinny/Zebra/10942165.jpg
+		</thumbnail>
+		<title>Earth Nano Storm</title>
+		<creator>Pretty Vinny Zebra</creator>
+		<relatedgames/>
+	</game>
+	<game id="17345037" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Arthur/Cyborg/17345037.jpg
+		</thumbnail>
+		<title>Brainstorm Lightning Charge</title>
+		<creator>Colossal Arthur Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928655" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Handsome/Jeffrey/Aardvark/10928655.jpg
+		</thumbnail>
+		<title>Metal Breaker Ultimate</title>
+		<creator>Handsome Jeffrey Aardvark</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952619" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Megan/Octopus/10952619.jpg
+		</thumbnail>
+		<title>Magno Smash Danger</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17552149" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Splendid/Connor/Shogun/17552149.jpg
+		</thumbnail>
+		<title>Robot Ambush Rock</title>
+		<creator>Splendid Connor Shogun</creator>
+		<relatedgames/>
+	</game>
+	<game id="17246497" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cackling/Cory/Avator/17246497.jpg
+		</thumbnail>
+		<title>Ultra Swampfire Power</title>
+		<creator>Cackling Cory Avator</creator>
+		<relatedgames/>
+	</game>
+	<game id="17356516" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Feisty/Carter/Scout/17356516.jpg
+		</thumbnail>
+		<title>Patrol Rock Burst</title>
+		<creator>Feisty Carter Scout</creator>
+		<relatedgames/>
+	</game>
+	<game id="17177767" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Athletic/Oscar/Mars/17177767.jpg
+		</thumbnail>
+		<title>Spark Spidermonkey Assault</title>
+		<creator>Athletic Oscar Mars</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

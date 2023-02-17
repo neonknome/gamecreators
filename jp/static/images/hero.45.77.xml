@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10951370" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Nick/Aurora/10951370.jpg
+		</thumbnail>
+		<title>Energy Breaker Warrior</title>
+		<creator>Red Nick Aurora</creator>
+		<relatedgames/>
+	</game>
+	<game id="17399252" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ancient/Marco/Bingo/17399252.jpg
+		</thumbnail>
+		<title>Turbo Target Defense</title>
+		<creator>Ancient Marco Bingo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916703" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Rugged/Bianca/Fiddle/10916703.jpg
+		</thumbnail>
+		<title>Razor Alien Shock</title>
+		<creator>Rugged Bianca Fiddle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924763" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mirthful/Dorothy/Twist/10924763.jpg
+		</thumbnail>
+		<title>Fire Force Alien</title>
+		<creator>Mirthful Dorothy Twist</creator>
+		<relatedgames/>
+	</game>
+	<game id="17340152" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Icy/Ernest/Behemoth/17340152.jpg
+		</thumbnail>
+		<title>Fury Stone Shadow</title>
+		<creator>Icy Ernest Behemoth</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931089" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Puzzling/Gigi/Thunder/10931089.jpg
+		</thumbnail>
+		<title>Rustbucket Quake Magno</title>
+		<creator>Puzzling Gigi Thunder</creator>
+		<relatedgames/>
+	</game>
+	<game id="17056202" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tireless/Ruby/Phoenix/17056202.jpg
+		</thumbnail>
+		<title>Clash Nitro Drone</title>
+		<creator>Tireless Ruby Phoenix</creator>
+		<relatedgames/>
+	</game>
+	<game id="16887841" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nervous/Nathan/Bagpipe/16887841.jpg
+		</thumbnail>
+		<title>Laser Light Storm</title>
+		<creator>Nervous Nathan Bagpipe</creator>
+		<relatedgames/>
+	</game>
+	<game id="17369469" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Academic/Lauren/Spider/17369469.jpg
+		</thumbnail>
+		<title>Gear Giga Big</title>
+		<creator>Academic Lauren Spider</creator>
+		<relatedgames/>
+	</game>
+	<game id="17408837" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cranky/Conrad/17408837.jpg
+		</thumbnail>
+		<title>Racer Siege Rock</title>
+		<creator>Cranky Conrad</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

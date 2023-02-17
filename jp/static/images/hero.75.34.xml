@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17260152" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radiant/Mckenzie/Kungfu/17260152.jpg
+		</thumbnail>
+		<title>Alien Escape Assault</title>
+		<creator>Radiant Mckenzie Kungfu</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919519" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Bessie/Atom/10919519.jpg
+		</thumbnail>
+		<title>Streak Turbo Galaxy</title>
+		<creator>Alien Bessie Atom</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926269" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crunchy/Vicky/Behemoth/10926269.jpg
+		</thumbnail>
+		<title>Swampfire Attack Ben</title>
+		<creator>Crunchy Vicky Behemoth</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930948" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Glorious/Drew/Aurora/10930948.jpg
+		</thumbnail>
+		<title>Light Energy Doom</title>
+		<creator>Glorious Drew Aurora</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919201" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grimy/Autumn/Gumbo/10919201.jpg
+		</thumbnail>
+		<title>Fire Steel Turbo</title>
+		<creator>Grimy Autumn Gumbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10929381" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Southern/Justin/Steam/10929381.jpg
+		</thumbnail>
+		<title>Swampfire Attack Challenge</title>
+		<creator>Southern Justin Steam</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Travis/Cipher/10918821.jpg
+		</thumbnail>
+		<title>Metal Force Fusion</title>
+		<creator>Red Travis Cipher</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humble/Jackson/Blade/10930549.jpg
+		</thumbnail>
+		<title>Danger Fire Hero</title>
+		<creator>Humble Jackson Blade</creator>
+		<relatedgames/>
+	</game>
+	<game id="17244101" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Prince/Dan/Galaxy/17244101.jpg
+		</thumbnail>
+		<title>Ultimate Quake Mission</title>
+		<creator>Prince Dan Galaxy</creator>
+		<relatedgames/>
+	</game>
+	<game id="17013199" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Super/Shnitzel/Aviator/17013199.jpg
+		</thumbnail>
+		<title>Fury Techno Alien</title>
+		<creator>Super Shnitzel Aviator</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

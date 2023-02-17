@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17163650" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quantum/Tanner/Skeleton/17163650.jpg
+		</thumbnail>
+		<title>Galaxy Alien Spark</title>
+		<creator>Quantum Tanner Skeleton</creator>
+		<relatedgames/>
+	</game>
+	<game id="17552197" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crazy/Edd/Mahogany/17552197.jpg
+		</thumbnail>
+		<title>Siege Metal Titan</title>
+		<creator>Crazy Edd Mahogany</creator>
+		<relatedgames/>
+	</game>
+	<game id="17574176" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Evil/Brandon/Rhombus/17574176.jpg
+		</thumbnail>
+		<title>Rocket Search Siege</title>
+		<creator>Evil Brandon Rhombus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17401228" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dandy/Ernie/Goblin/17401228.jpg
+		</thumbnail>
+		<title>Breaker Atomic Turbo</title>
+		<creator>Dandy Ernie Goblin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10865542" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gorgeous/Elroy/Iceberg/10865542.jpg
+		</thumbnail>
+		<title>Spark Streak Giga</title>
+		<creator>Gorgeous Elroy Iceberg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sly/Aaron/Goulash/10930921.jpg
+		</thumbnail>
+		<title>Nitro Razor Rampage</title>
+		<creator>Sly Aaron Goulash</creator>
+		<relatedgames/>
+	</game>
+	<game id="17578219" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Rancid/Don/Nova/17578219.jpg
+		</thumbnail>
+		<title>Clash Chill Spidermonkey</title>
+		<creator>Rancid Don Nova</creator>
+		<relatedgames/>
+	</game>
+	<game id="17558739" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bold/Jimmy/Biscuit/17558739.jpg
+		</thumbnail>
+		<title>Omniverse Big Champion</title>
+		<creator>Bold Jimmy Biscuit</creator>
+		<relatedgames/>
+	</game>
+	<game id="17386086" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Speedy/Brianna/Beast/17386086.jpg
+		</thumbnail>
+		<title>Adventure Light Energy</title>
+		<creator>Speedy Brianna Beast</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953046" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Henry/Quasar/10953046.jpg
+		</thumbnail>
+		<title>Universe Adventure Ultra</title>
+		<creator>Alien Henry Quasar</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

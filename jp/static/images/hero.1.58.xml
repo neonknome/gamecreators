@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17223727" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quick/Chuck/Cobweb/17223727.jpg
+		</thumbnail>
+		<title>Power Adventure Champion</title>
+		<creator>Quick Chuck Cobweb</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923763" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tricky/Fred/Biscuit/10923763.jpg
+		</thumbnail>
+		<title>Rampage Ultra Nano</title>
+		<creator>Tricky Fred Biscuit</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924392" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Adorable/Eddie/Catapult/10924392.jpg
+		</thumbnail>
+		<title>Fury Fusion Crusher</title>
+		<creator>Adorable Eddie Catapult</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924693" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crispy/Cory/Dingbat/10924693.jpg
+		</thumbnail>
+		<title>Smash Breaker Fire</title>
+		<creator>Crispy Cory Dingbat</creator>
+		<relatedgames/>
+	</game>
+	<game id="17584898" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Intrepid/Finn/Clone/17584898.jpg
+		</thumbnail>
+		<title>Cannonbolt Storm Assault</title>
+		<creator>Intrepid Finn Clone</creator>
+		<relatedgames/>
+	</game>
+	<game id="17323452" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Lawrence/Eggplant/17323452.jpg
+		</thumbnail>
+		<title>Ultimate Cannonbolt Cannonbolt</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames/>
+	</game>
+	<game id="17416299" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Creative/Mario/Noodle/17416299.jpg
+		</thumbnail>
+		<title>Alien Droid Escape</title>
+		<creator>Creative Mario Noodle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17584078" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Unusual/Krystal/Jupiter/17584078.jpg
+		</thumbnail>
+		<title>Rustbucket Pursuit Rampage</title>
+		<creator>Unusual Krystal Jupiter</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930555" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Drew/Jalapeno/10930555.jpg
+		</thumbnail>
+		<title>Escape Alien Ambush</title>
+		<creator>Daring Drew Jalapeno</creator>
+		<relatedgames/>
+	</game>
+	<game id="17420645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Smart/Marco/Aardvark/17420645.jpg
+		</thumbnail>
+		<title>Warrior Rumble Fury</title>
+		<creator>Smart Marco Aardvark</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17085481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Vibrant/Gabriel/Mahogany/17085481.jpg
+		</thumbnail>
+		<title>Nitro Mega Smash</title>
+		<creator>Vibrant Gabriel Mahogany</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952671" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brawny/Scooter/Monolith/10952671.jpg
+		</thumbnail>
+		<title>Target Metal Challenge</title>
+		<creator>Brawny Scooter Monolith</creator>
+		<relatedgames/>
+	</game>
+	<game id="17302719" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/Jose/Walrus/17302719.jpg
+		</thumbnail>
+		<title>Rocket Siege Nitro</title>
+		<creator>Fiery Jose Walrus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Lively/Orville/Tornado/10923878.jpg
+		</thumbnail>
+		<title>Invasion Adventure Energy</title>
+		<creator>Lively Orville Tornado</creator>
+		<relatedgames/>
+	</game>
+	<game id="10944254" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reliable/Bradley/Spumoni/10944254.jpg
+		</thumbnail>
+		<title>Alien Swampfire Assault</title>
+		<creator>Reliable Bradley Spumoni</creator>
+		<relatedgames/>
+	</game>
+	<game id="17333120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Venomous/Cheyenne/Venom/17333120.jpg
+		</thumbnail>
+		<title>Escape Burst Ben</title>
+		<creator>Venomous Cheyenne Venom</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924230" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Orange/Caleb/Thunder/10924230.jpg
+		</thumbnail>
+		<title>Magno Pulse Rampage</title>
+		<creator>Orange Caleb Thunder</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927469" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Calvin/Maestro/10927469.jpg
+		</thumbnail>
+		<title>Rush Ultra Racer</title>
+		<creator>Dashing Calvin Maestro</creator>
+		<relatedgames/>
+	</game>
+	<game id="17323622" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mumbling/Chuck/Techno/17323622.jpg
+		</thumbnail>
+		<title>Warp Storm Ben</title>
+		<creator>Mumbling Chuck Techno</creator>
+		<relatedgames/>
+	</game>
+	<game id="17418042" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Silly/Jared/Sardine/17418042.jpg
+		</thumbnail>
+		<title>Cosmic Atomic Assault</title>
+		<creator>Silly Jared Sardine</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

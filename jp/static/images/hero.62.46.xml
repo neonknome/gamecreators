@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10920168" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ticklish/Spike/Dynamite/10920168.jpg
+		</thumbnail>
+		<title>Cosmic Fire Slam</title>
+		<creator>Ticklish Spike Dynamite</creator>
+		<relatedgames/>
+	</game>
+	<game id="17333152" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Academic/Edward/Cowboy/17333152.jpg
+		</thumbnail>
+		<title>Ultimate Cannonbolt Rush</title>
+		<creator>Academic Edward Cowboy</creator>
+		<relatedgames/>
+	</game>
+	<game id="17574215" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crafty/Vincent/Nacho/17574215.jpg
+		</thumbnail>
+		<title>Galaxy Chill Shock</title>
+		<creator>Crafty Vincent Nacho</creator>
+		<relatedgames/>
+	</game>
+	<game id="16999418" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hyper/Rex/Minotaur/16999418.jpg
+		</thumbnail>
+		<title>Nano Titan Force</title>
+		<creator>Hyper Rex Minotaur</creator>
+		<relatedgames/>
+	</game>
+	<game id="10058992" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Purple/Peter/Amethyst/10058992.jpg
+		</thumbnail>
+		<title>Hyper Battle Shock</title>
+		<creator>Purple Peter Amethyst</creator>
+		<relatedgames/>
+	</game>
+	<game id="16887190" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tall/Drew/Dragoon/16887190.jpg
+		</thumbnail>
+		<title>Doom Danger Light</title>
+		<creator>Tall Drew Dragoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17285330" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Negative/Andy/Atlas/17285330.jpg
+		</thumbnail>
+		<title>Fire Burst Attack</title>
+		<creator>Negative Andy Atlas</creator>
+		<relatedgames/>
+	</game>
+	<game id="10940046" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Northern/Spencer/Sizzle/10940046.jpg
+		</thumbnail>
+		<title>Adventure Nitro Battle</title>
+		<creator>Northern Spencer Sizzle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17417687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stormy/Mordecai/Vulture/17417687.jpg
+		</thumbnail>
+		<title>Invasion Ultra Lightning</title>
+		<creator>Stormy Mordecai Vulture</creator>
+		<relatedgames/>
+	</game>
+	<game id="10043837" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Artistic/Stacey/Atom/10043837.jpg
+		</thumbnail>
+		<title>Universe Fusion Battle</title>
+		<creator>Artistic Stacey Atom</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

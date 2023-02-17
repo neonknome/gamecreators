@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16887190" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tall/Drew/Dragoon/16887190.jpg
+		</thumbnail>
+		<title>Doom Danger Light</title>
+		<creator>Tall Drew Dragoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930650" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Absurd/Owen/Dragon/10930650.jpg
+		</thumbnail>
+		<title>Chase Force Power</title>
+		<creator>Absurd Owen Dragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10043788" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Crafty/Brittany/Quack/10043788.jpg
+		</thumbnail>
+		<title>Sonic Hero Patrol</title>
+		<creator>Crafty Brittany Quack</creator>
+		<relatedgames/>
+	</game>
+	<game id="16917484" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Galactic/Scarlett/Blast/16917484.jpg
+		</thumbnail>
+		<title>Alien Hyper Turbo</title>
+		<creator>Galactic Scarlett Blast</creator>
+		<relatedgames/>
+	</game>
+	<game id="17239029" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bumbling/Don/Dragoon/17239029.jpg
+		</thumbnail>
+		<title>Adventure Shadow Pursuit</title>
+		<creator>Bumbling Don Dragoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933522" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fearless/Erik/Mummy/10933522.jpg
+		</thumbnail>
+		<title>Swampfire Ambush Rampage</title>
+		<creator>Fearless Erik Mummy</creator>
+		<relatedgames/>
+	</game>
+	<game id="10043837" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Artistic/Stacey/Atom/10043837.jpg
+		</thumbnail>
+		<title>Universe Fusion Battle</title>
+		<creator>Artistic Stacey Atom</creator>
+		<relatedgames/>
+	</game>
+	<game id="10704668" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grouchy/Chase/Ketchup/10704668.jpg
+		</thumbnail>
+		<title>Nano Mega Slam</title>
+		<creator>Grouchy Chase Ketchup</creator>
+		<relatedgames/>
+	</game>
+	<game id="10945842" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Normal/Vinny/Rumble/10945842.jpg
+		</thumbnail>
+		<title>Mega Shock Shadow</title>
+		<creator>Normal Vinny Rumble</creator>
+		<relatedgames/>
+	</game>
+	<game id="17278972" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Virtual/Victor/Rebel/17278972.jpg
+		</thumbnail>
+		<title>Giga Hyper Rustbucket</title>
+		<creator>Virtual Victor Rebel</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

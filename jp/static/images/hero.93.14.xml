@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17540418" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Peppy/Phillip/Scythe/17540418.jpg
+		</thumbnail>
+		<title>Target Rush Fusion</title>
+		<creator>Peppy Phillip Scythe</creator>
+		<relatedgames/>
+	</game>
+	<game id="16850246" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nautical/Mark/Aardvark/16850246.jpg
+		</thumbnail>
+		<title>Fury Nano Ultimate</title>
+		<creator>Nautical Mark Aardvark</creator>
+		<relatedgames/>
+	</game>
+	<game id="16866155" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Skinny/Ryan/Skeleton/16866155.jpg
+		</thumbnail>
+		<title>Lightning Atomic Razor</title>
+		<creator>Skinny Ryan Skeleton</creator>
+		<relatedgames/>
+	</game>
+	<game id="10945010" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Blue/Fred/Howler/10945010.jpg
+		</thumbnail>
+		<title>Champion Rock Plasma</title>
+		<creator>Blue Fred Howler</creator>
+		<relatedgames/>
+	</game>
+	<game id="10929381" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Southern/Justin/Steam/10929381.jpg
+		</thumbnail>
+		<title>Swampfire Attack Challenge</title>
+		<creator>Southern Justin Steam</creator>
+		<relatedgames/>
+	</game>
+	<game id="17403914" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Agile/Ben/Jigsaw/17403914.jpg
+		</thumbnail>
+		<title>Atomic Search Space</title>
+		<creator>Agile Ben Jigsaw</creator>
+		<relatedgames/>
+	</game>
+	<game id="10937230" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brave/Shawn/Fizz/10937230.jpg
+		</thumbnail>
+		<title>Racer Fire Assault</title>
+		<creator>Brave Shawn Fizz</creator>
+		<relatedgames/>
+	</game>
+	<game id="17378159" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Extreme/Izzy/Martian/17378159.jpg
+		</thumbnail>
+		<title>Terraspin Adventure Fury</title>
+		<creator>Extreme Izzy Martian</creator>
+		<relatedgames/>
+	</game>
+	<game id="17402611" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ironic/Gulliver/Pirate/17402611.jpg
+		</thumbnail>
+		<title>Hyper Earth Fusion</title>
+		<creator>Ironic Gulliver Pirate</creator>
+		<relatedgames/>
+	</game>
+	<game id="10780341" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Green/Holly/Crater/10780341.jpg
+		</thumbnail>
+		<title>Shock Defense Magno</title>
+		<creator>Green Holly Crater</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

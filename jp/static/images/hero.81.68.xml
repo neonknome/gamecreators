@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16995598" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Drake/Sorcerer/16995598.jpg
+		</thumbnail>
+		<title>Charge Alien Clash</title>
+		<creator>Flying Drake Sorcerer</creator>
+		<relatedgames/>
+	</game>
+	<game id="17373576" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Robotic/Owen/Cobra/17373576.jpg
+		</thumbnail>
+		<title>Animo Rampage Energy</title>
+		<creator>Robotic Owen Cobra</creator>
+		<relatedgames/>
+	</game>
+	<game id="17311587" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proper/Kate/Witch/17311587.jpg
+		</thumbnail>
+		<title>Razor Attack Rock</title>
+		<creator>Proper Kate Witch</creator>
+		<relatedgames/>
+	</game>
+	<game id="17332691" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Musical/Noah/Nanobot/17332691.jpg
+		</thumbnail>
+		<title>Assault Rumble Power</title>
+		<creator>Musical Noah Nanobot</creator>
+		<relatedgames/>
+	</game>
+	<game id="17379498" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Abstract/Natalia/Mackerel/17379498.jpg
+		</thumbnail>
+		<title>Quake Spike Storm</title>
+		<creator>Abstract Natalia Mackerel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935773" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tricky/Dixie/Creature/10935773.jpg
+		</thumbnail>
+		<title>Swampfire Target Challenge</title>
+		<creator>Tricky Dixie Creature</creator>
+		<relatedgames/>
+	</game>
+	<game id="10066089" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Adorable/Alexis/Cumulus/10066089.jpg
+		</thumbnail>
+		<title>Swampfire Swampfire Swampfire</title>
+		<creator>Adorable Alexis Cumulus</creator>
+		<relatedgames/>
+	</game>
+	<game id="16997259" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Creepy/Ashton/Vulture/16997259.jpg
+		</thumbnail>
+		<title>Iron Big Robot</title>
+		<creator>Creepy Ashton Vulture</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926798" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Infinite/Leon/Amethyst/10926798.jpg
+		</thumbnail>
+		<title>Rumble Hero Power</title>
+		<creator>Infinite Leon Amethyst</creator>
+		<relatedgames/>
+	</game>
+	<game id="17259049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Lawrence/Eggplant/17259049.jpg
+		</thumbnail>
+		<title>Big Earth Nova</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

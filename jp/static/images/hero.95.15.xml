@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10933814" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Twisty/Douglas/Turbo/10933814.jpg
+		</thumbnail>
+		<title>Mega Mission Shadow</title>
+		<creator>Twisty Douglas Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17560228" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crunchy/Ava/Blizzard/17560228.jpg
+		</thumbnail>
+		<title>Rocket Animo Droid</title>
+		<creator>Crunchy Ava Blizzard</creator>
+		<relatedgames/>
+	</game>
+	<game id="17400821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Venomous/Buster/Tarragon/17400821.jpg
+		</thumbnail>
+		<title>Giga Techno Big</title>
+		<creator>Venomous Buster Tarragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916890" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Billy/Glacier/10916890.jpg
+		</thumbnail>
+		<title>Quake Robot Pursuit</title>
+		<creator>Dashing Billy Glacier</creator>
+		<relatedgames/>
+	</game>
+	<game id="16978061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Solid/Alexa/Beast/16978061.jpg
+		</thumbnail>
+		<title>Steel Warp Galaxy</title>
+		<creator>Solid Alexa Beast</creator>
+		<relatedgames/>
+	</game>
+	<game id="10649584" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Rudolph/Spider/10649584.jpg
+		</thumbnail>
+		<title>Pursuit Alien Attack</title>
+		<creator>Red Rudolph Spider</creator>
+		<relatedgames/>
+	</game>
+	<game id="17107636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ancient/Sean/Pizza/17107636.jpg
+		</thumbnail>
+		<title>Metal Doom Escape</title>
+		<creator>Ancient Sean Pizza</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918078" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Will/Safari/10918078.jpg
+		</thumbnail>
+		<title>Solar Dark Fire</title>
+		<creator>Daring Will Safari</creator>
+		<relatedgames/>
+	</game>
+	<game id="10706482" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Green/Cody/Fathom/10706482.jpg
+		</thumbnail>
+		<title>Atomic Swampfire Mission</title>
+		<creator>Green Cody Fathom</creator>
+		<relatedgames/>
+	</game>
+	<game id="16965399" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Feral/Andrew/Mustang/16965399.jpg
+		</thumbnail>
+		<title>Humongousaur Assault Blaster</title>
+		<creator>Feral Andrew Mustang</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17585253" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elite/Nicolas/Crater/17585253.jpg
+		</thumbnail>
+		<title>Universe Robot Storm</title>
+		<creator>Elite Nicolas Crater</creator>
+		<relatedgames/>
+	</game>
+	<game id="17148915" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Creative/Fred/Robot/17148915.jpg
+		</thumbnail>
+		<title>Alien Ambush Challenge</title>
+		<creator>Creative Fred Robot</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952801" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ghostly/Laura/Bramble/10952801.jpg
+		</thumbnail>
+		<title>Charge Fusion Drone</title>
+		<creator>Ghostly Laura Bramble</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926374" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Silly/Joshua/Thunder/10926374.jpg
+		</thumbnail>
+		<title>Razor Quake Adventure</title>
+		<creator>Silly Joshua Thunder</creator>
+		<relatedgames/>
+	</game>
+	<game id="17558743" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bashful/Christy/Clone/17558743.jpg
+		</thumbnail>
+		<title>Adventure Alien Adventure</title>
+		<creator>Bashful Christy Clone</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916801" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sly/Michelle/Chipmunk/10916801.jpg
+		</thumbnail>
+		<title>Warp Pulse Blaster</title>
+		<creator>Sly Michelle Chipmunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935113" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ghastly/Oliver/Orchid/10935113.jpg
+		</thumbnail>
+		<title>Streak Cosmic Beast</title>
+		<creator>Ghastly Oliver Orchid</creator>
+		<relatedgames/>
+	</game>
+	<game id="17327437" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Evil/Apollo/Barnacle/17327437.jpg
+		</thumbnail>
+		<title>Warp Rocket Burst</title>
+		<creator>Evil Apollo Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="16935535" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gorgeous/Earl/Shuriken/16935535.jpg
+		</thumbnail>
+		<title>Vilgax Beast Rescue</title>
+		<creator>Gorgeous Earl Shuriken</creator>
+		<relatedgames/>
+	</game>
+	<game id="17377503" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nimble/Billy/Flywheel/17377503.jpg
+		</thumbnail>
+		<title>Defense Rampage Terraspin</title>
+		<creator>Nimble Billy Flywheel</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17408812" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Electric/Chase/Reptile/17408812.jpg
+		</thumbnail>
+		<title>Invasion Humungousaur Target</title>
+		<creator>Electric Chase Reptile</creator>
+		<relatedgames/>
+	</game>
+	<game id="17395975" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cranky/Gregory/Haystack/17395975.jpg
+		</thumbnail>
+		<title>Solar Ambush Whirlwind</title>
+		<creator>Cranky Gregory Haystack</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951732" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Generous/Matthew/Turtle/10951732.jpg
+		</thumbnail>
+		<title>Ben Ben Search</title>
+		<creator>Generous Matthew Turtle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918741" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shrewd/Jonas/Yodel/10918741.jpg
+		</thumbnail>
+		<title>Mega Atomic Nova</title>
+		<creator>Shrewd Jonas Yodel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920342" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Putrid/Tabitha/Cactus/10920342.jpg
+		</thumbnail>
+		<title>Nitro Rush Space</title>
+		<creator>Putrid Tabitha Cactus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17382394" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/General/Ian/Fang/17382394.jpg
+		</thumbnail>
+		<title>Champion Smash Ben</title>
+		<creator>General Ian Fang</creator>
+		<relatedgames/>
+	</game>
+	<game id="17323936" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Enormous/Lucius/Anvil/17323936.jpg
+		</thumbnail>
+		<title>Adventure Chase Warp</title>
+		<creator>Enormous Lucius Anvil</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952590" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gloomy/Harry/Bolt/10952590.jpg
+		</thumbnail>
+		<title>Nitro Giga Quake</title>
+		<creator>Gloomy Harry Bolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="10843681" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Skinny/Andrew/Celsius/10843681.jpg
+		</thumbnail>
+		<title>Universe Mission Vilgax</title>
+		<creator>Skinny Andrew Celsius</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922956" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Blue/Corey/Crash/10922956.jpg
+		</thumbnail>
+		<title>Burst Swampfire Patrol</title>
+		<creator>Blue Corey Crash</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

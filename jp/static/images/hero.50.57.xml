@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17232918" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Amusing/Corey/Yoyo/17232918.jpg
+		</thumbnail>
+		<title>Lightning Brainstorm Laser</title>
+		<creator>Amusing Corey Yoyo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926749" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Jack/Photon/10926749.jpg
+		</thumbnail>
+		<title>Rustbucket Hero Racer</title>
+		<creator>Daring Jack Photon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953468" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grand/Samuel/Penguin/10953468.jpg
+		</thumbnail>
+		<title>Swampfire Mission Challenge</title>
+		<creator>Grand Samuel Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="17301303" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spicy/Holly/Ion/17301303.jpg
+		</thumbnail>
+		<title>Thunder Drone Charge</title>
+		<creator>Spicy Holly Ion</creator>
+		<relatedgames/>
+	</game>
+	<game id="17228920" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Popular/Quentin/Goofball/17228920.jpg
+		</thumbnail>
+		<title>Ultimate Target Doom</title>
+		<creator>Popular Quentin Goofball</creator>
+		<relatedgames/>
+	</game>
+	<game id="17385004" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Purple/Dominic/Gorilla/17385004.jpg
+		</thumbnail>
+		<title>Adventure Adventure Stone</title>
+		<creator>Purple Dominic Gorilla</creator>
+		<relatedgames/>
+	</game>
+	<game id="17331573" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Talented/Destiny/Warrior/17331573.jpg
+		</thumbnail>
+		<title>Alien Attack Blaster</title>
+		<creator>Talented Destiny Warrior</creator>
+		<relatedgames/>
+	</game>
+	<game id="10065982" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Eastern/Brandon/Spider/10065982.jpg
+		</thumbnail>
+		<title>Danger Champion Charge</title>
+		<creator>Eastern Brandon Spider</creator>
+		<relatedgames/>
+	</game>
+	<game id="10034847" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cosmic/Steven/Kumquat/10034847.jpg
+		</thumbnail>
+		<title>Hero Adventure Shadow</title>
+		<creator>Cosmic Steven Kumquat</creator>
+		<relatedgames/>
+	</game>
+	<game id="17382115" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Galactic/Ben/Panda/17382115.jpg
+		</thumbnail>
+		<title>Giga Alien Rock</title>
+		<creator>Galactic Ben Panda</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

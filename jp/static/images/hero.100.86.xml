@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10922333" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Drew/Hippo/10922333.jpg
+		</thumbnail>
+		<title>Dark Star Ultra</title>
+		<creator>Zany Drew Hippo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10934445" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Clever/Avery/Coconut/10934445.jpg
+		</thumbnail>
+		<title>Animo Power Robot</title>
+		<creator>Clever Avery Coconut</creator>
+		<relatedgames/>
+	</game>
+	<game id="17274858" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Alan/Soldier/17274858.jpg
+		</thumbnail>
+		<title>Waterhazard Battle Fury</title>
+		<creator>Barbaric Alan Soldier</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926761" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Scott/Crash/10926761.jpg
+		</thumbnail>
+		<title>Alien Ultra Assault</title>
+		<creator>Honest Scott Crash</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952796" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Plucky/Larry/Crowbar/10952796.jpg
+		</thumbnail>
+		<title>Search Rocket Pursuit</title>
+		<creator>Plucky Larry Crowbar</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928201" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Massive/Joseph/Burst/10928201.jpg
+		</thumbnail>
+		<title>Galaxy Shadow Crusher</title>
+		<creator>Massive Joseph Burst</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919311" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proper/Wilbur/Nacho/10919311.jpg
+		</thumbnail>
+		<title>Plumber Plumber Plumber</title>
+		<creator>Proper Wilbur Nacho</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931749" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Swift/Raymond/Tempest/10931749.jpg
+		</thumbnail>
+		<title>Swampfire Ultra Cosmic</title>
+		<creator>Swift Raymond Tempest</creator>
+		<relatedgames/>
+	</game>
+	<game id="10043261" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Absurd/Alex/Goofball/10043261.jpg
+		</thumbnail>
+		<title>Spark Spike Challenge</title>
+		<creator>Absurd Alex Goofball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10015692" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cosmic/Amber/Iceberg/10015692.jpg
+		</thumbnail>
+		<title>Chase Nitro Crusher</title>
+		<creator>Cosmic Amber Iceberg</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

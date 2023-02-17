@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16976258" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Emperor/Ashley/Gullet/16976258.jpg
+		</thumbnail>
+		<title>Drone Adventure Patrol</title>
+		<creator>Emperor Ashley Gullet</creator>
+		<relatedgames/>
+	</game>
+	<game id="10703285" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Kyle/Penguin/10703285.jpg
+		</thumbnail>
+		<title>Cosmic Swampfire Rescue</title>
+		<creator>Humorous Kyle Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953211" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artistic/Alan/Stampede/10953211.jpg
+		</thumbnail>
+		<title>Droid Crusher Invasion</title>
+		<creator>Artistic Alan Stampede</creator>
+		<relatedgames/>
+	</game>
+	<game id="17386150" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Ellen/Zigzag/17386150.jpg
+		</thumbnail>
+		<title>Ultimate Stone Turbo</title>
+		<creator>Dazzling Ellen Zigzag</creator>
+		<relatedgames/>
+	</game>
+	<game id="10043501" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Wily/Jackson/Umbrella/10043501.jpg
+		</thumbnail>
+		<title>Alien Blaster Adventure</title>
+		<creator>Wily Jackson Umbrella</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930994" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fizzy/Casey/Flipper/10930994.jpg
+		</thumbnail>
+		<title>Fire Fire Warrior</title>
+		<creator>Fizzy Casey Flipper</creator>
+		<relatedgames/>
+	</game>
+	<game id="17323636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Drowzy/Yancy/Porridge/17323636.jpg
+		</thumbnail>
+		<title>Rocket Hex Drone</title>
+		<creator>Drowzy Yancy Porridge</creator>
+		<relatedgames/>
+	</game>
+	<game id="10934766" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Savage/Jacob/Pulse/10934766.jpg
+		</thumbnail>
+		<title>Nova Assault Earth</title>
+		<creator>Savage Jacob Pulse</creator>
+		<relatedgames/>
+	</game>
+	<game id="10945458" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Atomic/Zelda/Sardine/10945458.jpg
+		</thumbnail>
+		<title>Sonic Alien Universe</title>
+		<creator>Atomic Zelda Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919820" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dreadful/Luke/Buffalo/10919820.jpg
+		</thumbnail>
+		<title>Alien Ambush Assault</title>
+		<creator>Dreadful Luke Buffalo</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

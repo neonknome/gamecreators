@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10921283" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Charming/Chase/Behemoth/10921283.jpg
+		</thumbnail>
+		<title>Rumble Adventure Iron</title>
+		<creator>Charming Chase Behemoth</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924684" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fizzy/Jackie/Iceberg/10924684.jpg
+		</thumbnail>
+		<title>Mission Turbo Sonic</title>
+		<creator>Fizzy Jackie Iceberg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926706" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Orange/Luis/Fireball/10926706.jpg
+		</thumbnail>
+		<title>Adventure Metal Siege</title>
+		<creator>Orange Luis Fireball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921874" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magnetic/Ernie/Rumble/10921874.jpg
+		</thumbnail>
+		<title>Rampage Champion Swampfire</title>
+		<creator>Magnetic Ernie Rumble</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930277" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wild/Shirley/Rutabaga/10930277.jpg
+		</thumbnail>
+		<title>Vilgax Rock Burst</title>
+		<creator>Wild Shirley Rutabaga</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933066" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Powerful/Juan/Eggplant/10933066.jpg
+		</thumbnail>
+		<title>Slam Rush Laser</title>
+		<creator>Powerful Juan Eggplant</creator>
+		<relatedgames/>
+	</game>
+	<game id="17326873" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grand/Tex/Gator/17326873.jpg
+		</thumbnail>
+		<title>Droid Quake Light</title>
+		<creator>Grand Tex Gator</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noble/Erin/Wiffle/10920878.jpg
+		</thumbnail>
+		<title>Fury Droid Pursuit</title>
+		<creator>Noble Erin Wiffle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17416279" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Smelly/Robin/Hippo/17416279.jpg
+		</thumbnail>
+		<title>Hex Fury Mega</title>
+		<creator>Smelly Robin Hippo</creator>
+		<relatedgames/>
+	</game>
+	<game id="16968586" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Adept/Briana/Apple/16968586.jpg
+		</thumbnail>
+		<title>Mega Adventure Spike</title>
+		<creator>Adept Briana Apple</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

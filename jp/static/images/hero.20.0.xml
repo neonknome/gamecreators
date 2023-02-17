@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10709680" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zippy/Ron/Sardine/10709680.jpg
+		</thumbnail>
+		<title>Turbo Breaker Racer</title>
+		<creator>Zippy Ron Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922841" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Vincent/Blade/10922841.jpg
+		</thumbnail>
+		<title>Alien Swampfire Nitro</title>
+		<creator>Colossal Vincent Blade</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952685" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Tom/Fritter/10952685.jpg
+		</thumbnail>
+		<title>Alien Alien Fire</title>
+		<creator>Red Tom Fritter</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952455" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brave/Raymond/Atom/10952455.jpg
+		</thumbnail>
+		<title>Swampfire Smash Vilgax</title>
+		<creator>Brave Raymond Atom</creator>
+		<relatedgames/>
+	</game>
+	<game id="10052360" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Spooky/Dylan/Moxie/10052360.jpg
+		</thumbnail>
+		<title>Sonic Burst Razor</title>
+		<creator>Spooky Dylan Moxie</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952326" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Aquatic/Egbert/Thud/10952326.jpg
+		</thumbnail>
+		<title>Adventure Clash Metal</title>
+		<creator>Aquatic Egbert Thud</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951422" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Green/Grace/Manatee/10951422.jpg
+		</thumbnail>
+		<title>Adventure Alien Droid</title>
+		<creator>Green Grace Manatee</creator>
+		<relatedgames/>
+	</game>
+	<game id="10649988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Handsome/Michael/Ladybug/10649988.jpg
+		</thumbnail>
+		<title>Rescue Titan Space</title>
+		<creator>Handsome Michael Ladybug</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931541" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Splendid/Donald/Whizbang/10931541.jpg
+		</thumbnail>
+		<title>Rampage Assault Thunder</title>
+		<creator>Splendid Donald Whizbang</creator>
+		<relatedgames/>
+	</game>
+	<game id="17381782" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cagey/Aiden/Bramble/17381782.jpg
+		</thumbnail>
+		<title>Swampfire Assault Force</title>
+		<creator>Cagey Aiden Bramble</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

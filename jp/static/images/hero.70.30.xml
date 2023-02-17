@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16837718" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Witty/Dean/Giblets/16837718.jpg
+		</thumbnail>
+		<title>Nitro Mission Atomic</title>
+		<creator>Witty Dean Giblets</creator>
+		<relatedgames/>
+	</game>
+	<game id="17227876" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Logan/Magnet/17227876.jpg
+		</thumbnail>
+		<title>Charge Escape Breaker</title>
+		<creator>Flying Logan Magnet</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952807" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dynamic/Larry/Eggplant/10952807.jpg
+		</thumbnail>
+		<title>Battle Turbo Shadow</title>
+		<creator>Dynamic Larry Eggplant</creator>
+		<relatedgames/>
+	</game>
+	<game id="17305208" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stormy/Anthony/Pizza/17305208.jpg
+		</thumbnail>
+		<title>Pursuit Robot Robot</title>
+		<creator>Stormy Anthony Pizza</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953605" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scurvy/Edward/Monster/10953605.jpg
+		</thumbnail>
+		<title>Rumble Shadow Techno</title>
+		<creator>Scurvy Edward Monster</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930929" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awesome/Robin/Nova/10930929.jpg
+		</thumbnail>
+		<title>Hyper Nova Attack</title>
+		<creator>Awesome Robin Nova</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952899" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dynamic/Celeste/Dolphin/10952899.jpg
+		</thumbnail>
+		<title>Galaxy Mission Rampage</title>
+		<creator>Dynamic Celeste Dolphin</creator>
+		<relatedgames/>
+	</game>
+	<game id="17364488" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hectic/Taylor/Gazebo/17364488.jpg
+		</thumbnail>
+		<title>Ultimate Dark Fusion</title>
+		<creator>Hectic Taylor Gazebo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923281" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frosty/Zoe/Planet/10923281.jpg
+		</thumbnail>
+		<title>Battle Shadow Ambush</title>
+		<creator>Frosty Zoe Planet</creator>
+		<relatedgames/>
+	</game>
+	<game id="10936061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Howling/Faith/Tusk/10936061.jpg
+		</thumbnail>
+		<title>Power Adventure Solar</title>
+		<creator>Howling Faith Tusk</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

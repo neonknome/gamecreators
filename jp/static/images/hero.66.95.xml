@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17312975" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Roaring/Douglas/Fuzz/17312975.jpg
+		</thumbnail>
+		<title>Patrol Crusher Stone</title>
+		<creator>Roaring Douglas Fuzz</creator>
+		<relatedgames/>
+	</game>
+	<game id="17362287" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artful/Timmy/Daffodil/17362287.jpg
+		</thumbnail>
+		<title>Drone Mission Vilgax</title>
+		<creator>Artful Timmy Daffodil</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952262" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scary/Kevin/Saber/10952262.jpg
+		</thumbnail>
+		<title>Dark Storm Galaxy</title>
+		<creator>Scary Kevin Saber</creator>
+		<relatedgames/>
+	</game>
+	<game id="17382049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wily/Iris/Ostrich/17382049.jpg
+		</thumbnail>
+		<title>Turbo Dark Defense</title>
+		<creator>Wily Iris Ostrich</creator>
+		<relatedgames/>
+	</game>
+	<game id="17328677" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Average/Owen/Monster/17328677.jpg
+		</thumbnail>
+		<title>Razor Space Rampage</title>
+		<creator>Average Owen Monster</creator>
+		<relatedgames/>
+	</game>
+	<game id="17316460" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Drowzy/Yancy/Porridge/17316460.jpg
+		</thumbnail>
+		<title>Nano Rampage Giga</title>
+		<creator>Drowzy Yancy Porridge</creator>
+		<relatedgames/>
+	</game>
+	<game id="16969957" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Haunted/Harry/Catapult/16969957.jpg
+		</thumbnail>
+		<title>Warp Fire Warrior</title>
+		<creator>Haunted Harry Catapult</creator>
+		<relatedgames/>
+	</game>
+	<game id="17417708" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Friendly/Felix/Dodo/17417708.jpg
+		</thumbnail>
+		<title>Echo Echo Cannonbolt</title>
+		<creator>Friendly Felix Dodo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10948918" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Savage/Gavin/Frost/10948918.jpg
+		</thumbnail>
+		<title>Rumble Mission Champion</title>
+		<creator>Savage Gavin Frost</creator>
+		<relatedgames/>
+	</game>
+	<game id="16984393" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quantum/Kevin/Beast/16984393.jpg
+		</thumbnail>
+		<title>Atomic Whirlwind Battle</title>
+		<creator>Quantum Kevin Beast</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

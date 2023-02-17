@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10926798" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Infinite/Leon/Amethyst/10926798.jpg
+		</thumbnail>
+		<title>Rumble Hero Power</title>
+		<creator>Infinite Leon Amethyst</creator>
+		<relatedgames/>
+	</game>
+	<game id="17326873" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grand/Tex/Gator/17326873.jpg
+		</thumbnail>
+		<title>Droid Quake Light</title>
+		<creator>Grand Tex Gator</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noble/Erin/Wiffle/10920878.jpg
+		</thumbnail>
+		<title>Fury Droid Pursuit</title>
+		<creator>Noble Erin Wiffle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17416279" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Smelly/Robin/Hippo/17416279.jpg
+		</thumbnail>
+		<title>Hex Fury Mega</title>
+		<creator>Smelly Robin Hippo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953054" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brainy/Casey/Sardine/10953054.jpg
+		</thumbnail>
+		<title>Pursuit Dark Siege</title>
+		<creator>Brainy Casey Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="17252572" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spicy/Lorenzo/Venom/17252572.jpg
+		</thumbnail>
+		<title>Quake Atomic Force</title>
+		<creator>Spicy Lorenzo Venom</creator>
+		<relatedgames/>
+	</game>
+	<game id="10929472" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Shannon/Robot/10929472.jpg
+		</thumbnail>
+		<title>Invasion Vilgax Galaxy</title>
+		<creator>Alien Shannon Robot</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935329" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Burly/Crystal/Fritter/10935329.jpg
+		</thumbnail>
+		<title>Shadow Champion Invasion</title>
+		<creator>Burly Crystal Fritter</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922797" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Purple/Kevin/Penguin/10922797.jpg
+		</thumbnail>
+		<title>Energy Lightning Galaxy</title>
+		<creator>Purple Kevin Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="17159498" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eastern/Grover/Bagpipe/17159498.jpg
+		</thumbnail>
+		<title>Adventure Champion Cosmic</title>
+		<creator>Eastern Grover Bagpipe</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

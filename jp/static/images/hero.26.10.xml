@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10916734" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Darling/Hank/Mustang/10916734.jpg
+		</thumbnail>
+		<title>Swampfire Ultra Invasion</title>
+		<creator>Darling Hank Mustang</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935383" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Green/Justin/Saber/10935383.jpg
+		</thumbnail>
+		<title>Racer Techno Dark</title>
+		<creator>Green Justin Saber</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952706" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zippy/Destiny/Dragon/10952706.jpg
+		</thumbnail>
+		<title>Galaxy Blaster Razor</title>
+		<creator>Zippy Destiny Dragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918167" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Leonardo/Howler/10918167.jpg
+		</thumbnail>
+		<title>Alien Rampage Ambush</title>
+		<creator>Colossal Leonardo Howler</creator>
+		<relatedgames/>
+	</game>
+	<game id="16920799" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Titanic/Dixie/Macaw/16920799.jpg
+		</thumbnail>
+		<title>Hyper Galaxy Power</title>
+		<creator>Titanic Dixie Macaw</creator>
+		<relatedgames/>
+	</game>
+	<game id="16993737" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baroness/Anna/Beast/16993737.jpg
+		</thumbnail>
+		<title>Rescue Techno Fusion</title>
+		<creator>Baroness Anna Beast</creator>
+		<relatedgames/>
+	</game>
+	<game id="17327969" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Howling/Seth/Virtuoso/17327969.jpg
+		</thumbnail>
+		<title>Fire Drone Adventure</title>
+		<creator>Howling Seth Virtuoso</creator>
+		<relatedgames/>
+	</game>
+	<game id="17363619" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Icy/Bridget/Atlas/17363619.jpg
+		</thumbnail>
+		<title>Ultimate Space Alien</title>
+		<creator>Icy Bridget Atlas</creator>
+		<relatedgames/>
+	</game>
+	<game id="17399233" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Puzzling/Frank/Wolf/17399233.jpg
+		</thumbnail>
+		<title>Battle Spike Rush</title>
+		<creator>Puzzling Frank Wolf</creator>
+		<relatedgames/>
+	</game>
+	<game id="17039544" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tireless/Ruby/Phoenix/17039544.jpg
+		</thumbnail>
+		<title>Rock Laser Energy</title>
+		<creator>Tireless Ruby Phoenix</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

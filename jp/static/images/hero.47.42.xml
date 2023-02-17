@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10917033" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Comical/Ariana/Kiwi/10917033.jpg
+		</thumbnail>
+		<title>Hero Fire Force</title>
+		<creator>Comical Ariana Kiwi</creator>
+		<relatedgames/>
+	</game>
+	<game id="10046385" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Majestic/Chelsea/Squawk/10046385.jpg
+		</thumbnail>
+		<title>Atomic Slam Space</title>
+		<creator>Majestic Chelsea Squawk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952531" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humble/Ramona/Fishbowl/10952531.jpg
+		</thumbnail>
+		<title>Magno Laser Shock</title>
+		<creator>Humble Ramona Fishbowl</creator>
+		<relatedgames/>
+	</game>
+	<game id="17576666" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Prince/Summer/Spider/17576666.jpg
+		</thumbnail>
+		<title>Challenge Star Fury</title>
+		<creator>Prince Summer Spider</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918167" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Leonardo/Howler/10918167.jpg
+		</thumbnail>
+		<title>Alien Rampage Ambush</title>
+		<creator>Colossal Leonardo Howler</creator>
+		<relatedgames/>
+	</game>
+	<game id="16920799" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Titanic/Dixie/Macaw/16920799.jpg
+		</thumbnail>
+		<title>Hyper Galaxy Power</title>
+		<creator>Titanic Dixie Macaw</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952550" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cranky/Nicole/Galaxy/10952550.jpg
+		</thumbnail>
+		<title>Swampfire Fire Storm</title>
+		<creator>Cranky Nicole Galaxy</creator>
+		<relatedgames/>
+	</game>
+	<game id="10063843" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Shrewd/Minerva/Aurora/10063843.jpg
+		</thumbnail>
+		<title>Storm Plasma Spike</title>
+		<creator>Shrewd Minerva Aurora</creator>
+		<relatedgames/>
+	</game>
+	<game id="17399233" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Puzzling/Frank/Wolf/17399233.jpg
+		</thumbnail>
+		<title>Battle Spike Rush</title>
+		<creator>Puzzling Frank Wolf</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952640" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cranky/Bryan/Varmint/10952640.jpg
+		</thumbnail>
+		<title>Challenge Fire Mission</title>
+		<creator>Cranky Bryan Varmint</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

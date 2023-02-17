@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17278924" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/Colin/Jungle/17278924.jpg
+		</thumbnail>
+		<title>Alien Ambush Chill</title>
+		<creator>Fiery Colin Jungle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17551092" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dreadful/Alex/Dodo/17551092.jpg
+		</thumbnail>
+		<title>Adventure Assault Nitro</title>
+		<creator>Dreadful Alex Dodo</creator>
+		<relatedgames/>
+	</game>
+	<game id="16939364" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Splendid/Simon/Sardine/16939364.jpg
+		</thumbnail>
+		<title>Rush Rush Rush</title>
+		<creator>Splendid Simon Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921674" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Rugged/Orlando/Virtuoso/10921674.jpg
+		</thumbnail>
+		<title>Swampfire Shadow Attack</title>
+		<creator>Rugged Orlando Virtuoso</creator>
+		<relatedgames/>
+	</game>
+	<game id="10056515" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Atomic/Jacob/Mahogany/10056515.jpg
+		</thumbnail>
+		<title>Hyper Doom Hero</title>
+		<creator>Atomic Jacob Mahogany</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926454" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dramatic/Laura/Fishbowl/10926454.jpg
+		</thumbnail>
+		<title>Ultimate Rampage Chase</title>
+		<creator>Dramatic Laura Fishbowl</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928655" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Handsome/Jeffrey/Aardvark/10928655.jpg
+		</thumbnail>
+		<title>Metal Breaker Ultimate</title>
+		<creator>Handsome Jeffrey Aardvark</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918854" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fragrant/Shannon/Spider/10918854.jpg
+		</thumbnail>
+		<title>Siege Nova Crusher</title>
+		<creator>Fragrant Shannon Spider</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927813" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Chad/Molecule/10927813.jpg
+		</thumbnail>
+		<title>Swampfire Swampfire Swampfire</title>
+		<creator>Honest Chad Molecule</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942677" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strange/Dawn/Iguana/10942677.jpg
+		</thumbnail>
+		<title>Rock Steel Fusion</title>
+		<creator>Strange Dawn Iguana</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

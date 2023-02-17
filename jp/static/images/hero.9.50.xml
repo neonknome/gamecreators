@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17362287" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artful/Timmy/Daffodil/17362287.jpg
+		</thumbnail>
+		<title>Drone Mission Vilgax</title>
+		<creator>Artful Timmy Daffodil</creator>
+		<relatedgames/>
+	</game>
+	<game id="16950338" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Angelica/Castle/16950338.jpg
+		</thumbnail>
+		<title>Star Atomic Animo</title>
+		<creator>Dazzling Angelica Castle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17318985" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grizzly/Eugene/Banzai/17318985.jpg
+		</thumbnail>
+		<title>Escape Star Thunder</title>
+		<creator>Grizzly Eugene Banzai</creator>
+		<relatedgames/>
+	</game>
+	<game id="17217721" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Normal/Betty/Venom/17217721.jpg
+		</thumbnail>
+		<title>Shadow Vilgax Cosmic</title>
+		<creator>Normal Betty Venom</creator>
+		<relatedgames/>
+	</game>
+	<game id="10046166" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Funny/Chris/Pinwheel/10046166.jpg
+		</thumbnail>
+		<title>Slam Danger Light</title>
+		<creator>Funny Chris Pinwheel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17383531" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Princess/Melanie/Penguin/17383531.jpg
+		</thumbnail>
+		<title>Battle Chill Search</title>
+		<creator>Princess Melanie Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="16984393" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quantum/Kevin/Beast/16984393.jpg
+		</thumbnail>
+		<title>Atomic Whirlwind Battle</title>
+		<creator>Quantum Kevin Beast</creator>
+		<relatedgames/>
+	</game>
+	<game id="17400211" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elegant/George/Doodad/17400211.jpg
+		</thumbnail>
+		<title>Rush Ultra Hero</title>
+		<creator>Elegant George Doodad</creator>
+		<relatedgames/>
+	</game>
+	<game id="17016612" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cranky/Zeb/Martian/17016612.jpg
+		</thumbnail>
+		<title>Alien Terraspin Ambush</title>
+		<creator>Cranky Zeb Martian</creator>
+		<relatedgames/>
+	</game>
+	<game id="17335294" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ghastly/Olive/Cyborg/17335294.jpg
+		</thumbnail>
+		<title>Target Chase Robot</title>
+		<creator>Ghastly Olive Cyborg</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

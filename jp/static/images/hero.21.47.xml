@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10934222" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gigantic/Andrew/Tusk/10934222.jpg
+		</thumbnail>
+		<title>Doom Titan Invasion</title>
+		<creator>Gigantic Andrew Tusk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953017" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grand/Jessica/Skunk/10953017.jpg
+		</thumbnail>
+		<title>Invasion Star Galaxy</title>
+		<creator>Grand Jessica Skunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919791" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sly/Wesley/Tiptoe/10919791.jpg
+		</thumbnail>
+		<title>Lightning Energy Invasion</title>
+		<creator>Sly Wesley Tiptoe</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925610" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reckless/Hank/Stampede/10925610.jpg
+		</thumbnail>
+		<title>Alien Warrior Adventure</title>
+		<creator>Reckless Hank Stampede</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921238" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Wesley/Monster/10921238.jpg
+		</thumbnail>
+		<title>Fire Hero Plasma</title>
+		<creator>Honest Wesley Monster</creator>
+		<relatedgames/>
+	</game>
+	<game id="17584644" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Plucky/Romeo/Aviator/17584644.jpg
+		</thumbnail>
+		<title>Big Chill Power</title>
+		<creator>Plucky Romeo Aviator</creator>
+		<relatedgames/>
+	</game>
+	<game id="17389018" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stunning/Sid/Hambone/17389018.jpg
+		</thumbnail>
+		<title>Adventure Rescue Slam</title>
+		<creator>Stunning Sid Hambone</creator>
+		<relatedgames/>
+	</game>
+	<game id="10948852" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Zoe/Wizard/10948852.jpg
+		</thumbnail>
+		<title>Warrior Warrior Warrior</title>
+		<creator>Chilly Zoe Wizard</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925875" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Swift/Shelby/Ninja/10925875.jpg
+		</thumbnail>
+		<title>Mega Attack Swampfire</title>
+		<creator>Swift Shelby Ninja</creator>
+		<relatedgames/>
+	</game>
+	<game id="10064904" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cosmic/Goliath/Oddball/10064904.jpg
+		</thumbnail>
+		<title>Adventure Mission Sonic</title>
+		<creator>Cosmic Goliath Oddball</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

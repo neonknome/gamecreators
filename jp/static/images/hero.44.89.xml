@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10924909" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scurvy/Diana/Haystack/10924909.jpg
+		</thumbnail>
+		<title>Gear Battle Racer</title>
+		<creator>Scurvy Diana Haystack</creator>
+		<relatedgames/>
+	</game>
+	<game id="16988752" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Prince/Baxter/Horsefly/16988752.jpg
+		</thumbnail>
+		<title>Attack Warrior Ambush</title>
+		<creator>Prince Baxter Horsefly</creator>
+		<relatedgames/>
+	</game>
+	<game id="10917786" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frosty/Vincent/Narwhal/10917786.jpg
+		</thumbnail>
+		<title>Danger Lightning Galaxy</title>
+		<creator>Frosty Vincent Narwhal</creator>
+		<relatedgames/>
+	</game>
+	<game id="17278985" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Electric/Colton/Warrior/17278985.jpg
+		</thumbnail>
+		<title>Jetray Nitro Droid</title>
+		<creator>Electric Colton Warrior</creator>
+		<relatedgames/>
+	</game>
+	<game id="10059207" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Generous/Medusa/Lard/10059207.jpg
+		</thumbnail>
+		<title>Shadow Alien Rescue</title>
+		<creator>Generous Medusa Lard</creator>
+		<relatedgames/>
+	</game>
+	<game id="10706149" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shrewd/Leah/Acrobat/10706149.jpg
+		</thumbnail>
+		<title>Attack Shadow Smash</title>
+		<creator>Shrewd Leah Acrobat</creator>
+		<relatedgames/>
+	</game>
+	<game id="17381782" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cagey/Aiden/Bramble/17381782.jpg
+		</thumbnail>
+		<title>Swampfire Assault Force</title>
+		<creator>Cagey Aiden Bramble</creator>
+		<relatedgames/>
+	</game>
+	<game id="17387464" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Feisty/Michelle/Ketchup/17387464.jpg
+		</thumbnail>
+		<title>Water Droid Defense</title>
+		<creator>Feisty Michelle Ketchup</creator>
+		<relatedgames/>
+	</game>
+	<game id="16982204" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Keen/Caleb/Cyclone/16982204.jpg
+		</thumbnail>
+		<title>Water Dark Titan</title>
+		<creator>Keen Caleb Cyclone</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916719" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Anthony/Goofball/10916719.jpg
+		</thumbnail>
+		<title>Swampfire Rampage Chase</title>
+		<creator>Obvious Anthony Goofball</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

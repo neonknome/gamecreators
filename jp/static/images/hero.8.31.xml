@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17394571" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Golden/Will/Pyramid/17394571.jpg
+		</thumbnail>
+		<title>Slam Blaster Solar</title>
+		<creator>Golden Will Pyramid</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919116" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fanciful/Xavier/Thunder/10919116.jpg
+		</thumbnail>
+		<title>Ultimate Mega Siege</title>
+		<creator>Fanciful Xavier Thunder</creator>
+		<relatedgames/>
+	</game>
+	<game id="17561116" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gross/Vinny/Gamer/17561116.jpg
+		</thumbnail>
+		<title>Rescue Warrior Water</title>
+		<creator>Gross Vinny Gamer</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927078" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spectral/Tommy/Hologram/10927078.jpg
+		</thumbnail>
+		<title>Stone Hex Metal</title>
+		<creator>Spectral Tommy Hologram</creator>
+		<relatedgames/>
+	</game>
+	<game id="10937548" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Haley/Jamboree/10937548.jpg
+		</thumbnail>
+		<title>Rocket Techno Sonic</title>
+		<creator>Alien Haley Jamboree</creator>
+		<relatedgames/>
+	</game>
+	<game id="17312975" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Roaring/Douglas/Fuzz/17312975.jpg
+		</thumbnail>
+		<title>Patrol Crusher Stone</title>
+		<creator>Roaring Douglas Fuzz</creator>
+		<relatedgames/>
+	</game>
+	<game id="17284589" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Famous/Paul/Tiger/17284589.jpg
+		</thumbnail>
+		<title>Galaxy Force Sonic</title>
+		<creator>Famous Paul Tiger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10647540" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proper/Ben/Popcorn/10647540.jpg
+		</thumbnail>
+		<title>Blaster Robot Universe</title>
+		<creator>Proper Ben Popcorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953441" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Comical/Jenna/Funk/10953441.jpg
+		</thumbnail>
+		<title>Attack Hyper Lightning</title>
+		<creator>Comical Jenna Funk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17348502" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Toxic/Augustus/Zip/17348502.jpg
+		</thumbnail>
+		<title>Shadow Quake Alien</title>
+		<creator>Toxic Augustus Zip</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

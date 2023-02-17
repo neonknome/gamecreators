@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17324891" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Singular/Shaggy/Robot/17324891.jpg
+		</thumbnail>
+		<title>Light Galaxy Ultra</title>
+		<creator>Singular Shaggy Robot</creator>
+		<relatedgames/>
+	</game>
+	<game id="10043261" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Absurd/Alex/Goofball/10043261.jpg
+		</thumbnail>
+		<title>Spark Spike Challenge</title>
+		<creator>Absurd Alex Goofball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10649551" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bizarre/Seth/Sunshine/10649551.jpg
+		</thumbnail>
+		<title>Nitro Quake Hero</title>
+		<creator>Bizarre Seth Sunshine</creator>
+		<relatedgames/>
+	</game>
+	<game id="16976258" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Emperor/Ashley/Gullet/16976258.jpg
+		</thumbnail>
+		<title>Drone Adventure Patrol</title>
+		<creator>Emperor Ashley Gullet</creator>
+		<relatedgames/>
+	</game>
+	<game id="10703285" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Kyle/Penguin/10703285.jpg
+		</thumbnail>
+		<title>Cosmic Swampfire Rescue</title>
+		<creator>Humorous Kyle Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952287" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gigantic/Zelda/Turbo/10952287.jpg
+		</thumbnail>
+		<title>Rescue Rampage Rumble</title>
+		<creator>Gigantic Zelda Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17357887" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Musical/CJ/Universe/17357887.jpg
+		</thumbnail>
+		<title>Shadow Adventure Assault</title>
+		<creator>Musical CJ Universe</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952647" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sincere/Stephen/Magma/10952647.jpg
+		</thumbnail>
+		<title>Cosmic Star Invasion</title>
+		<creator>Sincere Stephen Magma</creator>
+		<relatedgames/>
+	</game>
+	<game id="16998524" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Toxic/Caden/Funk/16998524.jpg
+		</thumbnail>
+		<title>Invasion Mega Escape</title>
+		<creator>Toxic Caden Funk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931981" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Beastly/Corey/Citrus/10931981.jpg
+		</thumbnail>
+		<title>Adventure Nova Warrior</title>
+		<creator>Beastly Corey Citrus</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

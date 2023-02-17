@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10650024" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dynamic/Cody/Bullfrog/10650024.jpg
+		</thumbnail>
+		<title>Universe Adventure Attack</title>
+		<creator>Dynamic Cody Bullfrog</creator>
+		<relatedgames/>
+	</game>
+	<game id="17551194" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Pete/Shovel/17551194.jpg
+		</thumbnail>
+		<title>Nano Adventure Omniverse</title>
+		<creator>Colossal Pete Shovel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055491" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Frugal/Grover/Gorilla/10055491.jpg
+		</thumbnail>
+		<title>Atomic Giga Robot</title>
+		<creator>Frugal Grover Gorilla</creator>
+		<relatedgames/>
+	</game>
+	<game id="17176419" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magnetic/Ramona/Bramble/17176419.jpg
+		</thumbnail>
+		<title>Steel Dark Adventure</title>
+		<creator>Magnetic Ramona Bramble</creator>
+		<relatedgames/>
+	</game>
+	<game id="17379163" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pretty/Scott/Beeswax/17379163.jpg
+		</thumbnail>
+		<title>Razor Titan Blaster</title>
+		<creator>Pretty Scott Beeswax</creator>
+		<relatedgames/>
+	</game>
+	<game id="17259995" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shrewd/Stanley/Sunset/17259995.jpg
+		</thumbnail>
+		<title>Warrior Robot Giga</title>
+		<creator>Shrewd Stanley Sunset</creator>
+		<relatedgames/>
+	</game>
+	<game id="17191739" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elastic/Dwight/Robot/17191739.jpg
+		</thumbnail>
+		<title>Solar Warrior Ambush</title>
+		<creator>Elastic Dwight Robot</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953622" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spirited/Vladimir/Icicle/10953622.jpg
+		</thumbnail>
+		<title>Pursuit Hex Battle</title>
+		<creator>Spirited Vladimir Icicle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17568876" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cackling/Beth/Ladybug/17568876.jpg
+		</thumbnail>
+		<title>Escape Hex Galaxy</title>
+		<creator>Cackling Beth Ladybug</creator>
+		<relatedgames/>
+	</game>
+	<game id="17418509" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obscure/Jenn/Scout/17418509.jpg
+		</thumbnail>
+		<title>Ultimate Cosmic Challenge</title>
+		<creator>Obscure Jenn Scout</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

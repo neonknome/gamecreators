@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10921135" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dreadful/Medusa/Fishbowl/10921135.jpg
+		</thumbnail>
+		<title>Swampfire Assault Invasion</title>
+		<creator>Dreadful Medusa Fishbowl</creator>
+		<relatedgames/>
+	</game>
+	<game id="10026204" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Clever/Erik/Zip/10026204.jpg
+		</thumbnail>
+		<title>Thunder Doom Defense</title>
+		<creator>Clever Erik Zip</creator>
+		<relatedgames/>
+	</game>
+	<game id="17256921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Freakish/Paul/Neptune/17256921.jpg
+		</thumbnail>
+		<title>Ultra Gear Hex</title>
+		<creator>Freakish Paul Neptune</creator>
+		<relatedgames/>
+	</game>
+	<game id="17356933" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sassy/Aaron/Baloney/17356933.jpg
+		</thumbnail>
+		<title>Spidermonkey Dark Target</title>
+		<creator>Sassy Aaron Baloney</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922698" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Atomic/Matthew/Goulash/10922698.jpg
+		</thumbnail>
+		<title>Warrior Adventure Droid</title>
+		<creator>Atomic Matthew Goulash</creator>
+		<relatedgames/>
+	</game>
+	<game id="10024911" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Shiny/Bobby/Werewolf/10024911.jpg
+		</thumbnail>
+		<title>Fire Iron Burst</title>
+		<creator>Shiny Bobby Werewolf</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frantic/Chester/Walrus/10953549.jpg
+		</thumbnail>
+		<title>Chase Slam Alien</title>
+		<creator>Frantic Chester Walrus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17277858" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baffling/Michelle/Shinobi/17277858.jpg
+		</thumbnail>
+		<title>Mega Water Nitro</title>
+		<creator>Baffling Michelle Shinobi</creator>
+		<relatedgames/>
+	</game>
+	<game id="10028187" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Eastern/Alan/Charger/10028187.jpg
+		</thumbnail>
+		<title>Defense Attack Power</title>
+		<creator>Eastern Alan Charger</creator>
+		<relatedgames/>
+	</game>
+	<game id="16875573" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Jose/Kungfu/16875573.jpg
+		</thumbnail>
+		<title>Laser Big Space</title>
+		<creator>Honest Jose Kungfu</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

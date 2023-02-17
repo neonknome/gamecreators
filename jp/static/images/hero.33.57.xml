@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17395565" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Toxic/Rocky/Photon/17395565.jpg
+		</thumbnail>
+		<title>Sonic Big Rocket</title>
+		<creator>Toxic Rocky Photon</creator>
+		<relatedgames/>
+	</game>
+	<game id="16975152" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Admiral/Ben/Reptile/16975152.jpg
+		</thumbnail>
+		<title>Power Force Universe</title>
+		<creator>Admiral Ben Reptile</creator>
+		<relatedgames/>
+	</game>
+	<game id="17241860" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Creative/Jay/Buffalo/17241860.jpg
+		</thumbnail>
+		<title>Razor Echo Chill</title>
+		<creator>Creative Jay Buffalo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10934222" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gigantic/Andrew/Tusk/10934222.jpg
+		</thumbnail>
+		<title>Doom Titan Invasion</title>
+		<creator>Gigantic Andrew Tusk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17163650" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quantum/Tanner/Skeleton/17163650.jpg
+		</thumbnail>
+		<title>Galaxy Alien Spark</title>
+		<creator>Quantum Tanner Skeleton</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922876" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Weird/Zelda/Pulse/10922876.jpg
+		</thumbnail>
+		<title>Plasma Ambush Storm</title>
+		<creator>Weird Zelda Pulse</creator>
+		<relatedgames/>
+	</game>
+	<game id="17584644" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Plucky/Romeo/Aviator/17584644.jpg
+		</thumbnail>
+		<title>Big Chill Power</title>
+		<creator>Plucky Romeo Aviator</creator>
+		<relatedgames/>
+	</game>
+	<game id="17389018" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stunning/Sid/Hambone/17389018.jpg
+		</thumbnail>
+		<title>Adventure Rescue Slam</title>
+		<creator>Stunning Sid Hambone</creator>
+		<relatedgames/>
+	</game>
+	<game id="17314558" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Yelping/Albert/Anvil/17314558.jpg
+		</thumbnail>
+		<title>Slam Patrol Slam</title>
+		<creator>Yelping Albert Anvil</creator>
+		<relatedgames/>
+	</game>
+	<game id="10948852" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Zoe/Wizard/10948852.jpg
+		</thumbnail>
+		<title>Warrior Warrior Warrior</title>
+		<creator>Chilly Zoe Wizard</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

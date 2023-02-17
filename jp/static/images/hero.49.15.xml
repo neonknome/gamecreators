@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17407363" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Adept/Biff/Quark/17407363.jpg
+		</thumbnail>
+		<title>Atomic Earth Plasma</title>
+		<creator>Adept Biff Quark</creator>
+		<relatedgames/>
+	</game>
+	<game id="17214957" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crazy/Payton/Shadow/17214957.jpg
+		</thumbnail>
+		<title>Alien Invasion Breaker</title>
+		<creator>Crazy Payton Shadow</creator>
+		<relatedgames/>
+	</game>
+	<game id="10064428" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Bouncing/Wesley/Parallax/10064428.jpg
+		</thumbnail>
+		<title>Ben Smash Force</title>
+		<creator>Bouncing Wesley Parallax</creator>
+		<relatedgames/>
+	</game>
+	<game id="10063345" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Infamous/Florence/Crumpet/10063345.jpg
+		</thumbnail>
+		<title>Adventure Razor Blaster</title>
+		<creator>Infamous Florence Crumpet</creator>
+		<relatedgames/>
+	</game>
+	<game id="17336642" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quaint/Freddy/Oddball/17336642.jpg
+		</thumbnail>
+		<title>Universe Pulse Vilgax</title>
+		<creator>Quaint Freddy Oddball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10938101" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nimble/Lillian/Robot/10938101.jpg
+		</thumbnail>
+		<title>Swampfire Iron Invasion</title>
+		<creator>Nimble Lillian Robot</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935790" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reckless/Arthur/Fossil/10935790.jpg
+		</thumbnail>
+		<title>Escape Ambush Space</title>
+		<creator>Reckless Arthur Fossil</creator>
+		<relatedgames/>
+	</game>
+	<game id="17260921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ultimate/Rocky/Flamingo/17260921.jpg
+		</thumbnail>
+		<title>Spark Titan Siege</title>
+		<creator>Ultimate Rocky Flamingo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17325051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cute/Rufus/Droid/17325051.jpg
+		</thumbnail>
+		<title>Smash Power Techno</title>
+		<creator>Cute Rufus Droid</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953354" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jolly/Bryan/Kook/10953354.jpg
+		</thumbnail>
+		<title>Alien Robot Nitro</title>
+		<creator>Jolly Bryan Kook</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10953468" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grand/Samuel/Penguin/10953468.jpg
+		</thumbnail>
+		<title>Swampfire Mission Challenge</title>
+		<creator>Grand Samuel Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10948057" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fearsome/Rick/Mammoth/10948057.jpg
+		</thumbnail>
+		<title>Plumber Storm Force</title>
+		<creator>Fearsome Rick Mammoth</creator>
+		<relatedgames/>
+	</game>
+	<game id="10039383" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Gruesome/Justin/Manatee/10039383.jpg
+		</thumbnail>
+		<title>Titan Magno Fire</title>
+		<creator>Gruesome Justin Manatee</creator>
+		<relatedgames/>
+	</game>
+	<game id="17418509" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obscure/Jenn/Scout/17418509.jpg
+		</thumbnail>
+		<title>Ultimate Cosmic Challenge</title>
+		<creator>Obscure Jenn Scout</creator>
+		<relatedgames/>
+	</game>
+	<game id="17301303" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spicy/Holly/Ion/17301303.jpg
+		</thumbnail>
+		<title>Thunder Drone Charge</title>
+		<creator>Spicy Holly Ion</creator>
+		<relatedgames/>
+	</game>
+	<game id="10040943" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Burly/Bryan/Blob/10040943.jpg
+		</thumbnail>
+		<title>Ultra Swampfire Challenge</title>
+		<creator>Burly Bryan Blob</creator>
+		<relatedgames/>
+	</game>
+	<game id="10040892" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fearless/Jason/Funk/10040892.jpg
+		</thumbnail>
+		<title>Swampfire Blaster Spike</title>
+		<creator>Fearless Jason Funk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17383696" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Athletic/Calvin/Buffalo/17383696.jpg
+		</thumbnail>
+		<title>Metal Shadow Hex</title>
+		<creator>Athletic Calvin Buffalo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10937552" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grouchy/Xavier/Wizard/10937552.jpg
+		</thumbnail>
+		<title>Rocket Ultimate Rumble</title>
+		<creator>Grouchy Xavier Wizard</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921963" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Northern/Jenna/Yoyo/10921963.jpg
+		</thumbnail>
+		<title>Swampfire Challenge Ultimate</title>
+		<creator>Northern Jenna Yoyo</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

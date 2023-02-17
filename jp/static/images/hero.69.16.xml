@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16958340" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artful/Kate/Bongo/16958340.jpg
+		</thumbnail>
+		<title>Storm Rocket Jetray</title>
+		<creator>Artful Kate Bongo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17217964" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Carefree/Penelope/Banshee/17217964.jpg
+		</thumbnail>
+		<title>Animo Lightning Danger</title>
+		<creator>Carefree Penelope Banshee</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919856" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Leaping/Derek/Elf/10919856.jpg
+		</thumbnail>
+		<title>Spark Lightning Warrior</title>
+		<creator>Leaping Derek Elf</creator>
+		<relatedgames/>
+	</game>
+	<game id="17381279" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elegant/Mac/Unicycle/17381279.jpg
+		</thumbnail>
+		<title>Vilgax Plumber Racer</title>
+		<creator>Elegant Mac Unicycle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17552197" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crazy/Edd/Mahogany/17552197.jpg
+		</thumbnail>
+		<title>Siege Metal Titan</title>
+		<creator>Crazy Edd Mahogany</creator>
+		<relatedgames/>
+	</game>
+	<game id="10056052" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Ghastly/Phil/Cyborg/10056052.jpg
+		</thumbnail>
+		<title>Plasma Galaxy Adventure</title>
+		<creator>Ghastly Phil Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sly/Aaron/Goulash/10930921.jpg
+		</thumbnail>
+		<title>Nitro Razor Rampage</title>
+		<creator>Sly Aaron Goulash</creator>
+		<relatedgames/>
+	</game>
+	<game id="17014033" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Epic/Peter/Possum/17014033.jpg
+		</thumbnail>
+		<title>Ultra Ultimate Energy</title>
+		<creator>Epic Peter Possum</creator>
+		<relatedgames/>
+	</game>
+	<game id="17335398" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Golden/Dominic/Giblets/17335398.jpg
+		</thumbnail>
+		<title>Danger Champion Thunder</title>
+		<creator>Golden Dominic Giblets</creator>
+		<relatedgames/>
+	</game>
+	<game id="17562509" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nervous/Dora/Scimitar/17562509.jpg
+		</thumbnail>
+		<title>Warrior Nova Crusher</title>
+		<creator>Nervous Dora Scimitar</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

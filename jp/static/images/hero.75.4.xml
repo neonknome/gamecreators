@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10946479" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Lucius/Wombat/10946479.jpg
+		</thumbnail>
+		<title>Spark Fusion Ben</title>
+		<creator>Alien Lucius Wombat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924415" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Robotic/Tom/Wombat/10924415.jpg
+		</thumbnail>
+		<title>Swampfire Sonic Escape</title>
+		<creator>Robotic Tom Wombat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919116" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fanciful/Xavier/Thunder/10919116.jpg
+		</thumbnail>
+		<title>Ultimate Mega Siege</title>
+		<creator>Fanciful Xavier Thunder</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artistic/Leonardo/Zebra/10953481.jpg
+		</thumbnail>
+		<title>Plasma Robot Fusion</title>
+		<creator>Artistic Leonardo Zebra</creator>
+		<relatedgames/>
+	</game>
+	<game id="17561116" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gross/Vinny/Gamer/17561116.jpg
+		</thumbnail>
+		<title>Rescue Warrior Water</title>
+		<creator>Gross Vinny Gamer</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935719" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Normal/Pierre/Goblin/10935719.jpg
+		</thumbnail>
+		<title>Chase Gear Swampfire</title>
+		<creator>Normal Pierre Goblin</creator>
+		<relatedgames/>
+	</game>
+	<game id="17414730" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Complex/James/Karate/17414730.jpg
+		</thumbnail>
+		<title>Mega Ambush Mission</title>
+		<creator>Complex James Karate</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953223" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fuzzy/Adrian/Fritter/10953223.jpg
+		</thumbnail>
+		<title>Galaxy Storm Iron</title>
+		<creator>Fuzzy Adrian Fritter</creator>
+		<relatedgames/>
+	</game>
+	<game id="10647540" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proper/Ben/Popcorn/10647540.jpg
+		</thumbnail>
+		<title>Blaster Robot Universe</title>
+		<creator>Proper Ben Popcorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953258" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sincere/Noah/Barnacle/10953258.jpg
+		</thumbnail>
+		<title>Charge Robot Slam</title>
+		<creator>Sincere Noah Barnacle</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17364690" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Uncanny/Miguel/Squeegee/17364690.jpg
+		</thumbnail>
+		<title>Champion Fury Power</title>
+		<creator>Uncanny Miguel Squeegee</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935472" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dapper/Earl/Hippo/10935472.jpg
+		</thumbnail>
+		<title>Alien Cosmic Rocket</title>
+		<creator>Dapper Earl Hippo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10040943" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Burly/Bryan/Blob/10040943.jpg
+		</thumbnail>
+		<title>Ultra Swampfire Challenge</title>
+		<creator>Burly Bryan Blob</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942553" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Joyous/Brian/Daffodil/10942553.jpg
+		</thumbnail>
+		<title>Adventure Universe Siege</title>
+		<creator>Joyous Brian Daffodil</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935790" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reckless/Arthur/Fossil/10935790.jpg
+		</thumbnail>
+		<title>Escape Ambush Space</title>
+		<creator>Reckless Arthur Fossil</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921963" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Northern/Jenna/Yoyo/10921963.jpg
+		</thumbnail>
+		<title>Swampfire Challenge Ultimate</title>
+		<creator>Northern Jenna Yoyo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10068663" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Alien/Isaiah/Thud/10068663.jpg
+		</thumbnail>
+		<title>Alien Adventure Ambush</title>
+		<creator>Alien Isaiah Thud</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933395" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Robotic/Mandy/Kudzu/10933395.jpg
+		</thumbnail>
+		<title>Ambush Patrol Nova</title>
+		<creator>Robotic Mandy Kudzu</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055886" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Visible/Ben/Yodel/10055886.jpg
+		</thumbnail>
+		<title>Universe Metal Steel</title>
+		<creator>Visible Ben Yodel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925264" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Mike/Blubber/10925264.jpg
+		</thumbnail>
+		<title>Fire Ben Nitro</title>
+		<creator>Dazzling Mike Blubber</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

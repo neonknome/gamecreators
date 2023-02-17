@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10934594" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Kenneth/Saber/10934594.jpg
+		</thumbnail>
+		<title>Fusion Chase Invasion</title>
+		<creator>Honest Kenneth Saber</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strong/Orlando/Buckaroo/17404821.jpg
+		</thumbnail>
+		<title>Space Universe Swampfire</title>
+		<creator>Strong Orlando Buckaroo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17381990" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Massive/Eva/Shogun/17381990.jpg
+		</thumbnail>
+		<title>Storm Spike Racer</title>
+		<creator>Massive Eva Shogun</creator>
+		<relatedgames/>
+	</game>
+	<game id="17327459" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shannon/Blast/17327459.jpg
+		</thumbnail>
+		<title>Mega Pursuit Sonic</title>
+		<creator>Shannon Blast</creator>
+		<relatedgames/>
+	</game>
+	<game id="10843789" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Yellow/Luke/Acrobat/10843789.jpg
+		</thumbnail>
+		<title>Shock Giga Challenge</title>
+		<creator>Yellow Luke Acrobat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928166" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Jeremy/Tractor/10928166.jpg
+		</thumbnail>
+		<title>Nitro Storm Rush</title>
+		<creator>Chilly Jeremy Tractor</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935006" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Swift/Mitchell/Parsec/10935006.jpg
+		</thumbnail>
+		<title>Space Assault Clash</title>
+		<creator>Swift Mitchell Parsec</creator>
+		<relatedgames/>
+	</game>
+	<game id="10943186" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Babbling/Clark/Daffodil/10943186.jpg
+		</thumbnail>
+		<title>Escape Star Clash</title>
+		<creator>Babbling Clark Daffodil</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927813" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Chad/Molecule/10927813.jpg
+		</thumbnail>
+		<title>Swampfire Swampfire Swampfire</title>
+		<creator>Honest Chad Molecule</creator>
+		<relatedgames/>
+	</game>
+	<game id="17117134" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Ethel/Pinball/17117134.jpg
+		</thumbnail>
+		<title>Attack Metal Mission</title>
+		<creator>Humorous Ethel Pinball</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

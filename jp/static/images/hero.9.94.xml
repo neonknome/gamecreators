@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17418042" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Silly/Jared/Sardine/17418042.jpg
+		</thumbnail>
+		<title>Cosmic Atomic Assault</title>
+		<creator>Silly Jared Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952952" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zippy/Frank/Bramble/10952952.jpg
+		</thumbnail>
+		<title>Energy Warp Spark</title>
+		<creator>Zippy Frank Bramble</creator>
+		<relatedgames/>
+	</game>
+	<game id="10020537" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Bashful/Ace/Hiccup/10020537.jpg
+		</thumbnail>
+		<title>Fury Sonic Mega</title>
+		<creator>Bashful Ace Hiccup</creator>
+		<relatedgames/>
+	</game>
+	<game id="10929416" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elegant/Crystal/Barnacle/10929416.jpg
+		</thumbnail>
+		<title>Iron Universe Space</title>
+		<creator>Elegant Crystal Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17223545" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ghastly/Norman/Trapeze/17223545.jpg
+		</thumbnail>
+		<title>Adventure Galaxy Assault</title>
+		<creator>Ghastly Norman Trapeze</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925913" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mirthful/Zeus/Narwhal/10925913.jpg
+		</thumbnail>
+		<title>Danger Adventure Battle</title>
+		<creator>Mirthful Zeus Narwhal</creator>
+		<relatedgames/>
+	</game>
+	<game id="17345197" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Epic/Zachary/Dingbat/17345197.jpg
+		</thumbnail>
+		<title>Steel Mission Space</title>
+		<creator>Epic Zachary Dingbat</creator>
+		<relatedgames/>
+	</game>
+	<game id="17351796" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Immense/Jayden/Buzzard/17351796.jpg
+		</thumbnail>
+		<title>Vilgax Warp Swampfire</title>
+		<creator>Immense Jayden Buzzard</creator>
+		<relatedgames/>
+	</game>
+	<game id="17078860" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tireless/Ruby/Phoenix/17078860.jpg
+		</thumbnail>
+		<title>Water Nano Alien</title>
+		<creator>Tireless Ruby Phoenix</creator>
+		<relatedgames/>
+	</game>
+	<game id="17214905" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Neutral/Ted/Eggplant/17214905.jpg
+		</thumbnail>
+		<title>Big Warrior Razor</title>
+		<creator>Neutral Ted Eggplant</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17347123" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ticklish/Lancelot/Starfish/17347123.jpg
+		</thumbnail>
+		<title>Smash Atomic Mission</title>
+		<creator>Ticklish Lancelot Starfish</creator>
+		<relatedgames/>
+	</game>
+	<game id="17257125" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Faith/Camel/17257125.jpg
+		</thumbnail>
+		<title>Vilgax Chase Galaxy</title>
+		<creator>Barbaric Faith Camel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17540929" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Horrid/Eugene/Haystack/17540929.jpg
+		</thumbnail>
+		<title>Echo Battle Force</title>
+		<creator>Horrid Eugene Haystack</creator>
+		<relatedgames/>
+	</game>
+	<game id="17569422" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hyper/Lucius/Ketchup/17569422.jpg
+		</thumbnail>
+		<title>Burst Rustbucket Galaxy</title>
+		<creator>Hyper Lucius Ketchup</creator>
+		<relatedgames/>
+	</game>
+	<game id="10059235" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Purple/Patrick/Amethyst/10059235.jpg
+		</thumbnail>
+		<title>Charge Alien Streak</title>
+		<creator>Purple Patrick Amethyst</creator>
+		<relatedgames/>
+	</game>
+	<game id="17377059" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tall/Casey/Bingo/17377059.jpg
+		</thumbnail>
+		<title>Solar Fusion Sonic</title>
+		<creator>Tall Casey Bingo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952785" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Absurd/Carol/Mustang/10952785.jpg
+		</thumbnail>
+		<title>Power Blaster Universe</title>
+		<creator>Absurd Carol Mustang</creator>
+		<relatedgames/>
+	</game>
+	<game id="17574620" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Countess/Quentin/Gator/17574620.jpg
+		</thumbnail>
+		<title>Animo Charge Galaxy</title>
+		<creator>Countess Quentin Gator</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919311" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proper/Wilbur/Nacho/10919311.jpg
+		</thumbnail>
+		<title>Plumber Plumber Plumber</title>
+		<creator>Proper Wilbur Nacho</creator>
+		<relatedgames/>
+	</game>
+	<game id="17316554" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Rich/Sunshine/17316554.jpg
+		</thumbnail>
+		<title>Rustbucket Techno Robot</title>
+		<creator>Queen Rich Sunshine</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

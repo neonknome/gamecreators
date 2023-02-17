@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10937036" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Laura/Jungle/10937036.jpg
+		</thumbnail>
+		<title>Ultra Mega Fire</title>
+		<creator>Red Laura Jungle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926594" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Valiant/Maya/Rutabaga/10926594.jpg
+		</thumbnail>
+		<title>Light Search Ultra</title>
+		<creator>Valiant Maya Rutabaga</creator>
+		<relatedgames/>
+	</game>
+	<game id="17333051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Ricardo/Tiger/17333051.jpg
+		</thumbnail>
+		<title>Chill Dark Sonic</title>
+		<creator>Daring Ricardo Tiger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10056467" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Mirthful/Danielle/Monster/10056467.jpg
+		</thumbnail>
+		<title>Storm Ultimate Fusion</title>
+		<creator>Mirthful Danielle Monster</creator>
+		<relatedgames/>
+	</game>
+	<game id="17302569" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Scott/Snake/17302569.jpg
+		</thumbnail>
+		<title>Humungousaur Target Adventure</title>
+		<creator>Zany Scott Snake</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921995" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colorful/Leslie/Enigma/10921995.jpg
+		</thumbnail>
+		<title>Iron Fury Mission</title>
+		<creator>Colorful Leslie Enigma</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920168" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ticklish/Spike/Dynamite/10920168.jpg
+		</thumbnail>
+		<title>Cosmic Fire Slam</title>
+		<creator>Ticklish Spike Dynamite</creator>
+		<relatedgames/>
+	</game>
+	<game id="16976893" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Grover/Alien/16976893.jpg
+		</thumbnail>
+		<title>Mega Challenge Mission</title>
+		<creator>Barbaric Grover Alien</creator>
+		<relatedgames/>
+	</game>
+	<game id="17005196" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Horrid/Henry/Squish/17005196.jpg
+		</thumbnail>
+		<title>Giga Atomic Assault</title>
+		<creator>Horrid Henry Squish</creator>
+		<relatedgames/>
+	</game>
+	<game id="17236008" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Messy/Bart/Robot/17236008.jpg
+		</thumbnail>
+		<title>Techno Siege Cannonbolt</title>
+		<creator>Messy Bart Robot</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17288430" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Lawrence/Eggplant/17288430.jpg
+		</thumbnail>
+		<title>Ultimate Echo Echo</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames/>
+	</game>
+	<game id="17148915" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Creative/Fred/Robot/17148915.jpg
+		</thumbnail>
+		<title>Alien Ambush Challenge</title>
+		<creator>Creative Fred Robot</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952801" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ghostly/Laura/Bramble/10952801.jpg
+		</thumbnail>
+		<title>Charge Fusion Drone</title>
+		<creator>Ghostly Laura Bramble</creator>
+		<relatedgames/>
+	</game>
+	<game id="10039284" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Gracious/Vladimir/Yodel/10039284.jpg
+		</thumbnail>
+		<title>Animo Lightning Defense</title>
+		<creator>Gracious Vladimir Yodel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916801" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sly/Michelle/Chipmunk/10916801.jpg
+		</thumbnail>
+		<title>Warp Pulse Blaster</title>
+		<creator>Sly Michelle Chipmunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17415229" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reckless/Ernest/Fathom/17415229.jpg
+		</thumbnail>
+		<title>Siege Hero Sonic</title>
+		<creator>Reckless Ernest Fathom</creator>
+		<relatedgames/>
+	</game>
+	<game id="17327437" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Evil/Apollo/Barnacle/17327437.jpg
+		</thumbnail>
+		<title>Warp Rocket Burst</title>
+		<creator>Evil Apollo Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918701" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Madison/Fossil/10918701.jpg
+		</thumbnail>
+		<title>Razor Spike Search</title>
+		<creator>Alien Madison Fossil</creator>
+		<relatedgames/>
+	</game>
+	<game id="16935535" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gorgeous/Earl/Shuriken/16935535.jpg
+		</thumbnail>
+		<title>Vilgax Beast Rescue</title>
+		<creator>Gorgeous Earl Shuriken</creator>
+		<relatedgames/>
+	</game>
+	<game id="17377503" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nimble/Billy/Flywheel/17377503.jpg
+		</thumbnail>
+		<title>Defense Rampage Terraspin</title>
+		<creator>Nimble Billy Flywheel</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

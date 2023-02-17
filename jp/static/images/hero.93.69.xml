@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10038642" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Artistic/Dominic/Lavender/10038642.jpg
+		</thumbnail>
+		<title>Ultimate Drone Doom</title>
+		<creator>Artistic Dominic Lavender</creator>
+		<relatedgames/>
+	</game>
+	<game id="10943881" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Grover/Fireball/10943881.jpg
+		</thumbnail>
+		<title>Crusher Shock Ben</title>
+		<creator>Dazzling Grover Fireball</creator>
+		<relatedgames/>
+	</game>
+	<game id="17562051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dubious/Kevin/Mustard/17562051.jpg
+		</thumbnail>
+		<title>Rampage Swampfire Storm</title>
+		<creator>Dubious Kevin Mustard</creator>
+		<relatedgames/>
+	</game>
+	<game id="17400817" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Healthy/Kyle/Squid/17400817.jpg
+		</thumbnail>
+		<title>Mission Big Chill</title>
+		<creator>Healthy Kyle Squid</creator>
+		<relatedgames/>
+	</game>
+	<game id="17340123" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Admiral/Joshua/Tuxedo/17340123.jpg
+		</thumbnail>
+		<title>Power Shock Smash</title>
+		<creator>Admiral Joshua Tuxedo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17416299" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Creative/Mario/Noodle/17416299.jpg
+		</thumbnail>
+		<title>Alien Droid Escape</title>
+		<creator>Creative Mario Noodle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17417580" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Alyssa/Javelin/17417580.jpg
+		</thumbnail>
+		<title>Search Techno Animo</title>
+		<creator>Queen Alyssa Javelin</creator>
+		<relatedgames/>
+	</game>
+	<game id="17579668" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crazy/John/Gamer/17579668.jpg
+		</thumbnail>
+		<title>Feedback Ultra Adventure</title>
+		<creator>Crazy John Gamer</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055612" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Uncanny/Dolly/Cyborg/10055612.jpg
+		</thumbnail>
+		<title>Shock Titan Adventure</title>
+		<creator>Uncanny Dolly Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="17292491" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dandy/Penny/Minotaur/17292491.jpg
+		</thumbnail>
+		<title>Clash Invasion Ultimate</title>
+		<creator>Dandy Penny Minotaur</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

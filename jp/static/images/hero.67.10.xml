@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17336445" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Expert/Jonathan/Dodo/17336445.jpg
+		</thumbnail>
+		<title>Alien Solar Smash</title>
+		<creator>Expert Jonathan Dodo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922520" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Infinite/Jill/Thorax/10922520.jpg
+		</thumbnail>
+		<title>Swampfire Challenge Hyper</title>
+		<creator>Infinite Jill Thorax</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953468" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grand/Samuel/Penguin/10953468.jpg
+		</thumbnail>
+		<title>Swampfire Mission Challenge</title>
+		<creator>Grand Samuel Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="17536511" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noble/Dan/Tuxedo/17536511.jpg
+		</thumbnail>
+		<title>Rock Storm Pursuit</title>
+		<creator>Noble Dan Tuxedo</creator>
+		<relatedgames/>
+	</game>
+	<game id="16914025" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Smelly/Micah/Hawk/16914025.jpg
+		</thumbnail>
+		<title>Techno Laser Cannonbolt</title>
+		<creator>Smelly Micah Hawk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17364690" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Uncanny/Miguel/Squeegee/17364690.jpg
+		</thumbnail>
+		<title>Champion Fury Power</title>
+		<creator>Uncanny Miguel Squeegee</creator>
+		<relatedgames/>
+	</game>
+	<game id="10064428" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Bouncing/Wesley/Parallax/10064428.jpg
+		</thumbnail>
+		<title>Ben Smash Force</title>
+		<creator>Bouncing Wesley Parallax</creator>
+		<relatedgames/>
+	</game>
+	<game id="17301303" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spicy/Holly/Ion/17301303.jpg
+		</thumbnail>
+		<title>Thunder Drone Charge</title>
+		<creator>Spicy Holly Ion</creator>
+		<relatedgames/>
+	</game>
+	<game id="10040943" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Burly/Bryan/Blob/10040943.jpg
+		</thumbnail>
+		<title>Ultra Swampfire Challenge</title>
+		<creator>Burly Bryan Blob</creator>
+		<relatedgames/>
+	</game>
+	<game id="10040892" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fearless/Jason/Funk/10040892.jpg
+		</thumbnail>
+		<title>Swampfire Blaster Spike</title>
+		<creator>Fearless Jason Funk</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

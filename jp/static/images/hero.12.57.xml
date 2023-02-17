@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17400817" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Healthy/Kyle/Squid/17400817.jpg
+		</thumbnail>
+		<title>Mission Big Chill</title>
+		<creator>Healthy Kyle Squid</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924399" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frosty/Cory/Cyclone/10924399.jpg
+		</thumbnail>
+		<title>Swampfire Spark Star</title>
+		<creator>Frosty Cory Cyclone</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953280" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scary/James/Lavender/10953280.jpg
+		</thumbnail>
+		<title>Steel Smash Magno</title>
+		<creator>Scary James Lavender</creator>
+		<relatedgames/>
+	</game>
+	<game id="17392679" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sublime/Alvin/Amoeba/17392679.jpg
+		</thumbnail>
+		<title>Ben Battle Siege</title>
+		<creator>Sublime Alvin Amoeba</creator>
+		<relatedgames/>
+	</game>
+	<game id="17028951" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Average/Carlos/Behemoth/17028951.jpg
+		</thumbnail>
+		<title>Slam Attack Mission</title>
+		<creator>Average Carlos Behemoth</creator>
+		<relatedgames/>
+	</game>
+	<game id="17554100" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Ingrid/Sludge/17554100.jpg
+		</thumbnail>
+		<title>Burst Storm Spark</title>
+		<creator>Zany Ingrid Sludge</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924138" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eerie/Ben/Tuxedo/10924138.jpg
+		</thumbnail>
+		<title>Battle Beast Nova</title>
+		<creator>Eerie Ben Tuxedo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17550925" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Horrid/Angel/Venus/17550925.jpg
+		</thumbnail>
+		<title>Rescue Nano Echo</title>
+		<creator>Horrid Angel Venus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17408671" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Popular/Brayden/Spleen/17408671.jpg
+		</thumbnail>
+		<title>Stone Siege Laser</title>
+		<creator>Popular Brayden Spleen</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931774" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stylish/Alan/Cosmos/10931774.jpg
+		</thumbnail>
+		<title>Alien Universe Racer</title>
+		<creator>Stylish Alan Cosmos</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

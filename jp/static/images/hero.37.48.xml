@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10649815" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zippy/Sarah/Tuxedo/10649815.jpg
+		</thumbnail>
+		<title>Storm Robot Adventure</title>
+		<creator>Zippy Sarah Tuxedo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17558743" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bashful/Christy/Clone/17558743.jpg
+		</thumbnail>
+		<title>Adventure Alien Adventure</title>
+		<creator>Bashful Christy Clone</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921774" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elegant/Joel/Spumoni/10921774.jpg
+		</thumbnail>
+		<title>Fire Drone Ambush</title>
+		<creator>Elegant Joel Spumoni</creator>
+		<relatedgames/>
+	</game>
+	<game id="17218349" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Odd/Jeremy/Knight/17218349.jpg
+		</thumbnail>
+		<title>Light Atomic Vilgax</title>
+		<creator>Odd Jeremy Knight</creator>
+		<relatedgames/>
+	</game>
+	<game id="17388599" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Luminous/Brooke/Shogun/17388599.jpg
+		</thumbnail>
+		<title>Ultimate Steel Warrior</title>
+		<creator>Luminous Brooke Shogun</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922341" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Weird/Vinny/Spider/10922341.jpg
+		</thumbnail>
+		<title>Atomic Champion Hero</title>
+		<creator>Weird Vinny Spider</creator>
+		<relatedgames/>
+	</game>
+	<game id="17387667" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Captain/Curtis/Skunk/17387667.jpg
+		</thumbnail>
+		<title>Ambush Charge Rescue</title>
+		<creator>Captain Curtis Skunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924453" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dramatic/Luke/Charger/10924453.jpg
+		</thumbnail>
+		<title>Invasion Mission Nova</title>
+		<creator>Dramatic Luke Charger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Zeus/Daffodil/10916921.jpg
+		</thumbnail>
+		<title>Crusher Plumber Force</title>
+		<creator>Chilly Zeus Daffodil</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952867" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frantic/Chester/Walrus/10952867.jpg
+		</thumbnail>
+		<title>Search Nova Champion</title>
+		<creator>Frantic Chester Walrus</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

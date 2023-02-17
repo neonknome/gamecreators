@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17382115" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Galactic/Ben/Panda/17382115.jpg
+		</thumbnail>
+		<title>Giga Alien Rock</title>
+		<creator>Galactic Ben Panda</creator>
+		<relatedgames/>
+	</game>
+	<game id="17305493" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Emperor/Autumn/Mutant/17305493.jpg
+		</thumbnail>
+		<title>Adventure Cosmic Metal</title>
+		<creator>Emperor Autumn Mutant</creator>
+		<relatedgames/>
+	</game>
+	<game id="17331560" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Giggling/Lydia/Rhythm/17331560.jpg
+		</thumbnail>
+		<title>Ultimate Echo Assault</title>
+		<creator>Giggling Lydia Rhythm</creator>
+		<relatedgames/>
+	</game>
+	<game id="10936316" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sincere/Victor/Boing/10936316.jpg
+		</thumbnail>
+		<title>Ambush Iron Lightning</title>
+		<creator>Sincere Victor Boing</creator>
+		<relatedgames/>
+	</game>
+	<game id="10039132" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Bizarre/Caleb/Blammo/10039132.jpg
+		</thumbnail>
+		<title>Ultimate Spark Spike</title>
+		<creator>Bizarre Caleb Blammo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17277603" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eloquent/Parker/Quarry/17277603.jpg
+		</thumbnail>
+		<title>Echo Champion Pulse</title>
+		<creator>Eloquent Parker Quarry</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953074" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gigantic/Felix/Shark/10953074.jpg
+		</thumbnail>
+		<title>Nitro Plasma Light</title>
+		<creator>Gigantic Felix Shark</creator>
+		<relatedgames/>
+	</game>
+	<game id="17581794" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Musical/Bella/Gizzard/17581794.jpg
+		</thumbnail>
+		<title>Doom Target Patrol</title>
+		<creator>Musical Bella Gizzard</creator>
+		<relatedgames/>
+	</game>
+	<game id="17336445" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Expert/Jonathan/Dodo/17336445.jpg
+		</thumbnail>
+		<title>Alien Solar Smash</title>
+		<creator>Expert Jonathan Dodo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17536511" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noble/Dan/Tuxedo/17536511.jpg
+		</thumbnail>
+		<title>Rock Storm Pursuit</title>
+		<creator>Noble Dan Tuxedo</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

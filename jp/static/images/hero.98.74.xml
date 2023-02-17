@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10936010" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Surreal/Ivy/Fury/10936010.jpg
+		</thumbnail>
+		<title>Thunder Giga Swampfire</title>
+		<creator>Surreal Ivy Fury</creator>
+		<relatedgames/>
+	</game>
+	<game id="10950423" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awful/Brittney/Amethyst/10950423.jpg
+		</thumbnail>
+		<title>Robot Force Thunder</title>
+		<creator>Awful Brittney Amethyst</creator>
+		<relatedgames/>
+	</game>
+	<game id="10748430" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Heroic/Igor/Barnacle/10748430.jpg
+		</thumbnail>
+		<title>Champion Danger Alien</title>
+		<creator>Heroic Igor Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952531" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humble/Ramona/Fishbowl/10952531.jpg
+		</thumbnail>
+		<title>Magno Laser Shock</title>
+		<creator>Humble Ramona Fishbowl</creator>
+		<relatedgames/>
+	</game>
+	<game id="17576666" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Prince/Summer/Spider/17576666.jpg
+		</thumbnail>
+		<title>Challenge Star Fury</title>
+		<creator>Prince Summer Spider</creator>
+		<relatedgames/>
+	</game>
+	<game id="17069768" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Superb/Bart/Zigzag/17069768.jpg
+		</thumbnail>
+		<title>Adventure Swampfire Assault</title>
+		<creator>Superb Bart Zigzag</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952706" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zippy/Destiny/Dragon/10952706.jpg
+		</thumbnail>
+		<title>Galaxy Blaster Razor</title>
+		<creator>Zippy Destiny Dragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17305485" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Soggy/Yvette/Magma/17305485.jpg
+		</thumbnail>
+		<title>Rustbucket Lightning Danger</title>
+		<creator>Soggy Yvette Magma</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Mitchell/Ninja/10920120.jpg
+		</thumbnail>
+		<title>Energy Burst Adventure</title>
+		<creator>Red Mitchell Ninja</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922895" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brave/Ernie/Blitz/10922895.jpg
+		</thumbnail>
+		<title>Hyper Spark Hero</title>
+		<creator>Brave Ernie Blitz</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

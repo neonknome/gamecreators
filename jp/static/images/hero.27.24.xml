@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17419559" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Friendly/Felix/Dodo/17419559.jpg
+		</thumbnail>
+		<title>Stone Hero Laser</title>
+		<creator>Friendly Felix Dodo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17014566" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Generous/Carter/Bazooka/17014566.jpg
+		</thumbnail>
+		<title>Stone Rescue Razor</title>
+		<creator>Generous Carter Bazooka</creator>
+		<relatedgames/>
+	</game>
+	<game id="10058578" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Shiny/Rex/Avocado/10058578.jpg
+		</thumbnail>
+		<title>Energy Drone Dark</title>
+		<creator>Shiny Rex Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916905" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Purple/Penny/Citrus/10916905.jpg
+		</thumbnail>
+		<title>Hero Rumble Assault</title>
+		<creator>Purple Penny Citrus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17220310" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Edgy/Sid/Clang/17220310.jpg
+		</thumbnail>
+		<title>Ultra Giga Search</title>
+		<creator>Edgy Sid Clang</creator>
+		<relatedgames/>
+	</game>
+	<game id="16917374" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Galactic/Scarlett/Blast/16917374.jpg
+		</thumbnail>
+		<title>Rocket Burst Adventure</title>
+		<creator>Galactic Scarlett Blast</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928201" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Massive/Joseph/Burst/10928201.jpg
+		</thumbnail>
+		<title>Galaxy Shadow Crusher</title>
+		<creator>Massive Joseph Burst</creator>
+		<relatedgames/>
+	</game>
+	<game id="17378050" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Visible/Luke/Yam/17378050.jpg
+		</thumbnail>
+		<title>Animo Fury Patrol</title>
+		<creator>Visible Luke Yam</creator>
+		<relatedgames/>
+	</game>
+	<game id="17576978" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bumbling/Benton/Kazoo/17576978.jpg
+		</thumbnail>
+		<title>Star Vilgax Spike</title>
+		<creator>Bumbling Benton Kazoo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17305208" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stormy/Anthony/Pizza/17305208.jpg
+		</thumbnail>
+		<title>Pursuit Robot Robot</title>
+		<creator>Stormy Anthony Pizza</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

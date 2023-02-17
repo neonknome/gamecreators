@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10925366" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mighty/Timothy/Mummy/10925366.jpg
+		</thumbnail>
+		<title>Swampfire Plasma Rampage</title>
+		<creator>Mighty Timothy Mummy</creator>
+		<relatedgames/>
+	</game>
+	<game id="10706149" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shrewd/Leah/Acrobat/10706149.jpg
+		</thumbnail>
+		<title>Attack Shadow Smash</title>
+		<creator>Shrewd Leah Acrobat</creator>
+		<relatedgames/>
+	</game>
+	<game id="17257125" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Faith/Camel/17257125.jpg
+		</thumbnail>
+		<title>Vilgax Chase Galaxy</title>
+		<creator>Barbaric Faith Camel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10032562" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Sleepy/Robby/Cobra/10032562.jpg
+		</thumbnail>
+		<title>Challenge Ultra Nano</title>
+		<creator>Sleepy Robby Cobra</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928980" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Rowdy/Larry/Grouch/10928980.jpg
+		</thumbnail>
+		<title>Chase Earth Thunder</title>
+		<creator>Rowdy Larry Grouch</creator>
+		<relatedgames/>
+	</game>
+	<game id="17405008" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Volcanic/Bryce/Oyster/17405008.jpg
+		</thumbnail>
+		<title>Cosmic Sonic Burst</title>
+		<creator>Volcanic Bryce Oyster</creator>
+		<relatedgames/>
+	</game>
+	<game id="17358771" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Peppy/Elmer/Wyvern/17358771.jpg
+		</thumbnail>
+		<title>Burst Whirlwind Vilgax</title>
+		<creator>Peppy Elmer Wyvern</creator>
+		<relatedgames/>
+	</game>
+	<game id="17339068" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Devious/Jason/Shock/17339068.jpg
+		</thumbnail>
+		<title>Plumber Space Techno</title>
+		<creator>Devious Jason Shock</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930210" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Witty/Bert/Parsec/10930210.jpg
+		</thumbnail>
+		<title>Rush Turbo Assault</title>
+		<creator>Witty Bert Parsec</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922511" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cheerful/Morgan/Charger/10922511.jpg
+		</thumbnail>
+		<title>Space Ultra Plumber</title>
+		<creator>Cheerful Morgan Charger</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

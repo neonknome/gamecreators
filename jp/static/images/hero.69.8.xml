@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10069204" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Lucky/Simon/Droid/10069204.jpg
+		</thumbnail>
+		<title>Nano Hex Giga</title>
+		<creator>Lucky Simon Droid</creator>
+		<relatedgames/>
+	</game>
+	<game id="10062600" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Weird/Grover/Monkey/10062600.jpg
+		</thumbnail>
+		<title>Swampfire Fire Universe</title>
+		<creator>Weird Grover Monkey</creator>
+		<relatedgames/>
+	</game>
+	<game id="17540856" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Plucky/Drew/Yak/17540856.jpg
+		</thumbnail>
+		<title>Shadow Steel Crusher</title>
+		<creator>Plucky Drew Yak</creator>
+		<relatedgames/>
+	</game>
+	<game id="17349988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dramatic/Lois/Sword/17349988.jpg
+		</thumbnail>
+		<title>Hero Swampfire Rumble</title>
+		<creator>Dramatic Lois Sword</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952702" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Phyllis/Talon/10952702.jpg
+		</thumbnail>
+		<title>Swampfire Rustbucket Rocket</title>
+		<creator>Chilly Phyllis Talon</creator>
+		<relatedgames/>
+	</game>
+	<game id="16872902" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frantic/Carlos/Anvil/16872902.jpg
+		</thumbnail>
+		<title>Universe Warrior Iron</title>
+		<creator>Frantic Carlos Anvil</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952457" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Lucky/Dennis/Penguin/10952457.jpg
+		</thumbnail>
+		<title>Atomic Ambush Energy</title>
+		<creator>Lucky Dennis Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924819" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pleasant/Dakota/Rumble/10924819.jpg
+		</thumbnail>
+		<title>Champion Rush Slam</title>
+		<creator>Pleasant Dakota Rumble</creator>
+		<relatedgames/>
+	</game>
+	<game id="17407806" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shaggy/Jason/Spleen/17407806.jpg
+		</thumbnail>
+		<title>Sonic Universe Water</title>
+		<creator>Shaggy Jason Spleen</creator>
+		<relatedgames/>
+	</game>
+	<game id="10031707" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Wondrous/Grace/Fizz/10031707.jpg
+		</thumbnail>
+		<title>Lightning Burst Solar</title>
+		<creator>Wondrous Grace Fizz</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

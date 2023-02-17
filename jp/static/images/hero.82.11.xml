@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10935483" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Royal/Bradley/Bullfrog/10935483.jpg
+		</thumbnail>
+		<title>Steel Spike Alien</title>
+		<creator>Royal Bradley Bullfrog</creator>
+		<relatedgames/>
+	</game>
+	<game id="16912533" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Athletic/Luke/Fang/16912533.jpg
+		</thumbnail>
+		<title>Jetray Galaxy Rush</title>
+		<creator>Athletic Luke Fang</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930527" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shaggy/Hunter/Behemoth/10930527.jpg
+		</thumbnail>
+		<title>Pursuit Turbo Swampfire</title>
+		<creator>Shaggy Hunter Behemoth</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935019" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wondrous/Connor/Troll/10935019.jpg
+		</thumbnail>
+		<title>Laser Fire Titan</title>
+		<creator>Wondrous Connor Troll</creator>
+		<relatedgames/>
+	</game>
+	<game id="17303375" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Stanley/Quake/17303375.jpg
+		</thumbnail>
+		<title>Rampage Ambush Charge</title>
+		<creator>Flying Stanley Quake</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942215" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dynamic/Ronald/Cyborg/10942215.jpg
+		</thumbnail>
+		<title>Laser Smash Light</title>
+		<creator>Dynamic Ronald Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10947844" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Funky/William/Buckaroo/10947844.jpg
+		</thumbnail>
+		<title>Defense Light Atomic</title>
+		<creator>Funky William Buckaroo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17137189" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shady/Albert/Iceberg/17137189.jpg
+		</thumbnail>
+		<title>Big Cannonbolt Spike</title>
+		<creator>Shady Albert Iceberg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953158" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awful/Austin/Sphinx/10953158.jpg
+		</thumbnail>
+		<title>Dark Search Spike</title>
+		<creator>Awful Austin Sphinx</creator>
+		<relatedgames/>
+	</game>
+	<game id="10031329" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dynamic/Erik/Crater/10031329.jpg
+		</thumbnail>
+		<title>Invasion Robot Shock</title>
+		<creator>Dynamic Erik Crater</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

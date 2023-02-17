@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17220400" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cunning/Sofia/Pinball/17220400.jpg
+		</thumbnail>
+		<title>Earth Pursuit Warrior</title>
+		<creator>Cunning Sofia Pinball</creator>
+		<relatedgames/>
+	</game>
+	<game id="17585359" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Verbose/Wilt/Bucket/17585359.jpg
+		</thumbnail>
+		<title>Ben Blaster Beast</title>
+		<creator>Verbose Wilt Bucket</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926182" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brawny/Sara/Galaxy/10926182.jpg
+		</thumbnail>
+		<title>Rock Swampfire Magno</title>
+		<creator>Brawny Sara Galaxy</creator>
+		<relatedgames/>
+	</game>
+	<game id="10033985" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Jingling/Gavin/Polliwog/10033985.jpg
+		</thumbnail>
+		<title>Adventure Nano Steel</title>
+		<creator>Jingling Gavin Polliwog</creator>
+		<relatedgames/>
+	</game>
+	<game id="10936424" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nomadic/Zeb/Gong/10936424.jpg
+		</thumbnail>
+		<title>Alien Invasion Warrior</title>
+		<creator>Nomadic Zeb Gong</creator>
+		<relatedgames/>
+	</game>
+	<game id="10938061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Lively/Felix/Cipher/10938061.jpg
+		</thumbnail>
+		<title>Racer Universe Sonic</title>
+		<creator>Lively Felix Cipher</creator>
+		<relatedgames/>
+	</game>
+	<game id="16977289" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Regular/Will/Noob/16977289.jpg
+		</thumbnail>
+		<title>Ultimate Shadow Invasion</title>
+		<creator>Regular Will Noob</creator>
+		<relatedgames/>
+	</game>
+	<game id="17400821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Venomous/Buster/Tarragon/17400821.jpg
+		</thumbnail>
+		<title>Giga Techno Big</title>
+		<creator>Venomous Buster Tarragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916890" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Billy/Glacier/10916890.jpg
+		</thumbnail>
+		<title>Quake Robot Pursuit</title>
+		<creator>Dashing Billy Glacier</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404927" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Captain/Marvin/Cyborg/17404927.jpg
+		</thumbnail>
+		<title>Sonic Target Hero</title>
+		<creator>Captain Marvin Cyborg</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

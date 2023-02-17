@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10931915" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Itchy/Haley/Bamboo/10931915.jpg
+		</thumbnail>
+		<title>Chase Magno Star</title>
+		<creator>Itchy Haley Bamboo</creator>
+		<relatedgames/>
+	</game>
+	<game id="16975496" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quiet/Alex/Wolf/16975496.jpg
+		</thumbnail>
+		<title>Dark Nano Power</title>
+		<creator>Quiet Alex Wolf</creator>
+		<relatedgames/>
+	</game>
+	<game id="17391769" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noisy/Judith/Taco/17391769.jpg
+		</thumbnail>
+		<title>Doom Warp Crusher</title>
+		<creator>Noisy Judith Taco</creator>
+		<relatedgames/>
+	</game>
+	<game id="17195393" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Aerobic/Adriana/Galosh/17195393.jpg
+		</thumbnail>
+		<title>Giga Thunder Breaker</title>
+		<creator>Aerobic Adriana Galosh</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055989" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Valiant/Sterling/Popcorn/10055989.jpg
+		</thumbnail>
+		<title>Spike Force Adventure</title>
+		<creator>Valiant Sterling Popcorn</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926065" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brave/Otis/Elephant/10926065.jpg
+		</thumbnail>
+		<title>Rocket Crusher Fusion</title>
+		<creator>Brave Otis Elephant</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404245" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shy/Buford/Reptile/17404245.jpg
+		</thumbnail>
+		<title>Humungousaur Adventure Adventure</title>
+		<creator>Shy Buford Reptile</creator>
+		<relatedgames/>
+	</game>
+	<game id="17275942" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Timmy/Yak/17275942.jpg
+		</thumbnail>
+		<title>Ben Techno Warrior</title>
+		<creator>Zany Timmy Yak</creator>
+		<relatedgames/>
+	</game>
+	<game id="17227748" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baron/Benjamin/Twilight/17227748.jpg
+		</thumbnail>
+		<title>Whirlwind Giga Chill</title>
+		<creator>Baron Benjamin Twilight</creator>
+		<relatedgames/>
+	</game>
+	<game id="17346658" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Electric/Bailey/Beast/17346658.jpg
+		</thumbnail>
+		<title>Champion Stone Slam</title>
+		<creator>Electric Bailey Beast</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

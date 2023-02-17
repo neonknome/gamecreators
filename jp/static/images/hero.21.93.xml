@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10953659" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hefty/Brandy/Turtle/10953659.jpg
+		</thumbnail>
+		<title>Clash Iron Rescue</title>
+		<creator>Hefty Brandy Turtle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953680" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Orange/Sara/Cyborg/10953680.jpg
+		</thumbnail>
+		<title>Hero Robot Shock</title>
+		<creator>Orange Sara Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="17281287" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Super/Alice/Knight/17281287.jpg
+		</thumbnail>
+		<title>Warrior Swampfire Storm</title>
+		<creator>Super Alice Knight</creator>
+		<relatedgames/>
+	</game>
+	<game id="10068757" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Green/Andy/Tusk/10068757.jpg
+		</thumbnail>
+		<title>Ben Alien Force</title>
+		<creator>Green Andy Tusk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17336600" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Snazzy/Harry/Sawtooth/17336600.jpg
+		</thumbnail>
+		<title>Lightning Racer Rampage</title>
+		<creator>Snazzy Harry Sawtooth</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919825" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Bruce/Ooze/10919825.jpg
+		</thumbnail>
+		<title>Space Turbo Solar</title>
+		<creator>Red Bruce Ooze</creator>
+		<relatedgames/>
+	</game>
+	<game id="17011900" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Expert/Hailey/Knight/17011900.jpg
+		</thumbnail>
+		<title>Plumber Stone Pulse</title>
+		<creator>Expert Hailey Knight</creator>
+		<relatedgames/>
+	</game>
+	<game id="17281265" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Amazing/Alvin/Thing/17281265.jpg
+		</thumbnail>
+		<title>Warrior Spike Mega</title>
+		<creator>Amazing Alvin Thing</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930555" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Drew/Jalapeno/10930555.jpg
+		</thumbnail>
+		<title>Escape Alien Ambush</title>
+		<creator>Daring Drew Jalapeno</creator>
+		<relatedgames/>
+	</game>
+	<game id="10946927" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grand/Mariah/Flipper/10946927.jpg
+		</thumbnail>
+		<title>Atomic Assault Mission</title>
+		<creator>Grand Mariah Flipper</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

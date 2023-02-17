@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10937465" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gigantic/Natalie/Marigold/10937465.jpg
+		</thumbnail>
+		<title>Alien Assault Hero</title>
+		<creator>Gigantic Natalie Marigold</creator>
+		<relatedgames/>
+	</game>
+	<game id="17382354" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Musical/Brian/Warrior/17382354.jpg
+		</thumbnail>
+		<title>Turbo Adventure Stone</title>
+		<creator>Musical Brian Warrior</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953330" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sincere/Noah/Barnacle/10953330.jpg
+		</thumbnail>
+		<title>Plumber Attack Ultimate</title>
+		<creator>Sincere Noah Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17416793" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Abnormal/Jackson/Hippo/17416793.jpg
+		</thumbnail>
+		<title>Razor Attack Challenge</title>
+		<creator>Abnormal Jackson Hippo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952497" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Beastly/Amanda/Barnacle/10952497.jpg
+		</thumbnail>
+		<title>Fusion Patrol Quake</title>
+		<creator>Beastly Amanda Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17585253" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elite/Nicolas/Crater/17585253.jpg
+		</thumbnail>
+		<title>Universe Robot Storm</title>
+		<creator>Elite Nicolas Crater</creator>
+		<relatedgames/>
+	</game>
+	<game id="17237102" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Adjacent/David/Sizzle/17237102.jpg
+		</thumbnail>
+		<title>Space Robot Patrol</title>
+		<creator>Adjacent David Sizzle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17383792" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magical/Otis/Vitamin/17383792.jpg
+		</thumbnail>
+		<title>Vilgax Alien Universe</title>
+		<creator>Magical Otis Vitamin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10948918" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Savage/Gavin/Frost/10948918.jpg
+		</thumbnail>
+		<title>Rumble Mission Champion</title>
+		<creator>Savage Gavin Frost</creator>
+		<relatedgames/>
+	</game>
+	<game id="10937150" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Western/Tommy/Starfish/10937150.jpg
+		</thumbnail>
+		<title>Fusion Razor Light</title>
+		<creator>Western Tommy Starfish</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

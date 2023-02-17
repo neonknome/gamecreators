@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17338102" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/Ichabod/Tiptoe/17338102.jpg
+		</thumbnail>
+		<title>Burst Mega Pursuit</title>
+		<creator>Fiery Ichabod Tiptoe</creator>
+		<relatedgames/>
+	</game>
+	<game id="17259173" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Regular/Alexis/Crash/17259173.jpg
+		</thumbnail>
+		<title>Alien Slam Thunder</title>
+		<creator>Regular Alexis Crash</creator>
+		<relatedgames/>
+	</game>
+	<game id="10932450" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Happy/Steven/Wizard/10932450.jpg
+		</thumbnail>
+		<title>Champion Patrol Rocket</title>
+		<creator>Happy Steven Wizard</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916765" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spooky/Vinny/Porridge/10916765.jpg
+		</thumbnail>
+		<title>Lightning Hero Danger</title>
+		<creator>Spooky Vinny Porridge</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922703" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Aquatic/Xerxes/Beeswax/10922703.jpg
+		</thumbnail>
+		<title>Assault Solar Assault</title>
+		<creator>Aquatic Xerxes Beeswax</creator>
+		<relatedgames/>
+	</game>
+	<game id="17356919" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sassy/Aaron/Baloney/17356919.jpg
+		</thumbnail>
+		<title>Alien Chase Shock</title>
+		<creator>Sassy Aaron Baloney</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922326" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Atomic/Matthew/Goulash/10922326.jpg
+		</thumbnail>
+		<title>Hyper Battle Crusher</title>
+		<creator>Atomic Matthew Goulash</creator>
+		<relatedgames/>
+	</game>
+	<game id="10058843" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dramatic/Matt/Igloo/10058843.jpg
+		</thumbnail>
+		<title>Smash Invasion Plumber</title>
+		<creator>Dramatic Matt Igloo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927274" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Handsome/Noah/Penguin/10927274.jpg
+		</thumbnail>
+		<title>Turbo Assault Burst</title>
+		<creator>Handsome Noah Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="17017625" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strong/Ben/Glop/17017625.jpg
+		</thumbnail>
+		<title>Quake Rush Target</title>
+		<creator>Strong Ben Glop</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

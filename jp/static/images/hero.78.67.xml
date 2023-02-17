@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10924136" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Horrid/Duncan/Squirrel/10924136.jpg
+		</thumbnail>
+		<title>Fury Force Adventure</title>
+		<creator>Horrid Duncan Squirrel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17210216" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hyper/Dexter/Kiwi/17210216.jpg
+		</thumbnail>
+		<title>Target Fury Brainstorm</title>
+		<creator>Hyper Dexter Kiwi</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922797" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Purple/Kevin/Penguin/10922797.jpg
+		</thumbnail>
+		<title>Energy Lightning Galaxy</title>
+		<creator>Purple Kevin Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="17156444" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Athletic/Carl/Fathom/17156444.jpg
+		</thumbnail>
+		<title>Rescue Adventure Turbo</title>
+		<creator>Athletic Carl Fathom</creator>
+		<relatedgames/>
+	</game>
+	<game id="17376817" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Devious/Devon/Glitch/17376817.jpg
+		</thumbnail>
+		<title>Lightning Metal Fusion</title>
+		<creator>Devious Devon Glitch</creator>
+		<relatedgames/>
+	</game>
+	<game id="17336082" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grubby/Clyde/Glop/17336082.jpg
+		</thumbnail>
+		<title>Big Turbo Rush</title>
+		<creator>Grubby Clyde Glop</creator>
+		<relatedgames/>
+	</game>
+	<game id="17328807" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Ellen/Banjo/17328807.jpg
+		</thumbnail>
+		<title>Light Energy Racer</title>
+		<creator>Flying Ellen Banjo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924415" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Robotic/Tom/Wombat/10924415.jpg
+		</thumbnail>
+		<title>Swampfire Sonic Escape</title>
+		<creator>Robotic Tom Wombat</creator>
+		<relatedgames/>
+	</game>
+	<game id="17562599" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Steven/Buffalo/17562599.jpg
+		</thumbnail>
+		<title>Escape Burst Defense</title>
+		<creator>Steven Buffalo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artistic/Leonardo/Zebra/10953481.jpg
+		</thumbnail>
+		<title>Plasma Robot Fusion</title>
+		<creator>Artistic Leonardo Zebra</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

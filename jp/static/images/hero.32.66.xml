@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17232918" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Amusing/Corey/Yoyo/17232918.jpg
+		</thumbnail>
+		<title>Lightning Brainstorm Laser</title>
+		<creator>Amusing Corey Yoyo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953468" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grand/Samuel/Penguin/10953468.jpg
+		</thumbnail>
+		<title>Swampfire Mission Challenge</title>
+		<creator>Grand Samuel Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="17536511" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noble/Dan/Tuxedo/17536511.jpg
+		</thumbnail>
+		<title>Rock Storm Pursuit</title>
+		<creator>Noble Dan Tuxedo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10948057" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fearsome/Rick/Mammoth/10948057.jpg
+		</thumbnail>
+		<title>Plumber Storm Force</title>
+		<creator>Fearsome Rick Mammoth</creator>
+		<relatedgames/>
+	</game>
+	<game id="17364690" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Uncanny/Miguel/Squeegee/17364690.jpg
+		</thumbnail>
+		<title>Champion Fury Power</title>
+		<creator>Uncanny Miguel Squeegee</creator>
+		<relatedgames/>
+	</game>
+	<game id="17418509" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obscure/Jenn/Scout/17418509.jpg
+		</thumbnail>
+		<title>Ultimate Cosmic Challenge</title>
+		<creator>Obscure Jenn Scout</creator>
+		<relatedgames/>
+	</game>
+	<game id="17301303" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spicy/Holly/Ion/17301303.jpg
+		</thumbnail>
+		<title>Thunder Drone Charge</title>
+		<creator>Spicy Holly Ion</creator>
+		<relatedgames/>
+	</game>
+	<game id="17161179" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Galactic/Zeus/Celsius/17161179.jpg
+		</thumbnail>
+		<title>Chill Nano Adventure</title>
+		<creator>Galactic Zeus Celsius</creator>
+		<relatedgames/>
+	</game>
+	<game id="16886061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shiny/Kara/Insect/16886061.jpg
+		</thumbnail>
+		<title>Adventure Pulse Attack</title>
+		<creator>Shiny Kara Insect</creator>
+		<relatedgames/>
+	</game>
+	<game id="17385004" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Purple/Dominic/Gorilla/17385004.jpg
+		</thumbnail>
+		<title>Adventure Adventure Stone</title>
+		<creator>Purple Dominic Gorilla</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

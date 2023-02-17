@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17323636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Drowzy/Yancy/Porridge/17323636.jpg
+		</thumbnail>
+		<title>Rocket Hex Drone</title>
+		<creator>Drowzy Yancy Porridge</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038852" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Magnetic/Alan/Blubber/10038852.jpg
+		</thumbnail>
+		<title>Shock Spark Invasion</title>
+		<creator>Magnetic Alan Blubber</creator>
+		<relatedgames/>
+	</game>
+	<game id="10934766" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Savage/Jacob/Pulse/10934766.jpg
+		</thumbnail>
+		<title>Nova Assault Earth</title>
+		<creator>Savage Jacob Pulse</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926893" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wild/Ernie/Fireball/10926893.jpg
+		</thumbnail>
+		<title>Alien Invasion Mission</title>
+		<creator>Wild Ernie Fireball</creator>
+		<relatedgames/>
+	</game>
+	<game id="17541055" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Infinite/Bill/Scimitar/17541055.jpg
+		</thumbnail>
+		<title>Invasion Titan Adventure</title>
+		<creator>Infinite Bill Scimitar</creator>
+		<relatedgames/>
+	</game>
+	<game id="17418896" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quantum/Scarlett/Nebula/17418896.jpg
+		</thumbnail>
+		<title>Space Space Space</title>
+		<creator>Quantum Scarlett Nebula</creator>
+		<relatedgames/>
+	</game>
+	<game id="17283059" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Towering/Angel/Bucket/17283059.jpg
+		</thumbnail>
+		<title>Fire Metal Crusher</title>
+		<creator>Towering Angel Bucket</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923812" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noble/Bruce/Barnacle/10923812.jpg
+		</thumbnail>
+		<title>Racer Atomic Rocket</title>
+		<creator>Noble Bruce Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17303785" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Active/Kenny/Zinger/17303785.jpg
+		</thumbnail>
+		<title>Mission Ambush Earth</title>
+		<creator>Active Kenny Zinger</creator>
+		<relatedgames/>
+	</game>
+	<game id="17359324" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crazy/Andy/Turbo/17359324.jpg
+		</thumbnail>
+		<title>Streak Drone Adventure</title>
+		<creator>Crazy Andy Turbo</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

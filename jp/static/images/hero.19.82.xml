@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17218349" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Odd/Jeremy/Knight/17218349.jpg
+		</thumbnail>
+		<title>Light Atomic Vilgax</title>
+		<creator>Odd Jeremy Knight</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916765" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spooky/Vinny/Porridge/10916765.jpg
+		</thumbnail>
+		<title>Lightning Hero Danger</title>
+		<creator>Spooky Vinny Porridge</creator>
+		<relatedgames/>
+	</game>
+	<game id="17387667" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Captain/Curtis/Skunk/17387667.jpg
+		</thumbnail>
+		<title>Ambush Charge Rescue</title>
+		<creator>Captain Curtis Skunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17142675" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/King/Thor/Gulch/17142675.jpg
+		</thumbnail>
+		<title>Invasion Assault Clash</title>
+		<creator>King Thor Gulch</creator>
+		<relatedgames/>
+	</game>
+	<game id="17331653" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Electric/Izzy/Coconut/17331653.jpg
+		</thumbnail>
+		<title>Energy Whirlwind Cosmic</title>
+		<creator>Electric Izzy Coconut</creator>
+		<relatedgames/>
+	</game>
+	<game id="16947501" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gentle/Rosetta/Snowball/16947501.jpg
+		</thumbnail>
+		<title>Ultimate Brainstorm Vilgax</title>
+		<creator>Gentle Rosetta Snowball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10056467" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Mirthful/Danielle/Monster/10056467.jpg
+		</thumbnail>
+		<title>Storm Ultimate Fusion</title>
+		<creator>Mirthful Danielle Monster</creator>
+		<relatedgames/>
+	</game>
+	<game id="17311257" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Epic/Igor/Minotaur/17311257.jpg
+		</thumbnail>
+		<title>Adventure Sonic Fury</title>
+		<creator>Epic Igor Minotaur</creator>
+		<relatedgames/>
+	</game>
+	<game id="17389747" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sleepy/William/Tiger/17389747.jpg
+		</thumbnail>
+		<title>Attack Mission Big</title>
+		<creator>Sleepy William Tiger</creator>
+		<relatedgames/>
+	</game>
+	<game id="17333152" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Academic/Edward/Cowboy/17333152.jpg
+		</thumbnail>
+		<title>Ultimate Cannonbolt Rush</title>
+		<creator>Academic Edward Cowboy</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

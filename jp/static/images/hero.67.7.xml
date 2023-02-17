@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10921907" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Bethany/Starfish/10921907.jpg
+		</thumbnail>
+		<title>Slam Star Razor</title>
+		<creator>Chilly Bethany Starfish</creator>
+		<relatedgames/>
+	</game>
+	<game id="10932493" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radiant/Bucky/Cosmos/10932493.jpg
+		</thumbnail>
+		<title>Titan Warrior Pursuit</title>
+		<creator>Radiant Bucky Cosmos</creator>
+		<relatedgames/>
+	</game>
+	<game id="10949434" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crunchy/Angel/Goblin/10949434.jpg
+		</thumbnail>
+		<title>Burst Target Space</title>
+		<creator>Crunchy Angel Goblin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952564" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gloomy/Harry/Bolt/10952564.jpg
+		</thumbnail>
+		<title>Rocket Drone Adventure</title>
+		<creator>Gloomy Harry Bolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="17585376" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Extreme/Vicky/Penguin/17585376.jpg
+		</thumbnail>
+		<title>Magno Rock Patrol</title>
+		<creator>Extreme Vicky Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923067" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Green/Milo/Quake/10923067.jpg
+		</thumbnail>
+		<title>Defense Shock Droid</title>
+		<creator>Green Milo Quake</creator>
+		<relatedgames/>
+	</game>
+	<game id="17310960" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Solar/Mario/Avator/17310960.jpg
+		</thumbnail>
+		<title>Ultimate Turbo Storm</title>
+		<creator>Solar Mario Avator</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951370" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Nick/Aurora/10951370.jpg
+		</thumbnail>
+		<title>Energy Breaker Warrior</title>
+		<creator>Red Nick Aurora</creator>
+		<relatedgames/>
+	</game>
+	<game id="17146824" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Extreme/Alan/Avocado/17146824.jpg
+		</thumbnail>
+		<title>Hyper Adventure Chase</title>
+		<creator>Extreme Alan Avocado</creator>
+		<relatedgames/>
+	</game>
+	<game id="17399252" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ancient/Marco/Bingo/17399252.jpg
+		</thumbnail>
+		<title>Turbo Target Defense</title>
+		<creator>Ancient Marco Bingo</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

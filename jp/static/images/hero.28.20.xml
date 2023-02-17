@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17418896" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quantum/Scarlett/Nebula/17418896.jpg
+		</thumbnail>
+		<title>Space Space Space</title>
+		<creator>Quantum Scarlett Nebula</creator>
+		<relatedgames/>
+	</game>
+	<game id="17359324" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crazy/Andy/Turbo/17359324.jpg
+		</thumbnail>
+		<title>Streak Drone Adventure</title>
+		<creator>Crazy Andy Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17361579" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ultimate/Waldo/Firefly/17361579.jpg
+		</thumbnail>
+		<title>Cosmic Adventure Sonic</title>
+		<creator>Ultimate Waldo Firefly</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921299" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dainty/Rachel/Ladybug/10921299.jpg
+		</thumbnail>
+		<title>Rumble Chase Assault</title>
+		<creator>Dainty Rachel Ladybug</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930139" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Yellow/Zelda/Bullfrog/10930139.jpg
+		</thumbnail>
+		<title>Ultra Challenge Storm</title>
+		<creator>Yellow Zelda Bullfrog</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Zeus/Daffodil/10916921.jpg
+		</thumbnail>
+		<title>Crusher Plumber Force</title>
+		<creator>Chilly Zeus Daffodil</creator>
+		<relatedgames/>
+	</game>
+	<game id="17219398" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Lucky/Dennis/Penguin/17219398.jpg
+		</thumbnail>
+		<title>Power Cosmic Lightning</title>
+		<creator>Lucky Dennis Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951251" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Joel/Dynamite/10951251.jpg
+		</thumbnail>
+		<title>Mega Space Rumble</title>
+		<creator>Honest Joel Dynamite</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933919" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pleasant/Jeffrey/Goblin/10933919.jpg
+		</thumbnail>
+		<title>Battle Drone Ultra</title>
+		<creator>Pleasant Jeffrey Goblin</creator>
+		<relatedgames/>
+	</game>
+	<game id="17017625" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strong/Ben/Glop/17017625.jpg
+		</thumbnail>
+		<title>Quake Rush Target</title>
+		<creator>Strong Ben Glop</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10705689" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Adrian/Shark/10705689.jpg
+		</thumbnail>
+		<title>Ultra Target Danger</title>
+		<creator>Honest Adrian Shark</creator>
+		<relatedgames/>
+	</game>
+	<game id="10932051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Funny/Sam/Bramble/10932051.jpg
+		</thumbnail>
+		<title>Razor Fire Titan</title>
+		<creator>Funny Sam Bramble</creator>
+		<relatedgames/>
+	</game>
+	<game id="10059447" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Surreal/Max/Tusk/10059447.jpg
+		</thumbnail>
+		<title>Doom Doom Siege</title>
+		<creator>Surreal Max Tusk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10950902" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awful/Dylan/Sprinkle/10950902.jpg
+		</thumbnail>
+		<title>Hyper Thunder Assault</title>
+		<creator>Awful Dylan Sprinkle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17334444" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Able/Mordecai/Vapor/17334444.jpg
+		</thumbnail>
+		<title>Adventure Rush Terraspin</title>
+		<creator>Able Mordecai Vapor</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924653" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elegant/Salvador/Volcano/10924653.jpg
+		</thumbnail>
+		<title>Swampfire Fury Adventure</title>
+		<creator>Elegant Salvador Volcano</creator>
+		<relatedgames/>
+	</game>
+	<game id="16843442" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humble/Thor/Cyclone/16843442.jpg
+		</thumbnail>
+		<title>Chill Razor Shadow</title>
+		<creator>Humble Thor Cyclone</creator>
+		<relatedgames/>
+	</game>
+	<game id="17071572" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Princess/George/Turbo/17071572.jpg
+		</thumbnail>
+		<title>Vilgax Force Rush</title>
+		<creator>Princess George Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17344012" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Superior/Milo/Sprout/17344012.jpg
+		</thumbnail>
+		<title>Universe Crusher Atomic</title>
+		<creator>Superior Milo Sprout</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928607" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mumbling/Ace/Cactus/10928607.jpg
+		</thumbnail>
+		<title>Warp Solar Steel</title>
+		<creator>Mumbling Ace Cactus</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

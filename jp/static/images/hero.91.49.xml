@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10048804" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Twisty/John/Mustang/10048804.jpg
+		</thumbnail>
+		<title>Robot Attack Mission</title>
+		<creator>Twisty John Mustang</creator>
+		<relatedgames/>
+	</game>
+	<game id="17218057" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Enormous/Quincy/Yak/17218057.jpg
+		</thumbnail>
+		<title>Chill Animo Iron</title>
+		<creator>Enormous Quincy Yak</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953238" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Bob/Virtuoso/10953238.jpg
+		</thumbnail>
+		<title>Assault Siege Fury</title>
+		<creator>Alien Bob Virtuoso</creator>
+		<relatedgames/>
+	</game>
+	<game id="17303802" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cunning/Ian/Burst/17303802.jpg
+		</thumbnail>
+		<title>Storm Assault Iron</title>
+		<creator>Cunning Ian Burst</creator>
+		<relatedgames/>
+	</game>
+	<game id="10039390" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Glorious/Gulliver/Gorilla/10039390.jpg
+		</thumbnail>
+		<title>Solar Storm Hero</title>
+		<creator>Glorious Gulliver Gorilla</creator>
+		<relatedgames/>
+	</game>
+	<game id="10950423" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awful/Brittney/Amethyst/10950423.jpg
+		</thumbnail>
+		<title>Robot Force Thunder</title>
+		<creator>Awful Brittney Amethyst</creator>
+		<relatedgames/>
+	</game>
+	<game id="10748430" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Heroic/Igor/Barnacle/10748430.jpg
+		</thumbnail>
+		<title>Champion Danger Alien</title>
+		<creator>Heroic Igor Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17094971" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Peculiar/Edd/Pontoon/17094971.jpg
+		</thumbnail>
+		<title>Jetray Hero Galaxy</title>
+		<creator>Peculiar Edd Pontoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10046385" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Majestic/Chelsea/Squawk/10046385.jpg
+		</thumbnail>
+		<title>Atomic Slam Space</title>
+		<creator>Majestic Chelsea Squawk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919681" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wise/Jasmine/Blob/10919681.jpg
+		</thumbnail>
+		<title>Breaker Dark Challenge</title>
+		<creator>Wise Jasmine Blob</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

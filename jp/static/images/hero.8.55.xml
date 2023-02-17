@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17303818" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Extinct/Coco/Spider/17303818.jpg
+		</thumbnail>
+		<title>Attack Chill Adventure</title>
+		<creator>Extinct Coco Spider</creator>
+		<relatedgames/>
+	</game>
+	<game id="10043263" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Infinite/Polly/Monster/10043263.jpg
+		</thumbnail>
+		<title>Alien Force Battle</title>
+		<creator>Infinite Polly Monster</creator>
+		<relatedgames/>
+	</game>
+	<game id="16918793" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grand/Xavier/Ooze/16918793.jpg
+		</thumbnail>
+		<title>Chill Adventure Rocket</title>
+		<creator>Grand Xavier Ooze</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926558" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noble/Holly/Universe/10926558.jpg
+		</thumbnail>
+		<title>Drone Swampfire Universe</title>
+		<creator>Noble Holly Universe</creator>
+		<relatedgames/>
+	</game>
+	<game id="17378211" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Snappy/Sherman/Noodle/17378211.jpg
+		</thumbnail>
+		<title>Swampfire Alien Adventure</title>
+		<creator>Snappy Sherman Noodle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17237102" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Adjacent/David/Sizzle/17237102.jpg
+		</thumbnail>
+		<title>Space Robot Patrol</title>
+		<creator>Adjacent David Sizzle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17555980" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brainy/George/Jamboree/17555980.jpg
+		</thumbnail>
+		<title>Giga Atomic Invasion</title>
+		<creator>Brainy George Jamboree</creator>
+		<relatedgames/>
+	</game>
+	<game id="10061528" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Shiny/Owen/Gargoyle/10061528.jpg
+		</thumbnail>
+		<title>Thunder Invasion Sonic</title>
+		<creator>Shiny Owen Gargoyle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17392032" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Edgy/Cody/Reptile/17392032.jpg
+		</thumbnail>
+		<title>Fusion Burst Force</title>
+		<creator>Edgy Cody Reptile</creator>
+		<relatedgames/>
+	</game>
+	<game id="17019676" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Galactic/Luis/Twilight/17019676.jpg
+		</thumbnail>
+		<title>Nano Space Ambush</title>
+		<creator>Galactic Luis Twilight</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

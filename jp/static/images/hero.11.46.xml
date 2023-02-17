@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10952649" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Megan/Octopus/10952649.jpg
+		</thumbnail>
+		<title>Rampage Charge Earth</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931541" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Splendid/Donald/Whizbang/10931541.jpg
+		</thumbnail>
+		<title>Rampage Assault Thunder</title>
+		<creator>Splendid Donald Whizbang</creator>
+		<relatedgames/>
+	</game>
+	<game id="17381782" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cagey/Aiden/Bramble/17381782.jpg
+		</thumbnail>
+		<title>Swampfire Assault Force</title>
+		<creator>Cagey Aiden Bramble</creator>
+		<relatedgames/>
+	</game>
+	<game id="17387464" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Feisty/Michelle/Ketchup/17387464.jpg
+		</thumbnail>
+		<title>Water Droid Defense</title>
+		<creator>Feisty Michelle Ketchup</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038692" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Atomic/Caleb/Bonkers/10038692.jpg
+		</thumbnail>
+		<title>Breaker Galaxy Fire</title>
+		<creator>Atomic Caleb Bonkers</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916719" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Anthony/Goofball/10916719.jpg
+		</thumbnail>
+		<title>Swampfire Rampage Chase</title>
+		<creator>Obvious Anthony Goofball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10047191" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Lovely/Emma/Zebra/10047191.jpg
+		</thumbnail>
+		<title>Ultra Alien Ambush</title>
+		<creator>Lovely Emma Zebra</creator>
+		<relatedgames/>
+	</game>
+	<game id="17405008" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Volcanic/Bryce/Oyster/17405008.jpg
+		</thumbnail>
+		<title>Cosmic Sonic Burst</title>
+		<creator>Volcanic Bryce Oyster</creator>
+		<relatedgames/>
+	</game>
+	<game id="17358771" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Peppy/Elmer/Wyvern/17358771.jpg
+		</thumbnail>
+		<title>Burst Whirlwind Vilgax</title>
+		<creator>Peppy Elmer Wyvern</creator>
+		<relatedgames/>
+	</game>
+	<game id="10917011" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stout/Wilbur/Oddball/10917011.jpg
+		</thumbnail>
+		<title>Fire Alien Sonic</title>
+		<creator>Stout Wilbur Oddball</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

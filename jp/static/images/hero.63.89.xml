@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10952842" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proper/Brandon/Thud/10952842.jpg
+		</thumbnail>
+		<title>Pursuit Beast Rumble</title>
+		<creator>Proper Brandon Thud</creator>
+		<relatedgames/>
+	</game>
+	<game id="17372198" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Surreal/Yolanda/Panda/17372198.jpg
+		</thumbnail>
+		<title>Giga Giga Giga</title>
+		<creator>Surreal Yolanda Panda</creator>
+		<relatedgames/>
+	</game>
+	<game id="17378379" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spectral/Calvin/Android/17378379.jpg
+		</thumbnail>
+		<title>Iron Clash Sonic</title>
+		<creator>Spectral Calvin Android</creator>
+		<relatedgames/>
+	</game>
+	<game id="10706060" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brawny/Chad/Porridge/10706060.jpg
+		</thumbnail>
+		<title>Nova Solar Invasion</title>
+		<creator>Brawny Chad Porridge</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916862" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Squishy/Andrew/Bullfrog/10916862.jpg
+		</thumbnail>
+		<title>Magno Techno Beast</title>
+		<creator>Squishy Andrew Bullfrog</creator>
+		<relatedgames/>
+	</game>
+	<game id="17000233" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artful/Julia/Mars/17000233.jpg
+		</thumbnail>
+		<title>Adventure Cosmic Alien</title>
+		<creator>Artful Julia Mars</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927817" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grimy/Blake/Tornado/10927817.jpg
+		</thumbnail>
+		<title>Patrol Energy Magno</title>
+		<creator>Grimy Blake Tornado</creator>
+		<relatedgames/>
+	</game>
+	<game id="10055801" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Lanky/Ted/Phantom/10055801.jpg
+		</thumbnail>
+		<title>Galaxy Shadow Rush</title>
+		<creator>Lanky Ted Phantom</creator>
+		<relatedgames/>
+	</game>
+	<game id="10932450" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Happy/Steven/Wizard/10932450.jpg
+		</thumbnail>
+		<title>Champion Patrol Rocket</title>
+		<creator>Happy Steven Wizard</creator>
+		<relatedgames/>
+	</game>
+	<game id="17218349" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Odd/Jeremy/Knight/17218349.jpg
+		</thumbnail>
+		<title>Light Atomic Vilgax</title>
+		<creator>Odd Jeremy Knight</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10923558" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Benjamin/Ballyhoo/10923558.jpg
+		</thumbnail>
+		<title>Swampfire Hero Adventure</title>
+		<creator>Humorous Benjamin Ballyhoo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17383531" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Princess/Melanie/Penguin/17383531.jpg
+		</thumbnail>
+		<title>Battle Chill Search</title>
+		<creator>Princess Melanie Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Surreal/Grace/Flypaper/10924687.jpg
+		</thumbnail>
+		<title>Clash Alien Adventure</title>
+		<creator>Surreal Grace Flypaper</creator>
+		<relatedgames/>
+	</game>
+	<game id="10649815" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zippy/Sarah/Tuxedo/10649815.jpg
+		</thumbnail>
+		<title>Storm Robot Adventure</title>
+		<creator>Zippy Sarah Tuxedo</creator>
+		<relatedgames/>
+	</game>
+	<game id="16900941" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Comical/Ariana/Brine/16900941.jpg
+		</thumbnail>
+		<title>Rocket Quake Smash</title>
+		<creator>Comical Ariana Brine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925842" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frugal/Sean/Volcano/10925842.jpg
+		</thumbnail>
+		<title>Swampfire Doom Adventure</title>
+		<creator>Frugal Sean Volcano</creator>
+		<relatedgames/>
+	</game>
+	<game id="17244101" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Prince/Dan/Galaxy/17244101.jpg
+		</thumbnail>
+		<title>Ultimate Quake Mission</title>
+		<creator>Prince Dan Galaxy</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Puzzling/Marsha/Nibbles/10931049.jpg
+		</thumbnail>
+		<title>Nitro Attack Alien</title>
+		<creator>Puzzling Marsha Nibbles</creator>
+		<relatedgames/>
+	</game>
+	<game id="17133581" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Titanic/Clyde/Dwarf/17133581.jpg
+		</thumbnail>
+		<title>Adventure Smash Burst</title>
+		<creator>Titanic Clyde Dwarf</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925450" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Handsome/Noah/Penguin/10925450.jpg
+		</thumbnail>
+		<title>Rocket Ultimate Assault</title>
+		<creator>Handsome Noah Penguin</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

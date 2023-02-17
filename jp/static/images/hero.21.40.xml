@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17414730" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Complex/James/Karate/17414730.jpg
+		</thumbnail>
+		<title>Mega Ambush Mission</title>
+		<creator>Complex James Karate</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953223" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fuzzy/Adrian/Fritter/10953223.jpg
+		</thumbnail>
+		<title>Galaxy Storm Iron</title>
+		<creator>Fuzzy Adrian Fritter</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923074" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elusive/James/Vector/10923074.jpg
+		</thumbnail>
+		<title>Target Adventure Dark</title>
+		<creator>Elusive James Vector</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953258" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sincere/Noah/Barnacle/10953258.jpg
+		</thumbnail>
+		<title>Charge Robot Slam</title>
+		<creator>Sincere Noah Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17387237" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elite/Marcus/Balloon/17387237.jpg
+		</thumbnail>
+		<title>Star Slam Space</title>
+		<creator>Elite Marcus Balloon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953231" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Orange/Donald/Pinwheel/10953231.jpg
+		</thumbnail>
+		<title>Ultimate Dark Nano</title>
+		<creator>Orange Donald Pinwheel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952930" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Western/Leon/Figment/10952930.jpg
+		</thumbnail>
+		<title>Assault Streak Siege</title>
+		<creator>Western Leon Figment</creator>
+		<relatedgames/>
+	</game>
+	<game id="16971326" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Captain/Tony/Bucket/16971326.jpg
+		</thumbnail>
+		<title>Cosmic Gear Quake</title>
+		<creator>Captain Tony Bucket</creator>
+		<relatedgames/>
+	</game>
+	<game id="17254961" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/DJ/Yam/17254961.jpg
+		</thumbnail>
+		<title>Blaster Clash Mega</title>
+		<creator>Fiery DJ Yam</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918533" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Odd/Gary/Pirate/10918533.jpg
+		</thumbnail>
+		<title>Quake Danger Battle</title>
+		<creator>Odd Gary Pirate</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

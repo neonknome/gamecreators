@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17225306" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Omar/Apple/17225306.jpg
+		</thumbnail>
+		<title>Charge Assault Stone</title>
+		<creator>Omar Apple</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916890" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Billy/Glacier/10916890.jpg
+		</thumbnail>
+		<title>Quake Robot Pursuit</title>
+		<creator>Dashing Billy Glacier</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Western/Leon/Figment/10952821.jpg
+		</thumbnail>
+		<title>Battle Force Doom</title>
+		<creator>Western Leon Figment</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404927" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Captain/Marvin/Cyborg/17404927.jpg
+		</thumbnail>
+		<title>Sonic Target Hero</title>
+		<creator>Captain Marvin Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="16948692" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/Alyssa/Blammo/16948692.jpg
+		</thumbnail>
+		<title>Rush Breaker Storm</title>
+		<creator>Fiery Alyssa Blammo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17389503" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Lanky/Flint/Gorgon/17389503.jpg
+		</thumbnail>
+		<title>Stone Nova Star</title>
+		<creator>Lanky Flint Gorgon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10063164" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Lucky/Mary/Zeppelin/10063164.jpg
+		</thumbnail>
+		<title>Ambush Stone Plumber</title>
+		<creator>Lucky Mary Zeppelin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10936585" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Rugged/Dakota/Doodle/10936585.jpg
+		</thumbnail>
+		<title>Robot Rumble Rampage</title>
+		<creator>Rugged Dakota Doodle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952349" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Weird/Greg/Kangaroo/10952349.jpg
+		</thumbnail>
+		<title>Earth Turbo Invasion</title>
+		<creator>Weird Greg Kangaroo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10950848" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dramatic/Gladys/Turbo/10950848.jpg
+		</thumbnail>
+		<title>Mega Rescue Thunder</title>
+		<creator>Dramatic Gladys Turbo</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

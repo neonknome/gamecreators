@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10923812" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noble/Bruce/Barnacle/10923812.jpg
+		</thumbnail>
+		<title>Racer Atomic Rocket</title>
+		<creator>Noble Bruce Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919791" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sly/Wesley/Tiptoe/10919791.jpg
+		</thumbnail>
+		<title>Lightning Energy Invasion</title>
+		<creator>Sly Wesley Tiptoe</creator>
+		<relatedgames/>
+	</game>
+	<game id="17303785" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Active/Kenny/Zinger/17303785.jpg
+		</thumbnail>
+		<title>Mission Ambush Earth</title>
+		<creator>Active Kenny Zinger</creator>
+		<relatedgames/>
+	</game>
+	<game id="17234140" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bouncing/Franklin/Nibbles/17234140.jpg
+		</thumbnail>
+		<title>Universe Ultimate Power</title>
+		<creator>Bouncing Franklin Nibbles</creator>
+		<relatedgames/>
+	</game>
+	<game id="17574176" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Evil/Brandon/Rhombus/17574176.jpg
+		</thumbnail>
+		<title>Rocket Search Siege</title>
+		<creator>Evil Brandon Rhombus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17584644" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Plucky/Romeo/Aviator/17584644.jpg
+		</thumbnail>
+		<title>Big Chill Power</title>
+		<creator>Plucky Romeo Aviator</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922326" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Atomic/Matthew/Goulash/10922326.jpg
+		</thumbnail>
+		<title>Hyper Battle Crusher</title>
+		<creator>Atomic Matthew Goulash</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919042" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shiny/Baxter/Wombat/10919042.jpg
+		</thumbnail>
+		<title>Nitro Pulse Assault</title>
+		<creator>Shiny Baxter Wombat</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952923" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frantic/Chester/Walrus/10952923.jpg
+		</thumbnail>
+		<title>Rustbucket Siege Ben</title>
+		<creator>Frantic Chester Walrus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10941646" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eastern/Ace/Mantis/10941646.jpg
+		</thumbnail>
+		<title>Ultra Rumble Universe</title>
+		<creator>Eastern Ace Mantis</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17362287" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artful/Timmy/Daffodil/17362287.jpg
+		</thumbnail>
+		<title>Drone Mission Vilgax</title>
+		<creator>Artful Timmy Daffodil</creator>
+		<relatedgames/>
+	</game>
+	<game id="16950338" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Angelica/Castle/16950338.jpg
+		</thumbnail>
+		<title>Star Atomic Animo</title>
+		<creator>Dazzling Angelica Castle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17318985" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grizzly/Eugene/Banzai/17318985.jpg
+		</thumbnail>
+		<title>Escape Star Thunder</title>
+		<creator>Grizzly Eugene Banzai</creator>
+		<relatedgames/>
+	</game>
+	<game id="17103443" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/Lucius/Tiger/17103443.jpg
+		</thumbnail>
+		<title>Fury Echo Whirlwind</title>
+		<creator>Fiery Lucius Tiger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933527" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reliable/Jeff/Pulse/10933527.jpg
+		</thumbnail>
+		<title>Warrior Rocket Adventure</title>
+		<creator>Reliable Jeff Pulse</creator>
+		<relatedgames/>
+	</game>
+	<game id="17246245" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artful/Anna/Cosmos/17246245.jpg
+		</thumbnail>
+		<title>Rampage Nitro Storm</title>
+		<creator>Artful Anna Cosmos</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933602" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dreadful/Joshua/Techno/10933602.jpg
+		</thumbnail>
+		<title>Swampfire Ultimate Chase</title>
+		<creator>Dreadful Joshua Techno</creator>
+		<relatedgames/>
+	</game>
+	<game id="10058809" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Happy/Simon/Steam/10058809.jpg
+		</thumbnail>
+		<title>Swampfire Blaster Smash</title>
+		<creator>Happy Simon Steam</creator>
+		<relatedgames/>
+	</game>
+	<game id="10069216" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Spooky/Kelly/Ketchup/10069216.jpg
+		</thumbnail>
+		<title>Earth Rustbucket Spark</title>
+		<creator>Spooky Kelly Ketchup</creator>
+		<relatedgames/>
+	</game>
+	<game id="17278910" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Captain/Connor/Charger/17278910.jpg
+		</thumbnail>
+		<title>Thunder Mega Champion</title>
+		<creator>Captain Connor Charger</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

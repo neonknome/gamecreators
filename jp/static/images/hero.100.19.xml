@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17363619" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Icy/Bridget/Atlas/17363619.jpg
+		</thumbnail>
+		<title>Ultimate Space Alien</title>
+		<creator>Icy Bridget Atlas</creator>
+		<relatedgames/>
+	</game>
+	<game id="17335398" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Golden/Dominic/Giblets/17335398.jpg
+		</thumbnail>
+		<title>Danger Champion Thunder</title>
+		<creator>Golden Dominic Giblets</creator>
+		<relatedgames/>
+	</game>
+	<game id="17562509" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nervous/Dora/Scimitar/17562509.jpg
+		</thumbnail>
+		<title>Warrior Nova Crusher</title>
+		<creator>Nervous Dora Scimitar</creator>
+		<relatedgames/>
+	</game>
+	<game id="17402614" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sloppy/Anna/Gizzard/17402614.jpg
+		</thumbnail>
+		<title>Battle Pursuit Quake</title>
+		<creator>Sloppy Anna Gizzard</creator>
+		<relatedgames/>
+	</game>
+	<game id="17076960" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bold/Bobby/Yoyo/17076960.jpg
+		</thumbnail>
+		<title>Pulse Gear Nova</title>
+		<creator>Bold Bobby Yoyo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17343024" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spectral/Don/Goblin/17343024.jpg
+		</thumbnail>
+		<title>Cosmic Rock Breaker</title>
+		<creator>Spectral Don Goblin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953099" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Majestic/Minerva/Sphere/10953099.jpg
+		</thumbnail>
+		<title>Fire Rush Ultimate</title>
+		<creator>Majestic Minerva Sphere</creator>
+		<relatedgames/>
+	</game>
+	<game id="17332543" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shaggy/Dominic/Ion/17332543.jpg
+		</thumbnail>
+		<title>Escape Light Adventure</title>
+		<creator>Shaggy Dominic Ion</creator>
+		<relatedgames/>
+	</game>
+	<game id="17415966" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Witty/Marco/Shadow/17415966.jpg
+		</thumbnail>
+		<title>Slam Attack Warp</title>
+		<creator>Witty Marco Shadow</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038161" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dynamic/Matt/Aardvark/10038161.jpg
+		</thumbnail>
+		<title>Warrior Ultra Laser</title>
+		<creator>Dynamic Matt Aardvark</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

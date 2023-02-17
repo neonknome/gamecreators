@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10921330" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Modest/Shawn/Doodle/10921330.jpg
+		</thumbnail>
+		<title>Steel Breaker Earth</title>
+		<creator>Modest Shawn Doodle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952750" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zippy/Destiny/Dragon/10952750.jpg
+		</thumbnail>
+		<title>Warp Energy Star</title>
+		<creator>Zippy Destiny Dragon</creator>
+		<relatedgames/>
+	</game>
+	<game id="17551194" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Pete/Shovel/17551194.jpg
+		</thumbnail>
+		<title>Nano Adventure Omniverse</title>
+		<creator>Colossal Pete Shovel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17395502" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Titanic/Hercules/Steel/17395502.jpg
+		</thumbnail>
+		<title>Gear Iron Hero</title>
+		<creator>Titanic Hercules Steel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10058625" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cranky/Rob/Tractor/10058625.jpg
+		</thumbnail>
+		<title>Charge Gear Shock</title>
+		<creator>Cranky Rob Tractor</creator>
+		<relatedgames/>
+	</game>
+	<game id="17340152" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Icy/Ernest/Behemoth/17340152.jpg
+		</thumbnail>
+		<title>Fury Stone Shadow</title>
+		<creator>Icy Ernest Behemoth</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931089" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Puzzling/Gigi/Thunder/10931089.jpg
+		</thumbnail>
+		<title>Rustbucket Quake Magno</title>
+		<creator>Puzzling Gigi Thunder</creator>
+		<relatedgames/>
+	</game>
+	<game id="17056202" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tireless/Ruby/Phoenix/17056202.jpg
+		</thumbnail>
+		<title>Clash Nitro Drone</title>
+		<creator>Tireless Ruby Phoenix</creator>
+		<relatedgames/>
+	</game>
+	<game id="17408837" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cranky/Conrad/17408837.jpg
+		</thumbnail>
+		<title>Racer Siege Rock</title>
+		<creator>Cranky Conrad</creator>
+		<relatedgames/>
+	</game>
+	<game id="10057035" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Generous/Justin/Coconut/10057035.jpg
+		</thumbnail>
+		<title>Atomic Adventure Alien</title>
+		<creator>Generous Justin Coconut</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

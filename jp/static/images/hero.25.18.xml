@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10055588" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Hectic/Cathy/Zigzag/10055588.jpg
+		</thumbnail>
+		<title>Beast Sonic Magno</title>
+		<creator>Hectic Cathy Zigzag</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916748" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frosty/Lillian/Crash/10916748.jpg
+		</thumbnail>
+		<title>Doom Blaster Rumble</title>
+		<creator>Frosty Lillian Crash</creator>
+		<relatedgames/>
+	</game>
+	<game id="17322825" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Subtle/Apollo/Yoyo/17322825.jpg
+		</thumbnail>
+		<title>Nitro Battle Rock</title>
+		<creator>Subtle Apollo Yoyo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17027011" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Average/Cheyenne/Chutney/17027011.jpg
+		</thumbnail>
+		<title>Big Warrior Alien</title>
+		<creator>Average Cheyenne Chutney</creator>
+		<relatedgames/>
+	</game>
+	<game id="10748197" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Isaac/Flipper/10748197.jpg
+		</thumbnail>
+		<title>Fire Rescue Chase</title>
+		<creator>Zany Isaac Flipper</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925521" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eerie/Dominic/Quack/10925521.jpg
+		</thumbnail>
+		<title>Turbo Titan Patrol</title>
+		<creator>Eerie Dominic Quack</creator>
+		<relatedgames/>
+	</game>
+	<game id="10044541" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Horrid/Bernard/Buffalo/10044541.jpg
+		</thumbnail>
+		<title>Robot Rumble Galaxy</title>
+		<creator>Horrid Bernard Buffalo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17334361" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Popular/Mary/Frog/17334361.jpg
+		</thumbnail>
+		<title>Animo Giga Adventure</title>
+		<creator>Popular Mary Frog</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916680" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stylish/Hank/Gorilla/10916680.jpg
+		</thumbnail>
+		<title>Beast Alien Nitro</title>
+		<creator>Stylish Hank Gorilla</creator>
+		<relatedgames/>
+	</game>
+	<game id="10034816" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Merry/Bjorn/Witch/10034816.jpg
+		</thumbnail>
+		<title>Fire Blaster Force</title>
+		<creator>Merry Bjorn Witch</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

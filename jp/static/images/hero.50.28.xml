@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17400901" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Flying/Riley/17400901.jpg
+		</thumbnail>
+		<title>Shadow Clash Atomic</title>
+		<creator>Flying Riley</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953277" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Southern/Shelby/Saber/10953277.jpg
+		</thumbnail>
+		<title>Nova Thunder Vilgax</title>
+		<creator>Southern Shelby Saber</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952564" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gloomy/Harry/Bolt/10952564.jpg
+		</thumbnail>
+		<title>Rocket Drone Adventure</title>
+		<creator>Gloomy Harry Bolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="17585376" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Extreme/Vicky/Penguin/17585376.jpg
+		</thumbnail>
+		<title>Magno Rock Patrol</title>
+		<creator>Extreme Vicky Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923067" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Green/Milo/Quake/10923067.jpg
+		</thumbnail>
+		<title>Defense Shock Droid</title>
+		<creator>Green Milo Quake</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918948" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noisy/Jared/Squish/10918948.jpg
+		</thumbnail>
+		<title>Danger Energy Metal</title>
+		<creator>Noisy Jared Squish</creator>
+		<relatedgames/>
+	</game>
+	<game id="17310960" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Solar/Mario/Avator/17310960.jpg
+		</thumbnail>
+		<title>Ultimate Turbo Storm</title>
+		<creator>Solar Mario Avator</creator>
+		<relatedgames/>
+	</game>
+	<game id="10793354" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Adorable/Rosemary/Vittles/10793354.jpg
+		</thumbnail>
+		<title>Energy Rocket Thunder</title>
+		<creator>Adorable Rosemary Vittles</creator>
+		<relatedgames/>
+	</game>
+	<game id="10920076" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brave/Jamie/Klunk/10920076.jpg
+		</thumbnail>
+		<title>Power Dark Robot</title>
+		<creator>Brave Jamie Klunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17146824" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Extreme/Alan/Avocado/17146824.jpg
+		</thumbnail>
+		<title>Hyper Adventure Chase</title>
+		<creator>Extreme Alan Avocado</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17257764" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Reuben/Knight/17257764.jpg
+		</thumbnail>
+		<title>Ben Pursuit Titan</title>
+		<creator>Dashing Reuben Knight</creator>
+		<relatedgames/>
+	</game>
+	<game id="17575180" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grimy/Jesse/Zigzag/17575180.jpg
+		</thumbnail>
+		<title>Defense Storm Pulse</title>
+		<creator>Grimy Jesse Zigzag</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953277" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Southern/Shelby/Saber/10953277.jpg
+		</thumbnail>
+		<title>Nova Thunder Vilgax</title>
+		<creator>Southern Shelby Saber</creator>
+		<relatedgames/>
+	</game>
+	<game id="10039264" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Brawny/Benjamin/Dolphin/10039264.jpg
+		</thumbnail>
+		<title>Spike Beast Chase</title>
+		<creator>Brawny Benjamin Dolphin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953409" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spooky/Zeb/Gargoyle/10953409.jpg
+		</thumbnail>
+		<title>Mission Ultimate Pursuit</title>
+		<creator>Spooky Zeb Gargoyle</creator>
+		<relatedgames/>
+	</game>
+	<game id="16873112" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Aromatic/Amy/Mango/16873112.jpg
+		</thumbnail>
+		<title>Rocket Smash Power</title>
+		<creator>Aromatic Amy Mango</creator>
+		<relatedgames/>
+	</game>
+	<game id="10923067" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Green/Milo/Quake/10923067.jpg
+		</thumbnail>
+		<title>Defense Shock Droid</title>
+		<creator>Green Milo Quake</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Handsome/Vinny/Thing/10931645.jpg
+		</thumbnail>
+		<title>Battle Spark Plasma</title>
+		<creator>Handsome Vinny Thing</creator>
+		<relatedgames/>
+	</game>
+	<game id="17253414" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Paul/Safari/17253414.jpg
+		</thumbnail>
+		<title>Rampage Hero Streak</title>
+		<creator>Obvious Paul Safari</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951284" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Splendid/Samuel/Glop/10951284.jpg
+		</thumbnail>
+		<title>Sonic Adventure Sonic</title>
+		<creator>Splendid Samuel Glop</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

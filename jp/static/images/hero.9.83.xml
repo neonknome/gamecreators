@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10058550" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Beastly/Duke/Stampede/10058550.jpg
+		</thumbnail>
+		<title>Sonic Alien Invasion</title>
+		<creator>Beastly Duke Stampede</creator>
+		<relatedgames/>
+	</game>
+	<game id="17336600" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Snazzy/Harry/Sawtooth/17336600.jpg
+		</thumbnail>
+		<title>Lightning Racer Rampage</title>
+		<creator>Snazzy Harry Sawtooth</creator>
+		<relatedgames/>
+	</game>
+	<game id="17262269" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gigantic/Bob/Chaos/17262269.jpg
+		</thumbnail>
+		<title>Ben Smash Vilgax</title>
+		<creator>Gigantic Bob Chaos</creator>
+		<relatedgames/>
+	</game>
+	<game id="17011900" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Expert/Hailey/Knight/17011900.jpg
+		</thumbnail>
+		<title>Plumber Stone Pulse</title>
+		<creator>Expert Hailey Knight</creator>
+		<relatedgames/>
+	</game>
+	<game id="10937074" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Infinite/Goliath/Cyborg/10937074.jpg
+		</thumbnail>
+		<title>Spike Robot Pursuit</title>
+		<creator>Infinite Goliath Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10946927" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grand/Mariah/Flipper/10946927.jpg
+		</thumbnail>
+		<title>Atomic Assault Mission</title>
+		<creator>Grand Mariah Flipper</creator>
+		<relatedgames/>
+	</game>
+	<game id="17400808" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noble/Celeste/Thorax/17400808.jpg
+		</thumbnail>
+		<title>Galaxy Turbo Vilgax</title>
+		<creator>Noble Celeste Thorax</creator>
+		<relatedgames/>
+	</game>
+	<game id="17420645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Smart/Marco/Aardvark/17420645.jpg
+		</thumbnail>
+		<title>Warrior Rumble Fury</title>
+		<creator>Smart Marco Aardvark</creator>
+		<relatedgames/>
+	</game>
+	<game id="17191784" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Active/Michael/Trooper/17191784.jpg
+		</thumbnail>
+		<title>Razor Droid Galaxy</title>
+		<creator>Active Michael Trooper</creator>
+		<relatedgames/>
+	</game>
+	<game id="17408671" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Popular/Brayden/Spleen/17408671.jpg
+		</thumbnail>
+		<title>Stone Siege Laser</title>
+		<creator>Popular Brayden Spleen</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

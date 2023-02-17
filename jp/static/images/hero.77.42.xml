@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10933814" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Twisty/Douglas/Turbo/10933814.jpg
+		</thumbnail>
+		<title>Mega Mission Shadow</title>
+		<creator>Twisty Douglas Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926216" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Blue/Xavier/Giblets/10926216.jpg
+		</thumbnail>
+		<title>Champion Rampage Atomic</title>
+		<creator>Blue Xavier Giblets</creator>
+		<relatedgames/>
+	</game>
+	<game id="17177939" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Agile/Miguel/Bingo/17177939.jpg
+		</thumbnail>
+		<title>Nova Patrol Mission</title>
+		<creator>Agile Miguel Bingo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17560228" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crunchy/Ava/Blizzard/17560228.jpg
+		</thumbnail>
+		<title>Rocket Animo Droid</title>
+		<creator>Crunchy Ava Blizzard</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916844" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Itchy/Jared/Kazoo/10916844.jpg
+		</thumbnail>
+		<title>Rampage Smash Fusion</title>
+		<creator>Itchy Jared Kazoo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17423219" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quiet/Hunter/Blob/17423219.jpg
+		</thumbnail>
+		<title>Turbo Champion Adventure</title>
+		<creator>Quiet Hunter Blob</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925006" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tricky/Savannah/Crash/10925006.jpg
+		</thumbnail>
+		<title>Mega Hyper Fire</title>
+		<creator>Tricky Savannah Crash</creator>
+		<relatedgames/>
+	</game>
+	<game id="17551180" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noisy/Nicholas/Crowbar/17551180.jpg
+		</thumbnail>
+		<title>Ben Echo Star</title>
+		<creator>Noisy Nicholas Crowbar</creator>
+		<relatedgames/>
+	</game>
+	<game id="16871238" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Aerobic/Larry/Mango/16871238.jpg
+		</thumbnail>
+		<title>Target Robot Fire</title>
+		<creator>Aerobic Larry Mango</creator>
+		<relatedgames/>
+	</game>
+	<game id="10057344" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Crispy/Michael/Dynamite/10057344.jpg
+		</thumbnail>
+		<title>Ultimate Fire Force</title>
+		<creator>Crispy Michael Dynamite</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10052419" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Kooky/Leonardo/Barnacle/10052419.jpg
+		</thumbnail>
+		<title>Nano Atomic Ambush</title>
+		<creator>Kooky Leonardo Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17226624" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Sean/17226624.jpg
+		</thumbnail>
+		<title>Alien Invasion Challenge</title>
+		<creator>Obvious Sean</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921998" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Lucky/Katie/Bongo/10921998.jpg
+		</thumbnail>
+		<title>Earth Thunder Ben</title>
+		<creator>Lucky Katie Bongo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925864" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wacky/Jack/Virtuoso/10925864.jpg
+		</thumbnail>
+		<title>Turbo Techno Laser</title>
+		<creator>Wacky Jack Virtuoso</creator>
+		<relatedgames/>
+	</game>
+	<game id="16956383" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Capable/Bugsy/Sword/16956383.jpg
+		</thumbnail>
+		<title>Rush Ultimate Titan</title>
+		<creator>Capable Bugsy Sword</creator>
+		<relatedgames/>
+	</game>
+	<game id="17417389" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strong/Matthew/Fez/17417389.jpg
+		</thumbnail>
+		<title>Battle Blaster Titan</title>
+		<creator>Strong Matthew Fez</creator>
+		<relatedgames/>
+	</game>
+	<game id="10057898" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dramatic/Dora/Doodad/10057898.jpg
+		</thumbnail>
+		<title>Nova Rush Adventure</title>
+		<creator>Dramatic Dora Doodad</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924271" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Jeremy/Tractor/10924271.jpg
+		</thumbnail>
+		<title>Gear Gear Robot</title>
+		<creator>Chilly Jeremy Tractor</creator>
+		<relatedgames/>
+	</game>
+	<game id="10950785" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fragrant/Dudley/Fritter/10950785.jpg
+		</thumbnail>
+		<title>Laser Rocket Streak</title>
+		<creator>Fragrant Dudley Fritter</creator>
+		<relatedgames/>
+	</game>
+	<game id="17387691" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loyal/Juan/Parallax/17387691.jpg
+		</thumbnail>
+		<title>Cannonbolt Metal Mission</title>
+		<creator>Loyal Juan Parallax</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

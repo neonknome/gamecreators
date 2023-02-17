@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17286369" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/General/Alvin/Wiffle/17286369.jpg
+		</thumbnail>
+		<title>Ultimate Vilgax Battle</title>
+		<creator>General Alvin Wiffle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935329" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Burly/Crystal/Fritter/10935329.jpg
+		</thumbnail>
+		<title>Shadow Champion Invasion</title>
+		<creator>Burly Crystal Fritter</creator>
+		<relatedgames/>
+	</game>
+	<game id="10646812" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fearless/Julian/Sizzle/10646812.jpg
+		</thumbnail>
+		<title>Pursuit Rumble Warrior</title>
+		<creator>Fearless Julian Sizzle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10786380" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Joyous/Logan/Spiral/10786380.jpg
+		</thumbnail>
+		<title>Slam Steel Earth</title>
+		<creator>Joyous Logan Spiral</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918998" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Northern/Marcus/Turtle/10918998.jpg
+		</thumbnail>
+		<title>Vilgax Blaster Beast</title>
+		<creator>Northern Marcus Turtle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17554265" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loud/Carson/Blob/17554265.jpg
+		</thumbnail>
+		<title>Plumber Nova Stone</title>
+		<creator>Loud Carson Blob</creator>
+		<relatedgames/>
+	</game>
+	<game id="16983993" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Visible/Gladys/Kangaroo/16983993.jpg
+		</thumbnail>
+		<title>Patrol Ultimate Beast</title>
+		<creator>Visible Gladys Kangaroo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17388061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brisk/Josiah/Yoyo/17388061.jpg
+		</thumbnail>
+		<title>Cosmic Echo Metal</title>
+		<creator>Brisk Josiah Yoyo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17562599" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Steven/Buffalo/17562599.jpg
+		</thumbnail>
+		<title>Escape Burst Defense</title>
+		<creator>Steven Buffalo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10946650" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Napoleon/Cupcake/10946650.jpg
+		</thumbnail>
+		<title>Iron Ambush Plumber</title>
+		<creator>Dazzling Napoleon Cupcake</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

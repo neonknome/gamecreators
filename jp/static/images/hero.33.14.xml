@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10044170" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Happy/Bernard/Banjo/10044170.jpg
+		</thumbnail>
+		<title>Mission Stone Pursuit</title>
+		<creator>Happy Bernard Banjo</creator>
+		<relatedgames/>
+	</game>
+	<game id="16930985" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Splendid/Simon/Sardine/16930985.jpg
+		</thumbnail>
+		<title>Shock Charge Rocket</title>
+		<creator>Splendid Simon Sardine</creator>
+		<relatedgames/>
+	</game>
+	<game id="17275840" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Puzzling/Kristen/Mars/17275840.jpg
+		</thumbnail>
+		<title>Dark Nova Power</title>
+		<creator>Puzzling Kristen Mars</creator>
+		<relatedgames/>
+	</game>
+	<game id="10064405" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cranky/Dawn/Boing/10064405.jpg
+		</thumbnail>
+		<title>Racer Racer Assault</title>
+		<creator>Cranky Dawn Boing</creator>
+		<relatedgames/>
+	</game>
+	<game id="10056110" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Twisty/Wesley/Clang/10056110.jpg
+		</thumbnail>
+		<title>Beast Attack Galaxy</title>
+		<creator>Twisty Wesley Clang</creator>
+		<relatedgames/>
+	</game>
+	<game id="10649752" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Enormous/Simon/Acrobat/10649752.jpg
+		</thumbnail>
+		<title>Ultra Thunder Hero</title>
+		<creator>Enormous Simon Acrobat</creator>
+		<relatedgames/>
+	</game>
+	<game id="17220400" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cunning/Sofia/Pinball/17220400.jpg
+		</thumbnail>
+		<title>Earth Pursuit Warrior</title>
+		<creator>Cunning Sofia Pinball</creator>
+		<relatedgames/>
+	</game>
+	<game id="17115481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Glorious/Logan/Brick/17115481.jpg
+		</thumbnail>
+		<title>Cosmic Clash Adventure</title>
+		<creator>Glorious Logan Brick</creator>
+		<relatedgames/>
+	</game>
+	<game id="16954763" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sleepy/Cameron/Gamer/16954763.jpg
+		</thumbnail>
+		<title>Ultimate Escape Racer</title>
+		<creator>Sleepy Cameron Gamer</creator>
+		<relatedgames/>
+	</game>
+	<game id="10786966" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radiant/Cynthia/Squeegee/10786966.jpg
+		</thumbnail>
+		<title>Magno Solar Danger</title>
+		<creator>Radiant Cynthia Squeegee</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10916765" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spooky/Vinny/Porridge/10916765.jpg
+		</thumbnail>
+		<title>Lightning Hero Danger</title>
+		<creator>Spooky Vinny Porridge</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922703" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Aquatic/Xerxes/Beeswax/10922703.jpg
+		</thumbnail>
+		<title>Assault Solar Assault</title>
+		<creator>Aquatic Xerxes Beeswax</creator>
+		<relatedgames/>
+	</game>
+	<game id="10935383" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Green/Justin/Saber/10935383.jpg
+		</thumbnail>
+		<title>Racer Techno Dark</title>
+		<creator>Green Justin Saber</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927274" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Handsome/Noah/Penguin/10927274.jpg
+		</thumbnail>
+		<title>Turbo Assault Burst</title>
+		<creator>Handsome Noah Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952683" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Megan/Octopus/10952683.jpg
+		</thumbnail>
+		<title>Charge Space Universe</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames/>
+	</game>
+	<game id="17288581" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/01/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Splendid/Noah/Dragoon/17288581.jpg
+		</thumbnail>
+		<title>Ultimate Cannonbolt Light</title>
+		<creator>Splendid Noah Dragoon</creator>
+		<relatedgames/>
+	</game>
+	<game id="16940361" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/17/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Capable/Beatrice/Sunset/16940361.jpg
+		</thumbnail>
+		<title>Chill Iron Titan</title>
+		<creator>Capable Beatrice Sunset</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931325" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Feisty/Pearl/Hambone/10931325.jpg
+		</thumbnail>
+		<title>Ultra Fire Warrior</title>
+		<creator>Feisty Pearl Hambone</creator>
+		<relatedgames/>
+	</game>
+	<game id="10058669" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Atomic/Diana/Zeppelin/10058669.jpg
+		</thumbnail>
+		<title>Rampage Adventure Beast</title>
+		<creator>Atomic Diana Zeppelin</creator>
+		<relatedgames/>
+	</game>
+	<game id="10063206" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Handsome/Destiny/Mango/10063206.jpg
+		</thumbnail>
+		<title>Mega Swampfire Defense</title>
+		<creator>Handsome Destiny Mango</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

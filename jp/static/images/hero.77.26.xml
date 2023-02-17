@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10953017" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grand/Jessica/Skunk/10953017.jpg
+		</thumbnail>
+		<title>Invasion Star Galaxy</title>
+		<creator>Grand Jessica Skunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404731" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Clever/Ben/Blade/17404731.jpg
+		</thumbnail>
+		<title>Ultimate Cannonbolt Assault</title>
+		<creator>Clever Ben Blade</creator>
+		<relatedgames/>
+	</game>
+	<game id="17220310" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Edgy/Sid/Clang/17220310.jpg
+		</thumbnail>
+		<title>Ultra Giga Search</title>
+		<creator>Edgy Sid Clang</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crafty/Ben/Varmint/10922878.jpg
+		</thumbnail>
+		<title>Storm Patrol Galaxy</title>
+		<creator>Crafty Ben Varmint</creator>
+		<relatedgames/>
+	</game>
+	<game id="16917374" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Galactic/Scarlett/Blast/16917374.jpg
+		</thumbnail>
+		<title>Rocket Burst Adventure</title>
+		<creator>Galactic Scarlett Blast</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919042" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shiny/Baxter/Wombat/10919042.jpg
+		</thumbnail>
+		<title>Nitro Pulse Assault</title>
+		<creator>Shiny Baxter Wombat</creator>
+		<relatedgames/>
+	</game>
+	<game id="17562120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proud/Felix/Thud/17562120.jpg
+		</thumbnail>
+		<title>Burst Blaster Alien</title>
+		<creator>Proud Felix Thud</creator>
+		<relatedgames/>
+	</game>
+	<game id="17264533" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baffling/Michelle/Shinobi/17264533.jpg
+		</thumbnail>
+		<title>Fire Ben Dark</title>
+		<creator>Baffling Michelle Shinobi</creator>
+		<relatedgames/>
+	</game>
+	<game id="17324891" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Singular/Shaggy/Robot/17324891.jpg
+		</thumbnail>
+		<title>Light Galaxy Ultra</title>
+		<creator>Singular Shaggy Robot</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924702" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fuzzy/Austin/Cosmos/10924702.jpg
+		</thumbnail>
+		<title>Search Steel Magno</title>
+		<creator>Fuzzy Austin Cosmos</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

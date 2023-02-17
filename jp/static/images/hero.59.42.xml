@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17318679" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ancient/Finn/Iguana/17318679.jpg
+		</thumbnail>
+		<title>Pursuit Warrior Rescue</title>
+		<creator>Ancient Finn Iguana</creator>
+		<relatedgames/>
+	</game>
+	<game id="10793505" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Green/Brianna/Thorax/10793505.jpg
+		</thumbnail>
+		<title>Escape Escape Smash</title>
+		<creator>Green Brianna Thorax</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931325" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Feisty/Pearl/Hambone/10931325.jpg
+		</thumbnail>
+		<title>Ultra Fire Warrior</title>
+		<creator>Feisty Pearl Hambone</creator>
+		<relatedgames/>
+	</game>
+	<game id="17237572" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Academic/Jorge/Avator/17237572.jpg
+		</thumbnail>
+		<title>Universe Doom Rush</title>
+		<creator>Academic Jorge Avator</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952640" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cranky/Bryan/Varmint/10952640.jpg
+		</thumbnail>
+		<title>Challenge Fire Mission</title>
+		<creator>Cranky Bryan Varmint</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918666" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Generous/Homer/Potato/10918666.jpg
+		</thumbnail>
+		<title>Drone Ultimate Turbo</title>
+		<creator>Generous Homer Potato</creator>
+		<relatedgames/>
+	</game>
+	<game id="17355672" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Purple/Rosetta/Rebel/17355672.jpg
+		</thumbnail>
+		<title>Smash Power Earth</title>
+		<creator>Purple Rosetta Rebel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17554306" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crafty/Emerson/Blast/17554306.jpg
+		</thumbnail>
+		<title>Spark Adventure Search</title>
+		<creator>Crafty Emerson Blast</creator>
+		<relatedgames/>
+	</game>
+	<game id="10945498" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Twisty/Conrad/Nova/10945498.jpg
+		</thumbnail>
+		<title>Hyper Burst Energy</title>
+		<creator>Twisty Conrad Nova</creator>
+		<relatedgames/>
+	</game>
+	<game id="17337988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Enormous/Alice/Dodo/17337988.jpg
+		</thumbnail>
+		<title>Ultimate Mission Droid</title>
+		<creator>Enormous Alice Dodo</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

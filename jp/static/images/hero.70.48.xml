@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10930482" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noble/Tyler/Hogwash/10930482.jpg
+		</thumbnail>
+		<title>Doom Pulse Fusion</title>
+		<creator>Noble Tyler Hogwash</creator>
+		<relatedgames/>
+	</game>
+	<game id="17410295" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/King/Colin/Iceberg/17410295.jpg
+		</thumbnail>
+		<title>Robot Hero Spike</title>
+		<creator>King Colin Iceberg</creator>
+		<relatedgames/>
+	</game>
+	<game id="17408812" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Electric/Chase/Reptile/17408812.jpg
+		</thumbnail>
+		<title>Invasion Humungousaur Target</title>
+		<creator>Electric Chase Reptile</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951732" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Generous/Matthew/Turtle/10951732.jpg
+		</thumbnail>
+		<title>Ben Ben Search</title>
+		<creator>Generous Matthew Turtle</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918741" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shrewd/Jonas/Yodel/10918741.jpg
+		</thumbnail>
+		<title>Mega Atomic Nova</title>
+		<creator>Shrewd Jonas Yodel</creator>
+		<relatedgames/>
+	</game>
+	<game id="17404209" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Luke/Stampede/17404209.jpg
+		</thumbnail>
+		<title>Pulse Adventure Shadow</title>
+		<creator>Zany Luke Stampede</creator>
+		<relatedgames/>
+	</game>
+	<game id="17257047" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Faith/Camel/17257047.jpg
+		</thumbnail>
+		<title>Adventure Adventure Metal</title>
+		<creator>Barbaric Faith Camel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10953188" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eerie/Iris/Oddball/10953188.jpg
+		</thumbnail>
+		<title>Ultra Droid Titan</title>
+		<creator>Eerie Iris Oddball</creator>
+		<relatedgames/>
+	</game>
+	<game id="17382394" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/General/Ian/Fang/17382394.jpg
+		</thumbnail>
+		<title>Champion Smash Ben</title>
+		<creator>General Ian Fang</creator>
+		<relatedgames/>
+	</game>
+	<game id="10865866" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Merry/Jayden/Phantom/10865866.jpg
+		</thumbnail>
+		<title>Patrol Plumber Hyper</title>
+		<creator>Merry Jayden Phantom</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

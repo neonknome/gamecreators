@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10916699" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dreadful/Simon/Dynamite/10916699.jpg
+		</thumbnail>
+		<title>Techno Razor Spark</title>
+		<creator>Dreadful Simon Dynamite</creator>
+		<relatedgames/>
+	</game>
+	<game id="16960561" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/22/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hardy/Rosetta/Rhyme/16960561.jpg
+		</thumbnail>
+		<title>Ben Laser Attack</title>
+		<creator>Hardy Rosetta Rhyme</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sporty/Daniel/Iceberg/10926636.jpg
+		</thumbnail>
+		<title>Animo Rocket Search</title>
+		<creator>Sporty Daniel Iceberg</creator>
+		<relatedgames/>
+	</game>
+	<game id="17221993" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Savage/Alvin/Fang/17221993.jpg
+		</thumbnail>
+		<title>Escape Ultimate Rush</title>
+		<creator>Savage Alvin Fang</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919808" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Atomic/Raymond/Chipmunk/10919808.jpg
+		</thumbnail>
+		<title>Energy Slam Space</title>
+		<creator>Atomic Raymond Chipmunk</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916893" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dramatic/Rufus/Ogre/10916893.jpg
+		</thumbnail>
+		<title>Patrol Rush Chase</title>
+		<creator>Dramatic Rufus Ogre</creator>
+		<relatedgames/>
+	</game>
+	<game id="10044170" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Happy/Bernard/Banjo/10044170.jpg
+		</thumbnail>
+		<title>Mission Stone Pursuit</title>
+		<creator>Happy Bernard Banjo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10924220" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Kenneth/Saber/10924220.jpg
+		</thumbnail>
+		<title>Plasma Mega Chase</title>
+		<creator>Honest Kenneth Saber</creator>
+		<relatedgames/>
+	</game>
+	<game id="17417389" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strong/Matthew/Fez/17417389.jpg
+		</thumbnail>
+		<title>Battle Blaster Titan</title>
+		<creator>Strong Matthew Fez</creator>
+		<relatedgames/>
+	</game>
+	<game id="10028568" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Atomic/Harvey/Aardvark/10028568.jpg
+		</thumbnail>
+		<title>Fire Spike Search</title>
+		<creator>Atomic Harvey Aardvark</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

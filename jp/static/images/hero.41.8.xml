@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10952842" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proper/Brandon/Thud/10952842.jpg
+		</thumbnail>
+		<title>Pursuit Beast Rumble</title>
+		<creator>Proper Brandon Thud</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916795" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eager/Abigail/Turbo/10916795.jpg
+		</thumbnail>
+		<title>Invasion Swampfire Ambush</title>
+		<creator>Eager Abigail Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17383762" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Comical/Jeremiah/Crash/17383762.jpg
+		</thumbnail>
+		<title>Giga Racer Rustbucket</title>
+		<creator>Comical Jeremiah Crash</creator>
+		<relatedgames/>
+	</game>
+	<game id="10951344" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Funny/Jennifer/Sphere/10951344.jpg
+		</thumbnail>
+		<title>Dark Atomic Power</title>
+		<creator>Funny Jennifer Sphere</creator>
+		<relatedgames/>
+	</game>
+	<game id="17585253" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elite/Nicolas/Crater/17585253.jpg
+		</thumbnail>
+		<title>Universe Robot Storm</title>
+		<creator>Elite Nicolas Crater</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926374" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Silly/Joshua/Thunder/10926374.jpg
+		</thumbnail>
+		<title>Razor Quake Adventure</title>
+		<creator>Silly Joshua Thunder</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921774" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elegant/Joel/Spumoni/10921774.jpg
+		</thumbnail>
+		<title>Fire Drone Ambush</title>
+		<creator>Elegant Joel Spumoni</creator>
+		<relatedgames/>
+	</game>
+	<game id="17218349" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Odd/Jeremy/Knight/17218349.jpg
+		</thumbnail>
+		<title>Light Atomic Vilgax</title>
+		<creator>Odd Jeremy Knight</creator>
+		<relatedgames/>
+	</game>
+	<game id="10917836" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Darling/Buffy/Narwhal/10917836.jpg
+		</thumbnail>
+		<title>Universe Adventure Adventure</title>
+		<creator>Darling Buffy Narwhal</creator>
+		<relatedgames/>
+	</game>
+	<game id="10922341" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Weird/Vinny/Spider/10922341.jpg
+		</thumbnail>
+		<title>Atomic Champion Hero</title>
+		<creator>Weird Vinny Spider</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

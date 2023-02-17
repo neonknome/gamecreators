@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17218382" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Roaring/Zelda/Monster/17218382.jpg
+		</thumbnail>
+		<title>Hyper Galaxy Clash</title>
+		<creator>Roaring Zelda Monster</creator>
+		<relatedgames/>
+	</game>
+	<game id="17278972" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Virtual/Victor/Rebel/17278972.jpg
+		</thumbnail>
+		<title>Giga Hyper Rustbucket</title>
+		<creator>Virtual Victor Rebel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10937939" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Gigi/Lobster/10937939.jpg
+		</thumbnail>
+		<title>Alien Fire Smash</title>
+		<creator>Dazzling Gigi Lobster</creator>
+		<relatedgames/>
+	</game>
+	<game id="10918396" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fizzy/Chris/Moonbeam/10918396.jpg
+		</thumbnail>
+		<title>Universe Adventure Space</title>
+		<creator>Fizzy Chris Moonbeam</creator>
+		<relatedgames/>
+	</game>
+	<game id="10917018" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reliable/Victor/Whizbang/10917018.jpg
+		</thumbnail>
+		<title>Solar Storm Chase</title>
+		<creator>Reliable Victor Whizbang</creator>
+		<relatedgames/>
+	</game>
+	<game id="17358453" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Profound/Bernard/Scribble/17358453.jpg
+		</thumbnail>
+		<title>Shock Vilgax Droid</title>
+		<creator>Profound Bernard Scribble</creator>
+		<relatedgames/>
+	</game>
+	<game id="17257764" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Reuben/Knight/17257764.jpg
+		</thumbnail>
+		<title>Ben Pursuit Titan</title>
+		<creator>Dashing Reuben Knight</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933419" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wild/Mike/Squawk/10933419.jpg
+		</thumbnail>
+		<title>Magno Mission Rescue</title>
+		<creator>Wild Mike Squawk</creator>
+		<relatedgames/>
+	</game>
+	<game id="16883820" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/James/Cyclone/16883820.jpg
+		</thumbnail>
+		<title>Warp Waterhazard Adventure</title>
+		<creator>Fiery James Cyclone</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919862" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Towering/Brandy/Nibbles/10919862.jpg
+		</thumbnail>
+		<title>Burst Power Challenge</title>
+		<creator>Towering Brandy Nibbles</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

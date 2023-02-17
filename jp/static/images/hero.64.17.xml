@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10938896" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Royal/Noah/Tempest/10938896.jpg
+		</thumbnail>
+		<title>Target Breaker Mega</title>
+		<creator>Royal Noah Tempest</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931325" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Feisty/Pearl/Hambone/10931325.jpg
+		</thumbnail>
+		<title>Ultra Fire Warrior</title>
+		<creator>Feisty Pearl Hambone</creator>
+		<relatedgames/>
+	</game>
+	<game id="10058669" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Atomic/Diana/Zeppelin/10058669.jpg
+		</thumbnail>
+		<title>Rampage Adventure Beast</title>
+		<creator>Atomic Diana Zeppelin</creator>
+		<relatedgames/>
+	</game>
+	<game id="17217564" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dramatic/Austin/Domino/17217564.jpg
+		</thumbnail>
+		<title>Big Thunder Fury</title>
+		<creator>Dramatic Austin Domino</creator>
+		<relatedgames/>
+	</game>
+	<game id="10063206" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Handsome/Destiny/Mango/10063206.jpg
+		</thumbnail>
+		<title>Mega Swampfire Defense</title>
+		<creator>Handsome Destiny Mango</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942111" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fragrant/Cynthia/Ladybug/10942111.jpg
+		</thumbnail>
+		<title>Nano Target Universe</title>
+		<creator>Fragrant Cynthia Ladybug</creator>
+		<relatedgames/>
+	</game>
+	<game id="17411294" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/13/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strange/Ariel/Gumdrop/17411294.jpg
+		</thumbnail>
+		<title>Warrior Force Robot</title>
+		<creator>Strange Ariel Gumdrop</creator>
+		<relatedgames/>
+	</game>
+	<game id="17301539" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Athletic/Kaitlin/Dinosaur/17301539.jpg
+		</thumbnail>
+		<title>Waterhazard Adventure Mega</title>
+		<creator>Athletic Kaitlin Dinosaur</creator>
+		<relatedgames/>
+	</game>
+	<game id="17377709" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quirky/Tommy/Karate/17377709.jpg
+		</thumbnail>
+		<title>Turbo Cosmic Solar</title>
+		<creator>Quirky Tommy Karate</creator>
+		<relatedgames/>
+	</game>
+	<game id="10945498" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Twisty/Conrad/Nova/10945498.jpg
+		</thumbnail>
+		<title>Hyper Burst Energy</title>
+		<creator>Twisty Conrad Nova</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

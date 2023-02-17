@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17052669" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Peppy/Claire/Pizza/17052669.jpg
+		</thumbnail>
+		<title>Earth Siege Alien</title>
+		<creator>Peppy Claire Pizza</creator>
+		<relatedgames/>
+	</game>
+	<game id="10931113" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Majestic/Kevin/Iceberg/10931113.jpg
+		</thumbnail>
+		<title>Spark Hex Clash</title>
+		<creator>Majestic Kevin Iceberg</creator>
+		<relatedgames/>
+	</game>
+	<game id="17137189" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shady/Albert/Iceberg/17137189.jpg
+		</thumbnail>
+		<title>Big Cannonbolt Spike</title>
+		<creator>Shady Albert Iceberg</creator>
+		<relatedgames/>
+	</game>
+	<game id="10947551" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wise/Victoria/Volcano/10947551.jpg
+		</thumbnail>
+		<title>Chase Streak Quake</title>
+		<creator>Wise Victoria Volcano</creator>
+		<relatedgames/>
+	</game>
+	<game id="10031329" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dynamic/Erik/Crater/10031329.jpg
+		</thumbnail>
+		<title>Invasion Robot Shock</title>
+		<creator>Dynamic Erik Crater</creator>
+		<relatedgames/>
+	</game>
+	<game id="17105222" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Ulysses/Knight/17105222.jpg
+		</thumbnail>
+		<title>Plasma Energy Vilgax</title>
+		<creator>Colossal Ulysses Knight</creator>
+		<relatedgames/>
+	</game>
+	<game id="10068460" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Frugal/Natasha/Minotaur/10068460.jpg
+		</thumbnail>
+		<title>Atomic Spike Danger</title>
+		<creator>Frugal Natasha Minotaur</creator>
+		<relatedgames/>
+	</game>
+	<game id="17332957" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magnetic/Tiffany/Tugboat/17332957.jpg
+		</thumbnail>
+		<title>Breaker Siege Mega</title>
+		<creator>Magnetic Tiffany Tugboat</creator>
+		<relatedgames/>
+	</game>
+	<game id="17202873" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/09/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scruffy/Ludwig/Stampede/17202873.jpg
+		</thumbnail>
+		<title>Nova Techno Adventure</title>
+		<creator>Scruffy Ludwig Stampede</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942755" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awesome/Dylan/Lard/10942755.jpg
+		</thumbnail>
+		<title>Power Champion Racer</title>
+		<creator>Awesome Dylan Lard</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

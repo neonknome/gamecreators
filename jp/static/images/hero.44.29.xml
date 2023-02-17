@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17379163" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pretty/Scott/Beeswax/17379163.jpg
+		</thumbnail>
+		<title>Razor Titan Blaster</title>
+		<creator>Pretty Scott Beeswax</creator>
+		<relatedgames/>
+	</game>
+	<game id="10945050" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awesome/Clyde/Howler/10945050.jpg
+		</thumbnail>
+		<title>Fusion Burst Galaxy</title>
+		<creator>Awesome Clyde Howler</creator>
+		<relatedgames/>
+	</game>
+	<game id="17259995" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shrewd/Stanley/Sunset/17259995.jpg
+		</thumbnail>
+		<title>Warrior Robot Giga</title>
+		<creator>Shrewd Stanley Sunset</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916748" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frosty/Lillian/Crash/10916748.jpg
+		</thumbnail>
+		<title>Doom Blaster Rumble</title>
+		<creator>Frosty Lillian Crash</creator>
+		<relatedgames/>
+	</game>
+	<game id="17191739" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Elastic/Dwight/Robot/17191739.jpg
+		</thumbnail>
+		<title>Solar Warrior Ambush</title>
+		<creator>Elastic Dwight Robot</creator>
+		<relatedgames/>
+	</game>
+	<game id="10057035" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Generous/Justin/Coconut/10057035.jpg
+		</thumbnail>
+		<title>Atomic Adventure Alien</title>
+		<creator>Generous Justin Coconut</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942861" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shrewd/Cheyenne/Goofball/10942861.jpg
+		</thumbnail>
+		<title>Rumble Force Swampfire</title>
+		<creator>Shrewd Cheyenne Goofball</creator>
+		<relatedgames/>
+	</game>
+	<game id="10748197" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Isaac/Flipper/10748197.jpg
+		</thumbnail>
+		<title>Fire Rescue Chase</title>
+		<creator>Zany Isaac Flipper</creator>
+		<relatedgames/>
+	</game>
+	<game id="10038215" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Reckless/Jeremiah/Doodle/10038215.jpg
+		</thumbnail>
+		<title>Cosmic Fire Adventure</title>
+		<creator>Reckless Jeremiah Doodle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17418509" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obscure/Jenn/Scout/17418509.jpg
+		</thumbnail>
+		<title>Ultimate Cosmic Challenge</title>
+		<creator>Obscure Jenn Scout</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

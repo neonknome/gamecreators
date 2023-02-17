@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10952619" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Megan/Octopus/10952619.jpg
+		</thumbnail>
+		<title>Magno Smash Danger</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942677" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strange/Dawn/Iguana/10942677.jpg
+		</thumbnail>
+		<title>Rock Steel Fusion</title>
+		<creator>Strange Dawn Iguana</creator>
+		<relatedgames/>
+	</game>
+	<game id="10942444" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Edgar/Quasar/10942444.jpg
+		</thumbnail>
+		<title>Laser Sonic Galaxy</title>
+		<creator>Chilly Edgar Quasar</creator>
+		<relatedgames/>
+	</game>
+	<game id="10039822" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Loud/Steven/Charger/10039822.jpg
+		</thumbnail>
+		<title>Swampfire Invasion Rampage</title>
+		<creator>Loud Steven Charger</creator>
+		<relatedgames/>
+	</game>
+	<game id="10925728" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Heroic/Will/Barnacle/10925728.jpg
+		</thumbnail>
+		<title>Titan Rampage Swampfire</title>
+		<creator>Heroic Will Barnacle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17052669" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Peppy/Claire/Pizza/17052669.jpg
+		</thumbnail>
+		<title>Earth Siege Alien</title>
+		<creator>Peppy Claire Pizza</creator>
+		<relatedgames/>
+	</game>
+	<game id="10939013" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stout/Larry/Phantom/10939013.jpg
+		</thumbnail>
+		<title>Force Vilgax Hyper</title>
+		<creator>Stout Larry Phantom</creator>
+		<relatedgames/>
+	</game>
+	<game id="10927171" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crunchy/Benjamin/Blammo/10927171.jpg
+		</thumbnail>
+		<title>Siege Nano Earth</title>
+		<creator>Crunchy Benjamin Blammo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952590" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gloomy/Harry/Bolt/10952590.jpg
+		</thumbnail>
+		<title>Nitro Giga Quake</title>
+		<creator>Gloomy Harry Bolt</creator>
+		<relatedgames/>
+	</game>
+	<game id="17363548" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fabulous/Chase/Goulash/17363548.jpg
+		</thumbnail>
+		<title>Danger Charge Assault</title>
+		<creator>Fabulous Chase Goulash</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

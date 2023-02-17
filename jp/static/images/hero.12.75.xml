@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17377392" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Burly/Jacob/Blast/17377392.jpg
+		</thumbnail>
+		<title>Nitro Big Adventure</title>
+		<creator>Burly Jacob Blast</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952790" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fearsome/Adam/Magma/10952790.jpg
+		</thumbnail>
+		<title>Nitro Alien Smash</title>
+		<creator>Fearsome Adam Magma</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952734" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jumping/Billy/Vittles/10952734.jpg
+		</thumbnail>
+		<title>Shock Rocket Mission</title>
+		<creator>Jumping Billy Vittles</creator>
+		<relatedgames/>
+	</game>
+	<game id="17415229" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reckless/Ernest/Fathom/17415229.jpg
+		</thumbnail>
+		<title>Siege Hero Sonic</title>
+		<creator>Reckless Ernest Fathom</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916968" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Northern/Shelby/Goulash/10916968.jpg
+		</thumbnail>
+		<title>Attack Adventure Racer</title>
+		<creator>Northern Shelby Goulash</creator>
+		<relatedgames/>
+	</game>
+	<game id="17378050" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Visible/Luke/Yam/17378050.jpg
+		</thumbnail>
+		<title>Animo Fury Patrol</title>
+		<creator>Visible Luke Yam</creator>
+		<relatedgames/>
+	</game>
+	<game id="17576978" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bumbling/Benton/Kazoo/17576978.jpg
+		</thumbnail>
+		<title>Star Vilgax Spike</title>
+		<creator>Bumbling Benton Kazoo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921507" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Steven/Squish/10921507.jpg
+		</thumbnail>
+		<title>Quake Danger Escape</title>
+		<creator>Dazzling Steven Squish</creator>
+		<relatedgames/>
+	</game>
+	<game id="10043219" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fizzy/Latoya/Hologram/10043219.jpg
+		</thumbnail>
+		<title>Razor Adventure Attack</title>
+		<creator>Fizzy Latoya Hologram</creator>
+		<relatedgames/>
+	</game>
+	<game id="17554156" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loony/Sam/Garlic/17554156.jpg
+		</thumbnail>
+		<title>Laser Sonic Adventure</title>
+		<creator>Loony Sam Garlic</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

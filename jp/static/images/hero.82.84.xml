@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17195393" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/06/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Aerobic/Adriana/Galosh/17195393.jpg
+		</thumbnail>
+		<title>Giga Thunder Breaker</title>
+		<creator>Aerobic Adriana Galosh</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926065" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brave/Otis/Elephant/10926065.jpg
+		</thumbnail>
+		<title>Rocket Crusher Fusion</title>
+		<creator>Brave Otis Elephant</creator>
+		<relatedgames/>
+	</game>
+	<game id="16886469" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ironic/Amanda/Turbo/16886469.jpg
+		</thumbnail>
+		<title>Solar Sonic Slam</title>
+		<creator>Ironic Amanda Turbo</creator>
+		<relatedgames/>
+	</game>
+	<game id="17312994" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Queen/Rich/Sunshine/17312994.jpg
+		</thumbnail>
+		<title>Doom Gear Warrior</title>
+		<creator>Queen Rich Sunshine</creator>
+		<relatedgames/>
+	</game>
+	<game id="10948867" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noble/Ron/Frost/10948867.jpg
+		</thumbnail>
+		<title>Adventure Search Attack</title>
+		<creator>Noble Ron Frost</creator>
+		<relatedgames/>
+	</game>
+	<game id="10066089" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Adorable/Alexis/Cumulus/10066089.jpg
+		</thumbnail>
+		<title>Swampfire Swampfire Swampfire</title>
+		<creator>Adorable Alexis Cumulus</creator>
+		<relatedgames/>
+	</game>
+	<game id="10928015" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Unusual/Rocky/Gizzard/10928015.jpg
+		</thumbnail>
+		<title>Fury Lightning Nova</title>
+		<creator>Unusual Rocky Gizzard</creator>
+		<relatedgames/>
+	</game>
+	<game id="10926749" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Jack/Photon/10926749.jpg
+		</thumbnail>
+		<title>Rustbucket Hero Racer</title>
+		<creator>Daring Jack Photon</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952189" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shrewd/Corey/Stampede/10952189.jpg
+		</thumbnail>
+		<title>Cosmic Robot Hero</title>
+		<creator>Shrewd Corey Stampede</creator>
+		<relatedgames/>
+	</game>
+	<game id="10929155" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zany/Isabel/Blade/10929155.jpg
+		</thumbnail>
+		<title>Mega Swampfire Rampage</title>
+		<creator>Zany Isabel Blade</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

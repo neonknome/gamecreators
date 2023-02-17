@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17395565" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Toxic/Rocky/Photon/17395565.jpg
+		</thumbnail>
+		<title>Sonic Big Rocket</title>
+		<creator>Toxic Rocky Photon</creator>
+		<relatedgames/>
+	</game>
+	<game id="16975152" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Admiral/Ben/Reptile/16975152.jpg
+		</thumbnail>
+		<title>Power Force Universe</title>
+		<creator>Admiral Ben Reptile</creator>
+		<relatedgames/>
+	</game>
+	<game id="17241860" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Creative/Jay/Buffalo/17241860.jpg
+		</thumbnail>
+		<title>Razor Echo Chill</title>
+		<creator>Creative Jay Buffalo</creator>
+		<relatedgames/>
+	</game>
+	<game id="10937074" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Infinite/Goliath/Cyborg/10937074.jpg
+		</thumbnail>
+		<title>Spike Robot Pursuit</title>
+		<creator>Infinite Goliath Cyborg</creator>
+		<relatedgames/>
+	</game>
+	<game id="17163650" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/27/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quantum/Tanner/Skeleton/17163650.jpg
+		</thumbnail>
+		<title>Galaxy Alien Spark</title>
+		<creator>Quantum Tanner Skeleton</creator>
+		<relatedgames/>
+	</game>
+	<game id="10919862" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Towering/Brandy/Nibbles/10919862.jpg
+		</thumbnail>
+		<title>Burst Power Challenge</title>
+		<creator>Towering Brandy Nibbles</creator>
+		<relatedgames/>
+	</game>
+	<game id="17400808" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noble/Celeste/Thorax/17400808.jpg
+		</thumbnail>
+		<title>Galaxy Turbo Vilgax</title>
+		<creator>Noble Celeste Thorax</creator>
+		<relatedgames/>
+	</game>
+	<game id="17552197" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crazy/Edd/Mahogany/17552197.jpg
+		</thumbnail>
+		<title>Siege Metal Titan</title>
+		<creator>Crazy Edd Mahogany</creator>
+		<relatedgames/>
+	</game>
+	<game id="10933579" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Uncanny/Anthony/Volcano/10933579.jpg
+		</thumbnail>
+		<title>Burst Blaster Smash</title>
+		<creator>Uncanny Anthony Volcano</creator>
+		<relatedgames/>
+	</game>
+	<game id="10921238" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Wesley/Monster/10921238.jpg
+		</thumbnail>
+		<title>Fire Hero Plasma</title>
+		<creator>Honest Wesley Monster</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>

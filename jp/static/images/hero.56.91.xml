@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10062426" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Massive/Clark/Steam/10062426.jpg
+		</thumbnail>
+		<title>Universe Swampfire Storm</title>
+		<creator>Massive Clark Steam</creator>
+		<relatedgames/>
+	</game>
+	<game id="10703285" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Kyle/Penguin/10703285.jpg
+		</thumbnail>
+		<title>Cosmic Swampfire Rescue</title>
+		<creator>Humorous Kyle Penguin</creator>
+		<relatedgames/>
+	</game>
+	<game id="17372198" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Surreal/Yolanda/Panda/17372198.jpg
+		</thumbnail>
+		<title>Giga Giga Giga</title>
+		<creator>Surreal Yolanda Panda</creator>
+		<relatedgames/>
+	</game>
+	<game id="17395386" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Babbling/Alan/Virtuoso/17395386.jpg
+		</thumbnail>
+		<title>Dark Alien Robot</title>
+		<creator>Babbling Alan Virtuoso</creator>
+		<relatedgames/>
+	</game>
+	<game id="10952647" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sincere/Stephen/Magma/10952647.jpg
+		</thumbnail>
+		<title>Cosmic Star Invasion</title>
+		<creator>Sincere Stephen Magma</creator>
+		<relatedgames/>
+	</game>
+	<game id="17282201" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Abnormal/Lawrence/Burro/17282201.jpg
+		</thumbnail>
+		<title>Iron Adventure Ben</title>
+		<creator>Abnormal Lawrence Burro</creator>
+		<relatedgames/>
+	</game>
+	<game id="10930994" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fizzy/Casey/Flipper/10930994.jpg
+		</thumbnail>
+		<title>Fire Fire Warrior</title>
+		<creator>Fizzy Casey Flipper</creator>
+		<relatedgames/>
+	</game>
+	<game id="10916958" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loony/Ace/Eel/10916958.jpg
+		</thumbnail>
+		<title>Lightning Rampage Droid</title>
+		<creator>Loony Ace Eel</creator>
+		<relatedgames/>
+	</game>
+	<game id="10056378" rating="0" difficulty="0" status="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Reliable/Norman/Gazelle/10056378.jpg
+		</thumbnail>
+		<title>Galaxy Fire Breaker</title>
+		<creator>Reliable Norman Gazelle</creator>
+		<relatedgames/>
+	</game>
+	<game id="17136703" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/18/2012">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Verbose/Oscar/Glitch/17136703.jpg
+		</thumbnail>
+		<title>Invasion Adventure Rush</title>
+		<creator>Verbose Oscar Glitch</creator>
+		<relatedgames/>
+	</game>
+</cartoonnetwork>
