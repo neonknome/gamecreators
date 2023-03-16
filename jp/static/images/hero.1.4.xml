@@ -1,0 +1,63 @@
+<cartoonnetwork>
+<response status="SUCCESS"/>
+<game id="77558" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000184580/201105081443011727321999.jpg</thumbnail>
+<title>Stone Adventure Dark</title>
+<timesPlayed>82</timesPlayed>
+<creator>porl1712</creator>
+</game>
+<game id="104491" rating="2.5" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000211330/20111018163228197947334.jpg</thumbnail>
+<title>Iron Attack Hex</title>
+<timesPlayed>53</timesPlayed>
+<creator>takeyukihota</creator>
+</game>
+<game id="7086" rating="0" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000063406/20101012204711241895898.jpg</thumbnail>
+<title>Animo Racer Alien</title>
+<timesPlayed>300</timesPlayed>
+<creator>zxcvbnm0</creator>
+</game>
+<game id="171871" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000247313/201310131921072128496779.jpg</thumbnail>
+<title>Rustbucket Ambush Attack</title>
+<timesPlayed>5</timesPlayed>
+<creator>20051223nao</creator>
+</game>
+<game id="56845" rating="2.29688" difficulty="1.95312" status="1">
+<thumbnail>/gc/static/images2/000192394/20110216210700494227508.jpg</thumbnail>
+<title>Ultimate Rush Lightning</title>
+<timesPlayed>344</timesPlayed>
+<creator>usotukibar</creator>
+</game>
+<game id="167415" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000064221/201307201406171289766733.jpg</thumbnail>
+<title>Steel Smash Metal</title>
+<timesPlayed>8</timesPlayed>
+<creator>soukanmama</creator>
+</game>
+<game id="96031" rating="3.75" difficulty="1.75" status="1">
+<thumbnail>/gc/static/images2/000125841/201108221503291991650404.jpg</thumbnail>
+<title>Crusher Ultimate Force</title>
+<timesPlayed>96</timesPlayed>
+<creator>ryuki0218</creator>
+</game>
+<game id="97398" rating="4.125" difficulty="2.5" status="1">
+<thumbnail>/gc/static/images2/000085879/201108301807121585249642.jpg</thumbnail>
+<title>Energy Danger Animo</title>
+<timesPlayed>47</timesPlayed>
+<creator>ookuramasato</creator>
+</game>
+<game id="112192" rating="2.5" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000215485/201112231717101149983354.jpg</thumbnail>
+<title>Storm Razor Warrior</title>
+<timesPlayed>61</timesPlayed>
+<creator>shouta1211</creator>
+</game>
+<game id="58783" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000190293/201102270938531215223299.jpg</thumbnail>
+<title>Drone Target Shock</title>
+<timesPlayed>90</timesPlayed>
+<creator>taichi901</creator>
+</game>
+</cartoonnetwork>

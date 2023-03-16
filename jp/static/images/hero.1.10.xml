@@ -1,0 +1,63 @@
+<cartoonnetwork>
+<response status="SUCCESS"/>
+<game id="111794" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000213962/20111219202825314215015.jpg</thumbnail>
+<title>Ambush Space Galaxy</title>
+<timesPlayed>37</timesPlayed>
+<creator>taka2626</creator>
+</game>
+<game id="29841" rating="4.21875" difficulty="2.625" status="1">
+<thumbnail>/gc/static/images2/000025366/201011152047581111895838.jpg</thumbnail>
+<title>Force Rescue Adventure</title>
+<timesPlayed>280</timesPlayed>
+<creator>ryu55ren914</creator>
+</game>
+<game id="86050" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000122159/201106262127071315062661.jpg</thumbnail>
+<title>Adventure Adventure Adventure</title>
+<timesPlayed>35</timesPlayed>
+<creator>yatagaike</creator>
+</game>
+<game id="133329" rating="2" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000225939/20120715143433296721185.jpg</thumbnail>
+<title>Assault Blaster Chase</title>
+<timesPlayed>25</timesPlayed>
+<creator>91720020</creator>
+</game>
+<game id="169519" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000179173/201308202106071772978894.jpg</thumbnail>
+<title>Spike Galaxy Pulse</title>
+<timesPlayed>8</timesPlayed>
+<creator>keizoman</creator>
+</game>
+<game id="134544" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000225811/201207261130391142314349.jpg</thumbnail>
+<title>Assault Warrior Racer</title>
+<timesPlayed>34</timesPlayed>
+<creator>rnrn1224</creator>
+</game>
+<game id="99245" rating="1.5" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000168570/20110911085137316619819.jpg</thumbnail>
+<title>Space Mission Fury</title>
+<timesPlayed>31</timesPlayed>
+<creator>01uto313</creator>
+</game>
+<game id="33996" rating="3.6875" difficulty="2" status="1">
+<thumbnail>/gc/static/images2/000098608/201011242109541709258535.jpg</thumbnail>
+<title>Search Hex Quake</title>
+<timesPlayed>239</timesPlayed>
+<creator>ren7ren7</creator>
+</game>
+<game id="44975" rating="3.1875" difficulty="1.25" status="1">
+<thumbnail>/gc/static/images2/000188759/201012291440431924884616.jpg</thumbnail>
+<title>Hero Giga Clash</title>
+<timesPlayed>154</timesPlayed>
+<creator>tooitosara</creator>
+</game>
+<game id="83909" rating="1.5" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000201539/201106122053441702611579.jpg</thumbnail>
+<title>Force Smash Hex</title>
+<timesPlayed>156</timesPlayed>
+<creator>monsuta-hanta-</creator>
+</game>
+</cartoonnetwork>

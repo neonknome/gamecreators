@@ -1,0 +1,63 @@
+<cartoonnetwork>
+<response status="SUCCESS"/>
+<game id="120811" rating="3.25" difficulty="2.25" status="1">
+<thumbnail>/gc/static/images2/000217814/20120310163402478432081.jpg</thumbnail>
+<title>Ultra Vilgax Sonic</title>
+<timesPlayed>42</timesPlayed>
+<creator>sannomiya10yu</creator>
+</game>
+<game id="170649" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000249672/201309151755491518873882.jpg</thumbnail>
+<title>Smash Streak Target</title>
+<timesPlayed>9</timesPlayed>
+<creator>tanakatowa</creator>
+</game>
+<game id="179250" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000258168/2014070508505218968729.jpg</thumbnail>
+<title>Giga Steel Warrior</title>
+<timesPlayed>25</timesPlayed>
+<creator>kyougo02</creator>
+</game>
+<game id="104173" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000204796/2011101614471178788697.jpg</thumbnail>
+<title>Hyper Nitro Hex</title>
+<timesPlayed>37</timesPlayed>
+<creator>kurokiikame</creator>
+</game>
+<game id="44488" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000180931/201012271630071694815704.jpg</thumbnail>
+<title>Fire Slam Space</title>
+<timesPlayed>121</timesPlayed>
+<creator>satokoro725</creator>
+</game>
+<game id="162624" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000032674/20130421164413605825299.jpg</thumbnail>
+<title>Rock Mission Space</title>
+<timesPlayed>20</timesPlayed>
+<creator>norimitu</creator>
+</game>
+<game id="38885" rating="2" difficulty="1" status="1">
+<thumbnail>/gc/static/images2/000186401/20101208191651228401894.jpg</thumbnail>
+<title>Fury Nova Hero</title>
+<timesPlayed>102</timesPlayed>
+<creator>pinki-365</creator>
+</game>
+<game id="22279" rating="1.75" difficulty="1.3125" status="1">
+<thumbnail>/gc/static/images2/000182137/201011012116561790900401.jpg</thumbnail>
+<title>Quake Doom Force</title>
+<timesPlayed>137</timesPlayed>
+<creator>0331510438</creator>
+</game>
+<game id="111457" rating="2.5" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000217188/2011121715025830721140.jpg</thumbnail>
+<title>Earth Ultimate Charge</title>
+<timesPlayed>85</timesPlayed>
+<creator>ryoutake0621</creator>
+</game>
+<game id="21762" rating="3.375" difficulty="1.625" status="1">
+<thumbnail>/gc/static/images2/000182218/201010312003261637889266.jpg</thumbnail>
+<title>Turbo Charge Adventure</title>
+<timesPlayed>304</timesPlayed>
+<creator>kunimasa</creator>
+</game>
+</cartoonnetwork>

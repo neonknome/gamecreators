@@ -1,0 +1,63 @@
+<cartoonnetwork>
+<response status="SUCCESS"/>
+<game id="98653" rating="3.875" difficulty="2" status="1">
+<thumbnail>/gc/static/images2/000089142/201109061957271950637380.jpg</thumbnail>
+<title>Rustbucket Space Storm</title>
+<timesPlayed>107</timesPlayed>
+<creator>raykato1</creator>
+</game>
+<game id="160017" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000190374/20130322224813647222162.jpg</thumbnail>
+<title>Pursuit Racer Mega</title>
+<timesPlayed>19</timesPlayed>
+<creator>you-sarami</creator>
+</game>
+<game id="163521" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000215036/201305061930211200937808.jpg</thumbnail>
+<title>Razor Swampfire Animo</title>
+<timesPlayed>28</timesPlayed>
+<creator>20060213</creator>
+</game>
+<game id="18280" rating="2.25" difficulty="2.25" status="1">
+<thumbnail>/gc/static/images2/000040917/201010262024471713386290.jpg</thumbnail>
+<title>Ultra Lightning Ben</title>
+<timesPlayed>145</timesPlayed>
+<creator>towatowa</creator>
+</game>
+<game id="110978" rating="2.5" difficulty="1" status="1">
+<thumbnail>/gc/static/images2/000216012/20111211224437597291466.jpg</thumbnail>
+<title>Mega Iron Adventure</title>
+<timesPlayed>120</timesPlayed>
+<creator>26510597</creator>
+</game>
+<game id="92031" rating="0" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000089165/20110802195811427925201.jpg</thumbnail>
+<title>Adventure Turbo Danger</title>
+<timesPlayed>167</timesPlayed>
+<creator>aoba19990417</creator>
+</game>
+<game id="93712" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000179489/201108110904211816686945.jpg</thumbnail>
+<title>Hyper Champion Ambush</title>
+<timesPlayed>54</timesPlayed>
+<creator>yuto9999</creator>
+</game>
+<game id="11182" rating="1.25" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000074676/2010101709505740554558.jpg</thumbnail>
+<title>Echo Echo Rustbucket Slam</title>
+<timesPlayed>427</timesPlayed>
+<creator>kyouryuu1093</creator>
+</game>
+<game id="59431" rating="2" difficulty="1" status="1">
+<thumbnail>/gc/static/images2/000193354/20110303160643352346637.jpg</thumbnail>
+<title>Target Cosmic Drone</title>
+<timesPlayed>83</timesPlayed>
+<creator>yuuhitoa</creator>
+</game>
+<game id="446" rating="0.5" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000163961/201010100937151702210530.jpg</thumbnail>
+<title>Fury Battle Dark</title>
+<timesPlayed>197</timesPlayed>
+<creator>kiyomi88</creator>
+</game>
+</cartoonnetwork>

@@ -1,0 +1,63 @@
+<cartoonnetwork>
+<response status="SUCCESS"/>
+<game id="70250" rating="2.5" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000045403/20110409120709681410127.jpg</thumbnail>
+<title>Techno Blaster Techno</title>
+<timesPlayed>77</timesPlayed>
+<creator>20000614</creator>
+</game>
+<game id="131545" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000228061/201206202051151896641132.jpg</thumbnail>
+<title>Metal Gear Slam</title>
+<timesPlayed>39</timesPlayed>
+<creator>naonao25</creator>
+</game>
+<game id="164996" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000242759/20130602064159588565132.jpg</thumbnail>
+<title>Pulse Nitro Rumble</title>
+<timesPlayed>2</timesPlayed>
+<creator>kuritto-</creator>
+</game>
+<game id="26210" rating="2.6875" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000182123/201011081209311486109091.jpg</thumbnail>
+<title>Assault Solar Spidermonkey</title>
+<timesPlayed>127</timesPlayed>
+<creator>20020226</creator>
+</game>
+<game id="130638" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000223136/201206100846131592990787.jpg</thumbnail>
+<title>Racer Laser Razor</title>
+<timesPlayed>28</timesPlayed>
+<creator>20030427</creator>
+</game>
+<game id="21569" rating="3.875" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000071588/201010311741511842080515.jpg</thumbnail>
+<title>Lightning Shadow Rescue</title>
+<timesPlayed>280</timesPlayed>
+<creator>morimiti</creator>
+</game>
+<game id="76533" rating="0.5" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000154946/201105051217411610516977.jpg</thumbnail>
+<title>Smash Storm Ben</title>
+<timesPlayed>89</timesPlayed>
+<creator>ryou2001</creator>
+</game>
+<game id="147092" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000187086/201211031447041125651144.jpg</thumbnail>
+<title>Thunder Siege Champion</title>
+<timesPlayed>36</timesPlayed>
+<creator>bingobingo</creator>
+</game>
+<game id="93956" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000173794/2011081213483579907847.jpg</thumbnail>
+<title>Quake Streak Cosmic</title>
+<timesPlayed>24</timesPlayed>
+<creator>yuheikogepan222</creator>
+</game>
+<game id="99084" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000049016/201109101334031168004290.jpg</thumbnail>
+<title>Fire Ben Fire</title>
+<timesPlayed>62</timesPlayed>
+<creator>mentamakurikuri</creator>
+</game>
+</cartoonnetwork>

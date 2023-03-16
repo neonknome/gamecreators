@@ -1,0 +1,63 @@
+<cartoonnetwork>
+<response status="SUCCESS"/>
+<game id="76210" rating="2.5" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000198706/20110504092430688581843.jpg</thumbnail>
+<title>Smash Techno Turbo</title>
+<timesPlayed>194</timesPlayed>
+<creator>taiki10sai</creator>
+</game>
+<game id="78234" rating="2" difficulty="1" status="1">
+<thumbnail>/gc/static/images2/000199684/201105121949411702166124.jpg</thumbnail>
+<title>Hyper Streak Adventure</title>
+<timesPlayed>45</timesPlayed>
+<creator>panndakuma</creator>
+</game>
+<game id="6685" rating="1.75" difficulty="1.25" status="1">
+<thumbnail>/gc/static/images2/000114108/20101012193449831379779.jpg</thumbnail>
+<title>Escape Mission Droid</title>
+<timesPlayed>340</timesPlayed>
+<creator>yutaka18</creator>
+</game>
+<game id="170857" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000231330/201309172105061253435331.jpg</thumbnail>
+<title>Gear Storm Thunder</title>
+<timesPlayed>30</timesPlayed>
+<creator>yagis800</creator>
+</game>
+<game id="175755" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000104932/20140125114922958464181.jpg</thumbnail>
+<title>Champion Siege Attack</title>
+<timesPlayed>8</timesPlayed>
+<creator>hirokatomoki</creator>
+</game>
+<game id="82092" rating="2.25" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000074911/201106022135181376848535.jpg</thumbnail>
+<title>Danger Razor Adventure</title>
+<timesPlayed>244</timesPlayed>
+<creator>tsujikko</creator>
+</game>
+<game id="2385" rating="1.875" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000049423/20101011083729812925314.jpg</thumbnail>
+<title>Energy Blaster Titan</title>
+<timesPlayed>229</timesPlayed>
+<creator>ntomohisa</creator>
+</game>
+<game id="162737" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000180153/20130425154459801160162.jpg</thumbnail>
+<title>Burst Light Clash</title>
+<timesPlayed>47</timesPlayed>
+<creator>ssk123456</creator>
+</game>
+<game id="176642" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000255838/20140302113532343113997.jpg</thumbnail>
+<title>Ultra Nitro Magno</title>
+<timesPlayed>21</timesPlayed>
+<creator>taka0708</creator>
+</game>
+<game id="28556" rating="2.5" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000183832/201011132042361124517782.jpg</thumbnail>
+<title>Shock Fusion Fury</title>
+<timesPlayed>135</timesPlayed>
+<creator>51555155</creator>
+</game>
+</cartoonnetwork>

@@ -1,0 +1,63 @@
+<cartoonnetwork>
+<response status="SUCCESS"/>
+<game id="123913" rating="1.5" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000223739/20120401095335711922802.jpg</thumbnail>
+<title>Invasion Rustbucket Atomic</title>
+<timesPlayed>98</timesPlayed>
+<creator>20030814</creator>
+</game>
+<game id="21028" rating="2.75" difficulty="1.75" status="1">
+<thumbnail>/gc/static/images2/000118902/20101031104854640717784.jpg</thumbnail>
+<title>Atomic Crusher Champion</title>
+<timesPlayed>393</timesPlayed>
+<creator>yohkocondo0721</creator>
+</game>
+<game id="68316" rating="1.75" difficulty="1.25" status="1">
+<thumbnail>/gc/static/images2/000196580/201104031532432071773615.jpg</thumbnail>
+<title>Defense Cosmic Razor</title>
+<timesPlayed>66</timesPlayed>
+<creator>kahosayayuki</creator>
+</game>
+<game id="42495" rating="2.25" difficulty="1.25" status="1">
+<thumbnail>/gc/static/images2/000154582/201012192158262041681179.jpg</thumbnail>
+<title>Hyper Charge Warp</title>
+<timesPlayed>197</timesPlayed>
+<creator>famichan</creator>
+</game>
+<game id="183728" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000247578/20160611200909152756930.jpg</thumbnail>
+<title>Fusion Thunder Search</title>
+<timesPlayed>0</timesPlayed>
+<creator>sakisuke</creator>
+</game>
+<game id="68079" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000195272/201104022120021016982424.jpg</thumbnail>
+<title>Racer Star Laser</title>
+<timesPlayed>34</timesPlayed>
+<creator>towa0415</creator>
+</game>
+<game id="113158" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000214130/201112311818201709734368.jpg</thumbnail>
+<title>Iron Metal Fusion</title>
+<timesPlayed>42</timesPlayed>
+<creator>hwtbn001</creator>
+</game>
+<game id="32643" rating="0.5" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000151900/201011221602021770216934.jpg</thumbnail>
+<title>Adventure Charge Ultra</title>
+<timesPlayed>136</timesPlayed>
+<creator>minatoya</creator>
+</game>
+<game id="4634" rating="2.5" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000175131/20101011184757130613411.jpg</thumbnail>
+<title>Warrior Vilgax Pursuit</title>
+<timesPlayed>183</timesPlayed>
+<creator>yoskobay</creator>
+</game>
+<game id="171642" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000250137/201310061818432077994103.jpg</thumbnail>
+<title>Challenge Adventure Rush</title>
+<timesPlayed>2</timesPlayed>
+<creator>doragonfire</creator>
+</game>
+</cartoonnetwork>

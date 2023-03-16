@@ -1,0 +1,63 @@
+<cartoonnetwork>
+<response status="SUCCESS"/>
+<game id="19218" rating="2.5" difficulty="0.75" status="1">
+<thumbnail>/gc/static/images2/000081145/201010282023101514833828.jpg</thumbnail>
+<title>Nitro Hyper Hex</title>
+<timesPlayed>212</timesPlayed>
+<creator>hajime01</creator>
+</game>
+<game id="121955" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000222175/20120320145151787788212.jpg</thumbnail>
+<title>Drone Patrol Storm</title>
+<timesPlayed>58</timesPlayed>
+<creator>pagtsozk</creator>
+</game>
+<game id="10599" rating="3.75" difficulty="2.25" status="1">
+<thumbnail>/gc/static/images2/000072385/201010161825401867380600.jpg</thumbnail>
+<title>Assault Force Blaster</title>
+<timesPlayed>159</timesPlayed>
+<creator>hayatook</creator>
+</game>
+<game id="125009" rating="2.5" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000224472/20120407200004178779742.jpg</thumbnail>
+<title>Animo Mega Nano</title>
+<timesPlayed>83</timesPlayed>
+<creator>1124-0921</creator>
+</game>
+<game id="120436" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000220604/201203061714261433292200.jpg</thumbnail>
+<title>Earth Rampage Champion</title>
+<timesPlayed>66</timesPlayed>
+<creator>masato-1031</creator>
+</game>
+<game id="127203" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000100710/201204291140191273975420.jpg</thumbnail>
+<title>Adventure Adventure Mega</title>
+<timesPlayed>38</timesPlayed>
+<creator>tamatyann</creator>
+</game>
+<game id="11049" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000178020/20101017071534730015442.jpg</thumbnail>
+<title>Laser Solar Ben</title>
+<timesPlayed>109</timesPlayed>
+<creator>19979199</creator>
+</game>
+<game id="68258" rating="2" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000171981/20110403132144305374814.jpg</thumbnail>
+<title>Atomic Vilgax Animo</title>
+<timesPlayed>56</timesPlayed>
+<creator>akzevcr8</creator>
+</game>
+<game id="101587" rating="4.375" difficulty="2" status="1">
+<thumbnail>/gc/static/images2/000078566/201109261525041990386628.jpg</thumbnail>
+<title>Plumber Champion Patrol</title>
+<timesPlayed>51</timesPlayed>
+<creator>riet91923</creator>
+</game>
+<game id="20897" rating="2.375" difficulty="1.25" status="1">
+<thumbnail>/gc/static/images2/000182123/201010310800361191055544.jpg</thumbnail>
+<title>Storm Beast Blaster</title>
+<timesPlayed>192</timesPlayed>
+<creator>20020226</creator>
+</game>
+</cartoonnetwork>

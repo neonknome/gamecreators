@@ -1,0 +1,63 @@
+<cartoonnetwork>
+<response status="SUCCESS"/>
+<game id="103517" rating="3.25" difficulty="2.25" status="1">
+<thumbnail>/gc/static/images2/000209765/20111012191017714224290.jpg</thumbnail>
+<title>Warrior Burst Robot</title>
+<timesPlayed>133</timesPlayed>
+<creator>11292003</creator>
+</game>
+<game id="98662" rating="3.25" difficulty="2" status="1">
+<thumbnail>/gc/static/images2/000198299/20110906202544749655046.jpg</thumbnail>
+<title>Target Adventure Fury</title>
+<timesPlayed>49</timesPlayed>
+<creator>04140924</creator>
+</game>
+<game id="170019" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000207989/20130831115340581262037.jpg</thumbnail>
+<title>Ultra Animo Assault</title>
+<timesPlayed>8</timesPlayed>
+<creator>shinn20050623</creator>
+</game>
+<game id="15666" rating="3.6875" difficulty="2.625" status="1">
+<thumbnail>/gc/static/images2/000037838/20101023164729613699388.jpg</thumbnail>
+<title>Challenge Target Pursuit</title>
+<timesPlayed>254</timesPlayed>
+<creator>04201127</creator>
+</game>
+<game id="164134" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000242798/20130518122704172048042.jpg</thumbnail>
+<title>Energy Galaxy Star</title>
+<timesPlayed>51</timesPlayed>
+<creator>reiji0913</creator>
+</game>
+<game id="92995" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000205859/20110807195748766164206.jpg</thumbnail>
+<title>Nano Dark Force</title>
+<timesPlayed>57</timesPlayed>
+<creator>parutiman</creator>
+</game>
+<game id="15878" rating="1.875" difficulty="2.25" status="1">
+<thumbnail>/gc/static/images2/000102090/201010231904111452670908.jpg</thumbnail>
+<title>Shadow Stone Laser</title>
+<timesPlayed>224</timesPlayed>
+<creator>rina0801</creator>
+</game>
+<game id="139960" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000233042/20120830103629711423849.jpg</thumbnail>
+<title>Laser Invasion Ben</title>
+<timesPlayed>45</timesPlayed>
+<creator>keatontama</creator>
+</game>
+<game id="24833" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000092368/201011061506161691739425.jpg</thumbnail>
+<title>Echo Echo Adventure Chase</title>
+<timesPlayed>100</timesPlayed>
+<creator>yurinnto</creator>
+</game>
+<game id="149966" rating="2.5" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000238934/20121201113544206777642.jpg</thumbnail>
+<title>Pulse Danger Adventure</title>
+<timesPlayed>41</timesPlayed>
+<creator>kazato12</creator>
+</game>
+</cartoonnetwork>

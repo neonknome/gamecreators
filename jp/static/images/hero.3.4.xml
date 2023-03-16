@@ -1,0 +1,63 @@
+<cartoonnetwork>
+<response status="SUCCESS"/>
+<game id="140781" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000227892/20120904203759932481157.jpg</thumbnail>
+<title>Galaxy Mega Robot</title>
+<timesPlayed>24</timesPlayed>
+<creator>10garashi</creator>
+</game>
+<game id="94098" rating="3.375" difficulty="2.125" status="1">
+<thumbnail>/gc/static/images2/000152336/20110813102904854013070.jpg</thumbnail>
+<title>Ultra Beast Target</title>
+<timesPlayed>135</timesPlayed>
+<creator>kohana0122</creator>
+</game>
+<game id="81189" rating="2.5" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000042294/2011052818454754691533.jpg</thumbnail>
+<title>Rampage Iron Siege</title>
+<timesPlayed>101</timesPlayed>
+<creator>20010923</creator>
+</game>
+<game id="7134" rating="3.25" difficulty="2" status="1">
+<thumbnail>/gc/static/images2/000170035/201010122108061541351527.jpg</thumbnail>
+<title>Plumber Search Animo</title>
+<timesPlayed>151</timesPlayed>
+<creator>takumigyh</creator>
+</game>
+<game id="151692" rating="3.75" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000230084/201212151832361612931012.jpg</thumbnail>
+<title>Defense Laser Rumble</title>
+<timesPlayed>20</timesPlayed>
+<creator>yuuta1107</creator>
+</game>
+<game id="160796" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000244471/20130330192727566124422.jpg</thumbnail>
+<title>Rustbucket Mega Sonic</title>
+<timesPlayed>7</timesPlayed>
+<creator>takedasingen</creator>
+</game>
+<game id="137174" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000232153/201208111123251041995699.jpg</thumbnail>
+<title>Atomic Energy Fury</title>
+<timesPlayed>11</timesPlayed>
+<creator>eisuke1018</creator>
+</game>
+<game id="166645" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000228004/20130705162558242191339.jpg</thumbnail>
+<title>Invasion Warrior Charge</title>
+<timesPlayed>9</timesPlayed>
+<creator>hawaii0916</creator>
+</game>
+<game id="60400" rating="2.5" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000180479/201103082052581853099531.jpg</thumbnail>
+<title>Echo Echo Warrior Warp</title>
+<timesPlayed>91</timesPlayed>
+<creator>mjmsido005244</creator>
+</game>
+<game id="43159" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000061078/201012222100081677302419.jpg</thumbnail>
+<title>Cosmic Titan Escape</title>
+<timesPlayed>63</timesPlayed>
+<creator>naru4kids</creator>
+</game>
+</cartoonnetwork>

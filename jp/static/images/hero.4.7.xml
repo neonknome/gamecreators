@@ -1,0 +1,63 @@
+<cartoonnetwork>
+<response status="SUCCESS"/>
+<game id="169815" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000227957/20130826170243710812132.jpg</thumbnail>
+<title>Atomic Storm Techno</title>
+<timesPlayed>9</timesPlayed>
+<creator>doragonyou</creator>
+</game>
+<game id="17407" rating="1.875" difficulty="1.375" status="1">
+<thumbnail>/gc/static/images2/000102906/201010250902011188679905.jpg</thumbnail>
+<title>Storm Rustbucket Racer</title>
+<timesPlayed>209</timesPlayed>
+<creator>puraneta</creator>
+</game>
+<game id="103465" rating="1.75" difficulty="0.75" status="1">
+<thumbnail>/gc/static/images2/000069716/201110121113561253630838.jpg</thumbnail>
+<title>Warp Fire Spidermonkey</title>
+<timesPlayed>91</timesPlayed>
+<creator>227mirco</creator>
+</game>
+<game id="15974" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000101977/20101023200642534200796.jpg</thumbnail>
+<title>Sonic Ambush Escape</title>
+<timesPlayed>261</timesPlayed>
+<creator>superkabuto</creator>
+</game>
+<game id="96543" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000205558/201108251153551426804435.jpg</thumbnail>
+<title>Titan Spark Lightning</title>
+<timesPlayed>68</timesPlayed>
+<creator>gjgjwoo5689</creator>
+</game>
+<game id="89153" rating="2.5" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000151485/201107181414471194440602.jpg</thumbnail>
+<title>Rock Smash Battle</title>
+<timesPlayed>64</timesPlayed>
+<creator>563563563</creator>
+</game>
+<game id="111059" rating="0.5" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000216059/201112121808011080141015.jpg</thumbnail>
+<title>Danger Adventure Power</title>
+<timesPlayed>50</timesPlayed>
+<creator>souta0927</creator>
+</game>
+<game id="81122" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000104541/201105281611152021544340.jpg</thumbnail>
+<title>Thunder Nova Doom</title>
+<timesPlayed>59</timesPlayed>
+<creator>akihiro0409</creator>
+</game>
+<game id="150375" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000239438/201212041942271867696663.jpg</thumbnail>
+<title>Star Iron Ultra</title>
+<timesPlayed>34</timesPlayed>
+<creator>vfmeet0630</creator>
+</game>
+<game id="178768" rating="1.5" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000247381/201406011336031450009293.jpg</thumbnail>
+<title>Techno Galaxy Ambush</title>
+<timesPlayed>7</timesPlayed>
+<creator>yoshikunyoshikun</creator>
+</game>
+</cartoonnetwork>

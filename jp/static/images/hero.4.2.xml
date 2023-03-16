@@ -1,0 +1,63 @@
+<cartoonnetwork>
+<response status="SUCCESS"/>
+<game id="90290" rating="0.5" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000202705/201107240842571759623509.jpg</thumbnail>
+<title>Adventure Shock Champion</title>
+<timesPlayed>36</timesPlayed>
+<creator>diremorons</creator>
+</game>
+<game id="44918" rating="4.09375" difficulty="1.40625" status="1">
+<thumbnail>/gc/static/images2/000070992/20101229112856909532555.jpg</thumbnail>
+<title>Adventure Adventure Adventure</title>
+<timesPlayed>98</timesPlayed>
+<creator>satoru1217</creator>
+</game>
+<game id="52065" rating="2.5" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000093272/20110126174350154293359.jpg</thumbnail>
+<title>Champion Thunder Shock</title>
+<timesPlayed>126</timesPlayed>
+<creator>keikei7777</creator>
+</game>
+<game id="51953" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000076306/201101251935081830312737.jpg</thumbnail>
+<title>Force Turbo Burst</title>
+<timesPlayed>205</timesPlayed>
+<creator>ta2ki4779</creator>
+</game>
+<game id="143889" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000235697/201210052054241859319132.jpg</thumbnail>
+<title>Spidermonkey Challenge Danger</title>
+<timesPlayed>11</timesPlayed>
+<creator>tomoki214</creator>
+</game>
+<game id="2146" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000149590/20101011062208276284092.jpg</thumbnail>
+<title>Storm Assault Rocket</title>
+<timesPlayed>143</timesPlayed>
+<creator>ryou1026</creator>
+</game>
+<game id="5573" rating="3.375" difficulty="2.125" status="1">
+<thumbnail>/gc/static/images2/000179028/20101011234855559378969.jpg</thumbnail>
+<title>Crusher Assault Beast</title>
+<timesPlayed>268</timesPlayed>
+<creator>sasakishouta</creator>
+</game>
+<game id="27109" rating="2.25" difficulty="1.75" status="1">
+<thumbnail>/gc/static/images2/000064283/201011102135041876279783.jpg</thumbnail>
+<title>Ambush Battle Universe</title>
+<timesPlayed>177</timesPlayed>
+<creator>ttttaaaa</creator>
+</game>
+<game id="162592" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000244240/201304211413411664687805.jpg</thumbnail>
+<title>Giga Ultra Hyper</title>
+<timesPlayed>15</timesPlayed>
+<creator>06261216</creator>
+</game>
+<game id="110294" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000202562/20111205211118249076861.jpg</thumbnail>
+<title>Champion Plasma Spidermonkey</title>
+<timesPlayed>72</timesPlayed>
+<creator>youtas217</creator>
+</game>
+</cartoonnetwork>

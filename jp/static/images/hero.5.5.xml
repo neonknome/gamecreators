@@ -1,0 +1,63 @@
+<cartoonnetwork>
+<response status="SUCCESS"/>
+<game id="162912" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000245321/20130428082417212732759.jpg</thumbnail>
+<title>Adventure Rampage Blaster</title>
+<timesPlayed>18</timesPlayed>
+<creator>alvinakira</creator>
+</game>
+<game id="42705" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000188085/20101220203011577305756.jpg</thumbnail>
+<title>Ben Titan Echo Echo</title>
+<timesPlayed>152</timesPlayed>
+<creator>atusiatusi</creator>
+</game>
+<game id="86978" rating="2" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000078939/201107022225191442350653.jpg</thumbnail>
+<title>Atomic Spark Warp</title>
+<timesPlayed>77</timesPlayed>
+<creator>yuyutoto5</creator>
+</game>
+<game id="65938" rating="2.75" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000189900/201103272217271775193494.jpg</thumbnail>
+<title>Attack Rocket Lightning</title>
+<timesPlayed>111</timesPlayed>
+<creator>19730206</creator>
+</game>
+<game id="3036" rating="2.5" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000166325/20101011132422859921393.jpg</thumbnail>
+<title>Sonic Plasma Ultimate</title>
+<timesPlayed>178</timesPlayed>
+<creator>lyonjura</creator>
+</game>
+<game id="1341" rating="4.0625" difficulty="1.875" status="1">
+<thumbnail>/gc/static/images2/000106930/20101010142614536758191.jpg</thumbnail>
+<title>Mega Siege Fury</title>
+<timesPlayed>248</timesPlayed>
+<creator>liuzhengyi</creator>
+</game>
+<game id="22085" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000083398/20101101183617881826589.jpg</thumbnail>
+<title>Adventure Animo Nova</title>
+<timesPlayed>114</timesPlayed>
+<creator>0601tukasa</creator>
+</game>
+<game id="24925" rating="2.5" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000109946/20101106170245263589894.jpg</thumbnail>
+<title>Dark Attack Light</title>
+<timesPlayed>164</timesPlayed>
+<creator>kssa_shota</creator>
+</game>
+<game id="120733" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000222243/20120310103950711413777.jpg</thumbnail>
+<title>Adventure Nitro Shadow</title>
+<timesPlayed>35</timesPlayed>
+<creator>ken1117ken</creator>
+</game>
+<game id="151695" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000191622/20121215184041688152413.jpg</thumbnail>
+<title>Spark Steel Hyper</title>
+<timesPlayed>24</timesPlayed>
+<creator>seino-teppen</creator>
+</game>
+</cartoonnetwork>

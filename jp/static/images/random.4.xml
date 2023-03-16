@@ -1,0 +1,63 @@
+<cartoonnetwork>
+<response status="SUCCESS"/>
+<game id="152138" rating="2.5" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000238174/201212201817061054461477.jpg</thumbnail>
+<title>Adventure Adventure Adventure</title>
+<timesPlayed>54</timesPlayed>
+<creator>ty20010816</creator>
+</game>
+<game id="42066" rating="2" difficulty="1" status="1">
+<thumbnail>/gc/static/images2/000182331/201012182104241324472916.jpg</thumbnail>
+<title>Fire Spark Alien</title>
+<timesPlayed>81</timesPlayed>
+<creator>raichi0718</creator>
+</game>
+<game id="2497" rating="2.5" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000131279/20101011090647732176329.jpg</thumbnail>
+<title>Turbo Adventure Sonic</title>
+<timesPlayed>110</timesPlayed>
+<creator>keiji4000</creator>
+</game>
+<game id="37852" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000186692/201012051214502001027878.jpg</thumbnail>
+<title>Lightning Galaxy Spark</title>
+<timesPlayed>134</timesPlayed>
+<creator>20041019</creator>
+</game>
+<game id="89495" rating="2.625" difficulty="1.25" status="1">
+<thumbnail>/gc/static/images2/000204039/201107192324161360804624.jpg</thumbnail>
+<title>Force Razor Techno</title>
+<timesPlayed>380</timesPlayed>
+<creator>semuttkusu</creator>
+</game>
+<game id="46661" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000116194/201101041606251248650993.jpg</thumbnail>
+<title>Defense Pulse Razor</title>
+<timesPlayed>78</timesPlayed>
+<creator>brukenzo</creator>
+</game>
+<game id="48998" rating="3.25" difficulty="2" status="1">
+<thumbnail>/gc/static/images2/000189810/201101131008351847574098.jpg</thumbnail>
+<title>Vilgax Nano Laser</title>
+<timesPlayed>201</timesPlayed>
+<creator>aiueo3393</creator>
+</game>
+<game id="135202" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000190174/201207301315101853034986.jpg</thumbnail>
+<title>Attack Warp Racer</title>
+<timesPlayed>33</timesPlayed>
+<creator>19691117</creator>
+</game>
+<game id="164359" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000246300/20130520163227213863373.jpg</thumbnail>
+<title>Challenge Iron Nova</title>
+<timesPlayed>3</timesPlayed>
+<creator>ethan2006</creator>
+</game>
+<game id="44540" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000135602/201012271901271398852908.jpg</thumbnail>
+<title>Universe Gear Quake</title>
+<timesPlayed>99</timesPlayed>
+<creator>00130605</creator>
+</game>
+</cartoonnetwork>

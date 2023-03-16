@@ -1,0 +1,63 @@
+<cartoonnetwork>
+<response status="SUCCESS"/>
+<game id="27210" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000183589/20101111170738356809438.jpg</thumbnail>
+<title>Escape Siege Turbo</title>
+<timesPlayed>100</timesPlayed>
+<creator>onogi-sinnya</creator>
+</game>
+<game id="177768" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000256720/201404051954391830047948.jpg</thumbnail>
+<title>Rush Stone Target</title>
+<timesPlayed>8</timesPlayed>
+<creator>tttboyturtle</creator>
+</game>
+<game id="115869" rating="0.5" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000161828/201201270721362140194466.jpg</thumbnail>
+<title>Burst Steel Hex</title>
+<timesPlayed>66</timesPlayed>
+<creator>k_2001717</creator>
+</game>
+<game id="31149" rating="3.625" difficulty="2.25" status="1">
+<thumbnail>/gc/static/images2/000184335/20101119221036459859959.jpg</thumbnail>
+<title>Mega Rocket Attack</title>
+<timesPlayed>90</timesPlayed>
+<creator>zaq1xsw20pl</creator>
+</game>
+<game id="31474" rating="2.5" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000155070/201011201520071197427888.jpg</thumbnail>
+<title>Blaster Beast Nano</title>
+<timesPlayed>107</timesPlayed>
+<creator>sonoda11</creator>
+</game>
+<game id="166519" rating="2.5" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000247569/20130630180257445886052.jpg</thumbnail>
+<title>Rock Shock Mission</title>
+<timesPlayed>4</timesPlayed>
+<creator>shotgun8</creator>
+</game>
+<game id="155444" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000235591/201301251857201572708021.jpg</thumbnail>
+<title>Cosmic Steel Power</title>
+<timesPlayed>51</timesPlayed>
+<creator>akihiro0616</creator>
+</game>
+<game id="90533" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000085879/201107251132171516156470.jpg</thumbnail>
+<title>Alien Dark Iron</title>
+<timesPlayed>82</timesPlayed>
+<creator>ookuramasato</creator>
+</game>
+<game id="4975" rating="2.25" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000118807/201010111948461559039655.jpg</thumbnail>
+<title>Stone Hyper Rocket</title>
+<timesPlayed>151</timesPlayed>
+<creator>yama72masa16</creator>
+</game>
+<game id="26187" rating="2.5" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000148832/201011081057531110390652.jpg</thumbnail>
+<title>Razor Crusher Hex</title>
+<timesPlayed>185</timesPlayed>
+<creator>daradara</creator>
+</game>
+</cartoonnetwork>

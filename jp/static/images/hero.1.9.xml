@@ -1,0 +1,63 @@
+<cartoonnetwork>
+<response status="SUCCESS"/>
+<game id="143300" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000223232/201209292052501234210983.jpg</thumbnail>
+<title>Adventure Star Rumble</title>
+<timesPlayed>51</timesPlayed>
+<creator>kazuki7796</creator>
+</game>
+<game id="60343" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000192509/201103081707251700486045.jpg</thumbnail>
+<title>Alien Plasma Charge</title>
+<timesPlayed>177</timesPlayed>
+<creator>s1999916</creator>
+</game>
+<game id="68486" rating="0.75" difficulty="0.75" status="1">
+<thumbnail>/gc/static/images2/000196591/201104032144241382793886.jpg</thumbnail>
+<title>Hex Warp Mission</title>
+<timesPlayed>118</timesPlayed>
+<creator>200113119</creator>
+</game>
+<game id="24085" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000109148/20101104224628732903378.jpg</thumbnail>
+<title>Hero Rumble Plasma</title>
+<timesPlayed>364</timesPlayed>
+<creator>52715132</creator>
+</game>
+<game id="64400" rating="3.875" difficulty="2.375" status="1">
+<thumbnail>/gc/static/images2/000115387/201103221927481150587042.jpg</thumbnail>
+<title>Solar Adventure Streak</title>
+<timesPlayed>99</timesPlayed>
+<creator>yako8585</creator>
+</game>
+<game id="160170" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000123935/20130325102505902090970.jpg</thumbnail>
+<title>Alien Adventure Light</title>
+<timesPlayed>46</timesPlayed>
+<creator>nao10nao10</creator>
+</game>
+<game id="50028" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000114691/201101161726511647512789.jpg</thumbnail>
+<title>Adventure Light Plumber</title>
+<timesPlayed>69</timesPlayed>
+<creator>daikiti2009</creator>
+</game>
+<game id="39090" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000180030/201012091937511817512862.jpg</thumbnail>
+<title>Droid Rush Spike</title>
+<timesPlayed>138</timesPlayed>
+<creator>nonononono</creator>
+</game>
+<game id="90680" rating="2.75" difficulty="1.25" status="1">
+<thumbnail>/gc/static/images2/000159001/201107261116061610994482.jpg</thumbnail>
+<title>Animo Warrior Blaster</title>
+<timesPlayed>128</timesPlayed>
+<creator>nosunosu</creator>
+</game>
+<game id="20877" rating="0.5" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000076608/20101031003721184785174.jpg</thumbnail>
+<title>Shadow Fury Shadow</title>
+<timesPlayed>108</timesPlayed>
+<creator>matumotohideto</creator>
+</game>
+</cartoonnetwork>

@@ -1,0 +1,63 @@
+<cartoonnetwork>
+<response status="SUCCESS"/>
+<game id="37765" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000181111/20101205095913135088123.jpg</thumbnail>
+<title>Mega Cosmic Adventure</title>
+<timesPlayed>77</timesPlayed>
+<creator>holly3020</creator>
+</game>
+<game id="157529" rating="2.25" difficulty="1.75" status="1">
+<thumbnail>/gc/static/images2/000231564/201302182104001785584100.jpg</thumbnail>
+<title>Alien Atomic Galaxy</title>
+<timesPlayed>16</timesPlayed>
+<creator>yuhinarita</creator>
+</game>
+<game id="27054" rating="0.5" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000182289/20101110203509376868224.jpg</thumbnail>
+<title>Search Beast Shock</title>
+<timesPlayed>150</timesPlayed>
+<creator>uchanmam</creator>
+</game>
+<game id="110860" rating="1" difficulty="0.75" status="1">
+<thumbnail>/gc/static/images2/000204678/20111211131614696410296.jpg</thumbnail>
+<title>Ultra Swampfire Hyper</title>
+<timesPlayed>200</timesPlayed>
+<creator>dyuema01</creator>
+</game>
+<game id="155272" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000241401/201301231648501016830513.jpg</thumbnail>
+<title>Mission Thunder Defense</title>
+<timesPlayed>64</timesPlayed>
+<creator>0424597797</creator>
+</game>
+<game id="45224" rating="2.375" difficulty="2.8125" status="1">
+<thumbnail>/gc/static/images2/000185480/201012301238101541334384.jpg</thumbnail>
+<title>Rampage Hyper Adventure</title>
+<timesPlayed>139</timesPlayed>
+<creator>ruipikora</creator>
+</game>
+<game id="28888" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000180935/201011141132382005870119.jpg</thumbnail>
+<title>Sonic Dark Siege</title>
+<timesPlayed>157</timesPlayed>
+<creator>hatyahatya</creator>
+</game>
+<game id="43097" rating="0.5" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000188246/20101222183229583962264.jpg</thumbnail>
+<title>Adventure Ultimate Plasma</title>
+<timesPlayed>64</timesPlayed>
+<creator>fungoo12</creator>
+</game>
+<game id="87101" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000078939/20110703133931211331586.jpg</thumbnail>
+<title>Rumble Techno Attack</title>
+<timesPlayed>86</timesPlayed>
+<creator>yuyutoto5</creator>
+</game>
+<game id="23025" rating="0.5" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000164917/201011031128581603471047.jpg</thumbnail>
+<title>Iron Plumber Rescue</title>
+<timesPlayed>73</timesPlayed>
+<creator>kabochanonimono</creator>
+</game>
+</cartoonnetwork>

@@ -1,0 +1,63 @@
+<cartoonnetwork>
+<response status="SUCCESS"/>
+<game id="97227" rating="2.5" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000070997/201108291355411238477424.jpg</thumbnail>
+<title>Battle Fury Rampage</title>
+<timesPlayed>63</timesPlayed>
+<creator>6fgtakumi</creator>
+</game>
+<game id="12214" rating="1" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000177793/20101018093152345978747.jpg</thumbnail>
+<title>Vilgax Ultimate Nitro</title>
+<timesPlayed>125</timesPlayed>
+<creator>0725465670</creator>
+</game>
+<game id="159761" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000242063/20130319153827307775409.jpg</thumbnail>
+<title>Ambush Pulse Charge</title>
+<timesPlayed>13</timesPlayed>
+<creator>daichan0907</creator>
+</game>
+<game id="47982" rating="3.9375" difficulty="2.25" status="1">
+<thumbnail>/gc/static/images2/000055248/201101082147201484819684.jpg</thumbnail>
+<title>Earth Adventure Racer</title>
+<timesPlayed>89</timesPlayed>
+<creator>hibikikiki</creator>
+</game>
+<game id="164613" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000197166/201305251808392063821223.jpg</thumbnail>
+<title>Pulse Drone Rush</title>
+<timesPlayed>39</timesPlayed>
+<creator>3kwatanabe</creator>
+</game>
+<game id="38661" rating="0.5" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000154885/20101207191923602066435.jpg</thumbnail>
+<title>Breaker Alien Droid</title>
+<timesPlayed>60</timesPlayed>
+<creator>nacho888</creator>
+</game>
+<game id="42472" rating="0.5" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000187647/201012192052392075421450.jpg</thumbnail>
+<title>Smash Galaxy Robot</title>
+<timesPlayed>87</timesPlayed>
+<creator>ashitadesuyo</creator>
+</game>
+<game id="132216" rating="2.5" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000221430/201206301228021705202779.jpg</thumbnail>
+<title>Earth Beast Search</title>
+<timesPlayed>44</timesPlayed>
+<creator>nishimoto</creator>
+</game>
+<game id="152052" rating="0.5" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000236881/201212192017171536048410.jpg</thumbnail>
+<title>Titan Blaster Nano</title>
+<timesPlayed>17</timesPlayed>
+<creator>seiji0703</creator>
+</game>
+<game id="15791" rating="2.5" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000099214/20101023180317589929853.jpg</thumbnail>
+<title>Crusher Search Drone</title>
+<timesPlayed>148</timesPlayed>
+<creator>youtarou56</creator>
+</game>
+</cartoonnetwork>

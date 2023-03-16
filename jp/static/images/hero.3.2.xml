@@ -1,0 +1,63 @@
+<cartoonnetwork>
+<response status="SUCCESS"/>
+<game id="120591" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000118900/20120308162432718548297.jpg</thumbnail>
+<title>Adventure Shadow Mega</title>
+<timesPlayed>12</timesPlayed>
+<creator>kingyo-0</creator>
+</game>
+<game id="55065" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000190437/20110210154827804536994.jpg</thumbnail>
+<title>Energy Quake Pursuit</title>
+<timesPlayed>186</timesPlayed>
+<creator>rikojosecom</creator>
+</game>
+<game id="168950" rating="2.5" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000248715/201308111656221755707166.jpg</thumbnail>
+<title>Streak Ultra Fusion</title>
+<timesPlayed>27</timesPlayed>
+<creator>ryuu1015</creator>
+</game>
+<game id="50318" rating="1.75" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000027421/2011011808484453907765.jpg</thumbnail>
+<title>Warp Rampage Adventure</title>
+<timesPlayed>160</timesPlayed>
+<creator>kkkkkk123456</creator>
+</game>
+<game id="137122" rating="1.5" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000124378/201208101755422029209602.jpg</thumbnail>
+<title>Droid Quake Plasma</title>
+<timesPlayed>57</timesPlayed>
+<creator>miki1850</creator>
+</game>
+<game id="175626" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000193326/20140119223714625263826.jpg</thumbnail>
+<title>Power Beast Rush</title>
+<timesPlayed>4</timesPlayed>
+<creator>mishatakumi</creator>
+</game>
+<game id="171999" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000250391/20131016125542506338949.jpg</thumbnail>
+<title>Rush Rush Quake</title>
+<timesPlayed>23</timesPlayed>
+<creator>00597056</creator>
+</game>
+<game id="55664" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000192047/20110212102547847080354.jpg</thumbnail>
+<title>Adventure Assault Echo Echo</title>
+<timesPlayed>97</timesPlayed>
+<creator>mymr71017</creator>
+</game>
+<game id="40364" rating="0.5" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000185281/201012121817151517857805.jpg</thumbnail>
+<title>Nano Rush Search</title>
+<timesPlayed>78</timesPlayed>
+<creator>sun_moon</creator>
+</game>
+<game id="61031" rating="3.5" difficulty="2.25" status="1">
+<thumbnail>/gc/static/images2/000192507/20110312142525588505818.jpg</thumbnail>
+<title>Clash Adventure Atomic</title>
+<timesPlayed>91</timesPlayed>
+<creator>ishikura</creator>
+</game>
+</cartoonnetwork>

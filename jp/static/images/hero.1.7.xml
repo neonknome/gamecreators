@@ -1,0 +1,63 @@
+<cartoonnetwork>
+<response status="SUCCESS"/>
+<game id="110001" rating="2.75" difficulty="1.25" status="1">
+<thumbnail>/gc/static/images2/000216337/201112031734381465692568.jpg</thumbnail>
+<title>Battle Attack Spark</title>
+<timesPlayed>99</timesPlayed>
+<creator>taai2003</creator>
+</game>
+<game id="127754" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000078939/20120503172033354148436.jpg</thumbnail>
+<title>Rush Smash Ultimate</title>
+<timesPlayed>82</timesPlayed>
+<creator>yuyutoto5</creator>
+</game>
+<game id="487" rating="4.45093" difficulty="1.2749" status="1">
+<thumbnail>/gc/static/images2/000149590/20101010094655184411415.jpg</thumbnail>
+<title>Ultimate Fusion Search</title>
+<timesPlayed>751</timesPlayed>
+<creator>ryou1026</creator>
+</game>
+<game id="173147" rating="0.5" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000213834/20131112202730937077947.jpg</thumbnail>
+<title>Battle Battle Vilgax</title>
+<timesPlayed>13</timesPlayed>
+<creator>kamimura1116</creator>
+</game>
+<game id="97431" rating="3.75" difficulty="2.25" status="1">
+<thumbnail>/gc/static/images2/000101057/201108302158561897730691.jpg</thumbnail>
+<title>Crusher Spark Slam</title>
+<timesPlayed>63</timesPlayed>
+<creator>yuutokunlove</creator>
+</game>
+<game id="181033" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000258660/201409242101592142129785.jpg</thumbnail>
+<title>Rampage Fire Search</title>
+<timesPlayed>6</timesPlayed>
+<creator>sofinjekusuke</creator>
+</game>
+<game id="26175" rating="4.25" difficulty="2.5" status="1">
+<thumbnail>/gc/static/images2/000088155/20101108071902957833531.jpg</thumbnail>
+<title>Techno Siege Robot</title>
+<timesPlayed>404</timesPlayed>
+<creator>yama0405</creator>
+</game>
+<game id="6070" rating="2.25" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000107347/201010121558112076886331.jpg</thumbnail>
+<title>Space Swampfire Ultimate</title>
+<timesPlayed>199</timesPlayed>
+<creator>sugitatoui</creator>
+</game>
+<game id="21206" rating="2.5" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000133703/201010311340134115789.jpg</thumbnail>
+<title>Razor Drone Energy</title>
+<timesPlayed>130</timesPlayed>
+<creator>01101216</creator>
+</game>
+<game id="40249" rating="2.5" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000185255/20101212155454891659619.jpg</thumbnail>
+<title>Search Vilgax Rescue</title>
+<timesPlayed>179</timesPlayed>
+<creator>suzukihideaki</creator>
+</game>
+</cartoonnetwork>

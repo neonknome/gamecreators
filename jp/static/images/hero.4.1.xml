@@ -1,0 +1,63 @@
+<cartoonnetwork>
+<response status="SUCCESS"/>
+<game id="177605" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000246080/20140401154016201594838.jpg</thumbnail>
+<title>Spark Dark Droid</title>
+<timesPlayed>1</timesPlayed>
+<creator>sakamayu</creator>
+</game>
+<game id="24880" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000154885/20101106161210505226836.jpg</thumbnail>
+<title>Sonic Battle Laser</title>
+<timesPlayed>105</timesPlayed>
+<creator>nacho888</creator>
+</game>
+<game id="59812" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000193460/20110305180718775047314.jpg</thumbnail>
+<title>Nitro Rustbucket Doom</title>
+<timesPlayed>78</timesPlayed>
+<creator>taharasyota</creator>
+</game>
+<game id="129041" rating="2.75" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000156427/201205182145102117801850.jpg</thumbnail>
+<title>Nova Sonic Target</title>
+<timesPlayed>67</timesPlayed>
+<creator>05571174</creator>
+</game>
+<game id="134343" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000085353/201207241735281403569741.jpg</thumbnail>
+<title>Laser Turbo Gear</title>
+<timesPlayed>77</timesPlayed>
+<creator>bonchan7</creator>
+</game>
+<game id="75268" rating="3.375" difficulty="1.125" status="1">
+<thumbnail>/gc/static/images2/000198789/20110430185152838032756.jpg</thumbnail>
+<title>Power Hero Rumble</title>
+<timesPlayed>116</timesPlayed>
+<creator>aoi12118</creator>
+</game>
+<game id="8753" rating="2.5" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000179448/20101014175521118247057.jpg</thumbnail>
+<title>Rustbucket Pursuit Pursuit</title>
+<timesPlayed>88</timesPlayed>
+<creator>19770524</creator>
+</game>
+<game id="108271" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000162364/201111190942571513282364.jpg</thumbnail>
+<title>Techno Ambush Invasion</title>
+<timesPlayed>36</timesPlayed>
+<creator>toujisioyama</creator>
+</game>
+<game id="77908" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000196094/201105101739531537637573.jpg</thumbnail>
+<title>Spark Streak Metal</title>
+<timesPlayed>57</timesPlayed>
+<creator>chinkun2003</creator>
+</game>
+<game id="4198" rating="1.5" difficulty="1" status="1">
+<thumbnail>/gc/static/images2/000179367/201010111725051375382771.jpg</thumbnail>
+<title>Dark Charge Dark</title>
+<timesPlayed>95</timesPlayed>
+<creator>k20020906</creator>
+</game>
+</cartoonnetwork>

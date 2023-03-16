@@ -1,0 +1,63 @@
+<cartoonnetwork>
+<response status="SUCCESS"/>
+<game id="174223" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000248933/201312090759531878664399.jpg</thumbnail>
+<title>Challenge Challenge Atomic</title>
+<timesPlayed>13</timesPlayed>
+<creator>tasukudesu</creator>
+</game>
+<game id="60842" rating="2.5" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000008601/20110312074620405761313.jpg</thumbnail>
+<title>Siege Thunder Thunder</title>
+<timesPlayed>135</timesPlayed>
+<creator>20010804</creator>
+</game>
+<game id="56728" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000066338/20110215220431892454505.jpg</thumbnail>
+<title>Universe Shadow Nano</title>
+<timesPlayed>99</timesPlayed>
+<creator>tomokayuya</creator>
+</game>
+<game id="148267" rating="0.5" difficulty="0.5" status="1">
+<thumbnail>/gc/static/images2/000238174/20121115204858374104674.jpg</thumbnail>
+<title>Pursuit Power Sonic</title>
+<timesPlayed>29</timesPlayed>
+<creator>ty20010816</creator>
+</game>
+<game id="97504" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000202035/20110831135914555784524.jpg</thumbnail>
+<title>Star Smash Droid</title>
+<timesPlayed>20</timesPlayed>
+<creator>sakuyayuuki</creator>
+</game>
+<game id="14850" rating="3" difficulty="1.5" status="1">
+<thumbnail>/gc/static/images2/000081331/201010222127011101434867.jpg</thumbnail>
+<title>Robot Alien Power</title>
+<timesPlayed>225</timesPlayed>
+<creator>8282828282</creator>
+</game>
+<game id="9608" rating="1.5" difficulty="1" status="1">
+<thumbnail>/gc/static/images2/000040533/20101015204938573737411.jpg</thumbnail>
+<title>Alien Plasma Atomic</title>
+<timesPlayed>224</timesPlayed>
+<creator>iwasakishizue</creator>
+</game>
+<game id="27028" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000183495/201011102006591583634002.jpg</thumbnail>
+<title>Laser Metal Hex</title>
+<timesPlayed>104</timesPlayed>
+<creator>06101999</creator>
+</game>
+<game id="4338" rating="0" difficulty="0" status="1">
+<thumbnail>/gc/static/images2/000037714/2010101117513575562140.jpg</thumbnail>
+<title>Plasma Cosmic Nova</title>
+<timesPlayed>231</timesPlayed>
+<creator>shogo812</creator>
+</game>
+<game id="15109" rating="2" difficulty="1" status="1">
+<thumbnail>/gc/static/images2/000179863/20101023095807132040433.jpg</thumbnail>
+<title>Fury Robot Spark</title>
+<timesPlayed>207</timesPlayed>
+<creator>gonta2010</creator>
+</game>
+</cartoonnetwork>
