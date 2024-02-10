@@ -1,6 +1,6 @@
 <cartoonnetwork>
 <tunein>
-★★★★ curated by neonknome#7835 ★★★★
+★★★★ curated by neonknome ★★★★
 </tunein>
 <servicePath>
 <![CDATA[ /do.service ]]>
