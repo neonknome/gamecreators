@@ -1,6 +1,6 @@
 <cartoonnetwork>
 <tunein>
-★★★★ curated by neonknome ★★★★
+curated by neonknome & OS sprites designed by SpicyGuyofSpice
 </tunein>
 <servicePath>
 <![CDATA[ /do.service ]]>
