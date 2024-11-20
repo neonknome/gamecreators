@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10936316" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>images22/Sincere/Victor/Boing/10936316.jpg</thumbnail>
+		<title>Ambush Iron Lightning</title>
+		<creator>/Sincere/Victor/Boing/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="10936424" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images22/Nomadic/Zeb/Gong/10936424.jpg</thumbnail>
+		<title>Alien Invasion Warrior</title>
+		<creator>/Nomadic/Zeb/Gong/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10919034" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="2">
+		<thumbnail>images22/Unusual/Leon/Spiral/10919034.jpg</thumbnail>
+		<title>Magno Titan Defense</title>
+		<creator>/Unusual/Leon/Spiral/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="10936013" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images22/Jolly/Julian/Howler/10936013.jpg</thumbnail>
+		<title>Energy Invasion Champion</title>
+		<creator>/Jolly/Julian/Howler/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10918998" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images22/Northern/Marcus/Turtle/10918998.jpg</thumbnail>
+		<title>Vilgax Blaster Beast</title>
+		<creator>/Northern/Marcus/Turtle/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10935483" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>images22/Royal/Bradley/Bullfrog/10935483.jpg</thumbnail>
+		<title>Steel Spike Alien</title>
+		<creator>/Royal/Bradley/Bullfrog/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10935717" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images22/Wild/Mike/Squawk/10935717.jpg</thumbnail>
+		<title>Rush Fire Thunder</title>
+		<creator>/Wild/Mike/Squawk/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10935370" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images22/Royal/Kylie/Penguin/10935370.jpg</thumbnail>
+		<title>Rush Rush Mission</title>
+		<creator>/Royal/Kylie/Penguin/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10953659" rating="2.5555555555555554" difficulty="0" status="1" timesWon="134" timesPlayed="605">
+		<thumbnail>images22/Hefty/Brandy/Turtle/10953659.jpg</thumbnail>
+		<title>Clash Iron Rescue</title>
+		<creator>/Hefty/Brandy/Turtle/</creator>
+		<timesPlayed>605</timesPlayed>
+	</game>
+	<game id="10935439" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images22/Awful/Edward/Acrobat/10935439.jpg</thumbnail>
+		<title>Beast Pulse Vilgax</title>
+		<creator>/Awful/Edward/Acrobat/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

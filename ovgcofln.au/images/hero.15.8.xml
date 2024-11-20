@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10952262" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images22/Scary/Kevin/Saber/10952262.jpg</thumbnail>
+		<title>Dark Storm Galaxy</title>
+		<creator>/Scary/Kevin/Saber/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10918223" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images22/Purple/Sam/Warp/10918223.jpg</thumbnail>
+		<title>Rumble Swampfire Warrior</title>
+		<creator>/Purple/Sam/Warp/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10935113" rating="5.0" difficulty="0" status="1" timesWon="0" timesPlayed="2">
+		<thumbnail>images22/Ghastly/Oliver/Orchid/10935113.jpg</thumbnail>
+		<title>Streak Cosmic Beast</title>
+		<creator>/Ghastly/Oliver/Orchid/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="10918156" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="1">
+		<thumbnail>images22/Brawny/Bradley/Howler/10918156.jpg</thumbnail>
+		<title>Hex Mission Plumber</title>
+		<creator>/Brawny/Bradley/Howler/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10928201" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images22/Massive/Joseph/Burst/10928201.jpg</thumbnail>
+		<title>Galaxy Shadow Crusher</title>
+		<creator>/Massive/Joseph/Burst/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10934652" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="1">
+		<thumbnail>images22/Cartoon/Cartoon/Cartoon/10934652.jpg</thumbnail>
+		<title>Warrior Rescue Ambush</title>
+		<creator>/Cartoon/Cartoon/Cartoon/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10935006" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images22/Swift/Mitchell/Parsec/10935006.jpg</thumbnail>
+		<title>Space Assault Clash</title>
+		<creator>/Swift/Mitchell/Parsec/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10934766" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images22/Savage/Jacob/Pulse/10934766.jpg</thumbnail>
+		<title>Nova Assault Earth</title>
+		<creator>/Savage/Jacob/Pulse/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10928655" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="7">
+		<thumbnail>images22/Handsome/Jeffrey/Aardvark/10928655.jpg</thumbnail>
+		<title>Metal Breaker Ultimate</title>
+		<creator>/Handsome/Jeffrey/Aardvark/</creator>
+		<timesPlayed>7</timesPlayed>
+	</game>
+	<game id="10920120" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="2">
+		<thumbnail>images22/Red/Mitchell/Ninja/10920120.jpg</thumbnail>
+		<title>Energy Burst Adventure</title>
+		<creator>/Red/Mitchell/Ninja/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+</cartoonnetwork>

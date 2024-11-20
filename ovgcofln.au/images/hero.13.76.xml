@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4917094" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Robotic/Wolfgang/Kudzu/4917094.jpg</thumbnail>
+		<title>Rampage Galaxy Gear</title>
+		<creator>/Robotic/Wolfgang/Kudzu/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917054" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Powerful/Jayden/Planet/4917054.jpg</thumbnail>
+		<title>Spike Adventure Mission</title>
+		<creator>/Powerful/Jayden/Planet/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917065" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Tricky/Amanda/Citrus/4917065.jpg</thumbnail>
+		<title>Storm Nitro Gear</title>
+		<creator>/Tricky/Amanda/Citrus/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917077" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Royal/Jose/Rumble/4917077.jpg</thumbnail>
+		<title>Ultra Warrior Challenge</title>
+		<creator>/Royal/Jose/Rumble/</creator>
+		<timesPlayed>8</timesPlayed>
+	</game>
+	<game id="4917060" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Hideous/Hansel/Pelican/4917060.jpg</thumbnail>
+		<title>Star Chase Warp</title>
+		<creator>/Hideous/Hansel/Pelican/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916992" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Leaping/Spike/Fury/4916992.jpg</thumbnail>
+		<title>Ambush Charge Chase</title>
+		<creator>/Leaping/Spike/Fury/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4916999" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Mirthful/Sara/Droid/4916999.jpg</thumbnail>
+		<title>Sonic Adventure Nitro</title>
+		<creator>/Mirthful/Sara/Droid/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4916976" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Zippy/Matthew/Fireball/4916976.jpg</thumbnail>
+		<title>Turbo Energy Clash</title>
+		<creator>/Zippy/Matthew/Fireball/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916967" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Puzzling/Pearl/Prism/4916967.jpg</thumbnail>
+		<title>Beast Nitro Sonic</title>
+		<creator>/Puzzling/Pearl/Prism/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916970" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Red/Alex/Bolt/4916970.jpg</thumbnail>
+		<title>Rampage Shadow Lightning</title>
+		<creator>/Red/Alex/Bolt/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4897505" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Dynamic/Dewey/Spider/4897505.jpg</thumbnail>
+		<title>Doom Escape Ambush</title>
+		<creator>/Dynamic/Dewey/Spider/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4897422" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Savage/Bucky/Hiccup/4897422.jpg</thumbnail>
+		<title>Laser Attack Streak</title>
+		<creator>/Savage/Bucky/Hiccup/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4897424" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Twisty/Austin/Storm/4897424.jpg</thumbnail>
+		<title>Ultra Alien Ambush</title>
+		<creator>/Twisty/Austin/Storm/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4897428" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Surreal/Florence/Spumoni/4897428.jpg</thumbnail>
+		<title>Hyper Fusion Humongousaur</title>
+		<creator>/Surreal/Florence/Spumoni/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897441" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Green/Ben/Ricochet/4897441.jpg</thumbnail>
+		<title>Adventure Galaxy Hyper</title>
+		<creator>/Green/Ben/Ricochet/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4897457" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Gloomy/Mark/Ooze/4897457.jpg</thumbnail>
+		<title>Attack Light Breaker</title>
+		<creator>/Gloomy/Mark/Ooze/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897413" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Fearless/Nicholas/Bolt/4897413.jpg</thumbnail>
+		<title>Beast Pursuit Earth</title>
+		<creator>/Fearless/Nicholas/Bolt/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4897402" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Alien/Chad/Universe/4897402.jpg</thumbnail>
+		<title>Hero Fury Gear</title>
+		<creator>/Alien/Chad/Universe/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4897404" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Bashful/Douglas/Gulch/4897404.jpg</thumbnail>
+		<title>Hyper Hyper Humongousaur</title>
+		<creator>/Bashful/Douglas/Gulch/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897393" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Atomic/Jayden/Phantom/4897393.jpg</thumbnail>
+		<title>Warrior Rumble Adventure</title>
+		<creator>/Atomic/Jayden/Phantom/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

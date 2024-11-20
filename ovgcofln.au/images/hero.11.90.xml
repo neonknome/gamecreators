@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10055845" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>images22/Jumping/Pierre/Droid/10055845.jpg</thumbnail>
+		<title>Power Mission Battle</title>
+		<creator>/Jumping/Pierre/Droid/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="10069100" rating="5.0" difficulty="0" status="1" timesWon="0" timesPlayed="5">
+		<thumbnail>images22/Alien/Jacob/Brick/10069100.jpg</thumbnail>
+		<title>Swampfire Hero Hex</title>
+		<creator>/Alien/Jacob/Brick/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="10038105" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images22/Swift/Breanna/Blitz/10038105.jpg</thumbnail>
+		<title>Doom Plumber Shadow</title>
+		<creator>/Swift/Breanna/Blitz/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10069102" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>images22/Massive/Dawn/Glacier/10069102.jpg</thumbnail>
+		<title>Target Ultimate Battle</title>
+		<creator>/Massive/Dawn/Glacier/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10916779" rating="3.0" difficulty="0" status="1" timesWon="2" timesPlayed="9">
+		<thumbnail>images22/Skinny/Jacob/Bullfrog/10916779.jpg</thumbnail>
+		<title>Titan Doom Nova</title>
+		<creator>/Skinny/Jacob/Bullfrog/</creator>
+		<timesPlayed>9</timesPlayed>
+	</game>
+	<game id="10055807" rating="5.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images22/Sneaky/Jackie/Dodo/10055807.jpg</thumbnail>
+		<title>Power Power Pursuit</title>
+		<creator>/Sneaky/Jackie/Dodo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10063843" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>images22/Shrewd/Minerva/Aurora/10063843.jpg</thumbnail>
+		<title>Storm Plasma Spike</title>
+		<creator>/Shrewd/Minerva/Aurora/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="10062600" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="1">
+		<thumbnail>images22/Weird/Grover/Monkey/10062600.jpg</thumbnail>
+		<title>Swampfire Fire Universe</title>
+		<creator>/Weird/Grover/Monkey/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10068760" rating="5.0" difficulty="0" status="1" timesWon="4" timesPlayed="10">
+		<thumbnail>images22/Dynamic/Leopold/Wizard/10068760.jpg</thumbnail>
+		<title>Swampfire Mega Battle</title>
+		<creator>/Dynamic/Leopold/Wizard/</creator>
+		<timesPlayed>10</timesPlayed>
+	</game>
+	<game id="10065549" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="2">
+		<thumbnail>images22/Brave/Tabitha/Cupcake/10065549.jpg</thumbnail>
+		<title>Alien Swampfire Star</title>
+		<creator>/Brave/Tabitha/Cupcake/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+</cartoonnetwork>

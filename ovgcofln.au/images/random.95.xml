@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17338691" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="3">
+		<thumbnail>images22/Gentle/Clifford/Beast/17338691.jpg</thumbnail>
+		<title>Ben Adventure Cosmic</title>
+		<creator>Gentle Clifford Beast</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="17318679" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="3">
+		<thumbnail>images22/Ancient/Finn/Iguana/17318679.jpg</thumbnail>
+		<title>Pursuit Warrior Rescue</title>
+		<creator>Ancient Finn Iguana</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="17411231" rating="0.0" difficulty="0" status="1" timesWon="3" timesPlayed="4">
+		<thumbnail>images22/Strange/Ariel/Gumdrop/17411231.jpg</thumbnail>
+		<title>Defense Spidermonkey Droid</title>
+		<creator>Strange Ariel Gumdrop</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="17411294" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="18">
+		<thumbnail>images22/Strange/Ariel/Gumdrop/17411294.jpg</thumbnail>
+		<title>Warrior Force Robot</title>
+		<creator>Strange Ariel Gumdrop</creator>
+		<timesPlayed>18</timesPlayed>
+	</game>
+	<game id="17396080" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="2">
+		<thumbnail>images22/Pleasant/Margaret/Dogfish/17396080.jpg</thumbnail>
+		<title>Alien Mega Danger</title>
+		<creator>Pleasant Margaret Dogfish</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="16983247" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="10">
+		<thumbnail>images22/Brisk/Ben/Ballyhoo/16983247.jpg</thumbnail>
+		<title>Spike Drone Ultra</title>
+		<creator>Brisk Ben Ballyhoo</creator>
+		<timesPlayed>10</timesPlayed>
+	</game>
+	<game id="17402611" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>images22/Ironic/Gulliver/Pirate/17402611.jpg</thumbnail>
+		<title>Hyper Earth Fusion</title>
+		<creator>Ironic Gulliver Pirate</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="16965108" rating="0.0" difficulty="0" status="1" timesWon="3" timesPlayed="6">
+		<thumbnail>images22/Feral/Andrew/Mustang/16965108.jpg</thumbnail>
+		<title>Titan Hyper Breaker</title>
+		<creator>Feral Andrew Mustang</creator>
+		<timesPlayed>6</timesPlayed>
+	</game>
+	<game id="17338241" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="2">
+		<thumbnail>images22/Groovy/Dylan/Bongo/17338241.jpg</thumbnail>
+		<title>Universe Charge Thunder</title>
+		<creator>Groovy Dylan Bongo</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17022147" rating="0.0" difficulty="0" status="1" timesWon="3" timesPlayed="3">
+		<thumbnail>images22/Loony/Ricardo/Quake/17022147.jpg</thumbnail>
+		<title>Adventure Thunder Blaster</title>
+		<creator>Loony Ricardo Quake</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+</cartoonnetwork>

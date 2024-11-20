@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16907470" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="3">
+		<thumbnail>images22/Cartoon/Cartoon/Cartoon/16907470.jpg</thumbnail>
+		<title>Titan Animo Adventure</title>
+		<creator>Cartoon Cartoon Cartoon</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="17318747" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="2">
+		<thumbnail>images22/Gross/Newton/Windmill/17318747.jpg</thumbnail>
+		<title>Shadow Blaster Atomic</title>
+		<creator>Gross Newton Windmill</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17350134" rating="0.0" difficulty="0" status="1" timesWon="6" timesPlayed="32">
+		<thumbnail>images22/Magnetic/Ramona/Bramble/17350134.jpg</thumbnail>
+		<title>Nova Plasma Cannonbolt</title>
+		<creator>Magnetic Ramona Bramble</creator>
+		<timesPlayed>32</timesPlayed>
+	</game>
+	<game id="16954763" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="5">
+		<thumbnail>images22/Sleepy/Cameron/Gamer/16954763.jpg</thumbnail>
+		<title>Ultimate Escape Racer</title>
+		<creator>Sleepy Cameron Gamer</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="17462598" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="3">
+		<thumbnail>images22/Active/Izzy/Paprika/17462598.jpg</thumbnail>
+		<title>Power Rescue Fusion</title>
+		<creator>Active Izzy Paprika</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="16997043" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>images22/Cartoon/Cartoon/Cartoon/16997043.jpg</thumbnail>
+		<title>Cannonbolt Titan Water</title>
+		<creator>Cartoon Cartoon Cartoon</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="16969957" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="3">
+		<thumbnail>images22/Haunted/Harry/Catapult/16969957.jpg</thumbnail>
+		<title>Warp Fire Warrior</title>
+		<creator>Haunted Harry Catapult</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="17033336" rating="0.0" difficulty="0" status="1" timesWon="5" timesPlayed="6">
+		<thumbnail>images22/Epic/Igor/Minotaur/17033336.jpg</thumbnail>
+		<title>Search Energy Chill</title>
+		<creator>Epic Igor Minotaur</creator>
+		<timesPlayed>6</timesPlayed>
+	</game>
+	<game id="17335491" rating="0.0" difficulty="0" status="1" timesWon="5" timesPlayed="5">
+		<thumbnail>images22/Scurvy/Payton/Pelican/17335491.jpg</thumbnail>
+		<title>Plasma Magno Space</title>
+		<creator>Scurvy Payton Pelican</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="17413070" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="5">
+		<thumbnail>images22/Soggy/Quinn/Pizza/17413070.jpg</thumbnail>
+		<title>Star Attack Magno</title>
+		<creator>Soggy Quinn Pizza</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+</cartoonnetwork>

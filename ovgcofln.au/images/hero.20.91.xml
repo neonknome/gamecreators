@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4896342" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Surreal/Natasha/Crater/4896342.jpg</thumbnail>
+		<title>Champion Alien Ambush</title>
+		<creator>/Surreal/Natasha/Crater/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4896380" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Comical/Clay/Coconut/4896380.jpg</thumbnail>
+		<title>Spark Steel Power</title>
+		<creator>/Comical/Clay/Coconut/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4896310" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Awesome/Caroline/Cobra/4896310.jpg</thumbnail>
+		<title>Beast Breaker Humongousaur</title>
+		<creator>/Awesome/Caroline/Cobra/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4896323" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Loopy/Spike/Cobra/4896323.jpg</thumbnail>
+		<title>Clash Adventure Search</title>
+		<creator>/Loopy/Spike/Cobra/</creator>
+		<timesPlayed>8</timesPlayed>
+	</game>
+	<game id="4896302" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Diligent/Stacey/Lavender/4896302.jpg</thumbnail>
+		<title>Humongousaur Ultimate Fury</title>
+		<creator>/Diligent/Stacey/Lavender/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4896219" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Alien/Raymond/Chipmunk/4896219.jpg</thumbnail>
+		<title>Patrol Challenge Attack</title>
+		<creator>/Alien/Raymond/Chipmunk/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4896224" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Swift/Landon/Buzzard/4896224.jpg</thumbnail>
+		<title>Siege Giga Nano</title>
+		<creator>/Swift/Landon/Buzzard/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4896200" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Blue/Misty/Atom/4896200.jpg</thumbnail>
+		<title>Smash Hex Fury</title>
+		<creator>/Blue/Misty/Atom/</creator>
+		<timesPlayed>7</timesPlayed>
+	</game>
+	<game id="4896236" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Curious/Brian/Creature/4896236.jpg</thumbnail>
+		<title>Humongousaur Battle Charge</title>
+		<creator>/Curious/Brian/Creature/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4896168" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Massive/Chris/Monolith/4896168.jpg</thumbnail>
+		<title>Assault Doom Adventure</title>
+		<creator>/Massive/Chris/Monolith/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

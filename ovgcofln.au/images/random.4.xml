@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17399233" rating="0.0" difficulty="0" status="1" timesWon="8" timesPlayed="9">
+		<thumbnail>images22/Puzzling/Frank/Wolf/17399233.jpg</thumbnail>
+		<title>Battle Spike Rush</title>
+		<creator>Puzzling Frank Wolf</creator>
+		<timesPlayed>9</timesPlayed>
+	</game>
+	<game id="17013289" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="3">
+		<thumbnail>images22/Artful/Michael/Ostrich/17013289.jpg</thumbnail>
+		<title>Escape Magno Breaker</title>
+		<creator>Artful Michael Ostrich</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="17364488" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="3">
+		<thumbnail>images22/Hectic/Taylor/Gazebo/17364488.jpg</thumbnail>
+		<title>Ultimate Dark Fusion</title>
+		<creator>Hectic Taylor Gazebo</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="17177939" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="3">
+		<thumbnail>images22/Agile/Miguel/Bingo/17177939.jpg</thumbnail>
+		<title>Nova Patrol Mission</title>
+		<creator>Agile Miguel Bingo</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="17013199" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="2">
+		<thumbnail>images22/Super/Shnitzel/Aviator/17013199.jpg</thumbnail>
+		<title>Fury Techno Alien</title>
+		<creator>Super Shnitzel Aviator</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17402735" rating="0.0" difficulty="0" status="1" timesWon="3" timesPlayed="4">
+		<thumbnail>images22/Sleepy/Destiny/Apple/17402735.jpg</thumbnail>
+		<title>Battle Iron Defense</title>
+		<creator>Sleepy Destiny Apple</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="17301539" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>images22/Athletic/Kaitlin/Dinosaur/17301539.jpg</thumbnail>
+		<title>Waterhazard Adventure Mega</title>
+		<creator>Athletic Kaitlin Dinosaur</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17309781" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="6">
+		<thumbnail>images22/Pleasant/Alan/Gamer/17309781.jpg</thumbnail>
+		<title>Razor Jetray Laser</title>
+		<creator>Pleasant Alan Gamer</creator>
+		<timesPlayed>6</timesPlayed>
+	</game>
+	<game id="17305923" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>images22/Daring/Bryce/Cyborg/17305923.jpg</thumbnail>
+		<title>Patrol Turbo Chase</title>
+		<creator>Daring Bryce Cyborg</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17393705" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>images22/Sinister/Marcus/Oink/17393705.jpg</thumbnail>
+		<title>Hero Alien Beast</title>
+		<creator>Sinister Marcus Oink</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+</cartoonnetwork>

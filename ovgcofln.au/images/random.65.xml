@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16981505" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="5">
+		<thumbnail>images22/Enormous/Bella/Bucket/16981505.jpg</thumbnail>
+		<title>Adventure Lightning Challenge</title>
+		<creator>Enormous Bella Bucket</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="16981662" rating="0.0" difficulty="0" status="1" timesWon="15" timesPlayed="26">
+		<thumbnail>images22/Barbaric/Duke/Funk/16981662.jpg</thumbnail>
+		<title>Thunder Power Cannonbolt</title>
+		<creator>Barbaric Duke Funk</creator>
+		<timesPlayed>26</timesPlayed>
+	</game>
+	<game id="17142675" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="7">
+		<thumbnail>images22/King/Thor/Gulch/17142675.jpg</thumbnail>
+		<title>Invasion Assault Clash</title>
+		<creator>King Thor Gulch</creator>
+		<timesPlayed>7</timesPlayed>
+	</game>
+	<game id="17260921" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="4">
+		<thumbnail>images22/Ultimate/Rocky/Flamingo/17260921.jpg</thumbnail>
+		<title>Spark Titan Siege</title>
+		<creator>Ultimate Rocky Flamingo</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="17346658" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="4">
+		<thumbnail>images22/Electric/Bailey/Beast/17346658.jpg</thumbnail>
+		<title>Champion Stone Slam</title>
+		<creator>Electric Bailey Beast</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="17216790" rating="0.0" difficulty="0" status="1" timesWon="3" timesPlayed="5">
+		<thumbnail>images22/Feral/Jasmine/Llama/17216790.jpg</thumbnail>
+		<title>Rampage Pulse Droid</title>
+		<creator>Feral Jasmine Llama</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="17378377" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="11">
+		<thumbnail>images22/Fabulous/Austin/Behemoth/17378377.jpg</thumbnail>
+		<title>Cosmic Big Spark</title>
+		<creator>Fabulous Austin Behemoth</creator>
+		<timesPlayed>11</timesPlayed>
+	</game>
+	<game id="17319388" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="3">
+		<thumbnail>images22/Evil/Keith/Dynamite/17319388.jpg</thumbnail>
+		<title>Chase Blaster Smash</title>
+		<creator>Evil Keith Dynamite</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="17279545" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>images22/Jumping/Nick/Avocado/17279545.jpg</thumbnail>
+		<title>Power Power Power</title>
+		<creator>Jumping Nick Avocado</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17200966" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="5">
+		<thumbnail>images22/Sloppy/Ronald/Tundra/17200966.jpg</thumbnail>
+		<title>Cannonbolt Spark Metal</title>
+		<creator>Sloppy Ronald Tundra</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+</cartoonnetwork>

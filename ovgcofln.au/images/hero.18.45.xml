@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4919783" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Bizarre/Wolfgang/Cobra/4919783.jpg</thumbnail>
+		<title>Alien Fusion Beast</title>
+		<creator>/Bizarre/Wolfgang/Cobra/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4919669" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Wacky/Jeremy/Turtle/4919669.jpg</thumbnail>
+		<title>Vilgax Defense Light</title>
+		<creator>/Wacky/Jeremy/Turtle/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4919698" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Mighty/David/Atom/4919698.jpg</thumbnail>
+		<title>Shadow Mega Ben</title>
+		<creator>/Mighty/David/Atom/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4919679" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Gigantic/Misty/Jungle/4919679.jpg</thumbnail>
+		<title>Rescue Burst Plasma</title>
+		<creator>/Gigantic/Misty/Jungle/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4919687" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Cosmic/Crystal/Celsius/4919687.jpg</thumbnail>
+		<title>Energy Star Pulse</title>
+		<creator>/Cosmic/Crystal/Celsius/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4919689" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Chaotic/Phil/Dragon/4919689.jpg</thumbnail>
+		<title>Hex Streak Robot</title>
+		<creator>/Chaotic/Phil/Dragon/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4919656" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Spooky/Ben/Wombat/4919656.jpg</thumbnail>
+		<title>Champion Rumble Pulse</title>
+		<creator>/Spooky/Ben/Wombat/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4919731" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Lucky/Mandy/Lard/4919731.jpg</thumbnail>
+		<title>Space Droid Rumble</title>
+		<creator>/Lucky/Mandy/Lard/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4919611" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Dynamic/Jeremy/Moonbeam/4919611.jpg</thumbnail>
+		<title>Power Challenge Rampage</title>
+		<creator>/Dynamic/Jeremy/Moonbeam/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4919623" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Funky/Cameron/Scorpion/4919623.jpg</thumbnail>
+		<title>Rumble Rock Battle</title>
+		<creator>/Funky/Cameron/Scorpion/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+</cartoonnetwork>

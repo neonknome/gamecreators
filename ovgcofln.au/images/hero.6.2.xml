@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10646034" rating="3.7484848092548866" difficulty="0" status="1" timesWon="866" timesPlayed="1510">
+		<thumbnail>images22/Loyal/Maria/Tornado/10646034.jpg</thumbnail>
+		<title>Slam Champion Plumber</title>
+		<creator>/Loyal/Maria/Tornado/</creator>
+		<timesPlayed>1510</timesPlayed>
+	</game>
+	<game id="740735" rating="4.27178471410939" difficulty="0" status="1" timesWon="79" timesPlayed="44261">
+		<thumbnail>images22/740735_051120081135.jpg</thumbnail>
+		<title>Atomic Giga Search</title>
+		<creator>/</creator>
+		<timesPlayed>44261</timesPlayed>
+	</game>
+	<game id="10654995" rating="5.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images22/Brainy/Nicholas/Chimera/10654995.jpg</thumbnail>
+		<title>Solar Invasion Rush</title>
+		<creator>/Brainy/Nicholas/Chimera/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="743433" rating="4.525865038667784" difficulty="0" status="1" timesWon="7541" timesPlayed="28274">
+		<thumbnail>images22/743433_051120081159.jpg</thumbnail>
+		<title>Spark Razor Lightning</title>
+		<creator>/</creator>
+		<timesPlayed>28274</timesPlayed>
+	</game>
+	<game id="10028568" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="2">
+		<thumbnail>images22/Atomic/Harvey/Aardvark/10028568.jpg</thumbnail>
+		<title>Fire Spike Search</title>
+		<creator>/Atomic/Harvey/Aardvark/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="9954616" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="3">
+		<thumbnail>images22/Bashful/Zachary/Porridge/9954616.jpg</thumbnail>
+		<title>Robot Humongousaur Nano</title>
+		<creator>/Bashful/Zachary/Porridge/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="9954610" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images22/Red/Jordan/Squawk/9954610.jpg</thumbnail>
+		<title>Drone Stone Ambush</title>
+		<creator>/Red/Jordan/Squawk/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10024911" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="2">
+		<thumbnail>images22/Shiny/Bobby/Werewolf/10024911.jpg</thumbnail>
+		<title>Fire Iron Burst</title>
+		<creator>/Shiny/Bobby/Werewolf/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="10655860" rating="3.435621051839961" difficulty="0" status="1" timesWon="3116" timesPlayed="4135">
+		<thumbnail>images22/Hideous/Donald/Popcorn/10655860.jpg</thumbnail>
+		<title>Ultra Plumber Battle</title>
+		<creator>/Hideous/Donald/Popcorn/</creator>
+		<timesPlayed>4135</timesPlayed>
+	</game>
+	<game id="10026204" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>images22/Clever/Erik/Zip/10026204.jpg</thumbnail>
+		<title>Thunder Doom Defense</title>
+		<creator>/Clever/Erik/Zip/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

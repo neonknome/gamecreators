@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10948271" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images22/Wacky/Billy/Enigma/10948271.jpg</thumbnail>
+		<title>Rescue Nitro Giga</title>
+		<creator>/Wacky/Billy/Enigma/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10947875" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="1">
+		<thumbnail>images22/Green/Bugsy/Dynamite/10947875.jpg</thumbnail>
+		<title>Energy Storm Crusher</title>
+		<creator>/Green/Bugsy/Dynamite/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10947806" rating="5.0" difficulty="0" status="1" timesWon="0" timesPlayed="4">
+		<thumbnail>images22/Brave/Alex/Spiral/10947806.jpg</thumbnail>
+		<title>Alien Ambush Adventure</title>
+		<creator>/Brave/Alex/Spiral/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="10948032" rating="5.0" difficulty="0" status="1" timesWon="0" timesPlayed="3">
+		<thumbnail>images22/Feisty/Bailey/Skylark/10948032.jpg</thumbnail>
+		<title>Smash Shock Atomic</title>
+		<creator>/Feisty/Bailey/Skylark/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="10948057" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="3">
+		<thumbnail>images22/Fearsome/Rick/Mammoth/10948057.jpg</thumbnail>
+		<title>Plumber Storm Force</title>
+		<creator>/Fearsome/Rick/Mammoth/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="10947072" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="1">
+		<thumbnail>images22/Happy/Devin/Macaroni/10947072.jpg</thumbnail>
+		<title>Invasion Thunder Mega</title>
+		<creator>/Happy/Devin/Macaroni/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10925875" rating="5.0" difficulty="0" status="1" timesWon="2" timesPlayed="18">
+		<thumbnail>images22/Swift/Shelby/Ninja/10925875.jpg</thumbnail>
+		<title>Mega Attack Swampfire</title>
+		<creator>/Swift/Shelby/Ninja/</creator>
+		<timesPlayed>18</timesPlayed>
+	</game>
+	<game id="10947189" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images22/Yellow/Scooter/Manatee/10947189.jpg</thumbnail>
+		<title>Rumble Pulse Cosmic</title>
+		<creator>/Yellow/Scooter/Manatee/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10926076" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="4">
+		<thumbnail>images22/Jolly/Raymond/Sunshine/10926076.jpg</thumbnail>
+		<title>Drone Plasma Metal</title>
+		<creator>/Jolly/Raymond/Sunshine/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="10947203" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images22/Ornery/Bjorn/Wizard/10947203.jpg</thumbnail>
+		<title>Nitro Swampfire Storm</title>
+		<creator>/Ornery/Bjorn/Wizard/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

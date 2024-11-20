@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4895393" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Puzzling/Zachary/Python/4895393.jpg</thumbnail>
+		<title>Spark Adventure Thunder</title>
+		<creator>/Puzzling/Zachary/Python/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4895405" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Red/Rex/Zombie/4895405.jpg</thumbnail>
+		<title>Fire Mega Ultra</title>
+		<creator>/Red/Rex/Zombie/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4895374" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Mighty/Clyde/Oddball/4895374.jpg</thumbnail>
+		<title>Spike Doom Adventure</title>
+		<creator>/Mighty/Clyde/Oddball/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4895378" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Alien/Zelda/Macaroni/4895378.jpg</thumbnail>
+		<title>Humongousaur Rocket Adventure</title>
+		<creator>/Alien/Zelda/Macaroni/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4895385" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Zippy/Rex/Rhino/4895385.jpg</thumbnail>
+		<title>Solar Universe Solar</title>
+		<creator>/Zippy/Rex/Rhino/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4895381" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Mighty/Spike/Penguin/4895381.jpg</thumbnail>
+		<title>Robot Power Rescue</title>
+		<creator>/Mighty/Spike/Penguin/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4895325" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Curious/Cory/Bongo/4895325.jpg</thumbnail>
+		<title>Adventure Search Ben</title>
+		<creator>/Curious/Cory/Bongo/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4895275" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Spooky/Ray/Pinball/4895275.jpg</thumbnail>
+		<title>Rumble Warrior Force</title>
+		<creator>/Spooky/Ray/Pinball/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4895288" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Strange/Calvin/Bamboo/4895288.jpg</thumbnail>
+		<title>Danger Doom Hyper</title>
+		<creator>/Strange/Calvin/Bamboo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4895280" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Infinite/Chad/Phantom/4895280.jpg</thumbnail>
+		<title>Energy Universe Warrior</title>
+		<creator>/Infinite/Chad/Phantom/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

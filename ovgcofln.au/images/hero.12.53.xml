@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4676032" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Crafty/Nathan/Wizard/4676032.jpg</thumbnail>
+		<title>Humongousaur Iron Challenge</title>
+		<creator>/Crafty/Nathan/Wizard/</creator>
+		<timesPlayed>5438</timesPlayed>
+	</game>
+	<game id="4901550" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Itchy/Morgan/Aardvark/4901550.jpg</thumbnail>
+		<title>Atomic Streak Fusion</title>
+		<creator>/Itchy/Morgan/Aardvark/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4901555" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Aquatic/Ian/Penguin/4901555.jpg</thumbnail>
+		<title>Attack Hyper Force</title>
+		<creator>/Aquatic/Ian/Penguin/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4901569" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Itchy/Bob/Bolt/4901569.jpg</thumbnail>
+		<title>Thunder Vilgax Stone</title>
+		<creator>/Itchy/Bob/Bolt/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4901574" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Infinite/Peter/Mummy/4901574.jpg</thumbnail>
+		<title>Razor Rumble Sonic</title>
+		<creator>/Infinite/Peter/Mummy/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="4901571" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Hardy/Hercules/Moxie/4901571.jpg</thumbnail>
+		<title>Humongousaur Assault Techno</title>
+		<creator>/Hardy/Hercules/Moxie/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4901542" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Pretty/Jesse/Penguin/4901542.jpg</thumbnail>
+		<title>Fire Doom Power</title>
+		<creator>/Pretty/Jesse/Penguin/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4901521" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Mighty/Pedro/Zip/4901521.jpg</thumbnail>
+		<title>Droid Rampage Assault</title>
+		<creator>/Mighty/Pedro/Zip/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4901519" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Fizzy/Owen/Tempest/4901519.jpg</thumbnail>
+		<title>Humongousaur Rock Breaker</title>
+		<creator>/Fizzy/Owen/Tempest/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4901525" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Dramatic/Mitchell/Python/4901525.jpg</thumbnail>
+		<title>Ultimate Alien Attack</title>
+		<creator>/Dramatic/Mitchell/Python/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

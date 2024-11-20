@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17332714" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="3">
+		<thumbnail>images22/Major/Raymond/Saturn/17332714.jpg</thumbnail>
+		<title>Techno Challenge Challenge</title>
+		<creator>Major Raymond Saturn</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="17271206" rating="0.0" difficulty="0" status="1" timesWon="11" timesPlayed="14">
+		<thumbnail>images22/Abstract/Hugo/Hambone/17271206.jpg</thumbnail>
+		<title>Spike Stone Energy</title>
+		<creator>Abstract Hugo Hambone</creator>
+		<timesPlayed>14</timesPlayed>
+	</game>
+	<game id="17355672" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="5">
+		<thumbnail>images22/Purple/Rosetta/Rebel/17355672.jpg</thumbnail>
+		<title>Smash Power Earth</title>
+		<creator>Purple Rosetta Rebel</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="16994221" rating="0.0" difficulty="0" status="1" timesWon="7" timesPlayed="11">
+		<thumbnail>images22/Ornery/Chloe/Iguana/16994221.jpg</thumbnail>
+		<title>Patrol Shadow Dark</title>
+		<creator>Ornery Chloe Iguana</creator>
+		<timesPlayed>11</timesPlayed>
+	</game>
+	<game id="17256921" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="2">
+		<thumbnail>images22/Freakish/Paul/Neptune/17256921.jpg</thumbnail>
+		<title>Ultra Gear Hex</title>
+		<creator>Freakish Paul Neptune</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17257047" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="6">
+		<thumbnail>images22/Barbaric/Faith/Camel/17257047.jpg</thumbnail>
+		<title>Adventure Adventure Metal</title>
+		<creator>Barbaric Faith Camel</creator>
+		<timesPlayed>6</timesPlayed>
+	</game>
+	<game id="17285330" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="6">
+		<thumbnail>images22/Negative/Andy/Atlas/17285330.jpg</thumbnail>
+		<title>Fire Burst Attack</title>
+		<creator>Negative Andy Atlas</creator>
+		<timesPlayed>6</timesPlayed>
+	</game>
+	<game id="17278910" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="4">
+		<thumbnail>images22/Captain/Connor/Charger/17278910.jpg</thumbnail>
+		<title>Thunder Mega Champion</title>
+		<creator>Captain Connor Charger</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="17278924" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="11">
+		<thumbnail>images22/Fiery/Colin/Jungle/17278924.jpg</thumbnail>
+		<title>Alien Ambush Chill</title>
+		<creator>Fiery Colin Jungle</creator>
+		<timesPlayed>11</timesPlayed>
+	</game>
+	<game id="17278972" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="3">
+		<thumbnail>images22/Virtual/Victor/Rebel/17278972.jpg</thumbnail>
+		<title>Giga Hyper Rustbucket</title>
+		<creator>Virtual Victor Rebel</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+</cartoonnetwork>

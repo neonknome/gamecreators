@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4907057" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Twisty/Wes/Pirate/4907057.jpg</thumbnail>
+		<title>Ultra Universe Challenge</title>
+		<creator>/Twisty/Wes/Pirate/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4907062" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Atomic/Aaron/Planet/4907062.jpg</thumbnail>
+		<title>Ultimate Fury Streak</title>
+		<creator>/Atomic/Aaron/Planet/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4907021" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Loud/Bernard/Gazelle/4907021.jpg</thumbnail>
+		<title>Rumble Fusion Warrior</title>
+		<creator>/Loud/Bernard/Gazelle/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4907003" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Strange/Tim/Bonkers/4907003.jpg</thumbnail>
+		<title>Beast Power Defense</title>
+		<creator>/Strange/Tim/Bonkers/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4906958" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Lovely/Rapunzel/Blitz/4906958.jpg</thumbnail>
+		<title>Attack Search Galaxy</title>
+		<creator>/Lovely/Rapunzel/Blitz/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4906981" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Daring/Zachary/Cyborg/4906981.jpg</thumbnail>
+		<title>Turbo Slam Mission</title>
+		<creator>/Daring/Zachary/Cyborg/</creator>
+		<timesPlayed>11</timesPlayed>
+	</game>
+	<game id="4906983" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Sinister/Carter/Zombie/4906983.jpg</thumbnail>
+		<title>Techno Droid Assault</title>
+		<creator>/Sinister/Carter/Zombie/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4906955" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Mirthful/Bianca/Kiwi/4906955.jpg</thumbnail>
+		<title>Humongousaur Attack Assault</title>
+		<creator>/Mirthful/Bianca/Kiwi/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4906968" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Sly/Jackie/Oink/4906968.jpg</thumbnail>
+		<title>Nitro Attack Turbo</title>
+		<creator>/Sly/Jackie/Oink/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4906935" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Funny/Joseph/Pelican/4906935.jpg</thumbnail>
+		<title>Danger Slam Racer</title>
+		<creator>/Funny/Joseph/Pelican/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

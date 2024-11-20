@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4914652" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Blue/Angel/Burst/4914652.jpg</thumbnail>
+		<title>Mega Smash Clash</title>
+		<creator>/Blue/Angel/Burst/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4914665" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Crafty/Chester/Popcorn/4914665.jpg</thumbnail>
+		<title>Metal Spike Iron</title>
+		<creator>/Crafty/Chester/Popcorn/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4914649" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Orange/Grace/Nova/4914649.jpg</thumbnail>
+		<title>Pursuit Breaker Hyper</title>
+		<creator>/Orange/Grace/Nova/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4914628" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Tricky/Travis/Robot/4914628.jpg</thumbnail>
+		<title>Ben Hyper Rush</title>
+		<creator>/Tricky/Travis/Robot/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4914624" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Humorous/Greg/Chipmunk/4914624.jpg</thumbnail>
+		<title>Burst Ultra Assault</title>
+		<creator>/Humorous/Greg/Chipmunk/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4914605" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Squishy/Shane/Spark/4914605.jpg</thumbnail>
+		<title>Mega Warrior Ben</title>
+		<creator>/Squishy/Shane/Spark/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4914634" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Twisty/Justin/Bullfrog/4914634.jpg</thumbnail>
+		<title>Energy Stone Rocket</title>
+		<creator>/Twisty/Justin/Bullfrog/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4914607" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Funky/Chase/Thorax/4914607.jpg</thumbnail>
+		<title>Storm Attack Jetray</title>
+		<creator>/Funky/Chase/Thorax/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="4914561" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Atomic/Leopold/Gorilla/4914561.jpg</thumbnail>
+		<title>Mega Jetray Laser</title>
+		<creator>/Atomic/Leopold/Gorilla/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4914584" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Blue/Sarah/Goofball/4914584.jpg</thumbnail>
+		<title>Galaxy Escape Adventure</title>
+		<creator>/Blue/Sarah/Goofball/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17210717" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="3">
+		<thumbnail>images22/Vast/Jack/Creature/17210717.jpg</thumbnail>
+		<title>Metal Iron Defense</title>
+		<creator>Vast Jack Creature</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="17206021" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="4">
+		<thumbnail>images22/Volcanic/Gabriel/Tarragon/17206021.jpg</thumbnail>
+		<title>Adventure Attack Target</title>
+		<creator>Volcanic Gabriel Tarragon</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="17373576" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="2">
+		<thumbnail>images22/Robotic/Owen/Cobra/17373576.jpg</thumbnail>
+		<title>Animo Rampage Energy</title>
+		<creator>Robotic Owen Cobra</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17191739" rating="0.0" difficulty="0" status="1" timesWon="3" timesPlayed="27">
+		<thumbnail>images22/Elastic/Dwight/Robot/17191739.jpg</thumbnail>
+		<title>Solar Warrior Ambush</title>
+		<creator>Elastic Dwight Robot</creator>
+		<timesPlayed>27</timesPlayed>
+	</game>
+	<game id="17201813" rating="0.0" difficulty="0" status="1" timesWon="18" timesPlayed="19">
+		<thumbnail>images22/Agile/Alan/Jinx/17201813.jpg</thumbnail>
+		<title>Ben Attack Robot</title>
+		<creator>Agile Alan Jinx</creator>
+		<timesPlayed>19</timesPlayed>
+	</game>
+	<game id="17202873" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>images22/Scruffy/Ludwig/Stampede/17202873.jpg</thumbnail>
+		<title>Nova Techno Adventure</title>
+		<creator>Scruffy Ludwig Stampede</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17205541" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="3">
+		<thumbnail>images22/Cute/Meghan/Jingles/17205541.jpg</thumbnail>
+		<title>Danger Clash Attack</title>
+		<creator>Cute Meghan Jingles</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="17214905" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="9">
+		<thumbnail>images22/Neutral/Ted/Eggplant/17214905.jpg</thumbnail>
+		<title>Big Warrior Razor</title>
+		<creator>Neutral Ted Eggplant</creator>
+		<timesPlayed>9</timesPlayed>
+	</game>
+	<game id="17214957" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="2">
+		<thumbnail>images22/Crazy/Payton/Shadow/17214957.jpg</thumbnail>
+		<title>Alien Invasion Breaker</title>
+		<creator>Crazy Payton Shadow</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17176419" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="5">
+		<thumbnail>images22/Magnetic/Ramona/Bramble/17176419.jpg</thumbnail>
+		<title>Steel Dark Adventure</title>
+		<creator>Magnetic Ramona Bramble</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+</cartoonnetwork>

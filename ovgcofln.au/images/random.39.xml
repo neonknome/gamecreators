@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17305485" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>images22/Soggy/Yvette/Magma/17305485.jpg</thumbnail>
+		<title>Rustbucket Lightning Danger</title>
+		<creator>Soggy Yvette Magma</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17337249" rating="0.0" difficulty="0" status="1" timesWon="4" timesPlayed="12">
+		<thumbnail>images22/Ironic/Ghoul/17337249.jpg</thumbnail>
+		<title>Ultimate Cannonbolt Assault</title>
+		<creator>Ironic Ghoul</creator>
+		<timesPlayed>12</timesPlayed>
+	</game>
+	<game id="17323636" rating="0.0" difficulty="0" status="1" timesWon="3" timesPlayed="3">
+		<thumbnail>images22/Drowzy/Yancy/Porridge/17323636.jpg</thumbnail>
+		<title>Rocket Hex Drone</title>
+		<creator>Drowzy Yancy Porridge</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="16837718" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>images22/Witty/Dean/Giblets/16837718.jpg</thumbnail>
+		<title>Nitro Mission Atomic</title>
+		<creator>Witty Dean Giblets</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17415229" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="4">
+		<thumbnail>images22/Reckless/Ernest/Fathom/17415229.jpg</thumbnail>
+		<title>Siege Hero Sonic</title>
+		<creator>Reckless Ernest Fathom</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="17070331" rating="0.0" difficulty="0" status="1" timesWon="4" timesPlayed="6">
+		<thumbnail>images22/Princess/George/Turbo/17070331.jpg</thumbnail>
+		<title>Challenge Power Warrior</title>
+		<creator>Princess George Turbo</creator>
+		<timesPlayed>6</timesPlayed>
+	</game>
+	<game id="16947780" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="2">
+		<thumbnail>images22/Sleek/CJ/Dolphin/16947780.jpg</thumbnail>
+		<title>Mega Chase Invasion</title>
+		<creator>Sleek CJ Dolphin</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17539894" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>images22/Prolific/Cole/Sprout/17539894.jpg</thumbnail>
+		<title>Vilgax Pulse Nova</title>
+		<creator>Prolific Cole Sprout</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17334339" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="2">
+		<thumbnail>images22/Enormous/Lucius/Anvil/17334339.jpg</thumbnail>
+		<title>Chill Ambush Fusion</title>
+		<creator>Enormous Lucius Anvil</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17239564" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>images22/Snazzy/Mandy/Thing/17239564.jpg</thumbnail>
+		<title>Titan Spark Defense</title>
+		<creator>Snazzy Mandy Thing</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+</cartoonnetwork>

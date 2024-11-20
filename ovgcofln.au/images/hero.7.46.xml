@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4914333" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Gracious/Gretel/Fizz/4914333.jpg</thumbnail>
+		<title>Sonic Spark Storm</title>
+		<creator>/Gracious/Gretel/Fizz/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4914329" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Elegant/Ace/Photon/4914329.jpg</thumbnail>
+		<title>Smash Gear Beast</title>
+		<creator>/Elegant/Ace/Photon/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4914296" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Wild/Julian/Thunder/4914296.jpg</thumbnail>
+		<title>Alien Smash Rampage</title>
+		<creator>/Wild/Julian/Thunder/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4914305" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Alien/Jamie/Fury/4914305.jpg</thumbnail>
+		<title>Hero Space Search</title>
+		<creator>/Alien/Jamie/Fury/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4914282" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Awesome/Bobo/Warthog/4914282.jpg</thumbnail>
+		<title>Jetray Danger Mission</title>
+		<creator>/Awesome/Bobo/Warthog/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4914241" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Pretty/Kayla/Marigold/4914241.jpg</thumbnail>
+		<title>Pulse Siege Adventure</title>
+		<creator>/Pretty/Kayla/Marigold/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4914254" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Brainy/John/Aardvark/4914254.jpg</thumbnail>
+		<title>Cosmic Solar Warp</title>
+		<creator>/Brainy/John/Aardvark/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4914237" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Freaky/Conrad/Coconut/4914237.jpg</thumbnail>
+		<title>Jetray Force Shock</title>
+		<creator>/Freaky/Conrad/Coconut/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4914276" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Weird/Brandon/Bingo/4914276.jpg</thumbnail>
+		<title>Search Smash Space</title>
+		<creator>/Weird/Brandon/Bingo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4914232" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Majestic/Elijah/Goofball/4914232.jpg</thumbnail>
+		<title>Fire Energy Smash</title>
+		<creator>/Majestic/Elijah/Goofball/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

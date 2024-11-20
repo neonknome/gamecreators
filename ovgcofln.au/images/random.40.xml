@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17377392" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="5">
+		<thumbnail>images22/Burly/Jacob/Blast/17377392.jpg</thumbnail>
+		<title>Nitro Big Adventure</title>
+		<creator>Burly Jacob Blast</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="17378050" rating="0.0" difficulty="0" status="1" timesWon="4" timesPlayed="4">
+		<thumbnail>images22/Visible/Luke/Yam/17378050.jpg</thumbnail>
+		<title>Animo Fury Patrol</title>
+		<creator>Visible Luke Yam</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="17278815" rating="0.0" difficulty="0" status="1" timesWon="4" timesPlayed="4">
+		<thumbnail>images22/Rugged/Scooter/Possum/17278815.jpg</thumbnail>
+		<title>Laser Gear Shadow</title>
+		<creator>Rugged Scooter Possum</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="17381782" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="6">
+		<thumbnail>images22/Cagey/Aiden/Bramble/17381782.jpg</thumbnail>
+		<title>Swampfire Assault Force</title>
+		<creator>Cagey Aiden Bramble</creator>
+		<timesPlayed>6</timesPlayed>
+	</game>
+	<game id="17382394" rating="0.0" difficulty="0" status="1" timesWon="8" timesPlayed="8">
+		<thumbnail>images22/General/Ian/Fang/17382394.jpg</thumbnail>
+		<title>Champion Smash Ben</title>
+		<creator>General Ian Fang</creator>
+		<timesPlayed>8</timesPlayed>
+	</game>
+	<game id="17293112" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>images22/Gorgeous/Nicole/Presto/17293112.jpg</thumbnail>
+		<title>Rescue Razor Water</title>
+		<creator>Gorgeous Nicole Presto</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17303375" rating="0.0" difficulty="0" status="1" timesWon="6" timesPlayed="10">
+		<thumbnail>images22/Flying/Stanley/Quake/17303375.jpg</thumbnail>
+		<title>Rampage Ambush Charge</title>
+		<creator>Flying Stanley Quake</creator>
+		<timesPlayed>10</timesPlayed>
+	</game>
+	<game id="16907817" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="47">
+		<thumbnail>images22/Restless/Oscar/Mumbles/16907817.jpg</thumbnail>
+		<title>Razor Alien Iron</title>
+		<creator>Restless Oscar Mumbles</creator>
+		<timesPlayed>47</timesPlayed>
+	</game>
+	<game id="17341198" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>images22/Admiral/Anna/Crater/17341198.jpg</thumbnail>
+		<title>Target Ultimate Ambush</title>
+		<creator>Admiral Anna Crater</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="16978061" rating="0.0" difficulty="0" status="1" timesWon="3" timesPlayed="3">
+		<thumbnail>images22/Solid/Alexa/Beast/16978061.jpg</thumbnail>
+		<title>Steel Warp Galaxy</title>
+		<creator>Solid Alexa Beast</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+</cartoonnetwork>

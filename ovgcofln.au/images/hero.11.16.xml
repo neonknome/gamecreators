@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10922330" rating="5.0" difficulty="0" status="1" timesWon="1" timesPlayed="1">
+		<thumbnail>images22/Babbling/Oscar/Tornado/10922330.jpg</thumbnail>
+		<title>Shadow Defense Spark</title>
+		<creator>/Babbling/Oscar/Tornado/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10921966" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="1">
+		<thumbnail>images22/Artistic/Mario/Shark/10921966.jpg</thumbnail>
+		<title>Ultimate Spike Adventure</title>
+		<creator>/Artistic/Mario/Shark/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10922465" rating="5.0" difficulty="0" status="1" timesWon="1" timesPlayed="8">
+		<thumbnail>images22/Zany/Hunter/Plankton/10922465.jpg</thumbnail>
+		<title>Iron Warrior Metal</title>
+		<creator>/Zany/Hunter/Plankton/</creator>
+		<timesPlayed>8</timesPlayed>
+	</game>
+	<game id="10922368" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>images22/Aquatic/Dana/Bolt/10922368.jpg</thumbnail>
+		<title>Challenge Battle Battle</title>
+		<creator>/Aquatic/Dana/Bolt/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10922399" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>images22/Brawny/Nathan/Moonbeam/10922399.jpg</thumbnail>
+		<title>Turbo Robot Shock</title>
+		<creator>/Brawny/Nathan/Moonbeam/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10921871" rating="0.0" difficulty="0" status="1" timesWon="3" timesPlayed="3">
+		<thumbnail>images22/Atomic/Vanessa/Zip/10921871.jpg</thumbnail>
+		<title>Shadow Power Hyper</title>
+		<creator>/Atomic/Vanessa/Zip/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="10921624" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>images22/Giggling/Ben/Paradox/10921624.jpg</thumbnail>
+		<title>Space Power Shock</title>
+		<creator>/Giggling/Ben/Paradox/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10921643" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="4">
+		<thumbnail>images22/Magnetic/Ernie/Rumble/10921643.jpg</thumbnail>
+		<title>Rampage Defense Galaxy</title>
+		<creator>/Magnetic/Ernie/Rumble/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="10921774" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images22/Elegant/Joel/Spumoni/10921774.jpg</thumbnail>
+		<title>Fire Drone Ambush</title>
+		<creator>/Elegant/Joel/Spumoni/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10918878" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images22/Majestic/Adam/Bolt/10918878.jpg</thumbnail>
+		<title>Blaster Ambush Assault</title>
+		<creator>/Majestic/Adam/Bolt/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>
