@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10949991" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Giggling/Elroy/Domino/10949991.jpg
+		</thumbnail>
+		<title>Rush Attack Rumble</title>
+		<creator>/Giggling/Elroy/Domino/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10950341" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Reginald/Igloo/10950341.jpg
+		</thumbnail>
+		<title>Blaster Turbo Storm</title>
+		<creator>/Dazzling/Reginald/Igloo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10926785" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Natasha/Tempest/10926785.jpg
+		</thumbnail>
+		<title>Pursuit Mega Nano</title>
+		<creator>/Honest/Natasha/Tempest/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10926594" rating="4.0" difficulty="0" status="1" timesWon="0" timesPlayed="8">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Valiant/Maya/Rutabaga/10926594.jpg
+		</thumbnail>
+		<title>Light Search Ultra</title>
+		<creator>/Valiant/Maya/Rutabaga/</creator>
+		<timesPlayed>8</timesPlayed>
+	</game>
+	<game id="10926589" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dynamic/Celeste/Dolphin/10926589.jpg
+		</thumbnail>
+		<title>Adventure Racer Shadow</title>
+		<creator>/Dynamic/Celeste/Dolphin/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10926706" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Orange/Luis/Fireball/10926706.jpg
+		</thumbnail>
+		<title>Adventure Metal Siege</title>
+		<creator>/Orange/Luis/Fireball/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="10926749" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Jack/Photon/10926749.jpg
+		</thumbnail>
+		<title>Rustbucket Hero Racer</title>
+		<creator>/Daring/Jack/Photon/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10926778" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shaggy/Brett/Shark/10926778.jpg
+		</thumbnail>
+		<title>Doom Atomic Razor</title>
+		<creator>/Shaggy/Brett/Shark/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10926761" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Scott/Crash/10926761.jpg
+		</thumbnail>
+		<title>Alien Ultra Assault</title>
+		<creator>/Honest/Scott/Crash/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10926745" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Eager/Sara/Goulash/10926745.jpg
+		</thumbnail>
+		<title>Force Invasion Warrior</title>
+		<creator>/Eager/Sara/Goulash/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

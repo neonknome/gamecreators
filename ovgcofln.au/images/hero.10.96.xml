@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4895531" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Heroic/Ryan/Gorilla/4895531.jpg
+		</thumbnail>
+		<title>Mega Danger Warp</title>
+		<creator>/Heroic/Ryan/Gorilla/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4895502" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Frosty/Hunter/Aardvark/4895502.jpg
+		</thumbnail>
+		<title>Solar Fire Techno</title>
+		<creator>/Frosty/Hunter/Aardvark/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4895521" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Wily/Wyatt/Spider/4895521.jpg
+		</thumbnail>
+		<title>Cosmic Hex Earth</title>
+		<creator>/Wily/Wyatt/Spider/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4895415" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Funny/Matt/Gumbo/4895415.jpg
+		</thumbnail>
+		<title>Chase Adventure Magno</title>
+		<creator>/Funny/Matt/Gumbo/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4895413" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Blustery/Ace/Fireball/4895413.jpg
+		</thumbnail>
+		<title>Humongousaur Mega Escape</title>
+		<creator>/Blustery/Ace/Fireball/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4895485" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Brainy/Floyd/Thunder/4895485.jpg
+		</thumbnail>
+		<title>Hyper Humongousaur Hex</title>
+		<creator>/Brainy/Floyd/Thunder/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4895481" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Adorable/Leah/Sunshine/4895481.jpg
+		</thumbnail>
+		<title>Slam Shock Storm</title>
+		<creator>/Adorable/Leah/Sunshine/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4895459" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Funny/Leopold/Bullfrog/4895459.jpg
+		</thumbnail>
+		<title>Invasion Adventure Chase</title>
+		<creator>/Funny/Leopold/Bullfrog/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4895461" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Grand/Luke/Jungle/4895461.jpg
+		</thumbnail>
+		<title>Rumble Vilgax Assault</title>
+		<creator>/Grand/Luke/Jungle/</creator>
+		<timesPlayed>18</timesPlayed>
+	</game>
+	<game id="4895374" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Mighty/Clyde/Oddball/4895374.jpg
+		</thumbnail>
+		<title>Spike Doom Adventure</title>
+		<creator>/Mighty/Clyde/Oddball/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

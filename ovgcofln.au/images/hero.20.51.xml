@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4901783" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dashing/Devin/Twist/4901783.jpg
+		</thumbnail>
+		<title>Cosmic Assault Atomic</title>
+		<creator>/Dashing/Devin/Twist/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4901756" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Alien/Haley/Amethyst/4901756.jpg
+		</thumbnail>
+		<title>Galaxy Danger Light</title>
+		<creator>/Alien/Haley/Amethyst/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4901775" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Brave/Charles/Bingo/4901775.jpg
+		</thumbnail>
+		<title>Humongousaur Battle Adventure</title>
+		<creator>/Brave/Charles/Bingo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4901741" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Happy/Johnny/Boing/4901741.jpg
+		</thumbnail>
+		<title>Rocket Alien Warrior</title>
+		<creator>/Happy/Johnny/Boing/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4901769" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Weird/Timmy/Bison/4901769.jpg
+		</thumbnail>
+		<title>Humongousaur Cosmic Clash</title>
+		<creator>/Weird/Timmy/Bison/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4901699" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Humorous/Trevor/Charger/4901699.jpg
+		</thumbnail>
+		<title>Charge Humongousaur Plumber</title>
+		<creator>/Humorous/Trevor/Charger/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4901691" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Aquatic/Victor/Tornado/4901691.jpg
+		</thumbnail>
+		<title>Alien Hero Crusher</title>
+		<creator>/Aquatic/Victor/Tornado/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4901677" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Royal/Thor/Safari/4901677.jpg
+		</thumbnail>
+		<title>Earth Mega Attack</title>
+		<creator>/Royal/Thor/Safari/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4901673" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Funky/Duke/Gizzard/4901673.jpg
+		</thumbnail>
+		<title>Racer Nova Invasion</title>
+		<creator>/Funky/Duke/Gizzard/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4901620" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dreadful/Caroline/Shock/4901620.jpg
+		</thumbnail>
+		<title>Iron Nitro Clash</title>
+		<creator>/Dreadful/Caroline/Shock/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

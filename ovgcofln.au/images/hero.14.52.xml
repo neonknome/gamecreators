@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4918921" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Awesome/Ed/Monkey/4918921.jpg
+		</thumbnail>
+		<title>Spidermonkey Hero Burst</title>
+		<creator>/Awesome/Ed/Monkey/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4918912" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Sly/Felix/Squeegee/4918912.jpg
+		</thumbnail>
+		<title>Patrol Invasion Crusher</title>
+		<creator>/Sly/Felix/Squeegee/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4918938" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Green/Juan/Moonbeam/4918938.jpg
+		</thumbnail>
+		<title>Fire Siege Assault</title>
+		<creator>/Green/Juan/Moonbeam/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4918940" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Honest/Spike/Kudzu/4918940.jpg
+		</thumbnail>
+		<title>Adventure Smash Fusion</title>
+		<creator>/Honest/Spike/Kudzu/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4918906" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Horrid/Ace/Worm/4918906.jpg
+		</thumbnail>
+		<title>Mega Challenge Escape</title>
+		<creator>/Horrid/Ace/Worm/</creator>
+		<timesPlayed>34</timesPlayed>
+	</game>
+	<game id="4918897" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Loony/Chris/Sizzle/4918897.jpg
+		</thumbnail>
+		<title>Iron Iron Invasion</title>
+		<creator>/Loony/Chris/Sizzle/</creator>
+		<timesPlayed>22</timesPlayed>
+	</game>
+	<game id="4918884" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Sleek/Jayden/Cobweb/4918884.jpg
+		</thumbnail>
+		<title>Danger Assault Pulse</title>
+		<creator>/Sleek/Jayden/Cobweb/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4918893" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fizzy/Sophia/Kayak/4918893.jpg
+		</thumbnail>
+		<title>Charge Mission Ultimate</title>
+		<creator>/Fizzy/Sophia/Kayak/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4918903" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Massive/Sam/Bayou/4918903.jpg
+		</thumbnail>
+		<title>Thunder Plasma Assault</title>
+		<creator>/Massive/Sam/Bayou/</creator>
+		<timesPlayed>15</timesPlayed>
+	</game>
+	<game id="4918873" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Humorous/Clyde/Spark/4918873.jpg
+		</thumbnail>
+		<title>Animo Ultra Attack</title>
+		<creator>/Humorous/Clyde/Spark/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+</cartoonnetwork>

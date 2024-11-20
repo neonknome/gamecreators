@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DATAPACKET>
+
+<eulapath path="tools/xml/euala_" ext=".xml" />
+<termsofusepath path="tools/xml/tos.xml" />
+<termsofuse_html_path path="http://hkinteractive.turner.com:8012/parents/terms.jsp" />
+<privactypolicy_html_path path="http://hkinteractive.turner.com:8012/parents/privacy.jsp" />
+
+<displaynamepath path="https://audience.cartoonnetwork.com/cn/static/login_display_names.do" />
+<loginpath path="membership/validation.php" /><!-- gc_check_password.php -->
+<parentoptinpath path="https://audience.cartoonnetwork.com/cn/xml/optInEmail.do" />
+<registerpath path="https://audience.cartoonnetwork.com/cn/xml/register.do" />
+<resetpasswordpath path="https://audience.cartoonnetwork.com/cn/xml/resetPassword.do" />
+<updatelegalpath path="https://audience.cartoonnetwork.com/cn/xml/loginLegalDocs.do" />
+<updateDisplayNamepath path="https://audience.cartoonnetwork.com/cn/xml/loginDisplayName.do" />
+<authPath path="membership/validation.php" /><!-- gc_check_password.php -->       
+
+
+<region><label>Alabama</label></region>
+
+<region><label>Alaska</label></region>
+<region><label>Arizona</label></region>
+<region><label>Arkansas</label></region>
+<region><label>California</label></region>
+<region><label>Colorado</label></region>
+<region><label>Connecticut</label></region>
+<region><label>Delaware</label></region>
+<region><label>District of Columbia</label></region>
+<region><label>Florida</label></region>
+
+<region><label>Georgia</label></region>
+<region><label>Hawaii</label></region>
+<region><label>Idaho</label></region>
+<region><label>Illinois</label></region>
+<region><label>Indiana</label></region>
+<region><label>Iowa</label></region>
+<region><label>Kansas</label></region>
+<region><label>Kentucky</label></region>
+<region><label>Louisiana</label></region>
+
+<region><label>Maine</label></region>
+<region><label>Maryland</label></region>
+<region><label>Massachusetts</label></region>
+<region><label>Michigan</label></region>
+<region><label>Minnesota</label></region>
+<region><label>Mississippi</label></region>
+<region><label>Missouri</label></region>
+<region><label>Montana</label></region>
+<region><label>Nebraska</label></region>
+
+<region><label>Nevada</label></region>
+<region><label>New Hampshire</label></region>
+<region><label>New Jersey</label></region>
+<region><label>New Mexico</label></region>
+<region><label>New York</label></region>
+<region><label>North Carolina</label></region>
+<region><label>North Dakota</label></region>
+<region><label>Ohio</label></region>
+<region><label>Oklahoma</label></region>
+
+<region><label>Oregon</label></region>
+<region><label>Pennsylvania</label></region>
+<region><label>Rhode Island</label></region>
+<region><label>South Carolina</label></region>
+<region><label>South Dakota</label></region>
+<region><label>Tennessee</label></region>
+<region><label>Texas</label></region>
+<region><label>Utah</label></region>
+<region><label>Vermont</label></region>
+
+<region><label>Virginia</label></region>
+<region><label>Washington</label></region>
+<region><label>West Virginia</label></region>
+<region><label>Wisconsin</label></region>
+<region><label>Wyoming</label></region>
+<region><label>Alberta</label></region>
+<region><label>British Columbia</label></region>
+<region><label>Manitoba</label></region>
+<region><label>New Brunswick</label></region>
+
+<region><label>Newfoundland</label></region>
+<region><label>Nova Scotia</label></region>
+<region><label>Ontario</label></region>
+<region><label>PEI</label></region>
+<region><label>Quebec</label></region>
+<region><label>Saskatchewan</label></region>
+</DATAPACKET>

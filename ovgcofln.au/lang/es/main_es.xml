@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?><xliff version='1.0' xml:lang='es'><file datatype='plaintext' original='localization_global.fla' source-language='EN'><header></header><body><trans-unit id='000'  resname='IDS_BIGCHILL'><source>GÉLIDO</source></trans-unit>
+<trans-unit id='001'  resname='IDS_BRAINSTORM'><source>CEREBRO</source></trans-unit>
+<trans-unit id='002'  resname='IDS_CANNONBOLT'><source>RAYO DE CAÑÓN</source></trans-unit>
+<trans-unit id='003'  resname='IDS_SPIDERMONKEY'><source>MONO ARAÑA</source></trans-unit>
+<trans-unit id='004'  resname='IDS_SWAMPFIRE'><source>FANGOSO</source></trans-unit>
+<trans-unit id='005'  resname='IDS_TERRASPIN'><source>TORBELLINO</source></trans-unit>
+<trans-unit id='006'  resname='IDS_GRAVATTACK'><source>GRAVATTACK</source></trans-unit>
+<trans-unit id='007'  resname='IDS_ECHOECHO'><source>ECO</source></trans-unit>
+<trans-unit id='008'  resname='IDS_HUMONGOUSAUR'><source>GIGANTOSAURIO</source></trans-unit>
+<trans-unit id='009'  resname='IDS_FEEDBACK'><source>FEEDBACK</source></trans-unit>
+<trans-unit id='010'  resname='IDS_WATERHAZARD'><source>HIDROLÁTIGO</source></trans-unit>
+<trans-unit id='011'  resname='IDS_GAME_OVER'><source>VOLVER A INTENTAR</source></trans-unit>
+<trans-unit id='012'  resname='IDS_RETRY'><source>INTENTAR OTRA VEZ</source></trans-unit>
+<trans-unit id='013'  resname='IDS_EASY'><source>FÁCIL</source></trans-unit>
+<trans-unit id='014'  resname='IDS_HARD'><source>DIFÍCIL</source></trans-unit>
+<trans-unit id='015'  resname='IDS_LOADING'><source>CARGANDO</source></trans-unit>
+<trans-unit id='016'  resname='IDS_NEXT'><source>FÁCIL</source></trans-unit>
+<trans-unit id='017'  resname='IDS_BUILD'><source>CREAR</source></trans-unit>
+<trans-unit id='018'  resname='IDS_PLAY'><source>JUGAR</source></trans-unit>
+<trans-unit id='019'  resname='IDS_GALLERY'><source>GALERÍA</source></trans-unit>
+<trans-unit id='020'  resname='IDS_UNAVAILABLE'><source>HAZ CLIC PARA JUGAR CON ESTE ALIEN EN www.cartoonnetwork.es</source></trans-unit>
+<trans-unit id='021'  resname='IDS_INSTRUCTIONS'><source>INSTRUCCIONES</source></trans-unit>
+<trans-unit id='022'  resname='IDS_TXT_GALLERY'><source>SELECCIONA EL NIVEL</source></trans-unit>
+<trans-unit id='023'  resname='IDS_CONGRATULATIONS'><source>ENHORABUENA</source></trans-unit>
+<trans-unit id='024'  resname='IDS_GOAL_BATTLE'><source>¡LUCHA CONTRA TODOS LOS ENEMIGOS!</source></trans-unit>
+<trans-unit id='025'  resname='IDS_GOAL_COLLECTBATTLE'><source>REÚNE TODOS LOS ORBES\nY\nLUCHA CONTRA TODOS LOS ENEMIGOS!</source></trans-unit>
+<trans-unit id='026'  resname='IDS_GOAL_COLLECT'><source>¡REÚNE TODOS LOS ORBES!</source></trans-unit>
+<trans-unit id='027'  resname='IDS_GOAL_DOOR'><source>¡ALCANZA LA PUERTA!</source></trans-unit>
+<trans-unit id='028'  resname='IDS_CHOOSE_ALIEN'><source>ESCOGE UN ALIEN</source></trans-unit>
+<trans-unit id='029'  resname='IDS_BACK'><source>ATRÁS</source></trans-unit>
+<trans-unit id='030'  resname='IDS_UNAVAILABLE_DATE'><source>Juega como #name_alien# dentro de #counter# días</source></trans-unit>
+<trans-unit id='031'  resname='IDS_YOURSCORE'><source>TU TIEMPO</source></trans-unit>
+<trans-unit id='032'  resname='IDS_WINEASY'><source>PRUEBA OTRO JUEGO</source></trans-unit>
+<trans-unit id='033'  resname='IDS_WINEASY_BUILD'><source>PRUEBA OTRO JUEGO O CREA EL TUYO PROPIO</source></trans-unit>
+<trans-unit id='034'  resname='IDS_WINHARD'><source>¡HAS SUPERADO EL MODO DIFÍCIL!</source></trans-unit>
+<trans-unit id='035'  resname='IDS_WINHARD_BUILD'><source>¡HAS SUPERADO EL MODO DIFÍCIL! AHORA YA PUEDES CREAR TU PROPIO NIVEL</source></trans-unit>
+<trans-unit id='036'  resname='IDS_WINGALLERY'><source>¡MUY BIEN, LO CONSEGUISTE!</source></trans-unit>
+<trans-unit id='037'  resname='IDS_WINGALLERY_BUILD'><source>¡MUY BIEN, LO CONSEGUISTE! CREA TU PROPIO JUEGO</source></trans-unit>
+<trans-unit id='038'  resname='IDS_SPECIAL_ABILITY'><source>CAPACIDAD ESPECIAL:</source></trans-unit>
+<trans-unit id='039'  resname='IDS_SPACE_BAR'><source>ESPACIO</source></trans-unit>
+<trans-unit id='040'  resname='IDS_SPECIAL_ABILITY_HUMONGOUSAUR_TXT'><source>Su puñetazo puede destruir los proyectiles.</source></trans-unit>
+<trans-unit id='041'  resname='IDS_SPACE_BAR_HUMONGOUSAUR'><source>Ataque: superpuñetazo</source></trans-unit>
+<trans-unit id='042'  resname='IDS_SPECIAL_ABILITY_BRAINSTORM_TXT'><source>Su relámpago atraviesa muros y destruye proyectiles.</source></trans-unit>
+<trans-unit id='043'  resname='IDS_SPACE_BAR_BRAINSTORM'><source>Ataque: ráfaga de relámpagos</source></trans-unit>
+<trans-unit id='044'  resname='IDS_SPECIAL_ABILITY_JETRAY_TXT'><source>Cuando embiste meterse en espacios pequeños.</source></trans-unit>
+<trans-unit id='045'  resname='IDS_SPACE_BAR_JETRAY'><source>Ataque: embestida</source></trans-unit>
+<trans-unit id='046'  resname='IDS_SPECIAL_ABILITY_SWAMPFIRE_TXT'><source>Sus bolas de fuego pueden destruir los proyectiles.</source></trans-unit>
+<trans-unit id='047'  resname='IDS_SPACE_BAR_SWAMPFIRE'><source>Ataque: lanzamiento de bolas de fuego</source></trans-unit>
+<trans-unit id='048'  resname='IDS_SPECIAL_ABILITY_SPIDERMONKEY_TXT'><source>Puede colgarse de las paredes y meterse en espacios pequeños.</source></trans-unit>
+<trans-unit id='049'  resname='IDS_SPACE_BAR_SPIDERMONKEY'><source>Ataque: asalto de telaraña</source></trans-unit>
+<trans-unit id='050'  resname='IDS_SPECIAL_ABILITY_WATERHAZARD_TXT'><source>Su doble salto es una burbuja escudo; su ataque destruye los proyectiles.</source></trans-unit>
+<trans-unit id='051'  resname='IDS_SPACE_BAR_WATERHAZARD'><source>Ataque: chorro de agua</source></trans-unit>
+<trans-unit id='052'  resname='IDS_SPECIAL_ABILITY_TERRASPIN_TXT'><source>Su ataque empuja a los enemigos; su doble salto le permite estar suspendido en el aire.</source></trans-unit>
+<trans-unit id='053'  resname='IDS_SPACE_BAR_TERRASPIN'><source>Ataque: remolino</source></trans-unit>
+<trans-unit id='054'  resname='IDS_SPECIAL_ABILITY_CANNONBOLT_TXT'><source>Cuando adopta la forma de bola es invencible.</source></trans-unit>
+<trans-unit id='055'  resname='IDS_SPACE_BAR_CANNONBOLT'><source>Ataque: embestida</source></trans-unit>
+<trans-unit id='056'  resname='IDS_SPECIAL_ABILITY_ECHOECHO_TXT'><source>Es capaz de duplicarse; su doble salto tiene más potencia.</source></trans-unit>
+<trans-unit id='057'  resname='IDS_SPACE_BAR_ECHOECHO'><source>Ataque: onda sónica</source></trans-unit>
+<trans-unit id='058'  resname='IDS_SPECIAL_ABILITY_BIGCHILL_TXT'><source>Su ataque tiene una gran amplitud y su doble salto le permite planear.</source></trans-unit>
+<trans-unit id='059'  resname='IDS_SPACE_BAR_BIGCHILL'><source>Ataque: soplo helado</source></trans-unit>
+<trans-unit id='060'  resname='IDS_SPECIAL_ABILITY_GRAVATTACK_TXT'><source>Su ataque puede desplazar cajas y enemigos.</source></trans-unit>
+<trans-unit id='061'  resname='IDS_SPACE_BAR_GRAVATTACK'><source>Ataque: onda de choque</source></trans-unit>
+<trans-unit id='062'  resname='IDS_SPECIAL_ABILITY_FEEDBACK_TXT'><source>Es capaz de absorber proyectiles y dispararlos contra sus enemigos.</source></trans-unit>
+<trans-unit id='063'  resname='IDS_SPACE_BAR_FEEDBACK'><source>Ataque: rayo de electricidad</source></trans-unit>
+<trans-unit id='064'  resname='IDS_JUMP_HUMONGOUSAUR'><source>SALTAR</source></trans-unit>
+<trans-unit id='065'  resname='IDS_MOVE_RIGHT_HUMONGOUSAUR'><source>DERECHA</source></trans-unit>
+<trans-unit id='066'  resname='IDS_MOVE_LEFT_HUMONGOUSAUR'><source>IZQUIERDA</source></trans-unit>
+<trans-unit id='067'  resname='IDS_MOVE_DOWN_HUMONGOUSAUR'><source>ABAJO</source></trans-unit>
+<trans-unit id='068'  resname='IDS_JUMP_BRAINSTORM'><source>SALTAR</source></trans-unit>
+<trans-unit id='069'  resname='IDS_MOVE_RIGHT_BRAINSTORM'><source>DERECHA</source></trans-unit>
+<trans-unit id='070'  resname='IDS_MOVE_LEFT_BRAINSTORM'><source>IZQUIERDA</source></trans-unit>
+<trans-unit id='071'  resname='IDS_MOVE_DOWN_BRAINSTORM'><source>ABAJO</source></trans-unit>
+<trans-unit id='072'  resname='IDS_JUMP_JETRAY'><source>SALTAR\n(pulsa más para salto múltiple)</source></trans-unit>
+<trans-unit id='073'  resname='IDS_MOVE_RIGHT_JETRAY'><source>DERECHA</source></trans-unit>
+<trans-unit id='074'  resname='IDS_MOVE_LEFT_JETRAY'><source>IZQUIERDA</source></trans-unit>
+<trans-unit id='075'  resname='IDS_MOVE_DOWN_JETRAY'><source>ABAJO</source></trans-unit>
+<trans-unit id='076'  resname='IDS_JUMP_SWAMPFIRE'><source>SALTAR</source></trans-unit>
+<trans-unit id='077'  resname='IDS_MOVE_RIGHT_SWAMPFIRE'><source>DERECHA</source></trans-unit>
+<trans-unit id='078'  resname='IDS_MOVE_LEFT_SWAMPFIRE'><source>IZQUIERDA</source></trans-unit>
+<trans-unit id='079'  resname='IDS_MOVE_DOWN_SWAMPFIRE'><source>ABAJO</source></trans-unit>
+<trans-unit id='080'  resname='IDS_JUMP_SPIDERMONKEY'><source>SALTAR\n(pulsa dos veces para doble salto)</source></trans-unit>
+<trans-unit id='081'  resname='IDS_MOVE_RIGHT_SPIDERMONKEY'><source>DERECHA</source></trans-unit>
+<trans-unit id='082'  resname='IDS_MOVE_LEFT_SPIDERMONKEY'><source>IZQUIERDA</source></trans-unit>
+<trans-unit id='083'  resname='IDS_MOVE_DOWN_SPIDERMONKEY'><source>ABAJO</source></trans-unit>
+<trans-unit id='084'  resname='IDS_JUMP_WATERHAZARD'><source>SALTAR\n(pulsa dos veces para doble salto)</source></trans-unit>
+<trans-unit id='085'  resname='IDS_MOVE_RIGHT_WATERHAZARD'><source>DERECHA</source></trans-unit>
+<trans-unit id='086'  resname='IDS_MOVE_LEFT_WATERHAZARD'><source>IZQUIERDA</source></trans-unit>
+<trans-unit id='087'  resname='IDS_MOVE_DOWN_WATERHAZARD'><source>ABAJO</source></trans-unit>
+<trans-unit id='088'  resname='IDS_JUMP_TERRASPIN'><source>SALTAR\n(pulsa dos veces para doble salto)</source></trans-unit>
+<trans-unit id='089'  resname='IDS_MOVE_RIGHT_TERRASPIN'><source>DERECHA</source></trans-unit>
+<trans-unit id='090'  resname='IDS_MOVE_LEFT_TERRASPIN'><source>IZQUIERDA</source></trans-unit>
+<trans-unit id='091'  resname='IDS_MOVE_DOWN_TERRASPIN'><source>ABAJO</source></trans-unit>
+<trans-unit id='092'  resname='IDS_JUMP_CANNONBOLT'><source>SALTAR\n(pulsa dos veces para doble salto)</source></trans-unit>
+<trans-unit id='093'  resname='IDS_MOVE_RIGHT_CANNONBOLT'><source>DERECHA</source></trans-unit>
+<trans-unit id='094'  resname='IDS_MOVE_LEFT_CANNONBOLT'><source>IZQUIERDA</source></trans-unit>
+<trans-unit id='095'  resname='IDS_MOVE_DOWN_CANNONBOLT'><source>ABAJO</source></trans-unit>
+<trans-unit id='096'  resname='IDS_JUMP_ECHOECHO'><source>SALTAR\n(pulsa dos veces para doble salto)</source></trans-unit>
+<trans-unit id='097'  resname='IDS_MOVE_RIGHT_ECHOECHO'><source>DERECHA</source></trans-unit>
+<trans-unit id='098'  resname='IDS_MOVE_LEFT_ECHOECHO'><source>IZQUIERDA</source></trans-unit>
+<trans-unit id='099'  resname='IDS_MOVE_DOWN_ECHOECHO'><source>ABAJO</source></trans-unit>
+<trans-unit id='100'  resname='IDS_JUMP_BIGCHILL'><source>SALTAR\n(pulsa dos veces para doble salto)</source></trans-unit>
+<trans-unit id='101'  resname='IDS_MOVE_RIGHT_BIGCHILL'><source>DERECHA</source></trans-unit>
+<trans-unit id='102'  resname='IDS_MOVE_LEFT_BIGCHILL'><source>IZQUIERDA</source></trans-unit>
+<trans-unit id='103'  resname='IDS_MOVE_DOWN_BIGCHILL'><source>ABAJO</source></trans-unit>
+<trans-unit id='104'  resname='IDS_JUMP_GRAVATTACK'><source>SALTAR</source></trans-unit>
+<trans-unit id='105'  resname='IDS_MOVE_RIGHT_GRAVATTACK'><source>DERECHA</source></trans-unit>
+<trans-unit id='106'  resname='IDS_MOVE_LEFT_GRAVATTACK'><source>IZQUIERDA</source></trans-unit>
+<trans-unit id='107'  resname='IDS_MOVE_DOWN_GRAVATTACK'><source>ABAJO</source></trans-unit>
+<trans-unit id='108'  resname='IDS_JUMP_FEEDBACK'><source>SALTAR\n(pulsa dos veces para doble salto)</source></trans-unit>
+<trans-unit id='109'  resname='IDS_MOVE_RIGHT_FEEDBACK'><source>DERECHA</source></trans-unit>
+<trans-unit id='110'  resname='IDS_MOVE_LEFT_FEEDBACK'><source>IZQUIERDA</source></trans-unit>
+<trans-unit id='111'  resname='IDS_MOVE_DOWN_FEEDBACK'><source>ABAJO</source></trans-unit>
+<trans-unit id='112'  resname='IDS_UNAVAILABLE_DATE_SINGULAR'><source>Juega como #name_alien# dentro de 1 día</source></trans-unit></body></file></xliff>

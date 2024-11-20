@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4897391" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Beastly/Ben/Iguana/4897391.jpg
+		</thumbnail>
+		<title>Humongousaur Droid Smash</title>
+		<creator>/Beastly/Ben/Iguana/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897351" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Chaotic/Kenneth/Charger/4897351.jpg
+		</thumbnail>
+		<title>Iron Droid Gear</title>
+		<creator>/Chaotic/Kenneth/Charger/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897334" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cosmic/Bill/Gizmo/4897334.jpg
+		</thumbnail>
+		<title>Chase Rumble Quake</title>
+		<creator>/Cosmic/Bill/Gizmo/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4897366" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cosmic/Ginger/Creature/4897366.jpg
+		</thumbnail>
+		<title>Ultimate Warp Universe</title>
+		<creator>/Cosmic/Ginger/Creature/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897263" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Purple/Dustin/Catapult/4897263.jpg
+		</thumbnail>
+		<title>Warrior Pulse Shock</title>
+		<creator>/Purple/Dustin/Catapult/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897246" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Strange/Mason/Acrobat/4897246.jpg
+		</thumbnail>
+		<title>Humongousaur Alien Quake</title>
+		<creator>/Strange/Mason/Acrobat/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897275" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Wild/Nathan/Droid/4897275.jpg
+		</thumbnail>
+		<title>Cosmic Lightning Stone</title>
+		<creator>/Wild/Nathan/Droid/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4897077" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Scary/Leon/Grouch/4897077.jpg
+		</thumbnail>
+		<title>Galaxy Thunder Rocket</title>
+		<creator>/Scary/Leon/Grouch/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4897088" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Eastern/Salvador/Yoyo/4897088.jpg
+		</thumbnail>
+		<title>Adventure Hero Smash</title>
+		<creator>/Eastern/Salvador/Yoyo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897071" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Scurvy/Apollo/Monkey/4897071.jpg
+		</thumbnail>
+		<title>Energy Streak Breaker</title>
+		<creator>/Scurvy/Apollo/Monkey/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4909556" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Frosty/Nicholas/Fishbowl/4909556.jpg
+		</thumbnail>
+		<title>Ultra Shadow Hero</title>
+		<creator>/Frosty/Nicholas/Fishbowl/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4909562" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Atomic/Dwight/Cobra/4909562.jpg
+		</thumbnail>
+		<title>Humongousaur Energy Escape</title>
+		<creator>/Atomic/Dwight/Cobra/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4909549" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Brave/Lucas/Ostrich/4909549.jpg
+		</thumbnail>
+		<title>Danger Razor Storm</title>
+		<creator>/Brave/Lucas/Ostrich/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4909523" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Awesome/Robin/Kangaroo/4909523.jpg
+		</thumbnail>
+		<title>Animo Assault Breaker</title>
+		<creator>/Awesome/Robin/Kangaroo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4909526" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Silent/Henry/Dragon/4909526.jpg
+		</thumbnail>
+		<title>Robot Blaster Fury</title>
+		<creator>/Silent/Henry/Dragon/</creator>
+		<timesPlayed>17</timesPlayed>
+	</game>
+	<game id="4909512" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Mighty/Henry/Creature/4909512.jpg
+		</thumbnail>
+		<title>Universe Defense Breaker</title>
+		<creator>/Mighty/Henry/Creature/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4909535" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Husky/John/Cinnamon/4909535.jpg
+		</thumbnail>
+		<title>Humongousaur Assault Clash</title>
+		<creator>/Husky/John/Cinnamon/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4909466" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Blue/Greg/Gorilla/4909466.jpg
+		</thumbnail>
+		<title>Fusion Fire Warp</title>
+		<creator>/Blue/Greg/Gorilla/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4909484" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Spooky/Rob/Quack/4909484.jpg
+		</thumbnail>
+		<title>Nano Titan Spike</title>
+		<creator>/Spooky/Rob/Quack/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4909463" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Blue/Robert/Spider/4909463.jpg
+		</thumbnail>
+		<title>Crusher Steel Energy</title>
+		<creator>/Blue/Robert/Spider/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+</cartoonnetwork>

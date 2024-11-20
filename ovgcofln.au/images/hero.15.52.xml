@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10919825" rating="4.0" difficulty="0" status="1" timesWon="4" timesPlayed="4">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Bruce/Ooze/10919825.jpg
+		</thumbnail>
+		<title>Space Turbo Solar</title>
+		<creator>/Red/Bruce/Ooze/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="10924472" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="3">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dainty/Hayden/Avocado/10924472.jpg
+		</thumbnail>
+		<title>Burst Atomic Droid</title>
+		<creator>/Dainty/Hayden/Avocado/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="10952447" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="26">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sly/Gulliver/Glop/10952447.jpg
+		</thumbnail>
+		<title>Earth Pursuit Nitro</title>
+		<creator>/Sly/Gulliver/Glop/</creator>
+		<timesPlayed>26</timesPlayed>
+	</game>
+	<game id="10925582" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dynamic/Stacy/Crumpet/10925582.jpg
+		</thumbnail>
+		<title>Adventure Adventure Battle</title>
+		<creator>/Dynamic/Stacy/Crumpet/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10952782" rating="5.0" difficulty="0" status="1" timesWon="2" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Fred/Mallard/10952782.jpg
+		</thumbnail>
+		<title>Swampfire Dark Rescue</title>
+		<creator>/Obvious/Fred/Mallard/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10952581" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gloomy/Harry/Bolt/10952581.jpg
+		</thumbnail>
+		<title>Danger Vilgax Fusion</title>
+		<creator>/Gloomy/Harry/Bolt/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10952930" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Western/Leon/Figment/10952930.jpg
+		</thumbnail>
+		<title>Assault Streak Siege</title>
+		<creator>/Western/Leon/Figment/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10952932" rating="5.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sloppy/Connor/Fondue/10952932.jpg
+		</thumbnail>
+		<title>Adventure Doom Breaker</title>
+		<creator>/Sloppy/Connor/Fondue/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10952867" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frantic/Chester/Walrus/10952867.jpg
+		</thumbnail>
+		<title>Search Nova Champion</title>
+		<creator>/Frantic/Chester/Walrus/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10952649" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Megan/Octopus/10952649.jpg
+		</thumbnail>
+		<title>Rampage Charge Earth</title>
+		<creator>/Obvious/Megan/Octopus/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

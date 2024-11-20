@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4916432" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Pretty/Cathy/Fireball/4916432.jpg
+		</thumbnail>
+		<title>Galaxy Turbo Ambush</title>
+		<creator>/Pretty/Cathy/Fireball/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916416" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Swift/Tiffany/Fossil/4916416.jpg
+		</thumbnail>
+		<title>Metal Iron Target</title>
+		<creator>/Swift/Tiffany/Fossil/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916437" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Zippy/Jaden/Pelican/4916437.jpg
+		</thumbnail>
+		<title>Sonic Sonic Sonic</title>
+		<creator>/Zippy/Jaden/Pelican/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916414" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Atomic/Keith/Universe/4916414.jpg
+		</thumbnail>
+		<title>Atomic Alien Ambush</title>
+		<creator>/Atomic/Keith/Universe/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916406" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Heroic/Alan/Steam/4916406.jpg
+		</thumbnail>
+		<title>Spark Robot Rumble</title>
+		<creator>/Heroic/Alan/Steam/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4916443" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Green/Jeff/Bingo/4916443.jpg
+		</thumbnail>
+		<title>Defense Sonic Fire</title>
+		<creator>/Green/Jeff/Bingo/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4916425" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Mirthful/Peter/Blade/4916425.jpg
+		</thumbnail>
+		<title>Steel Razor Streak</title>
+		<creator>/Mirthful/Peter/Blade/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4916421" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cosmic/Napoleon/Phantom/4916421.jpg
+		</thumbnail>
+		<title>Rampage Lightning Smash</title>
+		<creator>/Cosmic/Napoleon/Phantom/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916404" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Awful/Penny/Mango/4916404.jpg
+		</thumbnail>
+		<title>Assault Light Shadow</title>
+		<creator>/Awful/Penny/Mango/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916392" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Scary/Nick/Volcano/4916392.jpg
+		</thumbnail>
+		<title>Pursuit Target Robot</title>
+		<creator>/Scary/Nick/Volcano/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

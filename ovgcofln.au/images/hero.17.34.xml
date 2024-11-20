@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4912187" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dapper/Jonathan/Tractor/4912187.jpg
+		</thumbnail>
+		<title>Metal Techno Hero</title>
+		<creator>/Dapper/Jonathan/Tractor/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4912182" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Funny/Alex/Howler/4912182.jpg
+		</thumbnail>
+		<title>Animo Shadow Quake</title>
+		<creator>/Funny/Alex/Howler/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4912194" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Sporty/Dennis/Mango/4912194.jpg
+		</thumbnail>
+		<title>Plasma Champion Spike</title>
+		<creator>/Sporty/Dennis/Mango/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4912163" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Puzzling/Scooter/Hedgehog/4912163.jpg
+		</thumbnail>
+		<title>Challenge Siege Streak</title>
+		<creator>/Puzzling/Scooter/Hedgehog/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4912144" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Silly/Jacob/Bingo/4912144.jpg
+		</thumbnail>
+		<title>Target Nitro Ben</title>
+		<creator>/Silly/Jacob/Bingo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4912138" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Jumping/Rachel/Warp/4912138.jpg
+		</thumbnail>
+		<title>Drone Spike Champion</title>
+		<creator>/Jumping/Rachel/Warp/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4912139" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Gloomy/Derek/Gumshoe/4912139.jpg
+		</thumbnail>
+		<title>Metal Fury Rocket</title>
+		<creator>/Gloomy/Derek/Gumshoe/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4912136" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fuzzy/Otis/Zip/4912136.jpg
+		</thumbnail>
+		<title>Nano Assault Rampage</title>
+		<creator>/Fuzzy/Otis/Zip/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4912129" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Jumping/Spike/Yoyo/4912129.jpg
+		</thumbnail>
+		<title>Jetray Solar Sonic</title>
+		<creator>/Jumping/Spike/Yoyo/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4912124" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Kooky/Vanessa/Bayou/4912124.jpg
+		</thumbnail>
+		<title>Warp Crusher Drone</title>
+		<creator>/Kooky/Vanessa/Bayou/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

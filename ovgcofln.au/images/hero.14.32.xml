@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4921670" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Blue/Dylan/Fireball/4921670.jpg
+		</thumbnail>
+		<title>Spidermonkey Racer Rampage</title>
+		<creator>/Blue/Dylan/Fireball/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4921575" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Rowdy/Seth/Bamboo/4921575.jpg
+		</thumbnail>
+		<title>Rustbucket Assault Storm</title>
+		<creator>/Rowdy/Seth/Bamboo/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4921583" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Savage/Vinny/Viking/4921583.jpg
+		</thumbnail>
+		<title>Lightning Vilgax Earth</title>
+		<creator>/Savage/Vinny/Viking/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4921579" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Spooky/Andrew/Macaroni/4921579.jpg
+		</thumbnail>
+		<title>Power Attack Warp</title>
+		<creator>/Spooky/Andrew/Macaroni/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4921593" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Reliable/Luis/Fossil/4921593.jpg
+		</thumbnail>
+		<title>Magno Doom Quake</title>
+		<creator>/Reliable/Luis/Fossil/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4921540" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Western/Tyler/Viking/4921540.jpg
+		</thumbnail>
+		<title>Magno Robot Power</title>
+		<creator>/Western/Tyler/Viking/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4921557" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Mighty/Max/Worm/4921557.jpg
+		</thumbnail>
+		<title>Pursuit Energy Assault</title>
+		<creator>/Mighty/Max/Worm/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4921529" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Loopy/Sam/Macaroni/4921529.jpg
+		</thumbnail>
+		<title>Spidermonkey Rampage Warrior</title>
+		<creator>/Loopy/Sam/Macaroni/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4921527" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Awful/Bob/Avocado/4921527.jpg
+		</thumbnail>
+		<title>Space Fusion Force</title>
+		<creator>/Awful/Bob/Avocado/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4921544" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Absurd/Ace/Aardvark/4921544.jpg
+		</thumbnail>
+		<title>Rampage Nano Target</title>
+		<creator>/Absurd/Ace/Aardvark/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4909286" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Awesome/Robin/Kangaroo/4909286.jpg
+		</thumbnail>
+		<title>Ben Ben Alien</title>
+		<creator>/Awesome/Robin/Kangaroo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4909232" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dazzling/Gigi/Squeegee/4909232.jpg
+		</thumbnail>
+		<title>Cosmic Plasma Mission</title>
+		<creator>/Dazzling/Gigi/Squeegee/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4909234" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Reckless/Zelda/Shark/4909234.jpg
+		</thumbnail>
+		<title>Rocket Rush Fury</title>
+		<creator>/Reckless/Zelda/Shark/</creator>
+		<timesPlayed>6</timesPlayed>
+	</game>
+	<game id="4909259" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cosmic/Chris/Varmint/4909259.jpg
+		</thumbnail>
+		<title>Atomic Shadow Adventure</title>
+		<creator>/Cosmic/Chris/Varmint/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4909237" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Awesome/Robby/Yoyo/4909237.jpg
+		</thumbnail>
+		<title>Iron Star Thunder</title>
+		<creator>/Awesome/Robby/Yoyo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4909227" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Infamous/Ace/Gizmo/4909227.jpg
+		</thumbnail>
+		<title>Rock Dark Hero</title>
+		<creator>/Infamous/Ace/Gizmo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4909222" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Horrid/Brandon/Seesaw/4909222.jpg
+		</thumbnail>
+		<title>Lightning Crusher Ben</title>
+		<creator>/Horrid/Brandon/Seesaw/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4909214" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Ticklish/Amelia/Werewolf/4909214.jpg
+		</thumbnail>
+		<title>Rustbucket Earth Titan</title>
+		<creator>/Ticklish/Amelia/Werewolf/</creator>
+		<timesPlayed>10</timesPlayed>
+	</game>
+	<game id="4909191" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Yellow/Luis/Hambone/4909191.jpg
+		</thumbnail>
+		<title>Dark Iron Battle</title>
+		<creator>/Yellow/Luis/Hambone/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4909184" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Crunchy/Spencer/Scribble/4909184.jpg
+		</thumbnail>
+		<title>Razor Razor Earth</title>
+		<creator>/Crunchy/Spencer/Scribble/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

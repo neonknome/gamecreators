@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17414376" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="11">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Brian/Cookie/17414376.jpg
+		</thumbnail>
+		<title>Spidermonkey Rumble Rush</title>
+		<creator>Barbaric Brian Cookie</creator>
+		<timesPlayed>11</timesPlayed>
+	</game>
+	<game id="17413193" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="4">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Matthew/Dingbat/17413193.jpg
+		</thumbnail>
+		<title>Waterhazard Steel Adventure</title>
+		<creator>Humorous Matthew Dingbat</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="17420645" rating="0.0" difficulty="0" status="1" timesWon="4" timesPlayed="4">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Smart/Marco/Aardvark/17420645.jpg
+		</thumbnail>
+		<title>Warrior Rumble Fury</title>
+		<creator>Smart Marco Aardvark</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="17295723" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Extinct/Oscar/Yoyo/17295723.jpg
+		</thumbnail>
+		<title>Power Quake Adventure</title>
+		<creator>Extinct Oscar Yoyo</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17133581" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Titanic/Clyde/Dwarf/17133581.jpg
+		</thumbnail>
+		<title>Adventure Smash Burst</title>
+		<creator>Titanic Clyde Dwarf</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17420096" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Delicate/Aaliyah/Sparkle/17420096.jpg
+		</thumbnail>
+		<title>Giga Space Swampfire</title>
+		<creator>Delicate Aaliyah Sparkle</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17462292" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="4">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Agile/Sofia/Martian/17462292.jpg
+		</thumbnail>
+		<title>Titan Space Assault</title>
+		<creator>Agile Sofia Martian</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="17326435" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="14">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Silent/Gus/Carousel/17326435.jpg
+		</thumbnail>
+		<title>Spark Patrol Challenge</title>
+		<creator>Silent Gus Carousel</creator>
+		<timesPlayed>14</timesPlayed>
+	</game>
+	<game id="17379329" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="12">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quirky/Aiden/Moonbeam/17379329.jpg
+		</thumbnail>
+		<title>Iron Iron Gear</title>
+		<creator>Quirky Aiden Moonbeam</creator>
+		<timesPlayed>12</timesPlayed>
+	</game>
+	<game id="17420513" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="11">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Hyper/Silvia/Pulse/17420513.jpg
+		</thumbnail>
+		<title>Adventure Star Spike</title>
+		<creator>Hyper Silvia Pulse</creator>
+		<timesPlayed>11</timesPlayed>
+	</game>
+</cartoonnetwork>

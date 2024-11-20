@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4904050" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Noble/Morgan/Seesaw/4904050.jpg
+		</thumbnail>
+		<title>Galaxy Warrior Charge</title>
+		<creator>/Noble/Morgan/Seesaw/</creator>
+		<timesPlayed>14</timesPlayed>
+	</game>
+	<game id="4904009" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Alien/Ginger/Shark/4904009.jpg
+		</thumbnail>
+		<title>Atomic Power Quake</title>
+		<creator>/Alien/Ginger/Shark/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4904003" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Gigantic/Jordan/Ogre/4904003.jpg
+		</thumbnail>
+		<title>Defense Target Light</title>
+		<creator>/Gigantic/Jordan/Ogre/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4903892" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Jolly/Merlin/Planet/4903892.jpg
+		</thumbnail>
+		<title>Rampage Rock Sonic</title>
+		<creator>/Jolly/Merlin/Planet/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4903883" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Orange/Alfonso/Clang/4903883.jpg
+		</thumbnail>
+		<title>Robot Laser Dark</title>
+		<creator>/Orange/Alfonso/Clang/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4903898" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Spooky/Bob/Thunder/4903898.jpg
+		</thumbnail>
+		<title>Shock Rustbucket Champion</title>
+		<creator>/Spooky/Bob/Thunder/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4903907" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Wondrous/Xavier/Bolt/4903907.jpg
+		</thumbnail>
+		<title>Search Dark Doom</title>
+		<creator>/Wondrous/Xavier/Bolt/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4903845" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Awesome/Chris/Hedgehog/4903845.jpg
+		</thumbnail>
+		<title>Pursuit Humongousaur Quake</title>
+		<creator>/Awesome/Chris/Hedgehog/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4903836" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Happy/Calvin/Maestro/4903836.jpg
+		</thumbnail>
+		<title>Assault Alien Crusher</title>
+		<creator>/Happy/Calvin/Maestro/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4903849" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Gigantic/Alex/Banjo/4903849.jpg
+		</thumbnail>
+		<title>Shadow Breaker Mega</title>
+		<creator>/Gigantic/Alex/Banjo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10920148" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barkbullet/10920148.jpg
+		</thumbnail>
+		<title>Ben Champion Beast</title>
+		<creator>/Barkbullet/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10920168" rating="4.75" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ticklish/Spike/Dynamite/10920168.jpg
+		</thumbnail>
+		<title>Cosmic Fire Slam</title>
+		<creator>/Ticklish/Spike/Dynamite/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10920076" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brave/Jamie/Klunk/10920076.jpg
+		</thumbnail>
+		<title>Power Dark Robot</title>
+		<creator>/Brave/Jamie/Klunk/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10920193" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chaotic/Carson/Thunder/10920193.jpg
+		</thumbnail>
+		<title>Atomic Force Clash</title>
+		<creator>/Chaotic/Carson/Thunder/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10939122" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Daring/Bubba/Mustard/10939122.jpg
+		</thumbnail>
+		<title>Adventure Shock Chase</title>
+		<creator>/Daring/Bubba/Mustard/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10953680" rating="3.8627848285195228" difficulty="0" status="1" timesWon="428" timesPlayed="2771">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Orange/Sara/Cyborg/10953680.jpg
+		</thumbnail>
+		<title>Hero Robot Shock</title>
+		<creator>/Orange/Sara/Cyborg/</creator>
+		<timesPlayed>2771</timesPlayed>
+	</game>
+	<game id="10927817" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grimy/Blake/Tornado/10927817.jpg
+		</thumbnail>
+		<title>Patrol Energy Magno</title>
+		<creator>/Grimy/Blake/Tornado/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="10920181" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Enormous/Romeo/Bongo/10920181.jpg
+		</thumbnail>
+		<title>Adventure Adventure Adventure</title>
+		<creator>/Enormous/Romeo/Bongo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10927028" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sly/Ava/Tugboat/10927028.jpg
+		</thumbnail>
+		<title>Force Adventure Stone</title>
+		<creator>/Sly/Ava/Tugboat/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10926927" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dainty/Darla/Ketchup/10926927.jpg
+		</thumbnail>
+		<title>Doom Rampage Defense</title>
+		<creator>/Dainty/Darla/Ketchup/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

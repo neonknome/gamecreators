@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17411673" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Organic/Yvonne/Sprocket/17411673.jpg
+		</thumbnail>
+		<title>Fury Doom Ultra</title>
+		<creator>Organic Yvonne Sprocket</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17299849" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Chilly/Fred/Bingo/17299849.jpg
+		</thumbnail>
+		<title>Gear Hyper Turbo</title>
+		<creator>Chilly Fred Bingo</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="16887190" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="3">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tall/Drew/Dragoon/16887190.jpg
+		</thumbnail>
+		<title>Doom Danger Light</title>
+		<creator>Tall Drew Dragoon</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="17257125" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Barbaric/Faith/Camel/17257125.jpg
+		</thumbnail>
+		<title>Vilgax Chase Galaxy</title>
+		<creator>Barbaric Faith Camel</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17419559" rating="0.0" difficulty="0" status="1" timesWon="7" timesPlayed="17">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Friendly/Felix/Dodo/17419559.jpg
+		</thumbnail>
+		<title>Stone Hero Laser</title>
+		<creator>Friendly Felix Dodo</creator>
+		<timesPlayed>17</timesPlayed>
+	</game>
+	<game id="17323066" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="4">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Capable/Marvin/Brick/17323066.jpg
+		</thumbnail>
+		<title>Fury Clash Lightning</title>
+		<creator>Capable Marvin Brick</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="17323118" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Stout/Herman/Aardvark/17323118.jpg
+		</thumbnail>
+		<title>Lightning Hyper Dark</title>
+		<creator>Stout Herman Aardvark</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17371687" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="4">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Radical/Alvin/Catapult/17371687.jpg
+		</thumbnail>
+		<title>Ultimate Pulse Lightning</title>
+		<creator>Radical Alvin Catapult</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="17400808" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="3">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noble/Celeste/Thorax/17400808.jpg
+		</thumbnail>
+		<title>Galaxy Turbo Vilgax</title>
+		<creator>Noble Celeste Thorax</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="17540239" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="4">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mumbling/Kaden/Tarragon/17540239.jpg
+		</thumbnail>
+		<title>Dark Omniverse Charge</title>
+		<creator>Mumbling Kaden Tarragon</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+</cartoonnetwork>

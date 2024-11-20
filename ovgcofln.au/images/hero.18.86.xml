@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4917243" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cosmic/Matthew/Sardine/4917243.jpg
+		</thumbnail>
+		<title>Escape Nano Energy</title>
+		<creator>/Cosmic/Matthew/Sardine/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917240" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Gloomy/Carlos/Crash/4917240.jpg
+		</thumbnail>
+		<title>Steel Danger Animo</title>
+		<creator>/Gloomy/Carlos/Crash/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4917215" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Grouchy/Rachel/Kangaroo/4917215.jpg
+		</thumbnail>
+		<title>Adventure Spike Fire</title>
+		<creator>/Grouchy/Rachel/Kangaroo/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4917218" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Robust/Trinity/Blade/4917218.jpg
+		</thumbnail>
+		<title>Ultimate Ultra Universe</title>
+		<creator>/Robust/Trinity/Blade/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917205" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Northern/Derrick/Squawk/4917205.jpg
+		</thumbnail>
+		<title>Breaker Atomic Energy</title>
+		<creator>/Northern/Derrick/Squawk/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4917194" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Sneaky/Homer/Shark/4917194.jpg
+		</thumbnail>
+		<title>Drone Invasion Warrior</title>
+		<creator>/Sneaky/Homer/Shark/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917213" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Elusive/Scott/Minotaur/4917213.jpg
+		</thumbnail>
+		<title>Burst Titan Breaker</title>
+		<creator>/Elusive/Scott/Minotaur/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917199" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fragrant/Ethan/Dragon/4917199.jpg
+		</thumbnail>
+		<title>Titan Adventure Rocket</title>
+		<creator>/Fragrant/Ethan/Dragon/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4917172" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Weird/Carlos/Goblin/4917172.jpg
+		</thumbnail>
+		<title>Alien Doom Assault</title>
+		<creator>/Weird/Carlos/Goblin/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917176" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Unusual/Isabella/Buckaroo/4917176.jpg
+		</thumbnail>
+		<title>Breaker Danger Chase</title>
+		<creator>/Unusual/Isabella/Buckaroo/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+</cartoonnetwork>

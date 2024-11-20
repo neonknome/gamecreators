@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10937447" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Valiant/Evan/Varmint/10937447.jpg
+		</thumbnail>
+		<title>Ben Techno Lightning</title>
+		<creator>/Valiant/Evan/Varmint/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10937150" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Western/Tommy/Starfish/10937150.jpg
+		</thumbnail>
+		<title>Fusion Razor Light</title>
+		<creator>/Western/Tommy/Starfish/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10938043" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Adorable/Celeste/Chutney/10938043.jpg
+		</thumbnail>
+		<title>Earth Ambush Doom</title>
+		<creator>/Adorable/Celeste/Chutney/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10925908" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baffling/Tex/Jalapeno/10925908.jpg
+		</thumbnail>
+		<title>Droid Laser Hex</title>
+		<creator>/Baffling/Tex/Jalapeno/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10925913" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mirthful/Zeus/Narwhal/10925913.jpg
+		</thumbnail>
+		<title>Danger Adventure Battle</title>
+		<creator>/Mirthful/Zeus/Narwhal/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10925864" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wacky/Jack/Virtuoso/10925864.jpg
+		</thumbnail>
+		<title>Turbo Techno Laser</title>
+		<creator>/Wacky/Jack/Virtuoso/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="10927469" rating="5.0" difficulty="0" status="1" timesWon="7" timesPlayed="61">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dashing/Calvin/Maestro/10927469.jpg
+		</thumbnail>
+		<title>Rush Ultra Racer</title>
+		<creator>/Dashing/Calvin/Maestro/</creator>
+		<timesPlayed>61</timesPlayed>
+	</game>
+	<game id="10927496" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Loud/Grover/Talon/10927496.jpg
+		</thumbnail>
+		<title>Force Escape Adventure</title>
+		<creator>/Loud/Grover/Talon/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10942677" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strange/Dawn/Iguana/10942677.jpg
+		</thumbnail>
+		<title>Rock Steel Fusion</title>
+		<creator>/Strange/Dawn/Iguana/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10937074" rating="3.0" difficulty="0" status="1" timesWon="1" timesPlayed="10">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Infinite/Goliath/Cyborg/10937074.jpg
+		</thumbnail>
+		<title>Spike Robot Pursuit</title>
+		<creator>/Infinite/Goliath/Cyborg/</creator>
+		<timesPlayed>10</timesPlayed>
+	</game>
+</cartoonnetwork>

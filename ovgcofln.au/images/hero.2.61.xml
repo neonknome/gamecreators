@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4900606" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Atomic/George/Sphinx/4900606.jpg
+		</thumbnail>
+		<title>Mega Humongousaur Rush</title>
+		<creator>/Atomic/George/Sphinx/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4900591" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Normal/Mike/Mastodon/4900591.jpg
+		</thumbnail>
+		<title>Racer Cosmic Plasma</title>
+		<creator>/Normal/Mike/Mastodon/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4900588" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Beastly/Seth/Twist/4900588.jpg
+		</thumbnail>
+		<title>Adventure Turbo Quake</title>
+		<creator>/Beastly/Seth/Twist/</creator>
+		<timesPlayed>7</timesPlayed>
+	</game>
+	<game id="4900612" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Heroic/Alex/Klunk/4900612.jpg
+		</thumbnail>
+		<title>Nova Streak Ambush</title>
+		<creator>/Heroic/Alex/Klunk/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4900574" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Silent/Simon/Mahogany/4900574.jpg
+		</thumbnail>
+		<title>Rock Escape Fire</title>
+		<creator>/Silent/Simon/Mahogany/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4900569" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Grizzly/Jimbo/Tractor/4900569.jpg
+		</thumbnail>
+		<title>Gear Challenge Adventure</title>
+		<creator>/Grizzly/Jimbo/Tractor/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4900583" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Happy/Bryan/Iceberg/4900583.jpg
+		</thumbnail>
+		<title>Hex Storm Power</title>
+		<creator>/Happy/Bryan/Iceberg/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="4900557" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Loony/Patrick/Baloney/4900557.jpg
+		</thumbnail>
+		<title>Fire Droid Energy</title>
+		<creator>/Loony/Patrick/Baloney/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4900538" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Horrid/Bob/Worm/4900538.jpg
+		</thumbnail>
+		<title>Cosmic Spike Thunder</title>
+		<creator>/Horrid/Bob/Worm/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4900502" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Visible/Justin/Magma/4900502.jpg
+		</thumbnail>
+		<title>Adventure Spike Mission</title>
+		<creator>/Visible/Justin/Magma/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

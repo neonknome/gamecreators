@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4897071" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Scurvy/Apollo/Monkey/4897071.jpg
+		</thumbnail>
+		<title>Energy Streak Breaker</title>
+		<creator>/Scurvy/Apollo/Monkey/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4897200" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Ghostly/Kylie/Magma/4897200.jpg
+		</thumbnail>
+		<title>Ambush Iron Warrior</title>
+		<creator>/Ghostly/Kylie/Magma/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897210" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Savage/Charles/Virtuoso/4897210.jpg
+		</thumbnail>
+		<title>Racer Quake Streak</title>
+		<creator>/Savage/Charles/Virtuoso/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4897229" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fanciful/Ludwig/Cyborg/4897229.jpg
+		</thumbnail>
+		<title>Defense Battle Earth</title>
+		<creator>/Fanciful/Ludwig/Cyborg/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4897226" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fierce/Adam/Cyborg/4897226.jpg
+		</thumbnail>
+		<title>Stone Breaker Rampage</title>
+		<creator>/Fierce/Adam/Cyborg/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4897239" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Spooky/Faith/Storm/4897239.jpg
+		</thumbnail>
+		<title>Adventure Ben Patrol</title>
+		<creator>/Spooky/Faith/Storm/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897193" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Crafty/Jordan/Cactus/4897193.jpg
+		</thumbnail>
+		<title>Hero Shock Patrol</title>
+		<creator>/Crafty/Jordan/Cactus/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897154" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Enormous/Ace/Aurora/4897154.jpg
+		</thumbnail>
+		<title>Shadow Turbo Adventure</title>
+		<creator>/Enormous/Ace/Aurora/</creator>
+		<timesPlayed>7</timesPlayed>
+	</game>
+	<game id="4897139" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Northern/Mike/Kook/4897139.jpg
+		</thumbnail>
+		<title>Ultimate Alien Humongousaur</title>
+		<creator>/Northern/Mike/Kook/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4897113" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Chaotic/Ace/Dodo/4897113.jpg
+		</thumbnail>
+		<title>Universe Champion Warp</title>
+		<creator>/Chaotic/Ace/Dodo/</creator>
+		<timesPlayed>17</timesPlayed>
+	</game>
+</cartoonnetwork>

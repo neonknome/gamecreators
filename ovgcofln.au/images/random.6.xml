@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="16956458" rating="0.0" difficulty="0" status="1" timesWon="3" timesPlayed="13">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Emperor/Kenny/Tornado/16956458.jpg
+		</thumbnail>
+		<title>Metal Adventure Vilgax</title>
+		<creator>Emperor Kenny Tornado</creator>
+		<timesPlayed>13</timesPlayed>
+	</game>
+	<game id="17310250" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="4">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Defiant/Mario/Blob/17310250.jpg
+		</thumbnail>
+		<title>Chase Thunder Droid</title>
+		<creator>Defiant Mario Blob</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="17282201" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="3">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Abnormal/Lawrence/Burro/17282201.jpg
+		</thumbnail>
+		<title>Iron Adventure Ben</title>
+		<creator>Abnormal Lawrence Burro</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="17298605" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="6">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mighty/Avery/Mantis/17298605.jpg
+		</thumbnail>
+		<title>Energy Hyper Rampage</title>
+		<creator>Mighty Avery Mantis</creator>
+		<timesPlayed>6</timesPlayed>
+	</game>
+	<game id="17282494" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Superior/Jonas/Jamboree/17282494.jpg
+		</thumbnail>
+		<title>Pursuit Shadow Fire</title>
+		<creator>Superior Jonas Jamboree</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17308118" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="11">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Noble/Justin/Halo/17308118.jpg
+		</thumbnail>
+		<title>Breaker Rustbucket Earth</title>
+		<creator>Noble Justin Halo</creator>
+		<timesPlayed>11</timesPlayed>
+	</game>
+	<game id="17237572" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="4">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Academic/Jorge/Avator/17237572.jpg
+		</thumbnail>
+		<title>Universe Doom Rush</title>
+		<creator>Academic Jorge Avator</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="17207527" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artful/Kenny/Gamer/17207527.jpg
+		</thumbnail>
+		<title>Hyper Techno Danger</title>
+		<creator>Artful Kenny Gamer</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17252572" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="3">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spicy/Lorenzo/Venom/17252572.jpg
+		</thumbnail>
+		<title>Quake Atomic Force</title>
+		<creator>Spicy Lorenzo Venom</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="17252700" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cartoony/Carl/Zebra/17252700.jpg
+		</thumbnail>
+		<title>Search Rustbucket Atomic</title>
+		<creator>Cartoony Carl Zebra</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+</cartoonnetwork>

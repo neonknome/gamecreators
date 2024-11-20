@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4916281" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fuzzy/Harry/Dolphin/4916281.jpg
+		</thumbnail>
+		<title>Mission Warp Laser</title>
+		<creator>/Fuzzy/Harry/Dolphin/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916292" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Babbling/Tim/Llama/4916292.jpg
+		</thumbnail>
+		<title>Power Cosmic Spidermonkey</title>
+		<creator>/Babbling/Tim/Llama/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4916300" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Powerful/Cody/Zombie/4916300.jpg
+		</thumbnail>
+		<title>Spidermonkey Assault Battle</title>
+		<creator>/Powerful/Cody/Zombie/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916266" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Wild/Shelby/Werewolf/4916266.jpg
+		</thumbnail>
+		<title>Shock Mega Turbo</title>
+		<creator>/Wild/Shelby/Werewolf/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916241" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Twisty/Ray/Grouch/4916241.jpg
+		</thumbnail>
+		<title>Star Power Patrol</title>
+		<creator>/Twisty/Ray/Grouch/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4916256" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Heroic/Alan/Steam/4916256.jpg
+		</thumbnail>
+		<title>Vilgax Doom Gear</title>
+		<creator>/Heroic/Alan/Steam/</creator>
+		<timesPlayed>13</timesPlayed>
+	</game>
+	<game id="4916263" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Wise/Buford/Bamboo/4916263.jpg
+		</thumbnail>
+		<title>Alien Rumble Doom</title>
+		<creator>/Wise/Buford/Bamboo/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4916234" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Swift/Johnny/Cobra/4916234.jpg
+		</thumbnail>
+		<title>Spidermonkey Power Smash</title>
+		<creator>/Swift/Johnny/Cobra/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4916181" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Happy/Spencer/Fuzz/4916181.jpg
+		</thumbnail>
+		<title>Iron Hex Slam</title>
+		<creator>/Happy/Spencer/Fuzz/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916188" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Awesome/Erik/Galaxy/4916188.jpg
+		</thumbnail>
+		<title>Metal Adventure Mega</title>
+		<creator>/Awesome/Erik/Galaxy/</creator>
+		<timesPlayed>17</timesPlayed>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10952683" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Obvious/Megan/Octopus/10952683.jpg
+		</thumbnail>
+		<title>Charge Space Universe</title>
+		<creator>/Obvious/Megan/Octopus/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10921238" rating="5.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Honest/Wesley/Monster/10921238.jpg
+		</thumbnail>
+		<title>Fire Hero Plasma</title>
+		<creator>/Honest/Wesley/Monster/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10953320" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="5">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artistic/Alan/Stampede/10953320.jpg
+		</thumbnail>
+		<title>Fire Drone Ambush</title>
+		<creator>/Artistic/Alan/Stampede/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="10921283" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Charming/Chase/Behemoth/10921283.jpg
+		</thumbnail>
+		<title>Rumble Adventure Iron</title>
+		<creator>/Charming/Chase/Behemoth/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10953074" rating="5.0" difficulty="0" status="1" timesWon="1" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gigantic/Felix/Shark/10953074.jpg
+		</thumbnail>
+		<title>Nitro Plasma Light</title>
+		<creator>/Gigantic/Felix/Shark/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10953143" rating="0.0" difficulty="0" status="1" timesWon="3" timesPlayed="5">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grizzly/Mitchell/Hiccup/10953143.jpg
+		</thumbnail>
+		<title>Plasma Breaker Force</title>
+		<creator>/Grizzly/Mitchell/Hiccup/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="10953226" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="50">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fanciful/Xerxes/Aardvark/10953226.jpg
+		</thumbnail>
+		<title>Mission Streak Solar</title>
+		<creator>/Fanciful/Xerxes/Aardvark/</creator>
+		<timesPlayed>50</timesPlayed>
+	</game>
+	<game id="10953381" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="7">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cheerful/Vincent/Dragon/10953381.jpg
+		</thumbnail>
+		<title>Plasma Giga Droid</title>
+		<creator>/Cheerful/Vincent/Dragon/</creator>
+		<timesPlayed>7</timesPlayed>
+	</game>
+	<game id="10953447" rating="0.0" difficulty="0" status="1" timesWon="14" timesPlayed="20">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Nimble/Lillian/Robot/10953447.jpg
+		</thumbnail>
+		<title>Mission Hero Smash</title>
+		<creator>/Nimble/Lillian/Robot/</creator>
+		<timesPlayed>20</timesPlayed>
+	</game>
+	<game id="10923431" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="3">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Bryan/Goofball/10923431.jpg
+		</thumbnail>
+		<title>Crusher Ambush Assault</title>
+		<creator>/Humorous/Bryan/Goofball/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4897989" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Alien/Oscar/Dolphin/4897989.jpg
+		</thumbnail>
+		<title>Burst Search Burst</title>
+		<creator>/Alien/Oscar/Dolphin/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897991" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Alien/Dustin/Atom/4897991.jpg
+		</thumbnail>
+		<title>Ultimate Nitro Quake</title>
+		<creator>/Alien/Dustin/Atom/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897860" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Grizzly/Hazel/Creature/4897860.jpg
+		</thumbnail>
+		<title>Champion Humongousaur Warrior</title>
+		<creator>/Grizzly/Hazel/Creature/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4897864" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Freaky/Kyle/Chipmunk/4897864.jpg
+		</thumbnail>
+		<title>Champion Smash Challenge</title>
+		<creator>/Freaky/Kyle/Chipmunk/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897933" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Burly/Phil/Clang/4897933.jpg
+		</thumbnail>
+		<title>Patrol Siege Fire</title>
+		<creator>/Burly/Phil/Clang/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897922" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Loyal/Ben/Dingo/4897922.jpg
+		</thumbnail>
+		<title>Champion Crusher Hero</title>
+		<creator>/Loyal/Ben/Dingo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897936" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Eastern/Salvador/Yoyo/4897936.jpg
+		</thumbnail>
+		<title>Alien Battle Escape</title>
+		<creator>/Eastern/Salvador/Yoyo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897920" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Crafty/Ron/Bamboo/4897920.jpg
+		</thumbnail>
+		<title>Rush Rampage Invasion</title>
+		<creator>/Crafty/Ron/Bamboo/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4897918" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fuzzy/Gregory/Galaxy/4897918.jpg
+		</thumbnail>
+		<title>Light Universe Rampage</title>
+		<creator>/Fuzzy/Gregory/Galaxy/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897892" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Awesome/Carlos/Bongo/4897892.jpg
+		</thumbnail>
+		<title>Rumble Hex Alien</title>
+		<creator>/Awesome/Carlos/Bongo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

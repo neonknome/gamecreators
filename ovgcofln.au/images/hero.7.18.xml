@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4909450" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Radiant/Anthony/Dragon/4909450.jpg
+		</thumbnail>
+		<title>Space Cosmic Invasion</title>
+		<creator>/Radiant/Anthony/Dragon/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4909452" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Hectic/Igor/Warp/4909452.jpg
+		</thumbnail>
+		<title>Target Challenge Hero</title>
+		<creator>/Hectic/Igor/Warp/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4909444" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Sporty/Sandra/Aardvark/4909444.jpg
+		</thumbnail>
+		<title>Hex Burst Robot</title>
+		<creator>/Sporty/Sandra/Aardvark/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4909378" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Humorous/Juliet/Fireball/4909378.jpg
+		</thumbnail>
+		<title>Nano Nano Search</title>
+		<creator>/Humorous/Juliet/Fireball/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4909387" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Skinny/Alex/Crash/4909387.jpg
+		</thumbnail>
+		<title>Fusion Siege Clash</title>
+		<creator>/Skinny/Alex/Crash/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="4909394" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Colossal/Matt/Biscuit/4909394.jpg
+		</thumbnail>
+		<title>Search Crusher Rumble</title>
+		<creator>/Colossal/Matt/Biscuit/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4909392" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Bizarre/Elroy/Midnight/4909392.jpg
+		</thumbnail>
+		<title>Smash Escape Shadow</title>
+		<creator>/Bizarre/Elroy/Midnight/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4909367" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Atomic/Sterling/Spider/4909367.jpg
+		</thumbnail>
+		<title>Atomic Alien Ambush</title>
+		<creator>/Atomic/Sterling/Spider/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4909385" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Spooky/Crystal/Robot/4909385.jpg
+		</thumbnail>
+		<title>Crusher Slam Alien</title>
+		<creator>/Spooky/Crystal/Robot/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4909348" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Wild/Leah/Werewolf/4909348.jpg
+		</thumbnail>
+		<title>Doom Fury Invasion</title>
+		<creator>/Wild/Leah/Werewolf/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+</cartoonnetwork>

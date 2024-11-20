@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4916665" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Husky/Ray/Catapult/4916665.jpg
+		</thumbnail>
+		<title>Shadow Plasma Assault</title>
+		<creator>/Husky/Ray/Catapult/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4916642" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Beastly/Dewey/Nova/4916642.jpg
+		</thumbnail>
+		<title>Rocket Cosmic Clash</title>
+		<creator>/Beastly/Dewey/Nova/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4916588" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Brave/Erik/Rhino/4916588.jpg
+		</thumbnail>
+		<title>Laser Rescue Racer</title>
+		<creator>/Brave/Erik/Rhino/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4916623" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Swift/Johnny/Cobra/4916623.jpg
+		</thumbnail>
+		<title>Jetray Mega Nitro</title>
+		<creator>/Swift/Johnny/Cobra/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4916607" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Lucky/Aaron/Parallax/4916607.jpg
+		</thumbnail>
+		<title>Fusion Galaxy Hero</title>
+		<creator>/Lucky/Aaron/Parallax/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916599" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Orange/Steven/Buffalo/4916599.jpg
+		</thumbnail>
+		<title>Storm Jetray Rustbucket</title>
+		<creator>/Orange/Steven/Buffalo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916604" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Weird/Carlos/Goblin/4916604.jpg
+		</thumbnail>
+		<title>Solar Cosmic Nano</title>
+		<creator>/Weird/Carlos/Goblin/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916625" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Awful/William/Unicycle/4916625.jpg
+		</thumbnail>
+		<title>Escape Alien Invasion</title>
+		<creator>/Awful/William/Unicycle/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916557" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fuzzy/Felix/Kudzu/4916557.jpg
+		</thumbnail>
+		<title>Hero Invasion Quake</title>
+		<creator>/Fuzzy/Felix/Kudzu/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916541" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Jolly/Grover/Dragon/4916541.jpg
+		</thumbnail>
+		<title>Pulse Escape Attack</title>
+		<creator>/Jolly/Grover/Dragon/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

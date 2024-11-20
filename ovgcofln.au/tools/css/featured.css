@@ -1,0 +1,159 @@
+#featuredShell {
+	position: relative;
+	background: #336699;
+	width: auto;
+	height: 1486px;/*1190*/
+	overflow: visible;
+	padding-top: 12px;
+	padding-right: 6px;
+	padding-bottom: 10px;
+	padding-left: 6px;
+	margin: 0px 0px 0px 0px;
+}
+.featuredDivider {
+	position: relative;
+	width: 1px;
+	height: 299px;
+	float: left;
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+}
+.gmCategoryShell {
+	position: relative;
+	width: 183px;
+	height: 299px;
+	float: left;
+}
+.hdrShell {
+	position: relative;
+	background: url('http://img0.cartoonnetworkasia.com/gamecreator/en/tools/img/featured/cat.hdr.bk.gif') no-repeat;
+	width: 183px;
+	height: 20px;
+}
+.hdr1MShell {
+	position: relative;
+	background: url('http://img0.cartoonnetworkasia.com/gamecreator/en/tools/img/featured/1m.hdr.bk.gif') no-repeat;
+	width: 183px;
+	height: 20px;
+}
+.hdrText {
+	position: relative;
+	width: 183px;
+	height: auto;
+	padding-top: 4px;
+	font: bold 12px arial,helvetica,sans-serif;
+	color: #ffffff;
+	text-align: left;
+	text-indent: 8px;
+	line-height: 20px;
+}
+.textShell {
+	position: relative;
+	background: url('http://img0.cartoonnetworkasia.com/gamecreator/en/tools/img/featured/cat.links.bk.gif') repeat-x;
+	width: 183px;
+	height: 250px;
+	text-align: left;
+}
+.text1MShell {
+	position: relative;
+	background: url('http://img0.cartoonnetworkasia.com/gamecreator/en/tools/img/featured/1m.links.bk.gif') repeat-x;
+	width: 183px;
+	height: 250px;
+	text-align: left;
+}
+.slShellOut {
+	position: relative;
+	width: 175px;
+	height: 50px;
+	padding-left: 8px;
+	font: 10px arial,helvetica,sans-serif;
+	color: #000000;
+	text-decoration: none;
+}
+.sl1MShellOut {
+	position: relative;
+	width: 175px;
+	height: 50px;
+	padding-left: 8px;
+	font: 10px arial,helvetica,sans-serif;
+	color: #000000;
+	text-decoration: none;
+}
+.slShellOver {
+	position: relative;
+	background: url('http://img0.cartoonnetworkasia.com/gamecreator/en/tools/img/featured/cat.single.bk.over.gif') no-repeat;
+	width: 175px;
+	height: 50px;
+	padding-left: 8px;
+	font: 10px arial,helvetica,sans-serif;
+	color: #000000;
+	text-decoration: underline;
+	cursor: pointer;
+}
+.sl1MShellOver {
+	position: relative;
+	background: url('http://img0.cartoonnetworkasia.com/gamecreator/en/tools/img/featured/1m.single.bk.over.gif') no-repeat;
+	width: 175px;
+	height: 50px;
+	padding-left: 8px;
+	font: 10px arial,helvetica,sans-serif;
+	color: #000000;
+	text-decoration: underline;
+	cursor: pointer;
+}
+div#tipDiv {
+	position: relative;
+	width: 332px;
+	height: 82px;
+	font: 10px arial,helvetica,sans-serif;
+	color: #ffffff;
+}
+.ftrShell {
+	background: url('http://img0.cartoonnetworkasia.com/gamecreator/en/tools/img/featured/cat.more.bk.gif') no-repeat;
+	width: 183px;
+	height: 29px;
+	padding-top: 7px;
+	text-align: left;
+	text-indent: 135px;
+	clear: all;
+}
+.ftr1MShell {
+	background: url('http://img0.cartoonnetworkasia.com/gamecreator/en/tools/img/featured/1m.more.bk.gif') no-repeat;
+	width: 183px;
+	height: 29px;
+	padding-top: 7px;
+	text-align: left;
+	text-indent: 135px;
+	clear: all;
+}
+.ftrShell A {
+	text-decoration: underline;
+	font: bold 12px arial,helvetica,sans-serif;
+	color: #003366;
+}
+.ftr1MShell A {
+	text-decoration: underline;
+	font: bold 12px arial,helvetica,sans-serif;
+	color: #003366;
+}
+#featuredFtrShell {
+	width: 750px;
+	height: 36px;
+	background: url('http://img0.cartoonnetworkasia.com/gamecreator/en/tools/img/featured/bottom.jpg') no-repeat;
+	padding-top: 12px;
+	text-align: left;
+	text-indent: 550px;
+}
+#featuredFtrShell A {
+	text-decoration: underline;
+	font: bold 12px arial,helvetica,sans-serif;
+	color: #ffffff;
+}
+.slFloaterShell {
+	color: #ffffff;
+	font: 10px arial,helvetica,sans-serif;
+}
+.sl1MFloaterShell {
+	color: #000000;
+}
+

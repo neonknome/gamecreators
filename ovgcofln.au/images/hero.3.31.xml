@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4911707" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Zippy/Jill/Gremlin/4911707.jpg
+		</thumbnail>
+		<title>Quake Nano Rampage</title>
+		<creator>/Zippy/Jill/Gremlin/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4911697" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Spooky/Mary/Wizard/4911697.jpg
+		</thumbnail>
+		<title>Warrior Light Warp</title>
+		<creator>/Spooky/Mary/Wizard/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4911709" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Savage/Savannah/Safari/4911709.jpg
+		</thumbnail>
+		<title>Magno Champion Turbo</title>
+		<creator>/Savage/Savannah/Safari/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4911703" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Wacky/Ludwig/Goblin/4911703.jpg
+		</thumbnail>
+		<title>Earth Techno Patrol</title>
+		<creator>/Wacky/Ludwig/Goblin/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4911685" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Aquatic/Ben/Aardvark/4911685.jpg
+		</thumbnail>
+		<title>Ultimate Jetray Rescue</title>
+		<creator>/Aquatic/Ben/Aardvark/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4911691" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Silly/Andrea/Waffle/4911691.jpg
+		</thumbnail>
+		<title>Vilgax Escape Adventure</title>
+		<creator>/Silly/Andrea/Waffle/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4911689" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Gigantic/Xerxes/Creature/4911689.jpg
+		</thumbnail>
+		<title>Warrior Turbo Fire</title>
+		<creator>/Gigantic/Xerxes/Creature/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4911666" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Beastly/Scooter/Pirate/4911666.jpg
+		</thumbnail>
+		<title>Escape Doom Siege</title>
+		<creator>/Beastly/Scooter/Pirate/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4911662" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dynamic/Ron/Nova/4911662.jpg
+		</thumbnail>
+		<title>Galaxy Cosmic Storm</title>
+		<creator>/Dynamic/Ron/Nova/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4911642" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Atomic/Bert/Ninja/4911642.jpg
+		</thumbnail>
+		<title>Rock Robot Nitro</title>
+		<creator>/Atomic/Bert/Ninja/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10933602" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dreadful/Joshua/Techno/10933602.jpg
+		</thumbnail>
+		<title>Swampfire Ultimate Chase</title>
+		<creator>/Dreadful/Joshua/Techno/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10924555" rating="5.0" difficulty="0" status="1" timesWon="1" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artistic/Jose/Blob/10924555.jpg
+		</thumbnail>
+		<title>Swampfire Beast Spike</title>
+		<creator>/Artistic/Jose/Blob/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10933614" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Powerful/Brett/Midnight/10933614.jpg
+		</thumbnail>
+		<title>Streak Pursuit Turbo</title>
+		<creator>/Powerful/Brett/Midnight/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="10933527" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Reliable/Jeff/Pulse/10933527.jpg
+		</thumbnail>
+		<title>Warrior Rocket Adventure</title>
+		<creator>/Reliable/Jeff/Pulse/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10933292" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Funky/Pearl/Zombie/10933292.jpg
+		</thumbnail>
+		<title>Patrol Rescue Laser</title>
+		<creator>/Funky/Pearl/Zombie/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10933350" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="5">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Surreal/Natasha/Crater/10933350.jpg
+		</thumbnail>
+		<title>Plumber Fire Light</title>
+		<creator>/Surreal/Natasha/Crater/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="10953516" rating="2.0" difficulty="0" status="1" timesWon="4" timesPlayed="11">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proper/Goliath/Wombat/10953516.jpg
+		</thumbnail>
+		<title>Rampage Breaker Pulse</title>
+		<creator>/Proper/Goliath/Wombat/</creator>
+		<timesPlayed>11</timesPlayed>
+	</game>
+	<game id="10932957" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Majestic/Don/Ketchup/10932957.jpg
+		</thumbnail>
+		<title>Earth Razor Warp</title>
+		<creator>/Majestic/Don/Ketchup/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10924399" rating="5.0" difficulty="0" status="1" timesWon="1" timesPlayed="5">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frosty/Cory/Cyclone/10924399.jpg
+		</thumbnail>
+		<title>Swampfire Spark Star</title>
+		<creator>/Frosty/Cory/Cyclone/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="10932922" rating="5.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shaggy/Hunter/Behemoth/10932922.jpg
+		</thumbnail>
+		<title>Pursuit Force Ambush</title>
+		<creator>/Shaggy/Hunter/Behemoth/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4897654" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cheerful/Makayla/Starfish/4897654.jpg
+		</thumbnail>
+		<title>Humongousaur Chase Steel</title>
+		<creator>/Cheerful/Makayla/Starfish/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897606" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Green/Sarah/Thing/4897606.jpg
+		</thumbnail>
+		<title>Fire Turbo Warrior</title>
+		<creator>/Green/Sarah/Thing/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4897637" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Shiny/Ace/Squish/4897637.jpg
+		</thumbnail>
+		<title>Thunder Plasma Slam</title>
+		<creator>/Shiny/Ace/Squish/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897561" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Twisty/Zachary/Ostrich/4897561.jpg
+		</thumbnail>
+		<title>Rescue Ultra Hero</title>
+		<creator>/Twisty/Zachary/Ostrich/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4897563" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Brave/Trevor/Zombie/4897563.jpg
+		</thumbnail>
+		<title>Plumber Cosmic Rumble</title>
+		<creator>/Brave/Trevor/Zombie/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897526" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Wild/Tex/Grackle/4897526.jpg
+		</thumbnail>
+		<title>Charge Shadow Rush</title>
+		<creator>/Wild/Tex/Grackle/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4897539" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cosmic/Ethan/Jungle/4897539.jpg
+		</thumbnail>
+		<title>Iron Sonic Humongousaur</title>
+		<creator>/Cosmic/Ethan/Jungle/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4897529" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Freaky/Kyle/Chipmunk/4897529.jpg
+		</thumbnail>
+		<title>Cosmic Stone Invasion</title>
+		<creator>/Freaky/Kyle/Chipmunk/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897305" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Freaky/Tony/Domino/4897305.jpg
+		</thumbnail>
+		<title>Humongousaur Patrol Rampage</title>
+		<creator>/Freaky/Tony/Domino/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897317" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Red/Thor/Atom/4897317.jpg
+		</thumbnail>
+		<title>Battle Patrol Fury</title>
+		<creator>/Red/Thor/Atom/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+</cartoonnetwork>

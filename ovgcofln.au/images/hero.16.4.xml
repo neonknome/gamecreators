@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10031329" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dynamic/Erik/Crater/10031329.jpg
+		</thumbnail>
+		<title>Invasion Robot Shock</title>
+		<creator>/Dynamic/Erik/Crater/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="10649314" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shrewd/Baxter/Magma/10649314.jpg
+		</thumbnail>
+		<title>Light Power Rustbucket</title>
+		<creator>/Shrewd/Baxter/Magma/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10649752" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Enormous/Simon/Acrobat/10649752.jpg
+		</thumbnail>
+		<title>Ultra Thunder Hero</title>
+		<creator>/Enormous/Simon/Acrobat/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10649467" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baffling/Zoe/Kazoo/10649467.jpg
+		</thumbnail>
+		<title>Plumber Escape Rock</title>
+		<creator>/Baffling/Zoe/Kazoo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10649551" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bizarre/Seth/Sunshine/10649551.jpg
+		</thumbnail>
+		<title>Nitro Quake Hero</title>
+		<creator>/Bizarre/Seth/Sunshine/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10649815" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zippy/Sarah/Tuxedo/10649815.jpg
+		</thumbnail>
+		<title>Storm Robot Adventure</title>
+		<creator>/Zippy/Sarah/Tuxedo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10649584" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="4">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Rudolph/Spider/10649584.jpg
+		</thumbnail>
+		<title>Pursuit Alien Attack</title>
+		<creator>/Red/Rudolph/Spider/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="10648224" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colossal/Carson/Vampire/10648224.jpg
+		</thumbnail>
+		<title>Humongousaur Hyper Smash</title>
+		<creator>/Colossal/Carson/Vampire/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10648482" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Crafty/Kristen/Quake/10648482.jpg
+		</thumbnail>
+		<title>Light Universe Vilgax</title>
+		<creator>/Crafty/Kristen/Quake/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10655820" rating="2.0" difficulty="0" status="1" timesWon="124" timesPlayed="134">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cheerful/Leopold/Mantis/10655820.jpg
+		</thumbnail>
+		<title>Clash Smash Adventure</title>
+		<creator>/Cheerful/Leopold/Mantis/</creator>
+		<timesPlayed>134</timesPlayed>
+	</game>
+</cartoonnetwork>

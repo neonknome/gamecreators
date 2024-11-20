@@ -1,0 +1,31 @@
+/* CN Bold font face */
+@font-face {
+	font: CNBold;
+	font-family: CNBold;
+	src: url(/tools/css/cn-bold/cn-bold-webfont.eot);
+	src: local(CNBold),
+	url(/tools/css/cn-bold/cn-bold-webfont.ttf) format('truetype'),
+	url(/tools/css/cn-bold/cn-bold-webfont.svg#webfontHot3Jl6t) format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font: CNBold2;
+	font-family: CNBold2;
+	src: url(/tools/css/cn-bold2/cn_bold.eot);
+	src: local(CNBold2),
+	url(/tools/css/cn-bold2/cn_bold.ttf) format('truetype'),
+	url(/tools/css/cn-bold2/CNBold.otf) format('opentype'),
+	url(/tools/css/cn-bold2/cn_bold.svg#webfontxsopjM5D) format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font: "GothamRounded-Bold";
+	font-family: "Gotham Rounded Bold";
+	src: url(/tools/css/fonts/GothamRnd-Bold.otf);
+	font-weight: normal;
+	font-style: normal;
+}

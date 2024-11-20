@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17392032" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="5">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Edgy/Cody/Reptile/17392032.jpg
+		</thumbnail>
+		<title>Fusion Burst Force</title>
+		<creator>Edgy Cody Reptile</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="17392041" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Captain/Ed/Hornet/17392041.jpg
+		</thumbnail>
+		<title>Lightning Vilgax Metal</title>
+		<creator>Captain Ed Hornet</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="16965620" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="5">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cartoon/Cartoon/Cartoon/16965620.jpg
+		</thumbnail>
+		<title>Storm Champion Target</title>
+		<creator>Cartoon Cartoon Cartoon</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="17279284" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="3">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ultimate/Jose/Cartoon/17279284.jpg
+		</thumbnail>
+		<title>Galaxy Cosmic Shadow</title>
+		<creator>Ultimate Jose Cartoon</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="17304014" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="4">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Titanic/Penny/Calliope/17304014.jpg
+		</thumbnail>
+		<title>Vilgax Nova Siege</title>
+		<creator>Titanic Penny Calliope</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="17046178" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Humorous/Alvin/Tiger/17046178.jpg
+		</thumbnail>
+		<title>Animo Shock Universe</title>
+		<creator>Humorous Alvin Tiger</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17408872" rating="0.0" difficulty="0" status="1" timesWon="5" timesPlayed="5">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cunning/Samuel/Calypso/17408872.jpg
+		</thumbnail>
+		<title>Champion Defense Warrior</title>
+		<creator>Cunning Samuel Calypso</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="17409045" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fair/Barney/Galaxy/17409045.jpg
+		</thumbnail>
+		<title>Magno Rampage Rocket</title>
+		<creator>Fair Barney Galaxy</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17402198" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Comical/CJ/Confetti/17402198.jpg
+		</thumbnail>
+		<title>Shadow Hex Rescue</title>
+		<creator>Comical CJ Confetti</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17402614" rating="0.0" difficulty="0" status="1" timesWon="3" timesPlayed="3">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sloppy/Anna/Gizzard/17402614.jpg
+		</thumbnail>
+		<title>Battle Pursuit Quake</title>
+		<creator>Sloppy Anna Gizzard</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+</cartoonnetwork>

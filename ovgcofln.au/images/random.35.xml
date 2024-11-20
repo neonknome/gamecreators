@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17342035" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Keen/Ludwig/Quasar/17342035.jpg
+		</thumbnail>
+		<title>Iron Slam Attack</title>
+		<creator>Keen Ludwig Quasar</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17404821" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Strong/Orlando/Buckaroo/17404821.jpg
+		</thumbnail>
+		<title>Space Universe Swampfire</title>
+		<creator>Strong Orlando Buckaroo</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17126549" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jolly/Aiden/Beast/17126549.jpg
+		</thumbnail>
+		<title>Hero Star Rock</title>
+		<creator>Jolly Aiden Beast</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17269325" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Seismic/Bert/Mercury/17269325.jpg
+		</thumbnail>
+		<title>Star Plumber Thunder</title>
+		<creator>Seismic Bert Mercury</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17000233" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="4">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Artful/Julia/Mars/17000233.jpg
+		</thumbnail>
+		<title>Adventure Cosmic Alien</title>
+		<creator>Artful Julia Mars</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="17395386" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="9">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Babbling/Alan/Virtuoso/17395386.jpg
+		</thumbnail>
+		<title>Dark Alien Robot</title>
+		<creator>Babbling Alan Virtuoso</creator>
+		<timesPlayed>9</timesPlayed>
+	</game>
+	<game id="17003381" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="5">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Academic/Mark/Rebel/17003381.jpg
+		</thumbnail>
+		<title>Challenge Brainstorm Cosmic</title>
+		<creator>Academic Mark Rebel</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="17039544" rating="0.0" difficulty="0" status="1" timesWon="4" timesPlayed="5">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tireless/Ruby/Phoenix/17039544.jpg
+		</thumbnail>
+		<title>Rock Laser Energy</title>
+		<creator>Tireless Ruby Phoenix</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="17423485" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="6">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wily/Wes/Parallax/17423485.jpg
+		</thumbnail>
+		<title>Thunder Ultra Rampage</title>
+		<creator>Wily Wes Parallax</creator>
+		<timesPlayed>6</timesPlayed>
+	</game>
+	<game id="17423572" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Average/Angela/Cartoon/17423572.jpg
+		</thumbnail>
+		<title>Star Animo Fusion</title>
+		<creator>Average Angela Cartoon</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+</cartoonnetwork>

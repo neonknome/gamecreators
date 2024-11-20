@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10935370" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Royal/Kylie/Penguin/10935370.jpg
+		</thumbnail>
+		<title>Rush Rush Mission</title>
+		<creator>/Royal/Kylie/Penguin/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10918900" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Comical/Ivy/Doodle/10918900.jpg
+		</thumbnail>
+		<title>Vilgax Metal Nova</title>
+		<creator>/Comical/Ivy/Doodle/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10918821" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Red/Travis/Cipher/10918821.jpg
+		</thumbnail>
+		<title>Metal Force Fusion</title>
+		<creator>/Red/Travis/Cipher/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10924684" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fizzy/Jackie/Iceberg/10924684.jpg
+		</thumbnail>
+		<title>Mission Turbo Sonic</title>
+		<creator>/Fizzy/Jackie/Iceberg/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10924702" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fuzzy/Austin/Cosmos/10924702.jpg
+		</thumbnail>
+		<title>Search Steel Magno</title>
+		<creator>/Fuzzy/Austin/Cosmos/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="10953653" rating="5.0" difficulty="0" status="1" timesWon="6" timesPlayed="104">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Savage/Caroline/Fizz/10953653.jpg
+		</thumbnail>
+		<title>Mega Adventure Alien</title>
+		<creator>/Savage/Caroline/Fizz/</creator>
+		<timesPlayed>104</timesPlayed>
+	</game>
+	<game id="10942165" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pretty/Vinny/Zebra/10942165.jpg
+		</thumbnail>
+		<title>Earth Nano Storm</title>
+		<creator>/Pretty/Vinny/Zebra/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10926374" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Silly/Joshua/Thunder/10926374.jpg
+		</thumbnail>
+		<title>Razor Quake Adventure</title>
+		<creator>/Silly/Joshua/Thunder/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10926216" rating="4.0" difficulty="0" status="1" timesWon="1" timesPlayed="14">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Blue/Xavier/Giblets/10926216.jpg
+		</thumbnail>
+		<title>Champion Rampage Atomic</title>
+		<creator>/Blue/Xavier/Giblets/</creator>
+		<timesPlayed>14</timesPlayed>
+	</game>
+	<game id="10952262" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scary/Kevin/Saber/10952262.jpg
+		</thumbnail>
+		<title>Dark Storm Galaxy</title>
+		<creator>/Scary/Kevin/Saber/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

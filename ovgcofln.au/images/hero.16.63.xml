@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4900347" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Horrid/Noah/Bullfrog/4900347.jpg
+		</thumbnail>
+		<title>Chase Pulse Humongousaur</title>
+		<creator>/Horrid/Noah/Bullfrog/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4900349" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Humorous/Alyssa/Chipmunk/4900349.jpg
+		</thumbnail>
+		<title>Ambush Titan Quake</title>
+		<creator>/Humorous/Alyssa/Chipmunk/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4900277" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Nimble/Gladys/Volcano/4900277.jpg
+		</thumbnail>
+		<title>Razor Gear Slam</title>
+		<creator>/Nimble/Gladys/Volcano/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4900294" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Infinite/Shane/Gizmo/4900294.jpg
+		</thumbnail>
+		<title>Alien Warrior Power</title>
+		<creator>/Infinite/Shane/Gizmo/</creator>
+		<timesPlayed>8</timesPlayed>
+	</game>
+	<game id="4900311" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Enormous/Hunter/Magician/4900311.jpg
+		</thumbnail>
+		<title>Power Thunder Rocket</title>
+		<creator>/Enormous/Hunter/Magician/</creator>
+		<timesPlayed>28</timesPlayed>
+	</game>
+	<game id="4900298" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Majestic/Spencer/Kudzu/4900298.jpg
+		</thumbnail>
+		<title>Mission Humongousaur Patrol</title>
+		<creator>/Majestic/Spencer/Kudzu/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4900286" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Wild/Rob/Planet/4900286.jpg
+		</thumbnail>
+		<title>Turbo Assault Challenge</title>
+		<creator>/Wild/Rob/Planet/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4900309" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Twisty/Wolfgang/Thorax/4900309.jpg
+		</thumbnail>
+		<title>Nano Hero Laser</title>
+		<creator>/Twisty/Wolfgang/Thorax/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4900248" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Babbling/Chris/Wizard/4900248.jpg
+		</thumbnail>
+		<title>Humongousaur Invasion Mega</title>
+		<creator>/Babbling/Chris/Wizard/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4900221" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Weird/Madison/Seesaw/4900221.jpg
+		</thumbnail>
+		<title>Rumble Force Plasma</title>
+		<creator>/Weird/Madison/Seesaw/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

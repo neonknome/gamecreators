@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17391991" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="6">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Speedy/Eli/Firefly/17391991.jpg
+		</thumbnail>
+		<title>Nova Power Fury</title>
+		<creator>Speedy Eli Firefly</creator>
+		<timesPlayed>6</timesPlayed>
+	</game>
+	<game id="17358771" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="8">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Peppy/Elmer/Wyvern/17358771.jpg
+		</thumbnail>
+		<title>Burst Whirlwind Vilgax</title>
+		<creator>Peppy Elmer Wyvern</creator>
+		<timesPlayed>8</timesPlayed>
+	</game>
+	<game id="17248167" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="4">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Super/Felipe/Macaroni/17248167.jpg
+		</thumbnail>
+		<title>Gear Adventure Adventure</title>
+		<creator>Super Felipe Macaroni</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="17277858" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="8">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Baffling/Michelle/Shinobi/17277858.jpg
+		</thumbnail>
+		<title>Mega Water Nitro</title>
+		<creator>Baffling Michelle Shinobi</creator>
+		<timesPlayed>8</timesPlayed>
+	</game>
+	<game id="17278985" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Electric/Colton/Warrior/17278985.jpg
+		</thumbnail>
+		<title>Jetray Nitro Droid</title>
+		<creator>Electric Colton Warrior</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="16976258" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Emperor/Ashley/Gullet/16976258.jpg
+		</thumbnail>
+		<title>Drone Adventure Patrol</title>
+		<creator>Emperor Ashley Gullet</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="16976315" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Burly/Gillian/Dodo/16976315.jpg
+		</thumbnail>
+		<title>Nitro Doom Metal</title>
+		<creator>Burly Gillian Dodo</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17383762" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Comical/Jeremiah/Crash/17383762.jpg
+		</thumbnail>
+		<title>Giga Racer Rustbucket</title>
+		<creator>Comical Jeremiah Crash</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="16939364" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="4">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Splendid/Simon/Sardine/16939364.jpg
+		</thumbnail>
+		<title>Rush Rush Rush</title>
+		<creator>Splendid Simon Sardine</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="16955755" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="10">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cartoon/Cartoon/Cartoon/16955755.jpg
+		</thumbnail>
+		<title>Plumber Earth Animo</title>
+		<creator>Cartoon Cartoon Cartoon</creator>
+		<timesPlayed>10</timesPlayed>
+	</game>
+</cartoonnetwork>

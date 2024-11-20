@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17009487" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="6">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Expert/Hailey/Knight/17009487.jpg
+		</thumbnail>
+		<title>Rock Drone Nova</title>
+		<creator>Expert Hailey Knight</creator>
+		<timesPlayed>6</timesPlayed>
+	</game>
+	<game id="17014494" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Bold/Isabelle/Pizza/17014494.jpg
+		</thumbnail>
+		<title>Pursuit Quake Warp</title>
+		<creator>Bold Isabelle Pizza</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17462346" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="3">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Positive/Daphne/Dingo/17462346.jpg
+		</thumbnail>
+		<title>Alien Rock Ben</title>
+		<creator>Positive Daphne Dingo</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="16999184" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="7">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cackling/Apollo/Cosmos/16999184.jpg
+		</thumbnail>
+		<title>Magno Ultimate Fusion</title>
+		<creator>Cackling Apollo Cosmos</creator>
+		<timesPlayed>7</timesPlayed>
+	</game>
+	<game id="17408671" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="3">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Popular/Brayden/Spleen/17408671.jpg
+		</thumbnail>
+		<title>Stone Siege Laser</title>
+		<creator>Popular Brayden Spleen</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="17399252" rating="0.0" difficulty="0" status="1" timesWon="10" timesPlayed="117">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ancient/Marco/Bingo/17399252.jpg
+		</thumbnail>
+		<title>Turbo Target Defense</title>
+		<creator>Ancient Marco Bingo</creator>
+		<timesPlayed>117</timesPlayed>
+	</game>
+	<game id="17389654" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="3">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Tall/Evelyn/Seesaw/17389654.jpg
+		</thumbnail>
+		<title>Big Turbo Battle</title>
+		<creator>Tall Evelyn Seesaw</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="17163650" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="3">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Quantum/Tanner/Skeleton/17163650.jpg
+		</thumbnail>
+		<title>Galaxy Alien Spark</title>
+		<creator>Quantum Tanner Skeleton</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="17359735" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Silly/Franklin/Foghorn/17359735.jpg
+		</thumbnail>
+		<title>Power Mega Techno</title>
+		<creator>Silly Franklin Foghorn</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17358951" rating="0.0" difficulty="0" status="1" timesWon="6" timesPlayed="6">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Duke/Ian/Twilight/17358951.jpg
+		</thumbnail>
+		<title>Metal Smash Robot</title>
+		<creator>Duke Ian Twilight</creator>
+		<timesPlayed>6</timesPlayed>
+	</game>
+</cartoonnetwork>

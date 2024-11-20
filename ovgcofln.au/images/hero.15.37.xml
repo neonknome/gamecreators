@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10930381" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Blue/Jonathan/Sunshine/10930381.jpg
+		</thumbnail>
+		<title>Gear Storm Alien</title>
+		<creator>/Blue/Jonathan/Sunshine/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10923368" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wise/Herman/Tornado/10923368.jpg
+		</thumbnail>
+		<title>Blaster Force Clash</title>
+		<creator>/Wise/Herman/Tornado/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="10923277" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Pretty/Valerie/Buzzard/10923277.jpg
+		</thumbnail>
+		<title>Ultra Nova Hero</title>
+		<creator>/Pretty/Valerie/Buzzard/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="10922617" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Twisty/Donald/Magma/10922617.jpg
+		</thumbnail>
+		<title>Galaxy Rampage Dark</title>
+		<creator>/Twisty/Donald/Magma/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="10931474" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Funny/Lauren/Gizmo/10931474.jpg
+		</thumbnail>
+		<title>Magno Cosmic Thunder</title>
+		<creator>/Funny/Lauren/Gizmo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10930760" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Shrewd/Mia/Wombat/10930760.jpg
+		</thumbnail>
+		<title>Invasion Earth Magno</title>
+		<creator>/Shrewd/Mia/Wombat/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10922615" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Spectral/Augustus/Yodel/10922615.jpg
+		</thumbnail>
+		<title>Shock Hyper Titan</title>
+		<creator>/Spectral/Augustus/Yodel/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10931323" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="7">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gigantic/Jose/Dynamite/10931323.jpg
+		</thumbnail>
+		<title>Fire Thunder Storm</title>
+		<creator>/Gigantic/Jose/Dynamite/</creator>
+		<timesPlayed>7</timesPlayed>
+	</game>
+	<game id="10930955" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Absurd/Owen/Dragon/10930955.jpg
+		</thumbnail>
+		<title>Fire Force Power</title>
+		<creator>/Absurd/Owen/Dragon/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10922525" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Heroic/Michelle/Zebra/10922525.jpg
+		</thumbnail>
+		<title>Rock Challenge Robot</title>
+		<creator>/Heroic/Michelle/Zebra/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

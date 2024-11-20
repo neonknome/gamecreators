@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4911964" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Brainy/Brad/Sprinkle/4911964.jpg
+		</thumbnail>
+		<title>Patrol Challenge Adventure</title>
+		<creator>/Brainy/Brad/Sprinkle/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4911953" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Sporty/Dennis/Mango/4911953.jpg
+		</thumbnail>
+		<title>Chase Force Siege</title>
+		<creator>/Sporty/Dennis/Mango/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4911937" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Tricky/Chris/Pinwheel/4911937.jpg
+		</thumbnail>
+		<title>Ben Fusion Siege</title>
+		<creator>/Tricky/Chris/Pinwheel/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4911940" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Beastly/Scooter/Pirate/4911940.jpg
+		</thumbnail>
+		<title>Search Hex Mega</title>
+		<creator>/Beastly/Scooter/Pirate/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4911947" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dapper/Gary/Worm/4911947.jpg
+		</thumbnail>
+		<title>Streak Iron Fury</title>
+		<creator>/Dapper/Gary/Worm/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4911925" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fuzzy/Otis/Zip/4911925.jpg
+		</thumbnail>
+		<title>Alien Steel Lightning</title>
+		<creator>/Fuzzy/Otis/Zip/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4911933" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Horrid/Edgar/Mahogany/4911933.jpg
+		</thumbnail>
+		<title>Ultra Razor Adventure</title>
+		<creator>/Horrid/Edgar/Mahogany/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4911921" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Itchy/Jill/Ricochet/4911921.jpg
+		</thumbnail>
+		<title>Nitro Turbo Ultra</title>
+		<creator>/Itchy/Jill/Ricochet/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="4911907" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Sinister/Jake/Spider/4911907.jpg
+		</thumbnail>
+		<title>Drone Galaxy Solar</title>
+		<creator>/Sinister/Jake/Spider/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4911864" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fizzy/George/Brick/4911864.jpg
+		</thumbnail>
+		<title>Rock Smash Shadow</title>
+		<creator>/Fizzy/George/Brick/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+</cartoonnetwork>

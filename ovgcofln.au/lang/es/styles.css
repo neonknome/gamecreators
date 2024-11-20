@@ -1,0 +1,14 @@
+// main style (don't modify)
+.piekos {
+	font-family: PiekosFX Basic BB;
+}
+
+// swap style of main style (specify all the parameters you want to override above the original style)
+.piekos_swap {
+	text-transform: lowercase;
+}
+
+// help style (don't modify)
+.din {
+	font-family: DIN;
+}

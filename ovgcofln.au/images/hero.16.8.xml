@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4908212" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Red/Cameron/Fury/4908212.jpg
+		</thumbnail>
+		<title>Patrol Turbo Humongousaur</title>
+		<creator>/Red/Cameron/Fury/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4908170" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Wacky/Corey/Kiwi/4908170.jpg
+		</thumbnail>
+		<title>Alien Adventure Hero</title>
+		<creator>/Wacky/Corey/Kiwi/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4908153" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Funny/Dominic/Storm/4908153.jpg
+		</thumbnail>
+		<title>Universe Racer Spike</title>
+		<creator>/Funny/Dominic/Storm/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4908151" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fearless/Thor/Klunk/4908151.jpg
+		</thumbnail>
+		<title>Metal Rush Energy</title>
+		<creator>/Fearless/Thor/Klunk/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4908128" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Loud/Emily/Parsec/4908128.jpg
+		</thumbnail>
+		<title>Star Defense Slam</title>
+		<creator>/Loud/Emily/Parsec/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4908110" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Skinny/Ryan/Platypus/4908110.jpg
+		</thumbnail>
+		<title>Atomic Solar Hero</title>
+		<creator>/Skinny/Ryan/Platypus/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4908083" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Awesome/Sam/Nacho/4908083.jpg
+		</thumbnail>
+		<title>Vilgax Alien Ambush</title>
+		<creator>/Awesome/Sam/Nacho/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4907998" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Alien/Ingrid/Flypaper/4907998.jpg
+		</thumbnail>
+		<title>Laser Fusion Hex</title>
+		<creator>/Alien/Ingrid/Flypaper/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4908003" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Adorable/Bailey/Turbo/4908003.jpg
+		</thumbnail>
+		<title>Doom Battle Challenge</title>
+		<creator>/Adorable/Bailey/Turbo/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4908009" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Stylish/Lisa/Basilisk/4908009.jpg
+		</thumbnail>
+		<title>Storm Spike Clash</title>
+		<creator>/Stylish/Lisa/Basilisk/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

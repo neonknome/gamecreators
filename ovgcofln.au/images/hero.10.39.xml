@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4903588" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Strange/Patrick/Haystack/4903588.jpg
+		</thumbnail>
+		<title>Crusher Lightning Adventure</title>
+		<creator>/Strange/Patrick/Haystack/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4903544" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Frantic/Craig/Cosmos/4903544.jpg
+		</thumbnail>
+		<title>Mission Humongousaur Battle</title>
+		<creator>/Frantic/Craig/Cosmos/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4903481" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Atomic/Cole/Droid/4903481.jpg
+		</thumbnail>
+		<title>Beast Fury Shock</title>
+		<creator>/Atomic/Cole/Droid/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4903498" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Colossal/Nick/Scorpion/4903498.jpg
+		</thumbnail>
+		<title>Nitro Ambush Adventure</title>
+		<creator>/Colossal/Nick/Scorpion/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4903475" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Colorful/Caitlin/Cinnamon/4903475.jpg
+		</thumbnail>
+		<title>Escape Battle Invasion</title>
+		<creator>/Colorful/Caitlin/Cinnamon/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4903505" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Silent/Simon/Lavender/4903505.jpg
+		</thumbnail>
+		<title>Universe Humongousaur Crusher</title>
+		<creator>/Silent/Simon/Lavender/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4903442" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Alien/Anthony/Paradox/4903442.jpg
+		</thumbnail>
+		<title>Assault Breaker Force</title>
+		<creator>/Alien/Anthony/Paradox/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4903438" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Weird/Zelda/Mustang/4903438.jpg
+		</thumbnail>
+		<title>Sonic Stone Techno</title>
+		<creator>/Weird/Zelda/Mustang/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4903429" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Joyous/Sam/Kazoo/4903429.jpg
+		</thumbnail>
+		<title>Alien Rescue Storm</title>
+		<creator>/Joyous/Sam/Kazoo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4903465" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fearless/Cameron/Fishbowl/4903465.jpg
+		</thumbnail>
+		<title>Crusher Ultimate Rumble</title>
+		<creator>/Fearless/Cameron/Fishbowl/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

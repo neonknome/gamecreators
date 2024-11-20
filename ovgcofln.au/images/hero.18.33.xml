@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4921540" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Western/Tyler/Viking/4921540.jpg
+		</thumbnail>
+		<title>Magno Robot Power</title>
+		<creator>/Western/Tyler/Viking/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4921492" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Brave/Jake/Quake/4921492.jpg
+		</thumbnail>
+		<title>Techno Challenge Hero</title>
+		<creator>/Brave/Jake/Quake/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4921485" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Reckless/Zelda/Tempest/4921485.jpg
+		</thumbnail>
+		<title>Ultimate Rescue Gear</title>
+		<creator>/Reckless/Zelda/Tempest/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4921509" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Zippy/Robin/Squid/4921509.jpg
+		</thumbnail>
+		<title>Spidermonkey Blaster Warrior</title>
+		<creator>/Zippy/Robin/Squid/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4921447" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Beastly/Dylan/Bayou/4921447.jpg
+		</thumbnail>
+		<title>Crusher Hyper Mission</title>
+		<creator>/Beastly/Dylan/Bayou/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4921435" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Eloquent/Bill/Gumbo/4921435.jpg
+		</thumbnail>
+		<title>Fusion Alien Adventure</title>
+		<creator>/Eloquent/Bill/Gumbo/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4921425" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Shaggy/Don/Ninja/4921425.jpg
+		</thumbnail>
+		<title>Dark Rampage Fury</title>
+		<creator>/Shaggy/Don/Ninja/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4921415" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Atomic/Nick/Starfish/4921415.jpg
+		</thumbnail>
+		<title>Breaker Clash Beast</title>
+		<creator>/Atomic/Nick/Starfish/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4921418" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Crispy/Daniel/Starfish/4921418.jpg
+		</thumbnail>
+		<title>Burst Iron Laser</title>
+		<creator>/Crispy/Daniel/Starfish/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4921403" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Jumping/Zelda/Mustang/4921403.jpg
+		</thumbnail>
+		<title>Space Steel Rescue</title>
+		<creator>/Jumping/Zelda/Mustang/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

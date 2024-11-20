@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10944185" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Charming/Erin/Steam/10944185.jpg
+		</thumbnail>
+		<title>Spark Fury Escape</title>
+		<creator>/Charming/Erin/Steam/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10943881" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dazzling/Grover/Fireball/10943881.jpg
+		</thumbnail>
+		<title>Crusher Shock Ben</title>
+		<creator>/Dazzling/Grover/Fireball/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10947551" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Wise/Victoria/Volcano/10947551.jpg
+		</thumbnail>
+		<title>Chase Streak Quake</title>
+		<creator>/Wise/Victoria/Volcano/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10929981" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Modest/Gretel/Bongo/10929981.jpg
+		</thumbnail>
+		<title>Rush Cosmic Shadow</title>
+		<creator>/Modest/Gretel/Bongo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10918059" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fragrant/Apollo/Ooze/10918059.jpg
+		</thumbnail>
+		<title>Alien Challenge Stone</title>
+		<creator>/Fragrant/Apollo/Ooze/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10934959" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Peculiar/Derek/Blubber/10934959.jpg
+		</thumbnail>
+		<title>Ben Sonic Hero</title>
+		<creator>/Peculiar/Derek/Blubber/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10930329" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Aquatic/Richard/Troll/10930329.jpg
+		</thumbnail>
+		<title>Battle Droid Solar</title>
+		<creator>/Aquatic/Richard/Troll/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10935104" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="4">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Swift/Mitchell/Parsec/10935104.jpg
+		</thumbnail>
+		<title>Escape Turbo Plumber</title>
+		<creator>/Swift/Mitchell/Parsec/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="10934745" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Absurd/Baxter/Cosmos/10934745.jpg
+		</thumbnail>
+		<title>Star Rustbucket Quake</title>
+		<creator>/Absurd/Baxter/Cosmos/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10927169" rating="5.0" difficulty="0" status="1" timesWon="1" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fearless/Richard/Werewolf/10927169.jpg
+		</thumbnail>
+		<title>Fury Charge Assault</title>
+		<creator>/Fearless/Richard/Werewolf/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

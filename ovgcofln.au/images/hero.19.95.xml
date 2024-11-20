@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10058809" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="5">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Happy/Simon/Steam/10058809.jpg
+		</thumbnail>
+		<title>Swampfire Blaster Smash</title>
+		<creator>/Happy/Simon/Steam/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="10068460" rating="5.0" difficulty="0" status="1" timesWon="4" timesPlayed="4">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Frugal/Natasha/Minotaur/10068460.jpg
+		</thumbnail>
+		<title>Atomic Spike Danger</title>
+		<creator>/Frugal/Natasha/Minotaur/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="10916699" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="3">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Dreadful/Simon/Dynamite/10916699.jpg
+		</thumbnail>
+		<title>Techno Razor Spark</title>
+		<creator>/Dreadful/Simon/Dynamite/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="10916697" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Zippy/Barney/Elephant/10916697.jpg
+		</thumbnail>
+		<title>Beast Rock Thunder</title>
+		<creator>/Zippy/Barney/Elephant/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10058992" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="11">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Purple/Peter/Amethyst/10058992.jpg
+		</thumbnail>
+		<title>Hyper Battle Shock</title>
+		<creator>/Purple/Peter/Amethyst/</creator>
+		<timesPlayed>11</timesPlayed>
+	</game>
+	<game id="10916691" rating="5.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sporty/Ivy/Ketchup/10916691.jpg
+		</thumbnail>
+		<title>Swampfire Fire Storm</title>
+		<creator>/Sporty/Ivy/Ketchup/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10039147" rating="5.0" difficulty="0" status="1" timesWon="0" timesPlayed="4">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Husky/Bessie/Iceberg/10039147.jpg
+		</thumbnail>
+		<title>Shadow Attack Galaxy</title>
+		<creator>/Husky/Bessie/Iceberg/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="10050014" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Hazel/Fishbowl/10050014.jpg
+		</thumbnail>
+		<title>Ultimate Adventure Ambush</title>
+		<creator>/Alien/Hazel/Fishbowl/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10038852" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="5">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Magnetic/Alan/Blubber/10038852.jpg
+		</thumbnail>
+		<title>Shock Spark Invasion</title>
+		<creator>/Magnetic/Alan/Blubber/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="10042856" rating="4.0" difficulty="0" status="1" timesWon="3" timesPlayed="4">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mighty/Matthew/Kayak/10042856.jpg
+		</thumbnail>
+		<title>Hero Drone Atomic</title>
+		<creator>/Mighty/Matthew/Kayak/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+</cartoonnetwork>

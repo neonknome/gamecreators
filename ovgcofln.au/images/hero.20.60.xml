@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4900784" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Rowdy/Nick/Nacho/4900784.jpg
+		</thumbnail>
+		<title>Hero Power Pulse</title>
+		<creator>/Rowdy/Nick/Nacho/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4900829" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Brave/Grover/Twist/4900829.jpg
+		</thumbnail>
+		<title>Slam Shadow Thunder</title>
+		<creator>/Brave/Grover/Twist/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4900668" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Spooky/George/Charger/4900668.jpg
+		</thumbnail>
+		<title>Racer Assault Rescue</title>
+		<creator>/Spooky/George/Charger/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4900738" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Artistic/Milo/Dragon/4900738.jpg
+		</thumbnail>
+		<title>Rustbucket Robot Defense</title>
+		<creator>/Artistic/Milo/Dragon/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4900763" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Colorful/Lorenzo/Shark/4900763.jpg
+		</thumbnail>
+		<title>Alien Warrior Smash</title>
+		<creator>/Colorful/Lorenzo/Shark/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4900753" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Alien/Oscar/Dolphin/4900753.jpg
+		</thumbnail>
+		<title>Nova Rescue Power</title>
+		<creator>/Alien/Oscar/Dolphin/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4900682" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Red/Phyllis/Avocado/4900682.jpg
+		</thumbnail>
+		<title>Universe Power Search</title>
+		<creator>/Red/Phyllis/Avocado/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4900693" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Loyal/William/Mumbles/4900693.jpg
+		</thumbnail>
+		<title>Animo Battle Ultimate</title>
+		<creator>/Loyal/William/Mumbles/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4900718" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Joyous/Jessica/Tempest/4900718.jpg
+		</thumbnail>
+		<title>Adventure Doom Danger</title>
+		<creator>/Joyous/Jessica/Tempest/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4900677" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Northern/Aaron/Fireball/4900677.jpg
+		</thumbnail>
+		<title>Atomic Force Ambush</title>
+		<creator>/Northern/Aaron/Fireball/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

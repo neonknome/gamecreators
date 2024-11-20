@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4915214" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Musical/Maria/Monkey/4915214.jpg
+		</thumbnail>
+		<title>Ultra Galaxy Crusher</title>
+		<creator>/Musical/Maria/Monkey/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4915195" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dramatic/Samuel/Storm/4915195.jpg
+		</thumbnail>
+		<title>Pursuit Racer Hero</title>
+		<creator>/Dramatic/Samuel/Storm/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4915199" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Sleepy/Amanda/Holler/4915199.jpg
+		</thumbnail>
+		<title>Gear Crusher Nova</title>
+		<creator>/Sleepy/Amanda/Holler/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4915190" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dashing/Dylan/Dingbat/4915190.jpg
+		</thumbnail>
+		<title>Shock Assault Mission</title>
+		<creator>/Dashing/Dylan/Dingbat/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4915146" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Reckless/Steven/Fireball/4915146.jpg
+		</thumbnail>
+		<title>Adventure Techno Power</title>
+		<creator>/Reckless/Steven/Fireball/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4915159" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Clever/Mike/Wizard/4915159.jpg
+		</thumbnail>
+		<title>Search Universe Challenge</title>
+		<creator>/Clever/Mike/Wizard/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4915158" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Wild/Frank/Sphere/4915158.jpg
+		</thumbnail>
+		<title>Atomic Shock Rustbucket</title>
+		<creator>/Wild/Frank/Sphere/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4915171" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Majestic/Don/Tornado/4915171.jpg
+		</thumbnail>
+		<title>Ultra Rush Adventure</title>
+		<creator>/Majestic/Don/Tornado/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4915163" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Savage/Gary/Buffalo/4915163.jpg
+		</thumbnail>
+		<title>Ultimate Crusher Spike</title>
+		<creator>/Savage/Gary/Buffalo/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4915126" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Bizarre/Wolfgang/Howler/4915126.jpg
+		</thumbnail>
+		<title>Droid Fury Search</title>
+		<creator>/Bizarre/Wolfgang/Howler/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

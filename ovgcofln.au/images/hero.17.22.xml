@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4910409" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Alien/Hunter/Warp/4910409.jpg
+		</thumbnail>
+		<title>Ben Alien Mission</title>
+		<creator>/Alien/Hunter/Warp/</creator>
+		<timesPlayed>7</timesPlayed>
+	</game>
+	<game id="4910387" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Eager/Justin/Storm/4910387.jpg
+		</thumbnail>
+		<title>Energy Rush Hero</title>
+		<creator>/Eager/Justin/Storm/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4910422" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Infamous/Ace/Gizmo/4910422.jpg
+		</thumbnail>
+		<title>Turbo Light Streak</title>
+		<creator>/Infamous/Ace/Gizmo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4910389" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Loopy/Chase/Monkey/4910389.jpg
+		</thumbnail>
+		<title>Lightning Laser Attack</title>
+		<creator>/Loopy/Chase/Monkey/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4910411" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Loud/Ryan/Skylark/4910411.jpg
+		</thumbnail>
+		<title>Rampage Storm Invasion</title>
+		<creator>/Loud/Ryan/Skylark/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4910391" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Wily/Wilbur/Yodel/4910391.jpg
+		</thumbnail>
+		<title>Jetray Alien Ambush</title>
+		<creator>/Wily/Wilbur/Yodel/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4910341" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fuzzy/Valerie/Sphinx/4910341.jpg
+		</thumbnail>
+		<title>Crusher Robot Animo</title>
+		<creator>/Fuzzy/Valerie/Sphinx/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4910370" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Spooky/Jose/Fuzz/4910370.jpg
+		</thumbnail>
+		<title>Giga Rampage Smash</title>
+		<creator>/Spooky/Jose/Fuzz/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4910362" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Shaggy/Tex/Varmint/4910362.jpg
+		</thumbnail>
+		<title>Atomic Light Universe</title>
+		<creator>/Shaggy/Tex/Varmint/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4910381" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Frantic/Rob/Mammoth/4910381.jpg
+		</thumbnail>
+		<title>Rescue Cosmic Dark</title>
+		<creator>/Frantic/Rob/Mammoth/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

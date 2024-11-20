@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4905364" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Heroic/Eric/Whizbang/4905364.jpg
+		</thumbnail>
+		<title>Atomic Rush Fury</title>
+		<creator>/Heroic/Eric/Whizbang/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4905366" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dramatic/Jose/Grouch/4905366.jpg
+		</thumbnail>
+		<title>Magno Adventure Escape</title>
+		<creator>/Dramatic/Jose/Grouch/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4905347" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Powerful/Xavier/Tuxedo/4905347.jpg
+		</thumbnail>
+		<title>Star Techno Laser</title>
+		<creator>/Powerful/Xavier/Tuxedo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4905306" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Brave/Dustin/Blob/4905306.jpg
+		</thumbnail>
+		<title>Galaxy Rescue Invasion</title>
+		<creator>/Brave/Dustin/Blob/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4905309" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Beastly/Noah/Magma/4905309.jpg
+		</thumbnail>
+		<title>Mega Alien Lightning</title>
+		<creator>/Beastly/Noah/Magma/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4905330" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Freaky/Gigi/Nacho/4905330.jpg
+		</thumbnail>
+		<title>Quake Assault Mission</title>
+		<creator>/Freaky/Gigi/Nacho/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4905337" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Brave/Bugsy/Banjo/4905337.jpg
+		</thumbnail>
+		<title>Steel Chase Mission</title>
+		<creator>/Brave/Bugsy/Banjo/</creator>
+		<timesPlayed>14</timesPlayed>
+	</game>
+	<game id="4905319" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Sly/Aaron/Fuzz/4905319.jpg
+		</thumbnail>
+		<title>Adventure Galaxy Target</title>
+		<creator>/Sly/Aaron/Fuzz/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4905293" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Clever/Sophia/Witch/4905293.jpg
+		</thumbnail>
+		<title>Ben Storm Blaster</title>
+		<creator>/Clever/Sophia/Witch/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4905277" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Powerful/Vinny/Shark/4905277.jpg
+		</thumbnail>
+		<title>Humongousaur Defense Rush</title>
+		<creator>/Powerful/Vinny/Shark/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

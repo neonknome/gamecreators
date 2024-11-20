@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4915975" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fizzy/Savannah/Jamboree/4915975.jpg
+		</thumbnail>
+		<title>Spark Assault Hero</title>
+		<creator>/Fizzy/Savannah/Jamboree/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4915987" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Towering/Jake/Fireball/4915987.jpg
+		</thumbnail>
+		<title>Beast Hero Sonic</title>
+		<creator>/Towering/Jake/Fireball/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4915964" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Brawny/Hercules/Creature/4915964.jpg
+		</thumbnail>
+		<title>Spidermonkey Adventure Challenge</title>
+		<creator>/Brawny/Hercules/Creature/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4915966" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Stylish/Leon/Acrobat/4915966.jpg
+		</thumbnail>
+		<title>Earth Force Attack</title>
+		<creator>/Stylish/Leon/Acrobat/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4915956" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Jumping/Hunter/Domino/4915956.jpg
+		</thumbnail>
+		<title>Spidermonkey Stone Smash</title>
+		<creator>/Jumping/Hunter/Domino/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4915947" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Wild/Andrew/Ballyhoo/4915947.jpg
+		</thumbnail>
+		<title>Champion Titan Mission</title>
+		<creator>/Wild/Andrew/Ballyhoo/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4915936" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Powerful/Tex/Meringue/4915936.jpg
+		</thumbnail>
+		<title>Rescue Fury Sonic</title>
+		<creator>/Powerful/Tex/Meringue/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4915921" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Chaotic/Henry/Magma/4915921.jpg
+		</thumbnail>
+		<title>Hero Universe Attack</title>
+		<creator>/Chaotic/Henry/Magma/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4915938" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Royal/Bryan/Fireball/4915938.jpg
+		</thumbnail>
+		<title>Spidermonkey Galaxy Storm</title>
+		<creator>/Royal/Bryan/Fireball/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4915940" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Chaotic/Mario/Gremlin/4915940.jpg
+		</thumbnail>
+		<title>Spidermonkey Attack Fire</title>
+		<creator>/Chaotic/Mario/Gremlin/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

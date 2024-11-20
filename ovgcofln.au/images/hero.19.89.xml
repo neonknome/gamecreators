@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10055989" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Valiant/Sterling/Popcorn/10055989.jpg
+		</thumbnail>
+		<title>Spike Force Adventure</title>
+		<creator>/Valiant/Sterling/Popcorn/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10039284" rating="0.0" difficulty="0" status="1" timesWon="3" timesPlayed="4">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gracious/Vladimir/Yodel/10039284.jpg
+		</thumbnail>
+		<title>Animo Lightning Defense</title>
+		<creator>/Gracious/Vladimir/Yodel/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="10038010" rating="0.0" difficulty="0" status="1" timesWon="5" timesPlayed="6">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fearless/Jason/Bonkers/10038010.jpg
+		</thumbnail>
+		<title>Galaxy Storm Rustbucket</title>
+		<creator>/Fearless/Jason/Bonkers/</creator>
+		<timesPlayed>6</timesPlayed>
+	</game>
+	<game id="10055993" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Scary/Leonardo/Droid/10055993.jpg
+		</thumbnail>
+		<title>Earth Alien Adventure</title>
+		<creator>/Scary/Leonardo/Droid/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10063302" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awful/Caleb/Bolt/10063302.jpg
+		</thumbnail>
+		<title>Alien Space Rocket</title>
+		<creator>/Awful/Caleb/Bolt/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10056052" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="4">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Ghastly/Phil/Cyborg/10056052.jpg
+		</thumbnail>
+		<title>Plasma Galaxy Adventure</title>
+		<creator>/Ghastly/Phil/Cyborg/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="10055886" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Visible/Ben/Yodel/10055886.jpg
+		</thumbnail>
+		<title>Universe Metal Steel</title>
+		<creator>/Visible/Ben/Yodel/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10055924" rating="5.0" difficulty="0" status="1" timesWon="10" timesPlayed="25">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Proper/Dwight/Mustard/10055924.jpg
+		</thumbnail>
+		<title>Robot Alien Invasion</title>
+		<creator>/Proper/Dwight/Mustard/</creator>
+		<timesPlayed>25</timesPlayed>
+	</game>
+	<game id="10916785" rating="0.0" difficulty="0" status="1" timesWon="4" timesPlayed="4">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Splendid/Igor/Rutabaga/10916785.jpg
+		</thumbnail>
+		<title>Rocket Adventure Champion</title>
+		<creator>/Splendid/Igor/Rutabaga/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="10056062" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Colorful/Aidan/Avocado/10056062.jpg
+		</thumbnail>
+		<title>Atomic Magno Spark</title>
+		<creator>/Colorful/Aidan/Avocado/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+</cartoonnetwork>

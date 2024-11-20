@@ -1,0 +1,243 @@
+<sounds>
+	<files>
+	  <builder hifi="builder_sound_ben10.swf" lofi="">
+	    <fxs_builder>
+			<!--release bouton-->
+			<_releasebuilder volume="100" />
+			<!--rollover bouton-->
+			<_rolloverbuilder volume="100" />
+			<!--select-->
+			<_selectbuilder volume="100" />
+	    </fxs_builder>
+		<musics_builder>
+		</musics_builder>
+	  </builder>
+	  <ballweevil hifi="characters/ballweevil_sound.swf" lofi="">
+		<fxs_player>
+			<_BallWeevil_shoot volume="30" />
+			<_BallWeevil_charge volume="30" />
+			<_BallWeevil_shootExplode volume="30" />
+			<_BallWeevil_energy volume="50" />
+		</fxs_player>
+		<musics_player>
+			<_themeballweevil volume="70" />
+		</musics_player>
+	  </ballweevil>
+	  <bigchill hifi="characters/bigchill_sound.swf" lofi="">
+		<fxs_player>
+			<_shootbigchill volume="50" />
+			<_airshootbigchill volume="75" />
+			<_planebigchill volume="100" />
+		</fxs_player>
+		<musics_player>
+			<_themebigchill volume="60" />
+		</musics_player>
+	  </bigchill>
+	  <blitzwolfer hifi="characters/blitzwolfer_sound.swf" lofi="">
+		<fxs_player>
+			<_shootblitzwolfer volume="35" />
+			<_jumpshootblitz volume="35" />
+		</fxs_player>
+		<musics_player>
+			<_themeblitzwolfer volume="60" />
+		</musics_player>
+	  </blitzwolfer>
+	  <bloxx hifi="characters/bloxx_sound.swf" lofi="">
+		<fxs_player>
+			<_armfallbloxx volume="50" />
+			<_impactbloxx volume="30" />
+			<_shootbloxx volume="50" />
+		</fxs_player>
+		<musics_player>
+			<_themebloxx volume="50" />
+		</musics_player>
+	  </bloxx>
+	  <brainstorm hifi="characters/brainstorm_sound.swf" lofi="">
+		<fxs_player>
+			<_brainshoot volume="60" />	
+		</fxs_player>
+		<musics_player>
+			<_themebrainstorm volume="55" />
+		</musics_player>
+	  </brainstorm>
+	   <cannonbolt hifi="characters/cannonbolt_sound.swf" lofi="">
+		<fxs_player>
+			<_rushcannonbolt volume="50" />
+		</fxs_player>
+		<musics_player>
+			<_themecannonbolt volume="50" />
+		</musics_player>
+	  </cannonbolt>	
+		<echoecho hifi="characters/echoecho_sound.swf" lofi="">
+		<fxs_player>
+			<_cloneechoecho volume="100" />
+			<_shootechoecho volume="30" />
+			<_jumpechoecho volume="100" />
+		</fxs_player>
+		<musics_player>
+			<_themeechoecho volume="60" />
+		</musics_player>
+	  </echoecho>
+		<feedback hifi="characters/feedback_sound.swf" lofi="">
+		<fxs_player>
+			<_absorbfeedback volume="60" />
+			<_chargefeedback volume="30" />
+			<_shootfeedback volume="70" />
+		</fxs_player>
+		<musics_player>
+			<_themefeedback volume="50" />
+		</musics_player>
+	  </feedback>
+	  <gravattack hifi="characters/gravattack_sound.swf" lofi="">
+		<fxs_player>
+			<_shootgravattack volume="40" />
+		</fxs_player>
+		<musics_player>
+			<_themegravattack volume="50" />
+		</musics_player>
+	  </gravattack>	
+	  <humongousaur hifi="characters/humongousaur_sound.swf" lofi="">
+		<fxs_player>
+			<!-- shock wave-->
+			<_shock volume="77" />
+			<!-- jump smash-->
+			<_jumpsmash volume="65" />
+		</fxs_player>
+		<musics_player>
+			<_themehumongousaur volume="50" />
+		</musics_player>
+	  </humongousaur>
+	  <jetray hifi="characters/jetray_sound.swf" lofi="">
+		<fxs_player>
+			<_sonic volume="85" />
+		</fxs_player>
+		<musics_player>
+			<_themejetray volume="50" />
+		</musics_player>
+	  </jetray>	
+	  <rook hifi="characters/rook_sound.swf" lofi="">
+		<fxs_player>
+			<_rookMelee volume="100"/>
+			<_rookShoot volume="100"/>
+			<_rookCharge volume="150"/>
+			<_rookChargeFX volume="100"/>
+		</fxs_player>
+		<musics_player>
+			<_themerook volume="100" />
+		</musics_player>
+	  </rook>	
+	  <kickinhawk hifi="characters/kickinhawk_sound.swf" lofi="">
+		<fxs_player>
+			<_shootkickinhawk0 volume="70" />
+			<_shootkickinhawk1 volume="80" />
+			<_shootkickinhawk2 volume="70" />
+			<_shootJumpkickinhawk volume="40" />
+		</fxs_player>
+		<musics_player>
+			<_themekickinhawk volume="120" />
+		</musics_player>
+	  </kickinhawk>
+	  <snareoh hifi="characters/snareoh_sound.swf" lofi="">
+		<fxs_player>
+			<_receptsnare volume="50" />
+			<_shootsnare volume="40" />
+		</fxs_player>
+		<musics_player>
+			<_themesnareoh volume="60" />
+		</musics_player>
+	  </snareoh>
+	  <spidermonkey hifi="characters/spidermonkey_sound.swf" lofi="">
+		<fxs_player>
+			<_web volume="28" />
+		</fxs_player>
+		<musics_player>
+			<_themespidermonkey volume="55" />
+		</musics_player>
+	  </spidermonkey>	
+	  <swampfire hifi="characters/swampfire_sound.swf" lofi="">
+		<fxs_player>
+			<_flame volume="55" />
+		</fxs_player>
+		<musics_player>
+			<_themeswampfire volume="60" />
+		</musics_player>
+	  </swampfire>	
+	  <terraspin hifi="characters/terraspin_sound.swf" lofi="">
+		<fxs_player>
+			<_terrawind volume="35" />
+		</fxs_player>
+		<musics_player>
+			<_themeterraspin volume="50" />	
+		</musics_player>
+	  </terraspin>	
+	  <waterhazard hifi="characters/waterhazard_sound.swf" lofi="">
+		<fxs_player>
+			<_watershoot volume="100" />
+			<_watershield volume="100" />
+		</fxs_player>
+		<musics_player>
+			<_themewaterhazard volume="60" />	
+		</musics_player>
+	  </waterhazard>	
+	  <player hifi="player_sound_ben10.swf" lofi="">
+	    <fxs_player>
+			<!--release bouton-->
+			<_releaseplayer volume="100" />
+			<!--rollover bouton-->
+			<_rolloverplayer volume="100" />
+			<!--jump-->
+			<_jump volume="87" />
+			<!--open door-->
+			<_opendoor volume="140" />
+			<!--item-->
+			<_item volume="75" />
+			<!--energy loaded-->
+			<_energyloaded volume="0" />
+			<!--enemy explosion-->
+			<_enemyexplosion volume="65" />
+			<!--crates explosion-->
+			<_crates volume="55" />
+			<!--push crates-->
+			<_pushcrates volume="100" />
+			<!--generation robots-->
+			<_genrobot volume="65" />
+			<!--generator ending-->
+			<_genboom volume="60" />
+			<!-- falling plateform-->
+			<_fallpf volume="37" />
+			<!-- character dies -->
+			<_chardie volume="50" />
+			<!-- enemy shoot-->
+			<_shootenemy volume="25" />
+			<!-- soft shoot impact sound-->
+			<_softimpact volume="45" />
+			<!-- muddy enemy shoots-->
+			<_muddyshoot volume="45" />
+			<!-- muddy enemy dies-->
+			<_muddydie volume="85" />
+			<!-- impact on solid box-->
+			<_clink volume="40" />			
+	    </fxs_player>
+		<musics_player>
+			<!--tc jingle-->
+			<_tc volume="70" />
+			<!--win jingle-->
+			<_win volume="60" />
+			<!--lose jingle-->
+			<_lose volume="70" />						
+		</musics_player>
+	  </player>
+	</files>
+	<groups>
+		<general volume="75">
+			<builder volume="100">
+				<musics_builder volume="100" />
+				<fxs_builder volume="100" />
+			</builder>
+			<player volume="100">
+				<musics_player volume="60" />
+				<fxs_player volume="100" />
+			</player>
+		</general>
+	</groups>
+</sounds>

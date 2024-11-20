@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4917639" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Mighty/Pete/Zing/4917639.jpg
+		</thumbnail>
+		<title>Mission Alien Pursuit</title>
+		<creator>/Mighty/Pete/Zing/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917665" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Rowdy/Rex/Rutabaga/4917665.jpg
+		</thumbnail>
+		<title>Adventure Challenge Lightning</title>
+		<creator>/Rowdy/Rex/Rutabaga/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4917641" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Mighty/Connor/Blitz/4917641.jpg
+		</thumbnail>
+		<title>Atomic Invasion Atomic</title>
+		<creator>/Mighty/Connor/Blitz/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917604" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Lucky/Ginger/Blade/4917604.jpg
+		</thumbnail>
+		<title>Challenge Jetray Rampage</title>
+		<creator>/Lucky/Ginger/Blade/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917616" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dynamic/Wolfgang/Cumulus/4917616.jpg
+		</thumbnail>
+		<title>Shock Adventure Fusion</title>
+		<creator>/Dynamic/Wolfgang/Cumulus/</creator>
+		<timesPlayed>6</timesPlayed>
+	</game>
+	<game id="4917614" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Crunchy/Baxter/Seesaw/4917614.jpg
+		</thumbnail>
+		<title>Fury Spike Ben</title>
+		<creator>/Crunchy/Baxter/Seesaw/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917602" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Noble/Medusa/Moxie/4917602.jpg
+		</thumbnail>
+		<title>Metal Rustbucket Steel</title>
+		<creator>/Noble/Medusa/Moxie/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4917581" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Bizarre/Chase/Yoyo/4917581.jpg
+		</thumbnail>
+		<title>Giga Shock Light</title>
+		<creator>/Bizarre/Chase/Yoyo/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4917589" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dapper/Tim/Werewolf/4917589.jpg
+		</thumbnail>
+		<title>Giga Danger Laser</title>
+		<creator>/Dapper/Tim/Werewolf/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917591" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cosmic/Romeo/Squish/4917591.jpg
+		</thumbnail>
+		<title>Hero Star Doom</title>
+		<creator>/Cosmic/Romeo/Squish/</creator>
+		<timesPlayed>8</timesPlayed>
+	</game>
+</cartoonnetwork>

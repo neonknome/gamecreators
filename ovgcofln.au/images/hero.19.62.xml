@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="10949399" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brainy/Iris/Parallax/10949399.jpg
+		</thumbnail>
+		<title>Chase Crusher Turbo</title>
+		<creator>/Brainy/Iris/Parallax/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="10949766" rating="4.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Heroic/Lucius/Cactus/10949766.jpg
+		</thumbnail>
+		<title>Pulse Adventure Racer</title>
+		<creator>/Heroic/Lucius/Cactus/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10949874" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="3">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Cranky/Theodore/Dwarf/10949874.jpg
+		</thumbnail>
+		<title>Dark Beast Invasion</title>
+		<creator>/Cranky/Theodore/Dwarf/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="10945842" rating="5.0" difficulty="0" status="1" timesWon="1" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Normal/Vinny/Rumble/10945842.jpg
+		</thumbnail>
+		<title>Mega Shock Shadow</title>
+		<creator>/Normal/Vinny/Rumble/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10942924" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Jolly/Gretel/Quake/10942924.jpg
+		</thumbnail>
+		<title>Titan Solar Smash</title>
+		<creator>/Jolly/Gretel/Quake/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10952497" rating="5.0" difficulty="0" status="1" timesWon="1" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Beastly/Amanda/Barnacle/10952497.jpg
+		</thumbnail>
+		<title>Fusion Patrol Quake</title>
+		<creator>/Beastly/Amanda/Barnacle/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10953258" rating="0.0" difficulty="0" status="1" timesWon="6" timesPlayed="9">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Sincere/Noah/Barnacle/10953258.jpg
+		</thumbnail>
+		<title>Charge Robot Slam</title>
+		<creator>/Sincere/Noah/Barnacle/</creator>
+		<timesPlayed>9</timesPlayed>
+	</game>
+	<game id="10953054" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brainy/Casey/Sardine/10953054.jpg
+		</thumbnail>
+		<title>Pursuit Dark Siege</title>
+		<creator>/Brainy/Casey/Sardine/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10953158" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Awful/Austin/Sphinx/10953158.jpg
+		</thumbnail>
+		<title>Dark Search Spike</title>
+		<creator>/Awful/Austin/Sphinx/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10943281" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Alien/Brent/Starfish/10943281.jpg
+		</thumbnail>
+		<title>Galaxy Pursuit Rescue</title>
+		<creator>/Alien/Brent/Starfish/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+</cartoonnetwork>

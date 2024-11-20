@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4917515" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dainty/Caleb/Lavender/4917515.jpg
+		</thumbnail>
+		<title>Sonic Universe Warrior</title>
+		<creator>/Dainty/Caleb/Lavender/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917531" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Weird/Wolfgang/Stampede/4917531.jpg
+		</thumbnail>
+		<title>Spidermonkey Escape Force</title>
+		<creator>/Weird/Wolfgang/Stampede/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917520" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Sinister/Vincent/Kazoo/4917520.jpg
+		</thumbnail>
+		<title>Metal Techno Hyper</title>
+		<creator>/Sinister/Vincent/Kazoo/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4917524" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Chaotic/Alexis/Blitz/4917524.jpg
+		</thumbnail>
+		<title>Energy Champion Assault</title>
+		<creator>/Chaotic/Alexis/Blitz/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4917497" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Absurd/Ian/Spumoni/4917497.jpg
+		</thumbnail>
+		<title>Hyper Escape Challenge</title>
+		<creator>/Absurd/Ian/Spumoni/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4917473" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Peculiar/Autumn/Witch/4917473.jpg
+		</thumbnail>
+		<title>Defense Power Adventure</title>
+		<creator>/Peculiar/Autumn/Witch/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4917456" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Freaky/Chris/Midnight/4917456.jpg
+		</thumbnail>
+		<title>Spidermonkey Alien Crusher</title>
+		<creator>/Freaky/Chris/Midnight/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917469" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Gloomy/Carlos/Crash/4917469.jpg
+		</thumbnail>
+		<title>Chase Shock Star</title>
+		<creator>/Gloomy/Carlos/Crash/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917462" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fizzy/Theodore/Atom/4917462.jpg
+		</thumbnail>
+		<title>Power Alien Force</title>
+		<creator>/Fizzy/Theodore/Atom/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4917486" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Mighty/Donald/Dumpling/4917486.jpg
+		</thumbnail>
+		<title>Fire Fusion Force</title>
+		<creator>/Mighty/Donald/Dumpling/</creator>
+		<timesPlayed>6</timesPlayed>
+	</game>
+</cartoonnetwork>

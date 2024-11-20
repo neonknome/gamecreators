@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4907924" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Silent/Chris/Magician/4907924.jpg
+		</thumbnail>
+		<title>Siege Slam Charge</title>
+		<creator>/Silent/Chris/Magician/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4907905" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Powerful/Joey/Fuzz/4907905.jpg
+		</thumbnail>
+		<title>Smash Storm Fire</title>
+		<creator>/Powerful/Joey/Fuzz/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4907909" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Zippy/Kelly/Dwarf/4907909.jpg
+		</thumbnail>
+		<title>Chase Adventure Champion</title>
+		<creator>/Zippy/Kelly/Dwarf/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4907877" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Awesome/Sam/Twist/4907877.jpg
+		</thumbnail>
+		<title>Nitro Hex Power</title>
+		<creator>/Awesome/Sam/Twist/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4907880" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Visible/Victor/Seesaw/4907880.jpg
+		</thumbnail>
+		<title>Energy Assault Pursuit</title>
+		<creator>/Visible/Victor/Seesaw/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4907852" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Daring/Chris/Sawtooth/4907852.jpg
+		</thumbnail>
+		<title>Magno Doom Clash</title>
+		<creator>/Daring/Chris/Sawtooth/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4907841" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Handsome/Hayden/Paradox/4907841.jpg
+		</thumbnail>
+		<title>Pulse Plasma Nitro</title>
+		<creator>/Handsome/Hayden/Paradox/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4907860" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Plucky/Rob/Basilisk/4907860.jpg
+		</thumbnail>
+		<title>Hex Universe Beast</title>
+		<creator>/Plucky/Rob/Basilisk/</creator>
+		<timesPlayed>6</timesPlayed>
+	</game>
+	<game id="4907805" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Savage/Steven/Ogre/4907805.jpg
+		</thumbnail>
+		<title>Humongousaur Turbo Rampage</title>
+		<creator>/Savage/Steven/Ogre/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4907781" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Robotic/Derek/Photon/4907781.jpg
+		</thumbnail>
+		<title>Universe Magno Cosmic</title>
+		<creator>/Robotic/Derek/Photon/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

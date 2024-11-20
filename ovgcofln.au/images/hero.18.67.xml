@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4918516" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Sincere/Jennifer/Cyborg/4918516.jpg
+		</thumbnail>
+		<title>Rampage Assault Fury</title>
+		<creator>/Sincere/Jennifer/Cyborg/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4918461" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Infamous/Dennis/Calypso/4918461.jpg
+		</thumbnail>
+		<title>Storm Universe Rampage</title>
+		<creator>/Infamous/Dennis/Calypso/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4918450" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Savage/Trinity/Monster/4918450.jpg
+		</thumbnail>
+		<title>Giga Rescue Crusher</title>
+		<creator>/Savage/Trinity/Monster/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4918452" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Ghastly/Joey/Obelisk/4918452.jpg
+		</thumbnail>
+		<title>Thunder Burst Rumble</title>
+		<creator>/Ghastly/Joey/Obelisk/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4918456" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Shaggy/Erika/Orca/4918456.jpg
+		</thumbnail>
+		<title>Warrior Pursuit Universe</title>
+		<creator>/Shaggy/Erika/Orca/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4918454" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Odd/Will/Octopus/4918454.jpg
+		</thumbnail>
+		<title>Vilgax Hyper Gear</title>
+		<creator>/Odd/Will/Octopus/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4918432" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Atomic/Will/Bonkers/4918432.jpg
+		</thumbnail>
+		<title>Droid Search Adventure</title>
+		<creator>/Atomic/Will/Bonkers/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4918409" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Bizarre/Anthony/Galaxy/4918409.jpg
+		</thumbnail>
+		<title>Droid Champion Battle</title>
+		<creator>/Bizarre/Anthony/Galaxy/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4918401" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Silent/Apollo/Fireball/4918401.jpg
+		</thumbnail>
+		<title>Spidermonkey Escape Fury</title>
+		<creator>/Silent/Apollo/Fireball/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4918373" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Powerful/James/Universe/4918373.jpg
+		</thumbnail>
+		<title>Racer Storm Star</title>
+		<creator>/Powerful/James/Universe/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

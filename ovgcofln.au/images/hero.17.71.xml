@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4917458" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Weird/Justin/Droid/4917458.jpg
+		</thumbnail>
+		<title>Chase Iron Smash</title>
+		<creator>/Weird/Justin/Droid/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917484" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Reckless/Zelda/Tempest/4917484.jpg
+		</thumbnail>
+		<title>Ultimate Jetray Challenge</title>
+		<creator>/Reckless/Zelda/Tempest/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917448" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Awesome/Roy/Dwarf/4917448.jpg
+		</thumbnail>
+		<title>Steel Razor Siege</title>
+		<creator>/Awesome/Roy/Dwarf/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="4917478" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Reckless/Pedro/Robot/4917478.jpg
+		</thumbnail>
+		<title>Mega Power Rampage</title>
+		<creator>/Reckless/Pedro/Robot/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917428" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Royal/Iris/Rutabaga/4917428.jpg
+		</thumbnail>
+		<title>Nova Animo Thunder</title>
+		<creator>/Royal/Iris/Rutabaga/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917409" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Tricky/Jake/Cobra/4917409.jpg
+		</thumbnail>
+		<title>Assault Turbo Giga</title>
+		<creator>/Tricky/Jake/Cobra/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917413" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Spectral/Landon/Ladybug/4917413.jpg
+		</thumbnail>
+		<title>Plasma Siege Invasion</title>
+		<creator>/Spectral/Landon/Ladybug/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917378" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Alien/Harry/Midnight/4917378.jpg
+		</thumbnail>
+		<title>Jetray Hero Escape</title>
+		<creator>/Alien/Harry/Midnight/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917354" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Ornery/Juliet/Scribble/4917354.jpg
+		</thumbnail>
+		<title>Mission Jetray Rumble</title>
+		<creator>/Ornery/Juliet/Scribble/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917390" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Sincere/Madeline/Thunder/4917390.jpg
+		</thumbnail>
+		<title>Target Pulse Warp</title>
+		<creator>/Sincere/Madeline/Thunder/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="17413288" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="5">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fabulous/Luke/Fox/17413288.jpg
+		</thumbnail>
+		<title>Alien Galaxy Doom</title>
+		<creator>Fabulous Luke Fox</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="17094971" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="14">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Peculiar/Edd/Pontoon/17094971.jpg
+		</thumbnail>
+		<title>Jetray Hero Galaxy</title>
+		<creator>Peculiar Edd Pontoon</creator>
+		<timesPlayed>14</timesPlayed>
+	</game>
+	<game id="16947434" rating="0.0" difficulty="0" status="1" timesWon="8" timesPlayed="8">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Classic/Bill/Doodle/16947434.jpg
+		</thumbnail>
+		<title>Ambush Rustbucket Light</title>
+		<creator>Classic Bill Doodle</creator>
+		<timesPlayed>8</timesPlayed>
+	</game>
+	<game id="16947501" rating="0.0" difficulty="0" status="1" timesWon="3" timesPlayed="6">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Gentle/Rosetta/Snowball/16947501.jpg
+		</thumbnail>
+		<title>Ultimate Brainstorm Vilgax</title>
+		<creator>Gentle Rosetta Snowball</creator>
+		<timesPlayed>6</timesPlayed>
+	</game>
+	<game id="16893781" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Fiery/James/Cyclone/16893781.jpg
+		</thumbnail>
+		<title>Mega Big Doom</title>
+		<creator>Fiery James Cyclone</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17308153" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Acoustic/Shelby/Oink/17308153.jpg
+		</thumbnail>
+		<title>Shadow Laser Spark</title>
+		<creator>Acoustic Shelby Oink</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17575180" rating="0.0" difficulty="0" status="1" timesWon="3" timesPlayed="4">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Grimy/Jesse/Zigzag/17575180.jpg
+		</thumbnail>
+		<title>Defense Storm Pulse</title>
+		<creator>Grimy Jesse Zigzag</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="17052669" rating="0.0" difficulty="0" status="1" timesWon="11" timesPlayed="109">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Peppy/Claire/Pizza/17052669.jpg
+		</thumbnail>
+		<title>Earth Siege Alien</title>
+		<creator>Peppy Claire Pizza</creator>
+		<timesPlayed>109</timesPlayed>
+	</game>
+	<game id="17463456" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="2">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Classic/Timmy/Virtuoso/17463456.jpg
+		</thumbnail>
+		<title>Stone Adventure Slam</title>
+		<creator>Classic Timmy Virtuoso</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17463474" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="3">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Mystic/Selena/Cuckoo/17463474.jpg
+		</thumbnail>
+		<title>Techno Light Techno</title>
+		<creator>Mystic Selena Cuckoo</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+</cartoonnetwork>

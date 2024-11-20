@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4917041" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Royal/Goliath/Droid/4917041.jpg
+		</thumbnail>
+		<title>Power Rescue Challenge</title>
+		<creator>/Royal/Goliath/Droid/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916989" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Bizarre/Jared/Ninja/4916989.jpg
+		</thumbnail>
+		<title>Nano Solar Blaster</title>
+		<creator>/Bizarre/Jared/Ninja/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4917028" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Babbling/William/Ukulele/4917028.jpg
+		</thumbnail>
+		<title>Light Quake Iron</title>
+		<creator>/Babbling/William/Ukulele/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4917015" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Awesome/Angel/Blubber/4917015.jpg
+		</thumbnail>
+		<title>Stone Spark Plumber</title>
+		<creator>/Awesome/Angel/Blubber/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4917010" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dashing/Isaiah/Werewolf/4917010.jpg
+		</thumbnail>
+		<title>Atomic Clash Giga</title>
+		<creator>/Dashing/Isaiah/Werewolf/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4917022" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Strange/Dennis/Mango/4917022.jpg
+		</thumbnail>
+		<title>Plasma Warp Warrior</title>
+		<creator>/Strange/Dennis/Mango/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917014" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Mighty/Napoleon/Gargoyle/4917014.jpg
+		</thumbnail>
+		<title>Turbo Rush Rocket</title>
+		<creator>/Mighty/Napoleon/Gargoyle/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917024" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Aquatic/Zeb/Phantom/4917024.jpg
+		</thumbnail>
+		<title>Alien Spidermonkey Hero</title>
+		<creator>/Aquatic/Zeb/Phantom/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916961" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Sporty/Luke/Dragon/4916961.jpg
+		</thumbnail>
+		<title>Hero Drone Pulse</title>
+		<creator>/Sporty/Luke/Dragon/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4916981" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Crunchy/Brandon/Python/4916981.jpg
+		</thumbnail>
+		<title>Robot Rampage Storm</title>
+		<creator>/Crunchy/Brandon/Python/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

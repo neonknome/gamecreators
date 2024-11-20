@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4920134" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Dynamic/Dominic/Buzzard/4920134.jpg
+		</thumbnail>
+		<title>Spidermonkey Rustbucket Fusion</title>
+		<creator>/Dynamic/Dominic/Buzzard/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4920168" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fearsome/Tyler/Universe/4920168.jpg
+		</thumbnail>
+		<title>Sonic Shadow Spidermonkey</title>
+		<creator>/Fearsome/Tyler/Universe/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4920012" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Massive/Milton/Tusk/4920012.jpg
+		</thumbnail>
+		<title>Magno Storm Techno</title>
+		<creator>/Massive/Milton/Tusk/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4920040" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Alien/Amy/Hedgehog/4920040.jpg
+		</thumbnail>
+		<title>Gear Assault Cosmic</title>
+		<creator>/Alien/Amy/Hedgehog/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4920001" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Shiny/John/Turbo/4920001.jpg
+		</thumbnail>
+		<title>Alien Force Ambush</title>
+		<creator>/Shiny/John/Turbo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4920092" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Loud/Kevin/Dodo/4920092.jpg
+		</thumbnail>
+		<title>Ultra Spidermonkey Assault</title>
+		<creator>/Loud/Kevin/Dodo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4920103" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Grubby/Val/Kook/4920103.jpg
+		</thumbnail>
+		<title>Alien Spidermonkey Invasion</title>
+		<creator>/Grubby/Val/Kook/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4920115" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Clever/John/Twist/4920115.jpg
+		</thumbnail>
+		<title>Escape Smash Iron</title>
+		<creator>/Clever/John/Twist/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4920066" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Fierce/Xavier/Behemoth/4920066.jpg
+		</thumbnail>
+		<title>Plumber Power Pursuit</title>
+		<creator>/Fierce/Xavier/Behemoth/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4920051" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Northern/Laura/Chimera/4920051.jpg
+		</thumbnail>
+		<title>Animo Stone Target</title>
+		<creator>/Northern/Laura/Chimera/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

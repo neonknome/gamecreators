@@ -1,0 +1,83 @@
+<cartoonnetwork>
+	<response status="SUCCESS"/>
+	<game id="4917949" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Heroic/David/Ninja/4917949.jpg
+		</thumbnail>
+		<title>Turbo Spidermonkey Fury</title>
+		<creator>/Heroic/David/Ninja/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917953" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Spooky/Alex/Droid/4917953.jpg
+		</thumbnail>
+		<title>Mega Spidermonkey Rumble</title>
+		<creator>/Spooky/Alex/Droid/</creator>
+		<timesPlayed>6</timesPlayed>
+	</game>
+	<game id="4917982" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Strange/Cory/Crash/4917982.jpg
+		</thumbnail>
+		<title>Spike Rumble Defense</title>
+		<creator>/Strange/Cory/Crash/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="4917991" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Cosmic/Jennifer/Elf/4917991.jpg
+		</thumbnail>
+		<title>Racer Adventure Challenge</title>
+		<creator>/Cosmic/Jennifer/Elf/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917966" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Tricky/Amanda/Citrus/4917966.jpg
+		</thumbnail>
+		<title>Razor Hero Warp</title>
+		<creator>/Tricky/Amanda/Citrus/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917910" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Frugal/Gregory/Amethyst/4917910.jpg
+		</thumbnail>
+		<title>Nano Adventure Crusher</title>
+		<creator>/Frugal/Gregory/Amethyst/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4917943" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Modest/Grover/Turtle/4917943.jpg
+		</thumbnail>
+		<title>Ultimate Danger Crusher</title>
+		<creator>/Modest/Grover/Turtle/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917908" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Aquatic/Jordan/Squeegee/4917908.jpg
+		</thumbnail>
+		<title>Spidermonkey Rampage Mission</title>
+		<creator>/Aquatic/Jordan/Squeegee/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917912" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Sleek/Mark/Dingo/4917912.jpg
+		</thumbnail>
+		<title>Nova Rampage Plasma</title>
+		<creator>/Sleek/Mark/Dingo/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4917884" rating="0" difficulty="0" status="1">
+		<thumbnail>
+			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images/Royal/Wes/Tusk/4917884.jpg
+		</thumbnail>
+		<title>Search Shock Magno</title>
+		<creator>/Royal/Wes/Tusk/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

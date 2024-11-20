@@ -1,0 +1,26 @@
+// IG title style (don't modify)
+.piekos50 {
+	font-family: PiekosFX Basic BB;
+	font-size: 50;
+}
+
+// swap style of IG title style (specify all the parameters you want to override above the original style)
+.piekos50_swap {
+	text-transform: lowercase;
+	leading: -8;
+}
+
+// main style (don't modify)
+.piekos {
+	font-family: PiekosFX Basic BB;
+}
+
+// swap style of main style (specify all the parameters you want to override above the original style)
+.piekos_swap {
+	text-transform: lowercase;
+}
+
+// help style (don't modify)
+.din {
+	font-family: DIN;
+} 
