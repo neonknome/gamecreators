@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="9954610" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Red/Jordan/Squawk/9954610.jpg</thumbnail>
+		<title>Drone Stone Ambush</title>
+		<creator>Red Jordan Squawk</creator>
+		<relatedgames />
+	</game>
+	<game id="17339599" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/15/2012">
+		<thumbnail>/gamecreators/images2/Amusing/Otto/Blob/17339599.jpg</thumbnail>
+		<title>Assault Nano Whirlwind</title>
+		<creator>Amusing Otto Blob</creator>
+		<relatedgames />
+	</game>
+	<game id="16993702" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>/gamecreators/images2/Daring/Latoya/Javelin/16993702.jpg</thumbnail>
+		<title>Ben Sonic Siege</title>
+		<creator>Daring Latoya Javelin</creator>
+		<relatedgames />
+	</game>
+	<game id="16918793" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>/gamecreators/images2/Grand/Xavier/Ooze/16918793.jpg</thumbnail>
+		<title>Chill Adventure Rocket</title>
+		<creator>Grand Xavier Ooze</creator>
+		<relatedgames />
+	</game>
+	<game id="17242114" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>/gamecreators/images2/Gruesome/Scooby/Cyborg/17242114.jpg</thumbnail>
+		<title>Adventure Droid Ultra</title>
+		<creator>Gruesome Scooby Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="10648482" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Crafty/Kristen/Quake/10648482.jpg</thumbnail>
+		<title>Light Universe Vilgax</title>
+		<creator>Crafty Kristen Quake</creator>
+		<relatedgames />
+	</game>
+	<game id="17569422" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Hyper/Lucius/Ketchup/17569422.jpg</thumbnail>
+		<title>Burst Rustbucket Galaxy</title>
+		<creator>Hyper Lucius Ketchup</creator>
+		<relatedgames />
+	</game>
+	<game id="10059235" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Purple/Patrick/Amethyst/10059235.jpg</thumbnail>
+		<title>Charge Alien Streak</title>
+		<creator>Purple Patrick Amethyst</creator>
+		<relatedgames />
+	</game>
+	<game id="17377059" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2012">
+		<thumbnail>/gamecreators/images2/Tall/Casey/Bingo/17377059.jpg</thumbnail>
+		<title>Solar Fusion Sonic</title>
+		<creator>Tall Casey Bingo</creator>
+		<relatedgames />
+	</game>
+	<game id="17574620" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Countess/Quentin/Gator/17574620.jpg</thumbnail>
+		<title>Animo Charge Galaxy</title>
+		<creator>Countess Quentin Gator</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

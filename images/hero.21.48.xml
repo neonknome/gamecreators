@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10937225" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Shaggy/Jonas/Blob/10937225.jpg</thumbnail>
+		<title>Ultimate Ben Galaxy</title>
+		<creator>Shaggy Jonas Blob</creator>
+		<relatedgames />
+	</game>
+	<game id="10655835" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2009">
+		<thumbnail>/gamecreators/images2/Proper/Dinah/Sardine/10655835.jpg</thumbnail>
+		<title>Shadow Dark Rampage</title>
+		<creator>Proper Dinah Sardine</creator>
+		<relatedgames />
+	</game>
+	<game id="10931694" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Comical/Kelly/Baloney/10931694.jpg</thumbnail>
+		<title>Pulse Nitro Ultra</title>
+		<creator>Comical Kelly Baloney</creator>
+		<relatedgames />
+	</game>
+	<game id="10931474" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Funny/Lauren/Gizmo/10931474.jpg</thumbnail>
+		<title>Magno Cosmic Thunder</title>
+		<creator>Funny Lauren Gizmo</creator>
+		<relatedgames />
+	</game>
+	<game id="10934222" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Gigantic/Andrew/Tusk/10934222.jpg</thumbnail>
+		<title>Doom Titan Invasion</title>
+		<creator>Gigantic Andrew Tusk</creator>
+		<relatedgames />
+	</game>
+	<game id="10066885" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Sincere/Andrew/Monkey/10066885.jpg</thumbnail>
+		<title>Defense Blaster Adventure</title>
+		<creator>Sincere Andrew Monkey</creator>
+		<relatedgames />
+	</game>
+	<game id="17163650" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/27/2012">
+		<thumbnail>/gamecreators/images2/Quantum/Tanner/Skeleton/17163650.jpg</thumbnail>
+		<title>Galaxy Alien Spark</title>
+		<creator>Quantum Tanner Skeleton</creator>
+		<relatedgames />
+	</game>
+	<game id="17381279" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>/gamecreators/images2/Elegant/Mac/Unicycle/17381279.jpg</thumbnail>
+		<title>Vilgax Plumber Racer</title>
+		<creator>Elegant Mac Unicycle</creator>
+		<relatedgames />
+	</game>
+	<game id="10953409" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Spooky/Zeb/Gargoyle/10953409.jpg</thumbnail>
+		<title>Mission Ultimate Pursuit</title>
+		<creator>Spooky Zeb Gargoyle</creator>
+		<relatedgames />
+	</game>
+	<game id="10922876" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Weird/Zelda/Pulse/10922876.jpg</thumbnail>
+		<title>Plasma Ambush Storm</title>
+		<creator>Weird Zelda Pulse</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10927078" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Spectral/Tommy/Hologram/10927078.jpg</thumbnail>
+		<title>Stone Hex Metal</title>
+		<creator>Spectral Tommy Hologram</creator>
+		<relatedgames />
+	</game>
+	<game id="10937548" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Alien/Haley/Jamboree/10937548.jpg</thumbnail>
+		<title>Rocket Techno Sonic</title>
+		<creator>Alien Haley Jamboree</creator>
+		<relatedgames />
+	</game>
+	<game id="10031707" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Wondrous/Grace/Fizz/10031707.jpg</thumbnail>
+		<title>Lightning Burst Solar</title>
+		<creator>Wondrous Grace Fizz</creator>
+		<relatedgames />
+	</game>
+	<game id="10647540" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Proper/Ben/Popcorn/10647540.jpg</thumbnail>
+		<title>Blaster Robot Universe</title>
+		<creator>Proper Ben Popcorn</creator>
+		<relatedgames />
+	</game>
+	<game id="10953294" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Surreal/William/Fuzz/10953294.jpg</thumbnail>
+		<title>Smash Shadow Crusher</title>
+		<creator>Surreal William Fuzz</creator>
+		<relatedgames />
+	</game>
+	<game id="10953441" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Comical/Jenna/Funk/10953441.jpg</thumbnail>
+		<title>Attack Hyper Lightning</title>
+		<creator>Comical Jenna Funk</creator>
+		<relatedgames />
+	</game>
+	<game id="10046166" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Funny/Chris/Pinwheel/10046166.jpg</thumbnail>
+		<title>Slam Danger Light</title>
+		<creator>Funny Chris Pinwheel</creator>
+		<relatedgames />
+	</game>
+	<game id="10921591" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Majestic/Mario/Sawtooth/10921591.jpg</thumbnail>
+		<title>Dark Adventure Drone</title>
+		<creator>Majestic Mario Sawtooth</creator>
+		<relatedgames />
+	</game>
+	<game id="17383531" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Princess/Melanie/Penguin/17383531.jpg</thumbnail>
+		<title>Battle Chill Search</title>
+		<creator>Princess Melanie Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="17400211" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/07/2012">
+		<thumbnail>/gamecreators/images2/Elegant/George/Doodad/17400211.jpg</thumbnail>
+		<title>Rush Ultra Hero</title>
+		<creator>Elegant George Doodad</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

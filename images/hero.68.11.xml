@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17328807" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Flying/Ellen/Banjo/17328807.jpg</thumbnail>
+		<title>Light Energy Racer</title>
+		<creator>Flying Ellen Banjo</creator>
+		<relatedgames />
+	</game>
+	<game id="17338199" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Loud/Connor/Monster/17338199.jpg</thumbnail>
+		<title>Racer Adventure Adventure</title>
+		<creator>Loud Connor Monster</creator>
+		<relatedgames />
+	</game>
+	<game id="16871238" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>/gamecreators/images2/Aerobic/Larry/Mango/16871238.jpg</thumbnail>
+		<title>Target Robot Fire</title>
+		<creator>Aerobic Larry Mango</creator>
+		<relatedgames />
+	</game>
+	<game id="10951678" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Musical/Perseus/Elephant/10951678.jpg</thumbnail>
+		<title>Magno Iron Laser</title>
+		<creator>Musical Perseus Elephant</creator>
+		<relatedgames />
+	</game>
+	<game id="17179810" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>/gamecreators/images2/Extreme/Alan/Avocado/17179810.jpg</thumbnail>
+		<title>Cosmic Beast Quake</title>
+		<creator>Extreme Alan Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="17383215" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Ironic/DJ/Giraffe/17383215.jpg</thumbnail>
+		<title>Force Techno Blaster</title>
+		<creator>Ironic DJ Giraffe</creator>
+		<relatedgames />
+	</game>
+	<game id="10916687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Felix/Pontoon/10916687.jpg</thumbnail>
+		<title>Alien Metal Rock</title>
+		<creator>Tricky Felix Pontoon</creator>
+		<relatedgames />
+	</game>
+	<game id="10930482" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Noble/Tyler/Hogwash/10930482.jpg</thumbnail>
+		<title>Doom Pulse Fusion</title>
+		<creator>Noble Tyler Hogwash</creator>
+		<relatedgames />
+	</game>
+	<game id="10055807" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Sneaky/Jackie/Dodo/10055807.jpg</thumbnail>
+		<title>Power Power Pursuit</title>
+		<creator>Sneaky Jackie Dodo</creator>
+		<relatedgames />
+	</game>
+	<game id="10946286" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Adorable/Benjamin/Robot/10946286.jpg</thumbnail>
+		<title>Fire Fire Robot</title>
+		<creator>Adorable Benjamin Robot</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

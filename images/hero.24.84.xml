@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17323636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Drowzy/Yancy/Porridge/17323636.jpg</thumbnail>
+		<title>Rocket Hex Drone</title>
+		<creator>Drowzy Yancy Porridge</creator>
+		<relatedgames />
+	</game>
+	<game id="10923111" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Colorful/Cody/Crash/10923111.jpg</thumbnail>
+		<title>Shock Light Light</title>
+		<creator>Colorful Cody Crash</creator>
+		<relatedgames />
+	</game>
+	<game id="17419559" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Friendly/Felix/Dodo/17419559.jpg</thumbnail>
+		<title>Stone Hero Laser</title>
+		<creator>Friendly Felix Dodo</creator>
+		<relatedgames />
+	</game>
+	<game id="10038852" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Magnetic/Alan/Blubber/10038852.jpg</thumbnail>
+		<title>Shock Spark Invasion</title>
+		<creator>Magnetic Alan Blubber</creator>
+		<relatedgames />
+	</game>
+	<game id="10949399" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Brainy/Iris/Parallax/10949399.jpg</thumbnail>
+		<title>Chase Crusher Turbo</title>
+		<creator>Brainy Iris Parallax</creator>
+		<relatedgames />
+	</game>
+	<game id="17009487" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/09/2012">
+		<thumbnail>/gamecreators/images2/Expert/Hailey/Knight/17009487.jpg</thumbnail>
+		<title>Rock Drone Nova</title>
+		<creator>Expert Hailey Knight</creator>
+		<relatedgames />
+	</game>
+	<game id="17541055" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Infinite/Bill/Scimitar/17541055.jpg</thumbnail>
+		<title>Invasion Titan Adventure</title>
+		<creator>Infinite Bill Scimitar</creator>
+		<relatedgames />
+	</game>
+	<game id="10923812" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Noble/Bruce/Barnacle/10923812.jpg</thumbnail>
+		<title>Racer Atomic Rocket</title>
+		<creator>Noble Bruce Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="10952734" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Jumping/Billy/Vittles/10952734.jpg</thumbnail>
+		<title>Shock Rocket Mission</title>
+		<creator>Jumping Billy Vittles</creator>
+		<relatedgames />
+	</game>
+	<game id="17361579" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Waldo/Firefly/17361579.jpg</thumbnail>
+		<title>Cosmic Adventure Sonic</title>
+		<creator>Ultimate Waldo Firefly</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

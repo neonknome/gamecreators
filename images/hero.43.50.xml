@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17417687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Stormy/Mordecai/Vulture/17417687.jpg</thumbnail>
+		<title>Invasion Ultra Lightning</title>
+		<creator>Stormy Mordecai Vulture</creator>
+		<relatedgames />
+	</game>
+	<game id="17335491" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Scurvy/Payton/Pelican/17335491.jpg</thumbnail>
+		<title>Plasma Magno Space</title>
+		<creator>Scurvy Payton Pelican</creator>
+		<relatedgames />
+	</game>
+	<game id="10017418" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Awesome/Travis/Kangaroo/10017418.jpg</thumbnail>
+		<title>Hyper Humongousaur Force</title>
+		<creator>Awesome Travis Kangaroo</creator>
+		<relatedgames />
+	</game>
+	<game id="10929624" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dynamic/Clyde/Fondue/10929624.jpg</thumbnail>
+		<title>Ben Ben Ben</title>
+		<creator>Dynamic Clyde Fondue</creator>
+		<relatedgames />
+	</game>
+	<game id="10953659" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Hefty/Brandy/Turtle/10953659.jpg</thumbnail>
+		<title>Clash Iron Rescue</title>
+		<creator>Hefty Brandy Turtle</creator>
+		<relatedgames />
+	</game>
+	<game id="17554096" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Frugal/Emmett/Rhombus/17554096.jpg</thumbnail>
+		<title>Robot Challenge Vilgax</title>
+		<creator>Frugal Emmett Rhombus</creator>
+		<relatedgames />
+	</game>
+	<game id="17333051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Daring/Ricardo/Tiger/17333051.jpg</thumbnail>
+		<title>Chill Dark Sonic</title>
+		<creator>Daring Ricardo Tiger</creator>
+		<relatedgames />
+	</game>
+	<game id="17585367" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Keen/Isaiah/Phoenix/17585367.jpg</thumbnail>
+		<title>Energy Giga Dark</title>
+		<creator>Keen Isaiah Phoenix</creator>
+		<relatedgames />
+	</game>
+	<game id="10919825" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Red/Bruce/Ooze/10919825.jpg</thumbnail>
+		<title>Space Turbo Solar</title>
+		<creator>Red Bruce Ooze</creator>
+		<relatedgames />
+	</game>
+	<game id="17584078" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Unusual/Krystal/Jupiter/17584078.jpg</thumbnail>
+		<title>Rustbucket Pursuit Rampage</title>
+		<creator>Unusual Krystal Jupiter</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

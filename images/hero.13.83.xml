@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10038105" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Swift/Breanna/Blitz/10038105.jpg</thumbnail>
+		<title>Doom Plumber Shadow</title>
+		<creator>Swift Breanna Blitz</creator>
+		<relatedgames />
+	</game>
+	<game id="17326120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Abstract/Hector/Dragoon/17326120.jpg</thumbnail>
+		<title>Giga Turbo Space</title>
+		<creator>Abstract Hector Dragoon</creator>
+		<relatedgames />
+	</game>
+	<game id="10952398" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Comical/Ray/Worm/10952398.jpg</thumbnail>
+		<title>Hyper Shock Mission</title>
+		<creator>Comical Ray Worm</creator>
+		<relatedgames />
+	</game>
+	<game id="17378888" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Major/Alan/Cartoon/17378888.jpg</thumbnail>
+		<title>Ultra Laser Battle</title>
+		<creator>Major Alan Cartoon</creator>
+		<relatedgames />
+	</game>
+	<game id="17100222" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/07/2012">
+		<thumbnail>/gamecreators/images2/Profound/Paula/Turtle/17100222.jpg</thumbnail>
+		<title>Rescue Fusion Metal</title>
+		<creator>Profound Paula Turtle</creator>
+		<relatedgames />
+	</game>
+	<game id="10069150" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Comical/Cheyenne/Unicycle/10069150.jpg</thumbnail>
+		<title>Shock Stone Pulse</title>
+		<creator>Comical Cheyenne Unicycle</creator>
+		<relatedgames />
+	</game>
+	<game id="10918129" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Towering/Joshua/Popcorn/10918129.jpg</thumbnail>
+		<title>Drone Streak Ultra</title>
+		<creator>Towering Joshua Popcorn</creator>
+		<relatedgames />
+	</game>
+	<game id="17579668" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Crazy/John/Gamer/17579668.jpg</thumbnail>
+		<title>Feedback Ultra Adventure</title>
+		<creator>Crazy John Gamer</creator>
+		<relatedgames />
+	</game>
+	<game id="17377907" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Ghastly/Roy/Shock/17377907.jpg</thumbnail>
+		<title>Alien Breaker Burst</title>
+		<creator>Ghastly Roy Shock</creator>
+		<relatedgames />
+	</game>
+	<game id="17359735" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>/gamecreators/images2/Silly/Franklin/Foghorn/17359735.jpg</thumbnail>
+		<title>Power Mega Techno</title>
+		<creator>Silly Franklin Foghorn</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

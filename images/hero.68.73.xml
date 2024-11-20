@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17381078" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>/gamecreators/images2/Toxic/Xavier/Oyster/17381078.jpg</thumbnail>
+		<title>Rumble Nano Nova</title>
+		<creator>Toxic Xavier Oyster</creator>
+		<relatedgames />
+	</game>
+	<game id="10936939" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Bizarre/Ace/Warthog/10936939.jpg</thumbnail>
+		<title>Fusion Vilgax Galaxy</title>
+		<creator>Bizarre Ace Warthog</creator>
+		<relatedgames />
+	</game>
+	<game id="17276373" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>/gamecreators/images2/Snazzy/Madison/Sword/17276373.jpg</thumbnail>
+		<title>Danger Metal Crusher</title>
+		<creator>Snazzy Madison Sword</creator>
+		<relatedgames />
+	</game>
+	<game id="17340123" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/15/2012">
+		<thumbnail>/gamecreators/images2/Admiral/Joshua/Tuxedo/17340123.jpg</thumbnail>
+		<title>Power Shock Smash</title>
+		<creator>Admiral Joshua Tuxedo</creator>
+		<relatedgames />
+	</game>
+	<game id="17416299" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Creative/Mario/Noodle/17416299.jpg</thumbnail>
+		<title>Alien Droid Escape</title>
+		<creator>Creative Mario Noodle</creator>
+		<relatedgames />
+	</game>
+	<game id="10654995" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2009">
+		<thumbnail>/gamecreators/images2/Brainy/Nicholas/Chimera/10654995.jpg</thumbnail>
+		<title>Solar Invasion Rush</title>
+		<creator>Brainy Nicholas Chimera</creator>
+		<relatedgames />
+	</game>
+	<game id="10916705" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Infinite/Jill/Thorax/10916705.jpg</thumbnail>
+		<title>Rumble Challenge Slam</title>
+		<creator>Infinite Jill Thorax</creator>
+		<relatedgames />
+	</game>
+	<game id="17417580" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Queen/Alyssa/Javelin/17417580.jpg</thumbnail>
+		<title>Search Techno Animo</title>
+		<creator>Queen Alyssa Javelin</creator>
+		<relatedgames />
+	</game>
+	<game id="10929567" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Noble/Chelsea/Crowbar/10929567.jpg</thumbnail>
+		<title>Swampfire Warrior Fury</title>
+		<creator>Noble Chelsea Crowbar</creator>
+		<relatedgames />
+	</game>
+	<game id="17387267" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Active/Yvette/Mackerel/17387267.jpg</thumbnail>
+		<title>Challenge Star Champion</title>
+		<creator>Active Yvette Mackerel</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

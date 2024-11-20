@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17179172" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>/gamecreators/images2/Amusing/Ray/Snake/17179172.jpg</thumbnail>
+		<title>Mega Titan Nova</title>
+		<creator>Amusing Ray Snake</creator>
+		<relatedgames />
+	</game>
+	<game id="17364767" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>/gamecreators/images2/Daring/Naomi/Squeegee/17364767.jpg</thumbnail>
+		<title>Burst Rush Star</title>
+		<creator>Daring Naomi Squeegee</creator>
+		<relatedgames />
+	</game>
+	<game id="17264863" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Green/Alan/Safari/17264863.jpg</thumbnail>
+		<title>Giga Doom Drone</title>
+		<creator>Green Alan Safari</creator>
+		<relatedgames />
+	</game>
+	<game id="10917851" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Red/Antonio/Spider/10917851.jpg</thumbnail>
+		<title>Nitro Fire Lightning</title>
+		<creator>Red Antonio Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="16875554" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/02/2012">
+		<thumbnail>/gamecreators/images2/Spirited/Raymond/Moonbeam/16875554.jpg</thumbnail>
+		<title>Alien Adventure Assault</title>
+		<creator>Spirited Raymond Moonbeam</creator>
+		<relatedgames />
+	</game>
+	<game id="17419128" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Amazing/Aaron/Macaroni/17419128.jpg</thumbnail>
+		<title>Energy Smash Spike</title>
+		<creator>Amazing Aaron Macaroni</creator>
+		<relatedgames />
+	</game>
+	<game id="10952790" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Fearsome/Adam/Magma/10952790.jpg</thumbnail>
+		<title>Nitro Alien Smash</title>
+		<creator>Fearsome Adam Magma</creator>
+		<relatedgames />
+	</game>
+	<game id="17151478" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/23/2012">
+		<thumbnail>/gamecreators/images2/Devious/Paula/Magma/17151478.jpg</thumbnail>
+		<title>Jetray Alien Force</title>
+		<creator>Devious Paula Magma</creator>
+		<relatedgames />
+	</game>
+	<game id="17415556" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Grubby/Holly/Bayou/17415556.jpg</thumbnail>
+		<title>Shadow Beast Space</title>
+		<creator>Grubby Holly Bayou</creator>
+		<relatedgames />
+	</game>
+	<game id="10039310" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Absurd/Leonardo/Ladybug/10039310.jpg</thumbnail>
+		<title>Rescue Mission Assault</title>
+		<creator>Absurd Leonardo Ladybug</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

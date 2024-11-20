@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16870844" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>/gamecreators/images2/Eerie/Ava/Centaur/16870844.jpg</thumbnail>
+		<title>Iron Adventure Rescue</title>
+		<creator>Eerie Ava Centaur</creator>
+		<relatedgames />
+	</game>
+	<game id="10921238" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Honest/Wesley/Monster/10921238.jpg</thumbnail>
+		<title>Fire Hero Plasma</title>
+		<creator>Honest Wesley Monster</creator>
+		<relatedgames />
+	</game>
+	<game id="17584644" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Plucky/Romeo/Aviator/17584644.jpg</thumbnail>
+		<title>Big Chill Power</title>
+		<creator>Plucky Romeo Aviator</creator>
+		<relatedgames />
+	</game>
+	<game id="10925587" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Massive/Kristin/Pulse/10925587.jpg</thumbnail>
+		<title>Champion Challenge Magno</title>
+		<creator>Massive Kristin Pulse</creator>
+		<relatedgames />
+	</game>
+	<game id="17314558" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>/gamecreators/images2/Yelping/Albert/Anvil/17314558.jpg</thumbnail>
+		<title>Slam Patrol Slam</title>
+		<creator>Yelping Albert Anvil</creator>
+		<relatedgames />
+	</game>
+	<game id="10925875" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Swift/Shelby/Ninja/10925875.jpg</thumbnail>
+		<title>Mega Attack Swampfire</title>
+		<creator>Swift Shelby Ninja</creator>
+		<relatedgames />
+	</game>
+	<game id="17277858" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Baffling/Michelle/Shinobi/17277858.jpg</thumbnail>
+		<title>Mega Water Nitro</title>
+		<creator>Baffling Michelle Shinobi</creator>
+		<relatedgames />
+	</game>
+	<game id="10953046" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Alien/Henry/Quasar/10953046.jpg</thumbnail>
+		<title>Universe Adventure Ultra</title>
+		<creator>Alien Henry Quasar</creator>
+		<relatedgames />
+	</game>
+	<game id="17218382" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>/gamecreators/images2/Roaring/Zelda/Monster/17218382.jpg</thumbnail>
+		<title>Hyper Galaxy Clash</title>
+		<creator>Roaring Zelda Monster</creator>
+		<relatedgames />
+	</game>
+	<game id="10942635" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Fanciful/Brianna/Beeswax/10942635.jpg</thumbnail>
+		<title>Smash Droid Cosmic</title>
+		<creator>Fanciful Brianna Beeswax</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

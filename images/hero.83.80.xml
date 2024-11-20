@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10923045" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Twisty/Mario/Barnacle/10923045.jpg</thumbnail>
+		<title>Sonic Adventure Adventure</title>
+		<creator>Twisty Mario Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="17408872" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>/gamecreators/images2/Cunning/Samuel/Calypso/17408872.jpg</thumbnail>
+		<title>Champion Defense Warrior</title>
+		<creator>Cunning Samuel Calypso</creator>
+		<relatedgames />
+	</game>
+	<game id="10942820" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Itchy/Wilbur/Moonbeam/10942820.jpg</thumbnail>
+		<title>Swampfire Invasion Nano</title>
+		<creator>Itchy Wilbur Moonbeam</creator>
+		<relatedgames />
+	</game>
+	<game id="10932493" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Radiant/Bucky/Cosmos/10932493.jpg</thumbnail>
+		<title>Titan Warrior Pursuit</title>
+		<creator>Radiant Bucky Cosmos</creator>
+		<relatedgames />
+	</game>
+	<game id="10922617" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Twisty/Donald/Magma/10922617.jpg</thumbnail>
+		<title>Galaxy Rampage Dark</title>
+		<creator>Twisty Donald Magma</creator>
+		<relatedgames />
+	</game>
+	<game id="10949434" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Crunchy/Angel/Goblin/10949434.jpg</thumbnail>
+		<title>Burst Target Space</title>
+		<creator>Crunchy Angel Goblin</creator>
+		<relatedgames />
+	</game>
+	<game id="10952564" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Gloomy/Harry/Bolt/10952564.jpg</thumbnail>
+		<title>Rocket Drone Adventure</title>
+		<creator>Gloomy Harry Bolt</creator>
+		<relatedgames />
+	</game>
+	<game id="16975496" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Quiet/Alex/Wolf/16975496.jpg</thumbnail>
+		<title>Dark Nano Power</title>
+		<creator>Quiet Alex Wolf</creator>
+		<relatedgames />
+	</game>
+	<game id="10952750" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Zippy/Destiny/Dragon/10952750.jpg</thumbnail>
+		<title>Warp Energy Star</title>
+		<creator>Zippy Destiny Dragon</creator>
+		<relatedgames />
+	</game>
+	<game id="17176419" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/30/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Ramona/Bramble/17176419.jpg</thumbnail>
+		<title>Steel Dark Adventure</title>
+		<creator>Magnetic Ramona Bramble</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

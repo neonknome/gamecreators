@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10953524" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Grimy/Zeke/Monkey/10953524.jpg</thumbnail>
+		<title>Ultimate Fury Force</title>
+		<creator>Grimy Zeke Monkey</creator>
+		<relatedgames />
+	</game>
+	<game id="10936424" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Nomadic/Zeb/Gong/10936424.jpg</thumbnail>
+		<title>Alien Invasion Warrior</title>
+		<creator>Nomadic Zeb Gong</creator>
+		<relatedgames />
+	</game>
+	<game id="16928645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/14/2012">
+		<thumbnail>/gamecreators/images2/Spectral/Angel/Fang/16928645.jpg</thumbnail>
+		<title>Racer Adventure Storm</title>
+		<creator>Spectral Angel Fang</creator>
+		<relatedgames />
+	</game>
+	<game id="10938061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Lively/Felix/Cipher/10938061.jpg</thumbnail>
+		<title>Racer Universe Sonic</title>
+		<creator>Lively Felix Cipher</creator>
+		<relatedgames />
+	</game>
+	<game id="17400821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>/gamecreators/images2/Venomous/Buster/Tarragon/17400821.jpg</thumbnail>
+		<title>Giga Techno Big</title>
+		<creator>Venomous Buster Tarragon</creator>
+		<relatedgames />
+	</game>
+	<game id="10924653" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Elegant/Salvador/Volcano/10924653.jpg</thumbnail>
+		<title>Swampfire Fury Adventure</title>
+		<creator>Elegant Salvador Volcano</creator>
+		<relatedgames />
+	</game>
+	<game id="10920299" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Silly/Gladys/Beeswax/10920299.jpg</thumbnail>
+		<title>Warrior Swampfire Mission</title>
+		<creator>Silly Gladys Beeswax</creator>
+		<relatedgames />
+	</game>
+	<game id="17387003" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Baroness/Bradley/Jungle/17387003.jpg</thumbnail>
+		<title>Alien Adventure Challenge</title>
+		<creator>Baroness Bradley Jungle</creator>
+		<relatedgames />
+	</game>
+	<game id="17392924" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Elegant/Benson/Shinobi/17392924.jpg</thumbnail>
+		<title>Solar Search Warp</title>
+		<creator>Elegant Benson Shinobi</creator>
+		<relatedgames />
+	</game>
+	<game id="17376106" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2012">
+		<thumbnail>/gamecreators/images2/Humble/Ace/Ooze/17376106.jpg</thumbnail>
+		<title>Shock Alien Spike</title>
+		<creator>Humble Ace Ooze</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

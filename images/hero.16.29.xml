@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10655860" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2009">
+		<thumbnail>/gamecreators/images2/Hideous/Donald/Popcorn/10655860.jpg</thumbnail>
+		<title>Ultra Plumber Battle</title>
+		<creator>Hideous Donald Popcorn</creator>
+		<relatedgames />
+	</game>
+	<game id="17358771" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>/gamecreators/images2/Peppy/Elmer/Wyvern/17358771.jpg</thumbnail>
+		<title>Burst Whirlwind Vilgax</title>
+		<creator>Peppy Elmer Wyvern</creator>
+		<relatedgames />
+	</game>
+	<game id="10917011" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Stout/Wilbur/Oddball/10917011.jpg</thumbnail>
+		<title>Fire Alien Sonic</title>
+		<creator>Stout Wilbur Oddball</creator>
+		<relatedgames />
+	</game>
+	<game id="10930210" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Witty/Bert/Parsec/10930210.jpg</thumbnail>
+		<title>Rush Turbo Assault</title>
+		<creator>Witty Bert Parsec</creator>
+		<relatedgames />
+	</game>
+	<game id="10922511" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Cheerful/Morgan/Charger/10922511.jpg</thumbnail>
+		<title>Space Ultra Plumber</title>
+		<creator>Cheerful Morgan Charger</creator>
+		<relatedgames />
+	</game>
+	<game id="16947799" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>/gamecreators/images2/Flying/Eugene/Squid/16947799.jpg</thumbnail>
+		<title>Techno Shock Ambush</title>
+		<creator>Flying Eugene Squid</creator>
+		<relatedgames />
+	</game>
+	<game id="10043458" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Southern/Duncan/Virtuoso/10043458.jpg</thumbnail>
+		<title>Ben Alien Mission</title>
+		<creator>Southern Duncan Virtuoso</creator>
+		<relatedgames />
+	</game>
+	<game id="17411125" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/13/2012">
+		<thumbnail>/gamecreators/images2/Extreme/Chuck/Pirate/17411125.jpg</thumbnail>
+		<title>Whirlwind Chase Big</title>
+		<creator>Extreme Chuck Pirate</creator>
+		<relatedgames />
+	</game>
+	<game id="17337249" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Ironic/Ghoul/17337249.jpg</thumbnail>
+		<title>Ultimate Cannonbolt Assault</title>
+		<creator>Ironic Ghoul</creator>
+		<relatedgames />
+	</game>
+	<game id="10951422" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Green/Grace/Manatee/10951422.jpg</thumbnail>
+		<title>Adventure Alien Droid</title>
+		<creator>Green Grace Manatee</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

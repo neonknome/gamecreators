@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10924317" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Daring/Kaitlyn/Ketchup/10924317.jpg</thumbnail>
+		<title>Assault Droid Rustbucket</title>
+		<creator>Daring Kaitlyn Ketchup</creator>
+		<relatedgames />
+	</game>
+	<game id="17326873" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Grand/Tex/Gator/17326873.jpg</thumbnail>
+		<title>Droid Quake Light</title>
+		<creator>Grand Tex Gator</creator>
+		<relatedgames />
+	</game>
+	<game id="10920878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Noble/Erin/Wiffle/10920878.jpg</thumbnail>
+		<title>Fury Droid Pursuit</title>
+		<creator>Noble Erin Wiffle</creator>
+		<relatedgames />
+	</game>
+	<game id="10948032" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Feisty/Bailey/Skylark/10948032.jpg</thumbnail>
+		<title>Smash Shock Atomic</title>
+		<creator>Feisty Bailey Skylark</creator>
+		<relatedgames />
+	</game>
+	<game id="17252572" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/22/2012">
+		<thumbnail>/gamecreators/images2/Spicy/Lorenzo/Venom/17252572.jpg</thumbnail>
+		<title>Quake Atomic Force</title>
+		<creator>Spicy Lorenzo Venom</creator>
+		<relatedgames />
+	</game>
+	<game id="10929472" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Alien/Shannon/Robot/10929472.jpg</thumbnail>
+		<title>Invasion Vilgax Galaxy</title>
+		<creator>Alien Shannon Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="10935329" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Burly/Crystal/Fritter/10935329.jpg</thumbnail>
+		<title>Shadow Champion Invasion</title>
+		<creator>Burly Crystal Fritter</creator>
+		<relatedgames />
+	</game>
+	<game id="10646812" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Fearless/Julian/Sizzle/10646812.jpg</thumbnail>
+		<title>Pursuit Rumble Warrior</title>
+		<creator>Fearless Julian Sizzle</creator>
+		<relatedgames />
+	</game>
+	<game id="10786380" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>/gamecreators/images2/Joyous/Logan/Spiral/10786380.jpg</thumbnail>
+		<title>Slam Steel Earth</title>
+		<creator>Joyous Logan Spiral</creator>
+		<relatedgames />
+	</game>
+	<game id="17336082" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Grubby/Clyde/Glop/17336082.jpg</thumbnail>
+		<title>Big Turbo Rush</title>
+		<creator>Grubby Clyde Glop</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10927274" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Handsome/Noah/Penguin/10927274.jpg</thumbnail>
+		<title>Turbo Assault Burst</title>
+		<creator>Handsome Noah Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="10952683" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Obvious/Megan/Octopus/10952683.jpg</thumbnail>
+		<title>Charge Space Universe</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames />
+	</game>
+	<game id="17017625" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>/gamecreators/images2/Strong/Ben/Glop/17017625.jpg</thumbnail>
+		<title>Quake Rush Target</title>
+		<creator>Strong Ben Glop</creator>
+		<relatedgames />
+	</game>
+	<game id="10058669" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Atomic/Diana/Zeppelin/10058669.jpg</thumbnail>
+		<title>Rampage Adventure Beast</title>
+		<creator>Atomic Diana Zeppelin</creator>
+		<relatedgames />
+	</game>
+	<game id="10055468" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Chilly/Hank/Quack/10055468.jpg</thumbnail>
+		<title>Assault Rampage Solar</title>
+		<creator>Chilly Hank Quack</creator>
+		<relatedgames />
+	</game>
+	<game id="10950440" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Loyal/Becky/Fury/10950440.jpg</thumbnail>
+		<title>Rocket Battle Beast</title>
+		<creator>Loyal Becky Fury</creator>
+		<relatedgames />
+	</game>
+	<game id="17218057" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>/gamecreators/images2/Enormous/Quincy/Yak/17218057.jpg</thumbnail>
+		<title>Chill Animo Iron</title>
+		<creator>Enormous Quincy Yak</creator>
+		<relatedgames />
+	</game>
+	<game id="10953238" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Alien/Bob/Virtuoso/10953238.jpg</thumbnail>
+		<title>Assault Siege Fury</title>
+		<creator>Alien Bob Virtuoso</creator>
+		<relatedgames />
+	</game>
+	<game id="17303802" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Cunning/Ian/Burst/17303802.jpg</thumbnail>
+		<title>Storm Assault Iron</title>
+		<creator>Cunning Ian Burst</creator>
+		<relatedgames />
+	</game>
+	<game id="10039390" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Glorious/Gulliver/Gorilla/10039390.jpg</thumbnail>
+		<title>Solar Storm Hero</title>
+		<creator>Glorious Gulliver Gorilla</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

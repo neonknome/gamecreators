@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10649584" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Red/Rudolph/Spider/10649584.jpg</thumbnail>
+		<title>Pursuit Alien Attack</title>
+		<creator>Red Rudolph Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="10044170" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Happy/Bernard/Banjo/10044170.jpg</thumbnail>
+		<title>Mission Stone Pursuit</title>
+		<creator>Happy Bernard Banjo</creator>
+		<relatedgames />
+	</game>
+	<game id="16930985" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/14/2012">
+		<thumbnail>/gamecreators/images2/Splendid/Simon/Sardine/16930985.jpg</thumbnail>
+		<title>Shock Charge Rocket</title>
+		<creator>Splendid Simon Sardine</creator>
+		<relatedgames />
+	</game>
+	<game id="17107636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/09/2012">
+		<thumbnail>/gamecreators/images2/Ancient/Sean/Pizza/17107636.jpg</thumbnail>
+		<title>Metal Doom Escape</title>
+		<creator>Ancient Sean Pizza</creator>
+		<relatedgames />
+	</game>
+	<game id="10936585" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Rugged/Dakota/Doodle/10936585.jpg</thumbnail>
+		<title>Robot Rumble Rampage</title>
+		<creator>Rugged Dakota Doodle</creator>
+		<relatedgames />
+	</game>
+	<game id="10028568" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Atomic/Harvey/Aardvark/10028568.jpg</thumbnail>
+		<title>Fire Spike Search</title>
+		<creator>Atomic Harvey Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="10950848" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Dramatic/Gladys/Turbo/10950848.jpg</thumbnail>
+		<title>Mega Rescue Thunder</title>
+		<creator>Dramatic Gladys Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="10928370" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Handsome/Jeffrey/Aardvark/10928370.jpg</thumbnail>
+		<title>Blaster Slam Razor</title>
+		<creator>Handsome Jeffrey Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="10952604" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Obvious/Megan/Octopus/10952604.jpg</thumbnail>
+		<title>Escape Thunder Defense</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames />
+	</game>
+	<game id="10918912" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Strange/Daniel/Squid/10918912.jpg</thumbnail>
+		<title>Doom Chase Space</title>
+		<creator>Strange Daniel Squid</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

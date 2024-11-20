@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17552388" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Drowzy/Finn/Fishbowl/17552388.jpg</thumbnail>
+		<title>Omniverse Cosmic Adventure</title>
+		<creator>Drowzy Finn Fishbowl</creator>
+		<relatedgames />
+	</game>
+	<game id="17283609" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Haunted/Andre/Tarragon/17283609.jpg</thumbnail>
+		<title>Iron Assault Challenge</title>
+		<creator>Haunted Andre Tarragon</creator>
+		<relatedgames />
+	</game>
+	<game id="10843570" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2009">
+		<thumbnail>/gamecreators/images2/Freaky/Savannah/Oddball/10843570.jpg</thumbnail>
+		<title>Rampage Earth Fusion</title>
+		<creator>Freaky Savannah Oddball</creator>
+		<relatedgames />
+	</game>
+	<game id="17293144" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>/gamecreators/images2/Savage/Erika/Tsunami/17293144.jpg</thumbnail>
+		<title>Titan Charge Quake</title>
+		<creator>Savage Erika Tsunami</creator>
+		<relatedgames />
+	</game>
+	<game id="10920338" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Stylish/Harvey/Universe/10920338.jpg</thumbnail>
+		<title>Spark Magno Racer</title>
+		<creator>Stylish Harvey Universe</creator>
+		<relatedgames />
+	</game>
+	<game id="10921871" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Atomic/Vanessa/Zip/10921871.jpg</thumbnail>
+		<title>Shadow Power Hyper</title>
+		<creator>Atomic Vanessa Zip</creator>
+		<relatedgames />
+	</game>
+	<game id="10942680" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Shiny/Nicole/Zing/10942680.jpg</thumbnail>
+		<title>Swampfire Clash Charge</title>
+		<creator>Shiny Nicole Zing</creator>
+		<relatedgames />
+	</game>
+	<game id="10647546" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Zany/Alan/Cipher/10647546.jpg</thumbnail>
+		<title>Rocket Attack Ambush</title>
+		<creator>Zany Alan Cipher</creator>
+		<relatedgames />
+	</game>
+	<game id="10917016" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Baffling/Thomas/Zombie/10917016.jpg</thumbnail>
+		<title>Rampage Cosmic Swampfire</title>
+		<creator>Baffling Thomas Zombie</creator>
+		<relatedgames />
+	</game>
+	<game id="17159498" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/25/2012">
+		<thumbnail>/gamecreators/images2/Eastern/Grover/Bagpipe/17159498.jpg</thumbnail>
+		<title>Adventure Champion Cosmic</title>
+		<creator>Eastern Grover Bagpipe</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

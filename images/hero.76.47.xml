@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17332957" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Tiffany/Tugboat/17332957.jpg</thumbnail>
+		<title>Breaker Siege Mega</title>
+		<creator>Magnetic Tiffany Tugboat</creator>
+		<relatedgames />
+	</game>
+	<game id="10927670" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wise/Chris/Boing/10927670.jpg</thumbnail>
+		<title>Invasion Ultimate Pursuit</title>
+		<creator>Wise Chris Boing</creator>
+		<relatedgames />
+	</game>
+	<game id="17358951" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>/gamecreators/images2/Duke/Ian/Twilight/17358951.jpg</thumbnail>
+		<title>Metal Smash Robot</title>
+		<creator>Duke Ian Twilight</creator>
+		<relatedgames />
+	</game>
+	<game id="17345037" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>/gamecreators/images2/Colossal/Arthur/Cyborg/17345037.jpg</thumbnail>
+		<title>Brainstorm Lightning Charge</title>
+		<creator>Colossal Arthur Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="10919003" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Frosty/Scott/Hambone/10919003.jpg</thumbnail>
+		<title>Danger Plasma Battle</title>
+		<creator>Frosty Scott Hambone</creator>
+		<relatedgames />
+	</game>
+	<game id="17331796" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Evelyn/Brick/17331796.jpg</thumbnail>
+		<title>Ultimate Big Chill</title>
+		<creator>Magnetic Evelyn Brick</creator>
+		<relatedgames />
+	</game>
+	<game id="10952262" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Scary/Kevin/Saber/10952262.jpg</thumbnail>
+		<title>Dark Storm Galaxy</title>
+		<creator>Scary Kevin Saber</creator>
+		<relatedgames />
+	</game>
+	<game id="17328677" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Average/Owen/Monster/17328677.jpg</thumbnail>
+		<title>Razor Space Rampage</title>
+		<creator>Average Owen Monster</creator>
+		<relatedgames />
+	</game>
+	<game id="10918741" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Shrewd/Jonas/Yodel/10918741.jpg</thumbnail>
+		<title>Mega Atomic Nova</title>
+		<creator>Shrewd Jonas Yodel</creator>
+		<relatedgames />
+	</game>
+	<game id="17417708" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Friendly/Felix/Dodo/17417708.jpg</thumbnail>
+		<title>Echo Echo Cannonbolt</title>
+		<creator>Friendly Felix Dodo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

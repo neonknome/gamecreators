@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17179172" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>/gamecreators/images2/Amusing/Ray/Snake/17179172.jpg</thumbnail>
+		<title>Mega Titan Nova</title>
+		<creator>Amusing Ray Snake</creator>
+		<relatedgames />
+	</game>
+	<game id="10935370" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Royal/Kylie/Penguin/10935370.jpg</thumbnail>
+		<title>Rush Rush Mission</title>
+		<creator>Royal Kylie Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="17387464" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Feisty/Michelle/Ketchup/17387464.jpg</thumbnail>
+		<title>Water Droid Defense</title>
+		<creator>Feisty Michelle Ketchup</creator>
+		<relatedgames />
+	</game>
+	<game id="10038692" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Atomic/Caleb/Bonkers/10038692.jpg</thumbnail>
+		<title>Breaker Galaxy Fire</title>
+		<creator>Atomic Caleb Bonkers</creator>
+		<relatedgames />
+	</game>
+	<game id="17584909" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Dizzy/Joshua/Deadbolt/17584909.jpg</thumbnail>
+		<title>Iron Alien Adventure</title>
+		<creator>Dizzy Joshua Deadbolt</creator>
+		<relatedgames />
+	</game>
+	<game id="10039334" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Gruesome/Will/Yodel/10039334.jpg</thumbnail>
+		<title>Steel Stone Titan</title>
+		<creator>Gruesome Will Yodel</creator>
+		<relatedgames />
+	</game>
+	<game id="17011631" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/09/2012">
+		<thumbnail>/gamecreators/images2/Foul/Richard/17011631.jpg</thumbnail>
+		<title>Waterhazard Fire Escape</title>
+		<creator>Foul Richard</creator>
+		<relatedgames />
+	</game>
+	<game id="10953425" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Rowdy/Mario/Pulse/10953425.jpg</thumbnail>
+		<title>Rumble Metal Drone</title>
+		<creator>Rowdy Mario Pulse</creator>
+		<relatedgames />
+	</game>
+	<game id="16835000" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/24/2012">
+		<thumbnail>/gamecreators/images2/Blustery/Zoe/Banshee/16835000.jpg</thumbnail>
+		<title>Energy Adventure Rush</title>
+		<creator>Blustery Zoe Banshee</creator>
+		<relatedgames />
+	</game>
+	<game id="10916821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Crunchy/Miranda/Witch/10916821.jpg</thumbnail>
+		<title>Steel Swampfire Champion</title>
+		<creator>Crunchy Miranda Witch</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

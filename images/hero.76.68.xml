@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17214905" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/12/2012">
+		<thumbnail>/gamecreators/images2/Neutral/Ted/Eggplant/17214905.jpg</thumbnail>
+		<title>Big Warrior Razor</title>
+		<creator>Neutral Ted Eggplant</creator>
+		<relatedgames />
+	</game>
+	<game id="10953354" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Jolly/Bryan/Kook/10953354.jpg</thumbnail>
+		<title>Alien Robot Nitro</title>
+		<creator>Jolly Bryan Kook</creator>
+		<relatedgames />
+	</game>
+	<game id="16893803" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/06/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Andrew/Vulture/16893803.jpg</thumbnail>
+		<title>Nitro Blaster Challenge</title>
+		<creator>Ultimate Andrew Vulture</creator>
+		<relatedgames />
+	</game>
+	<game id="17327375" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Bold/Ginger/Hedgehog/17327375.jpg</thumbnail>
+		<title>Streak Lightning Breaker</title>
+		<creator>Bold Ginger Hedgehog</creator>
+		<relatedgames />
+	</game>
+	<game id="10916797" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Spectral/Thomas/Zigzag/10916797.jpg</thumbnail>
+		<title>Universe Chase Patrol</title>
+		<creator>Spectral Thomas Zigzag</creator>
+		<relatedgames />
+	</game>
+	<game id="10942677" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Strange/Dawn/Iguana/10942677.jpg</thumbnail>
+		<title>Rock Steel Fusion</title>
+		<creator>Strange Dawn Iguana</creator>
+		<relatedgames />
+	</game>
+	<game id="10932922" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Shaggy/Hunter/Behemoth/10932922.jpg</thumbnail>
+		<title>Pursuit Force Ambush</title>
+		<creator>Shaggy Hunter Behemoth</creator>
+		<relatedgames />
+	</game>
+	<game id="10935439" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Awful/Edward/Acrobat/10935439.jpg</thumbnail>
+		<title>Beast Pulse Vilgax</title>
+		<creator>Awful Edward Acrobat</creator>
+		<relatedgames />
+	</game>
+	<game id="10925582" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dynamic/Stacy/Crumpet/10925582.jpg</thumbnail>
+		<title>Adventure Adventure Battle</title>
+		<creator>Dynamic Stacy Crumpet</creator>
+		<relatedgames />
+	</game>
+	<game id="10925728" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Heroic/Will/Barnacle/10925728.jpg</thumbnail>
+		<title>Titan Rampage Swampfire</title>
+		<creator>Heroic Will Barnacle</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

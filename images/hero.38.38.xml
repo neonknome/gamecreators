@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17392032" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Edgy/Cody/Reptile/17392032.jpg</thumbnail>
+		<title>Fusion Burst Force</title>
+		<creator>Edgy Cody Reptile</creator>
+		<relatedgames />
+	</game>
+	<game id="10033502" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Northern/Oscar/Vampire/10033502.jpg</thumbnail>
+		<title>Sonic Attack Quake</title>
+		<creator>Northern Oscar Vampire</creator>
+		<relatedgames />
+	</game>
+	<game id="10919810" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Visible/Leonardo/Python/10919810.jpg</thumbnail>
+		<title>Search Attack Cosmic</title>
+		<creator>Visible Leonardo Python</creator>
+		<relatedgames />
+	</game>
+	<game id="17574763" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Bumbling/Andy/Zinger/17574763.jpg</thumbnail>
+		<title>Drone Rampage Smash</title>
+		<creator>Bumbling Andy Zinger</creator>
+		<relatedgames />
+	</game>
+	<game id="10950341" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Dazzling/Reginald/Igloo/10950341.jpg</thumbnail>
+		<title>Blaster Turbo Storm</title>
+		<creator>Dazzling Reginald Igloo</creator>
+		<relatedgames />
+	</game>
+	<game id="10936068" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fizzy/Kenneth/Cyborg/10936068.jpg</thumbnail>
+		<title>Fire Ambush Assault</title>
+		<creator>Fizzy Kenneth Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="10934659" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Loony/Rick/Lard/10934659.jpg</thumbnail>
+		<title>Adventure Space Force</title>
+		<creator>Loony Rick Lard</creator>
+		<relatedgames />
+	</game>
+	<game id="17312975" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>/gamecreators/images2/Roaring/Douglas/Fuzz/17312975.jpg</thumbnail>
+		<title>Patrol Crusher Stone</title>
+		<creator>Roaring Douglas Fuzz</creator>
+		<relatedgames />
+	</game>
+	<game id="17379648" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>/gamecreators/images2/Vigilant/Hayden/Obelisk/17379648.jpg</thumbnail>
+		<title>Titan Metal Adventure</title>
+		<creator>Vigilant Hayden Obelisk</creator>
+		<relatedgames />
+	</game>
+	<game id="10931879" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Orange/Mario/Cosmos/10931879.jpg</thumbnail>
+		<title>Fire Escape Adventure</title>
+		<creator>Orange Mario Cosmos</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17400901" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>/gamecreators/images2/Flying/Riley/17400901.jpg</thumbnail>
+		<title>Shadow Clash Atomic</title>
+		<creator>Flying Riley</creator>
+		<relatedgames />
+	</game>
+	<game id="10038161" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Dynamic/Matt/Aardvark/10038161.jpg</thumbnail>
+		<title>Warrior Ultra Laser</title>
+		<creator>Dynamic Matt Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="10748430" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2009">
+		<thumbnail>/gamecreators/images2/Heroic/Igor/Barnacle/10748430.jpg</thumbnail>
+		<title>Champion Danger Alien</title>
+		<creator>Heroic Igor Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="10933180" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Funky/Pearl/Zombie/10933180.jpg</thumbnail>
+		<title>Galaxy Titan Breaker</title>
+		<creator>Funky Pearl Zombie</creator>
+		<relatedgames />
+	</game>
+	<game id="17269325" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/27/2012">
+		<thumbnail>/gamecreators/images2/Seismic/Bert/Mercury/17269325.jpg</thumbnail>
+		<title>Star Plumber Thunder</title>
+		<creator>Seismic Bert Mercury</creator>
+		<relatedgames />
+	</game>
+	<game id="10047186" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Awesome/Trevor/Bison/10047186.jpg</thumbnail>
+		<title>Ambush Nitro Alien</title>
+		<creator>Awesome Trevor Bison</creator>
+		<relatedgames />
+	</game>
+	<game id="10650024" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Dynamic/Cody/Bullfrog/10650024.jpg</thumbnail>
+		<title>Universe Adventure Attack</title>
+		<creator>Dynamic Cody Bullfrog</creator>
+		<relatedgames />
+	</game>
+	<game id="16840527" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/25/2012">
+		<thumbnail>/gamecreators/images2/Electric/Jeffrey/Wingding/16840527.jpg</thumbnail>
+		<title>Crusher Energy Rampage</title>
+		<creator>Electric Jeffrey Wingding</creator>
+		<relatedgames />
+	</game>
+	<game id="17327969" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Howling/Seth/Virtuoso/17327969.jpg</thumbnail>
+		<title>Fire Drone Adventure</title>
+		<creator>Howling Seth Virtuoso</creator>
+		<relatedgames />
+	</game>
+	<game id="17012536" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>/gamecreators/images2/Super/Carol/Blizzard/17012536.jpg</thumbnail>
+		<title>Cannonbolt Challenge Hyper</title>
+		<creator>Super Carol Blizzard</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17387476" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Zany/Zach/Bullfrog/17387476.jpg</thumbnail>
+		<title>Universe Iron Alien</title>
+		<creator>Zany Zach Bullfrog</creator>
+		<relatedgames />
+	</game>
+	<game id="17345037" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>/gamecreators/images2/Colossal/Arthur/Cyborg/17345037.jpg</thumbnail>
+		<title>Brainstorm Lightning Charge</title>
+		<creator>Colossal Arthur Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="10919003" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Frosty/Scott/Hambone/10919003.jpg</thumbnail>
+		<title>Danger Plasma Battle</title>
+		<creator>Frosty Scott Hambone</creator>
+		<relatedgames />
+	</game>
+	<game id="17331796" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Evelyn/Brick/17331796.jpg</thumbnail>
+		<title>Ultimate Big Chill</title>
+		<creator>Magnetic Evelyn Brick</creator>
+		<relatedgames />
+	</game>
+	<game id="17239956" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>/gamecreators/images2/Precious/Leon/Raptor/17239956.jpg</thumbnail>
+		<title>Crusher Doom Ambush</title>
+		<creator>Precious Leon Raptor</creator>
+		<relatedgames />
+	</game>
+	<game id="10056062" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Colorful/Aidan/Avocado/10056062.jpg</thumbnail>
+		<title>Atomic Magno Spark</title>
+		<creator>Colorful Aidan Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="10953188" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Eerie/Iris/Oddball/10953188.jpg</thumbnail>
+		<title>Ultra Droid Titan</title>
+		<creator>Eerie Iris Oddball</creator>
+		<relatedgames />
+	</game>
+	<game id="17393809" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/04/2012">
+		<thumbnail>/gamecreators/images2/Spirited/Napoleon/Warrior/17393809.jpg</thumbnail>
+		<title>Ultimate Doom Quake</title>
+		<creator>Spirited Napoleon Warrior</creator>
+		<relatedgames />
+	</game>
+	<game id="16976315" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Burly/Gillian/Dodo/16976315.jpg</thumbnail>
+		<title>Nitro Doom Metal</title>
+		<creator>Burly Gillian Dodo</creator>
+		<relatedgames />
+	</game>
+	<game id="10927169" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fearless/Richard/Werewolf/10927169.jpg</thumbnail>
+		<title>Fury Charge Assault</title>
+		<creator>Fearless Richard Werewolf</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

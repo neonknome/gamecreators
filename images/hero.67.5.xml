@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17273223" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>/gamecreators/images2/Babbling/Bethany/Buzzard/17273223.jpg</thumbnail>
+		<title>Power Battle Siege</title>
+		<creator>Babbling Bethany Buzzard</creator>
+		<relatedgames />
+	</game>
+	<game id="10952739" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Hideous/Sterling/Ballyhoo/10952739.jpg</thumbnail>
+		<title>Blaster Swampfire Drone</title>
+		<creator>Hideous Sterling Ballyhoo</creator>
+		<relatedgames />
+	</game>
+	<game id="10923431" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Humorous/Bryan/Goofball/10923431.jpg</thumbnail>
+		<title>Crusher Ambush Assault</title>
+		<creator>Humorous Bryan Goofball</creator>
+		<relatedgames />
+	</game>
+	<game id="10924276" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Surreal/Leonardo/Gargoyle/10924276.jpg</thumbnail>
+		<title>Charge Dark Danger</title>
+		<creator>Surreal Leonardo Gargoyle</creator>
+		<relatedgames />
+	</game>
+	<game id="17377839" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Able/Michelle/Splat/17377839.jpg</thumbnail>
+		<title>Adventure Atomic Champion</title>
+		<creator>Able Michelle Splat</creator>
+		<relatedgames />
+	</game>
+	<game id="10068974" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Comical/Chad/Sprinkle/10068974.jpg</thumbnail>
+		<title>Burst Adventure Breaker</title>
+		<creator>Comical Chad Sprinkle</creator>
+		<relatedgames />
+	</game>
+	<game id="10922314" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Bashful/Elroy/Sprout/10922314.jpg</thumbnail>
+		<title>Assault Shadow Droid</title>
+		<creator>Bashful Elroy Sprout</creator>
+		<relatedgames />
+	</game>
+	<game id="10948824" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Humble/Tabitha/Mahogany/10948824.jpg</thumbnail>
+		<title>Adventure Mega Sonic</title>
+		<creator>Humble Tabitha Mahogany</creator>
+		<relatedgames />
+	</game>
+	<game id="17070331" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/29/2012">
+		<thumbnail>/gamecreators/images2/Princess/George/Turbo/17070331.jpg</thumbnail>
+		<title>Challenge Power Warrior</title>
+		<creator>Princess George Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="16873112" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/02/2012">
+		<thumbnail>/gamecreators/images2/Aromatic/Amy/Mango/16873112.jpg</thumbnail>
+		<title>Rocket Smash Power</title>
+		<creator>Aromatic Amy Mango</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

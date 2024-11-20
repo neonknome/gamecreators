@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17380207" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>/gamecreators/images2/Classic/Tanner/Plankton/17380207.jpg</thumbnail>
+		<title>Metal Hyper Champion</title>
+		<creator>Classic Tanner Plankton</creator>
+		<relatedgames />
+	</game>
+	<game id="10649467" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Baffling/Zoe/Kazoo/10649467.jpg</thumbnail>
+		<title>Plumber Escape Rock</title>
+		<creator>Baffling Zoe Kazoo</creator>
+		<relatedgames />
+	</game>
+	<game id="17540856" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Plucky/Drew/Yak/17540856.jpg</thumbnail>
+		<title>Shadow Steel Crusher</title>
+		<creator>Plucky Drew Yak</creator>
+		<relatedgames />
+	</game>
+	<game id="17015007" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>/gamecreators/images2/Proper/Vince/Volcano/17015007.jpg</thumbnail>
+		<title>Swampfire Gear Defense</title>
+		<creator>Proper Vince Volcano</creator>
+		<relatedgames />
+	</game>
+	<game id="10953554" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Swift/Owen/Gumbo/10953554.jpg</thumbnail>
+		<title>Turbo Turbo Battle</title>
+		<creator>Swift Owen Gumbo</creator>
+		<relatedgames />
+	</game>
+	<game id="17414730" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Complex/James/Karate/17414730.jpg</thumbnail>
+		<title>Mega Ambush Mission</title>
+		<creator>Complex James Karate</creator>
+		<relatedgames />
+	</game>
+	<game id="10953223" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Fuzzy/Adrian/Fritter/10953223.jpg</thumbnail>
+		<title>Galaxy Storm Iron</title>
+		<creator>Fuzzy Adrian Fritter</creator>
+		<relatedgames />
+	</game>
+	<game id="10647540" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Proper/Ben/Popcorn/10647540.jpg</thumbnail>
+		<title>Blaster Robot Universe</title>
+		<creator>Proper Ben Popcorn</creator>
+		<relatedgames />
+	</game>
+	<game id="10953441" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Comical/Jenna/Funk/10953441.jpg</thumbnail>
+		<title>Attack Hyper Lightning</title>
+		<creator>Comical Jenna Funk</creator>
+		<relatedgames />
+	</game>
+	<game id="17387237" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Elite/Marcus/Balloon/17387237.jpg</thumbnail>
+		<title>Star Slam Space</title>
+		<creator>Elite Marcus Balloon</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

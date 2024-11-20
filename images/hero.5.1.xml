@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10916703" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Rugged/Bianca/Fiddle/10916703.jpg</thumbnail>
+		<title>Razor Alien Shock</title>
+		<creator>Rugged Bianca Fiddle</creator>
+		<relatedgames />
+	</game>
+	<game id="10953586" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Atomic/Fred/Jungle/10953586.jpg</thumbnail>
+		<title>Streak Ultimate Nitro</title>
+		<creator>Atomic Fred Jungle</creator>
+		<relatedgames />
+	</game>
+	<game id="10057898" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Dramatic/Dora/Doodad/10057898.jpg</thumbnail>
+		<title>Nova Rush Adventure</title>
+		<creator>Dramatic Dora Doodad</creator>
+		<relatedgames />
+	</game>
+	<game id="10044442" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Handsome/Hercules/Catapult/10044442.jpg</thumbnail>
+		<title>Rumble Alien Invasion</title>
+		<creator>Handsome Hercules Catapult</creator>
+		<relatedgames />
+	</game>
+	<game id="10950785" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Fragrant/Dudley/Fritter/10950785.jpg</thumbnail>
+		<title>Laser Rocket Streak</title>
+		<creator>Fragrant Dudley Fritter</creator>
+		<relatedgames />
+	</game>
+	<game id="17276635" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Roy/Razor/17276635.jpg</thumbnail>
+		<title>Echo Magno Ultra</title>
+		<creator>Roy Razor</creator>
+		<relatedgames />
+	</game>
+	<game id="17408872" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>/gamecreators/images2/Cunning/Samuel/Calypso/17408872.jpg</thumbnail>
+		<title>Champion Defense Warrior</title>
+		<creator>Cunning Samuel Calypso</creator>
+		<relatedgames />
+	</game>
+	<game id="10942820" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Itchy/Wilbur/Moonbeam/10942820.jpg</thumbnail>
+		<title>Swampfire Invasion Nano</title>
+		<creator>Itchy Wilbur Moonbeam</creator>
+		<relatedgames />
+	</game>
+	<game id="10932493" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Radiant/Bucky/Cosmos/10932493.jpg</thumbnail>
+		<title>Titan Warrior Pursuit</title>
+		<creator>Radiant Bucky Cosmos</creator>
+		<relatedgames />
+	</game>
+	<game id="10922617" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Twisty/Donald/Magma/10922617.jpg</thumbnail>
+		<title>Galaxy Rampage Dark</title>
+		<creator>Twisty Donald Magma</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

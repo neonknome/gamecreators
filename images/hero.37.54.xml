@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10015515" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Alien/Nathan/Parallax/10015515.jpg</thumbnail>
+		<title>Techno Laser Invasion</title>
+		<creator>Alien Nathan Parallax</creator>
+		<relatedgames />
+	</game>
+	<game id="10059203" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Robust/Minerva/Icicle/10059203.jpg</thumbnail>
+		<title>Storm Fire Rocket</title>
+		<creator>Robust Minerva Icicle</creator>
+		<relatedgames />
+	</game>
+	<game id="10933522" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fearless/Erik/Mummy/10933522.jpg</thumbnail>
+		<title>Swampfire Ambush Rampage</title>
+		<creator>Fearless Erik Mummy</creator>
+		<relatedgames />
+	</game>
+	<game id="10043837" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Artistic/Stacey/Atom/10043837.jpg</thumbnail>
+		<title>Universe Fusion Battle</title>
+		<creator>Artistic Stacey Atom</creator>
+		<relatedgames />
+	</game>
+	<game id="17420096" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Delicate/Aaliyah/Sparkle/17420096.jpg</thumbnail>
+		<title>Giga Space Swampfire</title>
+		<creator>Delicate Aaliyah Sparkle</creator>
+		<relatedgames />
+	</game>
+	<game id="10704668" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Grouchy/Chase/Ketchup/10704668.jpg</thumbnail>
+		<title>Nano Mega Slam</title>
+		<creator>Grouchy Chase Ketchup</creator>
+		<relatedgames />
+	</game>
+	<game id="17386767" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Flying/Brandon/Robot/17386767.jpg</thumbnail>
+		<title>Warrior Atomic Warrior</title>
+		<creator>Flying Brandon Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="10059113" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Stately/Hunter/Blade/10059113.jpg</thumbnail>
+		<title>Dark Hex Burst</title>
+		<creator>Stately Hunter Blade</creator>
+		<relatedgames />
+	</game>
+	<game id="10038642" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Artistic/Dominic/Lavender/10038642.jpg</thumbnail>
+		<title>Ultimate Drone Doom</title>
+		<creator>Artistic Dominic Lavender</creator>
+		<relatedgames />
+	</game>
+	<game id="17323452" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Queen/Lawrence/Eggplant/17323452.jpg</thumbnail>
+		<title>Ultimate Cannonbolt Cannonbolt</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10942751" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Valiant/Scarlett/Charger/10942751.jpg</thumbnail>
+		<title>Cosmic Space Lightning</title>
+		<creator>Valiant Scarlett Charger</creator>
+		<relatedgames />
+	</game>
+	<game id="17188190" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/04/2012">
+		<thumbnail>/gamecreators/images2/Daring/Ronald/Presto/17188190.jpg</thumbnail>
+		<title>Rescue Echo Plasma</title>
+		<creator>Daring Ronald Presto</creator>
+		<relatedgames />
+	</game>
+	<game id="10793505" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2009">
+		<thumbnail>/gamecreators/images2/Green/Brianna/Thorax/10793505.jpg</thumbnail>
+		<title>Escape Escape Smash</title>
+		<creator>Green Brianna Thorax</creator>
+		<relatedgames />
+	</game>
+	<game id="440596" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="10/26/2010">
+		<thumbnail>
+		</thumbnail>
+		<title>Adventure Alien Warrior</title>
+		<creator>FelipeFuegoA</creator>
+		<relatedgames />
+	</game>
+	<game id="10952666" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Red/David/Unicycle/10952666.jpg</thumbnail>
+		<title>Adventure Adventure Atomic</title>
+		<creator>Red David Unicycle</creator>
+		<relatedgames />
+	</game>
+	<game id="17044018" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/20/2012">
+		<thumbnail>/gamecreators/images2/Amusing/Andrew/Sword/17044018.jpg</thumbnail>
+		<title>Fusion Droid Racer</title>
+		<creator>Amusing Andrew Sword</creator>
+		<relatedgames />
+	</game>
+	<game id="10032500" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Daring/Ivy/Zing/10032500.jpg</thumbnail>
+		<title>Hyper Light Invasion</title>
+		<creator>Daring Ivy Zing</creator>
+		<relatedgames />
+	</game>
+	<game id="10061653" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Fearsome/Julia/Vampire/10061653.jpg</thumbnail>
+		<title>Drone Escape Space</title>
+		<creator>Fearsome Julia Vampire</creator>
+		<relatedgames />
+	</game>
+	<game id="17405990" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Diagonal/Cole/Crash/17405990.jpg</thumbnail>
+		<title>Assault Earth Big</title>
+		<creator>Diagonal Cole Crash</creator>
+		<relatedgames />
+	</game>
+	<game id="17179754" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>/gamecreators/images2/Gruesome/Doug/Gator/17179754.jpg</thumbnail>
+		<title>Ultimate Challenge Hex</title>
+		<creator>Gruesome Doug Gator</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

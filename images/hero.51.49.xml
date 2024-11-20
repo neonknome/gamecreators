@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16875573" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/02/2012">
+		<thumbnail>/gamecreators/images2/Honest/Jose/Kungfu/16875573.jpg</thumbnail>
+		<title>Laser Big Space</title>
+		<creator>Honest Jose Kungfu</creator>
+		<relatedgames />
+	</game>
+	<game id="17550908" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Pleasant/Leah/Jinx/17550908.jpg</thumbnail>
+		<title>Assault Attack Robot</title>
+		<creator>Pleasant Leah Jinx</creator>
+		<relatedgames />
+	</game>
+	<game id="17386673" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Strong/Chris/Eel/17386673.jpg</thumbnail>
+		<title>Plasma Mission Escape</title>
+		<creator>Strong Chris Eel</creator>
+		<relatedgames />
+	</game>
+	<game id="10069102" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Massive/Dawn/Glacier/10069102.jpg</thumbnail>
+		<title>Target Ultimate Battle</title>
+		<creator>Massive Dawn Glacier</creator>
+		<relatedgames />
+	</game>
+	<game id="420224" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="10/24/2010">
+		<thumbnail>
+		</thumbnail>
+		<title>Jetray Ambush Animo</title>
+		<creator>wyncks</creator>
+		<relatedgames />
+	</game>
+	<game id="10040009" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Chilly/Jackson/Hedgehog/10040009.jpg</thumbnail>
+		<title>Titan Animo Mega</title>
+		<creator>Chilly Jackson Hedgehog</creator>
+		<relatedgames />
+	</game>
+	<game id="10704385" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Swift/Alfonso/Monolith/10704385.jpg</thumbnail>
+		<title>Fire Force Fury</title>
+		<creator>Swift Alfonso Monolith</creator>
+		<relatedgames />
+	</game>
+	<game id="17273223" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>/gamecreators/images2/Babbling/Bethany/Buzzard/17273223.jpg</thumbnail>
+		<title>Power Battle Siege</title>
+		<creator>Babbling Bethany Buzzard</creator>
+		<relatedgames />
+	</game>
+	<game id="10952739" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Hideous/Sterling/Ballyhoo/10952739.jpg</thumbnail>
+		<title>Blaster Swampfire Drone</title>
+		<creator>Hideous Sterling Ballyhoo</creator>
+		<relatedgames />
+	</game>
+	<game id="10931694" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Comical/Kelly/Baloney/10931694.jpg</thumbnail>
+		<title>Pulse Nitro Ultra</title>
+		<creator>Comical Kelly Baloney</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

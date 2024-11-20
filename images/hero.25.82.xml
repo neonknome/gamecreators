@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10918701" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Alien/Madison/Fossil/10918701.jpg</thumbnail>
+		<title>Razor Spike Search</title>
+		<creator>Alien Madison Fossil</creator>
+		<relatedgames />
+	</game>
+	<game id="10921299" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Dainty/Rachel/Ladybug/10921299.jpg</thumbnail>
+		<title>Rumble Chase Assault</title>
+		<creator>Dainty Rachel Ladybug</creator>
+		<relatedgames />
+	</game>
+	<game id="16935535" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/15/2012">
+		<thumbnail>/gamecreators/images2/Gorgeous/Earl/Shuriken/16935535.jpg</thumbnail>
+		<title>Vilgax Beast Rescue</title>
+		<creator>Gorgeous Earl Shuriken</creator>
+		<relatedgames />
+	</game>
+	<game id="17288662" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/01/2012">
+		<thumbnail>/gamecreators/images2/Rancid/Chester/Magician/17288662.jpg</thumbnail>
+		<title>Titan Alien Nano</title>
+		<creator>Rancid Chester Magician</creator>
+		<relatedgames />
+	</game>
+	<game id="10951251" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Honest/Joel/Dynamite/10951251.jpg</thumbnail>
+		<title>Mega Space Rumble</title>
+		<creator>Honest Joel Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="10933919" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Pleasant/Jeffrey/Goblin/10933919.jpg</thumbnail>
+		<title>Battle Drone Ultra</title>
+		<creator>Pleasant Jeffrey Goblin</creator>
+		<relatedgames />
+	</game>
+	<game id="17574180" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Wondrous/Rigby/Samurai/17574180.jpg</thumbnail>
+		<title>Brainstorm Galaxy Fusion</title>
+		<creator>Wondrous Rigby Samurai</creator>
+		<relatedgames />
+	</game>
+	<game id="10952842" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Proper/Brandon/Thud/10952842.jpg</thumbnail>
+		<title>Pursuit Beast Rumble</title>
+		<creator>Proper Brandon Thud</creator>
+		<relatedgames />
+	</game>
+	<game id="17372198" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>/gamecreators/images2/Surreal/Yolanda/Panda/17372198.jpg</thumbnail>
+		<title>Giga Giga Giga</title>
+		<creator>Surreal Yolanda Panda</creator>
+		<relatedgames />
+	</game>
+	<game id="17282201" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Abnormal/Lawrence/Burro/17282201.jpg</thumbnail>
+		<title>Iron Adventure Ben</title>
+		<creator>Abnormal Lawrence Burro</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

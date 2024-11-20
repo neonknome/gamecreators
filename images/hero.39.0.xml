@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17551120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Burly/Brian/Bungee/17551120.jpg</thumbnail>
+		<title>Ultimate Alien Force</title>
+		<creator>Burly Brian Bungee</creator>
+		<relatedgames />
+	</game>
+	<game id="17386767" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Flying/Brandon/Robot/17386767.jpg</thumbnail>
+		<title>Warrior Atomic Warrior</title>
+		<creator>Flying Brandon Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="10924970" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Loopy/Beatrice/Dynamite/10924970.jpg</thumbnail>
+		<title>Burst Breaker Vilgax</title>
+		<creator>Loopy Beatrice Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="10950318" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Robotic/Diego/Pirate/10950318.jpg</thumbnail>
+		<title>Ben Escape Vilgax</title>
+		<creator>Robotic Diego Pirate</creator>
+		<relatedgames />
+	</game>
+	<game id="10057062" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Bizarre/Zelda/Catapult/10057062.jpg</thumbnail>
+		<title>Droid Target Rush</title>
+		<creator>Bizarre Zelda Catapult</creator>
+		<relatedgames />
+	</game>
+	<game id="17230806" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/16/2012">
+		<thumbnail>/gamecreators/images2/Emperor/Autumn/Mutant/17230806.jpg</thumbnail>
+		<title>Drone Danger Escape</title>
+		<creator>Emperor Autumn Mutant</creator>
+		<relatedgames />
+	</game>
+	<game id="10921477" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Humorous/Lorenzo/Igloo/10921477.jpg</thumbnail>
+		<title>Fire Siege Giga</title>
+		<creator>Humorous Lorenzo Igloo</creator>
+		<relatedgames />
+	</game>
+	<game id="10949991" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Giggling/Elroy/Domino/10949991.jpg</thumbnail>
+		<title>Rush Attack Rumble</title>
+		<creator>Giggling Elroy Domino</creator>
+		<relatedgames />
+	</game>
+	<game id="10918722" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Musical/Julian/Mango/10918722.jpg</thumbnail>
+		<title>Spike Rumble Blaster</title>
+		<creator>Musical Julian Mango</creator>
+		<relatedgames />
+	</game>
+	<game id="10922483" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Sincere/Victor/Boing/10922483.jpg</thumbnail>
+		<title>Fury Power Patrol</title>
+		<creator>Sincere Victor Boing</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

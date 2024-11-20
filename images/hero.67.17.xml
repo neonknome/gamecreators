@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10942165" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Pretty/Vinny/Zebra/10942165.jpg</thumbnail>
+		<title>Earth Nano Storm</title>
+		<creator>Pretty Vinny Zebra</creator>
+		<relatedgames />
+	</game>
+	<game id="17332917" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Super/Matt/Dodo/17332917.jpg</thumbnail>
+		<title>Cannonbolt Iron Escape</title>
+		<creator>Super Matt Dodo</creator>
+		<relatedgames />
+	</game>
+	<game id="17387476" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Zany/Zach/Bullfrog/17387476.jpg</thumbnail>
+		<title>Universe Iron Alien</title>
+		<creator>Zany Zach Bullfrog</creator>
+		<relatedgames />
+	</game>
+	<game id="17345037" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>/gamecreators/images2/Colossal/Arthur/Cyborg/17345037.jpg</thumbnail>
+		<title>Brainstorm Lightning Charge</title>
+		<creator>Colossal Arthur Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="17331796" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Evelyn/Brick/17331796.jpg</thumbnail>
+		<title>Ultimate Big Chill</title>
+		<creator>Magnetic Evelyn Brick</creator>
+		<relatedgames />
+	</game>
+	<game id="10040939" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Howling/Evelyn/Bullfrog/10040939.jpg</thumbnail>
+		<title>Star Ben Shock</title>
+		<creator>Howling Evelyn Bullfrog</creator>
+		<relatedgames />
+	</game>
+	<game id="17239956" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>/gamecreators/images2/Precious/Leon/Raptor/17239956.jpg</thumbnail>
+		<title>Crusher Doom Ambush</title>
+		<creator>Precious Leon Raptor</creator>
+		<relatedgames />
+	</game>
+	<game id="10056062" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Colorful/Aidan/Avocado/10056062.jpg</thumbnail>
+		<title>Atomic Magno Spark</title>
+		<creator>Colorful Aidan Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="17347123" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2012">
+		<thumbnail>/gamecreators/images2/Ticklish/Lancelot/Starfish/17347123.jpg</thumbnail>
+		<title>Smash Atomic Mission</title>
+		<creator>Ticklish Lancelot Starfish</creator>
+		<relatedgames />
+	</game>
+	<game id="10648482" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Crafty/Kristen/Quake/10648482.jpg</thumbnail>
+		<title>Light Universe Vilgax</title>
+		<creator>Crafty Kristen Quake</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

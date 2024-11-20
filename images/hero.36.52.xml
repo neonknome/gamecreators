@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10926237" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Robotic/Tyler/Cobweb/10926237.jpg</thumbnail>
+		<title>Attack Warrior Metal</title>
+		<creator>Robotic Tyler Cobweb</creator>
+		<relatedgames />
+	</game>
+	<game id="17392765" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Husky/Lazlo/Paladin/17392765.jpg</thumbnail>
+		<title>Charge Steel Space</title>
+		<creator>Husky Lazlo Paladin</creator>
+		<relatedgames />
+	</game>
+	<game id="17258009" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>/gamecreators/images2/Mystic/Ed/Acorn/17258009.jpg</thumbnail>
+		<title>Ultra Mission Nova</title>
+		<creator>Mystic Ed Acorn</creator>
+		<relatedgames />
+	</game>
+	<game id="17337249" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Ironic/Ghoul/17337249.jpg</thumbnail>
+		<title>Ultimate Cannonbolt Assault</title>
+		<creator>Ironic Ghoul</creator>
+		<relatedgames />
+	</game>
+	<game id="10916882" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Felix/Pontoon/10916882.jpg</thumbnail>
+		<title>Rumble Adventure Challenge</title>
+		<creator>Tricky Felix Pontoon</creator>
+		<relatedgames />
+	</game>
+	<game id="10649551" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Bizarre/Seth/Sunshine/10649551.jpg</thumbnail>
+		<title>Nitro Quake Hero</title>
+		<creator>Bizarre Seth Sunshine</creator>
+		<relatedgames />
+	</game>
+	<game id="10703255" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2009">
+		<thumbnail>/gamecreators/images2/Sneaky/Mason/Manatee/10703255.jpg</thumbnail>
+		<title>Mega Adventure Droid</title>
+		<creator>Sneaky Mason Manatee</creator>
+		<relatedgames />
+	</game>
+	<game id="10928827" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Adorable/Caitlin/Flamingo/10928827.jpg</thumbnail>
+		<title>Metal Danger Light</title>
+		<creator>Adorable Caitlin Flamingo</creator>
+		<relatedgames />
+	</game>
+	<game id="17382087" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Creepy/Richard/Oink/17382087.jpg</thumbnail>
+		<title>Fusion Rescue Drone</title>
+		<creator>Creepy Richard Oink</creator>
+		<relatedgames />
+	</game>
+	<game id="10947806" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Brave/Alex/Spiral/10947806.jpg</thumbnail>
+		<title>Alien Ambush Adventure</title>
+		<creator>Brave Alex Spiral</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

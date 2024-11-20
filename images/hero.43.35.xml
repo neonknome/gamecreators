@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10923136" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Horrid/Mario/Dwarf/10923136.jpg</thumbnail>
+		<title>Mission Vilgax Fusion</title>
+		<creator>Horrid Mario Dwarf</creator>
+		<relatedgames />
+	</game>
+	<game id="10916978" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Powerful/Dominic/Grackle/10916978.jpg</thumbnail>
+		<title>Drone Mega Hero</title>
+		<creator>Powerful Dominic Grackle</creator>
+		<relatedgames />
+	</game>
+	<game id="17331685" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Subtle/Lancelot/Ricochet/17331685.jpg</thumbnail>
+		<title>Hyper Whirlwind Rampage</title>
+		<creator>Subtle Lancelot Ricochet</creator>
+		<relatedgames />
+	</game>
+	<game id="17236848" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/18/2012">
+		<thumbnail>/gamecreators/images2/Colonel/Amy/Blammo/17236848.jpg</thumbnail>
+		<title>Champion Universe Water</title>
+		<creator>Colonel Amy Blammo</creator>
+		<relatedgames />
+	</game>
+	<game id="10044035" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Freaky/Bugsy/Dragon/10044035.jpg</thumbnail>
+		<title>Hero Shock Quake</title>
+		<creator>Freaky Bugsy Dragon</creator>
+		<relatedgames />
+	</game>
+	<game id="17228920" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/16/2012">
+		<thumbnail>/gamecreators/images2/Popular/Quentin/Goofball/17228920.jpg</thumbnail>
+		<title>Ultimate Target Doom</title>
+		<creator>Popular Quentin Goofball</creator>
+		<relatedgames />
+	</game>
+	<game id="17385004" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Purple/Dominic/Gorilla/17385004.jpg</thumbnail>
+		<title>Adventure Adventure Stone</title>
+		<creator>Purple Dominic Gorilla</creator>
+		<relatedgames />
+	</game>
+	<game id="10065982" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Eastern/Brandon/Spider/10065982.jpg</thumbnail>
+		<title>Danger Champion Charge</title>
+		<creator>Eastern Brandon Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="10034847" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Cosmic/Steven/Kumquat/10034847.jpg</thumbnail>
+		<title>Hero Adventure Shadow</title>
+		<creator>Cosmic Steven Kumquat</creator>
+		<relatedgames />
+	</game>
+	<game id="17382115" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Galactic/Ben/Panda/17382115.jpg</thumbnail>
+		<title>Giga Alien Rock</title>
+		<creator>Galactic Ben Panda</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

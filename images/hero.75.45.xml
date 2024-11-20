@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17161179" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/26/2012">
+		<thumbnail>/gamecreators/images2/Galactic/Zeus/Celsius/17161179.jpg</thumbnail>
+		<title>Chill Nano Adventure</title>
+		<creator>Galactic Zeus Celsius</creator>
+		<relatedgames />
+	</game>
+	<game id="10040943" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Burly/Bryan/Blob/10040943.jpg</thumbnail>
+		<title>Ultra Swampfire Challenge</title>
+		<creator>Burly Bryan Blob</creator>
+		<relatedgames />
+	</game>
+	<game id="10921090" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Stout/Earl/Marigold/10921090.jpg</thumbnail>
+		<title>Iron Crusher Alien</title>
+		<creator>Stout Earl Marigold</creator>
+		<relatedgames />
+	</game>
+	<game id="17383696" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Athletic/Calvin/Buffalo/17383696.jpg</thumbnail>
+		<title>Metal Shadow Hex</title>
+		<creator>Athletic Calvin Buffalo</creator>
+		<relatedgames />
+	</game>
+	<game id="10936340" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Cheerful/Chelsea/Bolt/10936340.jpg</thumbnail>
+		<title>Cosmic Robot Burst</title>
+		<creator>Cheerful Chelsea Bolt</creator>
+		<relatedgames />
+	</game>
+	<game id="10039014" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Loopy/Logan/Chimera/10039014.jpg</thumbnail>
+		<title>Mega Fire Slam</title>
+		<creator>Loopy Logan Chimera</creator>
+		<relatedgames />
+	</game>
+	<game id="10953435" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Heroic/Bailey/Kazoo/10953435.jpg</thumbnail>
+		<title>Charge Giga Rescue</title>
+		<creator>Heroic Bailey Kazoo</creator>
+		<relatedgames />
+	</game>
+	<game id="17411673" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/13/2012">
+		<thumbnail>/gamecreators/images2/Organic/Yvonne/Sprocket/17411673.jpg</thumbnail>
+		<title>Fury Doom Ultra</title>
+		<creator>Organic Yvonne Sprocket</creator>
+		<relatedgames />
+	</game>
+	<game id="17552128" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Steven/Buffalo/17552128.jpg</thumbnail>
+		<title>Humungousaur Dark Techno</title>
+		<creator>Steven Buffalo</creator>
+		<relatedgames />
+	</game>
+	<game id="17423485" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>/gamecreators/images2/Wily/Wes/Parallax/17423485.jpg</thumbnail>
+		<title>Thunder Ultra Rampage</title>
+		<creator>Wily Wes Parallax</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

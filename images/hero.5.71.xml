@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17380971" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>/gamecreators/images2/Eager/Ella/Vitamin/17380971.jpg</thumbnail>
+		<title>Razor Robot Drone</title>
+		<creator>Eager Ella Vitamin</creator>
+		<relatedgames />
+	</game>
+	<game id="10931474" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Funny/Lauren/Gizmo/10931474.jpg</thumbnail>
+		<title>Magno Cosmic Thunder</title>
+		<creator>Funny Lauren Gizmo</creator>
+		<relatedgames />
+	</game>
+	<game id="16945322" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/19/2012">
+		<thumbnail>/gamecreators/images2/Elite/Sam/Catapult/16945322.jpg</thumbnail>
+		<title>Atomic Ambush Assault</title>
+		<creator>Elite Sam Catapult</creator>
+		<relatedgames />
+	</game>
+	<game id="10066885" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Sincere/Andrew/Monkey/10066885.jpg</thumbnail>
+		<title>Defense Blaster Adventure</title>
+		<creator>Sincere Andrew Monkey</creator>
+		<relatedgames />
+	</game>
+	<game id="16988536" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/01/2012">
+		<thumbnail>/gamecreators/images2/Able/Caden/Doodad/16988536.jpg</thumbnail>
+		<title>Mission Techno Breaker</title>
+		<creator>Able Caden Doodad</creator>
+		<relatedgames />
+	</game>
+	<game id="10793298" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2009">
+		<thumbnail>/gamecreators/images2/Bashful/Duncan/Tuxedo/10793298.jpg</thumbnail>
+		<title>Cosmic Assault Plasma</title>
+		<creator>Bashful Duncan Tuxedo</creator>
+		<relatedgames />
+	</game>
+	<game id="17381279" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>/gamecreators/images2/Elegant/Mac/Unicycle/17381279.jpg</thumbnail>
+		<title>Vilgax Plumber Racer</title>
+		<creator>Elegant Mac Unicycle</creator>
+		<relatedgames />
+	</game>
+	<game id="10949020" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Odd/Sean/Mustang/10949020.jpg</thumbnail>
+		<title>Nano Giga Ambush</title>
+		<creator>Odd Sean Mustang</creator>
+		<relatedgames />
+	</game>
+	<game id="10922876" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Weird/Zelda/Pulse/10922876.jpg</thumbnail>
+		<title>Plasma Ambush Storm</title>
+		<creator>Weird Zelda Pulse</creator>
+		<relatedgames />
+	</game>
+	<game id="17392041" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Captain/Ed/Hornet/17392041.jpg</thumbnail>
+		<title>Lightning Vilgax Metal</title>
+		<creator>Captain Ed Hornet</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

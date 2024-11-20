@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10938101" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Nimble/Lillian/Robot/10938101.jpg</thumbnail>
+		<title>Swampfire Iron Invasion</title>
+		<creator>Nimble Lillian Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="17239311" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>/gamecreators/images2/Active/Chip/Mango/17239311.jpg</thumbnail>
+		<title>Ultimate Turbo Spidermonkey</title>
+		<creator>Active Chip Mango</creator>
+		<relatedgames />
+	</game>
+	<game id="17260921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Rocky/Flamingo/17260921.jpg</thumbnail>
+		<title>Spark Titan Siege</title>
+		<creator>Ultimate Rocky Flamingo</creator>
+		<relatedgames />
+	</game>
+	<game id="17223057" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Bouncing/Benton/Mummy/17223057.jpg</thumbnail>
+		<title>Big Chill Challenge</title>
+		<creator>Bouncing Benton Mummy</creator>
+		<relatedgames />
+	</game>
+	<game id="10934594" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Honest/Kenneth/Saber/10934594.jpg</thumbnail>
+		<title>Fusion Chase Invasion</title>
+		<creator>Honest Kenneth Saber</creator>
+		<relatedgames />
+	</game>
+	<game id="17404821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Strong/Orlando/Buckaroo/17404821.jpg</thumbnail>
+		<title>Space Universe Swampfire</title>
+		<creator>Strong Orlando Buckaroo</creator>
+		<relatedgames />
+	</game>
+	<game id="10056515" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Atomic/Jacob/Mahogany/10056515.jpg</thumbnail>
+		<title>Hyper Doom Hero</title>
+		<creator>Atomic Jacob Mahogany</creator>
+		<relatedgames />
+	</game>
+	<game id="17327459" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Shannon/Blast/17327459.jpg</thumbnail>
+		<title>Mega Pursuit Sonic</title>
+		<creator>Shannon Blast</creator>
+		<relatedgames />
+	</game>
+	<game id="10843789" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2009">
+		<thumbnail>/gamecreators/images2/Yellow/Luke/Acrobat/10843789.jpg</thumbnail>
+		<title>Shock Giga Challenge</title>
+		<creator>Yellow Luke Acrobat</creator>
+		<relatedgames />
+	</game>
+	<game id="10943186" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Babbling/Clark/Daffodil/10943186.jpg</thumbnail>
+		<title>Escape Star Clash</title>
+		<creator>Babbling Clark Daffodil</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10917033" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Comical/Ariana/Kiwi/10917033.jpg</thumbnail>
+		<title>Hero Fire Force</title>
+		<creator>Comical Ariana Kiwi</creator>
+		<relatedgames />
+	</game>
+	<game id="16993808" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>/gamecreators/images2/Funky/Antonio/Cobra/16993808.jpg</thumbnail>
+		<title>Cosmic Mission Plumber</title>
+		<creator>Funky Antonio Cobra</creator>
+		<relatedgames />
+	</game>
+	<game id="10046385" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Majestic/Chelsea/Squawk/10046385.jpg</thumbnail>
+		<title>Atomic Slam Space</title>
+		<creator>Majestic Chelsea Squawk</creator>
+		<relatedgames />
+	</game>
+	<game id="17576666" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Prince/Summer/Spider/17576666.jpg</thumbnail>
+		<title>Challenge Star Fury</title>
+		<creator>Prince Summer Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="17331653" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Electric/Izzy/Coconut/17331653.jpg</thumbnail>
+		<title>Energy Whirlwind Cosmic</title>
+		<creator>Electric Izzy Coconut</creator>
+		<relatedgames />
+	</game>
+	<game id="10952550" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Cranky/Nicole/Galaxy/10952550.jpg</thumbnail>
+		<title>Swampfire Fire Storm</title>
+		<creator>Cranky Nicole Galaxy</creator>
+		<relatedgames />
+	</game>
+	<game id="16947501" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>/gamecreators/images2/Gentle/Rosetta/Snowball/16947501.jpg</thumbnail>
+		<title>Ultimate Brainstorm Vilgax</title>
+		<creator>Gentle Rosetta Snowball</creator>
+		<relatedgames />
+	</game>
+	<game id="10063843" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Shrewd/Minerva/Aurora/10063843.jpg</thumbnail>
+		<title>Storm Plasma Spike</title>
+		<creator>Shrewd Minerva Aurora</creator>
+		<relatedgames />
+	</game>
+	<game id="17399233" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/07/2012">
+		<thumbnail>/gamecreators/images2/Puzzling/Frank/Wolf/17399233.jpg</thumbnail>
+		<title>Battle Spike Rush</title>
+		<creator>Puzzling Frank Wolf</creator>
+		<relatedgames />
+	</game>
+	<game id="16976893" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Barbaric/Grover/Alien/16976893.jpg</thumbnail>
+		<title>Mega Challenge Mission</title>
+		<creator>Barbaric Grover Alien</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

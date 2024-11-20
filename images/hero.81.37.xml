@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10919176" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Chaotic/Ed/Fossil/10919176.jpg</thumbnail>
+		<title>Robot Mega Ambush</title>
+		<creator>Chaotic Ed Fossil</creator>
+		<relatedgames />
+	</game>
+	<game id="10918396" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Fizzy/Chris/Moonbeam/10918396.jpg</thumbnail>
+		<title>Universe Adventure Space</title>
+		<creator>Fizzy Chris Moonbeam</creator>
+		<relatedgames />
+	</game>
+	<game id="10927605" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Loony/Heidi/Grouch/10927605.jpg</thumbnail>
+		<title>Swampfire Plumber Patrol</title>
+		<creator>Loony Heidi Grouch</creator>
+		<relatedgames />
+	</game>
+	<game id="10953344" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Orange/Donald/Pinwheel/10953344.jpg</thumbnail>
+		<title>Animo Hero Defense</title>
+		<creator>Orange Donald Pinwheel</creator>
+		<relatedgames />
+	</game>
+	<game id="17403542" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Crystal/Oyster/17403542.jpg</thumbnail>
+		<title>Ultra Nitro Nano</title>
+		<creator>Magnetic Crystal Oyster</creator>
+		<relatedgames />
+	</game>
+	<game id="16979963" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>/gamecreators/images2/Savage/Mary/Wallop/16979963.jpg</thumbnail>
+		<title>Metal Plasma Titan</title>
+		<creator>Savage Mary Wallop</creator>
+		<relatedgames />
+	</game>
+	<game id="10933419" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wild/Mike/Squawk/10933419.jpg</thumbnail>
+		<title>Magno Mission Rescue</title>
+		<creator>Wild Mike Squawk</creator>
+		<relatedgames />
+	</game>
+	<game id="10921135" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Dreadful/Medusa/Fishbowl/10921135.jpg</thumbnail>
+		<title>Swampfire Assault Invasion</title>
+		<creator>Dreadful Medusa Fishbowl</creator>
+		<relatedgames />
+	</game>
+	<game id="10026204" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Clever/Erik/Zip/10026204.jpg</thumbnail>
+		<title>Thunder Doom Defense</title>
+		<creator>Clever Erik Zip</creator>
+		<relatedgames />
+	</game>
+	<game id="17256921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>/gamecreators/images2/Freakish/Paul/Neptune/17256921.jpg</thumbnail>
+		<title>Ultra Gear Hex</title>
+		<creator>Freakish Paul Neptune</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

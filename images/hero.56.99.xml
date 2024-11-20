@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10924451" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Musical/Andrew/Jalapeno/10924451.jpg</thumbnail>
+		<title>Dark Robot Rustbucket</title>
+		<creator>Musical Andrew Jalapeno</creator>
+		<relatedgames />
+	</game>
+	<game id="17014243" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>/gamecreators/images2/Expert/Hailey/Knight/17014243.jpg</thumbnail>
+		<title>Adventure Ambush Robot</title>
+		<creator>Expert Hailey Knight</creator>
+		<relatedgames />
+	</game>
+	<game id="10916705" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Infinite/Jill/Thorax/10916705.jpg</thumbnail>
+		<title>Rumble Challenge Slam</title>
+		<creator>Infinite Jill Thorax</creator>
+		<relatedgames />
+	</game>
+	<game id="10918129" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Towering/Joshua/Popcorn/10918129.jpg</thumbnail>
+		<title>Drone Streak Ultra</title>
+		<creator>Towering Joshua Popcorn</creator>
+		<relatedgames />
+	</game>
+	<game id="10929567" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Noble/Chelsea/Crowbar/10929567.jpg</thumbnail>
+		<title>Swampfire Warrior Fury</title>
+		<creator>Noble Chelsea Crowbar</creator>
+		<relatedgames />
+	</game>
+	<game id="17220720" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Smart/Pearl/Confetti/17220720.jpg</thumbnail>
+		<title>Cosmic Adventure Ben</title>
+		<creator>Smart Pearl Confetti</creator>
+		<relatedgames />
+	</game>
+	<game id="10937222" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Clever/Kristin/Fossil/10937222.jpg</thumbnail>
+		<title>Rampage Quake Iron</title>
+		<creator>Clever Kristin Fossil</creator>
+		<relatedgames />
+	</game>
+	<game id="10951878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Freaky/Aaron/Maestro/10951878.jpg</thumbnail>
+		<title>Giga Beast Ambush</title>
+		<creator>Freaky Aaron Maestro</creator>
+		<relatedgames />
+	</game>
+	<game id="17397818" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/06/2012">
+		<thumbnail>/gamecreators/images2/Madcap/Elijah/Python/17397818.jpg</thumbnail>
+		<title>Galaxy Adventure Ambush</title>
+		<creator>Madcap Elijah Python</creator>
+		<relatedgames />
+	</game>
+	<game id="17221993" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Savage/Alvin/Fang/17221993.jpg</thumbnail>
+		<title>Escape Ultimate Rush</title>
+		<creator>Savage Alvin Fang</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

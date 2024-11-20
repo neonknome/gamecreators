@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10015961" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Twisty/Avery/Fondue/10015961.jpg</thumbnail>
+		<title>Star Breaker Attack</title>
+		<creator>Twisty Avery Fondue</creator>
+		<relatedgames />
+	</game>
+	<game id="10945010" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Blue/Fred/Howler/10945010.jpg</thumbnail>
+		<title>Champion Rock Plasma</title>
+		<creator>Blue Fred Howler</creator>
+		<relatedgames />
+	</game>
+	<game id="16974843" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Husky/Lucius/Foul/16974843.jpg</thumbnail>
+		<title>Hyper Ben Solar</title>
+		<creator>Husky Lucius Foul</creator>
+		<relatedgames />
+	</game>
+	<game id="17260234" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>/gamecreators/images2/Mystic/Ed/Acorn/17260234.jpg</thumbnail>
+		<title>Nova Titan Hero</title>
+		<creator>Mystic Ed Acorn</creator>
+		<relatedgames />
+	</game>
+	<game id="17402611" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>/gamecreators/images2/Ironic/Gulliver/Pirate/17402611.jpg</thumbnail>
+		<title>Hyper Earth Fusion</title>
+		<creator>Ironic Gulliver Pirate</creator>
+		<relatedgames />
+	</game>
+	<game id="10938646" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Frank/Blade/10938646.jpg</thumbnail>
+		<title>Swampfire Spark Charge</title>
+		<creator>Tricky Frank Blade</creator>
+		<relatedgames />
+	</game>
+	<game id="10952899" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Dynamic/Celeste/Dolphin/10952899.jpg</thumbnail>
+		<title>Galaxy Mission Rampage</title>
+		<creator>Dynamic Celeste Dolphin</creator>
+		<relatedgames />
+	</game>
+	<game id="17364488" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>/gamecreators/images2/Hectic/Taylor/Gazebo/17364488.jpg</thumbnail>
+		<title>Ultimate Dark Fusion</title>
+		<creator>Hectic Taylor Gazebo</creator>
+		<relatedgames />
+	</game>
+	<game id="10923281" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Frosty/Zoe/Planet/10923281.jpg</thumbnail>
+		<title>Battle Shadow Ambush</title>
+		<creator>Frosty Zoe Planet</creator>
+		<relatedgames />
+	</game>
+	<game id="10033720" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Scary/Morgan/Mummy/10033720.jpg</thumbnail>
+		<title>Humongousaur Hex Thunder</title>
+		<creator>Scary Morgan Mummy</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

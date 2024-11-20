@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17333355" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Princess/Wes/Jungle/17333355.jpg</thumbnail>
+		<title>Stone Nitro Fusion</title>
+		<creator>Princess Wes Jungle</creator>
+		<relatedgames />
+	</game>
+	<game id="17418896" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Quantum/Scarlett/Nebula/17418896.jpg</thumbnail>
+		<title>Space Space Space</title>
+		<creator>Quantum Scarlett Nebula</creator>
+		<relatedgames />
+	</game>
+	<game id="10921774" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Elegant/Joel/Spumoni/10921774.jpg</thumbnail>
+		<title>Fire Drone Ambush</title>
+		<creator>Elegant Joel Spumoni</creator>
+		<relatedgames />
+	</game>
+	<game id="17359324" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>/gamecreators/images2/Crazy/Andy/Turbo/17359324.jpg</thumbnail>
+		<title>Streak Drone Adventure</title>
+		<creator>Crazy Andy Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="10935113" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Ghastly/Oliver/Orchid/10935113.jpg</thumbnail>
+		<title>Streak Cosmic Beast</title>
+		<creator>Ghastly Oliver Orchid</creator>
+		<relatedgames />
+	</game>
+	<game id="10952470" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Puzzling/Misty/Polliwog/10952470.jpg</thumbnail>
+		<title>Racer Burst Fusion</title>
+		<creator>Puzzling Misty Polliwog</creator>
+		<relatedgames />
+	</game>
+	<game id="17200966" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/08/2012">
+		<thumbnail>/gamecreators/images2/Sloppy/Ronald/Tundra/17200966.jpg</thumbnail>
+		<title>Cannonbolt Spark Metal</title>
+		<creator>Sloppy Ronald Tundra</creator>
+		<relatedgames />
+	</game>
+	<game id="17311257" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>/gamecreators/images2/Epic/Igor/Minotaur/17311257.jpg</thumbnail>
+		<title>Adventure Sonic Fury</title>
+		<creator>Epic Igor Minotaur</creator>
+		<relatedgames />
+	</game>
+	<game id="10925503" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Curious/Tyler/Tiptoe/10925503.jpg</thumbnail>
+		<title>Pursuit Razor Energy</title>
+		<creator>Curious Tyler Tiptoe</creator>
+		<relatedgames />
+	</game>
+	<game id="17404696" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Golden/Benjamin/Hedgehog/17404696.jpg</thumbnail>
+		<title>Robot Hyper Mission</title>
+		<creator>Golden Benjamin Hedgehog</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17301539" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Athletic/Kaitlin/Dinosaur/17301539.jpg</thumbnail>
+		<title>Waterhazard Adventure Mega</title>
+		<creator>Athletic Kaitlin Dinosaur</creator>
+		<relatedgames />
+	</game>
+	<game id="17179754" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>/gamecreators/images2/Gruesome/Doug/Gator/17179754.jpg</thumbnail>
+		<title>Ultimate Challenge Hex</title>
+		<creator>Gruesome Doug Gator</creator>
+		<relatedgames />
+	</game>
+	<game id="10920425" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Loud/Florence/Goulash/10920425.jpg</thumbnail>
+		<title>Ultimate Force Rock</title>
+		<creator>Loud Florence Goulash</creator>
+		<relatedgames />
+	</game>
+	<game id="10748430" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2009">
+		<thumbnail>/gamecreators/images2/Heroic/Igor/Barnacle/10748430.jpg</thumbnail>
+		<title>Champion Danger Alien</title>
+		<creator>Heroic Igor Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="17094971" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/06/2012">
+		<thumbnail>/gamecreators/images2/Peculiar/Edd/Pontoon/17094971.jpg</thumbnail>
+		<title>Jetray Hero Galaxy</title>
+		<creator>Peculiar Edd Pontoon</creator>
+		<relatedgames />
+	</game>
+	<game id="17357894" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>/gamecreators/images2/Stormy/Wes/Steel/17357894.jpg</thumbnail>
+		<title>Racer Defense Plasma</title>
+		<creator>Stormy Wes Steel</creator>
+		<relatedgames />
+	</game>
+	<game id="17223749" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Quick/Chuck/Cobweb/17223749.jpg</thumbnail>
+		<title>Techno Stone Fusion</title>
+		<creator>Quick Chuck Cobweb</creator>
+		<relatedgames />
+	</game>
+	<game id="17305485" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>/gamecreators/images2/Soggy/Yvette/Magma/17305485.jpg</thumbnail>
+		<title>Rustbucket Lightning Danger</title>
+		<creator>Soggy Yvette Magma</creator>
+		<relatedgames />
+	</game>
+	<game id="17083085" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/02/2012">
+		<thumbnail>/gamecreators/images2/Extreme/Abigail/Magnet/17083085.jpg</thumbnail>
+		<title>Streak Drone Magno</title>
+		<creator>Extreme Abigail Magnet</creator>
+		<relatedgames />
+	</game>
+	<game id="17188190" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/04/2012">
+		<thumbnail>/gamecreators/images2/Daring/Ronald/Presto/17188190.jpg</thumbnail>
+		<title>Rescue Echo Plasma</title>
+		<creator>Daring Ronald Presto</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

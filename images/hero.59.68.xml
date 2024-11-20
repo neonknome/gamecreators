@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17408454" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>/gamecreators/images2/Volcanic/Ralph/Shinobi/17408454.jpg</thumbnail>
+		<title>Jetray Target Smash</title>
+		<creator>Volcanic Ralph Shinobi</creator>
+		<relatedgames />
+	</game>
+	<game id="17405990" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Diagonal/Cole/Crash/17405990.jpg</thumbnail>
+		<title>Assault Earth Big</title>
+		<creator>Diagonal Cole Crash</creator>
+		<relatedgames />
+	</game>
+	<game id="17179754" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>/gamecreators/images2/Gruesome/Doug/Gator/17179754.jpg</thumbnail>
+		<title>Ultimate Challenge Hex</title>
+		<creator>Gruesome Doug Gator</creator>
+		<relatedgames />
+	</game>
+	<game id="17400901" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>/gamecreators/images2/Flying/Riley/17400901.jpg</thumbnail>
+		<title>Shadow Clash Atomic</title>
+		<creator>Flying Riley</creator>
+		<relatedgames />
+	</game>
+	<game id="10918880" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Robust/Norman/Brick/10918880.jpg</thumbnail>
+		<title>Metal Techno Rescue</title>
+		<creator>Robust Norman Brick</creator>
+		<relatedgames />
+	</game>
+	<game id="17350606" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>/gamecreators/images2/Ashley/Planet/17350606.jpg</thumbnail>
+		<title>Alien Brainstorm Assault</title>
+		<creator>Ashley Planet</creator>
+		<relatedgames />
+	</game>
+	<game id="17269325" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/27/2012">
+		<thumbnail>/gamecreators/images2/Seismic/Bert/Mercury/17269325.jpg</thumbnail>
+		<title>Star Plumber Thunder</title>
+		<creator>Seismic Bert Mercury</creator>
+		<relatedgames />
+	</game>
+	<game id="10047193" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Wise/Max/Avocado/10047193.jpg</thumbnail>
+		<title>Dark Energy Defense</title>
+		<creator>Wise Max Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="17585376" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Extreme/Vicky/Penguin/17585376.jpg</thumbnail>
+		<title>Magno Rock Patrol</title>
+		<creator>Extreme Vicky Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="10936465" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Itchy/Cameron/Blammo/10936465.jpg</thumbnail>
+		<title>Pursuit Earth Thunder</title>
+		<creator>Itchy Cameron Blammo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

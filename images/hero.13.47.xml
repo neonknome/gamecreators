@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10039284" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Gracious/Vladimir/Yodel/10039284.jpg</thumbnail>
+		<title>Animo Lightning Defense</title>
+		<creator>Gracious Vladimir Yodel</creator>
+		<relatedgames />
+	</game>
+	<game id="10953582" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Nimble/Lillian/Robot/10953582.jpg</thumbnail>
+		<title>Rustbucket Smash Pursuit</title>
+		<creator>Nimble Lillian Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="17262259" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Active/Jesse/Javelin/17262259.jpg</thumbnail>
+		<title>Force Rocket Thunder</title>
+		<creator>Active Jesse Javelin</creator>
+		<relatedgames />
+	</game>
+	<game id="17348915" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Tristan/Yoyo/17348915.jpg</thumbnail>
+		<title>Hex Patrol Storm</title>
+		<creator>Ultimate Tristan Yoyo</creator>
+		<relatedgames />
+	</game>
+	<game id="10699059" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2009">
+		<thumbnail>/gamecreators/images2/Bouncing/Elijah/Acrobat/10699059.jpg</thumbnail>
+		<title>Atomic Ultimate Nova</title>
+		<creator>Bouncing Elijah Acrobat</creator>
+		<relatedgames />
+	</game>
+	<game id="17286743" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>/gamecreators/images2/Sharp/Max/Mantis/17286743.jpg</thumbnail>
+		<title>Ben Champion Warrior</title>
+		<creator>Sharp Max Mantis</creator>
+		<relatedgames />
+	</game>
+	<game id="10922330" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Babbling/Oscar/Tornado/10922330.jpg</thumbnail>
+		<title>Shadow Defense Spark</title>
+		<creator>Babbling Oscar Tornado</creator>
+		<relatedgames />
+	</game>
+	<game id="17551176" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Earnest/Meredith/Tiger/17551176.jpg</thumbnail>
+		<title>Power Siege Rumble</title>
+		<creator>Earnest Meredith Tiger</creator>
+		<relatedgames />
+	</game>
+	<game id="10952675" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Honest/Florence/Squeegee/10952675.jpg</thumbnail>
+		<title>Swampfire Fury Attack</title>
+		<creator>Honest Florence Squeegee</creator>
+		<relatedgames />
+	</game>
+	<game id="10944444" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Fuzzy/Alan/Sprinkle/10944444.jpg</thumbnail>
+		<title>Mission Champion Galaxy</title>
+		<creator>Fuzzy Alan Sprinkle</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

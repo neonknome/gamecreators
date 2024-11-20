@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10918666" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Generous/Homer/Potato/10918666.jpg</thumbnail>
+		<title>Drone Ultimate Turbo</title>
+		<creator>Generous Homer Potato</creator>
+		<relatedgames />
+	</game>
+	<game id="17218057" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>/gamecreators/images2/Enormous/Quincy/Yak/17218057.jpg</thumbnail>
+		<title>Chill Animo Iron</title>
+		<creator>Enormous Quincy Yak</creator>
+		<relatedgames />
+	</game>
+	<game id="16999418" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/05/2012">
+		<thumbnail>/gamecreators/images2/Hyper/Rex/Minotaur/16999418.jpg</thumbnail>
+		<title>Nano Titan Force</title>
+		<creator>Hyper Rex Minotaur</creator>
+		<relatedgames />
+	</game>
+	<game id="10039390" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Glorious/Gulliver/Gorilla/10039390.jpg</thumbnail>
+		<title>Solar Storm Hero</title>
+		<creator>Glorious Gulliver Gorilla</creator>
+		<relatedgames />
+	</game>
+	<game id="17285330" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>/gamecreators/images2/Negative/Andy/Atlas/17285330.jpg</thumbnail>
+		<title>Fire Burst Attack</title>
+		<creator>Negative Andy Atlas</creator>
+		<relatedgames />
+	</game>
+	<game id="16947780" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>/gamecreators/images2/Sleek/CJ/Dolphin/16947780.jpg</thumbnail>
+		<title>Mega Chase Invasion</title>
+		<creator>Sleek CJ Dolphin</creator>
+		<relatedgames />
+	</game>
+	<game id="10930650" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Absurd/Owen/Dragon/10930650.jpg</thumbnail>
+		<title>Chase Force Power</title>
+		<creator>Absurd Owen Dragon</creator>
+		<relatedgames />
+	</game>
+	<game id="16860071" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/30/2012">
+		<thumbnail>/gamecreators/images2/Flying/Nicholas/Rumble/16860071.jpg</thumbnail>
+		<title>Battle Spark Force</title>
+		<creator>Flying Nicholas Rumble</creator>
+		<relatedgames />
+	</game>
+	<game id="10920425" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Loud/Florence/Goulash/10920425.jpg</thumbnail>
+		<title>Ultimate Force Rock</title>
+		<creator>Loud Florence Goulash</creator>
+		<relatedgames />
+	</game>
+	<game id="10059203" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Robust/Minerva/Icicle/10059203.jpg</thumbnail>
+		<title>Storm Fire Rocket</title>
+		<creator>Robust Minerva Icicle</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

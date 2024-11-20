@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17142675" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/20/2012">
+		<thumbnail>/gamecreators/images2/King/Thor/Gulch/17142675.jpg</thumbnail>
+		<title>Invasion Assault Clash</title>
+		<creator>King Thor Gulch</creator>
+		<relatedgames />
+	</game>
+	<game id="10937036" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Red/Laura/Jungle/10937036.jpg</thumbnail>
+		<title>Ultra Mega Fire</title>
+		<creator>Red Laura Jungle</creator>
+		<relatedgames />
+	</game>
+	<game id="10926594" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Valiant/Maya/Rutabaga/10926594.jpg</thumbnail>
+		<title>Light Search Ultra</title>
+		<creator>Valiant Maya Rutabaga</creator>
+		<relatedgames />
+	</game>
+	<game id="17333051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Daring/Ricardo/Tiger/17333051.jpg</thumbnail>
+		<title>Chill Dark Sonic</title>
+		<creator>Daring Ricardo Tiger</creator>
+		<relatedgames />
+	</game>
+	<game id="10919825" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Red/Bruce/Ooze/10919825.jpg</thumbnail>
+		<title>Space Turbo Solar</title>
+		<creator>Red Bruce Ooze</creator>
+		<relatedgames />
+	</game>
+	<game id="17281265" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Amazing/Alvin/Thing/17281265.jpg</thumbnail>
+		<title>Warrior Spike Mega</title>
+		<creator>Amazing Alvin Thing</creator>
+		<relatedgames />
+	</game>
+	<game id="10931869" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Rowdy/Trevor/Glop/10931869.jpg</thumbnail>
+		<title>Shadow Patrol Attack</title>
+		<creator>Rowdy Trevor Glop</creator>
+		<relatedgames />
+	</game>
+	<game id="17206021" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/10/2012">
+		<thumbnail>/gamecreators/images2/Volcanic/Gabriel/Tarragon/17206021.jpg</thumbnail>
+		<title>Adventure Attack Target</title>
+		<creator>Volcanic Gabriel Tarragon</creator>
+		<relatedgames />
+	</game>
+	<game id="10043882" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Fearsome/Jacob/Crumpet/10043882.jpg</thumbnail>
+		<title>Gear Space Rock</title>
+		<creator>Fearsome Jacob Crumpet</creator>
+		<relatedgames />
+	</game>
+	<game id="17318169" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Athletic/Jordan/Mustard/17318169.jpg</thumbnail>
+		<title>Energy Escape Challenge</title>
+		<creator>Athletic Jordan Mustard</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

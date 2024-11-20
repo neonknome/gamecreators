@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17290900" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/01/2012">
+		<thumbnail>/gamecreators/images2/Shady/Dalton/Ion/17290900.jpg</thumbnail>
+		<title>Pursuit Rock Water</title>
+		<creator>Shady Dalton Ion</creator>
+		<relatedgames />
+	</game>
+	<game id="10930210" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Witty/Bert/Parsec/10930210.jpg</thumbnail>
+		<title>Rush Turbo Assault</title>
+		<creator>Witty Bert Parsec</creator>
+		<relatedgames />
+	</game>
+	<game id="16916886" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>/gamecreators/images2/Awful/Bart/Spark/16916886.jpg</thumbnail>
+		<title>Rush Chill Beast</title>
+		<creator>Awful Bart Spark</creator>
+		<relatedgames />
+	</game>
+	<game id="10920801" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Dynamic/Felix/Gizmo/10920801.jpg</thumbnail>
+		<title>Atomic Cosmic Fusion</title>
+		<creator>Dynamic Felix Gizmo</creator>
+		<relatedgames />
+	</game>
+	<game id="10952504" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Heroic/Danielle/Cobra/10952504.jpg</thumbnail>
+		<title>Escape Fire Patrol</title>
+		<creator>Heroic Danielle Cobra</creator>
+		<relatedgames />
+	</game>
+	<game id="17380187" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>/gamecreators/images2/Frugal/Ralph/Camel/17380187.jpg</thumbnail>
+		<title>Big Droid Battle</title>
+		<creator>Frugal Ralph Camel</creator>
+		<relatedgames />
+	</game>
+	<game id="10924909" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Scurvy/Diana/Haystack/10924909.jpg</thumbnail>
+		<title>Gear Battle Racer</title>
+		<creator>Scurvy Diana Haystack</creator>
+		<relatedgames />
+	</game>
+	<game id="10927316" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Awesome/Robin/Nova/10927316.jpg</thumbnail>
+		<title>Adventure Escape Challenge</title>
+		<creator>Awesome Robin Nova</creator>
+		<relatedgames />
+	</game>
+	<game id="16968272" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/26/2012">
+		<thumbnail>/gamecreators/images2/Silent/Ed/Spiral/16968272.jpg</thumbnail>
+		<title>Star Laser Battle</title>
+		<creator>Silent Ed Spiral</creator>
+		<relatedgames />
+	</game>
+	<game id="17387476" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Zany/Zach/Bullfrog/17387476.jpg</thumbnail>
+		<title>Universe Iron Alien</title>
+		<creator>Zany Zach Bullfrog</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

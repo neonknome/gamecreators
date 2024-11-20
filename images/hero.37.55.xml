@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17381078" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>/gamecreators/images2/Toxic/Xavier/Oyster/17381078.jpg</thumbnail>
+		<title>Rumble Nano Nova</title>
+		<creator>Toxic Xavier Oyster</creator>
+		<relatedgames />
+	</game>
+	<game id="10952545" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Eloquent/Blake/Fishbowl/10952545.jpg</thumbnail>
+		<title>Sonic Light Adventure</title>
+		<creator>Eloquent Blake Fishbowl</creator>
+		<relatedgames />
+	</game>
+	<game id="17416299" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Creative/Mario/Noodle/17416299.jpg</thumbnail>
+		<title>Alien Droid Escape</title>
+		<creator>Creative Mario Noodle</creator>
+		<relatedgames />
+	</game>
+	<game id="17262269" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Gigantic/Bob/Chaos/17262269.jpg</thumbnail>
+		<title>Ben Smash Vilgax</title>
+		<creator>Gigantic Bob Chaos</creator>
+		<relatedgames />
+	</game>
+	<game id="17417580" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Queen/Alyssa/Javelin/17417580.jpg</thumbnail>
+		<title>Search Techno Animo</title>
+		<creator>Queen Alyssa Javelin</creator>
+		<relatedgames />
+	</game>
+	<game id="17420645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Smart/Marco/Aardvark/17420645.jpg</thumbnail>
+		<title>Warrior Rumble Fury</title>
+		<creator>Smart Marco Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="17390861" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Evil/Jeremy/Nacho/17390861.jpg</thumbnail>
+		<title>Big Chill Mission</title>
+		<creator>Evil Jeremy Nacho</creator>
+		<relatedgames />
+	</game>
+	<game id="17292491" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>/gamecreators/images2/Dandy/Penny/Minotaur/17292491.jpg</thumbnail>
+		<title>Clash Invasion Ultimate</title>
+		<creator>Dandy Penny Minotaur</creator>
+		<relatedgames />
+	</game>
+	<game id="17293112" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>/gamecreators/images2/Gorgeous/Nicole/Presto/17293112.jpg</thumbnail>
+		<title>Rescue Razor Water</title>
+		<creator>Gorgeous Nicole Presto</creator>
+		<relatedgames />
+	</game>
+	<game id="10927028" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Sly/Ava/Tugboat/10927028.jpg</thumbnail>
+		<title>Force Adventure Stone</title>
+		<creator>Sly Ava Tugboat</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

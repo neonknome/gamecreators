@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10069142" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Humorous/Elroy/Klunk/10069142.jpg</thumbnail>
+		<title>Alien Adventure Ultra</title>
+		<creator>Humorous Elroy Klunk</creator>
+		<relatedgames />
+	</game>
+	<game id="17100222" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/07/2012">
+		<thumbnail>/gamecreators/images2/Profound/Paula/Turtle/17100222.jpg</thumbnail>
+		<title>Rescue Fusion Metal</title>
+		<creator>Profound Paula Turtle</creator>
+		<relatedgames />
+	</game>
+	<game id="10059447" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Surreal/Max/Tusk/10059447.jpg</thumbnail>
+		<title>Doom Doom Siege</title>
+		<creator>Surreal Max Tusk</creator>
+		<relatedgames />
+	</game>
+	<game id="17334444" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Able/Mordecai/Vapor/17334444.jpg</thumbnail>
+		<title>Adventure Rush Terraspin</title>
+		<creator>Able Mordecai Vapor</creator>
+		<relatedgames />
+	</game>
+	<game id="10069150" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Comical/Cheyenne/Unicycle/10069150.jpg</thumbnail>
+		<title>Shock Stone Pulse</title>
+		<creator>Comical Cheyenne Unicycle</creator>
+		<relatedgames />
+	</game>
+	<game id="10928093" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Bashful/Gulliver/Clang/10928093.jpg</thumbnail>
+		<title>Swampfire Ben Thunder</title>
+		<creator>Bashful Gulliver Clang</creator>
+		<relatedgames />
+	</game>
+	<game id="16843442" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/26/2012">
+		<thumbnail>/gamecreators/images2/Humble/Thor/Cyclone/16843442.jpg</thumbnail>
+		<title>Chill Razor Shadow</title>
+		<creator>Humble Thor Cyclone</creator>
+		<relatedgames />
+	</game>
+	<game id="17071572" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/29/2012">
+		<thumbnail>/gamecreators/images2/Princess/George/Turbo/17071572.jpg</thumbnail>
+		<title>Vilgax Force Rush</title>
+		<creator>Princess George Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="17389024" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Puzzling/Zachary/Thorax/17389024.jpg</thumbnail>
+		<title>Doom Sonic Vilgax</title>
+		<creator>Puzzling Zachary Thorax</creator>
+		<relatedgames />
+	</game>
+	<game id="17304014" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Titanic/Penny/Calliope/17304014.jpg</thumbnail>
+		<title>Vilgax Nova Siege</title>
+		<creator>Titanic Penny Calliope</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10952853" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Zippy/Bubba/Planet/10952853.jpg</thumbnail>
+		<title>Thunder Animo Sonic</title>
+		<creator>Zippy Bubba Planet</creator>
+		<relatedgames />
+	</game>
+	<game id="17347654" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2012">
+		<thumbnail>/gamecreators/images2/Baron/Zachary/Nebula/17347654.jpg</thumbnail>
+		<title>Fury Fusion Adventure</title>
+		<creator>Baron Zachary Nebula</creator>
+		<relatedgames />
+	</game>
+	<game id="10952683" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Obvious/Megan/Octopus/10952683.jpg</thumbnail>
+		<title>Charge Space Universe</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames />
+	</game>
+	<game id="10929135" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wacky/Elijah/Scorpion/10929135.jpg</thumbnail>
+		<title>Alien Sonic Power</title>
+		<creator>Wacky Elijah Scorpion</creator>
+		<relatedgames />
+	</game>
+	<game id="16940361" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/17/2012">
+		<thumbnail>/gamecreators/images2/Capable/Beatrice/Sunset/16940361.jpg</thumbnail>
+		<title>Chill Iron Titan</title>
+		<creator>Capable Beatrice Sunset</creator>
+		<relatedgames />
+	</game>
+	<game id="17391876" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Doctor/Makayla/Atlas/17391876.jpg</thumbnail>
+		<title>Breaker Warrior Star</title>
+		<creator>Doctor Makayla Atlas</creator>
+		<relatedgames />
+	</game>
+	<game id="10918059" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Fragrant/Apollo/Ooze/10918059.jpg</thumbnail>
+		<title>Alien Challenge Stone</title>
+		<creator>Fragrant Apollo Ooze</creator>
+		<relatedgames />
+	</game>
+	<game id="10950440" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Loyal/Becky/Fury/10950440.jpg</thumbnail>
+		<title>Rocket Battle Beast</title>
+		<creator>Loyal Becky Fury</creator>
+		<relatedgames />
+	</game>
+	<game id="10931869" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Rowdy/Trevor/Glop/10931869.jpg</thumbnail>
+		<title>Shadow Patrol Attack</title>
+		<creator>Rowdy Trevor Glop</creator>
+		<relatedgames />
+	</game>
+	<game id="17206021" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/10/2012">
+		<thumbnail>/gamecreators/images2/Volcanic/Gabriel/Tarragon/17206021.jpg</thumbnail>
+		<title>Adventure Attack Target</title>
+		<creator>Volcanic Gabriel Tarragon</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

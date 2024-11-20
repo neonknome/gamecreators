@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17552197" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Crazy/Edd/Mahogany/17552197.jpg</thumbnail>
+		<title>Siege Metal Titan</title>
+		<creator>Crazy Edd Mahogany</creator>
+		<relatedgames />
+	</game>
+	<game id="10056052" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Ghastly/Phil/Cyborg/10056052.jpg</thumbnail>
+		<title>Plasma Galaxy Adventure</title>
+		<creator>Ghastly Phil Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="10952182" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Puzzling/Nick/Potato/10952182.jpg</thumbnail>
+		<title>Challenge Drone Mega</title>
+		<creator>Puzzling Nick Potato</creator>
+		<relatedgames />
+	</game>
+	<game id="17578219" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Rancid/Don/Nova/17578219.jpg</thumbnail>
+		<title>Clash Chill Spidermonkey</title>
+		<creator>Rancid Don Nova</creator>
+		<relatedgames />
+	</game>
+	<game id="17014033" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>/gamecreators/images2/Epic/Peter/Possum/17014033.jpg</thumbnail>
+		<title>Ultra Ultimate Energy</title>
+		<creator>Epic Peter Possum</creator>
+		<relatedgames />
+	</game>
+	<game id="10953046" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Alien/Henry/Quasar/10953046.jpg</thumbnail>
+		<title>Universe Adventure Ultra</title>
+		<creator>Alien Henry Quasar</creator>
+		<relatedgames />
+	</game>
+	<game id="17205541" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/09/2012">
+		<thumbnail>/gamecreators/images2/Cute/Meghan/Jingles/17205541.jpg</thumbnail>
+		<title>Danger Clash Attack</title>
+		<creator>Cute Meghan Jingles</creator>
+		<relatedgames />
+	</game>
+	<game id="17335398" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Golden/Dominic/Giblets/17335398.jpg</thumbnail>
+		<title>Danger Champion Thunder</title>
+		<creator>Golden Dominic Giblets</creator>
+		<relatedgames />
+	</game>
+	<game id="10040009" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Chilly/Jackson/Hedgehog/10040009.jpg</thumbnail>
+		<title>Titan Animo Mega</title>
+		<creator>Chilly Jackson Hedgehog</creator>
+		<relatedgames />
+	</game>
+	<game id="17282810" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Pleasant/Alan/Gamer/17282810.jpg</thumbnail>
+		<title>Terraspin Siege Adventure</title>
+		<creator>Pleasant Alan Gamer</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

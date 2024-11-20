@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10928166" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Chilly/Jeremy/Tractor/10928166.jpg</thumbnail>
+		<title>Nitro Storm Rush</title>
+		<creator>Chilly Jeremy Tractor</creator>
+		<relatedgames />
+	</game>
+	<game id="10926266" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fragrant/Mary/Mallard/10926266.jpg</thumbnail>
+		<title>Sonic Thunder Power</title>
+		<creator>Fragrant Mary Mallard</creator>
+		<relatedgames />
+	</game>
+	<game id="10929106" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Eager/Madeline/Barnacle/10929106.jpg</thumbnail>
+		<title>Racer Rocket Crusher</title>
+		<creator>Eager Madeline Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="10932051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Funny/Sam/Bramble/10932051.jpg</thumbnail>
+		<title>Razor Fire Titan</title>
+		<creator>Funny Sam Bramble</creator>
+		<relatedgames />
+	</game>
+	<game id="17423217" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>/gamecreators/images2/Major/Kelly/Beeswax/17423217.jpg</thumbnail>
+		<title>Rumble Streak Ben</title>
+		<creator>Major Kelly Beeswax</creator>
+		<relatedgames />
+	</game>
+	<game id="10930527" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Shaggy/Hunter/Behemoth/10930527.jpg</thumbnail>
+		<title>Pursuit Turbo Swampfire</title>
+		<creator>Shaggy Hunter Behemoth</creator>
+		<relatedgames />
+	</game>
+	<game id="10935019" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wondrous/Connor/Troll/10935019.jpg</thumbnail>
+		<title>Laser Fire Titan</title>
+		<creator>Wondrous Connor Troll</creator>
+		<relatedgames />
+	</game>
+	<game id="17503975" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>/gamecreators/images2/Prolific/Cole/Sprout/17503975.jpg</thumbnail>
+		<title>Rocket Breaker Galaxy</title>
+		<creator>Prolific Cole Sprout</creator>
+		<relatedgames />
+	</game>
+	<game id="10950902" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Awful/Dylan/Sprinkle/10950902.jpg</thumbnail>
+		<title>Hyper Thunder Assault</title>
+		<creator>Awful Dylan Sprinkle</creator>
+		<relatedgames />
+	</game>
+	<game id="10942215" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Dynamic/Ronald/Cyborg/10942215.jpg</thumbnail>
+		<title>Laser Smash Light</title>
+		<creator>Dynamic Ronald Cyborg</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

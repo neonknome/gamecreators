@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16939364" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/17/2012">
+		<thumbnail>/gamecreators/images2/Splendid/Simon/Sardine/16939364.jpg</thumbnail>
+		<title>Rush Rush Rush</title>
+		<creator>Splendid Simon Sardine</creator>
+		<relatedgames />
+	</game>
+	<game id="17194153" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/06/2012">
+		<thumbnail>/gamecreators/images2/Capable/Gregory/Anvil/17194153.jpg</thumbnail>
+		<title>Techno Sonic Hyper</title>
+		<creator>Capable Gregory Anvil</creator>
+		<relatedgames />
+	</game>
+	<game id="17410295" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/12/2012">
+		<thumbnail>/gamecreators/images2/King/Colin/Iceberg/17410295.jpg</thumbnail>
+		<title>Robot Hero Spike</title>
+		<creator>King Colin Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="10952619" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Obvious/Megan/Octopus/10952619.jpg</thumbnail>
+		<title>Magno Smash Danger</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames />
+	</game>
+	<game id="10646034" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Loyal/Maria/Tornado/10646034.jpg</thumbnail>
+		<title>Slam Champion Plumber</title>
+		<creator>Loyal Maria Tornado</creator>
+		<relatedgames />
+	</game>
+	<game id="10948271" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Wacky/Billy/Enigma/10948271.jpg</thumbnail>
+		<title>Rescue Nitro Giga</title>
+		<creator>Wacky Billy Enigma</creator>
+		<relatedgames />
+	</game>
+	<game id="17246497" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/20/2012">
+		<thumbnail>/gamecreators/images2/Cackling/Cory/Avator/17246497.jpg</thumbnail>
+		<title>Ultra Swampfire Power</title>
+		<creator>Cackling Cory Avator</creator>
+		<relatedgames />
+	</game>
+	<game id="10942677" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Strange/Dawn/Iguana/10942677.jpg</thumbnail>
+		<title>Rock Steel Fusion</title>
+		<creator>Strange Dawn Iguana</creator>
+		<relatedgames />
+	</game>
+	<game id="10942444" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Chilly/Edgar/Quasar/10942444.jpg</thumbnail>
+		<title>Laser Sonic Galaxy</title>
+		<creator>Chilly Edgar Quasar</creator>
+		<relatedgames />
+	</game>
+	<game id="17303375" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Flying/Stanley/Quake/17303375.jpg</thumbnail>
+		<title>Rampage Ambush Charge</title>
+		<creator>Flying Stanley Quake</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

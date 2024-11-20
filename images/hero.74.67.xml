@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17504942" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>/gamecreators/images2/Barbaric/Crystal/Tornado/17504942.jpg</thumbnail>
+		<title>Alien Alien Alien</title>
+		<creator>Barbaric Crystal Tornado</creator>
+		<relatedgames />
+	</game>
+	<game id="16947780" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>/gamecreators/images2/Sleek/CJ/Dolphin/16947780.jpg</thumbnail>
+		<title>Mega Chase Invasion</title>
+		<creator>Sleek CJ Dolphin</creator>
+		<relatedgames />
+	</game>
+	<game id="17311572" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>/gamecreators/images2/Galactic/Veronica/Trooper/17311572.jpg</thumbnail>
+		<title>Streak Slam Escape</title>
+		<creator>Galactic Veronica Trooper</creator>
+		<relatedgames />
+	</game>
+	<game id="10917007" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Blue/Haley/Bullfrog/10917007.jpg</thumbnail>
+		<title>Laser Turbo Fusion</title>
+		<creator>Blue Haley Bullfrog</creator>
+		<relatedgames />
+	</game>
+	<game id="17337988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Enormous/Alice/Dodo/17337988.jpg</thumbnail>
+		<title>Ultimate Mission Droid</title>
+		<creator>Enormous Alice Dodo</creator>
+		<relatedgames />
+	</game>
+	<game id="17094971" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/06/2012">
+		<thumbnail>/gamecreators/images2/Peculiar/Edd/Pontoon/17094971.jpg</thumbnail>
+		<title>Jetray Hero Galaxy</title>
+		<creator>Peculiar Edd Pontoon</creator>
+		<relatedgames />
+	</game>
+	<game id="17420096" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Delicate/Aaliyah/Sparkle/17420096.jpg</thumbnail>
+		<title>Giga Space Swampfire</title>
+		<creator>Delicate Aaliyah Sparkle</creator>
+		<relatedgames />
+	</game>
+	<game id="10919681" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Wise/Jasmine/Blob/10919681.jpg</thumbnail>
+		<title>Breaker Dark Challenge</title>
+		<creator>Wise Jasmine Blob</creator>
+		<relatedgames />
+	</game>
+	<game id="10038231" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Cheerful/Bryan/Sizzle/10038231.jpg</thumbnail>
+		<title>Razor Shadow Rocket</title>
+		<creator>Cheerful Bryan Sizzle</creator>
+		<relatedgames />
+	</game>
+	<game id="17386767" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Flying/Brandon/Robot/17386767.jpg</thumbnail>
+		<title>Warrior Atomic Warrior</title>
+		<creator>Flying Brandon Robot</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

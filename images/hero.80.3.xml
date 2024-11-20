@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17146824" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/21/2012">
+		<thumbnail>/gamecreators/images2/Extreme/Alan/Avocado/17146824.jpg</thumbnail>
+		<title>Hyper Adventure Chase</title>
+		<creator>Extreme Alan Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="17397946" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/06/2012">
+		<thumbnail>/gamecreators/images2/Ironclad/Gigi/Rhyme/17397946.jpg</thumbnail>
+		<title>Fusion Big Sonic</title>
+		<creator>Ironclad Gigi Rhyme</creator>
+		<relatedgames />
+	</game>
+	<game id="10921864" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Cheyenne/Iceberg/10921864.jpg</thumbnail>
+		<title>Ultimate Alien Smash</title>
+		<creator>Tricky Cheyenne Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="10046147" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Noble/Rapunzel/Banjo/10046147.jpg</thumbnail>
+		<title>Alien Ambush Pursuit</title>
+		<creator>Noble Rapunzel Banjo</creator>
+		<relatedgames />
+	</game>
+	<game id="17578288" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Admiral/Sofia/Mars/17578288.jpg</thumbnail>
+		<title>Echo Adventure Hero</title>
+		<creator>Admiral Sofia Mars</creator>
+		<relatedgames />
+	</game>
+	<game id="17407634" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>/gamecreators/images2/Creative/Yorick/Worm/17407634.jpg</thumbnail>
+		<title>Rampage Nitro Burst</title>
+		<creator>Creative Yorick Worm</creator>
+		<relatedgames />
+	</game>
+	<game id="10919034" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Unusual/Leon/Spiral/10919034.jpg</thumbnail>
+		<title>Magno Titan Defense</title>
+		<creator>Unusual Leon Spiral</creator>
+		<relatedgames />
+	</game>
+	<game id="10054722" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Brainy/Otis/Ladybug/10054722.jpg</thumbnail>
+		<title>Thunder Sonic Dark</title>
+		<creator>Brainy Otis Ladybug</creator>
+		<relatedgames />
+	</game>
+	<game id="10922520" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Infinite/Jill/Thorax/10922520.jpg</thumbnail>
+		<title>Swampfire Challenge Hyper</title>
+		<creator>Infinite Jill Thorax</creator>
+		<relatedgames />
+	</game>
+	<game id="17536511" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>/gamecreators/images2/Noble/Dan/Tuxedo/17536511.jpg</thumbnail>
+		<title>Rock Storm Pursuit</title>
+		<creator>Noble Dan Tuxedo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

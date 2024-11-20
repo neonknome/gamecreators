@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10921236" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Sporty/Matt/Citrus/10921236.jpg</thumbnail>
+		<title>Sonic Hero Universe</title>
+		<creator>Sporty Matt Citrus</creator>
+		<relatedgames />
+	</game>
+	<game id="17246245" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/20/2012">
+		<thumbnail>/gamecreators/images2/Artful/Anna/Cosmos/17246245.jpg</thumbnail>
+		<title>Rampage Nitro Storm</title>
+		<creator>Artful Anna Cosmos</creator>
+		<relatedgames />
+	</game>
+	<game id="16971326" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/27/2012">
+		<thumbnail>/gamecreators/images2/Captain/Tony/Bucket/16971326.jpg</thumbnail>
+		<title>Cosmic Gear Quake</title>
+		<creator>Captain Tony Bucket</creator>
+		<relatedgames />
+	</game>
+	<game id="17234049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>/gamecreators/images2/Lanky/Lily/Licorice/17234049.jpg</thumbnail>
+		<title>Hyper Alien Hero</title>
+		<creator>Lanky Lily Licorice</creator>
+		<relatedgames />
+	</game>
+	<game id="10058809" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Happy/Simon/Steam/10058809.jpg</thumbnail>
+		<title>Swampfire Blaster Smash</title>
+		<creator>Happy Simon Steam</creator>
+		<relatedgames />
+	</game>
+	<game id="10918533" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Odd/Gary/Pirate/10918533.jpg</thumbnail>
+		<title>Quake Danger Battle</title>
+		<creator>Odd Gary Pirate</creator>
+		<relatedgames />
+	</game>
+	<game id="10069216" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Spooky/Kelly/Ketchup/10069216.jpg</thumbnail>
+		<title>Earth Rustbucket Spark</title>
+		<creator>Spooky Kelly Ketchup</creator>
+		<relatedgames />
+	</game>
+	<game id="17278910" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Captain/Connor/Charger/17278910.jpg</thumbnail>
+		<title>Thunder Mega Champion</title>
+		<creator>Captain Connor Charger</creator>
+		<relatedgames />
+	</game>
+	<game id="16902585" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/08/2012">
+		<thumbnail>/gamecreators/images2/Stubborn/Aiden/Beast/16902585.jpg</thumbnail>
+		<title>Atomic Adventure Cosmic</title>
+		<creator>Stubborn Aiden Beast</creator>
+		<relatedgames />
+	</game>
+	<game id="10952702" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Chilly/Phyllis/Talon/10952702.jpg</thumbnail>
+		<title>Swampfire Rustbucket Rocket</title>
+		<creator>Chilly Phyllis Talon</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

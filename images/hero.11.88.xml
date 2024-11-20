@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17214957" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/12/2012">
+		<thumbnail>/gamecreators/images2/Crazy/Payton/Shadow/17214957.jpg</thumbnail>
+		<title>Alien Invasion Breaker</title>
+		<creator>Crazy Payton Shadow</creator>
+		<relatedgames />
+	</game>
+	<game id="10055889" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Ghostly/Charles/Cosmos/10055889.jpg</thumbnail>
+		<title>Pulse Plumber Adventure</title>
+		<creator>Ghostly Charles Cosmos</creator>
+		<relatedgames />
+	</game>
+	<game id="10920299" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Silly/Gladys/Beeswax/10920299.jpg</thumbnail>
+		<title>Warrior Swampfire Mission</title>
+		<creator>Silly Gladys Beeswax</creator>
+		<relatedgames />
+	</game>
+	<game id="17336642" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Quaint/Freddy/Oddball/17336642.jpg</thumbnail>
+		<title>Universe Pulse Vilgax</title>
+		<creator>Quaint Freddy Oddball</creator>
+		<relatedgames />
+	</game>
+	<game id="17387003" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Baroness/Bradley/Jungle/17387003.jpg</thumbnail>
+		<title>Alien Adventure Challenge</title>
+		<creator>Baroness Bradley Jungle</creator>
+		<relatedgames />
+	</game>
+	<game id="10066861" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Sly/Cole/Holler/10066861.jpg</thumbnail>
+		<title>Siege Razor Warrior</title>
+		<creator>Sly Cole Holler</creator>
+		<relatedgames />
+	</game>
+	<game id="10063164" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Lucky/Mary/Zeppelin/10063164.jpg</thumbnail>
+		<title>Ambush Stone Plumber</title>
+		<creator>Lucky Mary Zeppelin</creator>
+		<relatedgames />
+	</game>
+	<game id="10952349" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Weird/Greg/Kangaroo/10952349.jpg</thumbnail>
+		<title>Earth Turbo Invasion</title>
+		<creator>Weird Greg Kangaroo</creator>
+		<relatedgames />
+	</game>
+	<game id="17194153" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/06/2012">
+		<thumbnail>/gamecreators/images2/Capable/Gregory/Anvil/17194153.jpg</thumbnail>
+		<title>Techno Sonic Hyper</title>
+		<creator>Capable Gregory Anvil</creator>
+		<relatedgames />
+	</game>
+	<game id="17404821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Strong/Orlando/Buckaroo/17404821.jpg</thumbnail>
+		<title>Space Universe Swampfire</title>
+		<creator>Strong Orlando Buckaroo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

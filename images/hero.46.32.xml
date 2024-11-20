@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16974309" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Obscure/Julian/Charger/16974309.jpg</thumbnail>
+		<title>Charge Plumber Vilgax</title>
+		<creator>Obscure Julian Charger</creator>
+		<relatedgames />
+	</game>
+	<game id="17252572" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/22/2012">
+		<thumbnail>/gamecreators/images2/Spicy/Lorenzo/Venom/17252572.jpg</thumbnail>
+		<title>Quake Atomic Force</title>
+		<creator>Spicy Lorenzo Venom</creator>
+		<relatedgames />
+	</game>
+	<game id="10935329" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Burly/Crystal/Fritter/10935329.jpg</thumbnail>
+		<title>Shadow Champion Invasion</title>
+		<creator>Burly Crystal Fritter</creator>
+		<relatedgames />
+	</game>
+	<game id="10922797" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Purple/Kevin/Penguin/10922797.jpg</thumbnail>
+		<title>Energy Lightning Galaxy</title>
+		<creator>Purple Kevin Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="17505120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>/gamecreators/images2/Galactic/Chuck/Giblets/17505120.jpg</thumbnail>
+		<title>Adventure Jetray Rocket</title>
+		<creator>Galactic Chuck Giblets</creator>
+		<relatedgames />
+	</game>
+	<game id="17315386" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>/gamecreators/images2/Emperor/Joshua/Slurp/17315386.jpg</thumbnail>
+		<title>Shadow Quake Charge</title>
+		<creator>Emperor Joshua Slurp</creator>
+		<relatedgames />
+	</game>
+	<game id="10928690" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Giggling/Tom/Stampede/10928690.jpg</thumbnail>
+		<title>Pulse Doom Shadow</title>
+		<creator>Giggling Tom Stampede</creator>
+		<relatedgames />
+	</game>
+	<game id="17173567" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/30/2012">
+		<thumbnail>/gamecreators/images2/Singular/Egbert/Eel/17173567.jpg</thumbnail>
+		<title>Chase Shock Universe</title>
+		<creator>Singular Egbert Eel</creator>
+		<relatedgames />
+	</game>
+	<game id="17316341" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Queen/Rich/Sunshine/17316341.jpg</thumbnail>
+		<title>Galaxy Danger Challenge</title>
+		<creator>Queen Rich Sunshine</creator>
+		<relatedgames />
+	</game>
+	<game id="10920288" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Bizarre/Jonathan/Gong/10920288.jpg</thumbnail>
+		<title>Escape Beast Adventure</title>
+		<creator>Bizarre Jonathan Gong</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

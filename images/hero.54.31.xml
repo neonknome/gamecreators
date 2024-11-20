@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10921774" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Elegant/Joel/Spumoni/10921774.jpg</thumbnail>
+		<title>Fire Drone Ambush</title>
+		<creator>Elegant Joel Spumoni</creator>
+		<relatedgames />
+	</game>
+	<game id="10843782" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2009">
+		<thumbnail>/gamecreators/images2/Silent/Jimbo/Zombie/10843782.jpg</thumbnail>
+		<title>Vilgax Breaker Assault</title>
+		<creator>Silent Jimbo Zombie</creator>
+		<relatedgames />
+	</game>
+	<game id="17331653" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Electric/Izzy/Coconut/17331653.jpg</thumbnail>
+		<title>Energy Whirlwind Cosmic</title>
+		<creator>Electric Izzy Coconut</creator>
+		<relatedgames />
+	</game>
+	<game id="17403705" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Howling/Nicholas/Sardine/17403705.jpg</thumbnail>
+		<title>Escape Ambush Slam</title>
+		<creator>Howling Nicholas Sardine</creator>
+		<relatedgames />
+	</game>
+	<game id="16947501" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>/gamecreators/images2/Gentle/Rosetta/Snowball/16947501.jpg</thumbnail>
+		<title>Ultimate Brainstorm Vilgax</title>
+		<creator>Gentle Rosetta Snowball</creator>
+		<relatedgames />
+	</game>
+	<game id="10056467" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Mirthful/Danielle/Monster/10056467.jpg</thumbnail>
+		<title>Storm Ultimate Fusion</title>
+		<creator>Mirthful Danielle Monster</creator>
+		<relatedgames />
+	</game>
+	<game id="10929135" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wacky/Elijah/Scorpion/10929135.jpg</thumbnail>
+		<title>Alien Sonic Power</title>
+		<creator>Wacky Elijah Scorpion</creator>
+		<relatedgames />
+	</game>
+	<game id="16940361" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/17/2012">
+		<thumbnail>/gamecreators/images2/Capable/Beatrice/Sunset/16940361.jpg</thumbnail>
+		<title>Chill Iron Titan</title>
+		<creator>Capable Beatrice Sunset</creator>
+		<relatedgames />
+	</game>
+	<game id="17585367" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Keen/Isaiah/Phoenix/17585367.jpg</thumbnail>
+		<title>Energy Giga Dark</title>
+		<creator>Keen Isaiah Phoenix</creator>
+		<relatedgames />
+	</game>
+	<game id="10952782" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Obvious/Fred/Mallard/10952782.jpg</thumbnail>
+		<title>Swampfire Dark Rescue</title>
+		<creator>Obvious Fred Mallard</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

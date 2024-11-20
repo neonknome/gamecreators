@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17012539" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>/gamecreators/images2/Bold/Don/Robot/17012539.jpg</thumbnail>
+		<title>Laser Defense Attack</title>
+		<creator>Bold Don Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="10924623" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Purple/Thor/Thorax/10924623.jpg</thumbnail>
+		<title>Pulse Atomic Target</title>
+		<creator>Purple Thor Thorax</creator>
+		<relatedgames />
+	</game>
+	<game id="10786966" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>/gamecreators/images2/Radiant/Cynthia/Squeegee/10786966.jpg</thumbnail>
+		<title>Magno Solar Danger</title>
+		<creator>Radiant Cynthia Squeegee</creator>
+		<relatedgames />
+	</game>
+	<game id="10933814" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Twisty/Douglas/Turbo/10933814.jpg</thumbnail>
+		<title>Mega Mission Shadow</title>
+		<creator>Twisty Douglas Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="17560228" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Crunchy/Ava/Blizzard/17560228.jpg</thumbnail>
+		<title>Rocket Animo Droid</title>
+		<creator>Crunchy Ava Blizzard</creator>
+		<relatedgames />
+	</game>
+	<game id="10952581" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Gloomy/Harry/Bolt/10952581.jpg</thumbnail>
+		<title>Danger Vilgax Fusion</title>
+		<creator>Gloomy Harry Bolt</creator>
+		<relatedgames />
+	</game>
+	<game id="17423219" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>/gamecreators/images2/Quiet/Hunter/Blob/17423219.jpg</thumbnail>
+		<title>Turbo Champion Adventure</title>
+		<creator>Quiet Hunter Blob</creator>
+		<relatedgames />
+	</game>
+	<game id="17178491" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>/gamecreators/images2/Extreme/Alan/Avocado/17178491.jpg</thumbnail>
+		<title>Chase Steel Thunder</title>
+		<creator>Extreme Alan Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="10918078" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Daring/Will/Safari/10918078.jpg</thumbnail>
+		<title>Solar Dark Fire</title>
+		<creator>Daring Will Safari</creator>
+		<relatedgames />
+	</game>
+	<game id="16993882" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>/gamecreators/images2/Zany/Yorick/Behemoth/16993882.jpg</thumbnail>
+		<title>Spidermonkey Ultra Escape</title>
+		<creator>Zany Yorick Behemoth</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

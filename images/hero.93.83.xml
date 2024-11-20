@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10059207" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Generous/Medusa/Lard/10059207.jpg</thumbnail>
+		<title>Shadow Alien Rescue</title>
+		<creator>Generous Medusa Lard</creator>
+		<relatedgames />
+	</game>
+	<game id="10706149" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Shrewd/Leah/Acrobat/10706149.jpg</thumbnail>
+		<title>Attack Shadow Smash</title>
+		<creator>Shrewd Leah Acrobat</creator>
+		<relatedgames />
+	</game>
+	<game id="10939640" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Putrid/Tim/Paradox/10939640.jpg</thumbnail>
+		<title>Rocket Robot Robot</title>
+		<creator>Putrid Tim Paradox</creator>
+		<relatedgames />
+	</game>
+	<game id="10918647" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Eerie/Natasha/Skunk/10918647.jpg</thumbnail>
+		<title>Streak Quake Pulse</title>
+		<creator>Eerie Natasha Skunk</creator>
+		<relatedgames />
+	</game>
+	<game id="17014566" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>/gamecreators/images2/Generous/Carter/Bazooka/17014566.jpg</thumbnail>
+		<title>Stone Rescue Razor</title>
+		<creator>Generous Carter Bazooka</creator>
+		<relatedgames />
+	</game>
+	<game id="10916937" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Merry/Mike/Doodad/10916937.jpg</thumbnail>
+		<title>Fusion Hero Sonic</title>
+		<creator>Merry Mike Doodad</creator>
+		<relatedgames />
+	</game>
+	<game id="17334339" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Enormous/Lucius/Anvil/17334339.jpg</thumbnail>
+		<title>Chill Ambush Fusion</title>
+		<creator>Enormous Lucius Anvil</creator>
+		<relatedgames />
+	</game>
+	<game id="17377392" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Burly/Jacob/Blast/17377392.jpg</thumbnail>
+		<title>Nitro Big Adventure</title>
+		<creator>Burly Jacob Blast</creator>
+		<relatedgames />
+	</game>
+	<game id="10916968" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Northern/Shelby/Goulash/10916968.jpg</thumbnail>
+		<title>Attack Adventure Racer</title>
+		<creator>Northern Shelby Goulash</creator>
+		<relatedgames />
+	</game>
+	<game id="17177367" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>/gamecreators/images2/Loud/DJ/Minotaur/17177367.jpg</thumbnail>
+		<title>Ultimate Smash Challenge</title>
+		<creator>Loud DJ Minotaur</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

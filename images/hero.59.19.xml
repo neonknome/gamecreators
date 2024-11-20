@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10950318" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Robotic/Diego/Pirate/10950318.jpg</thumbnail>
+		<title>Ben Escape Vilgax</title>
+		<creator>Robotic Diego Pirate</creator>
+		<relatedgames />
+	</game>
+	<game id="10038642" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Artistic/Dominic/Lavender/10038642.jpg</thumbnail>
+		<title>Ultimate Drone Doom</title>
+		<creator>Artistic Dominic Lavender</creator>
+		<relatedgames />
+	</game>
+	<game id="10923388" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Scary/Orlando/Phantom/10923388.jpg</thumbnail>
+		<title>Ultra Swampfire Battle</title>
+		<creator>Scary Orlando Phantom</creator>
+		<relatedgames />
+	</game>
+	<game id="16977304" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Wily/Sadie/Skeleton/16977304.jpg</thumbnail>
+		<title>Invasion Alien Rush</title>
+		<creator>Wily Sadie Skeleton</creator>
+		<relatedgames />
+	</game>
+	<game id="10928502" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Awesome/Anthony/Monkey/10928502.jpg</thumbnail>
+		<title>Invasion Danger Fusion</title>
+		<creator>Awesome Anthony Monkey</creator>
+		<relatedgames />
+	</game>
+	<game id="17562051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Dubious/Kevin/Mustard/17562051.jpg</thumbnail>
+		<title>Rampage Swampfire Storm</title>
+		<creator>Dubious Kevin Mustard</creator>
+		<relatedgames />
+	</game>
+	<game id="10931923" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Noble/Noah/Gazelle/10931923.jpg</thumbnail>
+		<title>Escape Rampage Mega</title>
+		<creator>Noble Noah Gazelle</creator>
+		<relatedgames />
+	</game>
+	<game id="17340123" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/15/2012">
+		<thumbnail>/gamecreators/images2/Admiral/Joshua/Tuxedo/17340123.jpg</thumbnail>
+		<title>Power Shock Smash</title>
+		<creator>Admiral Joshua Tuxedo</creator>
+		<relatedgames />
+	</game>
+	<game id="17416299" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Creative/Mario/Noodle/17416299.jpg</thumbnail>
+		<title>Alien Droid Escape</title>
+		<creator>Creative Mario Noodle</creator>
+		<relatedgames />
+	</game>
+	<game id="17584078" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Unusual/Krystal/Jupiter/17584078.jpg</thumbnail>
+		<title>Rustbucket Pursuit Rampage</title>
+		<creator>Unusual Krystal Jupiter</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

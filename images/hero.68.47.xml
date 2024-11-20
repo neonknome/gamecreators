@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17011900" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>/gamecreators/images2/Expert/Hailey/Knight/17011900.jpg</thumbnail>
+		<title>Plumber Stone Pulse</title>
+		<creator>Expert Hailey Knight</creator>
+		<relatedgames />
+	</game>
+	<game id="17420645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Smart/Marco/Aardvark/17420645.jpg</thumbnail>
+		<title>Warrior Rumble Fury</title>
+		<creator>Smart Marco Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="17390861" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Evil/Jeremy/Nacho/17390861.jpg</thumbnail>
+		<title>Big Chill Mission</title>
+		<creator>Evil Jeremy Nacho</creator>
+		<relatedgames />
+	</game>
+	<game id="17293112" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>/gamecreators/images2/Gorgeous/Nicole/Presto/17293112.jpg</thumbnail>
+		<title>Rescue Razor Water</title>
+		<creator>Gorgeous Nicole Presto</creator>
+		<relatedgames />
+	</game>
+	<game id="10924748" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Nimble/Bobo/Iguana/10924748.jpg</thumbnail>
+		<title>Battle Escape Light</title>
+		<creator>Nimble Bobo Iguana</creator>
+		<relatedgames />
+	</game>
+	<game id="10927028" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Sly/Ava/Tugboat/10927028.jpg</thumbnail>
+		<title>Force Adventure Stone</title>
+		<creator>Sly Ava Tugboat</creator>
+		<relatedgames />
+	</game>
+	<game id="16997114" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/05/2012">
+		<thumbnail>/gamecreators/images2/Bouncing/Aaliyah/Vitamin/16997114.jpg</thumbnail>
+		<title>Danger Burst Cosmic</title>
+		<creator>Bouncing Aaliyah Vitamin</creator>
+		<relatedgames />
+	</game>
+	<game id="17314400" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>/gamecreators/images2/Speedy/Bryan/Minotaur/17314400.jpg</thumbnail>
+		<title>Plumber Target Titan</title>
+		<creator>Speedy Bryan Minotaur</creator>
+		<relatedgames />
+	</game>
+	<game id="10068519" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Alien/Isaiah/Thud/10068519.jpg</thumbnail>
+		<title>Force Pursuit Target</title>
+		<creator>Alien Isaiah Thud</creator>
+		<relatedgames />
+	</game>
+	<game id="10919699" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Shaggy/Shawn/Dodo/10919699.jpg</thumbnail>
+		<title>Smash Doom Giga</title>
+		<creator>Shaggy Shawn Dodo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17562390" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Tall/Sara/Hippo/17562390.jpg</thumbnail>
+		<title>Fury Adventure Ambush</title>
+		<creator>Tall Sara Hippo</creator>
+		<relatedgames />
+	</game>
+	<game id="17283515" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Negative/Bubbie/Pinwheel/17283515.jpg</thumbnail>
+		<title>Ultimate Adventure Storm</title>
+		<creator>Negative Bubbie Pinwheel</creator>
+		<relatedgames />
+	</game>
+	<game id="10916846" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Absurd/Rocky/Penguin/10916846.jpg</thumbnail>
+		<title>Ben Magno Blaster</title>
+		<creator>Absurd Rocky Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="10041474" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Crafty/Harvey/Atom/10041474.jpg</thumbnail>
+		<title>Swampfire Ultimate Smash</title>
+		<creator>Crafty Harvey Atom</creator>
+		<relatedgames />
+	</game>
+	<game id="10922617" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Twisty/Donald/Magma/10922617.jpg</thumbnail>
+		<title>Galaxy Rampage Dark</title>
+		<creator>Twisty Donald Magma</creator>
+		<relatedgames />
+	</game>
+	<game id="10930381" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Blue/Jonathan/Sunshine/10930381.jpg</thumbnail>
+		<title>Gear Storm Alien</title>
+		<creator>Blue Jonathan Sunshine</creator>
+		<relatedgames />
+	</game>
+	<game id="17536202" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>/gamecreators/images2/Hyper/Baxter/Blubber/17536202.jpg</thumbnail>
+		<title>Fusion Champion Space</title>
+		<creator>Hyper Baxter Blubber</creator>
+		<relatedgames />
+	</game>
+	<game id="17277286" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Mystic/Roscoe/Mummy/17277286.jpg</thumbnail>
+		<title>Adventure Slam Adventure</title>
+		<creator>Mystic Roscoe Mummy</creator>
+		<relatedgames />
+	</game>
+	<game id="10931915" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Itchy/Haley/Bamboo/10931915.jpg</thumbnail>
+		<title>Chase Magno Star</title>
+		<creator>Itchy Haley Bamboo</creator>
+		<relatedgames />
+	</game>
+	<game id="16975496" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Quiet/Alex/Wolf/16975496.jpg</thumbnail>
+		<title>Dark Nano Power</title>
+		<creator>Quiet Alex Wolf</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

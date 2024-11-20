@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10940046" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Northern/Spencer/Sizzle/10940046.jpg</thumbnail>
+		<title>Adventure Nitro Battle</title>
+		<creator>Northern Spencer Sizzle</creator>
+		<relatedgames />
+	</game>
+	<game id="17417687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Stormy/Mordecai/Vulture/17417687.jpg</thumbnail>
+		<title>Invasion Ultra Lightning</title>
+		<creator>Stormy Mordecai Vulture</creator>
+		<relatedgames />
+	</game>
+	<game id="10043837" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Artistic/Stacey/Atom/10043837.jpg</thumbnail>
+		<title>Universe Fusion Battle</title>
+		<creator>Artistic Stacey Atom</creator>
+		<relatedgames />
+	</game>
+	<game id="10919466" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Cheerful/Blake/Crater/10919466.jpg</thumbnail>
+		<title>Clash Atomic Stone</title>
+		<creator>Cheerful Blake Crater</creator>
+		<relatedgames />
+	</game>
+	<game id="17223727" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Quick/Chuck/Cobweb/17223727.jpg</thumbnail>
+		<title>Power Adventure Champion</title>
+		<creator>Quick Chuck Cobweb</creator>
+		<relatedgames />
+	</game>
+	<game id="17229933" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/16/2012">
+		<thumbnail>/gamecreators/images2/Emperor/Autumn/Mutant/17229933.jpg</thumbnail>
+		<title>Adventure Jetray Shock</title>
+		<creator>Emperor Autumn Mutant</creator>
+		<relatedgames />
+	</game>
+	<game id="10924693" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Crispy/Cory/Dingbat/10924693.jpg</thumbnail>
+		<title>Smash Breaker Fire</title>
+		<creator>Crispy Cory Dingbat</creator>
+		<relatedgames />
+	</game>
+	<game id="10921624" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Giggling/Ben/Paradox/10921624.jpg</thumbnail>
+		<title>Space Power Shock</title>
+		<creator>Giggling Ben Paradox</creator>
+		<relatedgames />
+	</game>
+	<game id="17336600" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Snazzy/Harry/Sawtooth/17336600.jpg</thumbnail>
+		<title>Lightning Racer Rampage</title>
+		<creator>Snazzy Harry Sawtooth</creator>
+		<relatedgames />
+	</game>
+	<game id="17011900" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>/gamecreators/images2/Expert/Hailey/Knight/17011900.jpg</thumbnail>
+		<title>Plumber Stone Pulse</title>
+		<creator>Expert Hailey Knight</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

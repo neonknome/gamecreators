@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17312994" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>/gamecreators/images2/Queen/Rich/Sunshine/17312994.jpg</thumbnail>
+		<title>Doom Gear Warrior</title>
+		<creator>Queen Rich Sunshine</creator>
+		<relatedgames />
+	</game>
+	<game id="10919497" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Red/Ethel/Atom/10919497.jpg</thumbnail>
+		<title>Alien Stone Solar</title>
+		<creator>Red Ethel Atom</creator>
+		<relatedgames />
+	</game>
+	<game id="10928015" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Unusual/Rocky/Gizzard/10928015.jpg</thumbnail>
+		<title>Fury Lightning Nova</title>
+		<creator>Unusual Rocky Gizzard</creator>
+		<relatedgames />
+	</game>
+	<game id="17336445" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Expert/Jonathan/Dodo/17336445.jpg</thumbnail>
+		<title>Alien Solar Smash</title>
+		<creator>Expert Jonathan Dodo</creator>
+		<relatedgames />
+	</game>
+	<game id="17232918" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>/gamecreators/images2/Amusing/Corey/Yoyo/17232918.jpg</thumbnail>
+		<title>Lightning Brainstorm Laser</title>
+		<creator>Amusing Corey Yoyo</creator>
+		<relatedgames />
+	</game>
+	<game id="10926749" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Daring/Jack/Photon/10926749.jpg</thumbnail>
+		<title>Rustbucket Hero Racer</title>
+		<creator>Daring Jack Photon</creator>
+		<relatedgames />
+	</game>
+	<game id="10953468" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Grand/Samuel/Penguin/10953468.jpg</thumbnail>
+		<title>Swampfire Mission Challenge</title>
+		<creator>Grand Samuel Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="10933707" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Reckless/Jeremy/Monkey/10933707.jpg</thumbnail>
+		<title>Drone Plasma Droid</title>
+		<creator>Reckless Jeremy Monkey</creator>
+		<relatedgames />
+	</game>
+	<game id="10953547" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Alien/Roy/Cinnamon/10953547.jpg</thumbnail>
+		<title>Quake Laser Ultra</title>
+		<creator>Alien Roy Cinnamon</creator>
+		<relatedgames />
+	</game>
+	<game id="17385004" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Purple/Dominic/Gorilla/17385004.jpg</thumbnail>
+		<title>Adventure Adventure Stone</title>
+		<creator>Purple Dominic Gorilla</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

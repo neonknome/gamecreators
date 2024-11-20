@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10930717" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Pretty/Isabel/Mallard/10930717.jpg</thumbnail>
+		<title>Crusher Ben Earth</title>
+		<creator>Pretty Isabel Mallard</creator>
+		<relatedgames />
+	</game>
+	<game id="10921995" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Colorful/Leslie/Enigma/10921995.jpg</thumbnail>
+		<title>Iron Fury Mission</title>
+		<creator>Colorful Leslie Enigma</creator>
+		<relatedgames />
+	</game>
+	<game id="10920168" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Ticklish/Spike/Dynamite/10920168.jpg</thumbnail>
+		<title>Cosmic Fire Slam</title>
+		<creator>Ticklish Spike Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="17574215" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Crafty/Vincent/Nacho/17574215.jpg</thumbnail>
+		<title>Galaxy Chill Shock</title>
+		<creator>Crafty Vincent Nacho</creator>
+		<relatedgames />
+	</game>
+	<game id="10953508" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Generous/Cheyenne/Fizz/10953508.jpg</thumbnail>
+		<title>Swampfire Mega Mission</title>
+		<creator>Generous Cheyenne Fizz</creator>
+		<relatedgames />
+	</game>
+	<game id="17373112" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>/gamecreators/images2/Shiny/Roy/Insect/17373112.jpg</thumbnail>
+		<title>Cannonbolt Vilgax Adventure</title>
+		<creator>Shiny Roy Insect</creator>
+		<relatedgames />
+	</game>
+	<game id="10058992" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Purple/Peter/Amethyst/10058992.jpg</thumbnail>
+		<title>Hyper Battle Shock</title>
+		<creator>Purple Peter Amethyst</creator>
+		<relatedgames />
+	</game>
+	<game id="17582460" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Grubby/Jan/Gorilla/17582460.jpg</thumbnail>
+		<title>Dark Adventure Battle</title>
+		<creator>Grubby Jan Gorilla</creator>
+		<relatedgames />
+	</game>
+	<game id="10940046" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Northern/Spencer/Sizzle/10940046.jpg</thumbnail>
+		<title>Adventure Nitro Battle</title>
+		<creator>Northern Spencer Sizzle</creator>
+		<relatedgames />
+	</game>
+	<game id="10952658" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Visible/Zachary/Scribble/10952658.jpg</thumbnail>
+		<title>Hex Assault Drone</title>
+		<creator>Visible Zachary Scribble</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

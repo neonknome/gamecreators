@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10015515" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Alien/Nathan/Parallax/10015515.jpg</thumbnail>
+		<title>Techno Laser Invasion</title>
+		<creator>Alien Nathan Parallax</creator>
+		<relatedgames />
+	</game>
+	<game id="17292491" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>/gamecreators/images2/Dandy/Penny/Minotaur/17292491.jpg</thumbnail>
+		<title>Clash Invasion Ultimate</title>
+		<creator>Dandy Penny Minotaur</creator>
+		<relatedgames />
+	</game>
+	<game id="17558781" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Volcanic/Adrian/Charger/17558781.jpg</thumbnail>
+		<title>Ambush Target Attack</title>
+		<creator>Volcanic Adrian Charger</creator>
+		<relatedgames />
+	</game>
+	<game id="10055642" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Husky/Todd/Cyborg/10055642.jpg</thumbnail>
+		<title>Stone Siege Crusher</title>
+		<creator>Husky Todd Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="10057799" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Swift/Vinny/Crater/10057799.jpg</thumbnail>
+		<title>Swampfire Thunder Adventure</title>
+		<creator>Swift Vinny Crater</creator>
+		<relatedgames />
+	</game>
+	<game id="10786744" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>/gamecreators/images2/Baffling/Otis/Moonbeam/10786744.jpg</thumbnail>
+		<title>Plasma Crusher Droid</title>
+		<creator>Baffling Otis Moonbeam</creator>
+		<relatedgames />
+	</game>
+	<game id="10934745" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Absurd/Baxter/Cosmos/10934745.jpg</thumbnail>
+		<title>Star Rustbucket Quake</title>
+		<creator>Absurd Baxter Cosmos</creator>
+		<relatedgames />
+	</game>
+	<game id="10924783" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Cosmic/Harry/Bongo/10924783.jpg</thumbnail>
+		<title>Force Rustbucket Attack</title>
+		<creator>Cosmic Harry Bongo</creator>
+		<relatedgames />
+	</game>
+	<game id="10057062" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Bizarre/Zelda/Catapult/10057062.jpg</thumbnail>
+		<title>Droid Target Rush</title>
+		<creator>Bizarre Zelda Catapult</creator>
+		<relatedgames />
+	</game>
+	<game id="10921477" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Humorous/Lorenzo/Igloo/10921477.jpg</thumbnail>
+		<title>Fire Siege Giga</title>
+		<creator>Humorous Lorenzo Igloo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

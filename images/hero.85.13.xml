@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17316554" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Queen/Rich/Sunshine/17316554.jpg</thumbnail>
+		<title>Rustbucket Techno Robot</title>
+		<creator>Queen Rich Sunshine</creator>
+		<relatedgames />
+	</game>
+	<game id="10916882" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Felix/Pontoon/10916882.jpg</thumbnail>
+		<title>Rumble Adventure Challenge</title>
+		<creator>Tricky Felix Pontoon</creator>
+		<relatedgames />
+	</game>
+	<game id="17382087" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Creepy/Richard/Oink/17382087.jpg</thumbnail>
+		<title>Fusion Rescue Drone</title>
+		<creator>Creepy Richard Oink</creator>
+		<relatedgames />
+	</game>
+	<game id="10937465" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Gigantic/Natalie/Marigold/10937465.jpg</thumbnail>
+		<title>Alien Assault Hero</title>
+		<creator>Gigantic Natalie Marigold</creator>
+		<relatedgames />
+	</game>
+	<game id="17288430" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/01/2012">
+		<thumbnail>/gamecreators/images2/Queen/Lawrence/Eggplant/17288430.jpg</thumbnail>
+		<title>Ultimate Echo Echo</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames />
+	</game>
+	<game id="17332505" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Evil/Parker/Planet/17332505.jpg</thumbnail>
+		<title>Mega Champion Robot</title>
+		<creator>Evil Parker Planet</creator>
+		<relatedgames />
+	</game>
+	<game id="17305923" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>/gamecreators/images2/Daring/Bryce/Cyborg/17305923.jpg</thumbnail>
+		<title>Patrol Turbo Chase</title>
+		<creator>Daring Bryce Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="10039284" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Gracious/Vladimir/Yodel/10039284.jpg</thumbnail>
+		<title>Animo Lightning Defense</title>
+		<creator>Gracious Vladimir Yodel</creator>
+		<relatedgames />
+	</game>
+	<game id="10922333" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Zany/Drew/Hippo/10922333.jpg</thumbnail>
+		<title>Dark Star Ultra</title>
+		<creator>Zany Drew Hippo</creator>
+		<relatedgames />
+	</game>
+	<game id="10934445" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Clever/Avery/Coconut/10934445.jpg</thumbnail>
+		<title>Animo Power Robot</title>
+		<creator>Clever Avery Coconut</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

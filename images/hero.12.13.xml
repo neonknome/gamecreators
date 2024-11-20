@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10934594" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Honest/Kenneth/Saber/10934594.jpg</thumbnail>
+		<title>Fusion Chase Invasion</title>
+		<creator>Honest Kenneth Saber</creator>
+		<relatedgames />
+	</game>
+	<game id="17382115" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Galactic/Ben/Panda/17382115.jpg</thumbnail>
+		<title>Giga Alien Rock</title>
+		<creator>Galactic Ben Panda</creator>
+		<relatedgames />
+	</game>
+	<game id="17381990" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Massive/Eva/Shogun/17381990.jpg</thumbnail>
+		<title>Storm Spike Racer</title>
+		<creator>Massive Eva Shogun</creator>
+		<relatedgames />
+	</game>
+	<game id="17327459" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Shannon/Blast/17327459.jpg</thumbnail>
+		<title>Mega Pursuit Sonic</title>
+		<creator>Shannon Blast</creator>
+		<relatedgames />
+	</game>
+	<game id="17413193" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/14/2012">
+		<thumbnail>/gamecreators/images2/Humorous/Matthew/Dingbat/17413193.jpg</thumbnail>
+		<title>Waterhazard Steel Adventure</title>
+		<creator>Humorous Matthew Dingbat</creator>
+		<relatedgames />
+	</game>
+	<game id="10935006" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Swift/Mitchell/Parsec/10935006.jpg</thumbnail>
+		<title>Space Assault Clash</title>
+		<creator>Swift Mitchell Parsec</creator>
+		<relatedgames />
+	</game>
+	<game id="10943186" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Babbling/Clark/Daffodil/10943186.jpg</thumbnail>
+		<title>Escape Star Clash</title>
+		<creator>Babbling Clark Daffodil</creator>
+		<relatedgames />
+	</game>
+	<game id="10936316" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Sincere/Victor/Boing/10936316.jpg</thumbnail>
+		<title>Ambush Iron Lightning</title>
+		<creator>Sincere Victor Boing</creator>
+		<relatedgames />
+	</game>
+	<game id="17271206" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/27/2012">
+		<thumbnail>/gamecreators/images2/Abstract/Hugo/Hambone/17271206.jpg</thumbnail>
+		<title>Spike Stone Energy</title>
+		<creator>Abstract Hugo Hambone</creator>
+		<relatedgames />
+	</game>
+	<game id="10039132" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Bizarre/Caleb/Blammo/10039132.jpg</thumbnail>
+		<title>Ultimate Spark Spike</title>
+		<creator>Bizarre Caleb Blammo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

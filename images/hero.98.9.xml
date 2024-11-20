@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10925264" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dazzling/Mike/Blubber/10925264.jpg</thumbnail>
+		<title>Fire Ben Nitro</title>
+		<creator>Dazzling Mike Blubber</creator>
+		<relatedgames />
+	</game>
+	<game id="10793389" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2009">
+		<thumbnail>/gamecreators/images2/Fizzy/Irwin/Mustang/10793389.jpg</thumbnail>
+		<title>Blaster Adventure Dark</title>
+		<creator>Fizzy Irwin Mustang</creator>
+		<relatedgames />
+	</game>
+	<game id="10930206" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Loony/James/Kangaroo/10930206.jpg</thumbnail>
+		<title>Pursuit Star Adventure</title>
+		<creator>Loony James Kangaroo</creator>
+		<relatedgames />
+	</game>
+	<game id="16907817" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/09/2012">
+		<thumbnail>/gamecreators/images2/Restless/Oscar/Mumbles/16907817.jpg</thumbnail>
+		<title>Razor Alien Iron</title>
+		<creator>Restless Oscar Mumbles</creator>
+		<relatedgames />
+	</game>
+	<game id="10039132" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Bizarre/Caleb/Blammo/10039132.jpg</thumbnail>
+		<title>Ultimate Spark Spike</title>
+		<creator>Bizarre Caleb Blammo</creator>
+		<relatedgames />
+	</game>
+	<game id="17277603" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Eloquent/Parker/Quarry/17277603.jpg</thumbnail>
+		<title>Echo Champion Pulse</title>
+		<creator>Eloquent Parker Quarry</creator>
+		<relatedgames />
+	</game>
+	<game id="17117134" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/12/2012">
+		<thumbnail>/gamecreators/images2/Humorous/Ethel/Pinball/17117134.jpg</thumbnail>
+		<title>Attack Metal Mission</title>
+		<creator>Humorous Ethel Pinball</creator>
+		<relatedgames />
+	</game>
+	<game id="10953074" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Gigantic/Felix/Shark/10953074.jpg</thumbnail>
+		<title>Nitro Plasma Light</title>
+		<creator>Gigantic Felix Shark</creator>
+		<relatedgames />
+	</game>
+	<game id="17581794" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Musical/Bella/Gizzard/17581794.jpg</thumbnail>
+		<title>Doom Target Patrol</title>
+		<creator>Musical Bella Gizzard</creator>
+		<relatedgames />
+	</game>
+	<game id="17325121" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Able/Zelda/Platypus/17325121.jpg</thumbnail>
+		<title>Cannonbolt Sonic Adventure</title>
+		<creator>Able Zelda Platypus</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

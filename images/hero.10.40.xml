@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16965399" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/24/2012">
+		<thumbnail>/gamecreators/images2/Feral/Andrew/Mustang/16965399.jpg</thumbnail>
+		<title>Humongousaur Assault Blaster</title>
+		<creator>Feral Andrew Mustang</creator>
+		<relatedgames />
+	</game>
+	<game id="17075414" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/31/2012">
+		<thumbnail>/gamecreators/images2/Tireless/Ruby/Phoenix/17075414.jpg</thumbnail>
+		<title>Fire Ben Universe</title>
+		<creator>Tireless Ruby Phoenix</creator>
+		<relatedgames />
+	</game>
+	<game id="10064405" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Cranky/Dawn/Boing/10064405.jpg</thumbnail>
+		<title>Racer Racer Assault</title>
+		<creator>Cranky Dawn Boing</creator>
+		<relatedgames />
+	</game>
+	<game id="17376853" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2012">
+		<thumbnail>/gamecreators/images2/Hypnotic/Mason/Blast/17376853.jpg</thumbnail>
+		<title>Adventure Warp Laser</title>
+		<creator>Hypnotic Mason Blast</creator>
+		<relatedgames />
+	</game>
+	<game id="10924623" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Purple/Thor/Thorax/10924623.jpg</thumbnail>
+		<title>Pulse Atomic Target</title>
+		<creator>Purple Thor Thorax</creator>
+		<relatedgames />
+	</game>
+	<game id="17362289" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2012">
+		<thumbnail>/gamecreators/images2/Ticklish/Dylan/Steel/17362289.jpg</thumbnail>
+		<title>Ultra Thunder Mission</title>
+		<creator>Ticklish Dylan Steel</creator>
+		<relatedgames />
+	</game>
+	<game id="10044001" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Crafty/Hunter/Iguana/10044001.jpg</thumbnail>
+		<title>Chase Challenge Rampage</title>
+		<creator>Crafty Hunter Iguana</creator>
+		<relatedgames />
+	</game>
+	<game id="17286369" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>/gamecreators/images2/General/Alvin/Wiffle/17286369.jpg</thumbnail>
+		<title>Ultimate Vilgax Battle</title>
+		<creator>General Alvin Wiffle</creator>
+		<relatedgames />
+	</game>
+	<game id="10922797" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Purple/Kevin/Penguin/10922797.jpg</thumbnail>
+		<title>Energy Lightning Galaxy</title>
+		<creator>Purple Kevin Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="17423219" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>/gamecreators/images2/Quiet/Hunter/Blob/17423219.jpg</thumbnail>
+		<title>Turbo Champion Adventure</title>
+		<creator>Quiet Hunter Blob</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17413193" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/14/2012">
+		<thumbnail>/gamecreators/images2/Humorous/Matthew/Dingbat/17413193.jpg</thumbnail>
+		<title>Waterhazard Steel Adventure</title>
+		<creator>Humorous Matthew Dingbat</creator>
+		<relatedgames />
+	</game>
+	<game id="10953516" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Proper/Goliath/Wombat/10953516.jpg</thumbnail>
+		<title>Rampage Breaker Pulse</title>
+		<creator>Proper Goliath Wombat</creator>
+		<relatedgames />
+	</game>
+	<game id="17296006" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>/gamecreators/images2/Complex/Dennis/Apple/17296006.jpg</thumbnail>
+		<title>Stone Rustbucket Adventure</title>
+		<creator>Complex Dennis Apple</creator>
+		<relatedgames />
+	</game>
+	<game id="10921864" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Cheyenne/Iceberg/10921864.jpg</thumbnail>
+		<title>Ultimate Alien Smash</title>
+		<creator>Tricky Cheyenne Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="17407634" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>/gamecreators/images2/Creative/Yorick/Worm/17407634.jpg</thumbnail>
+		<title>Rampage Nitro Burst</title>
+		<creator>Creative Yorick Worm</creator>
+		<relatedgames />
+	</game>
+	<game id="10064388" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Sincere/Diego/Tiptoe/10064388.jpg</thumbnail>
+		<title>Adventure Challenge Battle</title>
+		<creator>Sincere Diego Tiptoe</creator>
+		<relatedgames />
+	</game>
+	<game id="17366681" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/25/2012">
+		<thumbnail>/gamecreators/images2/Queen/Jeff/Kayak/17366681.jpg</thumbnail>
+		<title>Mission Swampfire Burst</title>
+		<creator>Queen Jeff Kayak</creator>
+		<relatedgames />
+	</game>
+	<game id="17214957" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/12/2012">
+		<thumbnail>/gamecreators/images2/Crazy/Payton/Shadow/17214957.jpg</thumbnail>
+		<title>Alien Invasion Breaker</title>
+		<creator>Crazy Payton Shadow</creator>
+		<relatedgames />
+	</game>
+	<game id="10055889" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Ghostly/Charles/Cosmos/10055889.jpg</thumbnail>
+		<title>Pulse Plumber Adventure</title>
+		<creator>Ghostly Charles Cosmos</creator>
+		<relatedgames />
+	</game>
+	<game id="17017938" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>/gamecreators/images2/Gothic/Sara/Weasel/17017938.jpg</thumbnail>
+		<title>Rush Cosmic Adventure</title>
+		<creator>Gothic Sara Weasel</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

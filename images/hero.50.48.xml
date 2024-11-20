@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16872865" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/02/2012">
+		<thumbnail>/gamecreators/images2/Gleeful/Michael/Sphinx/16872865.jpg</thumbnail>
+		<title>Nano Adventure Fire</title>
+		<creator>Gleeful Michael Sphinx</creator>
+		<relatedgames />
+	</game>
+	<game id="17223727" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Quick/Chuck/Cobweb/17223727.jpg</thumbnail>
+		<title>Power Adventure Champion</title>
+		<creator>Quick Chuck Cobweb</creator>
+		<relatedgames />
+	</game>
+	<game id="17413070" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/14/2012">
+		<thumbnail>/gamecreators/images2/Soggy/Quinn/Pizza/17413070.jpg</thumbnail>
+		<title>Star Attack Magno</title>
+		<creator>Soggy Quinn Pizza</creator>
+		<relatedgames />
+	</game>
+	<game id="17295723" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>/gamecreators/images2/Extinct/Oscar/Yoyo/17295723.jpg</thumbnail>
+		<title>Power Quake Adventure</title>
+		<creator>Extinct Oscar Yoyo</creator>
+		<relatedgames />
+	</game>
+	<game id="17333051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Daring/Ricardo/Tiger/17333051.jpg</thumbnail>
+		<title>Chill Dark Sonic</title>
+		<creator>Daring Ricardo Tiger</creator>
+		<relatedgames />
+	</game>
+	<game id="10068757" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Green/Andy/Tusk/10068757.jpg</thumbnail>
+		<title>Ben Alien Force</title>
+		<creator>Green Andy Tusk</creator>
+		<relatedgames />
+	</game>
+	<game id="17336600" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Snazzy/Harry/Sawtooth/17336600.jpg</thumbnail>
+		<title>Lightning Racer Rampage</title>
+		<creator>Snazzy Harry Sawtooth</creator>
+		<relatedgames />
+	</game>
+	<game id="17257447" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>/gamecreators/images2/Positive/Jill/Orca/17257447.jpg</thumbnail>
+		<title>Breaker Racer Razor</title>
+		<creator>Positive Jill Orca</creator>
+		<relatedgames />
+	</game>
+	<game id="10058992" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Purple/Peter/Amethyst/10058992.jpg</thumbnail>
+		<title>Hyper Battle Shock</title>
+		<creator>Purple Peter Amethyst</creator>
+		<relatedgames />
+	</game>
+	<game id="16870844" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>/gamecreators/images2/Eerie/Ava/Centaur/16870844.jpg</thumbnail>
+		<title>Iron Adventure Rescue</title>
+		<creator>Eerie Ava Centaur</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17504961" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>/gamecreators/images2/Evil/Mario/Gargoyle/17504961.jpg</thumbnail>
+		<title>Giga Storm Blaster</title>
+		<creator>Evil Mario Gargoyle</creator>
+		<relatedgames />
+	</game>
+	<game id="10952447" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Sly/Gulliver/Glop/10952447.jpg</thumbnail>
+		<title>Earth Pursuit Nitro</title>
+		<creator>Sly Gulliver Glop</creator>
+		<relatedgames />
+	</game>
+	<game id="17224970" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>/gamecreators/images2/Bouncing/Benton/Mummy/17224970.jpg</thumbnail>
+		<title>Ben Jetray Beast</title>
+		<creator>Bouncing Benton Mummy</creator>
+		<relatedgames />
+	</game>
+	<game id="17420517" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Evasive/Ashton/Unicycle/17420517.jpg</thumbnail>
+		<title>Blaster Mission Titan</title>
+		<creator>Evasive Ashton Unicycle</creator>
+		<relatedgames />
+	</game>
+	<game id="17262592" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Immortal/Lawrence/Spider/17262592.jpg</thumbnail>
+		<title>Warp Shadow Pulse</title>
+		<creator>Immortal Lawrence Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="17394571" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/04/2012">
+		<thumbnail>/gamecreators/images2/Golden/Will/Pyramid/17394571.jpg</thumbnail>
+		<title>Slam Blaster Solar</title>
+		<creator>Golden Will Pyramid</creator>
+		<relatedgames />
+	</game>
+	<game id="17377498" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Nimble/Billy/Flywheel/17377498.jpg</thumbnail>
+		<title>Ambush Smash Challenge</title>
+		<creator>Nimble Billy Flywheel</creator>
+		<relatedgames />
+	</game>
+	<game id="10952702" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Chilly/Phyllis/Talon/10952702.jpg</thumbnail>
+		<title>Swampfire Rustbucket Rocket</title>
+		<creator>Chilly Phyllis Talon</creator>
+		<relatedgames />
+	</game>
+	<game id="16872902" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/02/2012">
+		<thumbnail>/gamecreators/images2/Frantic/Carlos/Anvil/16872902.jpg</thumbnail>
+		<title>Universe Warrior Iron</title>
+		<creator>Frantic Carlos Anvil</creator>
+		<relatedgames />
+	</game>
+	<game id="10952457" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Lucky/Dennis/Penguin/10952457.jpg</thumbnail>
+		<title>Atomic Ambush Energy</title>
+		<creator>Lucky Dennis Penguin</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

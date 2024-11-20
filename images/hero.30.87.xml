@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17554156" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Loony/Sam/Garlic/17554156.jpg</thumbnail>
+		<title>Laser Sonic Adventure</title>
+		<creator>Loony Sam Garlic</creator>
+		<relatedgames />
+	</game>
+	<game id="17319185" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Virtual/Johnny/Vortex/17319185.jpg</thumbnail>
+		<title>Cosmic Assault Alien</title>
+		<creator>Virtual Johnny Vortex</creator>
+		<relatedgames />
+	</game>
+	<game id="17047952" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/22/2012">
+		<thumbnail>/gamecreators/images2/Bright/Grace/Sparkle/17047952.jpg</thumbnail>
+		<title>Turbo Laser Blaster</title>
+		<creator>Bright Grace Sparkle</creator>
+		<relatedgames />
+	</game>
+	<game id="10064634" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Stately/Bob/Avocado/10064634.jpg</thumbnail>
+		<title>Rumble Razor Turbo</title>
+		<creator>Stately Bob Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="17386150" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Dazzling/Ellen/Zigzag/17386150.jpg</thumbnail>
+		<title>Ultimate Stone Turbo</title>
+		<creator>Dazzling Ellen Zigzag</creator>
+		<relatedgames />
+	</game>
+	<game id="10920193" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Chaotic/Carson/Thunder/10920193.jpg</thumbnail>
+		<title>Atomic Force Clash</title>
+		<creator>Chaotic Carson Thunder</creator>
+		<relatedgames />
+	</game>
+	<game id="10930994" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fizzy/Casey/Flipper/10930994.jpg</thumbnail>
+		<title>Fire Fire Warrior</title>
+		<creator>Fizzy Casey Flipper</creator>
+		<relatedgames />
+	</game>
+	<game id="10916958" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Loony/Ace/Eel/10916958.jpg</thumbnail>
+		<title>Lightning Rampage Droid</title>
+		<creator>Loony Ace Eel</creator>
+		<relatedgames />
+	</game>
+	<game id="10056378" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Reliable/Norman/Gazelle/10056378.jpg</thumbnail>
+		<title>Galaxy Fire Breaker</title>
+		<creator>Reliable Norman Gazelle</creator>
+		<relatedgames />
+	</game>
+	<game id="10953308" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Orange/Donald/Pinwheel/10953308.jpg</thumbnail>
+		<title>Danger Racer Techno</title>
+		<creator>Orange Donald Pinwheel</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

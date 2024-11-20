@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10916890" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Dashing/Billy/Glacier/10916890.jpg</thumbnail>
+		<title>Quake Robot Pursuit</title>
+		<creator>Dashing Billy Glacier</creator>
+		<relatedgames />
+	</game>
+	<game id="10952821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Western/Leon/Figment/10952821.jpg</thumbnail>
+		<title>Battle Force Doom</title>
+		<creator>Western Leon Figment</creator>
+		<relatedgames />
+	</game>
+	<game id="16948692" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>/gamecreators/images2/Fiery/Alyssa/Blammo/16948692.jpg</thumbnail>
+		<title>Rush Breaker Storm</title>
+		<creator>Fiery Alyssa Blammo</creator>
+		<relatedgames />
+	</game>
+	<game id="10916893" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Dramatic/Rufus/Ogre/10916893.jpg</thumbnail>
+		<title>Patrol Rush Chase</title>
+		<creator>Dramatic Rufus Ogre</creator>
+		<relatedgames />
+	</game>
+	<game id="10044170" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Happy/Bernard/Banjo/10044170.jpg</thumbnail>
+		<title>Mission Stone Pursuit</title>
+		<creator>Happy Bernard Banjo</creator>
+		<relatedgames />
+	</game>
+	<game id="16930985" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/14/2012">
+		<thumbnail>/gamecreators/images2/Splendid/Simon/Sardine/16930985.jpg</thumbnail>
+		<title>Shock Charge Rocket</title>
+		<creator>Splendid Simon Sardine</creator>
+		<relatedgames />
+	</game>
+	<game id="10936585" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Rugged/Dakota/Doodle/10936585.jpg</thumbnail>
+		<title>Robot Rumble Rampage</title>
+		<creator>Rugged Dakota Doodle</creator>
+		<relatedgames />
+	</game>
+	<game id="10028568" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Atomic/Harvey/Aardvark/10028568.jpg</thumbnail>
+		<title>Fire Spike Search</title>
+		<creator>Atomic Harvey Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="10950848" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Dramatic/Gladys/Turbo/10950848.jpg</thumbnail>
+		<title>Mega Rescue Thunder</title>
+		<creator>Dramatic Gladys Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="10928370" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Handsome/Jeffrey/Aardvark/10928370.jpg</thumbnail>
+		<title>Blaster Slam Razor</title>
+		<creator>Handsome Jeffrey Aardvark</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

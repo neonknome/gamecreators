@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17285330" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>/gamecreators/images2/Negative/Andy/Atlas/17285330.jpg</thumbnail>
+		<title>Fire Burst Attack</title>
+		<creator>Negative Andy Atlas</creator>
+		<relatedgames />
+	</game>
+	<game id="10930650" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Absurd/Owen/Dragon/10930650.jpg</thumbnail>
+		<title>Chase Force Power</title>
+		<creator>Absurd Owen Dragon</creator>
+		<relatedgames />
+	</game>
+	<game id="10043788" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Crafty/Brittany/Quack/10043788.jpg</thumbnail>
+		<title>Sonic Hero Patrol</title>
+		<creator>Crafty Brittany Quack</creator>
+		<relatedgames />
+	</game>
+	<game id="10045430" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Twisty/Bubba/Kazoo/10045430.jpg</thumbnail>
+		<title>Laser Dark Shadow</title>
+		<creator>Twisty Bubba Kazoo</creator>
+		<relatedgames />
+	</game>
+	<game id="17188315" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/04/2012">
+		<thumbnail>/gamecreators/images2/Crispy/Steven/Bazooka/17188315.jpg</thumbnail>
+		<title>Shock Echo Adventure</title>
+		<creator>Crispy Steven Bazooka</creator>
+		<relatedgames />
+	</game>
+	<game id="17301462" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Ironic/Isaac/Deadbolt/17301462.jpg</thumbnail>
+		<title>Thunder Ultra Alien</title>
+		<creator>Ironic Isaac Deadbolt</creator>
+		<relatedgames />
+	</game>
+	<game id="17223727" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Quick/Chuck/Cobweb/17223727.jpg</thumbnail>
+		<title>Power Adventure Champion</title>
+		<creator>Quick Chuck Cobweb</creator>
+		<relatedgames />
+	</game>
+	<game id="10923763" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Fred/Biscuit/10923763.jpg</thumbnail>
+		<title>Rampage Ultra Nano</title>
+		<creator>Tricky Fred Biscuit</creator>
+		<relatedgames />
+	</game>
+	<game id="10924693" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Crispy/Cory/Dingbat/10924693.jpg</thumbnail>
+		<title>Smash Breaker Fire</title>
+		<creator>Crispy Cory Dingbat</creator>
+		<relatedgames />
+	</game>
+	<game id="10921624" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Giggling/Ben/Paradox/10921624.jpg</thumbnail>
+		<title>Space Power Shock</title>
+		<creator>Giggling Ben Paradox</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

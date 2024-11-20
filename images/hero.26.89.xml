@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17378888" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Major/Alan/Cartoon/17378888.jpg</thumbnail>
+		<title>Ultra Laser Battle</title>
+		<creator>Major Alan Cartoon</creator>
+		<relatedgames />
+	</game>
+	<game id="10922399" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Brawny/Nathan/Moonbeam/10922399.jpg</thumbnail>
+		<title>Turbo Robot Shock</title>
+		<creator>Brawny Nathan Moonbeam</creator>
+		<relatedgames />
+	</game>
+	<game id="17577028" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Famous/Flapjack/Shogun/17577028.jpg</thumbnail>
+		<title>Echo Alien Omniverse</title>
+		<creator>Famous Flapjack Shogun</creator>
+		<relatedgames />
+	</game>
+	<game id="10942820" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Itchy/Wilbur/Moonbeam/10942820.jpg</thumbnail>
+		<title>Swampfire Invasion Nano</title>
+		<creator>Itchy Wilbur Moonbeam</creator>
+		<relatedgames />
+	</game>
+	<game id="10952770" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Nomadic/Ryan/Grouch/10952770.jpg</thumbnail>
+		<title>Magno Magno Hex</title>
+		<creator>Nomadic Ryan Grouch</creator>
+		<relatedgames />
+	</game>
+	<game id="17540803" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Agile/Lance/Pulsar/17540803.jpg</thumbnail>
+		<title>Power Hero Rampage</title>
+		<creator>Agile Lance Pulsar</creator>
+		<relatedgames />
+	</game>
+	<game id="16891507" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/06/2012">
+		<thumbnail>/gamecreators/images2/Vast/Zach/Renegade/16891507.jpg</thumbnail>
+		<title>Assault Alien Ambush</title>
+		<creator>Vast Zach Renegade</creator>
+		<relatedgames />
+	</game>
+	<game id="10918156" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Brawny/Bradley/Howler/10918156.jpg</thumbnail>
+		<title>Hex Mission Plumber</title>
+		<creator>Brawny Bradley Howler</creator>
+		<relatedgames />
+	</game>
+	<game id="17391769" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Noisy/Judith/Taco/17391769.jpg</thumbnail>
+		<title>Doom Warp Crusher</title>
+		<creator>Noisy Judith Taco</creator>
+		<relatedgames />
+	</game>
+	<game id="10063245" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Fierce/Shelby/Zigzag/10063245.jpg</thumbnail>
+		<title>Shadow Invasion Shadow</title>
+		<creator>Fierce Shelby Zigzag</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

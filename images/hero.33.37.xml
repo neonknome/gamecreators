@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10704476" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Orange/Greg/Basilisk/10704476.jpg</thumbnail>
+		<title>Ultimate Warrior Battle</title>
+		<creator>Orange Greg Basilisk</creator>
+		<relatedgames />
+	</game>
+	<game id="17281337" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Dominic/Hologram/17281337.jpg</thumbnail>
+		<title>Pursuit Power Battle</title>
+		<creator>Magnetic Dominic Hologram</creator>
+		<relatedgames />
+	</game>
+	<game id="10935717" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wild/Mike/Squawk/10935717.jpg</thumbnail>
+		<title>Rush Fire Thunder</title>
+		<creator>Wild Mike Squawk</creator>
+		<relatedgames />
+	</game>
+	<game id="17220625" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Carefree/Penelope/Banshee/17220625.jpg</thumbnail>
+		<title>Clash Universe Giga</title>
+		<creator>Carefree Penelope Banshee</creator>
+		<relatedgames />
+	</game>
+	<game id="10936094" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Grand/Michelle/Goulash/10936094.jpg</thumbnail>
+		<title>Alien Atomic Attack</title>
+		<creator>Grand Michelle Goulash</creator>
+		<relatedgames />
+	</game>
+	<game id="17220720" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Smart/Pearl/Confetti/17220720.jpg</thumbnail>
+		<title>Cosmic Adventure Ben</title>
+		<creator>Smart Pearl Confetti</creator>
+		<relatedgames />
+	</game>
+	<game id="10038215" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Reckless/Jeremiah/Doodle/10038215.jpg</thumbnail>
+		<title>Cosmic Fire Adventure</title>
+		<creator>Reckless Jeremiah Doodle</creator>
+		<relatedgames />
+	</game>
+	<game id="17409988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/12/2012">
+		<thumbnail>/gamecreators/images2/Bouncing/Wally/Apple/17409988.jpg</thumbnail>
+		<title>Fire Alien Hero</title>
+		<creator>Bouncing Wally Apple</creator>
+		<relatedgames />
+	</game>
+	<game id="17319388" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/09/2012">
+		<thumbnail>/gamecreators/images2/Evil/Keith/Dynamite/17319388.jpg</thumbnail>
+		<title>Chase Blaster Smash</title>
+		<creator>Evil Keith Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="10041108" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Alien/Pearl/Cyborg/10041108.jpg</thumbnail>
+		<title>Swampfire Target Burst</title>
+		<creator>Alien Pearl Cyborg</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

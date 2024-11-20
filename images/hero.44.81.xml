@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10924853" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Enormous/Brandon/Vector/10924853.jpg</thumbnail>
+		<title>Solar Ultimate Fury</title>
+		<creator>Enormous Brandon Vector</creator>
+		<relatedgames />
+	</game>
+	<game id="17536202" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>/gamecreators/images2/Hyper/Baxter/Blubber/17536202.jpg</thumbnail>
+		<title>Fusion Champion Space</title>
+		<creator>Hyper Baxter Blubber</creator>
+		<relatedgames />
+	</game>
+	<game id="17277286" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Mystic/Roscoe/Mummy/17277286.jpg</thumbnail>
+		<title>Adventure Slam Adventure</title>
+		<creator>Mystic Roscoe Mummy</creator>
+		<relatedgames />
+	</game>
+	<game id="10931915" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Itchy/Haley/Bamboo/10931915.jpg</thumbnail>
+		<title>Chase Magno Star</title>
+		<creator>Itchy Haley Bamboo</creator>
+		<relatedgames />
+	</game>
+	<game id="10063221" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Tricky/Mike/Waffle/10063221.jpg</thumbnail>
+		<title>Adventure Atomic Galaxy</title>
+		<creator>Tricky Mike Waffle</creator>
+		<relatedgames />
+	</game>
+	<game id="10952824" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Blue/Chad/Nova/10952824.jpg</thumbnail>
+		<title>Doom Rumble Challenge</title>
+		<creator>Blue Chad Nova</creator>
+		<relatedgames />
+	</game>
+	<game id="16978061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Solid/Alexa/Beast/16978061.jpg</thumbnail>
+		<title>Steel Warp Galaxy</title>
+		<creator>Solid Alexa Beast</creator>
+		<relatedgames />
+	</game>
+	<game id="17195393" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/06/2012">
+		<thumbnail>/gamecreators/images2/Aerobic/Adriana/Galosh/17195393.jpg</thumbnail>
+		<title>Giga Thunder Breaker</title>
+		<creator>Aerobic Adriana Galosh</creator>
+		<relatedgames />
+	</game>
+	<game id="10926065" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Brave/Otis/Elephant/10926065.jpg</thumbnail>
+		<title>Rocket Crusher Fusion</title>
+		<creator>Brave Otis Elephant</creator>
+		<relatedgames />
+	</game>
+	<game id="16886469" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/05/2012">
+		<thumbnail>/gamecreators/images2/Ironic/Amanda/Turbo/16886469.jpg</thumbnail>
+		<title>Solar Sonic Slam</title>
+		<creator>Ironic Amanda Turbo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

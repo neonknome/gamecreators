@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17505132" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>/gamecreators/images2/Creative/David/Anvil/17505132.jpg</thumbnail>
+		<title>Mission Chase Smash</title>
+		<creator>Creative David Anvil</creator>
+		<relatedgames />
+	</game>
+	<game id="17554026" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Unknown/Zeus/Celsius/17554026.jpg</thumbnail>
+		<title>Light Ben Champion</title>
+		<creator>Unknown Zeus Celsius</creator>
+		<relatedgames />
+	</game>
+	<game id="10924177" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dapper/Sophia/Bolt/10924177.jpg</thumbnail>
+		<title>Steel Pulse Iron</title>
+		<creator>Dapper Sophia Bolt</creator>
+		<relatedgames />
+	</game>
+	<game id="17404545" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Graceful/Payten/Dumpling/17404545.jpg</thumbnail>
+		<title>Rumble Streak Mission</title>
+		<creator>Graceful Payten Dumpling</creator>
+		<relatedgames />
+	</game>
+	<game id="10952447" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Sly/Gulliver/Glop/10952447.jpg</thumbnail>
+		<title>Earth Pursuit Nitro</title>
+		<creator>Sly Gulliver Glop</creator>
+		<relatedgames />
+	</game>
+	<game id="10953322" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Reckless/Erin/Phantom/10953322.jpg</thumbnail>
+		<title>Danger Swampfire Rescue</title>
+		<creator>Reckless Erin Phantom</creator>
+		<relatedgames />
+	</game>
+	<game id="10946479" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Alien/Lucius/Wombat/10946479.jpg</thumbnail>
+		<title>Spark Fusion Ben</title>
+		<creator>Alien Lucius Wombat</creator>
+		<relatedgames />
+	</game>
+	<game id="17394571" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/04/2012">
+		<thumbnail>/gamecreators/images2/Golden/Will/Pyramid/17394571.jpg</thumbnail>
+		<title>Slam Blaster Solar</title>
+		<creator>Golden Will Pyramid</creator>
+		<relatedgames />
+	</game>
+	<game id="10919116" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Fanciful/Xavier/Thunder/10919116.jpg</thumbnail>
+		<title>Ultimate Mega Siege</title>
+		<creator>Fanciful Xavier Thunder</creator>
+		<relatedgames />
+	</game>
+	<game id="10953554" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Swift/Owen/Gumbo/10953554.jpg</thumbnail>
+		<title>Turbo Turbo Battle</title>
+		<creator>Swift Owen Gumbo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

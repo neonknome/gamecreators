@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17341198" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/15/2012">
+		<thumbnail>/gamecreators/images2/Admiral/Anna/Crater/17341198.jpg</thumbnail>
+		<title>Target Ultimate Ambush</title>
+		<creator>Admiral Anna Crater</creator>
+		<relatedgames />
+	</game>
+	<game id="17148915" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/22/2012">
+		<thumbnail>/gamecreators/images2/Creative/Fred/Robot/17148915.jpg</thumbnail>
+		<title>Alien Ambush Challenge</title>
+		<creator>Creative Fred Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="17541055" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Infinite/Bill/Scimitar/17541055.jpg</thumbnail>
+		<title>Invasion Titan Adventure</title>
+		<creator>Infinite Bill Scimitar</creator>
+		<relatedgames />
+	</game>
+	<game id="17418896" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Quantum/Scarlett/Nebula/17418896.jpg</thumbnail>
+		<title>Space Space Space</title>
+		<creator>Quantum Scarlett Nebula</creator>
+		<relatedgames />
+	</game>
+	<game id="17283059" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Towering/Angel/Bucket/17283059.jpg</thumbnail>
+		<title>Fire Metal Crusher</title>
+		<creator>Towering Angel Bucket</creator>
+		<relatedgames />
+	</game>
+	<game id="10923812" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Noble/Bruce/Barnacle/10923812.jpg</thumbnail>
+		<title>Racer Atomic Rocket</title>
+		<creator>Noble Bruce Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="17359324" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>/gamecreators/images2/Crazy/Andy/Turbo/17359324.jpg</thumbnail>
+		<title>Streak Drone Adventure</title>
+		<creator>Crazy Andy Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="17361579" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Waldo/Firefly/17361579.jpg</thumbnail>
+		<title>Cosmic Adventure Sonic</title>
+		<creator>Ultimate Waldo Firefly</creator>
+		<relatedgames />
+	</game>
+	<game id="10921299" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Dainty/Rachel/Ladybug/10921299.jpg</thumbnail>
+		<title>Rumble Chase Assault</title>
+		<creator>Dainty Rachel Ladybug</creator>
+		<relatedgames />
+	</game>
+	<game id="10918122" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Jolly/Jack/Pelican/10918122.jpg</thumbnail>
+		<title>Nano Quake Adventure</title>
+		<creator>Jolly Jack Pelican</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10923851" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Normal/Scooter/Squish/10923851.jpg</thumbnail>
+		<title>Patrol Chase Plasma</title>
+		<creator>Normal Scooter Squish</creator>
+		<relatedgames />
+	</game>
+	<game id="17391022" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Curious/Steven/Catapult/17391022.jpg</thumbnail>
+		<title>Ultimate Big Chill</title>
+		<creator>Curious Steven Catapult</creator>
+		<relatedgames />
+	</game>
+	<game id="17379648" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>/gamecreators/images2/Vigilant/Hayden/Obelisk/17379648.jpg</thumbnail>
+		<title>Titan Metal Adventure</title>
+		<creator>Vigilant Hayden Obelisk</creator>
+		<relatedgames />
+	</game>
+	<game id="16898008" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/07/2012">
+		<thumbnail>/gamecreators/images2/Bright/Bryce/Neptune/16898008.jpg</thumbnail>
+		<title>Turbo Crusher Swampfire</title>
+		<creator>Bright Bryce Neptune</creator>
+		<relatedgames />
+	</game>
+	<game id="17000132" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/05/2012">
+		<thumbnail>/gamecreators/images2/Jolly/Aaron/Fuzz/17000132.jpg</thumbnail>
+		<title>Ultra Nano Warrior</title>
+		<creator>Jolly Aaron Fuzz</creator>
+		<relatedgames />
+	</game>
+	<game id="17261922" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Lively/Sophie/Viking/17261922.jpg</thumbnail>
+		<title>Spidermonkey Galaxy Storm</title>
+		<creator>Lively Sophie Viking</creator>
+		<relatedgames />
+	</game>
+	<game id="10933527" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Reliable/Jeff/Pulse/10933527.jpg</thumbnail>
+		<title>Warrior Rocket Adventure</title>
+		<creator>Reliable Jeff Pulse</creator>
+		<relatedgames />
+	</game>
+	<game id="17415199" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Verbose/Lauren/Rhythm/17415199.jpg</thumbnail>
+		<title>Rumble Danger Invasion</title>
+		<creator>Verbose Lauren Rhythm</creator>
+		<relatedgames />
+	</game>
+	<game id="10064835" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Dashing/Joey/Atom/10064835.jpg</thumbnail>
+		<title>Battle Razor Magno</title>
+		<creator>Dashing Joey Atom</creator>
+		<relatedgames />
+	</game>
+	<game id="17078645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/01/2012">
+		<thumbnail>/gamecreators/images2/Captain/Waldo/Samurai/17078645.jpg</thumbnail>
+		<title>Challenge Quake Crusher</title>
+		<creator>Captain Waldo Samurai</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

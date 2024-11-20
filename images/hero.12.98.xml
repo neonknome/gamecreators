@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10952685" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Red/Tom/Fritter/10952685.jpg</thumbnail>
+		<title>Alien Alien Fire</title>
+		<creator>Red Tom Fritter</creator>
+		<relatedgames />
+	</game>
+	<game id="17394577" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/04/2012">
+		<thumbnail>/gamecreators/images2/Variable/Ron/Shogun/17394577.jpg</thumbnail>
+		<title>Mega Swampfire Search</title>
+		<creator>Variable Ron Shogun</creator>
+		<relatedgames />
+	</game>
+	<game id="10949368" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Daring/Will/Safari/10949368.jpg</thumbnail>
+		<title>Lightning Shock Thunder</title>
+		<creator>Daring Will Safari</creator>
+		<relatedgames />
+	</game>
+	<game id="10951422" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Green/Grace/Manatee/10951422.jpg</thumbnail>
+		<title>Adventure Alien Droid</title>
+		<creator>Green Grace Manatee</creator>
+		<relatedgames />
+	</game>
+	<game id="10949397" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Fierce/Anthony/Lobster/10949397.jpg</thumbnail>
+		<title>Shadow Search Shock</title>
+		<creator>Fierce Anthony Lobster</creator>
+		<relatedgames />
+	</game>
+	<game id="10918460" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Red/Julian/Shark/10918460.jpg</thumbnail>
+		<title>Giga Champion Solar</title>
+		<creator>Red Julian Shark</creator>
+		<relatedgames />
+	</game>
+	<game id="17009687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/09/2012">
+		<thumbnail>/gamecreators/images2/Academic/Penelope/Licorice/17009687.jpg</thumbnail>
+		<title>Robot Adventure Beast</title>
+		<creator>Academic Penelope Licorice</creator>
+		<relatedgames />
+	</game>
+	<game id="10058854" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Mighty/Tony/Goofball/10058854.jpg</thumbnail>
+		<title>Attack Force Mega</title>
+		<creator>Mighty Tony Goofball</creator>
+		<relatedgames />
+	</game>
+	<game id="17033336" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/17/2012">
+		<thumbnail>/gamecreators/images2/Epic/Igor/Minotaur/17033336.jpg</thumbnail>
+		<title>Search Energy Chill</title>
+		<creator>Epic Igor Minotaur</creator>
+		<relatedgames />
+	</game>
+	<game id="17003097" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/06/2012">
+		<thumbnail>/gamecreators/images2/Hypnotic/Tex/Scorpion/17003097.jpg</thumbnail>
+		<title>Storm Light Light</title>
+		<creator>Hypnotic Tex Scorpion</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

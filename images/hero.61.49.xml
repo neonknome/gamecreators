@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10917033" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Comical/Ariana/Kiwi/10917033.jpg</thumbnail>
+		<title>Hero Fire Force</title>
+		<creator>Comical Ariana Kiwi</creator>
+		<relatedgames />
+	</game>
+	<game id="16993808" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>/gamecreators/images2/Funky/Antonio/Cobra/16993808.jpg</thumbnail>
+		<title>Cosmic Mission Plumber</title>
+		<creator>Funky Antonio Cobra</creator>
+		<relatedgames />
+	</game>
+	<game id="10046385" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Majestic/Chelsea/Squawk/10046385.jpg</thumbnail>
+		<title>Atomic Slam Space</title>
+		<creator>Majestic Chelsea Squawk</creator>
+		<relatedgames />
+	</game>
+	<game id="10065549" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Brave/Tabitha/Cupcake/10065549.jpg</thumbnail>
+		<title>Alien Swampfire Star</title>
+		<creator>Brave Tabitha Cupcake</creator>
+		<relatedgames />
+	</game>
+	<game id="10916765" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Spooky/Vinny/Porridge/10916765.jpg</thumbnail>
+		<title>Lightning Hero Danger</title>
+		<creator>Spooky Vinny Porridge</creator>
+		<relatedgames />
+	</game>
+	<game id="17387667" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Captain/Curtis/Skunk/17387667.jpg</thumbnail>
+		<title>Ambush Charge Rescue</title>
+		<creator>Captain Curtis Skunk</creator>
+		<relatedgames />
+	</game>
+	<game id="17142675" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/20/2012">
+		<thumbnail>/gamecreators/images2/King/Thor/Gulch/17142675.jpg</thumbnail>
+		<title>Invasion Assault Clash</title>
+		<creator>King Thor Gulch</creator>
+		<relatedgames />
+	</game>
+	<game id="10927274" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Handsome/Noah/Penguin/10927274.jpg</thumbnail>
+		<title>Turbo Assault Burst</title>
+		<creator>Handsome Noah Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="10952683" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Obvious/Megan/Octopus/10952683.jpg</thumbnail>
+		<title>Charge Space Universe</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames />
+	</game>
+	<game id="17288581" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/01/2012">
+		<thumbnail>/gamecreators/images2/Splendid/Noah/Dragoon/17288581.jpg</thumbnail>
+		<title>Ultimate Cannonbolt Light</title>
+		<creator>Splendid Noah Dragoon</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

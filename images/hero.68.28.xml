@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10925521" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Eerie/Dominic/Quack/10925521.jpg</thumbnail>
+		<title>Turbo Titan Patrol</title>
+		<creator>Eerie Dominic Quack</creator>
+		<relatedgames />
+	</game>
+	<game id="10041474" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Crafty/Harvey/Atom/10041474.jpg</thumbnail>
+		<title>Swampfire Ultimate Smash</title>
+		<creator>Crafty Harvey Atom</creator>
+		<relatedgames />
+	</game>
+	<game id="17161179" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/26/2012">
+		<thumbnail>/gamecreators/images2/Galactic/Zeus/Celsius/17161179.jpg</thumbnail>
+		<title>Chill Nano Adventure</title>
+		<creator>Galactic Zeus Celsius</creator>
+		<relatedgames />
+	</game>
+	<game id="17393705" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/04/2012">
+		<thumbnail>/gamecreators/images2/Sinister/Marcus/Oink/17393705.jpg</thumbnail>
+		<title>Hero Alien Beast</title>
+		<creator>Sinister Marcus Oink</creator>
+		<relatedgames />
+	</game>
+	<game id="17305493" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>/gamecreators/images2/Emperor/Autumn/Mutant/17305493.jpg</thumbnail>
+		<title>Adventure Cosmic Metal</title>
+		<creator>Emperor Autumn Mutant</creator>
+		<relatedgames />
+	</game>
+	<game id="17331560" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Giggling/Lydia/Rhythm/17331560.jpg</thumbnail>
+		<title>Ultimate Echo Assault</title>
+		<creator>Giggling Lydia Rhythm</creator>
+		<relatedgames />
+	</game>
+	<game id="17343320" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>/gamecreators/images2/Musical/Nicolas/Noob/17343320.jpg</thumbnail>
+		<title>Spike Defense Vilgax</title>
+		<creator>Musical Nicolas Noob</creator>
+		<relatedgames />
+	</game>
+	<game id="10936316" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Sincere/Victor/Boing/10936316.jpg</thumbnail>
+		<title>Ambush Iron Lightning</title>
+		<creator>Sincere Victor Boing</creator>
+		<relatedgames />
+	</game>
+	<game id="10039132" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Bizarre/Caleb/Blammo/10039132.jpg</thumbnail>
+		<title>Ultimate Spark Spike</title>
+		<creator>Bizarre Caleb Blammo</creator>
+		<relatedgames />
+	</game>
+	<game id="17239564" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>/gamecreators/images2/Snazzy/Mandy/Thing/17239564.jpg</thumbnail>
+		<title>Titan Spark Defense</title>
+		<creator>Snazzy Mandy Thing</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16917484" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>/gamecreators/images2/Galactic/Scarlett/Blast/16917484.jpg</thumbnail>
+		<title>Alien Hyper Turbo</title>
+		<creator>Galactic Scarlett Blast</creator>
+		<relatedgames />
+	</game>
+	<game id="17239029" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>/gamecreators/images2/Bumbling/Don/Dragoon/17239029.jpg</thumbnail>
+		<title>Adventure Shadow Pursuit</title>
+		<creator>Bumbling Don Dragoon</creator>
+		<relatedgames />
+	</game>
+	<game id="10945842" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Normal/Vinny/Rumble/10945842.jpg</thumbnail>
+		<title>Mega Shock Shadow</title>
+		<creator>Normal Vinny Rumble</creator>
+		<relatedgames />
+	</game>
+	<game id="17324743" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Loopy/Autumn/Snorkel/17324743.jpg</thumbnail>
+		<title>Alien Pulse Universe</title>
+		<creator>Loopy Autumn Snorkel</creator>
+		<relatedgames />
+	</game>
+	<game id="17278972" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Virtual/Victor/Rebel/17278972.jpg</thumbnail>
+		<title>Giga Hyper Rustbucket</title>
+		<creator>Virtual Victor Rebel</creator>
+		<relatedgames />
+	</game>
+	<game id="10953680" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Orange/Sara/Cyborg/10953680.jpg</thumbnail>
+		<title>Hero Robot Shock</title>
+		<creator>Orange Sara Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="10059113" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Stately/Hunter/Blade/10059113.jpg</thumbnail>
+		<title>Dark Hex Burst</title>
+		<creator>Stately Hunter Blade</creator>
+		<relatedgames />
+	</game>
+	<game id="10937939" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Dazzling/Gigi/Lobster/10937939.jpg</thumbnail>
+		<title>Alien Fire Smash</title>
+		<creator>Dazzling Gigi Lobster</creator>
+		<relatedgames />
+	</game>
+	<game id="17339288" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Wily/Jamie/Presto/17339288.jpg</thumbnail>
+		<title>Chase Hyper Vilgax</title>
+		<creator>Wily Jamie Presto</creator>
+		<relatedgames />
+	</game>
+	<game id="10919176" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Chaotic/Ed/Fossil/10919176.jpg</thumbnail>
+		<title>Robot Mega Ambush</title>
+		<creator>Chaotic Ed Fossil</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

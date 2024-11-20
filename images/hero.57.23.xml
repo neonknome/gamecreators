@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17342035" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/15/2012">
+		<thumbnail>/gamecreators/images2/Keen/Ludwig/Quasar/17342035.jpg</thumbnail>
+		<title>Iron Slam Attack</title>
+		<creator>Keen Ludwig Quasar</creator>
+		<relatedgames />
+	</game>
+	<game id="10952666" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Red/David/Unicycle/10952666.jpg</thumbnail>
+		<title>Adventure Adventure Atomic</title>
+		<creator>Red David Unicycle</creator>
+		<relatedgames />
+	</game>
+	<game id="10919034" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Unusual/Leon/Spiral/10919034.jpg</thumbnail>
+		<title>Magno Titan Defense</title>
+		<creator>Unusual Leon Spiral</creator>
+		<relatedgames />
+	</game>
+	<game id="10952566" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Obvious/Megan/Octopus/10952566.jpg</thumbnail>
+		<title>Ben Alien Force</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames />
+	</game>
+	<game id="17044018" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/20/2012">
+		<thumbnail>/gamecreators/images2/Amusing/Andrew/Sword/17044018.jpg</thumbnail>
+		<title>Fusion Droid Racer</title>
+		<creator>Amusing Andrew Sword</creator>
+		<relatedgames />
+	</game>
+	<game id="10032500" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Daring/Ivy/Zing/10032500.jpg</thumbnail>
+		<title>Hyper Light Invasion</title>
+		<creator>Daring Ivy Zing</creator>
+		<relatedgames />
+	</game>
+	<game id="17408454" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>/gamecreators/images2/Volcanic/Ralph/Shinobi/17408454.jpg</thumbnail>
+		<title>Jetray Target Smash</title>
+		<creator>Volcanic Ralph Shinobi</creator>
+		<relatedgames />
+	</game>
+	<game id="17405990" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Diagonal/Cole/Crash/17405990.jpg</thumbnail>
+		<title>Assault Earth Big</title>
+		<creator>Diagonal Cole Crash</creator>
+		<relatedgames />
+	</game>
+	<game id="10930955" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Absurd/Owen/Dragon/10930955.jpg</thumbnail>
+		<title>Fire Force Power</title>
+		<creator>Absurd Owen Dragon</creator>
+		<relatedgames />
+	</game>
+	<game id="17312104" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>/gamecreators/images2/Hyper/Ariana/Calypso/17312104.jpg</thumbnail>
+		<title>Blaster Spark Alien</title>
+		<creator>Hyper Ariana Calypso</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

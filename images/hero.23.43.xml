@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10038105" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Swift/Breanna/Blitz/10038105.jpg</thumbnail>
+		<title>Doom Plumber Shadow</title>
+		<creator>Swift Breanna Blitz</creator>
+		<relatedgames />
+	</game>
+	<game id="17363715" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>/gamecreators/images2/Babbling/Brett/Nonsense/17363715.jpg</thumbnail>
+		<title>Space Spark Nano</title>
+		<creator>Babbling Brett Nonsense</creator>
+		<relatedgames />
+	</game>
+	<game id="17326120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Abstract/Hector/Dragoon/17326120.jpg</thumbnail>
+		<title>Giga Turbo Space</title>
+		<creator>Abstract Hector Dragoon</creator>
+		<relatedgames />
+	</game>
+	<game id="10952398" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Comical/Ray/Worm/10952398.jpg</thumbnail>
+		<title>Hyper Shock Mission</title>
+		<creator>Comical Ray Worm</creator>
+		<relatedgames />
+	</game>
+	<game id="17378888" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Major/Alan/Cartoon/17378888.jpg</thumbnail>
+		<title>Ultra Laser Battle</title>
+		<creator>Major Alan Cartoon</creator>
+		<relatedgames />
+	</game>
+	<game id="10069142" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Humorous/Elroy/Klunk/10069142.jpg</thumbnail>
+		<title>Alien Adventure Ultra</title>
+		<creator>Humorous Elroy Klunk</creator>
+		<relatedgames />
+	</game>
+	<game id="17100222" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/07/2012">
+		<thumbnail>/gamecreators/images2/Profound/Paula/Turtle/17100222.jpg</thumbnail>
+		<title>Rescue Fusion Metal</title>
+		<creator>Profound Paula Turtle</creator>
+		<relatedgames />
+	</game>
+	<game id="10059447" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Surreal/Max/Tusk/10059447.jpg</thumbnail>
+		<title>Doom Doom Siege</title>
+		<creator>Surreal Max Tusk</creator>
+		<relatedgames />
+	</game>
+	<game id="10924451" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Musical/Andrew/Jalapeno/10924451.jpg</thumbnail>
+		<title>Dark Robot Rustbucket</title>
+		<creator>Musical Andrew Jalapeno</creator>
+		<relatedgames />
+	</game>
+	<game id="17334444" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Able/Mordecai/Vapor/17334444.jpg</thumbnail>
+		<title>Adventure Rush Terraspin</title>
+		<creator>Able Mordecai Vapor</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

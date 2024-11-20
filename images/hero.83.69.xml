@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17404567" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Towering/Aaliyah/Cipher/17404567.jpg</thumbnail>
+		<title>Adventure Water Ben</title>
+		<creator>Towering Aaliyah Cipher</creator>
+		<relatedgames />
+	</game>
+	<game id="17558743" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Bashful/Christy/Clone/17558743.jpg</thumbnail>
+		<title>Adventure Alien Adventure</title>
+		<creator>Bashful Christy Clone</creator>
+		<relatedgames />
+	</game>
+	<game id="17262259" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Active/Jesse/Javelin/17262259.jpg</thumbnail>
+		<title>Force Rocket Thunder</title>
+		<creator>Active Jesse Javelin</creator>
+		<relatedgames />
+	</game>
+	<game id="17016612" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>/gamecreators/images2/Cranky/Zeb/Martian/17016612.jpg</thumbnail>
+		<title>Alien Terraspin Ambush</title>
+		<creator>Cranky Zeb Martian</creator>
+		<relatedgames />
+	</game>
+	<game id="10929318" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Atomic/Jordan/Atom/10929318.jpg</thumbnail>
+		<title>Robot Turbo Warrior</title>
+		<creator>Atomic Jordan Atom</creator>
+		<relatedgames />
+	</game>
+	<game id="10924453" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dramatic/Luke/Charger/10924453.jpg</thumbnail>
+		<title>Invasion Mission Nova</title>
+		<creator>Dramatic Luke Charger</creator>
+		<relatedgames />
+	</game>
+	<game id="10925450" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Handsome/Noah/Penguin/10925450.jpg</thumbnail>
+		<title>Rocket Ultimate Assault</title>
+		<creator>Handsome Noah Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="10952867" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Frantic/Chester/Walrus/10952867.jpg</thumbnail>
+		<title>Search Nova Champion</title>
+		<creator>Frantic Chester Walrus</creator>
+		<relatedgames />
+	</game>
+	<game id="10931299" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Strange/Tyler/Chipmunk/10931299.jpg</thumbnail>
+		<title>Slam Solar Target</title>
+		<creator>Strange Tyler Chipmunk</creator>
+		<relatedgames />
+	</game>
+	<game id="10928185" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Atomic/Craig/Bagpipe/10928185.jpg</thumbnail>
+		<title>Escape Force Crusher</title>
+		<creator>Atomic Craig Bagpipe</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

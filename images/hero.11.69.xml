@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10952533" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Squishy/Riley/Doodle/10952533.jpg</thumbnail>
+		<title>Racer Invasion Hero</title>
+		<creator>Squishy Riley Doodle</creator>
+		<relatedgames />
+	</game>
+	<game id="10931323" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Gigantic/Jose/Dynamite/10931323.jpg</thumbnail>
+		<title>Fire Thunder Storm</title>
+		<creator>Gigantic Jose Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="10953258" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Sincere/Noah/Barnacle/10953258.jpg</thumbnail>
+		<title>Charge Robot Slam</title>
+		<creator>Sincere Noah Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="16918247" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>/gamecreators/images2/Abnormal/Duke/Bagpipe/16918247.jpg</thumbnail>
+		<title>Alien Adventure Laser</title>
+		<creator>Abnormal Duke Bagpipe</creator>
+		<relatedgames />
+	</game>
+	<game id="9954616" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Bashful/Zachary/Porridge/9954616.jpg</thumbnail>
+		<title>Robot Humongousaur Nano</title>
+		<creator>Bashful Zachary Porridge</creator>
+		<relatedgames />
+	</game>
+	<game id="17387237" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Elite/Marcus/Balloon/17387237.jpg</thumbnail>
+		<title>Star Slam Space</title>
+		<creator>Elite Marcus Balloon</creator>
+		<relatedgames />
+	</game>
+	<game id="10939432" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Ghostly/Julia/Planet/10939432.jpg</thumbnail>
+		<title>Ultra Danger Storm</title>
+		<creator>Ghostly Julia Planet</creator>
+		<relatedgames />
+	</game>
+	<game id="10016036" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Mumbling/Dorothy/Talon/10016036.jpg</thumbnail>
+		<title>Force Ultimate Fire</title>
+		<creator>Mumbling Dorothy Talon</creator>
+		<relatedgames />
+	</game>
+	<game id="17504961" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>/gamecreators/images2/Evil/Mario/Gargoyle/17504961.jpg</thumbnail>
+		<title>Giga Storm Blaster</title>
+		<creator>Evil Mario Gargoyle</creator>
+		<relatedgames />
+	</game>
+	<game id="17242231" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>/gamecreators/images2/Tough/Jose/Wombat/17242231.jpg</thumbnail>
+		<title>Water Universe Rumble</title>
+		<creator>Tough Jose Wombat</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

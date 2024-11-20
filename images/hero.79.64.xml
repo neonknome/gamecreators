@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17404545" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Graceful/Payten/Dumpling/17404545.jpg</thumbnail>
+		<title>Rumble Streak Mission</title>
+		<creator>Graceful Payten Dumpling</creator>
+		<relatedgames />
+	</game>
+	<game id="10953447" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Nimble/Lillian/Robot/10953447.jpg</thumbnail>
+		<title>Mission Hero Smash</title>
+		<creator>Nimble Lillian Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="17331676" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Active/Ian/Cactus/17331676.jpg</thumbnail>
+		<title>Adventure Blaster Alien</title>
+		<creator>Active Ian Cactus</creator>
+		<relatedgames />
+	</game>
+	<game id="17164092" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/27/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Scott/Calypso/17164092.jpg</thumbnail>
+		<title>Siege Dark Space</title>
+		<creator>Ultimate Scott Calypso</creator>
+		<relatedgames />
+	</game>
+	<game id="17224970" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>/gamecreators/images2/Bouncing/Benton/Mummy/17224970.jpg</thumbnail>
+		<title>Ben Jetray Beast</title>
+		<creator>Bouncing Benton Mummy</creator>
+		<relatedgames />
+	</game>
+	<game id="17377498" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Nimble/Billy/Flywheel/17377498.jpg</thumbnail>
+		<title>Ambush Smash Challenge</title>
+		<creator>Nimble Billy Flywheel</creator>
+		<relatedgames />
+	</game>
+	<game id="10919116" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Fanciful/Xavier/Thunder/10919116.jpg</thumbnail>
+		<title>Ultimate Mega Siege</title>
+		<creator>Fanciful Xavier Thunder</creator>
+		<relatedgames />
+	</game>
+	<game id="10942924" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Jolly/Gretel/Quake/10942924.jpg</thumbnail>
+		<title>Titan Solar Smash</title>
+		<creator>Jolly Gretel Quake</creator>
+		<relatedgames />
+	</game>
+	<game id="17415515" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Radical/Nick/Cutlass/17415515.jpg</thumbnail>
+		<title>Cosmic Rocket Universe</title>
+		<creator>Radical Nick Cutlass</creator>
+		<relatedgames />
+	</game>
+	<game id="17092970" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/05/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Charles/Hawk/17092970.jpg</thumbnail>
+		<title>Force Breaker Ultra</title>
+		<creator>Ultimate Charles Hawk</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16961131" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/23/2012">
+		<thumbnail>/gamecreators/images2/Epic/Thor/Noob/16961131.jpg</thumbnail>
+		<title>Nano Universe Big</title>
+		<creator>Epic Thor Noob</creator>
+		<relatedgames />
+	</game>
+	<game id="10068663" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Alien/Isaiah/Thud/10068663.jpg</thumbnail>
+		<title>Alien Adventure Ambush</title>
+		<creator>Alien Isaiah Thud</creator>
+		<relatedgames />
+	</game>
+	<game id="16871294" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>/gamecreators/images2/Golden/Levi/Twilight/16871294.jpg</thumbnail>
+		<title>Ultimate Force Attack</title>
+		<creator>Golden Levi Twilight</creator>
+		<relatedgames />
+	</game>
+	<game id="17386226" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Neutral/Pedro/Clone/17386226.jpg</thumbnail>
+		<title>Force Swampfire Alien</title>
+		<creator>Neutral Pedro Clone</creator>
+		<relatedgames />
+	</game>
+	<game id="10040051" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Fanciful/Pedro/Magma/10040051.jpg</thumbnail>
+		<title>Solar Invasion Ultimate</title>
+		<creator>Fanciful Pedro Magma</creator>
+		<relatedgames />
+	</game>
+	<game id="10952855" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Normal/Mario/Cobra/10952855.jpg</thumbnail>
+		<title>Nova Alien Invasion</title>
+		<creator>Normal Mario Cobra</creator>
+		<relatedgames />
+	</game>
+	<game id="10786679" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>/gamecreators/images2/Spectral/Leonardo/Zip/10786679.jpg</thumbnail>
+		<title>Star Beast Challenge</title>
+		<creator>Spectral Leonardo Zip</creator>
+		<relatedgames />
+	</game>
+	<game id="10926182" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Brawny/Sara/Galaxy/10926182.jpg</thumbnail>
+		<title>Rock Swampfire Magno</title>
+		<creator>Brawny Sara Galaxy</creator>
+		<relatedgames />
+	</game>
+	<game id="16988994" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/02/2012">
+		<thumbnail>/gamecreators/images2/Famous/Hugo/16988994.jpg</thumbnail>
+		<title>Turbo Cosmic Whirlwind</title>
+		<creator>Famous Hugo</creator>
+		<relatedgames />
+	</game>
+	<game id="17503975" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>/gamecreators/images2/Prolific/Cole/Sprout/17503975.jpg</thumbnail>
+		<title>Rocket Breaker Galaxy</title>
+		<creator>Prolific Cole Sprout</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

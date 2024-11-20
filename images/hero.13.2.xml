@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10925610" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Reckless/Hank/Stampede/10925610.jpg</thumbnail>
+		<title>Alien Warrior Adventure</title>
+		<creator>Reckless Hank Stampede</creator>
+		<relatedgames />
+	</game>
+	<game id="17234140" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>/gamecreators/images2/Bouncing/Franklin/Nibbles/17234140.jpg</thumbnail>
+		<title>Universe Ultimate Power</title>
+		<creator>Bouncing Franklin Nibbles</creator>
+		<relatedgames />
+	</game>
+	<game id="17574176" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Evil/Brandon/Rhombus/17574176.jpg</thumbnail>
+		<title>Rocket Search Siege</title>
+		<creator>Evil Brandon Rhombus</creator>
+		<relatedgames />
+	</game>
+	<game id="10952513" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Alien/Miguel/Zebra/10952513.jpg</thumbnail>
+		<title>Ben Thunder Rocket</title>
+		<creator>Alien Miguel Zebra</creator>
+		<relatedgames />
+	</game>
+	<game id="10865542" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2009">
+		<thumbnail>/gamecreators/images2/Gorgeous/Elroy/Iceberg/10865542.jpg</thumbnail>
+		<title>Spark Streak Giga</title>
+		<creator>Gorgeous Elroy Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="10948852" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Chilly/Zoe/Wizard/10948852.jpg</thumbnail>
+		<title>Warrior Warrior Warrior</title>
+		<creator>Chilly Zoe Wizard</creator>
+		<relatedgames />
+	</game>
+	<game id="10925875" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Swift/Shelby/Ninja/10925875.jpg</thumbnail>
+		<title>Mega Attack Swampfire</title>
+		<creator>Swift Shelby Ninja</creator>
+		<relatedgames />
+	</game>
+	<game id="10064904" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Cosmic/Goliath/Oddball/10064904.jpg</thumbnail>
+		<title>Adventure Mission Sonic</title>
+		<creator>Cosmic Goliath Oddball</creator>
+		<relatedgames />
+	</game>
+	<game id="10924702" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fuzzy/Austin/Cosmos/10924702.jpg</thumbnail>
+		<title>Search Steel Magno</title>
+		<creator>Fuzzy Austin Cosmos</creator>
+		<relatedgames />
+	</game>
+	<game id="10937225" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Shaggy/Jonas/Blob/10937225.jpg</thumbnail>
+		<title>Ultimate Ben Galaxy</title>
+		<creator>Shaggy Jonas Blob</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

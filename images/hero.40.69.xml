@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10068974" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Comical/Chad/Sprinkle/10068974.jpg</thumbnail>
+		<title>Burst Adventure Breaker</title>
+		<creator>Comical Chad Sprinkle</creator>
+		<relatedgames />
+	</game>
+	<game id="10919862" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Towering/Brandy/Nibbles/10919862.jpg</thumbnail>
+		<title>Burst Power Challenge</title>
+		<creator>Towering Brandy Nibbles</creator>
+		<relatedgames />
+	</game>
+	<game id="17552197" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Crazy/Edd/Mahogany/17552197.jpg</thumbnail>
+		<title>Siege Metal Titan</title>
+		<creator>Crazy Edd Mahogany</creator>
+		<relatedgames />
+	</game>
+	<game id="10056052" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Ghastly/Phil/Cyborg/10056052.jpg</thumbnail>
+		<title>Plasma Galaxy Adventure</title>
+		<creator>Ghastly Phil Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="17160674" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/26/2012">
+		<thumbnail>/gamecreators/images2/Silly/Franklin/Foghorn/17160674.jpg</thumbnail>
+		<title>Adventure Earth Patrol</title>
+		<creator>Silly Franklin Foghorn</creator>
+		<relatedgames />
+	</game>
+	<game id="10952182" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Puzzling/Nick/Potato/10952182.jpg</thumbnail>
+		<title>Challenge Drone Mega</title>
+		<creator>Puzzling Nick Potato</creator>
+		<relatedgames />
+	</game>
+	<game id="10058625" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Cranky/Rob/Tractor/10058625.jpg</thumbnail>
+		<title>Charge Gear Shock</title>
+		<creator>Cranky Rob Tractor</creator>
+		<relatedgames />
+	</game>
+	<game id="16948219" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>/gamecreators/images2/Gentle/Rosetta/Snowball/16948219.jpg</thumbnail>
+		<title>Shock Big Cannonbolt</title>
+		<creator>Gentle Rosetta Snowball</creator>
+		<relatedgames />
+	</game>
+	<game id="10927069" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wacky/Gretel/Centaur/10927069.jpg</thumbnail>
+		<title>Swampfire Alien Fire</title>
+		<creator>Wacky Gretel Centaur</creator>
+		<relatedgames />
+	</game>
+	<game id="17384794" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Capable/Ben/Diamond/17384794.jpg</thumbnail>
+		<title>Ben Fire Star</title>
+		<creator>Capable Ben Diamond</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

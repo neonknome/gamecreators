@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10939432" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Ghostly/Julia/Planet/10939432.jpg</thumbnail>
+		<title>Ultra Danger Storm</title>
+		<creator>Ghostly Julia Planet</creator>
+		<relatedgames />
+	</game>
+	<game id="10925948" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Silly/Joshua/Thunder/10925948.jpg</thumbnail>
+		<title>Adventure Storm Siege</title>
+		<creator>Silly Joshua Thunder</creator>
+		<relatedgames />
+	</game>
+	<game id="10056546" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Bashful/Bjorn/Avocado/10056546.jpg</thumbnail>
+		<title>Laser Laser Attack</title>
+		<creator>Bashful Bjorn Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="10952447" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Sly/Gulliver/Glop/10952447.jpg</thumbnail>
+		<title>Earth Pursuit Nitro</title>
+		<creator>Sly Gulliver Glop</creator>
+		<relatedgames />
+	</game>
+	<game id="17335294" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Ghastly/Olive/Cyborg/17335294.jpg</thumbnail>
+		<title>Target Chase Robot</title>
+		<creator>Ghastly Olive Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="17420517" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Evasive/Ashton/Unicycle/17420517.jpg</thumbnail>
+		<title>Blaster Mission Titan</title>
+		<creator>Evasive Ashton Unicycle</creator>
+		<relatedgames />
+	</game>
+	<game id="17349988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>/gamecreators/images2/Dramatic/Lois/Sword/17349988.jpg</thumbnail>
+		<title>Hero Swampfire Rumble</title>
+		<creator>Dramatic Lois Sword</creator>
+		<relatedgames />
+	</game>
+	<game id="10952702" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Chilly/Phyllis/Talon/10952702.jpg</thumbnail>
+		<title>Swampfire Rustbucket Rocket</title>
+		<creator>Chilly Phyllis Talon</creator>
+		<relatedgames />
+	</game>
+	<game id="16872902" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/02/2012">
+		<thumbnail>/gamecreators/images2/Frantic/Carlos/Anvil/16872902.jpg</thumbnail>
+		<title>Universe Warrior Iron</title>
+		<creator>Frantic Carlos Anvil</creator>
+		<relatedgames />
+	</game>
+	<game id="10952457" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Lucky/Dennis/Penguin/10952457.jpg</thumbnail>
+		<title>Atomic Ambush Energy</title>
+		<creator>Lucky Dennis Penguin</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

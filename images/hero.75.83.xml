@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10921299" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Dainty/Rachel/Ladybug/10921299.jpg</thumbnail>
+		<title>Rumble Chase Assault</title>
+		<creator>Dainty Rachel Ladybug</creator>
+		<relatedgames />
+	</game>
+	<game id="17288662" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/01/2012">
+		<thumbnail>/gamecreators/images2/Rancid/Chester/Magician/17288662.jpg</thumbnail>
+		<title>Titan Alien Nano</title>
+		<creator>Rancid Chester Magician</creator>
+		<relatedgames />
+	</game>
+	<game id="10050014" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Alien/Hazel/Fishbowl/10050014.jpg</thumbnail>
+		<title>Ultimate Adventure Ambush</title>
+		<creator>Alien Hazel Fishbowl</creator>
+		<relatedgames />
+	</game>
+	<game id="10925503" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Curious/Tyler/Tiptoe/10925503.jpg</thumbnail>
+		<title>Pursuit Razor Energy</title>
+		<creator>Curious Tyler Tiptoe</creator>
+		<relatedgames />
+	</game>
+	<game id="17404696" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Golden/Benjamin/Hedgehog/17404696.jpg</thumbnail>
+		<title>Robot Hyper Mission</title>
+		<creator>Golden Benjamin Hedgehog</creator>
+		<relatedgames />
+	</game>
+	<game id="10953058" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Grizzly/Michael/Pinball/10953058.jpg</thumbnail>
+		<title>Alien Beast Challenge</title>
+		<creator>Grizzly Michael Pinball</creator>
+		<relatedgames />
+	</game>
+	<game id="17378379" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Spectral/Calvin/Android/17378379.jpg</thumbnail>
+		<title>Iron Clash Sonic</title>
+		<creator>Spectral Calvin Android</creator>
+		<relatedgames />
+	</game>
+	<game id="10953238" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Alien/Bob/Virtuoso/10953238.jpg</thumbnail>
+		<title>Assault Siege Fury</title>
+		<creator>Alien Bob Virtuoso</creator>
+		<relatedgames />
+	</game>
+	<game id="10056378" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Reliable/Norman/Gazelle/10056378.jpg</thumbnail>
+		<title>Galaxy Fire Breaker</title>
+		<creator>Reliable Norman Gazelle</creator>
+		<relatedgames />
+	</game>
+	<game id="17583724" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Humorous/Beowulf/Bucket/17583724.jpg</thumbnail>
+		<title>Power Rush Turbo</title>
+		<creator>Humorous Beowulf Bucket</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

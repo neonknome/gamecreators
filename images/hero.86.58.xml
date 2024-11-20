@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17324891" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Singular/Shaggy/Robot/17324891.jpg</thumbnail>
+		<title>Light Galaxy Ultra</title>
+		<creator>Singular Shaggy Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="10043261" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Absurd/Alex/Goofball/10043261.jpg</thumbnail>
+		<title>Spark Spike Challenge</title>
+		<creator>Absurd Alex Goofball</creator>
+		<relatedgames />
+	</game>
+	<game id="10916882" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Felix/Pontoon/10916882.jpg</thumbnail>
+		<title>Rumble Adventure Challenge</title>
+		<creator>Tricky Felix Pontoon</creator>
+		<relatedgames />
+	</game>
+	<game id="10649551" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Bizarre/Seth/Sunshine/10649551.jpg</thumbnail>
+		<title>Nitro Quake Hero</title>
+		<creator>Bizarre Seth Sunshine</creator>
+		<relatedgames />
+	</game>
+	<game id="10928827" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Adorable/Caitlin/Flamingo/10928827.jpg</thumbnail>
+		<title>Metal Danger Light</title>
+		<creator>Adorable Caitlin Flamingo</creator>
+		<relatedgames />
+	</game>
+	<game id="17357887" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>/gamecreators/images2/Musical/CJ/Universe/17357887.jpg</thumbnail>
+		<title>Shadow Adventure Assault</title>
+		<creator>Musical CJ Universe</creator>
+		<relatedgames />
+	</game>
+	<game id="17379381" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Extinct/Jay/Dynamite/17379381.jpg</thumbnail>
+		<title>Star Animo Fusion</title>
+		<creator>Extinct Jay Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="17323636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Drowzy/Yancy/Porridge/17323636.jpg</thumbnail>
+		<title>Rocket Hex Drone</title>
+		<creator>Drowzy Yancy Porridge</creator>
+		<relatedgames />
+	</game>
+	<game id="17415451" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Healthy/Irwin/Pinwheel/17415451.jpg</thumbnail>
+		<title>Ambush Earth Alien</title>
+		<creator>Healthy Irwin Pinwheel</creator>
+		<relatedgames />
+	</game>
+	<game id="17419559" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Friendly/Felix/Dodo/17419559.jpg</thumbnail>
+		<title>Stone Hero Laser</title>
+		<creator>Friendly Felix Dodo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

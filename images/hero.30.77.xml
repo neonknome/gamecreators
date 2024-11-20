@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17388061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Brisk/Josiah/Yoyo/17388061.jpg</thumbnail>
+		<title>Cosmic Echo Metal</title>
+		<creator>Brisk Josiah Yoyo</creator>
+		<relatedgames />
+	</game>
+	<game id="10946650" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Dazzling/Napoleon/Cupcake/10946650.jpg</thumbnail>
+		<title>Iron Ambush Plumber</title>
+		<creator>Dazzling Napoleon Cupcake</creator>
+		<relatedgames />
+	</game>
+	<game id="10921283" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Charming/Chase/Behemoth/10921283.jpg</thumbnail>
+		<title>Rumble Adventure Iron</title>
+		<creator>Charming Chase Behemoth</creator>
+		<relatedgames />
+	</game>
+	<game id="10924684" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fizzy/Jackie/Iceberg/10924684.jpg</thumbnail>
+		<title>Mission Turbo Sonic</title>
+		<creator>Fizzy Jackie Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="17022147" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/13/2012">
+		<thumbnail>/gamecreators/images2/Loony/Ricardo/Quake/17022147.jpg</thumbnail>
+		<title>Adventure Thunder Blaster</title>
+		<creator>Loony Ricardo Quake</creator>
+		<relatedgames />
+	</game>
+	<game id="17126481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/15/2012">
+		<thumbnail>/gamecreators/images2/Restless/Xerxes/Kook/17126481.jpg</thumbnail>
+		<title>Sonic Chase Blaster</title>
+		<creator>Restless Xerxes Kook</creator>
+		<relatedgames />
+	</game>
+	<game id="10926706" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Orange/Luis/Fireball/10926706.jpg</thumbnail>
+		<title>Adventure Metal Siege</title>
+		<creator>Orange Luis Fireball</creator>
+		<relatedgames />
+	</game>
+	<game id="10953336" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Scary/James/Lavender/10953336.jpg</thumbnail>
+		<title>Steel Smash Magno</title>
+		<creator>Scary James Lavender</creator>
+		<relatedgames />
+	</game>
+	<game id="10930277" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wild/Shirley/Rutabaga/10930277.jpg</thumbnail>
+		<title>Vilgax Rock Burst</title>
+		<creator>Wild Shirley Rutabaga</creator>
+		<relatedgames />
+	</game>
+	<game id="17327552" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Fiery/Lisa/Rebel/17327552.jpg</thumbnail>
+		<title>Shadow Spidermonkey Warrior</title>
+		<creator>Fiery Lisa Rebel</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

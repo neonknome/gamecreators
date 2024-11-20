@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17357894" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>/gamecreators/images2/Stormy/Wes/Steel/17357894.jpg</thumbnail>
+		<title>Racer Defense Plasma</title>
+		<creator>Stormy Wes Steel</creator>
+		<relatedgames />
+	</game>
+	<game id="17350606" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>/gamecreators/images2/Ashley/Planet/17350606.jpg</thumbnail>
+		<title>Alien Brainstorm Assault</title>
+		<creator>Ashley Planet</creator>
+		<relatedgames />
+	</game>
+	<game id="10048064" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Hefty/Sara/Pelican/10048064.jpg</thumbnail>
+		<title>Nano Fury Nova</title>
+		<creator>Hefty Sara Pelican</creator>
+		<relatedgames />
+	</game>
+	<game id="10647306" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Orange/Vanessa/Unicycle/10647306.jpg</thumbnail>
+		<title>Clash Rumble Adventure</title>
+		<creator>Orange Vanessa Unicycle</creator>
+		<relatedgames />
+	</game>
+	<game id="16975666" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Steady/Hannah/Brute/16975666.jpg</thumbnail>
+		<title>Ambush Battle Search</title>
+		<creator>Steady Hannah Brute</creator>
+		<relatedgames />
+	</game>
+	<game id="10054675" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Chaotic/Lily/Safari/10054675.jpg</thumbnail>
+		<title>Ultimate Fusion Assault</title>
+		<creator>Chaotic Lily Safari</creator>
+		<relatedgames />
+	</game>
+	<game id="17012536" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>/gamecreators/images2/Super/Carol/Blizzard/17012536.jpg</thumbnail>
+		<title>Cannonbolt Challenge Hyper</title>
+		<creator>Super Carol Blizzard</creator>
+		<relatedgames />
+	</game>
+	<game id="10945050" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Awesome/Clyde/Howler/10945050.jpg</thumbnail>
+		<title>Fusion Burst Galaxy</title>
+		<creator>Awesome Clyde Howler</creator>
+		<relatedgames />
+	</game>
+	<game id="10055588" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Hectic/Cathy/Zigzag/10055588.jpg</thumbnail>
+		<title>Beast Sonic Magno</title>
+		<creator>Hectic Cathy Zigzag</creator>
+		<relatedgames />
+	</game>
+	<game id="10953620" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Colorful/Paige/Hambone/10953620.jpg</thumbnail>
+		<title>Universe Smash Mission</title>
+		<creator>Colorful Paige Hambone</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

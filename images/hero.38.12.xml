@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10916687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Felix/Pontoon/10916687.jpg</thumbnail>
+		<title>Alien Metal Rock</title>
+		<creator>Tricky Felix Pontoon</creator>
+		<relatedgames />
+	</game>
+	<game id="17574657" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Creepy/George/Sprinkle/17574657.jpg</thumbnail>
+		<title>Chill Plumber Vilgax</title>
+		<creator>Creepy George Sprinkle</creator>
+		<relatedgames />
+	</game>
+	<game id="10931323" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Gigantic/Jose/Dynamite/10931323.jpg</thumbnail>
+		<title>Fire Thunder Storm</title>
+		<creator>Gigantic Jose Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="17259079" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>/gamecreators/images2/Queen/Lawrence/Eggplant/17259079.jpg</thumbnail>
+		<title>Cosmic Iron Chill</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames />
+	</game>
+	<game id="10055575" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Reckless/Romeo/Spark/10055575.jpg</thumbnail>
+		<title>Fire Ultra Slam</title>
+		<creator>Reckless Romeo Spark</creator>
+		<relatedgames />
+	</game>
+	<game id="17504961" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>/gamecreators/images2/Evil/Mario/Gargoyle/17504961.jpg</thumbnail>
+		<title>Giga Storm Blaster</title>
+		<creator>Evil Mario Gargoyle</creator>
+		<relatedgames />
+	</game>
+	<game id="10929472" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Alien/Shannon/Robot/10929472.jpg</thumbnail>
+		<title>Invasion Vilgax Galaxy</title>
+		<creator>Alien Shannon Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="10924177" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dapper/Sophia/Bolt/10924177.jpg</thumbnail>
+		<title>Steel Pulse Iron</title>
+		<creator>Dapper Sophia Bolt</creator>
+		<relatedgames />
+	</game>
+	<game id="17404545" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Graceful/Payten/Dumpling/17404545.jpg</thumbnail>
+		<title>Rumble Streak Mission</title>
+		<creator>Graceful Payten Dumpling</creator>
+		<relatedgames />
+	</game>
+	<game id="17018925" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>/gamecreators/images2/Zany/Andre/Wolf/17018925.jpg</thumbnail>
+		<title>Clash Water Dark</title>
+		<creator>Zany Andre Wolf</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10922895" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Brave/Ernie/Blitz/10922895.jpg</thumbnail>
+		<title>Hyper Spark Hero</title>
+		<creator>Brave Ernie Blitz</creator>
+		<relatedgames />
+	</game>
+	<game id="16977304" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Wily/Sadie/Skeleton/16977304.jpg</thumbnail>
+		<title>Invasion Alien Rush</title>
+		<creator>Wily Sadie Skeleton</creator>
+		<relatedgames />
+	</game>
+	<game id="10921550" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Pretty/Oscar/Fireball/10921550.jpg</thumbnail>
+		<title>Shadow Warrior Ultra</title>
+		<creator>Pretty Oscar Fireball</creator>
+		<relatedgames />
+	</game>
+	<game id="17562051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Dubious/Kevin/Mustard/17562051.jpg</thumbnail>
+		<title>Rampage Swampfire Storm</title>
+		<creator>Dubious Kevin Mustard</creator>
+		<relatedgames />
+	</game>
+	<game id="10924399" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Frosty/Cory/Cyclone/10924399.jpg</thumbnail>
+		<title>Swampfire Spark Star</title>
+		<creator>Frosty Cory Cyclone</creator>
+		<relatedgames />
+	</game>
+	<game id="17280623" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Elastic/Connor/Sprocket/17280623.jpg</thumbnail>
+		<title>Danger Power Adventure</title>
+		<creator>Elastic Connor Sprocket</creator>
+		<relatedgames />
+	</game>
+	<game id="10649314" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Shrewd/Baxter/Magma/10649314.jpg</thumbnail>
+		<title>Light Power Rustbucket</title>
+		<creator>Shrewd Baxter Magma</creator>
+		<relatedgames />
+	</game>
+	<game id="17504942" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>/gamecreators/images2/Barbaric/Crystal/Tornado/17504942.jpg</thumbnail>
+		<title>Alien Alien Alien</title>
+		<creator>Barbaric Crystal Tornado</creator>
+		<relatedgames />
+	</game>
+	<game id="10924138" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Eerie/Ben/Tuxedo/10924138.jpg</thumbnail>
+		<title>Battle Beast Nova</title>
+		<creator>Eerie Ben Tuxedo</creator>
+		<relatedgames />
+	</game>
+	<game id="17550925" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Horrid/Angel/Venus/17550925.jpg</thumbnail>
+		<title>Rescue Nano Echo</title>
+		<creator>Horrid Angel Venus</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

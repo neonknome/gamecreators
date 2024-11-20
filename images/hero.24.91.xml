@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10793505" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2009">
+		<thumbnail>/gamecreators/images2/Green/Brianna/Thorax/10793505.jpg</thumbnail>
+		<title>Escape Escape Smash</title>
+		<creator>Green Brianna Thorax</creator>
+		<relatedgames />
+	</game>
+	<game id="17276373" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>/gamecreators/images2/Snazzy/Madison/Sword/17276373.jpg</thumbnail>
+		<title>Danger Metal Crusher</title>
+		<creator>Snazzy Madison Sword</creator>
+		<relatedgames />
+	</game>
+	<game id="10654995" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2009">
+		<thumbnail>/gamecreators/images2/Brainy/Nicholas/Chimera/10654995.jpg</thumbnail>
+		<title>Solar Invasion Rush</title>
+		<creator>Brainy Nicholas Chimera</creator>
+		<relatedgames />
+	</game>
+	<game id="10951869" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Spirited/Vladimir/Icicle/10951869.jpg</thumbnail>
+		<title>Thunder Ultimate Solar</title>
+		<creator>Spirited Vladimir Icicle</creator>
+		<relatedgames />
+	</game>
+	<game id="17044018" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/20/2012">
+		<thumbnail>/gamecreators/images2/Amusing/Andrew/Sword/17044018.jpg</thumbnail>
+		<title>Fusion Droid Racer</title>
+		<creator>Amusing Andrew Sword</creator>
+		<relatedgames />
+	</game>
+	<game id="10936094" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Grand/Michelle/Goulash/10936094.jpg</thumbnail>
+		<title>Alien Atomic Attack</title>
+		<creator>Grand Michelle Goulash</creator>
+		<relatedgames />
+	</game>
+	<game id="10061653" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Fearsome/Julia/Vampire/10061653.jpg</thumbnail>
+		<title>Drone Escape Space</title>
+		<creator>Fearsome Julia Vampire</creator>
+		<relatedgames />
+	</game>
+	<game id="17179754" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>/gamecreators/images2/Gruesome/Doug/Gator/17179754.jpg</thumbnail>
+		<title>Ultimate Challenge Hex</title>
+		<creator>Gruesome Doug Gator</creator>
+		<relatedgames />
+	</game>
+	<game id="17341820" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/15/2012">
+		<thumbnail>/gamecreators/images2/Obscure/Brett/Skunk/17341820.jpg</thumbnail>
+		<title>Drone Beast Titan</title>
+		<creator>Obscure Brett Skunk</creator>
+		<relatedgames />
+	</game>
+	<game id="17321920" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/09/2012">
+		<thumbnail>/gamecreators/images2/Spicy/Chase/Pinball/17321920.jpg</thumbnail>
+		<title>Razor Warp Fusion</title>
+		<creator>Spicy Chase Pinball</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

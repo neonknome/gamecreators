@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17405008" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Volcanic/Bryce/Oyster/17405008.jpg</thumbnail>
+		<title>Cosmic Sonic Burst</title>
+		<creator>Volcanic Bryce Oyster</creator>
+		<relatedgames />
+	</game>
+	<game id="17377392" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Burly/Jacob/Blast/17377392.jpg</thumbnail>
+		<title>Nitro Big Adventure</title>
+		<creator>Burly Jacob Blast</creator>
+		<relatedgames />
+	</game>
+	<game id="17339068" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Devious/Jason/Shock/17339068.jpg</thumbnail>
+		<title>Plumber Space Techno</title>
+		<creator>Devious Jason Shock</creator>
+		<relatedgames />
+	</game>
+	<game id="17177367" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>/gamecreators/images2/Loud/DJ/Minotaur/17177367.jpg</thumbnail>
+		<title>Ultimate Smash Challenge</title>
+		<creator>Loud DJ Minotaur</creator>
+		<relatedgames />
+	</game>
+	<game id="10926237" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Robotic/Tyler/Cobweb/10926237.jpg</thumbnail>
+		<title>Attack Warrior Metal</title>
+		<creator>Robotic Tyler Cobweb</creator>
+		<relatedgames />
+	</game>
+	<game id="17378050" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Visible/Luke/Yam/17378050.jpg</thumbnail>
+		<title>Animo Fury Patrol</title>
+		<creator>Visible Luke Yam</creator>
+		<relatedgames />
+	</game>
+	<game id="17357314" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>/gamecreators/images2/Emperor/Liam/Ghoul/17357314.jpg</thumbnail>
+		<title>Alien Challenge Earth</title>
+		<creator>Emperor Liam Ghoul</creator>
+		<relatedgames />
+	</game>
+	<game id="17392765" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Husky/Lazlo/Paladin/17392765.jpg</thumbnail>
+		<title>Charge Steel Space</title>
+		<creator>Husky Lazlo Paladin</creator>
+		<relatedgames />
+	</game>
+	<game id="10919311" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Proper/Wilbur/Nacho/10919311.jpg</thumbnail>
+		<title>Plumber Plumber Plumber</title>
+		<creator>Proper Wilbur Nacho</creator>
+		<relatedgames />
+	</game>
+	<game id="10931749" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Swift/Raymond/Tempest/10931749.jpg</thumbnail>
+		<title>Swampfire Ultra Cosmic</title>
+		<creator>Swift Raymond Tempest</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

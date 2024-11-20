@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10926374" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Silly/Joshua/Thunder/10926374.jpg</thumbnail>
+		<title>Razor Quake Adventure</title>
+		<creator>Silly Joshua Thunder</creator>
+		<relatedgames />
+	</game>
+	<game id="17558743" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Bashful/Christy/Clone/17558743.jpg</thumbnail>
+		<title>Adventure Alien Adventure</title>
+		<creator>Bashful Christy Clone</creator>
+		<relatedgames />
+	</game>
+	<game id="10921774" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Elegant/Joel/Spumoni/10921774.jpg</thumbnail>
+		<title>Fire Drone Ambush</title>
+		<creator>Elegant Joel Spumoni</creator>
+		<relatedgames />
+	</game>
+	<game id="10930549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Humble/Jackson/Blade/10930549.jpg</thumbnail>
+		<title>Danger Fire Hero</title>
+		<creator>Humble Jackson Blade</creator>
+		<relatedgames />
+	</game>
+	<game id="10935113" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Ghastly/Oliver/Orchid/10935113.jpg</thumbnail>
+		<title>Streak Cosmic Beast</title>
+		<creator>Ghastly Oliver Orchid</creator>
+		<relatedgames />
+	</game>
+	<game id="10929981" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Modest/Gretel/Bongo/10929981.jpg</thumbnail>
+		<title>Rush Cosmic Shadow</title>
+		<creator>Modest Gretel Bongo</creator>
+		<relatedgames />
+	</game>
+	<game id="10843782" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2009">
+		<thumbnail>/gamecreators/images2/Silent/Jimbo/Zombie/10843782.jpg</thumbnail>
+		<title>Vilgax Breaker Assault</title>
+		<creator>Silent Jimbo Zombie</creator>
+		<relatedgames />
+	</game>
+	<game id="10952853" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Zippy/Bubba/Planet/10952853.jpg</thumbnail>
+		<title>Thunder Animo Sonic</title>
+		<creator>Zippy Bubba Planet</creator>
+		<relatedgames />
+	</game>
+	<game id="17133581" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/17/2012">
+		<thumbnail>/gamecreators/images2/Titanic/Clyde/Dwarf/17133581.jpg</thumbnail>
+		<title>Adventure Smash Burst</title>
+		<creator>Titanic Clyde Dwarf</creator>
+		<relatedgames />
+	</game>
+	<game id="17347654" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2012">
+		<thumbnail>/gamecreators/images2/Baron/Zachary/Nebula/17347654.jpg</thumbnail>
+		<title>Fury Fusion Adventure</title>
+		<creator>Baron Zachary Nebula</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

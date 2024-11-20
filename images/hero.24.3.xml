@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10938798" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Massive/Hansel/Basilisk/10938798.jpg</thumbnail>
+		<title>Swampfire Galaxy Smash</title>
+		<creator>Massive Hansel Basilisk</creator>
+		<relatedgames />
+	</game>
+	<game id="10947189" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Yellow/Scooter/Manatee/10947189.jpg</thumbnail>
+		<title>Rumble Pulse Cosmic</title>
+		<creator>Yellow Scooter Manatee</creator>
+		<relatedgames />
+	</game>
+	<game id="10953554" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Swift/Owen/Gumbo/10953554.jpg</thumbnail>
+		<title>Turbo Turbo Battle</title>
+		<creator>Swift Owen Gumbo</creator>
+		<relatedgames />
+	</game>
+	<game id="10922330" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Babbling/Oscar/Tornado/10922330.jpg</thumbnail>
+		<title>Shadow Defense Spark</title>
+		<creator>Babbling Oscar Tornado</creator>
+		<relatedgames />
+	</game>
+	<game id="17420254" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Abstract/Natalia/Mackerel/17420254.jpg</thumbnail>
+		<title>Spike Ambush Storm</title>
+		<creator>Abstract Natalia Mackerel</creator>
+		<relatedgames />
+	</game>
+	<game id="17362287" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2012">
+		<thumbnail>/gamecreators/images2/Artful/Timmy/Daffodil/17362287.jpg</thumbnail>
+		<title>Drone Mission Vilgax</title>
+		<creator>Artful Timmy Daffodil</creator>
+		<relatedgames />
+	</game>
+	<game id="16950338" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>/gamecreators/images2/Dazzling/Angelica/Castle/16950338.jpg</thumbnail>
+		<title>Star Atomic Animo</title>
+		<creator>Dazzling Angelica Castle</creator>
+		<relatedgames />
+	</game>
+	<game id="17318985" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Grizzly/Eugene/Banzai/17318985.jpg</thumbnail>
+		<title>Escape Star Thunder</title>
+		<creator>Grizzly Eugene Banzai</creator>
+		<relatedgames />
+	</game>
+	<game id="17103443" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/08/2012">
+		<thumbnail>/gamecreators/images2/Fiery/Lucius/Tiger/17103443.jpg</thumbnail>
+		<title>Fury Echo Whirlwind</title>
+		<creator>Fiery Lucius Tiger</creator>
+		<relatedgames />
+	</game>
+	<game id="10933527" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Reliable/Jeff/Pulse/10933527.jpg</thumbnail>
+		<title>Warrior Rocket Adventure</title>
+		<creator>Reliable Jeff Pulse</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

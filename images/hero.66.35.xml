@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16989085" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/02/2012">
+		<thumbnail>/gamecreators/images2/Shiny/Homer/Soldier/16989085.jpg</thumbnail>
+		<title>Crusher Adventure Universe</title>
+		<creator>Shiny Homer Soldier</creator>
+		<relatedgames />
+	</game>
+	<game id="17262083" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Yucky/Rufus/Kiwi/17262083.jpg</thumbnail>
+		<title>Invasion Spidermonkey Rock</title>
+		<creator>Yucky Rufus Kiwi</creator>
+		<relatedgames />
+	</game>
+	<game id="17315171" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>/gamecreators/images2/Rational/Bobo/Orca/17315171.jpg</thumbnail>
+		<title>Slam Attack Galaxy</title>
+		<creator>Rational Bobo Orca</creator>
+		<relatedgames />
+	</game>
+	<game id="10068519" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Alien/Isaiah/Thud/10068519.jpg</thumbnail>
+		<title>Force Pursuit Target</title>
+		<creator>Alien Isaiah Thud</creator>
+		<relatedgames />
+	</game>
+	<game id="10950318" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Robotic/Diego/Pirate/10950318.jpg</thumbnail>
+		<title>Ben Escape Vilgax</title>
+		<creator>Robotic Diego Pirate</creator>
+		<relatedgames />
+	</game>
+	<game id="16949920" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>/gamecreators/images2/Virtual/Will/Zip/16949920.jpg</thumbnail>
+		<title>Fusion Battle Adventure</title>
+		<creator>Virtual Will Zip</creator>
+		<relatedgames />
+	</game>
+	<game id="10038642" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Artistic/Dominic/Lavender/10038642.jpg</thumbnail>
+		<title>Ultimate Drone Doom</title>
+		<creator>Artistic Dominic Lavender</creator>
+		<relatedgames />
+	</game>
+	<game id="10943881" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Dazzling/Grover/Fireball/10943881.jpg</thumbnail>
+		<title>Crusher Shock Ben</title>
+		<creator>Dazzling Grover Fireball</creator>
+		<relatedgames />
+	</game>
+	<game id="10953298" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Grizzly/Mitchell/Hiccup/10953298.jpg</thumbnail>
+		<title>Energy Robot Solar</title>
+		<creator>Grizzly Mitchell Hiccup</creator>
+		<relatedgames />
+	</game>
+	<game id="10925590" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fizzy/Dominic/Splat/10925590.jpg</thumbnail>
+		<title>Hero Battle Spark</title>
+		<creator>Fizzy Dominic Splat</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

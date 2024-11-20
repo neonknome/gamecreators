@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17335491" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Scurvy/Payton/Pelican/17335491.jpg</thumbnail>
+		<title>Plasma Magno Space</title>
+		<creator>Scurvy Payton Pelican</creator>
+		<relatedgames />
+	</game>
+	<game id="10919681" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Wise/Jasmine/Blob/10919681.jpg</thumbnail>
+		<title>Breaker Dark Challenge</title>
+		<creator>Wise Jasmine Blob</creator>
+		<relatedgames />
+	</game>
+	<game id="17576666" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Prince/Summer/Spider/17576666.jpg</thumbnail>
+		<title>Challenge Star Fury</title>
+		<creator>Prince Summer Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="10929624" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dynamic/Clyde/Fondue/10929624.jpg</thumbnail>
+		<title>Ben Ben Ben</title>
+		<creator>Dynamic Clyde Fondue</creator>
+		<relatedgames />
+	</game>
+	<game id="10918167" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Colossal/Leonardo/Howler/10918167.jpg</thumbnail>
+		<title>Alien Rampage Ambush</title>
+		<creator>Colossal Leonardo Howler</creator>
+		<relatedgames />
+	</game>
+	<game id="10924392" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Adorable/Eddie/Catapult/10924392.jpg</thumbnail>
+		<title>Fury Fusion Crusher</title>
+		<creator>Adorable Eddie Catapult</creator>
+		<relatedgames />
+	</game>
+	<game id="10926594" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Valiant/Maya/Rutabaga/10926594.jpg</thumbnail>
+		<title>Light Search Ultra</title>
+		<creator>Valiant Maya Rutabaga</creator>
+		<relatedgames />
+	</game>
+	<game id="10922895" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Brave/Ernie/Blitz/10922895.jpg</thumbnail>
+		<title>Hyper Spark Hero</title>
+		<creator>Brave Ernie Blitz</creator>
+		<relatedgames />
+	</game>
+	<game id="10931923" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Noble/Noah/Gazelle/10931923.jpg</thumbnail>
+		<title>Escape Rampage Mega</title>
+		<creator>Noble Noah Gazelle</creator>
+		<relatedgames />
+	</game>
+	<game id="10931325" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Feisty/Pearl/Hambone/10931325.jpg</thumbnail>
+		<title>Ultra Fire Warrior</title>
+		<creator>Feisty Pearl Hambone</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

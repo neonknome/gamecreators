@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10916978" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Powerful/Dominic/Grackle/10916978.jpg</thumbnail>
+		<title>Drone Mega Hero</title>
+		<creator>Powerful Dominic Grackle</creator>
+		<relatedgames />
+	</game>
+	<game id="10055578" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Mighty/Jesse/Bonkers/10055578.jpg</thumbnail>
+		<title>Rescue Adventure Attack</title>
+		<creator>Mighty Jesse Bonkers</creator>
+		<relatedgames />
+	</game>
+	<game id="10918223" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Purple/Sam/Warp/10918223.jpg</thumbnail>
+		<title>Rumble Swampfire Warrior</title>
+		<creator>Purple Sam Warp</creator>
+		<relatedgames />
+	</game>
+	<game id="17562390" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Tall/Sara/Hippo/17562390.jpg</thumbnail>
+		<title>Fury Adventure Ambush</title>
+		<creator>Tall Sara Hippo</creator>
+		<relatedgames />
+	</game>
+	<game id="10916846" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Absurd/Rocky/Penguin/10916846.jpg</thumbnail>
+		<title>Ben Magno Blaster</title>
+		<creator>Absurd Rocky Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="10041474" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Crafty/Harvey/Atom/10041474.jpg</thumbnail>
+		<title>Swampfire Ultimate Smash</title>
+		<creator>Crafty Harvey Atom</creator>
+		<relatedgames />
+	</game>
+	<game id="10921090" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Stout/Earl/Marigold/10921090.jpg</thumbnail>
+		<title>Iron Crusher Alien</title>
+		<creator>Stout Earl Marigold</creator>
+		<relatedgames />
+	</game>
+	<game id="17383696" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Athletic/Calvin/Buffalo/17383696.jpg</thumbnail>
+		<title>Metal Shadow Hex</title>
+		<creator>Athletic Calvin Buffalo</creator>
+		<relatedgames />
+	</game>
+	<game id="10937552" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Grouchy/Xavier/Wizard/10937552.jpg</thumbnail>
+		<title>Rocket Ultimate Rumble</title>
+		<creator>Grouchy Xavier Wizard</creator>
+		<relatedgames />
+	</game>
+	<game id="10953435" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Heroic/Bailey/Kazoo/10953435.jpg</thumbnail>
+		<title>Charge Giga Rescue</title>
+		<creator>Heroic Bailey Kazoo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

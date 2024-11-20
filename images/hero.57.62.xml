@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10916801" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Sly/Michelle/Chipmunk/10916801.jpg</thumbnail>
+		<title>Warp Pulse Blaster</title>
+		<creator>Sly Michelle Chipmunk</creator>
+		<relatedgames />
+	</game>
+	<game id="17262259" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Active/Jesse/Javelin/17262259.jpg</thumbnail>
+		<title>Force Rocket Thunder</title>
+		<creator>Active Jesse Javelin</creator>
+		<relatedgames />
+	</game>
+	<game id="10916670" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Frantic/Spike/Cobweb/10916670.jpg</thumbnail>
+		<title>Ambush Turbo Racer</title>
+		<creator>Frantic Spike Cobweb</creator>
+		<relatedgames />
+	</game>
+	<game id="17388599" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Luminous/Brooke/Shogun/17388599.jpg</thumbnail>
+		<title>Ultimate Steel Warrior</title>
+		<creator>Luminous Brooke Shogun</creator>
+		<relatedgames />
+	</game>
+	<game id="17535805" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>/gamecreators/images2/Ruthless/Dustin/Gulch/17535805.jpg</thumbnail>
+		<title>Gear Adventure Spidermonkey</title>
+		<creator>Ruthless Dustin Gulch</creator>
+		<relatedgames />
+	</game>
+	<game id="10922341" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Weird/Vinny/Spider/10922341.jpg</thumbnail>
+		<title>Atomic Champion Hero</title>
+		<creator>Weird Vinny Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="10929318" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Atomic/Jordan/Atom/10929318.jpg</thumbnail>
+		<title>Robot Turbo Warrior</title>
+		<creator>Atomic Jordan Atom</creator>
+		<relatedgames />
+	</game>
+	<game id="10924453" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dramatic/Luke/Charger/10924453.jpg</thumbnail>
+		<title>Invasion Mission Nova</title>
+		<creator>Dramatic Luke Charger</creator>
+		<relatedgames />
+	</game>
+	<game id="10952867" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Frantic/Chester/Walrus/10952867.jpg</thumbnail>
+		<title>Search Nova Champion</title>
+		<creator>Frantic Chester Walrus</creator>
+		<relatedgames />
+	</game>
+	<game id="17551176" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Earnest/Meredith/Tiger/17551176.jpg</thumbnail>
+		<title>Power Siege Rumble</title>
+		<creator>Earnest Meredith Tiger</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

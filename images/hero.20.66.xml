@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10925908" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Baffling/Tex/Jalapeno/10925908.jpg</thumbnail>
+		<title>Droid Laser Hex</title>
+		<creator>Baffling Tex Jalapeno</creator>
+		<relatedgames />
+	</game>
+	<game id="10065982" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Eastern/Brandon/Spider/10065982.jpg</thumbnail>
+		<title>Danger Champion Charge</title>
+		<creator>Eastern Brandon Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="10921963" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Northern/Jenna/Yoyo/10921963.jpg</thumbnail>
+		<title>Swampfire Challenge Ultimate</title>
+		<creator>Northern Jenna Yoyo</creator>
+		<relatedgames />
+	</game>
+	<game id="17325051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Cute/Rufus/Droid/17325051.jpg</thumbnail>
+		<title>Smash Power Techno</title>
+		<creator>Cute Rufus Droid</creator>
+		<relatedgames />
+	</game>
+	<game id="10055886" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Visible/Ben/Yodel/10055886.jpg</thumbnail>
+		<title>Universe Metal Steel</title>
+		<creator>Visible Ben Yodel</creator>
+		<relatedgames />
+	</game>
+	<game id="16983247" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>/gamecreators/images2/Brisk/Ben/Ballyhoo/16983247.jpg</thumbnail>
+		<title>Spike Drone Ultra</title>
+		<creator>Brisk Ben Ballyhoo</creator>
+		<relatedgames />
+	</game>
+	<game id="10953354" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Jolly/Bryan/Kook/10953354.jpg</thumbnail>
+		<title>Alien Robot Nitro</title>
+		<creator>Jolly Bryan Kook</creator>
+		<relatedgames />
+	</game>
+	<game id="10930206" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Loony/James/Kangaroo/10930206.jpg</thumbnail>
+		<title>Pursuit Star Adventure</title>
+		<creator>Loony James Kangaroo</creator>
+		<relatedgames />
+	</game>
+	<game id="16907817" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/09/2012">
+		<thumbnail>/gamecreators/images2/Restless/Oscar/Mumbles/16907817.jpg</thumbnail>
+		<title>Razor Alien Iron</title>
+		<creator>Restless Oscar Mumbles</creator>
+		<relatedgames />
+	</game>
+	<game id="17085481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/03/2012">
+		<thumbnail>/gamecreators/images2/Vibrant/Gabriel/Mahogany/17085481.jpg</thumbnail>
+		<title>Nitro Mega Smash</title>
+		<creator>Vibrant Gabriel Mahogany</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

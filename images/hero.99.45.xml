@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17391876" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Doctor/Makayla/Atlas/17391876.jpg</thumbnail>
+		<title>Breaker Warrior Star</title>
+		<creator>Doctor Makayla Atlas</creator>
+		<relatedgames />
+	</game>
+	<game id="10933122" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Handsome/Breanna/Aurora/10933122.jpg</thumbnail>
+		<title>Rock Space Fire</title>
+		<creator>Handsome Breanna Aurora</creator>
+		<relatedgames />
+	</game>
+	<game id="16875579" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/02/2012">
+		<thumbnail>/gamecreators/images2/Spirited/Raymond/Moonbeam/16875579.jpg</thumbnail>
+		<title>Mega Shadow Alien</title>
+		<creator>Spirited Raymond Moonbeam</creator>
+		<relatedgames />
+	</game>
+	<game id="10931869" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Rowdy/Trevor/Glop/10931869.jpg</thumbnail>
+		<title>Shadow Patrol Attack</title>
+		<creator>Rowdy Trevor Glop</creator>
+		<relatedgames />
+	</game>
+	<game id="17411231" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/13/2012">
+		<thumbnail>/gamecreators/images2/Strange/Ariel/Gumdrop/17411231.jpg</thumbnail>
+		<title>Defense Spidermonkey Droid</title>
+		<creator>Strange Ariel Gumdrop</creator>
+		<relatedgames />
+	</game>
+	<game id="17318169" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Athletic/Jordan/Mustard/17318169.jpg</thumbnail>
+		<title>Energy Escape Challenge</title>
+		<creator>Athletic Jordan Mustard</creator>
+		<relatedgames />
+	</game>
+	<game id="17582460" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Grubby/Jan/Gorilla/17582460.jpg</thumbnail>
+		<title>Dark Adventure Battle</title>
+		<creator>Grubby Jan Gorilla</creator>
+		<relatedgames />
+	</game>
+	<game id="17554036" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Heroic/Gavin/Fury/17554036.jpg</thumbnail>
+		<title>Adventure Assault Clash</title>
+		<creator>Heroic Gavin Fury</creator>
+		<relatedgames />
+	</game>
+	<game id="17417687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Stormy/Mordecai/Vulture/17417687.jpg</thumbnail>
+		<title>Invasion Ultra Lightning</title>
+		<creator>Stormy Mordecai Vulture</creator>
+		<relatedgames />
+	</game>
+	<game id="10919466" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Cheerful/Blake/Crater/10919466.jpg</thumbnail>
+		<title>Clash Atomic Stone</title>
+		<creator>Cheerful Blake Crater</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

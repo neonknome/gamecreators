@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10921864" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Cheyenne/Iceberg/10921864.jpg</thumbnail>
+		<title>Ultimate Alien Smash</title>
+		<creator>Tricky Cheyenne Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="17014783" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>/gamecreators/images2/Duchess/Cassidy/Fizz/17014783.jpg</thumbnail>
+		<title>Energy Pulse Rescue</title>
+		<creator>Duchess Cassidy Fizz</creator>
+		<relatedgames />
+	</game>
+	<game id="10921643" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Magnetic/Ernie/Rumble/10921643.jpg</thumbnail>
+		<title>Rampage Defense Galaxy</title>
+		<creator>Magnetic Ernie Rumble</creator>
+		<relatedgames />
+	</game>
+	<game id="10953304" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Scary/James/Lavender/10953304.jpg</thumbnail>
+		<title>Rustbucket Magno Plasma</title>
+		<creator>Scary James Lavender</creator>
+		<relatedgames />
+	</game>
+	<game id="10780319" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2009">
+		<thumbnail>/gamecreators/images2/Wild/Richard/Pontoon/10780319.jpg</thumbnail>
+		<title>Galaxy Solar Ambush</title>
+		<creator>Wild Richard Pontoon</creator>
+		<relatedgames />
+	</game>
+	<game id="17360082" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>/gamecreators/images2/Drowzy/Benny/Droid/17360082.jpg</thumbnail>
+		<title>Clash Smash Fury</title>
+		<creator>Drowzy Benny Droid</creator>
+		<relatedgames />
+	</game>
+	<game id="17353438" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>/gamecreators/images2/Hardy/Skips/Knight/17353438.jpg</thumbnail>
+		<title>Robot Alien Ambush</title>
+		<creator>Hardy Skips Knight</creator>
+		<relatedgames />
+	</game>
+	<game id="10044035" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Freaky/Bugsy/Dragon/10044035.jpg</thumbnail>
+		<title>Hero Shock Quake</title>
+		<creator>Freaky Bugsy Dragon</creator>
+		<relatedgames />
+	</game>
+	<game id="10953653" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Savage/Caroline/Fizz/10953653.jpg</thumbnail>
+		<title>Mega Adventure Alien</title>
+		<creator>Savage Caroline Fizz</creator>
+		<relatedgames />
+	</game>
+	<game id="10062736" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Atomic/Timmy/Parsec/10062736.jpg</thumbnail>
+		<title>Turbo Crusher Laser</title>
+		<creator>Atomic Timmy Parsec</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

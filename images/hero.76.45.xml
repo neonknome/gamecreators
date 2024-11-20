@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10068460" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Frugal/Natasha/Minotaur/10068460.jpg</thumbnail>
+		<title>Atomic Spike Danger</title>
+		<creator>Frugal Natasha Minotaur</creator>
+		<relatedgames />
+	</game>
+	<game id="17332957" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Tiffany/Tugboat/17332957.jpg</thumbnail>
+		<title>Breaker Siege Mega</title>
+		<creator>Magnetic Tiffany Tugboat</creator>
+		<relatedgames />
+	</game>
+	<game id="10942165" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Pretty/Vinny/Zebra/10942165.jpg</thumbnail>
+		<title>Earth Nano Storm</title>
+		<creator>Pretty Vinny Zebra</creator>
+		<relatedgames />
+	</game>
+	<game id="16970451" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/26/2012">
+		<thumbnail>/gamecreators/images2/Shy/Ginger/Calamari/16970451.jpg</thumbnail>
+		<title>Target Universe Ultimate</title>
+		<creator>Shy Ginger Calamari</creator>
+		<relatedgames />
+	</game>
+	<game id="17408812" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>/gamecreators/images2/Electric/Chase/Reptile/17408812.jpg</thumbnail>
+		<title>Invasion Humungousaur Target</title>
+		<creator>Electric Chase Reptile</creator>
+		<relatedgames />
+	</game>
+	<game id="17395975" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>/gamecreators/images2/Cranky/Gregory/Haystack/17395975.jpg</thumbnail>
+		<title>Solar Ambush Whirlwind</title>
+		<creator>Cranky Gregory Haystack</creator>
+		<relatedgames />
+	</game>
+	<game id="10951732" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Generous/Matthew/Turtle/10951732.jpg</thumbnail>
+		<title>Ben Ben Search</title>
+		<creator>Generous Matthew Turtle</creator>
+		<relatedgames />
+	</game>
+	<game id="10918741" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Shrewd/Jonas/Yodel/10918741.jpg</thumbnail>
+		<title>Mega Atomic Nova</title>
+		<creator>Shrewd Jonas Yodel</creator>
+		<relatedgames />
+	</game>
+	<game id="17257047" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>/gamecreators/images2/Barbaric/Faith/Camel/17257047.jpg</thumbnail>
+		<title>Adventure Adventure Metal</title>
+		<creator>Barbaric Faith Camel</creator>
+		<relatedgames />
+	</game>
+	<game id="10945636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Obvious/Alex/Dynamite/10945636.jpg</thumbnail>
+		<title>Energy Search Solar</title>
+		<creator>Obvious Alex Dynamite</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

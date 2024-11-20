@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17232540" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>/gamecreators/images2/Diagonal/Trevor/Blammo/17232540.jpg</thumbnail>
+		<title>Dark Metal Attack</title>
+		<creator>Diagonal Trevor Blammo</creator>
+		<relatedgames />
+	</game>
+	<game id="10926938" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Gruesome/Ryan/Nacho/10926938.jpg</thumbnail>
+		<title>Galaxy Adventure Ambush</title>
+		<creator>Gruesome Ryan Nacho</creator>
+		<relatedgames />
+	</game>
+	<game id="17303375" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Flying/Stanley/Quake/17303375.jpg</thumbnail>
+		<title>Rampage Ambush Charge</title>
+		<creator>Flying Stanley Quake</creator>
+		<relatedgames />
+	</game>
+	<game id="17504532" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>/gamecreators/images2/Rowdy/Chris/Blast/17504532.jpg</thumbnail>
+		<title>Nano Steel Alien</title>
+		<creator>Rowdy Chris Blast</creator>
+		<relatedgames />
+	</game>
+	<game id="10922525" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Heroic/Michelle/Zebra/10922525.jpg</thumbnail>
+		<title>Rock Challenge Robot</title>
+		<creator>Heroic Michelle Zebra</creator>
+		<relatedgames />
+	</game>
+	<game id="17323118" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Stout/Herman/Aardvark/17323118.jpg</thumbnail>
+		<title>Lightning Hyper Dark</title>
+		<creator>Stout Herman Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="17156444" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/24/2012">
+		<thumbnail>/gamecreators/images2/Athletic/Carl/Fathom/17156444.jpg</thumbnail>
+		<title>Rescue Adventure Turbo</title>
+		<creator>Athletic Carl Fathom</creator>
+		<relatedgames />
+	</game>
+	<game id="17137189" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/18/2012">
+		<thumbnail>/gamecreators/images2/Shady/Albert/Iceberg/17137189.jpg</thumbnail>
+		<title>Big Cannonbolt Spike</title>
+		<creator>Shady Albert Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="10916844" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Itchy/Jared/Kazoo/10916844.jpg</thumbnail>
+		<title>Rampage Smash Fusion</title>
+		<creator>Itchy Jared Kazoo</creator>
+		<relatedgames />
+	</game>
+	<game id="17423219" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>/gamecreators/images2/Quiet/Hunter/Blob/17423219.jpg</thumbnail>
+		<title>Turbo Champion Adventure</title>
+		<creator>Quiet Hunter Blob</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

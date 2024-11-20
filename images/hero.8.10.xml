@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10936061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Howling/Faith/Tusk/10936061.jpg</thumbnail>
+		<title>Power Adventure Solar</title>
+		<creator>Howling Faith Tusk</creator>
+		<relatedgames />
+	</game>
+	<game id="10933360" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Pretty/Clyde/Minotaur/10933360.jpg</thumbnail>
+		<title>Charge Slam Spike</title>
+		<creator>Pretty Clyde Minotaur</creator>
+		<relatedgames />
+	</game>
+	<game id="10058854" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Mighty/Tony/Goofball/10058854.jpg</thumbnail>
+		<title>Attack Force Mega</title>
+		<creator>Mighty Tony Goofball</creator>
+		<relatedgames />
+	</game>
+	<game id="17228049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>/gamecreators/images2/Zany/Scott/Snake/17228049.jpg</thumbnail>
+		<title>Iron Nano Alien</title>
+		<creator>Zany Scott Snake</creator>
+		<relatedgames />
+	</game>
+	<game id="10939640" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Putrid/Tim/Paradox/10939640.jpg</thumbnail>
+		<title>Rocket Robot Robot</title>
+		<creator>Putrid Tim Paradox</creator>
+		<relatedgames />
+	</game>
+	<game id="10953030" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Ticklish/Olivia/Coconut/10953030.jpg</thumbnail>
+		<title>Pursuit Sonic Warrior</title>
+		<creator>Ticklish Olivia Coconut</creator>
+		<relatedgames />
+	</game>
+	<game id="10069016" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Absurd/Zeus/Rumble/10069016.jpg</thumbnail>
+		<title>Adventure Drone Nova</title>
+		<creator>Absurd Zeus Rumble</creator>
+		<relatedgames />
+	</game>
+	<game id="10930634" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Crafty/Sarah/Zombie/10930634.jpg</thumbnail>
+		<title>Atomic Alien Ambush</title>
+		<creator>Crafty Sarah Zombie</creator>
+		<relatedgames />
+	</game>
+	<game id="10953425" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Rowdy/Mario/Pulse/10953425.jpg</thumbnail>
+		<title>Rumble Metal Drone</title>
+		<creator>Rowdy Mario Pulse</creator>
+		<relatedgames />
+	</game>
+	<game id="17365968" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>/gamecreators/images2/Athletic/Felipe/Macaroni/17365968.jpg</thumbnail>
+		<title>Alien Rumble Metal</title>
+		<creator>Athletic Felipe Macaroni</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

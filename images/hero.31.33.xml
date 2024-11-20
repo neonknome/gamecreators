@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17244101" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/20/2012">
+		<thumbnail>/gamecreators/images2/Prince/Dan/Galaxy/17244101.jpg</thumbnail>
+		<title>Ultimate Quake Mission</title>
+		<creator>Prince Dan Galaxy</creator>
+		<relatedgames />
+	</game>
+	<game id="10931049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Puzzling/Marsha/Nibbles/10931049.jpg</thumbnail>
+		<title>Nitro Attack Alien</title>
+		<creator>Puzzling Marsha Nibbles</creator>
+		<relatedgames />
+	</game>
+	<game id="17133581" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/17/2012">
+		<thumbnail>/gamecreators/images2/Titanic/Clyde/Dwarf/17133581.jpg</thumbnail>
+		<title>Adventure Smash Burst</title>
+		<creator>Titanic Clyde Dwarf</creator>
+		<relatedgames />
+	</game>
+	<game id="17549943" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Electric/David/Gamer/17549943.jpg</thumbnail>
+		<title>Chill Shock Force</title>
+		<creator>Electric David Gamer</creator>
+		<relatedgames />
+	</game>
+	<game id="10931081" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Cranky/Jake/Bamboo/10931081.jpg</thumbnail>
+		<title>Vilgax Smash Invasion</title>
+		<creator>Cranky Jake Bamboo</creator>
+		<relatedgames />
+	</game>
+	<game id="17338691" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Gentle/Clifford/Beast/17338691.jpg</thumbnail>
+		<title>Ben Adventure Cosmic</title>
+		<creator>Gentle Clifford Beast</creator>
+		<relatedgames />
+	</game>
+	<game id="10786851" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>/gamecreators/images2/Puzzling/Carter/Basilisk/10786851.jpg</thumbnail>
+		<title>Spike Turbo Alien</title>
+		<creator>Puzzling Carter Basilisk</creator>
+		<relatedgames />
+	</game>
+	<game id="10058916" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Lovely/Theodore/Avocado/10058916.jpg</thumbnail>
+		<title>Assault Vilgax Space</title>
+		<creator>Lovely Theodore Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="16989131" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/02/2012">
+		<thumbnail>/gamecreators/images2/Hideous/Ginger/Rhino/16989131.jpg</thumbnail>
+		<title>Assault Mission Racer</title>
+		<creator>Hideous Ginger Rhino</creator>
+		<relatedgames />
+	</game>
+	<game id="17540418" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Peppy/Phillip/Scythe/17540418.jpg</thumbnail>
+		<title>Target Rush Fusion</title>
+		<creator>Peppy Phillip Scythe</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

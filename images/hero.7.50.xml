@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16993778" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>/gamecreators/images2/Baroness/Anna/Beast/16993778.jpg</thumbnail>
+		<title>Animo Patrol Steel</title>
+		<creator>Baroness Anna Beast</creator>
+		<relatedgames />
+	</game>
+	<game id="17551679" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Howling/Vince/Bazooka/17551679.jpg</thumbnail>
+		<title>Hyper Invasion Adventure</title>
+		<creator>Howling Vince Bazooka</creator>
+		<relatedgames />
+	</game>
+	<game id="10924763" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Mirthful/Dorothy/Twist/10924763.jpg</thumbnail>
+		<title>Fire Force Alien</title>
+		<creator>Mirthful Dorothy Twist</creator>
+		<relatedgames />
+	</game>
+	<game id="10925864" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wacky/Jack/Virtuoso/10925864.jpg</thumbnail>
+		<title>Turbo Techno Laser</title>
+		<creator>Wacky Jack Virtuoso</creator>
+		<relatedgames />
+	</game>
+	<game id="16965108" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/24/2012">
+		<thumbnail>/gamecreators/images2/Feral/Andrew/Mustang/16965108.jpg</thumbnail>
+		<title>Titan Hyper Breaker</title>
+		<creator>Feral Andrew Mustang</creator>
+		<relatedgames />
+	</game>
+	<game id="10953586" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Atomic/Fred/Jungle/10953586.jpg</thumbnail>
+		<title>Streak Ultimate Nitro</title>
+		<creator>Atomic Fred Jungle</creator>
+		<relatedgames />
+	</game>
+	<game id="10057898" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Dramatic/Dora/Doodad/10057898.jpg</thumbnail>
+		<title>Nova Rush Adventure</title>
+		<creator>Dramatic Dora Doodad</creator>
+		<relatedgames />
+	</game>
+	<game id="10044442" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Handsome/Hercules/Catapult/10044442.jpg</thumbnail>
+		<title>Rumble Alien Invasion</title>
+		<creator>Handsome Hercules Catapult</creator>
+		<relatedgames />
+	</game>
+	<game id="10950785" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Fragrant/Dudley/Fritter/10950785.jpg</thumbnail>
+		<title>Laser Rocket Streak</title>
+		<creator>Fragrant Dudley Fritter</creator>
+		<relatedgames />
+	</game>
+	<game id="17276635" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Roy/Razor/17276635.jpg</thumbnail>
+		<title>Echo Magno Ultra</title>
+		<creator>Roy Razor</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10945458" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Atomic/Zelda/Sardine/10945458.jpg</thumbnail>
+		<title>Sonic Alien Universe</title>
+		<creator>Atomic Zelda Sardine</creator>
+		<relatedgames />
+	</game>
+	<game id="10919820" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Dreadful/Luke/Buffalo/10919820.jpg</thumbnail>
+		<title>Alien Ambush Assault</title>
+		<creator>Dreadful Luke Buffalo</creator>
+		<relatedgames />
+	</game>
+	<game id="10932450" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Happy/Steven/Wizard/10932450.jpg</thumbnail>
+		<title>Champion Patrol Rocket</title>
+		<creator>Happy Steven Wizard</creator>
+		<relatedgames />
+	</game>
+	<game id="17311338" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>/gamecreators/images2/Freakish/Benson/Banshee/17311338.jpg</thumbnail>
+		<title>Rustbucket Battle Clash</title>
+		<creator>Freakish Benson Banshee</creator>
+		<relatedgames />
+	</game>
+	<game id="17356919" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>/gamecreators/images2/Sassy/Aaron/Baloney/17356919.jpg</thumbnail>
+		<title>Alien Chase Shock</title>
+		<creator>Sassy Aaron Baloney</creator>
+		<relatedgames />
+	</game>
+	<game id="10952470" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Puzzling/Misty/Polliwog/10952470.jpg</thumbnail>
+		<title>Racer Burst Fusion</title>
+		<creator>Puzzling Misty Polliwog</creator>
+		<relatedgames />
+	</game>
+	<game id="17288662" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/01/2012">
+		<thumbnail>/gamecreators/images2/Rancid/Chester/Magician/17288662.jpg</thumbnail>
+		<title>Titan Alien Nano</title>
+		<creator>Rancid Chester Magician</creator>
+		<relatedgames />
+	</game>
+	<game id="17204454" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/09/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Jake/Gargoyle/17204454.jpg</thumbnail>
+		<title>Doom Energy Adventure</title>
+		<creator>Ultimate Jake Gargoyle</creator>
+		<relatedgames />
+	</game>
+	<game id="10925503" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Curious/Tyler/Tiptoe/10925503.jpg</thumbnail>
+		<title>Pursuit Razor Energy</title>
+		<creator>Curious Tyler Tiptoe</creator>
+		<relatedgames />
+	</game>
+	<game id="17404696" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Golden/Benjamin/Hedgehog/17404696.jpg</thumbnail>
+		<title>Robot Hyper Mission</title>
+		<creator>Golden Benjamin Hedgehog</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

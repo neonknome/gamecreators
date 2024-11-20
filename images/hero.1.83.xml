@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10919681" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Wise/Jasmine/Blob/10919681.jpg</thumbnail>
+		<title>Breaker Dark Challenge</title>
+		<creator>Wise Jasmine Blob</creator>
+		<relatedgames />
+	</game>
+	<game id="10038231" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Cheerful/Bryan/Sizzle/10038231.jpg</thumbnail>
+		<title>Razor Shadow Rocket</title>
+		<creator>Cheerful Bryan Sizzle</creator>
+		<relatedgames />
+	</game>
+	<game id="17386767" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Flying/Brandon/Robot/17386767.jpg</thumbnail>
+		<title>Warrior Atomic Warrior</title>
+		<creator>Flying Brandon Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="10057062" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Bizarre/Zelda/Catapult/10057062.jpg</thumbnail>
+		<title>Droid Target Rush</title>
+		<creator>Bizarre Zelda Catapult</creator>
+		<relatedgames />
+	</game>
+	<game id="17305485" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>/gamecreators/images2/Soggy/Yvette/Magma/17305485.jpg</thumbnail>
+		<title>Rustbucket Lightning Danger</title>
+		<creator>Soggy Yvette Magma</creator>
+		<relatedgames />
+	</game>
+	<game id="10922895" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Brave/Ernie/Blitz/10922895.jpg</thumbnail>
+		<title>Hyper Spark Hero</title>
+		<creator>Brave Ernie Blitz</creator>
+		<relatedgames />
+	</game>
+	<game id="17083085" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/02/2012">
+		<thumbnail>/gamecreators/images2/Extreme/Abigail/Magnet/17083085.jpg</thumbnail>
+		<title>Streak Drone Magno</title>
+		<creator>Extreme Abigail Magnet</creator>
+		<relatedgames />
+	</game>
+	<game id="17584898" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Intrepid/Finn/Clone/17584898.jpg</thumbnail>
+		<title>Cannonbolt Storm Assault</title>
+		<creator>Intrepid Finn Clone</creator>
+		<relatedgames />
+	</game>
+	<game id="10793505" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2009">
+		<thumbnail>/gamecreators/images2/Green/Brianna/Thorax/10793505.jpg</thumbnail>
+		<title>Escape Escape Smash</title>
+		<creator>Green Brianna Thorax</creator>
+		<relatedgames />
+	</game>
+	<game id="10931923" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Noble/Noah/Gazelle/10931923.jpg</thumbnail>
+		<title>Escape Rampage Mega</title>
+		<creator>Noble Noah Gazelle</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10946650" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Dazzling/Napoleon/Cupcake/10946650.jpg</thumbnail>
+		<title>Iron Ambush Plumber</title>
+		<creator>Dazzling Napoleon Cupcake</creator>
+		<relatedgames />
+	</game>
+	<game id="17318747" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Gross/Newton/Windmill/17318747.jpg</thumbnail>
+		<title>Shadow Blaster Atomic</title>
+		<creator>Gross Newton Windmill</creator>
+		<relatedgames />
+	</game>
+	<game id="10924684" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fizzy/Jackie/Iceberg/10924684.jpg</thumbnail>
+		<title>Mission Turbo Sonic</title>
+		<creator>Fizzy Jackie Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="17126481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/15/2012">
+		<thumbnail>/gamecreators/images2/Restless/Xerxes/Kook/17126481.jpg</thumbnail>
+		<title>Sonic Chase Blaster</title>
+		<creator>Restless Xerxes Kook</creator>
+		<relatedgames />
+	</game>
+	<game id="10933914" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Squishy/Phillip/Fritter/10933914.jpg</thumbnail>
+		<title>Rumble Battle Techno</title>
+		<creator>Squishy Phillip Fritter</creator>
+		<relatedgames />
+	</game>
+	<game id="17389194" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Artful/Russell/Cobweb/17389194.jpg</thumbnail>
+		<title>Universe Shadow Pursuit</title>
+		<creator>Artful Russell Cobweb</creator>
+		<relatedgames />
+	</game>
+	<game id="10953336" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Scary/James/Lavender/10953336.jpg</thumbnail>
+		<title>Steel Smash Magno</title>
+		<creator>Scary James Lavender</creator>
+		<relatedgames />
+	</game>
+	<game id="17364456" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>/gamecreators/images2/Average/Mike/Pizza/17364456.jpg</thumbnail>
+		<title>Defense Rocket Droid</title>
+		<creator>Average Mike Pizza</creator>
+		<relatedgames />
+	</game>
+	<game id="17552388" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Drowzy/Finn/Fishbowl/17552388.jpg</thumbnail>
+		<title>Omniverse Cosmic Adventure</title>
+		<creator>Drowzy Finn Fishbowl</creator>
+		<relatedgames />
+	</game>
+	<game id="17283609" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Haunted/Andre/Tarragon/17283609.jpg</thumbnail>
+		<title>Iron Assault Challenge</title>
+		<creator>Haunted Andre Tarragon</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10062426" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Massive/Clark/Steam/10062426.jpg</thumbnail>
+		<title>Universe Swampfire Storm</title>
+		<creator>Massive Clark Steam</creator>
+		<relatedgames />
+	</game>
+	<game id="10937225" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Shaggy/Jonas/Blob/10937225.jpg</thumbnail>
+		<title>Ultimate Ben Galaxy</title>
+		<creator>Shaggy Jonas Blob</creator>
+		<relatedgames />
+	</game>
+	<game id="17395386" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>/gamecreators/images2/Babbling/Alan/Virtuoso/17395386.jpg</thumbnail>
+		<title>Dark Alien Robot</title>
+		<creator>Babbling Alan Virtuoso</creator>
+		<relatedgames />
+	</game>
+	<game id="10055601" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Hideous/Pedro/Gulch/10055601.jpg</thumbnail>
+		<title>Dark Escape Robot</title>
+		<creator>Hideous Pedro Gulch</creator>
+		<relatedgames />
+	</game>
+	<game id="17583724" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Humorous/Beowulf/Bucket/17583724.jpg</thumbnail>
+		<title>Power Rush Turbo</title>
+		<creator>Humorous Beowulf Bucket</creator>
+		<relatedgames />
+	</game>
+	<game id="10936010" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Surreal/Ivy/Fury/10936010.jpg</thumbnail>
+		<title>Thunder Giga Swampfire</title>
+		<creator>Surreal Ivy Fury</creator>
+		<relatedgames />
+	</game>
+	<game id="10950423" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Awful/Brittney/Amethyst/10950423.jpg</thumbnail>
+		<title>Robot Force Thunder</title>
+		<creator>Awful Brittney Amethyst</creator>
+		<relatedgames />
+	</game>
+	<game id="10066885" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Sincere/Andrew/Monkey/10066885.jpg</thumbnail>
+		<title>Defense Blaster Adventure</title>
+		<creator>Sincere Andrew Monkey</creator>
+		<relatedgames />
+	</game>
+	<game id="16988536" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/01/2012">
+		<thumbnail>/gamecreators/images2/Able/Caden/Doodad/16988536.jpg</thumbnail>
+		<title>Mission Techno Breaker</title>
+		<creator>Able Caden Doodad</creator>
+		<relatedgames />
+	</game>
+	<game id="10917033" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Comical/Ariana/Kiwi/10917033.jpg</thumbnail>
+		<title>Hero Fire Force</title>
+		<creator>Comical Ariana Kiwi</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

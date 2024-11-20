@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10921135" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Dreadful/Medusa/Fishbowl/10921135.jpg</thumbnail>
+		<title>Swampfire Assault Invasion</title>
+		<creator>Dreadful Medusa Fishbowl</creator>
+		<relatedgames />
+	</game>
+	<game id="17256921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>/gamecreators/images2/Freakish/Paul/Neptune/17256921.jpg</thumbnail>
+		<title>Ultra Gear Hex</title>
+		<creator>Freakish Paul Neptune</creator>
+		<relatedgames />
+	</game>
+	<game id="17421965" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>/gamecreators/images2/Luminous/Mark/Narwhal/17421965.jpg</thumbnail>
+		<title>Metal Streak Shadow</title>
+		<creator>Luminous Mark Narwhal</creator>
+		<relatedgames />
+	</game>
+	<game id="17356933" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>/gamecreators/images2/Sassy/Aaron/Baloney/17356933.jpg</thumbnail>
+		<title>Spidermonkey Dark Target</title>
+		<creator>Sassy Aaron Baloney</creator>
+		<relatedgames />
+	</game>
+	<game id="16977448" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Western/Cameron/Jigsaw/16977448.jpg</thumbnail>
+		<title>Assault Humongousaur Laser</title>
+		<creator>Western Cameron Jigsaw</creator>
+		<relatedgames />
+	</game>
+	<game id="17408671" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>/gamecreators/images2/Popular/Brayden/Spleen/17408671.jpg</thumbnail>
+		<title>Stone Siege Laser</title>
+		<creator>Popular Brayden Spleen</creator>
+		<relatedgames />
+	</game>
+	<game id="10922698" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Atomic/Matthew/Goulash/10922698.jpg</thumbnail>
+		<title>Warrior Adventure Droid</title>
+		<creator>Atomic Matthew Goulash</creator>
+		<relatedgames />
+	</game>
+	<game id="10038151" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Dramatic/Nick/Porridge/10038151.jpg</thumbnail>
+		<title>Ultra Doom Storm</title>
+		<creator>Dramatic Nick Porridge</creator>
+		<relatedgames />
+	</game>
+	<game id="10953549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Frantic/Chester/Walrus/10953549.jpg</thumbnail>
+		<title>Chase Slam Alien</title>
+		<creator>Frantic Chester Walrus</creator>
+		<relatedgames />
+	</game>
+	<game id="10028187" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Eastern/Alan/Charger/10028187.jpg</thumbnail>
+		<title>Defense Attack Power</title>
+		<creator>Eastern Alan Charger</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17019670" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>/gamecreators/images2/Golden/Tex/Tornado/17019670.jpg</thumbnail>
+		<title>Chill Nano Spark</title>
+		<creator>Golden Tex Tornado</creator>
+		<relatedgames />
+	</game>
+	<game id="17214905" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/12/2012">
+		<thumbnail>/gamecreators/images2/Neutral/Ted/Eggplant/17214905.jpg</thumbnail>
+		<title>Big Warrior Razor</title>
+		<creator>Neutral Ted Eggplant</creator>
+		<relatedgames />
+	</game>
+	<game id="10946491" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Fanciful/Sandra/Howler/10946491.jpg</thumbnail>
+		<title>Warrior Quake Pursuit</title>
+		<creator>Fanciful Sandra Howler</creator>
+		<relatedgames />
+	</game>
+	<game id="10953354" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Jolly/Bryan/Kook/10953354.jpg</thumbnail>
+		<title>Alien Robot Nitro</title>
+		<creator>Jolly Bryan Kook</creator>
+		<relatedgames />
+	</game>
+	<game id="16893803" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/06/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Andrew/Vulture/16893803.jpg</thumbnail>
+		<title>Nitro Blaster Challenge</title>
+		<creator>Ultimate Andrew Vulture</creator>
+		<relatedgames />
+	</game>
+	<game id="10923524" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Normal/Merlin/Monster/10923524.jpg</thumbnail>
+		<title>Robot Drone Fury</title>
+		<creator>Normal Merlin Monster</creator>
+		<relatedgames />
+	</game>
+	<game id="10916797" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Spectral/Thomas/Zigzag/10916797.jpg</thumbnail>
+		<title>Universe Chase Patrol</title>
+		<creator>Spectral Thomas Zigzag</creator>
+		<relatedgames />
+	</game>
+	<game id="10952671" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Brawny/Scooter/Monolith/10952671.jpg</thumbnail>
+		<title>Target Metal Challenge</title>
+		<creator>Brawny Scooter Monolith</creator>
+		<relatedgames />
+	</game>
+	<game id="17182146" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/02/2012">
+		<thumbnail>/gamecreators/images2/Famous/Karl/Fossil/17182146.jpg</thumbnail>
+		<title>Adventure Rush Light</title>
+		<creator>Famous Karl Fossil</creator>
+		<relatedgames />
+	</game>
+	<game id="10938971" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Jingling/Madison/Spider/10938971.jpg</thumbnail>
+		<title>Mission Adventure Slam</title>
+		<creator>Jingling Madison Spider</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

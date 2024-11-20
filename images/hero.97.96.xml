@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10918878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Majestic/Adam/Bolt/10918878.jpg</thumbnail>
+		<title>Blaster Ambush Assault</title>
+		<creator>Majestic Adam Bolt</creator>
+		<relatedgames />
+	</game>
+	<game id="10953605" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Scurvy/Edward/Monster/10953605.jpg</thumbnail>
+		<title>Rumble Shadow Techno</title>
+		<creator>Scurvy Edward Monster</creator>
+		<relatedgames />
+	</game>
+	<game id="17244101" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/20/2012">
+		<thumbnail>/gamecreators/images2/Prince/Dan/Galaxy/17244101.jpg</thumbnail>
+		<title>Ultimate Quake Mission</title>
+		<creator>Prince Dan Galaxy</creator>
+		<relatedgames />
+	</game>
+	<game id="10923281" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Frosty/Zoe/Planet/10923281.jpg</thumbnail>
+		<title>Battle Shadow Ambush</title>
+		<creator>Frosty Zoe Planet</creator>
+		<relatedgames />
+	</game>
+	<game id="17549943" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Electric/David/Gamer/17549943.jpg</thumbnail>
+		<title>Chill Shock Force</title>
+		<creator>Electric David Gamer</creator>
+		<relatedgames />
+	</game>
+	<game id="17338691" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Gentle/Clifford/Beast/17338691.jpg</thumbnail>
+		<title>Ben Adventure Cosmic</title>
+		<creator>Gentle Clifford Beast</creator>
+		<relatedgames />
+	</game>
+	<game id="10930760" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Shrewd/Mia/Wombat/10930760.jpg</thumbnail>
+		<title>Invasion Earth Magno</title>
+		<creator>Shrewd Mia Wombat</creator>
+		<relatedgames />
+	</game>
+	<game id="10786851" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>/gamecreators/images2/Puzzling/Carter/Basilisk/10786851.jpg</thumbnail>
+		<title>Spike Turbo Alien</title>
+		<creator>Puzzling Carter Basilisk</creator>
+		<relatedgames />
+	</game>
+	<game id="17259716" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>/gamecreators/images2/Barbaric/Faith/Camel/17259716.jpg</thumbnail>
+		<title>Drone Solar Charge</title>
+		<creator>Barbaric Faith Camel</creator>
+		<relatedgames />
+	</game>
+	<game id="10797645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/04/2009">
+		<thumbnail>/gamecreators/images2/Eerie/Simon/Scorpion/10797645.jpg</thumbnail>
+		<title>Warrior Plumber Steel</title>
+		<creator>Eerie Simon Scorpion</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

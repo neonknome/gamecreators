@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17355672" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/20/2012">
+		<thumbnail>/gamecreators/images2/Purple/Rosetta/Rebel/17355672.jpg</thumbnail>
+		<title>Smash Power Earth</title>
+		<creator>Purple Rosetta Rebel</creator>
+		<relatedgames />
+	</game>
+	<game id="17311572" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>/gamecreators/images2/Galactic/Veronica/Trooper/17311572.jpg</thumbnail>
+		<title>Streak Slam Escape</title>
+		<creator>Galactic Veronica Trooper</creator>
+		<relatedgames />
+	</game>
+	<game id="17337988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Enormous/Alice/Dodo/17337988.jpg</thumbnail>
+		<title>Ultimate Mission Droid</title>
+		<creator>Enormous Alice Dodo</creator>
+		<relatedgames />
+	</game>
+	<game id="10055824" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Gloomy/Ben/Sawtooth/10055824.jpg</thumbnail>
+		<title>Lightning Champion Fusion</title>
+		<creator>Gloomy Ben Sawtooth</creator>
+		<relatedgames />
+	</game>
+	<game id="10919489" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Sinister/Hercules/Monkey/10919489.jpg</thumbnail>
+		<title>Ultra Alien Ambush</title>
+		<creator>Sinister Hercules Monkey</creator>
+		<relatedgames />
+	</game>
+	<game id="17223749" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Quick/Chuck/Cobweb/17223749.jpg</thumbnail>
+		<title>Techno Stone Fusion</title>
+		<creator>Quick Chuck Cobweb</creator>
+		<relatedgames />
+	</game>
+	<game id="10057062" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Bizarre/Zelda/Catapult/10057062.jpg</thumbnail>
+		<title>Droid Target Rush</title>
+		<creator>Bizarre Zelda Catapult</creator>
+		<relatedgames />
+	</game>
+	<game id="17230806" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/16/2012">
+		<thumbnail>/gamecreators/images2/Emperor/Autumn/Mutant/17230806.jpg</thumbnail>
+		<title>Drone Danger Escape</title>
+		<creator>Emperor Autumn Mutant</creator>
+		<relatedgames />
+	</game>
+	<game id="10949991" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Giggling/Elroy/Domino/10949991.jpg</thumbnail>
+		<title>Rush Attack Rumble</title>
+		<creator>Giggling Elroy Domino</creator>
+		<relatedgames />
+	</game>
+	<game id="10918722" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Musical/Julian/Mango/10918722.jpg</thumbnail>
+		<title>Spike Rumble Blaster</title>
+		<creator>Musical Julian Mango</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

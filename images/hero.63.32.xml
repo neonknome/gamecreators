@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10951678" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Musical/Perseus/Elephant/10951678.jpg</thumbnail>
+		<title>Magno Iron Laser</title>
+		<creator>Musical Perseus Elephant</creator>
+		<relatedgames />
+	</game>
+	<game id="17383215" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Ironic/DJ/Giraffe/17383215.jpg</thumbnail>
+		<title>Force Techno Blaster</title>
+		<creator>Ironic DJ Giraffe</creator>
+		<relatedgames />
+	</game>
+	<game id="10916687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Felix/Pontoon/10916687.jpg</thumbnail>
+		<title>Alien Metal Rock</title>
+		<creator>Tricky Felix Pontoon</creator>
+		<relatedgames />
+	</game>
+	<game id="10920432" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Bizarre/Scarlett/Catapult/10920432.jpg</thumbnail>
+		<title>Thunder Assault Giga</title>
+		<creator>Bizarre Scarlett Catapult</creator>
+		<relatedgames />
+	</game>
+	<game id="10055807" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Sneaky/Jackie/Dodo/10055807.jpg</thumbnail>
+		<title>Power Power Pursuit</title>
+		<creator>Sneaky Jackie Dodo</creator>
+		<relatedgames />
+	</game>
+	<game id="10946286" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Adorable/Benjamin/Robot/10946286.jpg</thumbnail>
+		<title>Fire Fire Robot</title>
+		<creator>Adorable Benjamin Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="17574657" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Creepy/George/Sprinkle/17574657.jpg</thumbnail>
+		<title>Chill Plumber Vilgax</title>
+		<creator>Creepy George Sprinkle</creator>
+		<relatedgames />
+	</game>
+	<game id="10953063" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Brainy/Trevor/Shock/10953063.jpg</thumbnail>
+		<title>Escape Galaxy Force</title>
+		<creator>Brainy Trevor Shock</creator>
+		<relatedgames />
+	</game>
+	<game id="10043263" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Infinite/Polly/Monster/10043263.jpg</thumbnail>
+		<title>Alien Force Battle</title>
+		<creator>Infinite Polly Monster</creator>
+		<relatedgames />
+	</game>
+	<game id="17259079" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>/gamecreators/images2/Queen/Lawrence/Eggplant/17259079.jpg</thumbnail>
+		<title>Cosmic Iron Chill</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

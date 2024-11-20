@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10939432" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Ghostly/Julia/Planet/10939432.jpg</thumbnail>
+		<title>Ultra Danger Storm</title>
+		<creator>Ghostly Julia Planet</creator>
+		<relatedgames />
+	</game>
+	<game id="10016036" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Mumbling/Dorothy/Talon/10016036.jpg</thumbnail>
+		<title>Force Ultimate Fire</title>
+		<creator>Mumbling Dorothy Talon</creator>
+		<relatedgames />
+	</game>
+	<game id="10925948" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Silly/Joshua/Thunder/10925948.jpg</thumbnail>
+		<title>Adventure Storm Siege</title>
+		<creator>Silly Joshua Thunder</creator>
+		<relatedgames />
+	</game>
+	<game id="10056546" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Bashful/Bjorn/Avocado/10056546.jpg</thumbnail>
+		<title>Laser Laser Attack</title>
+		<creator>Bashful Bjorn Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="10952447" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Sly/Gulliver/Glop/10952447.jpg</thumbnail>
+		<title>Earth Pursuit Nitro</title>
+		<creator>Sly Gulliver Glop</creator>
+		<relatedgames />
+	</game>
+	<game id="17331676" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Active/Ian/Cactus/17331676.jpg</thumbnail>
+		<title>Adventure Blaster Alien</title>
+		<creator>Active Ian Cactus</creator>
+		<relatedgames />
+	</game>
+	<game id="17224970" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>/gamecreators/images2/Bouncing/Benton/Mummy/17224970.jpg</thumbnail>
+		<title>Ben Jetray Beast</title>
+		<creator>Bouncing Benton Mummy</creator>
+		<relatedgames />
+	</game>
+	<game id="17420517" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Evasive/Ashton/Unicycle/17420517.jpg</thumbnail>
+		<title>Blaster Mission Titan</title>
+		<creator>Evasive Ashton Unicycle</creator>
+		<relatedgames />
+	</game>
+	<game id="17262592" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Immortal/Lawrence/Spider/17262592.jpg</thumbnail>
+		<title>Warp Shadow Pulse</title>
+		<creator>Immortal Lawrence Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="17394571" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/04/2012">
+		<thumbnail>/gamecreators/images2/Golden/Will/Pyramid/17394571.jpg</thumbnail>
+		<title>Slam Blaster Solar</title>
+		<creator>Golden Will Pyramid</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16883820" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/04/2012">
+		<thumbnail>/gamecreators/images2/Fiery/James/Cyclone/16883820.jpg</thumbnail>
+		<title>Warp Waterhazard Adventure</title>
+		<creator>Fiery James Cyclone</creator>
+		<relatedgames />
+	</game>
+	<game id="10704405" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Leaping/Emma/Molecule/10704405.jpg</thumbnail>
+		<title>Fusion Pulse Chase</title>
+		<creator>Leaping Emma Molecule</creator>
+		<relatedgames />
+	</game>
+	<game id="17089029" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/04/2012">
+		<thumbnail>/gamecreators/images2/Regular/Andrea/Fandango/17089029.jpg</thumbnail>
+		<title>Rumble Adventure Vilgax</title>
+		<creator>Regular Andrea Fandango</creator>
+		<relatedgames />
+	</game>
+	<game id="16891507" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/06/2012">
+		<thumbnail>/gamecreators/images2/Vast/Zach/Renegade/16891507.jpg</thumbnail>
+		<title>Assault Alien Ambush</title>
+		<creator>Vast Zach Renegade</creator>
+		<relatedgames />
+	</game>
+	<game id="10038814" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Odd/Spike/Thud/10038814.jpg</thumbnail>
+		<title>Fusion Vilgax Techno</title>
+		<creator>Odd Spike Thud</creator>
+		<relatedgames />
+	</game>
+	<game id="10934553" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dashing/Aaron/Safari/10934553.jpg</thumbnail>
+		<title>Power Nano Force</title>
+		<creator>Dashing Aaron Safari</creator>
+		<relatedgames />
+	</game>
+	<game id="16977448" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Western/Cameron/Jigsaw/16977448.jpg</thumbnail>
+		<title>Assault Humongousaur Laser</title>
+		<creator>Western Cameron Jigsaw</creator>
+		<relatedgames />
+	</game>
+	<game id="10063245" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Fierce/Shelby/Zigzag/10063245.jpg</thumbnail>
+		<title>Shadow Invasion Shadow</title>
+		<creator>Fierce Shelby Zigzag</creator>
+		<relatedgames />
+	</game>
+	<game id="10038151" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Dramatic/Nick/Porridge/10038151.jpg</thumbnail>
+		<title>Ultra Doom Storm</title>
+		<creator>Dramatic Nick Porridge</creator>
+		<relatedgames />
+	</game>
+	<game id="10921998" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Lucky/Katie/Bongo/10921998.jpg</thumbnail>
+		<title>Earth Thunder Ben</title>
+		<creator>Lucky Katie Bongo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

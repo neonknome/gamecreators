@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10059235" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Purple/Patrick/Amethyst/10059235.jpg</thumbnail>
+		<title>Charge Alien Streak</title>
+		<creator>Purple Patrick Amethyst</creator>
+		<relatedgames />
+	</game>
+	<game id="17574620" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Countess/Quentin/Gator/17574620.jpg</thumbnail>
+		<title>Animo Charge Galaxy</title>
+		<creator>Countess Quentin Gator</creator>
+		<relatedgames />
+	</game>
+	<game id="10066790" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Tricky/Trevor/Zebra/10066790.jpg</thumbnail>
+		<title>Iron Burst Shadow</title>
+		<creator>Tricky Trevor Zebra</creator>
+		<relatedgames />
+	</game>
+	<game id="10786277" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>/gamecreators/images2/Crispy/Michael/Spider/10786277.jpg</thumbnail>
+		<title>Titan Rescue Burst</title>
+		<creator>Crispy Michael Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="17302670" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Gleeful/James/Avator/17302670.jpg</thumbnail>
+		<title>Rescue Spike Blaster</title>
+		<creator>Gleeful James Avator</creator>
+		<relatedgames />
+	</game>
+	<game id="17177519" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>/gamecreators/images2/Singular/Egbert/Eel/17177519.jpg</thumbnail>
+		<title>Alien Adventure Adventure</title>
+		<creator>Singular Egbert Eel</creator>
+		<relatedgames />
+	</game>
+	<game id="17316554" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Queen/Rich/Sunshine/17316554.jpg</thumbnail>
+		<title>Rustbucket Techno Robot</title>
+		<creator>Queen Rich Sunshine</creator>
+		<relatedgames />
+	</game>
+	<game id="17382087" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Creepy/Richard/Oink/17382087.jpg</thumbnail>
+		<title>Fusion Rescue Drone</title>
+		<creator>Creepy Richard Oink</creator>
+		<relatedgames />
+	</game>
+	<game id="10937465" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Gigantic/Natalie/Marigold/10937465.jpg</thumbnail>
+		<title>Alien Assault Hero</title>
+		<creator>Gigantic Natalie Marigold</creator>
+		<relatedgames />
+	</game>
+	<game id="17303818" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Extinct/Coco/Spider/17303818.jpg</thumbnail>
+		<title>Attack Chill Adventure</title>
+		<creator>Extinct Coco Spider</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

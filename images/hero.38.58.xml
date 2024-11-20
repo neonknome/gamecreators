@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17214905" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/12/2012">
+		<thumbnail>/gamecreators/images2/Neutral/Ted/Eggplant/17214905.jpg</thumbnail>
+		<title>Big Warrior Razor</title>
+		<creator>Neutral Ted Eggplant</creator>
+		<relatedgames />
+	</game>
+	<game id="17386188" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Academic/Oliver/Lemon/17386188.jpg</thumbnail>
+		<title>Fury Vilgax Water</title>
+		<creator>Academic Oliver Lemon</creator>
+		<relatedgames />
+	</game>
+	<game id="16893803" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/06/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Andrew/Vulture/16893803.jpg</thumbnail>
+		<title>Nitro Blaster Challenge</title>
+		<creator>Ultimate Andrew Vulture</creator>
+		<relatedgames />
+	</game>
+	<game id="17327375" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Bold/Ginger/Hedgehog/17327375.jpg</thumbnail>
+		<title>Streak Lightning Breaker</title>
+		<creator>Bold Ginger Hedgehog</creator>
+		<relatedgames />
+	</game>
+	<game id="10938971" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Jingling/Madison/Spider/10938971.jpg</thumbnail>
+		<title>Mission Adventure Slam</title>
+		<creator>Jingling Madison Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="17017591" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>/gamecreators/images2/Radiant/Genghis/Warrior/17017591.jpg</thumbnail>
+		<title>Jetray Laser Assault</title>
+		<creator>Radiant Genghis Warrior</creator>
+		<relatedgames />
+	</game>
+	<game id="10926436" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Twisty/Gavin/Seesaw/10926436.jpg</thumbnail>
+		<title>Sonic Ben Streak</title>
+		<creator>Twisty Gavin Seesaw</creator>
+		<relatedgames />
+	</game>
+	<game id="17209583" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/11/2012">
+		<thumbnail>/gamecreators/images2/Normal/Betty/Venom/17209583.jpg</thumbnail>
+		<title>Patrol Warrior Water</title>
+		<creator>Normal Betty Venom</creator>
+		<relatedgames />
+	</game>
+	<game id="10927171" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Crunchy/Benjamin/Blammo/10927171.jpg</thumbnail>
+		<title>Siege Nano Earth</title>
+		<creator>Crunchy Benjamin Blammo</creator>
+		<relatedgames />
+	</game>
+	<game id="17333120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Venomous/Cheyenne/Venom/17333120.jpg</thumbnail>
+		<title>Escape Burst Ben</title>
+		<creator>Venomous Cheyenne Venom</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

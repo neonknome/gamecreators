@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10649314" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Shrewd/Baxter/Magma/10649314.jpg</thumbnail>
+		<title>Light Power Rustbucket</title>
+		<creator>Shrewd Baxter Magma</creator>
+		<relatedgames />
+	</game>
+	<game id="17355672" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/20/2012">
+		<thumbnail>/gamecreators/images2/Purple/Rosetta/Rebel/17355672.jpg</thumbnail>
+		<title>Smash Power Earth</title>
+		<creator>Purple Rosetta Rebel</creator>
+		<relatedgames />
+	</game>
+	<game id="17554306" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Crafty/Emerson/Blast/17554306.jpg</thumbnail>
+		<title>Spark Adventure Search</title>
+		<creator>Crafty Emerson Blast</creator>
+		<relatedgames />
+	</game>
+	<game id="17311572" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>/gamecreators/images2/Galactic/Veronica/Trooper/17311572.jpg</thumbnail>
+		<title>Streak Slam Escape</title>
+		<creator>Galactic Veronica Trooper</creator>
+		<relatedgames />
+	</game>
+	<game id="17337988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Enormous/Alice/Dodo/17337988.jpg</thumbnail>
+		<title>Ultimate Mission Droid</title>
+		<creator>Enormous Alice Dodo</creator>
+		<relatedgames />
+	</game>
+	<game id="17551120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Burly/Brian/Bungee/17551120.jpg</thumbnail>
+		<title>Ultimate Alien Force</title>
+		<creator>Burly Brian Bungee</creator>
+		<relatedgames />
+	</game>
+	<game id="17357894" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>/gamecreators/images2/Stormy/Wes/Steel/17357894.jpg</thumbnail>
+		<title>Racer Defense Plasma</title>
+		<creator>Stormy Wes Steel</creator>
+		<relatedgames />
+	</game>
+	<game id="10038231" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Cheerful/Bryan/Sizzle/10038231.jpg</thumbnail>
+		<title>Razor Shadow Rocket</title>
+		<creator>Cheerful Bryan Sizzle</creator>
+		<relatedgames />
+	</game>
+	<game id="10924970" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Loopy/Beatrice/Dynamite/10924970.jpg</thumbnail>
+		<title>Burst Breaker Vilgax</title>
+		<creator>Loopy Beatrice Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="10647306" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Orange/Vanessa/Unicycle/10647306.jpg</thumbnail>
+		<title>Clash Rumble Adventure</title>
+		<creator>Orange Vanessa Unicycle</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

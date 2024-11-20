@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10928015" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Unusual/Rocky/Gizzard/10928015.jpg</thumbnail>
+		<title>Fury Lightning Nova</title>
+		<creator>Unusual Rocky Gizzard</creator>
+		<relatedgames />
+	</game>
+	<game id="10926749" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Daring/Jack/Photon/10926749.jpg</thumbnail>
+		<title>Rustbucket Hero Racer</title>
+		<creator>Daring Jack Photon</creator>
+		<relatedgames />
+	</game>
+	<game id="10953468" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Grand/Samuel/Penguin/10953468.jpg</thumbnail>
+		<title>Swampfire Mission Challenge</title>
+		<creator>Grand Samuel Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="17562390" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Tall/Sara/Hippo/17562390.jpg</thumbnail>
+		<title>Fury Adventure Ambush</title>
+		<creator>Tall Sara Hippo</creator>
+		<relatedgames />
+	</game>
+	<game id="16982800" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>/gamecreators/images2/Barbaric/Duke/Funk/16982800.jpg</thumbnail>
+		<title>Pulse Rampage Adventure</title>
+		<creator>Barbaric Duke Funk</creator>
+		<relatedgames />
+	</game>
+	<game id="10952492" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Horrid/Blake/Ukulele/10952492.jpg</thumbnail>
+		<title>Cosmic Swampfire Storm</title>
+		<creator>Horrid Blake Ukulele</creator>
+		<relatedgames />
+	</game>
+	<game id="17333014" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Merry/Ichabod/Elephant/17333014.jpg</thumbnail>
+		<title>Stone Big Pursuit</title>
+		<creator>Merry Ichabod Elephant</creator>
+		<relatedgames />
+	</game>
+	<game id="17536202" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>/gamecreators/images2/Hyper/Baxter/Blubber/17536202.jpg</thumbnail>
+		<title>Fusion Champion Space</title>
+		<creator>Hyper Baxter Blubber</creator>
+		<relatedgames />
+	</game>
+	<game id="17385004" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Purple/Dominic/Gorilla/17385004.jpg</thumbnail>
+		<title>Adventure Adventure Stone</title>
+		<creator>Purple Dominic Gorilla</creator>
+		<relatedgames />
+	</game>
+	<game id="17331573" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Talented/Destiny/Warrior/17331573.jpg</thumbnail>
+		<title>Alien Attack Blaster</title>
+		<creator>Talented Destiny Warrior</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

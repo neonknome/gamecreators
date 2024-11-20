@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17391876" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Doctor/Makayla/Atlas/17391876.jpg</thumbnail>
+		<title>Breaker Warrior Star</title>
+		<creator>Doctor Makayla Atlas</creator>
+		<relatedgames />
+	</game>
+	<game id="10933122" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Handsome/Breanna/Aurora/10933122.jpg</thumbnail>
+		<title>Rock Space Fire</title>
+		<creator>Handsome Breanna Aurora</creator>
+		<relatedgames />
+	</game>
+	<game id="16860361" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/31/2012">
+		<thumbnail>/gamecreators/images2/Obvious/Cameron/Grackle/16860361.jpg</thumbnail>
+		<title>Titan Defense Whirlwind</title>
+		<creator>Obvious Cameron Grackle</creator>
+		<relatedgames />
+	</game>
+	<game id="17574215" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Crafty/Vincent/Nacho/17574215.jpg</thumbnail>
+		<title>Galaxy Chill Shock</title>
+		<creator>Crafty Vincent Nacho</creator>
+		<relatedgames />
+	</game>
+	<game id="10953508" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Generous/Cheyenne/Fizz/10953508.jpg</thumbnail>
+		<title>Swampfire Mega Mission</title>
+		<creator>Generous Cheyenne Fizz</creator>
+		<relatedgames />
+	</game>
+	<game id="10058992" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Purple/Peter/Amethyst/10058992.jpg</thumbnail>
+		<title>Hyper Battle Shock</title>
+		<creator>Purple Peter Amethyst</creator>
+		<relatedgames />
+	</game>
+	<game id="17373253" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>/gamecreators/images2/Quirky/Tommy/Karate/17373253.jpg</thumbnail>
+		<title>Techno Hero Spike</title>
+		<creator>Quirky Tommy Karate</creator>
+		<relatedgames />
+	</game>
+	<game id="17353328" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>/gamecreators/images2/Emperor/Taylor/Barnacle/17353328.jpg</thumbnail>
+		<title>Dark Drone Danger</title>
+		<creator>Emperor Taylor Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="17188315" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/04/2012">
+		<thumbnail>/gamecreators/images2/Crispy/Steven/Bazooka/17188315.jpg</thumbnail>
+		<title>Shock Echo Adventure</title>
+		<creator>Crispy Steven Bazooka</creator>
+		<relatedgames />
+	</game>
+	<game id="16872865" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/02/2012">
+		<thumbnail>/gamecreators/images2/Gleeful/Michael/Sphinx/16872865.jpg</thumbnail>
+		<title>Nano Adventure Fire</title>
+		<creator>Gleeful Michael Sphinx</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

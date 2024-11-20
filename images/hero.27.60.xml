@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10935472" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dapper/Earl/Hippo/10935472.jpg</thumbnail>
+		<title>Alien Cosmic Rocket</title>
+		<creator>Dapper Earl Hippo</creator>
+		<relatedgames />
+	</game>
+	<game id="17017938" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>/gamecreators/images2/Gothic/Sara/Weasel/17017938.jpg</thumbnail>
+		<title>Rush Cosmic Adventure</title>
+		<creator>Gothic Sara Weasel</creator>
+		<relatedgames />
+	</game>
+	<game id="10935790" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Reckless/Arthur/Fossil/10935790.jpg</thumbnail>
+		<title>Escape Ambush Space</title>
+		<creator>Reckless Arthur Fossil</creator>
+		<relatedgames />
+	</game>
+	<game id="10068663" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Alien/Isaiah/Thud/10068663.jpg</thumbnail>
+		<title>Alien Adventure Ambush</title>
+		<creator>Alien Isaiah Thud</creator>
+		<relatedgames />
+	</game>
+	<game id="17325051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Cute/Rufus/Droid/17325051.jpg</thumbnail>
+		<title>Smash Power Techno</title>
+		<creator>Cute Rufus Droid</creator>
+		<relatedgames />
+	</game>
+	<game id="17381990" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Massive/Eva/Shogun/17381990.jpg</thumbnail>
+		<title>Storm Spike Racer</title>
+		<creator>Massive Eva Shogun</creator>
+		<relatedgames />
+	</game>
+	<game id="10953516" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Proper/Goliath/Wombat/10953516.jpg</thumbnail>
+		<title>Rampage Breaker Pulse</title>
+		<creator>Proper Goliath Wombat</creator>
+		<relatedgames />
+	</game>
+	<game id="10935006" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Swift/Mitchell/Parsec/10935006.jpg</thumbnail>
+		<title>Space Assault Clash</title>
+		<creator>Swift Mitchell Parsec</creator>
+		<relatedgames />
+	</game>
+	<game id="17271206" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/27/2012">
+		<thumbnail>/gamecreators/images2/Abstract/Hugo/Hambone/17271206.jpg</thumbnail>
+		<title>Spike Stone Energy</title>
+		<creator>Abstract Hugo Hambone</creator>
+		<relatedgames />
+	</game>
+	<game id="17296006" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>/gamecreators/images2/Complex/Dennis/Apple/17296006.jpg</thumbnail>
+		<title>Stone Rustbucket Adventure</title>
+		<creator>Complex Dennis Apple</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

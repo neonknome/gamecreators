@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17232540" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>/gamecreators/images2/Diagonal/Trevor/Blammo/17232540.jpg</thumbnail>
+		<title>Dark Metal Attack</title>
+		<creator>Diagonal Trevor Blammo</creator>
+		<relatedgames />
+	</game>
+	<game id="10926938" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Gruesome/Ryan/Nacho/10926938.jpg</thumbnail>
+		<title>Galaxy Adventure Ambush</title>
+		<creator>Gruesome Ryan Nacho</creator>
+		<relatedgames />
+	</game>
+	<game id="10932691" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Absurd/Timmy/Calypso/10932691.jpg</thumbnail>
+		<title>Danger Blaster Adventure</title>
+		<creator>Absurd Timmy Calypso</creator>
+		<relatedgames />
+	</game>
+	<game id="10044001" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Crafty/Hunter/Iguana/10044001.jpg</thumbnail>
+		<title>Chase Challenge Rampage</title>
+		<creator>Crafty Hunter Iguana</creator>
+		<relatedgames />
+	</game>
+	<game id="10926216" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Blue/Xavier/Giblets/10926216.jpg</thumbnail>
+		<title>Champion Rampage Atomic</title>
+		<creator>Blue Xavier Giblets</creator>
+		<relatedgames />
+	</game>
+	<game id="10922797" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Purple/Kevin/Penguin/10922797.jpg</thumbnail>
+		<title>Energy Lightning Galaxy</title>
+		<creator>Purple Kevin Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="17423219" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>/gamecreators/images2/Quiet/Hunter/Blob/17423219.jpg</thumbnail>
+		<title>Turbo Champion Adventure</title>
+		<creator>Quiet Hunter Blob</creator>
+		<relatedgames />
+	</game>
+	<game id="10925006" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Savannah/Crash/10925006.jpg</thumbnail>
+		<title>Mega Hyper Fire</title>
+		<creator>Tricky Savannah Crash</creator>
+		<relatedgames />
+	</game>
+	<game id="16871238" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>/gamecreators/images2/Aerobic/Larry/Mango/16871238.jpg</thumbnail>
+		<title>Target Robot Fire</title>
+		<creator>Aerobic Larry Mango</creator>
+		<relatedgames />
+	</game>
+	<game id="10057344" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Crispy/Michael/Dynamite/10057344.jpg</thumbnail>
+		<title>Ultimate Fire Force</title>
+		<creator>Crispy Michael Dynamite</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

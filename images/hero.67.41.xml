@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10040939" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Howling/Evelyn/Bullfrog/10040939.jpg</thumbnail>
+		<title>Star Ben Shock</title>
+		<creator>Howling Evelyn Bullfrog</creator>
+		<relatedgames />
+	</game>
+	<game id="10059207" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Generous/Medusa/Lard/10059207.jpg</thumbnail>
+		<title>Shadow Alien Rescue</title>
+		<creator>Generous Medusa Lard</creator>
+		<relatedgames />
+	</game>
+	<game id="10925366" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Mighty/Timothy/Mummy/10925366.jpg</thumbnail>
+		<title>Swampfire Plasma Rampage</title>
+		<creator>Mighty Timothy Mummy</creator>
+		<relatedgames />
+	</game>
+	<game id="10706149" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Shrewd/Leah/Acrobat/10706149.jpg</thumbnail>
+		<title>Attack Shadow Smash</title>
+		<creator>Shrewd Leah Acrobat</creator>
+		<relatedgames />
+	</game>
+	<game id="17404212" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Zany/Luke/Stampede/17404212.jpg</thumbnail>
+		<title>Pulse Adventure Shadow</title>
+		<creator>Zany Luke Stampede</creator>
+		<relatedgames />
+	</game>
+	<game id="16982204" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>/gamecreators/images2/Keen/Caleb/Cyclone/16982204.jpg</thumbnail>
+		<title>Water Dark Titan</title>
+		<creator>Keen Caleb Cyclone</creator>
+		<relatedgames />
+	</game>
+	<game id="10047191" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Lovely/Emma/Zebra/10047191.jpg</thumbnail>
+		<title>Ultra Alien Ambush</title>
+		<creator>Lovely Emma Zebra</creator>
+		<relatedgames />
+	</game>
+	<game id="10928980" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Rowdy/Larry/Grouch/10928980.jpg</thumbnail>
+		<title>Chase Earth Thunder</title>
+		<creator>Rowdy Larry Grouch</creator>
+		<relatedgames />
+	</game>
+	<game id="17405008" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Volcanic/Bryce/Oyster/17405008.jpg</thumbnail>
+		<title>Cosmic Sonic Burst</title>
+		<creator>Volcanic Bryce Oyster</creator>
+		<relatedgames />
+	</game>
+	<game id="17339068" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Devious/Jason/Shock/17339068.jpg</thumbnail>
+		<title>Plumber Space Techno</title>
+		<creator>Devious Jason Shock</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

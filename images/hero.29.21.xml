@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10946279" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Sincere/Diego/Obelisk/10946279.jpg</thumbnail>
+		<title>Rescue Alien Hex</title>
+		<creator>Sincere Diego Obelisk</creator>
+		<relatedgames />
+	</game>
+	<game id="10704405" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Leaping/Emma/Molecule/10704405.jpg</thumbnail>
+		<title>Fusion Pulse Chase</title>
+		<creator>Leaping Emma Molecule</creator>
+		<relatedgames />
+	</game>
+	<game id="16891507" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/06/2012">
+		<thumbnail>/gamecreators/images2/Vast/Zach/Renegade/16891507.jpg</thumbnail>
+		<title>Assault Alien Ambush</title>
+		<creator>Vast Zach Renegade</creator>
+		<relatedgames />
+	</game>
+	<game id="10038814" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Odd/Spike/Thud/10038814.jpg</thumbnail>
+		<title>Fusion Vilgax Techno</title>
+		<creator>Odd Spike Thud</creator>
+		<relatedgames />
+	</game>
+	<game id="10926636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Sporty/Daniel/Iceberg/10926636.jpg</thumbnail>
+		<title>Animo Rocket Search</title>
+		<creator>Sporty Daniel Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="10934553" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dashing/Aaron/Safari/10934553.jpg</thumbnail>
+		<title>Power Nano Force</title>
+		<creator>Dashing Aaron Safari</creator>
+		<relatedgames />
+	</game>
+	<game id="16977448" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Western/Cameron/Jigsaw/16977448.jpg</thumbnail>
+		<title>Assault Humongousaur Laser</title>
+		<creator>Western Cameron Jigsaw</creator>
+		<relatedgames />
+	</game>
+	<game id="16988735" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/02/2012">
+		<thumbnail>/gamecreators/images2/Captain/Gwen/Viking/16988735.jpg</thumbnail>
+		<title>Escape Atomic Burst</title>
+		<creator>Captain Gwen Viking</creator>
+		<relatedgames />
+	</game>
+	<game id="10063245" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Fierce/Shelby/Zigzag/10063245.jpg</thumbnail>
+		<title>Shadow Invasion Shadow</title>
+		<creator>Fierce Shelby Zigzag</creator>
+		<relatedgames />
+	</game>
+	<game id="10052419" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Kooky/Leonardo/Barnacle/10052419.jpg</thumbnail>
+		<title>Nano Atomic Ambush</title>
+		<creator>Kooky Leonardo Barnacle</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

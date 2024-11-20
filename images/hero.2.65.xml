@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10938438" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Red/Tom/Fritter/10938438.jpg</thumbnail>
+		<title>Pursuit Energy Magno</title>
+		<creator>Red Tom Fritter</creator>
+		<relatedgames />
+	</game>
+	<game id="10932117" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Odd/Austin/Sphere/10932117.jpg</thumbnail>
+		<title>Target Fury Nitro</title>
+		<creator>Odd Austin Sphere</creator>
+		<relatedgames />
+	</game>
+	<game id="10922368" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Aquatic/Dana/Bolt/10922368.jpg</thumbnail>
+		<title>Challenge Battle Battle</title>
+		<creator>Aquatic Dana Bolt</creator>
+		<relatedgames />
+	</game>
+	<game id="10921674" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Rugged/Orlando/Virtuoso/10921674.jpg</thumbnail>
+		<title>Swampfire Shadow Attack</title>
+		<creator>Rugged Orlando Virtuoso</creator>
+		<relatedgames />
+	</game>
+	<game id="10951804" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Weird/Gretel/Troll/10951804.jpg</thumbnail>
+		<title>Hero Target Adventure</title>
+		<creator>Weird Gretel Troll</creator>
+		<relatedgames />
+	</game>
+	<game id="17216790" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>/gamecreators/images2/Feral/Jasmine/Llama/17216790.jpg</thumbnail>
+		<title>Rampage Pulse Droid</title>
+		<creator>Feral Jasmine Llama</creator>
+		<relatedgames />
+	</game>
+	<game id="10926454" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dramatic/Laura/Fishbowl/10926454.jpg</thumbnail>
+		<title>Ultimate Rampage Chase</title>
+		<creator>Dramatic Laura Fishbowl</creator>
+		<relatedgames />
+	</game>
+	<game id="10953061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Sloppy/Connor/Fondue/10953061.jpg</thumbnail>
+		<title>Nitro Rustbucket Invasion</title>
+		<creator>Sloppy Connor Fondue</creator>
+		<relatedgames />
+	</game>
+	<game id="17386188" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Academic/Oliver/Lemon/17386188.jpg</thumbnail>
+		<title>Fury Vilgax Water</title>
+		<creator>Academic Oliver Lemon</creator>
+		<relatedgames />
+	</game>
+	<game id="16893803" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/06/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Andrew/Vulture/16893803.jpg</thumbnail>
+		<title>Nitro Blaster Challenge</title>
+		<creator>Ultimate Andrew Vulture</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10936939" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Bizarre/Ace/Warthog/10936939.jpg</thumbnail>
+		<title>Fusion Vilgax Galaxy</title>
+		<creator>Bizarre Ace Warthog</creator>
+		<relatedgames />
+	</game>
+	<game id="17276373" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>/gamecreators/images2/Snazzy/Madison/Sword/17276373.jpg</thumbnail>
+		<title>Danger Metal Crusher</title>
+		<creator>Snazzy Madison Sword</creator>
+		<relatedgames />
+	</game>
+	<game id="10654995" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2009">
+		<thumbnail>/gamecreators/images2/Brainy/Nicholas/Chimera/10654995.jpg</thumbnail>
+		<title>Solar Invasion Rush</title>
+		<creator>Brainy Nicholas Chimera</creator>
+		<relatedgames />
+	</game>
+	<game id="17014243" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>/gamecreators/images2/Expert/Hailey/Knight/17014243.jpg</thumbnail>
+		<title>Adventure Ambush Robot</title>
+		<creator>Expert Hailey Knight</creator>
+		<relatedgames />
+	</game>
+	<game id="10916705" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Infinite/Jill/Thorax/10916705.jpg</thumbnail>
+		<title>Rumble Challenge Slam</title>
+		<creator>Infinite Jill Thorax</creator>
+		<relatedgames />
+	</game>
+	<game id="10916699" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Dreadful/Simon/Dynamite/10916699.jpg</thumbnail>
+		<title>Techno Razor Spark</title>
+		<creator>Dreadful Simon Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="10937222" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Clever/Kristin/Fossil/10937222.jpg</thumbnail>
+		<title>Rampage Quake Iron</title>
+		<creator>Clever Kristin Fossil</creator>
+		<relatedgames />
+	</game>
+	<game id="10951878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Freaky/Aaron/Maestro/10951878.jpg</thumbnail>
+		<title>Giga Beast Ambush</title>
+		<creator>Freaky Aaron Maestro</creator>
+		<relatedgames />
+	</game>
+	<game id="17397818" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/06/2012">
+		<thumbnail>/gamecreators/images2/Madcap/Elijah/Python/17397818.jpg</thumbnail>
+		<title>Galaxy Adventure Ambush</title>
+		<creator>Madcap Elijah Python</creator>
+		<relatedgames />
+	</game>
+	<game id="10924138" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Eerie/Ben/Tuxedo/10924138.jpg</thumbnail>
+		<title>Battle Beast Nova</title>
+		<creator>Eerie Ben Tuxedo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

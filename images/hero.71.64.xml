@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17343320" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>/gamecreators/images2/Musical/Nicolas/Noob/17343320.jpg</thumbnail>
+		<title>Spike Defense Vilgax</title>
+		<creator>Musical Nicolas Noob</creator>
+		<relatedgames />
+	</game>
+	<game id="17271206" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/27/2012">
+		<thumbnail>/gamecreators/images2/Abstract/Hugo/Hambone/17271206.jpg</thumbnail>
+		<title>Spike Stone Energy</title>
+		<creator>Abstract Hugo Hambone</creator>
+		<relatedgames />
+	</game>
+	<game id="17296006" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>/gamecreators/images2/Complex/Dennis/Apple/17296006.jpg</thumbnail>
+		<title>Stone Rustbucket Adventure</title>
+		<creator>Complex Dennis Apple</creator>
+		<relatedgames />
+	</game>
+	<game id="10921864" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Cheyenne/Iceberg/10921864.jpg</thumbnail>
+		<title>Ultimate Alien Smash</title>
+		<creator>Tricky Cheyenne Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="10039132" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Bizarre/Caleb/Blammo/10039132.jpg</thumbnail>
+		<title>Ultimate Spark Spike</title>
+		<creator>Bizarre Caleb Blammo</creator>
+		<relatedgames />
+	</game>
+	<game id="17407634" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>/gamecreators/images2/Creative/Yorick/Worm/17407634.jpg</thumbnail>
+		<title>Rampage Nitro Burst</title>
+		<creator>Creative Yorick Worm</creator>
+		<relatedgames />
+	</game>
+	<game id="10922520" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Infinite/Jill/Thorax/10922520.jpg</thumbnail>
+		<title>Swampfire Challenge Hyper</title>
+		<creator>Infinite Jill Thorax</creator>
+		<relatedgames />
+	</game>
+	<game id="17366681" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/25/2012">
+		<thumbnail>/gamecreators/images2/Queen/Jeff/Kayak/17366681.jpg</thumbnail>
+		<title>Mission Swampfire Burst</title>
+		<creator>Queen Jeff Kayak</creator>
+		<relatedgames />
+	</game>
+	<game id="10930625" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Towering/Matthew/Hedgehog/10930625.jpg</thumbnail>
+		<title>Dark Siege Earth</title>
+		<creator>Towering Matthew Hedgehog</creator>
+		<relatedgames />
+	</game>
+	<game id="10927809" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Sporty/Helga/Cyborg/10927809.jpg</thumbnail>
+		<title>Ben Challenge Spark</title>
+		<creator>Sporty Helga Cyborg</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

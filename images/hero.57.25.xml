@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17407634" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>/gamecreators/images2/Creative/Yorick/Worm/17407634.jpg</thumbnail>
+		<title>Rampage Nitro Burst</title>
+		<creator>Creative Yorick Worm</creator>
+		<relatedgames />
+	</game>
+	<game id="17376217" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2012">
+		<thumbnail>/gamecreators/images2/Gigantic/Derek/Pelican/17376217.jpg</thumbnail>
+		<title>Ambush Nova Adventure</title>
+		<creator>Gigantic Derek Pelican</creator>
+		<relatedgames />
+	</game>
+	<game id="17366681" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/25/2012">
+		<thumbnail>/gamecreators/images2/Queen/Jeff/Kayak/17366681.jpg</thumbnail>
+		<title>Mission Swampfire Burst</title>
+		<creator>Queen Jeff Kayak</creator>
+		<relatedgames />
+	</game>
+	<game id="10038215" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Reckless/Jeremiah/Doodle/10038215.jpg</thumbnail>
+		<title>Cosmic Fire Adventure</title>
+		<creator>Reckless Jeremiah Doodle</creator>
+		<relatedgames />
+	</game>
+	<game id="17397818" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/06/2012">
+		<thumbnail>/gamecreators/images2/Madcap/Elijah/Python/17397818.jpg</thumbnail>
+		<title>Galaxy Adventure Ambush</title>
+		<creator>Madcap Elijah Python</creator>
+		<relatedgames />
+	</game>
+	<game id="10044541" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Horrid/Bernard/Buffalo/10044541.jpg</thumbnail>
+		<title>Robot Rumble Galaxy</title>
+		<creator>Horrid Bernard Buffalo</creator>
+		<relatedgames />
+	</game>
+	<game id="17334361" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Popular/Mary/Frog/17334361.jpg</thumbnail>
+		<title>Animo Giga Adventure</title>
+		<creator>Popular Mary Frog</creator>
+		<relatedgames />
+	</game>
+	<game id="10916680" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Stylish/Hank/Gorilla/10916680.jpg</thumbnail>
+		<title>Beast Alien Nitro</title>
+		<creator>Stylish Hank Gorilla</creator>
+		<relatedgames />
+	</game>
+	<game id="10034816" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Merry/Bjorn/Witch/10034816.jpg</thumbnail>
+		<title>Fire Blaster Force</title>
+		<creator>Merry Bjorn Witch</creator>
+		<relatedgames />
+	</game>
+	<game id="10063915" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Zany/Adam/Mumbles/10063915.jpg</thumbnail>
+		<title>Ben Ultra Alien</title>
+		<creator>Zany Adam Mumbles</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

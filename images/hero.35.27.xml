@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17312994" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>/gamecreators/images2/Queen/Rich/Sunshine/17312994.jpg</thumbnail>
+		<title>Doom Gear Warrior</title>
+		<creator>Queen Rich Sunshine</creator>
+		<relatedgames />
+	</game>
+	<game id="10935773" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Dixie/Creature/10935773.jpg</thumbnail>
+		<title>Swampfire Target Challenge</title>
+		<creator>Tricky Dixie Creature</creator>
+		<relatedgames />
+	</game>
+	<game id="10066089" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Adorable/Alexis/Cumulus/10066089.jpg</thumbnail>
+		<title>Swampfire Swampfire Swampfire</title>
+		<creator>Adorable Alexis Cumulus</creator>
+		<relatedgames />
+	</game>
+	<game id="16997259" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/05/2012">
+		<thumbnail>/gamecreators/images2/Creepy/Ashton/Vulture/16997259.jpg</thumbnail>
+		<title>Iron Big Robot</title>
+		<creator>Creepy Ashton Vulture</creator>
+		<relatedgames />
+	</game>
+	<game id="10926798" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Infinite/Leon/Amethyst/10926798.jpg</thumbnail>
+		<title>Rumble Hero Power</title>
+		<creator>Infinite Leon Amethyst</creator>
+		<relatedgames />
+	</game>
+	<game id="17259049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>/gamecreators/images2/Queen/Lawrence/Eggplant/17259049.jpg</thumbnail>
+		<title>Big Earth Nova</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames />
+	</game>
+	<game id="10920338" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Stylish/Harvey/Universe/10920338.jpg</thumbnail>
+		<title>Spark Magno Racer</title>
+		<creator>Stylish Harvey Universe</creator>
+		<relatedgames />
+	</game>
+	<game id="10921871" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Atomic/Vanessa/Zip/10921871.jpg</thumbnail>
+		<title>Shadow Power Hyper</title>
+		<creator>Atomic Vanessa Zip</creator>
+		<relatedgames />
+	</game>
+	<game id="10647546" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Zany/Alan/Cipher/10647546.jpg</thumbnail>
+		<title>Rocket Attack Ambush</title>
+		<creator>Zany Alan Cipher</creator>
+		<relatedgames />
+	</game>
+	<game id="17549594" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Classic/Buffy/Dingo/17549594.jpg</thumbnail>
+		<title>Warrior Rustbucket Echo</title>
+		<creator>Classic Buffy Dingo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

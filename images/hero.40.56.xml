@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10916844" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Itchy/Jared/Kazoo/10916844.jpg</thumbnail>
+		<title>Rampage Smash Fusion</title>
+		<creator>Itchy Jared Kazoo</creator>
+		<relatedgames />
+	</game>
+	<game id="17423219" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>/gamecreators/images2/Quiet/Hunter/Blob/17423219.jpg</thumbnail>
+		<title>Turbo Champion Adventure</title>
+		<creator>Quiet Hunter Blob</creator>
+		<relatedgames />
+	</game>
+	<game id="10925006" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Savannah/Crash/10925006.jpg</thumbnail>
+		<title>Mega Hyper Fire</title>
+		<creator>Tricky Savannah Crash</creator>
+		<relatedgames />
+	</game>
+	<game id="16871238" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>/gamecreators/images2/Aerobic/Larry/Mango/16871238.jpg</thumbnail>
+		<title>Target Robot Fire</title>
+		<creator>Aerobic Larry Mango</creator>
+		<relatedgames />
+	</game>
+	<game id="10057344" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Crispy/Michael/Dynamite/10057344.jpg</thumbnail>
+		<title>Ultimate Fire Force</title>
+		<creator>Crispy Michael Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="10922395" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Brave/Raymond/Atom/10922395.jpg</thumbnail>
+		<title>Warrior Earth Sonic</title>
+		<creator>Brave Raymond Atom</creator>
+		<relatedgames />
+	</game>
+	<game id="17383215" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Ironic/DJ/Giraffe/17383215.jpg</thumbnail>
+		<title>Force Techno Blaster</title>
+		<creator>Ironic DJ Giraffe</creator>
+		<relatedgames />
+	</game>
+	<game id="17316341" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Queen/Rich/Sunshine/17316341.jpg</thumbnail>
+		<title>Galaxy Danger Challenge</title>
+		<creator>Queen Rich Sunshine</creator>
+		<relatedgames />
+	</game>
+	<game id="10706022" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Red/Hunter/Slurp/10706022.jpg</thumbnail>
+		<title>Target Rock Droid</title>
+		<creator>Red Hunter Slurp</creator>
+		<relatedgames />
+	</game>
+	<game id="17414153" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/14/2012">
+		<thumbnail>/gamecreators/images2/Vague/Hunter/Celsius/17414153.jpg</thumbnail>
+		<title>Adventure Lightning Assault</title>
+		<creator>Vague Hunter Celsius</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

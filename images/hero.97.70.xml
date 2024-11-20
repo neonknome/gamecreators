@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10930929" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Awesome/Robin/Nova/10930929.jpg</thumbnail>
+		<title>Hyper Nova Attack</title>
+		<creator>Awesome Robin Nova</creator>
+		<relatedgames />
+	</game>
+	<game id="10916697" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Zippy/Barney/Elephant/10916697.jpg</thumbnail>
+		<title>Beast Rock Thunder</title>
+		<creator>Zippy Barney Elephant</creator>
+		<relatedgames />
+	</game>
+	<game id="17549943" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Electric/David/Gamer/17549943.jpg</thumbnail>
+		<title>Chill Shock Force</title>
+		<creator>Electric David Gamer</creator>
+		<relatedgames />
+	</game>
+	<game id="17179172" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>/gamecreators/images2/Amusing/Ray/Snake/17179172.jpg</thumbnail>
+		<title>Mega Titan Nova</title>
+		<creator>Amusing Ray Snake</creator>
+		<relatedgames />
+	</game>
+	<game id="17364767" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>/gamecreators/images2/Daring/Naomi/Squeegee/17364767.jpg</thumbnail>
+		<title>Burst Rush Star</title>
+		<creator>Daring Naomi Squeegee</creator>
+		<relatedgames />
+	</game>
+	<game id="17264863" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Green/Alan/Safari/17264863.jpg</thumbnail>
+		<title>Giga Doom Drone</title>
+		<creator>Green Alan Safari</creator>
+		<relatedgames />
+	</game>
+	<game id="10917851" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Red/Antonio/Spider/10917851.jpg</thumbnail>
+		<title>Nitro Fire Lightning</title>
+		<creator>Red Antonio Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="17419128" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Amazing/Aaron/Macaroni/17419128.jpg</thumbnail>
+		<title>Energy Smash Spike</title>
+		<creator>Amazing Aaron Macaroni</creator>
+		<relatedgames />
+	</game>
+	<game id="10953425" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Rowdy/Mario/Pulse/10953425.jpg</thumbnail>
+		<title>Rumble Metal Drone</title>
+		<creator>Rowdy Mario Pulse</creator>
+		<relatedgames />
+	</game>
+	<game id="10952790" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Fearsome/Adam/Magma/10952790.jpg</thumbnail>
+		<title>Nitro Alien Smash</title>
+		<creator>Fearsome Adam Magma</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

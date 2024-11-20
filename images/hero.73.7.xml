@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17056202" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/25/2012">
+		<thumbnail>/gamecreators/images2/Tireless/Ruby/Phoenix/17056202.jpg</thumbnail>
+		<title>Clash Nitro Drone</title>
+		<creator>Tireless Ruby Phoenix</creator>
+		<relatedgames />
+	</game>
+	<game id="17369469" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/25/2012">
+		<thumbnail>/gamecreators/images2/Academic/Lauren/Spider/17369469.jpg</thumbnail>
+		<title>Gear Giga Big</title>
+		<creator>Academic Lauren Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="17408837" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>/gamecreators/images2/Cranky/Conrad/17408837.jpg</thumbnail>
+		<title>Racer Siege Rock</title>
+		<creator>Cranky Conrad</creator>
+		<relatedgames />
+	</game>
+	<game id="10918223" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Purple/Sam/Warp/10918223.jpg</thumbnail>
+		<title>Rumble Swampfire Warrior</title>
+		<creator>Purple Sam Warp</creator>
+		<relatedgames />
+	</game>
+	<game id="10015822" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Peculiar/Gulliver/Phantom/10015822.jpg</thumbnail>
+		<title>Invasion Defense Swampfire</title>
+		<creator>Peculiar Gulliver Phantom</creator>
+		<relatedgames />
+	</game>
+	<game id="10921090" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Stout/Earl/Marigold/10921090.jpg</thumbnail>
+		<title>Iron Crusher Alien</title>
+		<creator>Stout Earl Marigold</creator>
+		<relatedgames />
+	</game>
+	<game id="10936340" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Cheerful/Chelsea/Bolt/10936340.jpg</thumbnail>
+		<title>Cosmic Robot Burst</title>
+		<creator>Cheerful Chelsea Bolt</creator>
+		<relatedgames />
+	</game>
+	<game id="10039014" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Loopy/Logan/Chimera/10039014.jpg</thumbnail>
+		<title>Mega Fire Slam</title>
+		<creator>Loopy Logan Chimera</creator>
+		<relatedgames />
+	</game>
+	<game id="10953435" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Heroic/Bailey/Kazoo/10953435.jpg</thumbnail>
+		<title>Charge Giga Rescue</title>
+		<creator>Heroic Bailey Kazoo</creator>
+		<relatedgames />
+	</game>
+	<game id="17411673" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/13/2012">
+		<thumbnail>/gamecreators/images2/Organic/Yvonne/Sprocket/17411673.jpg</thumbnail>
+		<title>Fury Doom Ultra</title>
+		<creator>Organic Yvonne Sprocket</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

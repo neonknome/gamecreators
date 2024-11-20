@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10952326" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Aquatic/Egbert/Thud/10952326.jpg</thumbnail>
+		<title>Adventure Clash Metal</title>
+		<creator>Aquatic Egbert Thud</creator>
+		<relatedgames />
+	</game>
+	<game id="10951422" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Green/Grace/Manatee/10951422.jpg</thumbnail>
+		<title>Adventure Alien Droid</title>
+		<creator>Green Grace Manatee</creator>
+		<relatedgames />
+	</game>
+	<game id="10649988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Handsome/Michael/Ladybug/10649988.jpg</thumbnail>
+		<title>Rescue Titan Space</title>
+		<creator>Handsome Michael Ladybug</creator>
+		<relatedgames />
+	</game>
+	<game id="10931541" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Splendid/Donald/Whizbang/10931541.jpg</thumbnail>
+		<title>Rampage Assault Thunder</title>
+		<creator>Splendid Donald Whizbang</creator>
+		<relatedgames />
+	</game>
+	<game id="17179172" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>/gamecreators/images2/Amusing/Ray/Snake/17179172.jpg</thumbnail>
+		<title>Mega Titan Nova</title>
+		<creator>Amusing Ray Snake</creator>
+		<relatedgames />
+	</game>
+	<game id="10939640" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Putrid/Tim/Paradox/10939640.jpg</thumbnail>
+		<title>Rocket Robot Robot</title>
+		<creator>Putrid Tim Paradox</creator>
+		<relatedgames />
+	</game>
+	<game id="10930634" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Crafty/Sarah/Zombie/10930634.jpg</thumbnail>
+		<title>Atomic Alien Ambush</title>
+		<creator>Crafty Sarah Zombie</creator>
+		<relatedgames />
+	</game>
+	<game id="10926958" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Twisty/Gavin/Seesaw/10926958.jpg</thumbnail>
+		<title>Adventure Smash Adventure</title>
+		<creator>Twisty Gavin Seesaw</creator>
+		<relatedgames />
+	</game>
+	<game id="10916821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Crunchy/Miranda/Witch/10916821.jpg</thumbnail>
+		<title>Steel Swampfire Champion</title>
+		<creator>Crunchy Miranda Witch</creator>
+		<relatedgames />
+	</game>
+	<game id="10916923" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Gloomy/Heidi/Charger/10916923.jpg</thumbnail>
+		<title>Adventure Atomic Spike</title>
+		<creator>Gloomy Heidi Charger</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

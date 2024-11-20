@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17331653" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Electric/Izzy/Coconut/17331653.jpg</thumbnail>
+		<title>Energy Whirlwind Cosmic</title>
+		<creator>Electric Izzy Coconut</creator>
+		<relatedgames />
+	</game>
+	<game id="17403705" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Howling/Nicholas/Sardine/17403705.jpg</thumbnail>
+		<title>Escape Ambush Slam</title>
+		<creator>Howling Nicholas Sardine</creator>
+		<relatedgames />
+	</game>
+	<game id="17333051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Daring/Ricardo/Tiger/17333051.jpg</thumbnail>
+		<title>Chill Dark Sonic</title>
+		<creator>Daring Ricardo Tiger</creator>
+		<relatedgames />
+	</game>
+	<game id="10929135" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wacky/Elijah/Scorpion/10929135.jpg</thumbnail>
+		<title>Alien Sonic Power</title>
+		<creator>Wacky Elijah Scorpion</creator>
+		<relatedgames />
+	</game>
+	<game id="17391876" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Doctor/Makayla/Atlas/17391876.jpg</thumbnail>
+		<title>Breaker Warrior Star</title>
+		<creator>Doctor Makayla Atlas</creator>
+		<relatedgames />
+	</game>
+	<game id="10950440" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Loyal/Becky/Fury/10950440.jpg</thumbnail>
+		<title>Rocket Battle Beast</title>
+		<creator>Loyal Becky Fury</creator>
+		<relatedgames />
+	</game>
+	<game id="10931869" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Rowdy/Trevor/Glop/10931869.jpg</thumbnail>
+		<title>Shadow Patrol Attack</title>
+		<creator>Rowdy Trevor Glop</creator>
+		<relatedgames />
+	</game>
+	<game id="17318169" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Athletic/Jordan/Mustard/17318169.jpg</thumbnail>
+		<title>Energy Escape Challenge</title>
+		<creator>Athletic Jordan Mustard</creator>
+		<relatedgames />
+	</game>
+	<game id="16937348" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/16/2012">
+		<thumbnail>/gamecreators/images2/Diagonal/Ben/Spark/16937348.jpg</thumbnail>
+		<title>Power Danger Slam</title>
+		<creator>Diagonal Ben Spark</creator>
+		<relatedgames />
+	</game>
+	<game id="17582460" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Grubby/Jan/Gorilla/17582460.jpg</thumbnail>
+		<title>Dark Adventure Battle</title>
+		<creator>Grubby Jan Gorilla</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

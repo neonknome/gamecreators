@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17564122" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Awesome/Xerxes/Dynamite/17564122.jpg</thumbnail>
+		<title>Galaxy Nova Rampage</title>
+		<creator>Awesome Xerxes Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="17411673" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/13/2012">
+		<thumbnail>/gamecreators/images2/Organic/Yvonne/Sprocket/17411673.jpg</thumbnail>
+		<title>Fury Doom Ultra</title>
+		<creator>Organic Yvonne Sprocket</creator>
+		<relatedgames />
+	</game>
+	<game id="17176419" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/30/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Ramona/Bramble/17176419.jpg</thumbnail>
+		<title>Steel Dark Adventure</title>
+		<creator>Magnetic Ramona Bramble</creator>
+		<relatedgames />
+	</game>
+	<game id="17423485" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>/gamecreators/images2/Wily/Wes/Parallax/17423485.jpg</thumbnail>
+		<title>Thunder Ultra Rampage</title>
+		<creator>Wily Wes Parallax</creator>
+		<relatedgames />
+	</game>
+	<game id="17379163" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Pretty/Scott/Beeswax/17379163.jpg</thumbnail>
+		<title>Razor Titan Blaster</title>
+		<creator>Pretty Scott Beeswax</creator>
+		<relatedgames />
+	</game>
+	<game id="17248167" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/21/2012">
+		<thumbnail>/gamecreators/images2/Super/Felipe/Macaroni/17248167.jpg</thumbnail>
+		<title>Gear Adventure Adventure</title>
+		<creator>Super Felipe Macaroni</creator>
+		<relatedgames />
+	</game>
+	<game id="17275942" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>/gamecreators/images2/Zany/Timmy/Yak/17275942.jpg</thumbnail>
+		<title>Ben Techno Warrior</title>
+		<creator>Zany Timmy Yak</creator>
+		<relatedgames />
+	</game>
+	<game id="10944766" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Colossal/Adam/Squawk/10944766.jpg</thumbnail>
+		<title>Star Patrol Robot</title>
+		<creator>Colossal Adam Squawk</creator>
+		<relatedgames />
+	</game>
+	<game id="10916748" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Frosty/Lillian/Crash/10916748.jpg</thumbnail>
+		<title>Doom Blaster Rumble</title>
+		<creator>Frosty Lillian Crash</creator>
+		<relatedgames />
+	</game>
+	<game id="10921643" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Magnetic/Ernie/Rumble/10921643.jpg</thumbnail>
+		<title>Rampage Defense Galaxy</title>
+		<creator>Magnetic Ernie Rumble</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

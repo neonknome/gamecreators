@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10058927" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Cranky/Rob/Tractor/10058927.jpg</thumbnail>
+		<title>Galaxy Shock Shock</title>
+		<creator>Cranky Rob Tractor</creator>
+		<relatedgames />
+	</game>
+	<game id="10924291" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Ghastly/Kristen/Dragon/10924291.jpg</thumbnail>
+		<title>Swampfire Blaster Shadow</title>
+		<creator>Ghastly Kristen Dragon</creator>
+		<relatedgames />
+	</game>
+	<game id="17422344" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>/gamecreators/images2/Golden/Gabriel/Bazooka/17422344.jpg</thumbnail>
+		<title>Spark Chase Vilgax</title>
+		<creator>Golden Gabriel Bazooka</creator>
+		<relatedgames />
+	</game>
+	<game id="10952932" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Sloppy/Connor/Fondue/10952932.jpg</thumbnail>
+		<title>Adventure Doom Breaker</title>
+		<creator>Sloppy Connor Fondue</creator>
+		<relatedgames />
+	</game>
+	<game id="17371687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>/gamecreators/images2/Radical/Alvin/Catapult/17371687.jpg</thumbnail>
+		<title>Ultimate Pulse Lightning</title>
+		<creator>Radical Alvin Catapult</creator>
+		<relatedgames />
+	</game>
+	<game id="10649752" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Enormous/Simon/Acrobat/10649752.jpg</thumbnail>
+		<title>Ultra Thunder Hero</title>
+		<creator>Enormous Simon Acrobat</creator>
+		<relatedgames />
+	</game>
+	<game id="10927896" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Alien/Don/Penguin/10927896.jpg</thumbnail>
+		<title>Power Turbo Swampfire</title>
+		<creator>Alien Don Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="17220400" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Cunning/Sofia/Pinball/17220400.jpg</thumbnail>
+		<title>Earth Pursuit Warrior</title>
+		<creator>Cunning Sofia Pinball</creator>
+		<relatedgames />
+	</game>
+	<game id="17115481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/11/2012">
+		<thumbnail>/gamecreators/images2/Glorious/Logan/Brick/17115481.jpg</thumbnail>
+		<title>Cosmic Clash Adventure</title>
+		<creator>Glorious Logan Brick</creator>
+		<relatedgames />
+	</game>
+	<game id="17283515" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Negative/Bubbie/Pinwheel/17283515.jpg</thumbnail>
+		<title>Ultimate Adventure Storm</title>
+		<creator>Negative Bubbie Pinwheel</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

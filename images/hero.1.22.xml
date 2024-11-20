@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17345037" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>/gamecreators/images2/Colossal/Arthur/Cyborg/17345037.jpg</thumbnail>
+		<title>Brainstorm Lightning Charge</title>
+		<creator>Colossal Arthur Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="10919003" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Frosty/Scott/Hambone/10919003.jpg</thumbnail>
+		<title>Danger Plasma Battle</title>
+		<creator>Frosty Scott Hambone</creator>
+		<relatedgames />
+	</game>
+	<game id="10953063" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Brainy/Trevor/Shock/10953063.jpg</thumbnail>
+		<title>Escape Galaxy Force</title>
+		<creator>Brainy Trevor Shock</creator>
+		<relatedgames />
+	</game>
+	<game id="17552149" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Splendid/Connor/Shogun/17552149.jpg</thumbnail>
+		<title>Robot Ambush Rock</title>
+		<creator>Splendid Connor Shogun</creator>
+		<relatedgames />
+	</game>
+	<game id="17246497" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/20/2012">
+		<thumbnail>/gamecreators/images2/Cackling/Cory/Avator/17246497.jpg</thumbnail>
+		<title>Ultra Swampfire Power</title>
+		<creator>Cackling Cory Avator</creator>
+		<relatedgames />
+	</game>
+	<game id="17356516" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/20/2012">
+		<thumbnail>/gamecreators/images2/Feisty/Carter/Scout/17356516.jpg</thumbnail>
+		<title>Patrol Rock Burst</title>
+		<creator>Feisty Carter Scout</creator>
+		<relatedgames />
+	</game>
+	<game id="10055845" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Jumping/Pierre/Droid/10055845.jpg</thumbnail>
+		<title>Power Mission Battle</title>
+		<creator>Jumping Pierre Droid</creator>
+		<relatedgames />
+	</game>
+	<game id="17242114" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>/gamecreators/images2/Gruesome/Scooby/Cyborg/17242114.jpg</thumbnail>
+		<title>Adventure Droid Ultra</title>
+		<creator>Gruesome Scooby Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="10945636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Obvious/Alex/Dynamite/10945636.jpg</thumbnail>
+		<title>Energy Search Solar</title>
+		<creator>Obvious Alex Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="17393809" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/04/2012">
+		<thumbnail>/gamecreators/images2/Spirited/Napoleon/Warrior/17393809.jpg</thumbnail>
+		<title>Ultimate Doom Quake</title>
+		<creator>Spirited Napoleon Warrior</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

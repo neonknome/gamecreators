@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10919810" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Visible/Leonardo/Python/10919810.jpg</thumbnail>
+		<title>Search Attack Cosmic</title>
+		<creator>Visible Leonardo Python</creator>
+		<relatedgames />
+	</game>
+	<game id="16994221" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>/gamecreators/images2/Ornery/Chloe/Iguana/16994221.jpg</thumbnail>
+		<title>Patrol Shadow Dark</title>
+		<creator>Ornery Chloe Iguana</creator>
+		<relatedgames />
+	</game>
+	<game id="17316942" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Stinky/James/Avator/17316942.jpg</thumbnail>
+		<title>Nano Nova Thunder</title>
+		<creator>Stinky James Avator</creator>
+		<relatedgames />
+	</game>
+	<game id="10952669" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Charming/Edward/Vittles/10952669.jpg</thumbnail>
+		<title>Smash Magno Rush</title>
+		<creator>Charming Edward Vittles</creator>
+		<relatedgames />
+	</game>
+	<game id="10934659" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Loony/Rick/Lard/10934659.jpg</thumbnail>
+		<title>Adventure Space Force</title>
+		<creator>Loony Rick Lard</creator>
+		<relatedgames />
+	</game>
+	<game id="10931879" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Orange/Mario/Cosmos/10931879.jpg</thumbnail>
+		<title>Fire Escape Adventure</title>
+		<creator>Orange Mario Cosmos</creator>
+		<relatedgames />
+	</game>
+	<game id="17331796" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Evelyn/Brick/17331796.jpg</thumbnail>
+		<title>Ultimate Big Chill</title>
+		<creator>Magnetic Evelyn Brick</creator>
+		<relatedgames />
+	</game>
+	<game id="17382049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Wily/Iris/Ostrich/17382049.jpg</thumbnail>
+		<title>Turbo Dark Defense</title>
+		<creator>Wily Iris Ostrich</creator>
+		<relatedgames />
+	</game>
+	<game id="10040351" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Chaotic/Bert/Lavender/10040351.jpg</thumbnail>
+		<title>Adventure Doom Mission</title>
+		<creator>Chaotic Bert Lavender</creator>
+		<relatedgames />
+	</game>
+	<game id="17562791" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Sunny/Caden/Grackle/17562791.jpg</thumbnail>
+		<title>Spark Stone Doom</title>
+		<creator>Sunny Caden Grackle</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17382087" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Creepy/Richard/Oink/17382087.jpg</thumbnail>
+		<title>Fusion Rescue Drone</title>
+		<creator>Creepy Richard Oink</creator>
+		<relatedgames />
+	</game>
+	<game id="17047482" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/22/2012">
+		<thumbnail>/gamecreators/images2/Intrepid/Alex/Acorn/17047482.jpg</thumbnail>
+		<title>Waterhazard Hyper Champion</title>
+		<creator>Intrepid Alex Acorn</creator>
+		<relatedgames />
+	</game>
+	<game id="17335970" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Average/Owen/Monster/17335970.jpg</thumbnail>
+		<title>Mega Quake Fusion</title>
+		<creator>Average Owen Monster</creator>
+		<relatedgames />
+	</game>
+	<game id="17323636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Drowzy/Yancy/Porridge/17323636.jpg</thumbnail>
+		<title>Rocket Hex Drone</title>
+		<creator>Drowzy Yancy Porridge</creator>
+		<relatedgames />
+	</game>
+	<game id="17415451" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Healthy/Irwin/Pinwheel/17415451.jpg</thumbnail>
+		<title>Ambush Earth Alien</title>
+		<creator>Healthy Irwin Pinwheel</creator>
+		<relatedgames />
+	</game>
+	<game id="10953267" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Orange/Donald/Pinwheel/10953267.jpg</thumbnail>
+		<title>Storm Hex Space</title>
+		<creator>Orange Donald Pinwheel</creator>
+		<relatedgames />
+	</game>
+	<game id="10918517" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Stylish/Matthew/Acrobat/10918517.jpg</thumbnail>
+		<title>Iron Challenge Chase</title>
+		<creator>Stylish Matthew Acrobat</creator>
+		<relatedgames />
+	</game>
+	<game id="10945458" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Atomic/Zelda/Sardine/10945458.jpg</thumbnail>
+		<title>Sonic Alien Universe</title>
+		<creator>Atomic Zelda Sardine</creator>
+		<relatedgames />
+	</game>
+	<game id="10922333" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Zany/Drew/Hippo/10922333.jpg</thumbnail>
+		<title>Dark Star Ultra</title>
+		<creator>Zany Drew Hippo</creator>
+		<relatedgames />
+	</game>
+	<game id="17388599" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Luminous/Brooke/Shogun/17388599.jpg</thumbnail>
+		<title>Ultimate Steel Warrior</title>
+		<creator>Luminous Brooke Shogun</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

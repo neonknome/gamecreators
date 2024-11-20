@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10924230" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Orange/Caleb/Thunder/10924230.jpg</thumbnail>
+		<title>Magno Pulse Rampage</title>
+		<creator>Orange Caleb Thunder</creator>
+		<relatedgames />
+	</game>
+	<game id="10952878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Western/Leon/Figment/10952878.jpg</thumbnail>
+		<title>Crusher Alien Solar</title>
+		<creator>Western Leon Figment</creator>
+		<relatedgames />
+	</game>
+	<game id="17374839" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>/gamecreators/images2/Captain/Sapphire/Electron/17374839.jpg</thumbnail>
+		<title>Cosmic Fire Escape</title>
+		<creator>Captain Sapphire Electron</creator>
+		<relatedgames />
+	</game>
+	<game id="17278924" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Fiery/Colin/Jungle/17278924.jpg</thumbnail>
+		<title>Alien Ambush Chill</title>
+		<creator>Fiery Colin Jungle</creator>
+		<relatedgames />
+	</game>
+	<game id="17551092" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Dreadful/Alex/Dodo/17551092.jpg</thumbnail>
+		<title>Adventure Assault Nitro</title>
+		<creator>Dreadful Alex Dodo</creator>
+		<relatedgames />
+	</game>
+	<game id="10038610" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Frantic/Henry/Crowbar/10038610.jpg</thumbnail>
+		<title>Shock Nano Siege</title>
+		<creator>Frantic Henry Crowbar</creator>
+		<relatedgames />
+	</game>
+	<game id="10953578" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Lucky/Matthew/Avocado/10953578.jpg</thumbnail>
+		<title>Warp Pulse Swampfire</title>
+		<creator>Lucky Matthew Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="17223057" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Bouncing/Benton/Mummy/17223057.jpg</thumbnail>
+		<title>Big Chill Challenge</title>
+		<creator>Bouncing Benton Mummy</creator>
+		<relatedgames />
+	</game>
+	<game id="17345197" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>/gamecreators/images2/Epic/Zachary/Dingbat/17345197.jpg</thumbnail>
+		<title>Steel Mission Space</title>
+		<creator>Epic Zachary Dingbat</creator>
+		<relatedgames />
+	</game>
+	<game id="17351796" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>/gamecreators/images2/Immense/Jayden/Buzzard/17351796.jpg</thumbnail>
+		<title>Vilgax Warp Swampfire</title>
+		<creator>Immense Jayden Buzzard</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

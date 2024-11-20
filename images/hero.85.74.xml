@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17017938" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>/gamecreators/images2/Gothic/Sara/Weasel/17017938.jpg</thumbnail>
+		<title>Rush Cosmic Adventure</title>
+		<creator>Gothic Sara Weasel</creator>
+		<relatedgames />
+	</game>
+	<game id="10038010" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Fearless/Jason/Bonkers/10038010.jpg</thumbnail>
+		<title>Galaxy Storm Rustbucket</title>
+		<creator>Fearless Jason Bonkers</creator>
+		<relatedgames />
+	</game>
+	<game id="10919136" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Grouchy/Pearl/Rhino/10919136.jpg</thumbnail>
+		<title>Animo Alien Steel</title>
+		<creator>Grouchy Pearl Rhino</creator>
+		<relatedgames />
+	</game>
+	<game id="17419519" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Speedy/Buster/Popcorn/17419519.jpg</thumbnail>
+		<title>Rocket Alien Ambush</title>
+		<creator>Speedy Buster Popcorn</creator>
+		<relatedgames />
+	</game>
+	<game id="10068663" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Alien/Isaiah/Thud/10068663.jpg</thumbnail>
+		<title>Alien Adventure Ambush</title>
+		<creator>Alien Isaiah Thud</creator>
+		<relatedgames />
+	</game>
+	<game id="17569997" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Brisk/Aubrey/Camel/17569997.jpg</thumbnail>
+		<title>Hero Rush Alien</title>
+		<creator>Brisk Aubrey Camel</creator>
+		<relatedgames />
+	</game>
+	<game id="10040051" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Fanciful/Pedro/Magma/10040051.jpg</thumbnail>
+		<title>Solar Invasion Ultimate</title>
+		<creator>Fanciful Pedro Magma</creator>
+		<relatedgames />
+	</game>
+	<game id="10924555" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Artistic/Jose/Blob/10924555.jpg</thumbnail>
+		<title>Swampfire Beast Spike</title>
+		<creator>Artistic Jose Blob</creator>
+		<relatedgames />
+	</game>
+	<game id="17296006" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>/gamecreators/images2/Complex/Dennis/Apple/17296006.jpg</thumbnail>
+		<title>Stone Rustbucket Adventure</title>
+		<creator>Complex Dennis Apple</creator>
+		<relatedgames />
+	</game>
+	<game id="10921864" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Cheyenne/Iceberg/10921864.jpg</thumbnail>
+		<title>Ultimate Alien Smash</title>
+		<creator>Tricky Cheyenne Iceberg</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

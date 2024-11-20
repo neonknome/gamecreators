@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10066861" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Sly/Cole/Holler/10066861.jpg</thumbnail>
+		<title>Siege Razor Warrior</title>
+		<creator>Sly Cole Holler</creator>
+		<relatedgames />
+	</game>
+	<game id="10045372" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Obvious/Shane/Zigzag/10045372.jpg</thumbnail>
+		<title>Ultra Swampfire Rush</title>
+		<creator>Obvious Shane Zigzag</creator>
+		<relatedgames />
+	</game>
+	<game id="10063164" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Lucky/Mary/Zeppelin/10063164.jpg</thumbnail>
+		<title>Ambush Stone Plumber</title>
+		<creator>Lucky Mary Zeppelin</creator>
+		<relatedgames />
+	</game>
+	<game id="10952349" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Weird/Greg/Kangaroo/10952349.jpg</thumbnail>
+		<title>Earth Turbo Invasion</title>
+		<creator>Weird Greg Kangaroo</creator>
+		<relatedgames />
+	</game>
+	<game id="10706152" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Pleasant/Perseus/Universe/10706152.jpg</thumbnail>
+		<title>Clash Chase Quake</title>
+		<creator>Pleasant Perseus Universe</creator>
+		<relatedgames />
+	</game>
+	<game id="17404821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Strong/Orlando/Buckaroo/17404821.jpg</thumbnail>
+		<title>Space Universe Swampfire</title>
+		<creator>Strong Orlando Buckaroo</creator>
+		<relatedgames />
+	</game>
+	<game id="10843789" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2009">
+		<thumbnail>/gamecreators/images2/Yellow/Luke/Acrobat/10843789.jpg</thumbnail>
+		<title>Shock Giga Challenge</title>
+		<creator>Yellow Luke Acrobat</creator>
+		<relatedgames />
+	</game>
+	<game id="10928166" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Chilly/Jeremy/Tractor/10928166.jpg</thumbnail>
+		<title>Nitro Storm Rush</title>
+		<creator>Chilly Jeremy Tractor</creator>
+		<relatedgames />
+	</game>
+	<game id="10926266" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fragrant/Mary/Mallard/10926266.jpg</thumbnail>
+		<title>Sonic Thunder Power</title>
+		<creator>Fragrant Mary Mallard</creator>
+		<relatedgames />
+	</game>
+	<game id="10646034" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Loyal/Maria/Tornado/10646034.jpg</thumbnail>
+		<title>Slam Champion Plumber</title>
+		<creator>Loyal Maria Tornado</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

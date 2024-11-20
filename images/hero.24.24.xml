@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17282616" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Aromatic/Lucas/Buffalo/17282616.jpg</thumbnail>
+		<title>Ultimate Vilgax Smash</title>
+		<creator>Aromatic Lucas Buffalo</creator>
+		<relatedgames />
+	</game>
+	<game id="10927469" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dashing/Calvin/Maestro/10927469.jpg</thumbnail>
+		<title>Rush Ultra Racer</title>
+		<creator>Dashing Calvin Maestro</creator>
+		<relatedgames />
+	</game>
+	<game id="10952878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Western/Leon/Figment/10952878.jpg</thumbnail>
+		<title>Crusher Alien Solar</title>
+		<creator>Western Leon Figment</creator>
+		<relatedgames />
+	</game>
+	<game id="17278924" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Fiery/Colin/Jungle/17278924.jpg</thumbnail>
+		<title>Alien Ambush Chill</title>
+		<creator>Fiery Colin Jungle</creator>
+		<relatedgames />
+	</game>
+	<game id="17551092" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Dreadful/Alex/Dodo/17551092.jpg</thumbnail>
+		<title>Adventure Assault Nitro</title>
+		<creator>Dreadful Alex Dodo</creator>
+		<relatedgames />
+	</game>
+	<game id="10921674" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Rugged/Orlando/Virtuoso/10921674.jpg</thumbnail>
+		<title>Swampfire Shadow Attack</title>
+		<creator>Rugged Orlando Virtuoso</creator>
+		<relatedgames />
+	</game>
+	<game id="17078860" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/01/2012">
+		<thumbnail>/gamecreators/images2/Tireless/Ruby/Phoenix/17078860.jpg</thumbnail>
+		<title>Water Nano Alien</title>
+		<creator>Tireless Ruby Phoenix</creator>
+		<relatedgames />
+	</game>
+	<game id="17214905" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/12/2012">
+		<thumbnail>/gamecreators/images2/Neutral/Ted/Eggplant/17214905.jpg</thumbnail>
+		<title>Big Warrior Razor</title>
+		<creator>Neutral Ted Eggplant</creator>
+		<relatedgames />
+	</game>
+	<game id="17386188" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Academic/Oliver/Lemon/17386188.jpg</thumbnail>
+		<title>Fury Vilgax Water</title>
+		<creator>Academic Oliver Lemon</creator>
+		<relatedgames />
+	</game>
+	<game id="17395975" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>/gamecreators/images2/Cranky/Gregory/Haystack/17395975.jpg</thumbnail>
+		<title>Solar Ambush Whirlwind</title>
+		<creator>Cranky Gregory Haystack</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

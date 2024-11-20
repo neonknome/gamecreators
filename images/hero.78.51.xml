@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17341198" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/15/2012">
+		<thumbnail>/gamecreators/images2/Admiral/Anna/Crater/17341198.jpg</thumbnail>
+		<title>Target Ultimate Ambush</title>
+		<creator>Admiral Anna Crater</creator>
+		<relatedgames />
+	</game>
+	<game id="17350059" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>/gamecreators/images2/Positive/Bridget/17350059.jpg</thumbnail>
+		<title>Target Blaster Star</title>
+		<creator>Positive Bridget</creator>
+		<relatedgames />
+	</game>
+	<game id="17404731" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Clever/Ben/Blade/17404731.jpg</thumbnail>
+		<title>Ultimate Cannonbolt Assault</title>
+		<creator>Clever Ben Blade</creator>
+		<relatedgames />
+	</game>
+	<game id="17379327" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Tall/Clay/Mystery/17379327.jpg</thumbnail>
+		<title>Laser Warrior Adventure</title>
+		<creator>Tall Clay Mystery</creator>
+		<relatedgames />
+	</game>
+	<game id="17220310" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Edgy/Sid/Clang/17220310.jpg</thumbnail>
+		<title>Ultra Giga Search</title>
+		<creator>Edgy Sid Clang</creator>
+		<relatedgames />
+	</game>
+	<game id="10922878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Crafty/Ben/Varmint/10922878.jpg</thumbnail>
+		<title>Storm Patrol Galaxy</title>
+		<creator>Crafty Ben Varmint</creator>
+		<relatedgames />
+	</game>
+	<game id="16917374" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>/gamecreators/images2/Galactic/Scarlett/Blast/16917374.jpg</thumbnail>
+		<title>Rocket Burst Adventure</title>
+		<creator>Galactic Scarlett Blast</creator>
+		<relatedgames />
+	</game>
+	<game id="10919042" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Shiny/Baxter/Wombat/10919042.jpg</thumbnail>
+		<title>Nitro Pulse Assault</title>
+		<creator>Shiny Baxter Wombat</creator>
+		<relatedgames />
+	</game>
+	<game id="17562120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Proud/Felix/Thud/17562120.jpg</thumbnail>
+		<title>Burst Blaster Alien</title>
+		<creator>Proud Felix Thud</creator>
+		<relatedgames />
+	</game>
+	<game id="10924702" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fuzzy/Austin/Cosmos/10924702.jpg</thumbnail>
+		<title>Search Steel Magno</title>
+		<creator>Fuzzy Austin Cosmos</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

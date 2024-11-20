@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10926454" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dramatic/Laura/Fishbowl/10926454.jpg</thumbnail>
+		<title>Ultimate Rampage Chase</title>
+		<creator>Dramatic Laura Fishbowl</creator>
+		<relatedgames />
+	</game>
+	<game id="10928655" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Handsome/Jeffrey/Aardvark/10928655.jpg</thumbnail>
+		<title>Metal Breaker Ultimate</title>
+		<creator>Handsome Jeffrey Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="10918854" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Fragrant/Shannon/Spider/10918854.jpg</thumbnail>
+		<title>Siege Nova Crusher</title>
+		<creator>Fragrant Shannon Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="17395975" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>/gamecreators/images2/Cranky/Gregory/Haystack/17395975.jpg</thumbnail>
+		<title>Solar Ambush Whirlwind</title>
+		<creator>Cranky Gregory Haystack</creator>
+		<relatedgames />
+	</game>
+	<game id="17327375" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Bold/Ginger/Hedgehog/17327375.jpg</thumbnail>
+		<title>Streak Lightning Breaker</title>
+		<creator>Bold Ginger Hedgehog</creator>
+		<relatedgames />
+	</game>
+	<game id="17300390" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/03/2012">
+		<thumbnail>/gamecreators/images2/Hypnotic/Michael/17300390.jpg</thumbnail>
+		<title>Attack Rocket Titan</title>
+		<creator>Hypnotic Michael</creator>
+		<relatedgames />
+	</game>
+	<game id="10920342" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Putrid/Tabitha/Cactus/10920342.jpg</thumbnail>
+		<title>Nitro Rush Space</title>
+		<creator>Putrid Tabitha Cactus</creator>
+		<relatedgames />
+	</game>
+	<game id="17574610" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Negative/Kelly/Samurai/17574610.jpg</thumbnail>
+		<title>Racer Defense Adventure</title>
+		<creator>Negative Kelly Samurai</creator>
+		<relatedgames />
+	</game>
+	<game id="17017591" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>/gamecreators/images2/Radiant/Genghis/Warrior/17017591.jpg</thumbnail>
+		<title>Jetray Laser Assault</title>
+		<creator>Radiant Genghis Warrior</creator>
+		<relatedgames />
+	</game>
+	<game id="10926436" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Twisty/Gavin/Seesaw/10926436.jpg</thumbnail>
+		<title>Sonic Ben Streak</title>
+		<creator>Twisty Gavin Seesaw</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

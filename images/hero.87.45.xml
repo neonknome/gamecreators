@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17549594" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Classic/Buffy/Dingo/17549594.jpg</thumbnail>
+		<title>Warrior Rustbucket Echo</title>
+		<creator>Classic Buffy Dingo</creator>
+		<relatedgames />
+	</game>
+	<game id="10038610" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Frantic/Henry/Crowbar/10038610.jpg</thumbnail>
+		<title>Shock Nano Siege</title>
+		<creator>Frantic Henry Crowbar</creator>
+		<relatedgames />
+	</game>
+	<game id="17382115" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Galactic/Ben/Panda/17382115.jpg</thumbnail>
+		<title>Giga Alien Rock</title>
+		<creator>Galactic Ben Panda</creator>
+		<relatedgames />
+	</game>
+	<game id="17327459" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Shannon/Blast/17327459.jpg</thumbnail>
+		<title>Mega Pursuit Sonic</title>
+		<creator>Shannon Blast</creator>
+		<relatedgames />
+	</game>
+	<game id="17311587" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>/gamecreators/images2/Proper/Kate/Witch/17311587.jpg</thumbnail>
+		<title>Razor Attack Rock</title>
+		<creator>Proper Kate Witch</creator>
+		<relatedgames />
+	</game>
+	<game id="16967196" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/25/2012">
+		<thumbnail>/gamecreators/images2/Eager/Rachel/Samurai/16967196.jpg</thumbnail>
+		<title>Mission Fury Fire</title>
+		<creator>Eager Rachel Samurai</creator>
+		<relatedgames />
+	</game>
+	<game id="17352503" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>/gamecreators/images2/Complex/Finn/Zeppelin/17352503.jpg</thumbnail>
+		<title>Invasion Sonic Racer</title>
+		<creator>Complex Finn Zeppelin</creator>
+		<relatedgames />
+	</game>
+	<game id="10933685" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Funny/Samantha/Cosmos/10933685.jpg</thumbnail>
+		<title>Plumber Nitro Chase</title>
+		<creator>Funny Samantha Cosmos</creator>
+		<relatedgames />
+	</game>
+	<game id="17277603" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Eloquent/Parker/Quarry/17277603.jpg</thumbnail>
+		<title>Echo Champion Pulse</title>
+		<creator>Eloquent Parker Quarry</creator>
+		<relatedgames />
+	</game>
+	<game id="17209583" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/11/2012">
+		<thumbnail>/gamecreators/images2/Normal/Betty/Venom/17209583.jpg</thumbnail>
+		<title>Patrol Warrior Water</title>
+		<creator>Normal Betty Venom</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

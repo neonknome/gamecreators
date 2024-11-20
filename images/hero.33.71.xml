@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10918741" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Shrewd/Jonas/Yodel/10918741.jpg</thumbnail>
+		<title>Mega Atomic Nova</title>
+		<creator>Shrewd Jonas Yodel</creator>
+		<relatedgames />
+	</game>
+	<game id="17257047" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>/gamecreators/images2/Barbaric/Faith/Camel/17257047.jpg</thumbnail>
+		<title>Adventure Adventure Metal</title>
+		<creator>Barbaric Faith Camel</creator>
+		<relatedgames />
+	</game>
+	<game id="10953188" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Eerie/Iris/Oddball/10953188.jpg</thumbnail>
+		<title>Ultra Droid Titan</title>
+		<creator>Eerie Iris Oddball</creator>
+		<relatedgames />
+	</game>
+	<game id="10924136" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Horrid/Duncan/Squirrel/10924136.jpg</thumbnail>
+		<title>Fury Force Adventure</title>
+		<creator>Horrid Duncan Squirrel</creator>
+		<relatedgames />
+	</game>
+	<game id="17423166" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>/gamecreators/images2/Volcanic/Brad/Warrior/17423166.jpg</thumbnail>
+		<title>Light Earth Crusher</title>
+		<creator>Volcanic Brad Warrior</creator>
+		<relatedgames />
+	</game>
+	<game id="16976315" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Burly/Gillian/Dodo/16976315.jpg</thumbnail>
+		<title>Nitro Doom Metal</title>
+		<creator>Burly Gillian Dodo</creator>
+		<relatedgames />
+	</game>
+	<game id="17328807" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Flying/Ellen/Banjo/17328807.jpg</thumbnail>
+		<title>Light Energy Racer</title>
+		<creator>Flying Ellen Banjo</creator>
+		<relatedgames />
+	</game>
+	<game id="17338199" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Loud/Connor/Monster/17338199.jpg</thumbnail>
+		<title>Racer Adventure Adventure</title>
+		<creator>Loud Connor Monster</creator>
+		<relatedgames />
+	</game>
+	<game id="10924415" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Robotic/Tom/Wombat/10924415.jpg</thumbnail>
+		<title>Swampfire Sonic Escape</title>
+		<creator>Robotic Tom Wombat</creator>
+		<relatedgames />
+	</game>
+	<game id="10919810" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Visible/Leonardo/Python/10919810.jpg</thumbnail>
+		<title>Search Attack Cosmic</title>
+		<creator>Visible Leonardo Python</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

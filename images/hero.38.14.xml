@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17505132" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>/gamecreators/images2/Creative/David/Anvil/17505132.jpg</thumbnail>
+		<title>Mission Chase Smash</title>
+		<creator>Creative David Anvil</creator>
+		<relatedgames />
+	</game>
+	<game id="10939432" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Ghostly/Julia/Planet/10939432.jpg</thumbnail>
+		<title>Ultra Danger Storm</title>
+		<creator>Ghostly Julia Planet</creator>
+		<relatedgames />
+	</game>
+	<game id="10925948" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Silly/Joshua/Thunder/10925948.jpg</thumbnail>
+		<title>Adventure Storm Siege</title>
+		<creator>Silly Joshua Thunder</creator>
+		<relatedgames />
+	</game>
+	<game id="16984393" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/30/2012">
+		<thumbnail>/gamecreators/images2/Quantum/Kevin/Beast/16984393.jpg</thumbnail>
+		<title>Atomic Whirlwind Battle</title>
+		<creator>Quantum Kevin Beast</creator>
+		<relatedgames />
+	</game>
+	<game id="10056546" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Bashful/Bjorn/Avocado/10056546.jpg</thumbnail>
+		<title>Laser Laser Attack</title>
+		<creator>Bashful Bjorn Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="10952447" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Sly/Gulliver/Glop/10952447.jpg</thumbnail>
+		<title>Earth Pursuit Nitro</title>
+		<creator>Sly Gulliver Glop</creator>
+		<relatedgames />
+	</game>
+	<game id="17335294" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Ghastly/Olive/Cyborg/17335294.jpg</thumbnail>
+		<title>Target Chase Robot</title>
+		<creator>Ghastly Olive Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="10062600" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Weird/Grover/Monkey/10062600.jpg</thumbnail>
+		<title>Swampfire Fire Universe</title>
+		<creator>Weird Grover Monkey</creator>
+		<relatedgames />
+	</game>
+	<game id="17540856" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Plucky/Drew/Yak/17540856.jpg</thumbnail>
+		<title>Shadow Steel Crusher</title>
+		<creator>Plucky Drew Yak</creator>
+		<relatedgames />
+	</game>
+	<game id="16902585" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/08/2012">
+		<thumbnail>/gamecreators/images2/Stubborn/Aiden/Beast/16902585.jpg</thumbnail>
+		<title>Atomic Adventure Cosmic</title>
+		<creator>Stubborn Aiden Beast</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

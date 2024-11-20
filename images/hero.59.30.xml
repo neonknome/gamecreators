@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17126481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/15/2012">
+		<thumbnail>/gamecreators/images2/Restless/Xerxes/Kook/17126481.jpg</thumbnail>
+		<title>Sonic Chase Blaster</title>
+		<creator>Restless Xerxes Kook</creator>
+		<relatedgames />
+	</game>
+	<game id="17365312" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>/gamecreators/images2/Vigilant/Floyd/Fizz/17365312.jpg</thumbnail>
+		<title>Waterhazard Force Attack</title>
+		<creator>Vigilant Floyd Fizz</creator>
+		<relatedgames />
+	</game>
+	<game id="17182146" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/02/2012">
+		<thumbnail>/gamecreators/images2/Famous/Karl/Fossil/17182146.jpg</thumbnail>
+		<title>Adventure Rush Light</title>
+		<creator>Famous Karl Fossil</creator>
+		<relatedgames />
+	</game>
+	<game id="17389194" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Artful/Russell/Cobweb/17389194.jpg</thumbnail>
+		<title>Universe Shadow Pursuit</title>
+		<creator>Artful Russell Cobweb</creator>
+		<relatedgames />
+	</game>
+	<game id="10940698" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Dashing/Zeb/Crash/10940698.jpg</thumbnail>
+		<title>Hex Robot Rumble</title>
+		<creator>Dashing Zeb Crash</creator>
+		<relatedgames />
+	</game>
+	<game id="17584138" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Grizzly/Dolly/Moonbeam/17584138.jpg</thumbnail>
+		<title>Adventure Adventure Water</title>
+		<creator>Grizzly Dolly Moonbeam</creator>
+		<relatedgames />
+	</game>
+	<game id="17327552" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Fiery/Lisa/Rebel/17327552.jpg</thumbnail>
+		<title>Shadow Spidermonkey Warrior</title>
+		<creator>Fiery Lisa Rebel</creator>
+		<relatedgames />
+	</game>
+	<game id="10932753" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Reliable/Gregory/Gorilla/10932753.jpg</thumbnail>
+		<title>Mega Pursuit Sonic</title>
+		<creator>Reliable Gregory Gorilla</creator>
+		<relatedgames />
+	</game>
+	<game id="17209454" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/11/2012">
+		<thumbnail>/gamecreators/images2/Aromatic/Milo/Spark/17209454.jpg</thumbnail>
+		<title>Galaxy Attack Turbo</title>
+		<creator>Aromatic Milo Spark</creator>
+		<relatedgames />
+	</game>
+	<game id="10055983" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Dreadful/Dawn/Mummy/10055983.jpg</thumbnail>
+		<title>Warrior Razor Nano</title>
+		<creator>Dreadful Dawn Mummy</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

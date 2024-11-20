@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17387959" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Bold/Ian/Cactus/17387959.jpg</thumbnail>
+		<title>Alien Adventure Robot</title>
+		<creator>Bold Ian Cactus</creator>
+		<relatedgames />
+	</game>
+	<game id="17033336" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/17/2012">
+		<thumbnail>/gamecreators/images2/Epic/Igor/Minotaur/17033336.jpg</thumbnail>
+		<title>Search Energy Chill</title>
+		<creator>Epic Igor Minotaur</creator>
+		<relatedgames />
+	</game>
+	<game id="10937548" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Alien/Haley/Jamboree/10937548.jpg</thumbnail>
+		<title>Rocket Techno Sonic</title>
+		<creator>Alien Haley Jamboree</creator>
+		<relatedgames />
+	</game>
+	<game id="17404687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Golden/Benjamin/Hedgehog/17404687.jpg</thumbnail>
+		<title>Space Star Patrol</title>
+		<creator>Golden Benjamin Hedgehog</creator>
+		<relatedgames />
+	</game>
+	<game id="17143652" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/20/2012">
+		<thumbnail>/gamecreators/images2/Negative/Luke/Omelet/17143652.jpg</thumbnail>
+		<title>Big Rustbucket Rumble</title>
+		<creator>Negative Luke Omelet</creator>
+		<relatedgames />
+	</game>
+	<game id="17284589" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>/gamecreators/images2/Famous/Paul/Tiger/17284589.jpg</thumbnail>
+		<title>Galaxy Force Sonic</title>
+		<creator>Famous Paul Tiger</creator>
+		<relatedgames />
+	</game>
+	<game id="17172103" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/29/2012">
+		<thumbnail>/gamecreators/images2/Jingling/Spencer/Mosquito/17172103.jpg</thumbnail>
+		<title>Iron Adventure Plumber</title>
+		<creator>Jingling Spencer Mosquito</creator>
+		<relatedgames />
+	</game>
+	<game id="10926958" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Twisty/Gavin/Seesaw/10926958.jpg</thumbnail>
+		<title>Adventure Smash Adventure</title>
+		<creator>Twisty Gavin Seesaw</creator>
+		<relatedgames />
+	</game>
+	<game id="17217721" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>/gamecreators/images2/Normal/Betty/Venom/17217721.jpg</thumbnail>
+		<title>Shadow Vilgax Cosmic</title>
+		<creator>Normal Betty Venom</creator>
+		<relatedgames />
+	</game>
+	<game id="17242816" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/20/2012">
+		<thumbnail>/gamecreators/images2/Spectral/Barney/Rumble/17242816.jpg</thumbnail>
+		<title>Cannonbolt Hyper Hyper</title>
+		<creator>Spectral Barney Rumble</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

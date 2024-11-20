@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17298605" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/03/2012">
+		<thumbnail>/gamecreators/images2/Mighty/Avery/Mantis/17298605.jpg</thumbnail>
+		<title>Energy Hyper Rampage</title>
+		<creator>Mighty Avery Mantis</creator>
+		<relatedgames />
+	</game>
+	<game id="10748197" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2009">
+		<thumbnail>/gamecreators/images2/Zany/Isaac/Flipper/10748197.jpg</thumbnail>
+		<title>Fire Rescue Chase</title>
+		<creator>Zany Isaac Flipper</creator>
+		<relatedgames />
+	</game>
+	<game id="10937222" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Clever/Kristin/Fossil/10937222.jpg</thumbnail>
+		<title>Rampage Quake Iron</title>
+		<creator>Clever Kristin Fossil</creator>
+		<relatedgames />
+	</game>
+	<game id="17389654" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Tall/Evelyn/Seesaw/17389654.jpg</thumbnail>
+		<title>Big Turbo Battle</title>
+		<creator>Tall Evelyn Seesaw</creator>
+		<relatedgames />
+	</game>
+	<game id="16981662" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>/gamecreators/images2/Barbaric/Duke/Funk/16981662.jpg</thumbnail>
+		<title>Thunder Power Cannonbolt</title>
+		<creator>Barbaric Duke Funk</creator>
+		<relatedgames />
+	</game>
+	<game id="10044541" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Horrid/Bernard/Buffalo/10044541.jpg</thumbnail>
+		<title>Robot Rumble Galaxy</title>
+		<creator>Horrid Bernard Buffalo</creator>
+		<relatedgames />
+	</game>
+	<game id="17312104" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>/gamecreators/images2/Hyper/Ariana/Calypso/17312104.jpg</thumbnail>
+		<title>Blaster Spark Alien</title>
+		<creator>Hyper Ariana Calypso</creator>
+		<relatedgames />
+	</game>
+	<game id="10916758" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Purple/Angel/Cyborg/10916758.jpg</thumbnail>
+		<title>Nitro Plasma Storm</title>
+		<creator>Purple Angel Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="17320483" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/09/2012">
+		<thumbnail>/gamecreators/images2/Talented/Adam/Tiger/17320483.jpg</thumbnail>
+		<title>Adventure Alien Ambush</title>
+		<creator>Talented Adam Tiger</creator>
+		<relatedgames />
+	</game>
+	<game id="17419519" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Speedy/Buster/Popcorn/17419519.jpg</thumbnail>
+		<title>Rocket Alien Ambush</title>
+		<creator>Speedy Buster Popcorn</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

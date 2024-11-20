@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17341820" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/15/2012">
+		<thumbnail>/gamecreators/images2/Obscure/Brett/Skunk/17341820.jpg</thumbnail>
+		<title>Drone Beast Titan</title>
+		<creator>Obscure Brett Skunk</creator>
+		<relatedgames />
+	</game>
+	<game id="10920425" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Loud/Florence/Goulash/10920425.jpg</thumbnail>
+		<title>Ultimate Force Rock</title>
+		<creator>Loud Florence Goulash</creator>
+		<relatedgames />
+	</game>
+	<game id="17558781" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Volcanic/Adrian/Charger/17558781.jpg</thumbnail>
+		<title>Ambush Target Attack</title>
+		<creator>Volcanic Adrian Charger</creator>
+		<relatedgames />
+	</game>
+	<game id="17551120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Burly/Brian/Bungee/17551120.jpg</thumbnail>
+		<title>Ultimate Alien Force</title>
+		<creator>Burly Brian Bungee</creator>
+		<relatedgames />
+	</game>
+	<game id="17357894" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>/gamecreators/images2/Stormy/Wes/Steel/17357894.jpg</thumbnail>
+		<title>Racer Defense Plasma</title>
+		<creator>Stormy Wes Steel</creator>
+		<relatedgames />
+	</game>
+	<game id="10038231" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Cheerful/Bryan/Sizzle/10038231.jpg</thumbnail>
+		<title>Razor Shadow Rocket</title>
+		<creator>Cheerful Bryan Sizzle</creator>
+		<relatedgames />
+	</game>
+	<game id="17386767" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Flying/Brandon/Robot/17386767.jpg</thumbnail>
+		<title>Warrior Atomic Warrior</title>
+		<creator>Flying Brandon Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="10924970" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Loopy/Beatrice/Dynamite/10924970.jpg</thumbnail>
+		<title>Burst Breaker Vilgax</title>
+		<creator>Loopy Beatrice Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="10950318" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Robotic/Diego/Pirate/10950318.jpg</thumbnail>
+		<title>Ben Escape Vilgax</title>
+		<creator>Robotic Diego Pirate</creator>
+		<relatedgames />
+	</game>
+	<game id="10647306" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Orange/Vanessa/Unicycle/10647306.jpg</thumbnail>
+		<title>Clash Rumble Adventure</title>
+		<creator>Orange Vanessa Unicycle</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

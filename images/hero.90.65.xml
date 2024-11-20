@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17316460" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Drowzy/Yancy/Porridge/17316460.jpg</thumbnail>
+		<title>Nano Rampage Giga</title>
+		<creator>Drowzy Yancy Porridge</creator>
+		<relatedgames />
+	</game>
+	<game id="17505132" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>/gamecreators/images2/Creative/David/Anvil/17505132.jpg</thumbnail>
+		<title>Mission Chase Smash</title>
+		<creator>Creative David Anvil</creator>
+		<relatedgames />
+	</game>
+	<game id="10939432" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Ghostly/Julia/Planet/10939432.jpg</thumbnail>
+		<title>Ultra Danger Storm</title>
+		<creator>Ghostly Julia Planet</creator>
+		<relatedgames />
+	</game>
+	<game id="16984393" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/30/2012">
+		<thumbnail>/gamecreators/images2/Quantum/Kevin/Beast/16984393.jpg</thumbnail>
+		<title>Atomic Whirlwind Battle</title>
+		<creator>Quantum Kevin Beast</creator>
+		<relatedgames />
+	</game>
+	<game id="10953322" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Reckless/Erin/Phantom/10953322.jpg</thumbnail>
+		<title>Danger Swampfire Rescue</title>
+		<creator>Reckless Erin Phantom</creator>
+		<relatedgames />
+	</game>
+	<game id="17420517" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Evasive/Ashton/Unicycle/17420517.jpg</thumbnail>
+		<title>Blaster Mission Titan</title>
+		<creator>Evasive Ashton Unicycle</creator>
+		<relatedgames />
+	</game>
+	<game id="10946479" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Alien/Lucius/Wombat/10946479.jpg</thumbnail>
+		<title>Spark Fusion Ben</title>
+		<creator>Alien Lucius Wombat</creator>
+		<relatedgames />
+	</game>
+	<game id="10924472" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dainty/Hayden/Avocado/10924472.jpg</thumbnail>
+		<title>Burst Atomic Droid</title>
+		<creator>Dainty Hayden Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="17394571" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/04/2012">
+		<thumbnail>/gamecreators/images2/Golden/Will/Pyramid/17394571.jpg</thumbnail>
+		<title>Slam Blaster Solar</title>
+		<creator>Golden Will Pyramid</creator>
+		<relatedgames />
+	</game>
+	<game id="10922330" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Babbling/Oscar/Tornado/10922330.jpg</thumbnail>
+		<title>Shadow Defense Spark</title>
+		<creator>Babbling Oscar Tornado</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10919825" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Red/Bruce/Ooze/10919825.jpg</thumbnail>
+		<title>Space Turbo Solar</title>
+		<creator>Red Bruce Ooze</creator>
+		<relatedgames />
+	</game>
+	<game id="17403542" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Crystal/Oyster/17403542.jpg</thumbnail>
+		<title>Ultra Nitro Nano</title>
+		<creator>Magnetic Crystal Oyster</creator>
+		<relatedgames />
+	</game>
+	<game id="17005196" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/07/2012">
+		<thumbnail>/gamecreators/images2/Horrid/Henry/Squish/17005196.jpg</thumbnail>
+		<title>Giga Atomic Assault</title>
+		<creator>Horrid Henry Squish</creator>
+		<relatedgames />
+	</game>
+	<game id="17257447" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>/gamecreators/images2/Positive/Jill/Orca/17257447.jpg</thumbnail>
+		<title>Breaker Racer Razor</title>
+		<creator>Positive Jill Orca</creator>
+		<relatedgames />
+	</game>
+	<game id="10026204" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Clever/Erik/Zip/10026204.jpg</thumbnail>
+		<title>Thunder Doom Defense</title>
+		<creator>Clever Erik Zip</creator>
+		<relatedgames />
+	</game>
+	<game id="16887190" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/05/2012">
+		<thumbnail>/gamecreators/images2/Tall/Drew/Dragoon/16887190.jpg</thumbnail>
+		<title>Doom Danger Light</title>
+		<creator>Tall Drew Dragoon</creator>
+		<relatedgames />
+	</game>
+	<game id="10043788" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Crafty/Brittany/Quack/10043788.jpg</thumbnail>
+		<title>Sonic Hero Patrol</title>
+		<creator>Crafty Brittany Quack</creator>
+		<relatedgames />
+	</game>
+	<game id="10024911" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Shiny/Bobby/Werewolf/10024911.jpg</thumbnail>
+		<title>Fire Iron Burst</title>
+		<creator>Shiny Bobby Werewolf</creator>
+		<relatedgames />
+	</game>
+	<game id="17422758" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>/gamecreators/images2/Proud/Nate/Foul/17422758.jpg</thumbnail>
+		<title>Cosmic Ambush Adventure</title>
+		<creator>Proud Nate Foul</creator>
+		<relatedgames />
+	</game>
+	<game id="10924783" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Cosmic/Harry/Bongo/10924783.jpg</thumbnail>
+		<title>Force Rustbucket Attack</title>
+		<creator>Cosmic Harry Bongo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

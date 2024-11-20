@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17262269" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Gigantic/Bob/Chaos/17262269.jpg</thumbnail>
+		<title>Ben Smash Vilgax</title>
+		<creator>Gigantic Bob Chaos</creator>
+		<relatedgames />
+	</game>
+	<game id="10946279" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Sincere/Diego/Obelisk/10946279.jpg</thumbnail>
+		<title>Rescue Alien Hex</title>
+		<creator>Sincere Diego Obelisk</creator>
+		<relatedgames />
+	</game>
+	<game id="17417580" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Queen/Alyssa/Javelin/17417580.jpg</thumbnail>
+		<title>Search Techno Animo</title>
+		<creator>Queen Alyssa Javelin</creator>
+		<relatedgames />
+	</game>
+	<game id="16960561" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/22/2012">
+		<thumbnail>/gamecreators/images2/Hardy/Rosetta/Rhyme/16960561.jpg</thumbnail>
+		<title>Ben Laser Attack</title>
+		<creator>Hardy Rosetta Rhyme</creator>
+		<relatedgames />
+	</game>
+	<game id="10038814" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Odd/Spike/Thud/10038814.jpg</thumbnail>
+		<title>Fusion Vilgax Techno</title>
+		<creator>Odd Spike Thud</creator>
+		<relatedgames />
+	</game>
+	<game id="10926636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Sporty/Daniel/Iceberg/10926636.jpg</thumbnail>
+		<title>Animo Rocket Search</title>
+		<creator>Sporty Daniel Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="17421965" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>/gamecreators/images2/Luminous/Mark/Narwhal/17421965.jpg</thumbnail>
+		<title>Metal Streak Shadow</title>
+		<creator>Luminous Mark Narwhal</creator>
+		<relatedgames />
+	</game>
+	<game id="16977448" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Western/Cameron/Jigsaw/16977448.jpg</thumbnail>
+		<title>Assault Humongousaur Laser</title>
+		<creator>Western Cameron Jigsaw</creator>
+		<relatedgames />
+	</game>
+	<game id="16988735" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/02/2012">
+		<thumbnail>/gamecreators/images2/Captain/Gwen/Viking/16988735.jpg</thumbnail>
+		<title>Escape Atomic Burst</title>
+		<creator>Captain Gwen Viking</creator>
+		<relatedgames />
+	</game>
+	<game id="10931774" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Stylish/Alan/Cosmos/10931774.jpg</thumbnail>
+		<title>Alien Universe Racer</title>
+		<creator>Stylish Alan Cosmos</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

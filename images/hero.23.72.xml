@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17177939" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>/gamecreators/images2/Agile/Miguel/Bingo/17177939.jpg</thumbnail>
+		<title>Nova Patrol Mission</title>
+		<creator>Agile Miguel Bingo</creator>
+		<relatedgames />
+	</game>
+	<game id="17400821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>/gamecreators/images2/Venomous/Buster/Tarragon/17400821.jpg</thumbnail>
+		<title>Giga Techno Big</title>
+		<creator>Venomous Buster Tarragon</creator>
+		<relatedgames />
+	</game>
+	<game id="10916890" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Dashing/Billy/Glacier/10916890.jpg</thumbnail>
+		<title>Quake Robot Pursuit</title>
+		<creator>Dashing Billy Glacier</creator>
+		<relatedgames />
+	</game>
+	<game id="16948692" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>/gamecreators/images2/Fiery/Alyssa/Blammo/16948692.jpg</thumbnail>
+		<title>Rush Breaker Storm</title>
+		<creator>Fiery Alyssa Blammo</creator>
+		<relatedgames />
+	</game>
+	<game id="17389503" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Lanky/Flint/Gorgon/17389503.jpg</thumbnail>
+		<title>Stone Nova Star</title>
+		<creator>Lanky Flint Gorgon</creator>
+		<relatedgames />
+	</game>
+	<game id="10649584" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Red/Rudolph/Spider/10649584.jpg</thumbnail>
+		<title>Pursuit Alien Attack</title>
+		<creator>Red Rudolph Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="10927920" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Valiant/Tom/Paradox/10927920.jpg</thumbnail>
+		<title>Light Assault Danger</title>
+		<creator>Valiant Tom Paradox</creator>
+		<relatedgames />
+	</game>
+	<game id="17107636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/09/2012">
+		<thumbnail>/gamecreators/images2/Ancient/Sean/Pizza/17107636.jpg</thumbnail>
+		<title>Metal Doom Escape</title>
+		<creator>Ancient Sean Pizza</creator>
+		<relatedgames />
+	</game>
+	<game id="10918078" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Daring/Will/Safari/10918078.jpg</thumbnail>
+		<title>Solar Dark Fire</title>
+		<creator>Daring Will Safari</creator>
+		<relatedgames />
+	</game>
+	<game id="10952349" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Weird/Greg/Kangaroo/10952349.jpg</thumbnail>
+		<title>Earth Turbo Invasion</title>
+		<creator>Weird Greg Kangaroo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

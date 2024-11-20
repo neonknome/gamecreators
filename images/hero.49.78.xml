@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10953238" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Alien/Bob/Virtuoso/10953238.jpg</thumbnail>
+		<title>Assault Siege Fury</title>
+		<creator>Alien Bob Virtuoso</creator>
+		<relatedgames />
+	</game>
+	<game id="17303802" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Cunning/Ian/Burst/17303802.jpg</thumbnail>
+		<title>Storm Assault Iron</title>
+		<creator>Cunning Ian Burst</creator>
+		<relatedgames />
+	</game>
+	<game id="10039390" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Glorious/Gulliver/Gorilla/10039390.jpg</thumbnail>
+		<title>Solar Storm Hero</title>
+		<creator>Glorious Gulliver Gorilla</creator>
+		<relatedgames />
+	</game>
+	<game id="17377709" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Quirky/Tommy/Karate/17377709.jpg</thumbnail>
+		<title>Turbo Cosmic Solar</title>
+		<creator>Quirky Tommy Karate</creator>
+		<relatedgames />
+	</game>
+	<game id="10927817" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Grimy/Blake/Tornado/10927817.jpg</thumbnail>
+		<title>Patrol Energy Magno</title>
+		<creator>Grimy Blake Tornado</creator>
+		<relatedgames />
+	</game>
+	<game id="10055917" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Southern/Rex/Chipmunk/10055917.jpg</thumbnail>
+		<title>Assault Hex Thunder</title>
+		<creator>Southern Rex Chipmunk</creator>
+		<relatedgames />
+	</game>
+	<game id="17259173" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>/gamecreators/images2/Regular/Alexis/Crash/17259173.jpg</thumbnail>
+		<title>Alien Slam Thunder</title>
+		<creator>Regular Alexis Crash</creator>
+		<relatedgames />
+	</game>
+	<game id="17407097" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>/gamecreators/images2/Extreme/Meghan/Dragoon/17407097.jpg</thumbnail>
+		<title>Rampage Thunder Doom</title>
+		<creator>Extreme Meghan Dragoon</creator>
+		<relatedgames />
+	</game>
+	<game id="17576666" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Prince/Summer/Spider/17576666.jpg</thumbnail>
+		<title>Challenge Star Fury</title>
+		<creator>Prince Summer Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="17069768" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/29/2012">
+		<thumbnail>/gamecreators/images2/Superb/Bart/Zigzag/17069768.jpg</thumbnail>
+		<title>Adventure Swampfire Assault</title>
+		<creator>Superb Bart Zigzag</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10068663" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Alien/Isaiah/Thud/10068663.jpg</thumbnail>
+		<title>Alien Adventure Ambush</title>
+		<creator>Alien Isaiah Thud</creator>
+		<relatedgames />
+	</game>
+	<game id="10933395" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Robotic/Mandy/Kudzu/10933395.jpg</thumbnail>
+		<title>Ambush Patrol Nova</title>
+		<creator>Robotic Mandy Kudzu</creator>
+		<relatedgames />
+	</game>
+	<game id="10055886" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Visible/Ben/Yodel/10055886.jpg</thumbnail>
+		<title>Universe Metal Steel</title>
+		<creator>Visible Ben Yodel</creator>
+		<relatedgames />
+	</game>
+	<game id="10040051" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Fanciful/Pedro/Magma/10040051.jpg</thumbnail>
+		<title>Solar Invasion Ultimate</title>
+		<creator>Fanciful Pedro Magma</creator>
+		<relatedgames />
+	</game>
+	<game id="10924555" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Artistic/Jose/Blob/10924555.jpg</thumbnail>
+		<title>Swampfire Beast Spike</title>
+		<creator>Artistic Jose Blob</creator>
+		<relatedgames />
+	</game>
+	<game id="10925264" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dazzling/Mike/Blubber/10925264.jpg</thumbnail>
+		<title>Fire Ben Nitro</title>
+		<creator>Dazzling Mike Blubber</creator>
+		<relatedgames />
+	</game>
+	<game id="17338241" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Groovy/Dylan/Bongo/17338241.jpg</thumbnail>
+		<title>Universe Charge Thunder</title>
+		<creator>Groovy Dylan Bongo</creator>
+		<relatedgames />
+	</game>
+	<game id="10793389" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2009">
+		<thumbnail>/gamecreators/images2/Fizzy/Irwin/Mustang/10793389.jpg</thumbnail>
+		<title>Blaster Adventure Dark</title>
+		<creator>Fizzy Irwin Mustang</creator>
+		<relatedgames />
+	</game>
+	<game id="16907817" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/09/2012">
+		<thumbnail>/gamecreators/images2/Restless/Oscar/Mumbles/16907817.jpg</thumbnail>
+		<title>Razor Alien Iron</title>
+		<creator>Restless Oscar Mumbles</creator>
+		<relatedgames />
+	</game>
+	<game id="17404295" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Squishy/Johnny/Toenail/17404295.jpg</thumbnail>
+		<title>Robot Laser Adventure</title>
+		<creator>Squishy Johnny Toenail</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

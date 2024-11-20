@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10932051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Funny/Sam/Bramble/10932051.jpg</thumbnail>
+		<title>Razor Fire Titan</title>
+		<creator>Funny Sam Bramble</creator>
+		<relatedgames />
+	</game>
+	<game id="17423217" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>/gamecreators/images2/Major/Kelly/Beeswax/17423217.jpg</thumbnail>
+		<title>Rumble Streak Ben</title>
+		<creator>Major Kelly Beeswax</creator>
+		<relatedgames />
+	</game>
+	<game id="10930527" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Shaggy/Hunter/Behemoth/10930527.jpg</thumbnail>
+		<title>Pursuit Turbo Swampfire</title>
+		<creator>Shaggy Hunter Behemoth</creator>
+		<relatedgames />
+	</game>
+	<game id="10935019" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wondrous/Connor/Troll/10935019.jpg</thumbnail>
+		<title>Laser Fire Titan</title>
+		<creator>Wondrous Connor Troll</creator>
+		<relatedgames />
+	</game>
+	<game id="17503975" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>/gamecreators/images2/Prolific/Cole/Sprout/17503975.jpg</thumbnail>
+		<title>Rocket Breaker Galaxy</title>
+		<creator>Prolific Cole Sprout</creator>
+		<relatedgames />
+	</game>
+	<game id="10950902" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Awful/Dylan/Sprinkle/10950902.jpg</thumbnail>
+		<title>Hyper Thunder Assault</title>
+		<creator>Awful Dylan Sprinkle</creator>
+		<relatedgames />
+	</game>
+	<game id="10942215" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Dynamic/Ronald/Cyborg/10942215.jpg</thumbnail>
+		<title>Laser Smash Light</title>
+		<creator>Dynamic Ronald Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="10936424" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Nomadic/Zeb/Gong/10936424.jpg</thumbnail>
+		<title>Alien Invasion Warrior</title>
+		<creator>Nomadic Zeb Gong</creator>
+		<relatedgames />
+	</game>
+	<game id="17177939" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>/gamecreators/images2/Agile/Miguel/Bingo/17177939.jpg</thumbnail>
+		<title>Nova Patrol Mission</title>
+		<creator>Agile Miguel Bingo</creator>
+		<relatedgames />
+	</game>
+	<game id="17400821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>/gamecreators/images2/Venomous/Buster/Tarragon/17400821.jpg</thumbnail>
+		<title>Giga Techno Big</title>
+		<creator>Venomous Buster Tarragon</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10925610" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Reckless/Hank/Stampede/10925610.jpg</thumbnail>
+		<title>Alien Warrior Adventure</title>
+		<creator>Reckless Hank Stampede</creator>
+		<relatedgames />
+	</game>
+	<game id="17574176" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Evil/Brandon/Rhombus/17574176.jpg</thumbnail>
+		<title>Rocket Search Siege</title>
+		<creator>Evil Brandon Rhombus</creator>
+		<relatedgames />
+	</game>
+	<game id="17584644" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Plucky/Romeo/Aviator/17584644.jpg</thumbnail>
+		<title>Big Chill Power</title>
+		<creator>Plucky Romeo Aviator</creator>
+		<relatedgames />
+	</game>
+	<game id="17389018" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Stunning/Sid/Hambone/17389018.jpg</thumbnail>
+		<title>Adventure Rescue Slam</title>
+		<creator>Stunning Sid Hambone</creator>
+		<relatedgames />
+	</game>
+	<game id="10925587" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Massive/Kristin/Pulse/10925587.jpg</thumbnail>
+		<title>Champion Challenge Magno</title>
+		<creator>Massive Kristin Pulse</creator>
+		<relatedgames />
+	</game>
+	<game id="17314558" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>/gamecreators/images2/Yelping/Albert/Anvil/17314558.jpg</thumbnail>
+		<title>Slam Patrol Slam</title>
+		<creator>Yelping Albert Anvil</creator>
+		<relatedgames />
+	</game>
+	<game id="10948852" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Chilly/Zoe/Wizard/10948852.jpg</thumbnail>
+		<title>Warrior Warrior Warrior</title>
+		<creator>Chilly Zoe Wizard</creator>
+		<relatedgames />
+	</game>
+	<game id="10925875" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Swift/Shelby/Ninja/10925875.jpg</thumbnail>
+		<title>Mega Attack Swampfire</title>
+		<creator>Swift Shelby Ninja</creator>
+		<relatedgames />
+	</game>
+	<game id="17277858" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Baffling/Michelle/Shinobi/17277858.jpg</thumbnail>
+		<title>Mega Water Nitro</title>
+		<creator>Baffling Michelle Shinobi</creator>
+		<relatedgames />
+	</game>
+	<game id="10064904" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Cosmic/Goliath/Oddball/10064904.jpg</thumbnail>
+		<title>Adventure Mission Sonic</title>
+		<creator>Cosmic Goliath Oddball</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

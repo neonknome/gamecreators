@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17331560" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Giggling/Lydia/Rhythm/17331560.jpg</thumbnail>
+		<title>Ultimate Echo Assault</title>
+		<creator>Giggling Lydia Rhythm</creator>
+		<relatedgames />
+	</game>
+	<game id="10936316" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Sincere/Victor/Boing/10936316.jpg</thumbnail>
+		<title>Ambush Iron Lightning</title>
+		<creator>Sincere Victor Boing</creator>
+		<relatedgames />
+	</game>
+	<game id="17312994" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>/gamecreators/images2/Queen/Rich/Sunshine/17312994.jpg</thumbnail>
+		<title>Doom Gear Warrior</title>
+		<creator>Queen Rich Sunshine</creator>
+		<relatedgames />
+	</game>
+	<game id="17277603" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Eloquent/Parker/Quarry/17277603.jpg</thumbnail>
+		<title>Echo Champion Pulse</title>
+		<creator>Eloquent Parker Quarry</creator>
+		<relatedgames />
+	</game>
+	<game id="10953074" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Gigantic/Felix/Shark/10953074.jpg</thumbnail>
+		<title>Nitro Plasma Light</title>
+		<creator>Gigantic Felix Shark</creator>
+		<relatedgames />
+	</game>
+	<game id="17581794" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Musical/Bella/Gizzard/17581794.jpg</thumbnail>
+		<title>Doom Target Patrol</title>
+		<creator>Musical Bella Gizzard</creator>
+		<relatedgames />
+	</game>
+	<game id="10780319" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2009">
+		<thumbnail>/gamecreators/images2/Wild/Richard/Pontoon/10780319.jpg</thumbnail>
+		<title>Galaxy Solar Ambush</title>
+		<creator>Wild Richard Pontoon</creator>
+		<relatedgames />
+	</game>
+	<game id="17252700" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/22/2012">
+		<thumbnail>/gamecreators/images2/Cartoony/Carl/Zebra/17252700.jpg</thumbnail>
+		<title>Search Rustbucket Atomic</title>
+		<creator>Cartoony Carl Zebra</creator>
+		<relatedgames />
+	</game>
+	<game id="17302719" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Fiery/Jose/Walrus/17302719.jpg</thumbnail>
+		<title>Rocket Siege Nitro</title>
+		<creator>Fiery Jose Walrus</creator>
+		<relatedgames />
+	</game>
+	<game id="10924230" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Orange/Caleb/Thunder/10924230.jpg</thumbnail>
+		<title>Magno Pulse Rampage</title>
+		<creator>Orange Caleb Thunder</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

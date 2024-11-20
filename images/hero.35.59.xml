@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10936061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Howling/Faith/Tusk/10936061.jpg</thumbnail>
+		<title>Power Adventure Solar</title>
+		<creator>Howling Faith Tusk</creator>
+		<relatedgames />
+	</game>
+	<game id="10933360" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Pretty/Clyde/Minotaur/10933360.jpg</thumbnail>
+		<title>Charge Slam Spike</title>
+		<creator>Pretty Clyde Minotaur</creator>
+		<relatedgames />
+	</game>
+	<game id="17237653" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/18/2012">
+		<thumbnail>/gamecreators/images2/Sunny/Lloyd/Fox/17237653.jpg</thumbnail>
+		<title>Adventure Fire Streak</title>
+		<creator>Sunny Lloyd Fox</creator>
+		<relatedgames />
+	</game>
+	<game id="10923111" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Colorful/Cody/Crash/10923111.jpg</thumbnail>
+		<title>Shock Light Light</title>
+		<creator>Colorful Cody Crash</creator>
+		<relatedgames />
+	</game>
+	<game id="17419559" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Friendly/Felix/Dodo/17419559.jpg</thumbnail>
+		<title>Stone Hero Laser</title>
+		<creator>Friendly Felix Dodo</creator>
+		<relatedgames />
+	</game>
+	<game id="17350059" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>/gamecreators/images2/Positive/Bridget/17350059.jpg</thumbnail>
+		<title>Target Blaster Star</title>
+		<creator>Positive Bridget</creator>
+		<relatedgames />
+	</game>
+	<game id="10058578" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Shiny/Rex/Avocado/10058578.jpg</thumbnail>
+		<title>Energy Drone Dark</title>
+		<creator>Shiny Rex Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="10916905" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Purple/Penny/Citrus/10916905.jpg</thumbnail>
+		<title>Hero Rumble Assault</title>
+		<creator>Purple Penny Citrus</creator>
+		<relatedgames />
+	</game>
+	<game id="17220310" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Edgy/Sid/Clang/17220310.jpg</thumbnail>
+		<title>Ultra Giga Search</title>
+		<creator>Edgy Sid Clang</creator>
+		<relatedgames />
+	</game>
+	<game id="10922878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Crafty/Ben/Varmint/10922878.jpg</thumbnail>
+		<title>Storm Patrol Galaxy</title>
+		<creator>Crafty Ben Varmint</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

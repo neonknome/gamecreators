@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17373112" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>/gamecreators/images2/Shiny/Roy/Insect/17373112.jpg</thumbnail>
+		<title>Cannonbolt Vilgax Adventure</title>
+		<creator>Shiny Roy Insect</creator>
+		<relatedgames />
+	</game>
+	<game id="10922465" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Zany/Hunter/Plankton/10922465.jpg</thumbnail>
+		<title>Iron Warrior Metal</title>
+		<creator>Zany Hunter Plankton</creator>
+		<relatedgames />
+	</game>
+	<game id="17414376" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/14/2012">
+		<thumbnail>/gamecreators/images2/Barbaric/Brian/Cookie/17414376.jpg</thumbnail>
+		<title>Spidermonkey Rumble Rush</title>
+		<creator>Barbaric Brian Cookie</creator>
+		<relatedgames />
+	</game>
+	<game id="10039310" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Absurd/Leonardo/Ladybug/10039310.jpg</thumbnail>
+		<title>Rescue Mission Assault</title>
+		<creator>Absurd Leonardo Ladybug</creator>
+		<relatedgames />
+	</game>
+	<game id="10925587" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Massive/Kristin/Pulse/10925587.jpg</thumbnail>
+		<title>Champion Challenge Magno</title>
+		<creator>Massive Kristin Pulse</creator>
+		<relatedgames />
+	</game>
+	<game id="10952658" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Visible/Zachary/Scribble/10952658.jpg</thumbnail>
+		<title>Hex Assault Drone</title>
+		<creator>Visible Zachary Scribble</creator>
+		<relatedgames />
+	</game>
+	<game id="17310250" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>/gamecreators/images2/Defiant/Mario/Blob/17310250.jpg</thumbnail>
+		<title>Chase Thunder Droid</title>
+		<creator>Defiant Mario Blob</creator>
+		<relatedgames />
+	</game>
+	<game id="10919184" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Fizzy/Laura/Tugboat/10919184.jpg</thumbnail>
+		<title>Siege Atomic Rush</title>
+		<creator>Fizzy Laura Tugboat</creator>
+		<relatedgames />
+	</game>
+	<game id="17218382" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>/gamecreators/images2/Roaring/Zelda/Monster/17218382.jpg</thumbnail>
+		<title>Hyper Galaxy Clash</title>
+		<creator>Roaring Zelda Monster</creator>
+		<relatedgames />
+	</game>
+	<game id="10953320" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Artistic/Alan/Stampede/10953320.jpg</thumbnail>
+		<title>Fire Drone Ambush</title>
+		<creator>Artistic Alan Stampede</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

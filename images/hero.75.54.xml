@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17019676" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>/gamecreators/images2/Galactic/Luis/Twilight/17019676.jpg</thumbnail>
+		<title>Nano Space Ambush</title>
+		<creator>Galactic Luis Twilight</creator>
+		<relatedgames />
+	</game>
+	<game id="10919311" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Proper/Wilbur/Nacho/10919311.jpg</thumbnail>
+		<title>Plumber Plumber Plumber</title>
+		<creator>Proper Wilbur Nacho</creator>
+		<relatedgames />
+	</game>
+	<game id="17177519" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>/gamecreators/images2/Singular/Egbert/Eel/17177519.jpg</thumbnail>
+		<title>Alien Adventure Adventure</title>
+		<creator>Singular Egbert Eel</creator>
+		<relatedgames />
+	</game>
+	<game id="17316554" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Queen/Rich/Sunshine/17316554.jpg</thumbnail>
+		<title>Rustbucket Techno Robot</title>
+		<creator>Queen Rich Sunshine</creator>
+		<relatedgames />
+	</game>
+	<game id="17380930" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>/gamecreators/images2/Emperor/Alex/Sunrise/17380930.jpg</thumbnail>
+		<title>Fusion Big Adventure</title>
+		<creator>Emperor Alex Sunrise</creator>
+		<relatedgames />
+	</game>
+	<game id="17382087" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Creepy/Richard/Oink/17382087.jpg</thumbnail>
+		<title>Fusion Rescue Drone</title>
+		<creator>Creepy Richard Oink</creator>
+		<relatedgames />
+	</game>
+	<game id="10937465" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Gigantic/Natalie/Marigold/10937465.jpg</thumbnail>
+		<title>Alien Assault Hero</title>
+		<creator>Gigantic Natalie Marigold</creator>
+		<relatedgames />
+	</game>
+	<game id="10056062" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Colorful/Aidan/Avocado/10056062.jpg</thumbnail>
+		<title>Atomic Magno Spark</title>
+		<creator>Colorful Aidan Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="17383792" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Magical/Otis/Vitamin/17383792.jpg</thumbnail>
+		<title>Vilgax Alien Universe</title>
+		<creator>Magical Otis Vitamin</creator>
+		<relatedgames />
+	</game>
+	<game id="17540929" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Horrid/Eugene/Haystack/17540929.jpg</thumbnail>
+		<title>Echo Battle Force</title>
+		<creator>Horrid Eugene Haystack</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

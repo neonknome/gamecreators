@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10055801" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Lanky/Ted/Phantom/10055801.jpg</thumbnail>
+		<title>Galaxy Shadow Rush</title>
+		<creator>Lanky Ted Phantom</creator>
+		<relatedgames />
+	</game>
+	<game id="17218349" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>/gamecreators/images2/Odd/Jeremy/Knight/17218349.jpg</thumbnail>
+		<title>Light Atomic Vilgax</title>
+		<creator>Odd Jeremy Knight</creator>
+		<relatedgames />
+	</game>
+	<game id="17388599" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Luminous/Brooke/Shogun/17388599.jpg</thumbnail>
+		<title>Ultimate Steel Warrior</title>
+		<creator>Luminous Brooke Shogun</creator>
+		<relatedgames />
+	</game>
+	<game id="17535805" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>/gamecreators/images2/Ruthless/Dustin/Gulch/17535805.jpg</thumbnail>
+		<title>Gear Adventure Spidermonkey</title>
+		<creator>Ruthless Dustin Gulch</creator>
+		<relatedgames />
+	</game>
+	<game id="10922341" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Weird/Vinny/Spider/10922341.jpg</thumbnail>
+		<title>Atomic Champion Hero</title>
+		<creator>Weird Vinny Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="10924453" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dramatic/Luke/Charger/10924453.jpg</thumbnail>
+		<title>Invasion Mission Nova</title>
+		<creator>Dramatic Luke Charger</creator>
+		<relatedgames />
+	</game>
+	<game id="10916921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Chilly/Zeus/Daffodil/10916921.jpg</thumbnail>
+		<title>Crusher Plumber Force</title>
+		<creator>Chilly Zeus Daffodil</creator>
+		<relatedgames />
+	</game>
+	<game id="10952867" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Frantic/Chester/Walrus/10952867.jpg</thumbnail>
+		<title>Search Nova Champion</title>
+		<creator>Frantic Chester Walrus</creator>
+		<relatedgames />
+	</game>
+	<game id="17219398" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>/gamecreators/images2/Lucky/Dennis/Penguin/17219398.jpg</thumbnail>
+		<title>Power Cosmic Lightning</title>
+		<creator>Lucky Dennis Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="10925625" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Royal/Miguel/Sprout/10925625.jpg</thumbnail>
+		<title>Fusion Nova Pursuit</title>
+		<creator>Royal Miguel Sprout</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

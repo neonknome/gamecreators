@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10647306" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Orange/Vanessa/Unicycle/10647306.jpg</thumbnail>
+		<title>Clash Rumble Adventure</title>
+		<creator>Orange Vanessa Unicycle</creator>
+		<relatedgames />
+	</game>
+	<game id="16975666" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Steady/Hannah/Brute/16975666.jpg</thumbnail>
+		<title>Ambush Battle Search</title>
+		<creator>Steady Hannah Brute</creator>
+		<relatedgames />
+	</game>
+	<game id="10943881" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Dazzling/Grover/Fireball/10943881.jpg</thumbnail>
+		<title>Crusher Shock Ben</title>
+		<creator>Dazzling Grover Fireball</creator>
+		<relatedgames />
+	</game>
+	<game id="16977304" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Wily/Sadie/Skeleton/16977304.jpg</thumbnail>
+		<title>Invasion Alien Rush</title>
+		<creator>Wily Sadie Skeleton</creator>
+		<relatedgames />
+	</game>
+	<game id="10054675" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Chaotic/Lily/Safari/10054675.jpg</thumbnail>
+		<title>Ultimate Fusion Assault</title>
+		<creator>Chaotic Lily Safari</creator>
+		<relatedgames />
+	</game>
+	<game id="10925590" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fizzy/Dominic/Splat/10925590.jpg</thumbnail>
+		<title>Hero Battle Spark</title>
+		<creator>Fizzy Dominic Splat</creator>
+		<relatedgames />
+	</game>
+	<game id="10951833" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Loony/Hunter/Penguin/10951833.jpg</thumbnail>
+		<title>Atomic Adventure Galaxy</title>
+		<creator>Loony Hunter Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="10704476" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Orange/Greg/Basilisk/10704476.jpg</thumbnail>
+		<title>Ultimate Warrior Battle</title>
+		<creator>Orange Greg Basilisk</creator>
+		<relatedgames />
+	</game>
+	<game id="17281337" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Dominic/Hologram/17281337.jpg</thumbnail>
+		<title>Pursuit Power Battle</title>
+		<creator>Magnetic Dominic Hologram</creator>
+		<relatedgames />
+	</game>
+	<game id="10935717" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wild/Mike/Squawk/10935717.jpg</thumbnail>
+		<title>Rush Fire Thunder</title>
+		<creator>Wild Mike Squawk</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

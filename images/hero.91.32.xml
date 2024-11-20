@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10929180" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wise/Brooke/Vector/10929180.jpg</thumbnail>
+		<title>Titan Streak Rustbucket</title>
+		<creator>Wise Brooke Vector</creator>
+		<relatedgames />
+	</game>
+	<game id="10923277" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Pretty/Valerie/Buzzard/10923277.jpg</thumbnail>
+		<title>Ultra Nova Hero</title>
+		<creator>Pretty Valerie Buzzard</creator>
+		<relatedgames />
+	</game>
+	<game id="10952583" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Awesome/Craig/Orchid/10952583.jpg</thumbnail>
+		<title>Sonic Adventure Vilgax</title>
+		<creator>Awesome Craig Orchid</creator>
+		<relatedgames />
+	</game>
+	<game id="17389615" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Duke/Ariel/Cookie/17389615.jpg</thumbnail>
+		<title>Alien Techno Turbo</title>
+		<creator>Duke Ariel Cookie</creator>
+		<relatedgames />
+	</game>
+	<game id="10918154" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Frosty/Ramona/Sphinx/10918154.jpg</thumbnail>
+		<title>Ambush Breaker Fury</title>
+		<creator>Frosty Ramona Sphinx</creator>
+		<relatedgames />
+	</game>
+	<game id="17346658" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2012">
+		<thumbnail>/gamecreators/images2/Electric/Bailey/Beast/17346658.jpg</thumbnail>
+		<title>Champion Stone Slam</title>
+		<creator>Electric Bailey Beast</creator>
+		<relatedgames />
+	</game>
+	<game id="10952189" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Shrewd/Corey/Stampede/10952189.jpg</thumbnail>
+		<title>Cosmic Robot Hero</title>
+		<creator>Shrewd Corey Stampede</creator>
+		<relatedgames />
+	</game>
+	<game id="10929155" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Zany/Isabel/Blade/10929155.jpg</thumbnail>
+		<title>Mega Swampfire Rampage</title>
+		<creator>Zany Isabel Blade</creator>
+		<relatedgames />
+	</game>
+	<game id="16982800" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>/gamecreators/images2/Barbaric/Duke/Funk/16982800.jpg</thumbnail>
+		<title>Pulse Rampage Adventure</title>
+		<creator>Barbaric Duke Funk</creator>
+		<relatedgames />
+	</game>
+	<game id="10953072" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Eerie/Elijah/Turtle/10953072.jpg</thumbnail>
+		<title>Search Force Fire</title>
+		<creator>Eerie Elijah Turtle</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

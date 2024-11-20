@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17569422" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Hyper/Lucius/Ketchup/17569422.jpg</thumbnail>
+		<title>Burst Rustbucket Galaxy</title>
+		<creator>Hyper Lucius Ketchup</creator>
+		<relatedgames />
+	</game>
+	<game id="10916923" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Gloomy/Heidi/Charger/10916923.jpg</thumbnail>
+		<title>Adventure Atomic Spike</title>
+		<creator>Gloomy Heidi Charger</creator>
+		<relatedgames />
+	</game>
+	<game id="17135325" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/18/2012">
+		<thumbnail>/gamecreators/images2/Nautical/Diego/Bonanza/17135325.jpg</thumbnail>
+		<title>Rampage Hyper Adventure</title>
+		<creator>Nautical Diego Bonanza</creator>
+		<relatedgames />
+	</game>
+	<game id="10916779" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Skinny/Jacob/Bullfrog/10916779.jpg</thumbnail>
+		<title>Titan Doom Nova</title>
+		<creator>Skinny Jacob Bullfrog</creator>
+		<relatedgames />
+	</game>
+	<game id="10952785" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Absurd/Carol/Mustang/10952785.jpg</thumbnail>
+		<title>Power Blaster Universe</title>
+		<creator>Absurd Carol Mustang</creator>
+		<relatedgames />
+	</game>
+	<game id="10937329" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Blue/Dustin/Aurora/10937329.jpg</thumbnail>
+		<title>Laser Warrior Racer</title>
+		<creator>Blue Dustin Aurora</creator>
+		<relatedgames />
+	</game>
+	<game id="17357314" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>/gamecreators/images2/Emperor/Liam/Ghoul/17357314.jpg</thumbnail>
+		<title>Alien Challenge Earth</title>
+		<creator>Emperor Liam Ghoul</creator>
+		<relatedgames />
+	</game>
+	<game id="17258009" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>/gamecreators/images2/Mystic/Ed/Acorn/17258009.jpg</thumbnail>
+		<title>Ultra Mission Nova</title>
+		<creator>Mystic Ed Acorn</creator>
+		<relatedgames />
+	</game>
+	<game id="17411125" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/13/2012">
+		<thumbnail>/gamecreators/images2/Extreme/Chuck/Pirate/17411125.jpg</thumbnail>
+		<title>Whirlwind Chase Big</title>
+		<creator>Extreme Chuck Pirate</creator>
+		<relatedgames />
+	</game>
+	<game id="17337249" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Ironic/Ghoul/17337249.jpg</thumbnail>
+		<title>Ultimate Cannonbolt Assault</title>
+		<creator>Ironic Ghoul</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

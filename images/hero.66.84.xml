@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10055491" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Frugal/Grover/Gorilla/10055491.jpg</thumbnail>
+		<title>Atomic Giga Robot</title>
+		<creator>Frugal Grover Gorilla</creator>
+		<relatedgames />
+	</game>
+	<game id="17389200" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Scruffy/Drake/Enigma/17389200.jpg</thumbnail>
+		<title>Sonic Adventure Adventure</title>
+		<creator>Scruffy Drake Enigma</creator>
+		<relatedgames />
+	</game>
+	<game id="17397946" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/06/2012">
+		<thumbnail>/gamecreators/images2/Ironclad/Gigi/Rhyme/17397946.jpg</thumbnail>
+		<title>Fusion Big Sonic</title>
+		<creator>Ironclad Gigi Rhyme</creator>
+		<relatedgames />
+	</game>
+	<game id="10046147" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Noble/Rapunzel/Banjo/10046147.jpg</thumbnail>
+		<title>Alien Ambush Pursuit</title>
+		<creator>Noble Rapunzel Banjo</creator>
+		<relatedgames />
+	</game>
+	<game id="17342035" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/15/2012">
+		<thumbnail>/gamecreators/images2/Keen/Ludwig/Quasar/17342035.jpg</thumbnail>
+		<title>Iron Slam Attack</title>
+		<creator>Keen Ludwig Quasar</creator>
+		<relatedgames />
+	</game>
+	<game id="10952666" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Red/David/Unicycle/10952666.jpg</thumbnail>
+		<title>Adventure Adventure Atomic</title>
+		<creator>Red David Unicycle</creator>
+		<relatedgames />
+	</game>
+	<game id="10919034" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Unusual/Leon/Spiral/10919034.jpg</thumbnail>
+		<title>Magno Titan Defense</title>
+		<creator>Unusual Leon Spiral</creator>
+		<relatedgames />
+	</game>
+	<game id="10032500" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Daring/Ivy/Zing/10032500.jpg</thumbnail>
+		<title>Hyper Light Invasion</title>
+		<creator>Daring Ivy Zing</creator>
+		<relatedgames />
+	</game>
+	<game id="17568876" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Cackling/Beth/Ladybug/17568876.jpg</thumbnail>
+		<title>Escape Hex Galaxy</title>
+		<creator>Cackling Beth Ladybug</creator>
+		<relatedgames />
+	</game>
+	<game id="10038215" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Reckless/Jeremiah/Doodle/10038215.jpg</thumbnail>
+		<title>Cosmic Fire Adventure</title>
+		<creator>Reckless Jeremiah Doodle</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

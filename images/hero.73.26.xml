@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10933419" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wild/Mike/Squawk/10933419.jpg</thumbnail>
+		<title>Magno Mission Rescue</title>
+		<creator>Wild Mike Squawk</creator>
+		<relatedgames />
+	</game>
+	<game id="17011900" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>/gamecreators/images2/Expert/Hailey/Knight/17011900.jpg</thumbnail>
+		<title>Plumber Stone Pulse</title>
+		<creator>Expert Hailey Knight</creator>
+		<relatedgames />
+	</game>
+	<game id="10930555" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Daring/Drew/Jalapeno/10930555.jpg</thumbnail>
+		<title>Escape Alien Ambush</title>
+		<creator>Daring Drew Jalapeno</creator>
+		<relatedgames />
+	</game>
+	<game id="10946927" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Grand/Mariah/Flipper/10946927.jpg</thumbnail>
+		<title>Atomic Assault Mission</title>
+		<creator>Grand Mariah Flipper</creator>
+		<relatedgames />
+	</game>
+	<game id="17420645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Smart/Marco/Aardvark/17420645.jpg</thumbnail>
+		<title>Warrior Rumble Fury</title>
+		<creator>Smart Marco Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="17362230" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2012">
+		<thumbnail>/gamecreators/images2/Reckless/Igor/Cupcake/17362230.jpg</thumbnail>
+		<title>Space Metal Assault</title>
+		<creator>Reckless Igor Cupcake</creator>
+		<relatedgames />
+	</game>
+	<game id="10015515" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Alien/Nathan/Parallax/10015515.jpg</thumbnail>
+		<title>Techno Laser Invasion</title>
+		<creator>Alien Nathan Parallax</creator>
+		<relatedgames />
+	</game>
+	<game id="17293112" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>/gamecreators/images2/Gorgeous/Nicole/Presto/17293112.jpg</thumbnail>
+		<title>Rescue Razor Water</title>
+		<creator>Gorgeous Nicole Presto</creator>
+		<relatedgames />
+	</game>
+	<game id="10933522" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fearless/Erik/Mummy/10933522.jpg</thumbnail>
+		<title>Swampfire Ambush Rampage</title>
+		<creator>Fearless Erik Mummy</creator>
+		<relatedgames />
+	</game>
+	<game id="10704668" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Grouchy/Chase/Ketchup/10704668.jpg</thumbnail>
+		<title>Nano Mega Slam</title>
+		<creator>Grouchy Chase Ketchup</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

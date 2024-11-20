@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10935113" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Ghastly/Oliver/Orchid/10935113.jpg</thumbnail>
+		<title>Streak Cosmic Beast</title>
+		<creator>Ghastly Oliver Orchid</creator>
+		<relatedgames />
+	</game>
+	<game id="10929981" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Modest/Gretel/Bongo/10929981.jpg</thumbnail>
+		<title>Rush Cosmic Shadow</title>
+		<creator>Modest Gretel Bongo</creator>
+		<relatedgames />
+	</game>
+	<game id="17327437" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Evil/Apollo/Barnacle/17327437.jpg</thumbnail>
+		<title>Warp Rocket Burst</title>
+		<creator>Evil Apollo Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="17200966" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/08/2012">
+		<thumbnail>/gamecreators/images2/Sloppy/Ronald/Tundra/17200966.jpg</thumbnail>
+		<title>Cannonbolt Spark Metal</title>
+		<creator>Sloppy Ronald Tundra</creator>
+		<relatedgames />
+	</game>
+	<game id="17562431" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Acoustic/Angel/Nonsense/17562431.jpg</thumbnail>
+		<title>Challenge Humungousaur Smash</title>
+		<creator>Acoustic Angel Nonsense</creator>
+		<relatedgames />
+	</game>
+	<game id="17014494" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>/gamecreators/images2/Bold/Isabelle/Pizza/17014494.jpg</thumbnail>
+		<title>Pursuit Quake Warp</title>
+		<creator>Bold Isabelle Pizza</creator>
+		<relatedgames />
+	</game>
+	<game id="17311257" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>/gamecreators/images2/Epic/Igor/Minotaur/17311257.jpg</thumbnail>
+		<title>Adventure Sonic Fury</title>
+		<creator>Epic Igor Minotaur</creator>
+		<relatedgames />
+	</game>
+	<game id="17363601" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>/gamecreators/images2/Icy/Bridget/Atlas/17363601.jpg</thumbnail>
+		<title>Metal Spidermonkey Spidermonkey</title>
+		<creator>Icy Bridget Atlas</creator>
+		<relatedgames />
+	</game>
+	<game id="17574180" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Wondrous/Rigby/Samurai/17574180.jpg</thumbnail>
+		<title>Brainstorm Galaxy Fusion</title>
+		<creator>Wondrous Rigby Samurai</creator>
+		<relatedgames />
+	</game>
+	<game id="10055468" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Chilly/Hank/Quack/10055468.jpg</thumbnail>
+		<title>Assault Rampage Solar</title>
+		<creator>Chilly Hank Quack</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

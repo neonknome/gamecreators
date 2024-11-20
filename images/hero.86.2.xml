@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10063345" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Infamous/Florence/Crumpet/10063345.jpg</thumbnail>
+		<title>Adventure Razor Blaster</title>
+		<creator>Infamous Florence Crumpet</creator>
+		<relatedgames />
+	</game>
+	<game id="10942553" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Joyous/Brian/Daffodil/10942553.jpg</thumbnail>
+		<title>Adventure Universe Siege</title>
+		<creator>Joyous Brian Daffodil</creator>
+		<relatedgames />
+	</game>
+	<game id="10935790" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Reckless/Arthur/Fossil/10935790.jpg</thumbnail>
+		<title>Escape Ambush Space</title>
+		<creator>Reckless Arthur Fossil</creator>
+		<relatedgames />
+	</game>
+	<game id="17260921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Rocky/Flamingo/17260921.jpg</thumbnail>
+		<title>Spark Titan Siege</title>
+		<creator>Ultimate Rocky Flamingo</creator>
+		<relatedgames />
+	</game>
+	<game id="17325051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Cute/Rufus/Droid/17325051.jpg</thumbnail>
+		<title>Smash Power Techno</title>
+		<creator>Cute Rufus Droid</creator>
+		<relatedgames />
+	</game>
+	<game id="17370247" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>/gamecreators/images2/Radical/Ed/Chaos/17370247.jpg</thumbnail>
+		<title>Terraspin Energy Rush</title>
+		<creator>Radical Ed Chaos</creator>
+		<relatedgames />
+	</game>
+	<game id="10923821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Alien/Ed/Squawk/10923821.jpg</thumbnail>
+		<title>Swampfire Assault Vilgax</title>
+		<creator>Alien Ed Squawk</creator>
+		<relatedgames />
+	</game>
+	<game id="16907817" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/09/2012">
+		<thumbnail>/gamecreators/images2/Restless/Oscar/Mumbles/16907817.jpg</thumbnail>
+		<title>Razor Alien Iron</title>
+		<creator>Restless Oscar Mumbles</creator>
+		<relatedgames />
+	</game>
+	<game id="17085481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/03/2012">
+		<thumbnail>/gamecreators/images2/Vibrant/Gabriel/Mahogany/17085481.jpg</thumbnail>
+		<title>Nitro Mega Smash</title>
+		<creator>Vibrant Gabriel Mahogany</creator>
+		<relatedgames />
+	</game>
+	<game id="16988994" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/02/2012">
+		<thumbnail>/gamecreators/images2/Famous/Hugo/16988994.jpg</thumbnail>
+		<title>Turbo Cosmic Whirlwind</title>
+		<creator>Famous Hugo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

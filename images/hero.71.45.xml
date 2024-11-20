@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17376817" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2012">
+		<thumbnail>/gamecreators/images2/Devious/Devon/Glitch/17376817.jpg</thumbnail>
+		<title>Lightning Metal Fusion</title>
+		<creator>Devious Devon Glitch</creator>
+		<relatedgames />
+	</game>
+	<game id="17336082" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Grubby/Clyde/Glop/17336082.jpg</thumbnail>
+		<title>Big Turbo Rush</title>
+		<creator>Grubby Clyde Glop</creator>
+		<relatedgames />
+	</game>
+	<game id="17391991" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Speedy/Eli/Firefly/17391991.jpg</thumbnail>
+		<title>Nova Power Fury</title>
+		<creator>Speedy Eli Firefly</creator>
+		<relatedgames />
+	</game>
+	<game id="17015007" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>/gamecreators/images2/Proper/Vince/Volcano/17015007.jpg</thumbnail>
+		<title>Swampfire Gear Defense</title>
+		<creator>Proper Vince Volcano</creator>
+		<relatedgames />
+	</game>
+	<game id="17316341" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Queen/Rich/Sunshine/17316341.jpg</thumbnail>
+		<title>Galaxy Danger Challenge</title>
+		<creator>Queen Rich Sunshine</creator>
+		<relatedgames />
+	</game>
+	<game id="10916687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Felix/Pontoon/10916687.jpg</thumbnail>
+		<title>Alien Metal Rock</title>
+		<creator>Tricky Felix Pontoon</creator>
+		<relatedgames />
+	</game>
+	<game id="10923074" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Elusive/James/Vector/10923074.jpg</thumbnail>
+		<title>Target Adventure Dark</title>
+		<creator>Elusive James Vector</creator>
+		<relatedgames />
+	</game>
+	<game id="17574657" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Creepy/George/Sprinkle/17574657.jpg</thumbnail>
+		<title>Chill Plumber Vilgax</title>
+		<creator>Creepy George Sprinkle</creator>
+		<relatedgames />
+	</game>
+	<game id="10931323" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Gigantic/Jose/Dynamite/10931323.jpg</thumbnail>
+		<title>Fire Thunder Storm</title>
+		<creator>Gigantic Jose Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="17259079" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>/gamecreators/images2/Queen/Lawrence/Eggplant/17259079.jpg</thumbnail>
+		<title>Cosmic Iron Chill</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

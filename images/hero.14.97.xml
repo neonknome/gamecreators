@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16866191" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/31/2012">
+		<thumbnail>/gamecreators/images2/Cheesy/Jade/Wombat/16866191.jpg</thumbnail>
+		<title>Ben Cannonbolt Galaxy</title>
+		<creator>Cheesy Jade Wombat</creator>
+		<relatedgames />
+	</game>
+	<game id="16860071" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/30/2012">
+		<thumbnail>/gamecreators/images2/Flying/Nicholas/Rumble/16860071.jpg</thumbnail>
+		<title>Battle Spark Force</title>
+		<creator>Flying Nicholas Rumble</creator>
+		<relatedgames />
+	</game>
+	<game id="10045430" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Twisty/Bubba/Kazoo/10045430.jpg</thumbnail>
+		<title>Laser Dark Shadow</title>
+		<creator>Twisty Bubba Kazoo</creator>
+		<relatedgames />
+	</game>
+	<game id="10917007" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Blue/Haley/Bullfrog/10917007.jpg</thumbnail>
+		<title>Laser Turbo Fusion</title>
+		<creator>Blue Haley Bullfrog</creator>
+		<relatedgames />
+	</game>
+	<game id="17540459" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Agile/Drake/Glop/17540459.jpg</thumbnail>
+		<title>Rock Racer Force</title>
+		<creator>Agile Drake Glop</creator>
+		<relatedgames />
+	</game>
+	<game id="17569199" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Mystic/Marissa/Venus/17569199.jpg</thumbnail>
+		<title>Chase Hex Adventure</title>
+		<creator>Mystic Marissa Venus</creator>
+		<relatedgames />
+	</game>
+	<game id="17407097" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>/gamecreators/images2/Extreme/Meghan/Dragoon/17407097.jpg</thumbnail>
+		<title>Rampage Thunder Doom</title>
+		<creator>Extreme Meghan Dragoon</creator>
+		<relatedgames />
+	</game>
+	<game id="17301462" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Ironic/Isaac/Deadbolt/17301462.jpg</thumbnail>
+		<title>Thunder Ultra Alien</title>
+		<creator>Ironic Isaac Deadbolt</creator>
+		<relatedgames />
+	</game>
+	<game id="10923763" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Fred/Biscuit/10923763.jpg</thumbnail>
+		<title>Rampage Ultra Nano</title>
+		<creator>Tricky Fred Biscuit</creator>
+		<relatedgames />
+	</game>
+	<game id="10042807" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Noisy/Gretel/Gumbo/10042807.jpg</thumbnail>
+		<title>Adventure Lightning Mega</title>
+		<creator>Noisy Gretel Gumbo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

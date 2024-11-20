@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10055889" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Ghostly/Charles/Cosmos/10055889.jpg</thumbnail>
+		<title>Pulse Plumber Adventure</title>
+		<creator>Ghostly Charles Cosmos</creator>
+		<relatedgames />
+	</game>
+	<game id="10920299" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Silly/Gladys/Beeswax/10920299.jpg</thumbnail>
+		<title>Warrior Swampfire Mission</title>
+		<creator>Silly Gladys Beeswax</creator>
+		<relatedgames />
+	</game>
+	<game id="17336642" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Quaint/Freddy/Oddball/17336642.jpg</thumbnail>
+		<title>Universe Pulse Vilgax</title>
+		<creator>Quaint Freddy Oddball</creator>
+		<relatedgames />
+	</game>
+	<game id="17387003" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Baroness/Bradley/Jungle/17387003.jpg</thumbnail>
+		<title>Alien Adventure Challenge</title>
+		<creator>Baroness Bradley Jungle</creator>
+		<relatedgames />
+	</game>
+	<game id="17392924" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Elegant/Benson/Shinobi/17392924.jpg</thumbnail>
+		<title>Solar Search Warp</title>
+		<creator>Elegant Benson Shinobi</creator>
+		<relatedgames />
+	</game>
+	<game id="10843598" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2009">
+		<thumbnail>/gamecreators/images2/Ghastly/Leah/Dynamite/10843598.jpg</thumbnail>
+		<title>Storm Shock Adventure</title>
+		<creator>Ghastly Leah Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="17353868" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>/gamecreators/images2/Mirthful/Marco/Castle/17353868.jpg</thumbnail>
+		<title>Champion Adventure Ultimate</title>
+		<creator>Mirthful Marco Castle</creator>
+		<relatedgames />
+	</game>
+	<game id="16961131" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/23/2012">
+		<thumbnail>/gamecreators/images2/Epic/Thor/Noob/16961131.jpg</thumbnail>
+		<title>Nano Universe Big</title>
+		<creator>Epic Thor Noob</creator>
+		<relatedgames />
+	</game>
+	<game id="10952984" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Sloppy/Connor/Fondue/10952984.jpg</thumbnail>
+		<title>Breaker Crusher Star</title>
+		<creator>Sloppy Connor Fondue</creator>
+		<relatedgames />
+	</game>
+	<game id="17003381" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/06/2012">
+		<thumbnail>/gamecreators/images2/Academic/Mark/Rebel/17003381.jpg</thumbnail>
+		<title>Challenge Brainstorm Cosmic</title>
+		<creator>Academic Mark Rebel</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10922667" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wise/Edgar/Frost/10922667.jpg</thumbnail>
+		<title>Droid Stone Metal</title>
+		<creator>Wise Edgar Frost</creator>
+		<relatedgames />
+	</game>
+	<game id="10043219" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Fizzy/Latoya/Hologram/10043219.jpg</thumbnail>
+		<title>Razor Adventure Attack</title>
+		<creator>Fizzy Latoya Hologram</creator>
+		<relatedgames />
+	</game>
+	<game id="10916882" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Felix/Pontoon/10916882.jpg</thumbnail>
+		<title>Rumble Adventure Challenge</title>
+		<creator>Tricky Felix Pontoon</creator>
+		<relatedgames />
+	</game>
+	<game id="10923803" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Noisy/Avery/Gazelle/10923803.jpg</thumbnail>
+		<title>Space Ambush Racer</title>
+		<creator>Noisy Avery Gazelle</creator>
+		<relatedgames />
+	</game>
+	<game id="10703255" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2009">
+		<thumbnail>/gamecreators/images2/Sneaky/Mason/Manatee/10703255.jpg</thumbnail>
+		<title>Mega Adventure Droid</title>
+		<creator>Sneaky Mason Manatee</creator>
+		<relatedgames />
+	</game>
+	<game id="10928827" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Adorable/Caitlin/Flamingo/10928827.jpg</thumbnail>
+		<title>Metal Danger Light</title>
+		<creator>Adorable Caitlin Flamingo</creator>
+		<relatedgames />
+	</game>
+	<game id="10947806" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Brave/Alex/Spiral/10947806.jpg</thumbnail>
+		<title>Alien Ambush Adventure</title>
+		<creator>Brave Alex Spiral</creator>
+		<relatedgames />
+	</game>
+	<game id="17047482" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/22/2012">
+		<thumbnail>/gamecreators/images2/Intrepid/Alex/Acorn/17047482.jpg</thumbnail>
+		<title>Waterhazard Hyper Champion</title>
+		<creator>Intrepid Alex Acorn</creator>
+		<relatedgames />
+	</game>
+	<game id="17308118" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>/gamecreators/images2/Noble/Justin/Halo/17308118.jpg</thumbnail>
+		<title>Breaker Rustbucket Earth</title>
+		<creator>Noble Justin Halo</creator>
+		<relatedgames />
+	</game>
+	<game id="16982204" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>/gamecreators/images2/Keen/Caleb/Cyclone/16982204.jpg</thumbnail>
+		<title>Water Dark Titan</title>
+		<creator>Keen Caleb Cyclone</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

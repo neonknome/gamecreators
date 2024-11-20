@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17234049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>/gamecreators/images2/Lanky/Lily/Licorice/17234049.jpg</thumbnail>
+		<title>Hyper Alien Hero</title>
+		<creator>Lanky Lily Licorice</creator>
+		<relatedgames />
+	</game>
+	<game id="10058809" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Happy/Simon/Steam/10058809.jpg</thumbnail>
+		<title>Swampfire Blaster Smash</title>
+		<creator>Happy Simon Steam</creator>
+		<relatedgames />
+	</game>
+	<game id="10918533" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Odd/Gary/Pirate/10918533.jpg</thumbnail>
+		<title>Quake Danger Battle</title>
+		<creator>Odd Gary Pirate</creator>
+		<relatedgames />
+	</game>
+	<game id="10069216" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Spooky/Kelly/Ketchup/10069216.jpg</thumbnail>
+		<title>Earth Rustbucket Spark</title>
+		<creator>Spooky Kelly Ketchup</creator>
+		<relatedgames />
+	</game>
+	<game id="10069204" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Lucky/Simon/Droid/10069204.jpg</thumbnail>
+		<title>Nano Hex Giga</title>
+		<creator>Lucky Simon Droid</creator>
+		<relatedgames />
+	</game>
+	<game id="10062600" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Weird/Grover/Monkey/10062600.jpg</thumbnail>
+		<title>Swampfire Fire Universe</title>
+		<creator>Weird Grover Monkey</creator>
+		<relatedgames />
+	</game>
+	<game id="17278910" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Captain/Connor/Charger/17278910.jpg</thumbnail>
+		<title>Thunder Mega Champion</title>
+		<creator>Captain Connor Charger</creator>
+		<relatedgames />
+	</game>
+	<game id="16902585" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/08/2012">
+		<thumbnail>/gamecreators/images2/Stubborn/Aiden/Beast/16902585.jpg</thumbnail>
+		<title>Atomic Adventure Cosmic</title>
+		<creator>Stubborn Aiden Beast</creator>
+		<relatedgames />
+	</game>
+	<game id="10706453" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Sloppy/Derrick/Blade/10706453.jpg</thumbnail>
+		<title>Rustbucket Rumble Champion</title>
+		<creator>Sloppy Derrick Blade</creator>
+		<relatedgames />
+	</game>
+	<game id="17387959" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Bold/Ian/Cactus/17387959.jpg</thumbnail>
+		<title>Alien Adventure Robot</title>
+		<creator>Bold Ian Cactus</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

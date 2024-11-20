@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17234049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>/gamecreators/images2/Lanky/Lily/Licorice/17234049.jpg</thumbnail>
+		<title>Hyper Alien Hero</title>
+		<creator>Lanky Lily Licorice</creator>
+		<relatedgames />
+	</game>
+	<game id="10056546" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Bashful/Bjorn/Avocado/10056546.jpg</thumbnail>
+		<title>Laser Laser Attack</title>
+		<creator>Bashful Bjorn Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="17400211" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/07/2012">
+		<thumbnail>/gamecreators/images2/Elegant/George/Doodad/17400211.jpg</thumbnail>
+		<title>Rush Ultra Hero</title>
+		<creator>Elegant George Doodad</creator>
+		<relatedgames />
+	</game>
+	<game id="10953079" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Humble/Daniel/Scorpion/10953079.jpg</thumbnail>
+		<title>Plumber Force Rampage</title>
+		<creator>Humble Daniel Scorpion</creator>
+		<relatedgames />
+	</game>
+	<game id="10923252" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Modest/Bobby/Jungle/10923252.jpg</thumbnail>
+		<title>Charge Nova Escape</title>
+		<creator>Modest Bobby Jungle</creator>
+		<relatedgames />
+	</game>
+	<game id="10916697" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Zippy/Barney/Elephant/10916697.jpg</thumbnail>
+		<title>Beast Rock Thunder</title>
+		<creator>Zippy Barney Elephant</creator>
+		<relatedgames />
+	</game>
+	<game id="17251649" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/22/2012">
+		<thumbnail>/gamecreators/images2/Titanic/Andy/Cartoon/17251649.jpg</thumbnail>
+		<title>Cannonbolt Hero Nova</title>
+		<creator>Titanic Andy Cartoon</creator>
+		<relatedgames />
+	</game>
+	<game id="16867305" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>/gamecreators/images2/Baron/Jose/Polka/16867305.jpg</thumbnail>
+		<title>Ultimate Rocket Nano</title>
+		<creator>Baron Jose Polka</creator>
+		<relatedgames />
+	</game>
+	<game id="17009687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/09/2012">
+		<thumbnail>/gamecreators/images2/Academic/Penelope/Licorice/17009687.jpg</thumbnail>
+		<title>Robot Adventure Beast</title>
+		<creator>Academic Penelope Licorice</creator>
+		<relatedgames />
+	</game>
+	<game id="10058854" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Mighty/Tony/Goofball/10058854.jpg</thumbnail>
+		<title>Attack Force Mega</title>
+		<creator>Mighty Tony Goofball</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

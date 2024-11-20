@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17356919" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>/gamecreators/images2/Sassy/Aaron/Baloney/17356919.jpg</thumbnail>
+		<title>Alien Chase Shock</title>
+		<creator>Sassy Aaron Baloney</creator>
+		<relatedgames />
+	</game>
+	<game id="17375607" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2012">
+		<thumbnail>/gamecreators/images2/Stubborn/Merlin/Turnip/17375607.jpg</thumbnail>
+		<title>Plasma Challenge Light</title>
+		<creator>Stubborn Merlin Turnip</creator>
+		<relatedgames />
+	</game>
+	<game id="10922326" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Atomic/Matthew/Goulash/10922326.jpg</thumbnail>
+		<title>Hyper Battle Crusher</title>
+		<creator>Atomic Matthew Goulash</creator>
+		<relatedgames />
+	</game>
+	<game id="10927274" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Handsome/Noah/Penguin/10927274.jpg</thumbnail>
+		<title>Turbo Assault Burst</title>
+		<creator>Handsome Noah Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="10951251" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Honest/Joel/Dynamite/10951251.jpg</thumbnail>
+		<title>Mega Space Rumble</title>
+		<creator>Honest Joel Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="17017625" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>/gamecreators/images2/Strong/Ben/Glop/17017625.jpg</thumbnail>
+		<title>Quake Rush Target</title>
+		<creator>Strong Ben Glop</creator>
+		<relatedgames />
+	</game>
+	<game id="10058669" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Atomic/Diana/Zeppelin/10058669.jpg</thumbnail>
+		<title>Rampage Adventure Beast</title>
+		<creator>Atomic Diana Zeppelin</creator>
+		<relatedgames />
+	</game>
+	<game id="10055468" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Chilly/Hank/Quack/10055468.jpg</thumbnail>
+		<title>Assault Rampage Solar</title>
+		<creator>Chilly Hank Quack</creator>
+		<relatedgames />
+	</game>
+	<game id="17395386" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>/gamecreators/images2/Babbling/Alan/Virtuoso/17395386.jpg</thumbnail>
+		<title>Dark Alien Robot</title>
+		<creator>Babbling Alan Virtuoso</creator>
+		<relatedgames />
+	</game>
+	<game id="10055601" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Hideous/Pedro/Gulch/10055601.jpg</thumbnail>
+		<title>Dark Escape Robot</title>
+		<creator>Hideous Pedro Gulch</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

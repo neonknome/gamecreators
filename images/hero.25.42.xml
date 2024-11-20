@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10932493" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Radiant/Bucky/Cosmos/10932493.jpg</thumbnail>
+		<title>Titan Warrior Pursuit</title>
+		<creator>Radiant Bucky Cosmos</creator>
+		<relatedgames />
+	</game>
+	<game id="17585376" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Extreme/Vicky/Penguin/17585376.jpg</thumbnail>
+		<title>Magno Rock Patrol</title>
+		<creator>Extreme Vicky Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="17070331" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/29/2012">
+		<thumbnail>/gamecreators/images2/Princess/George/Turbo/17070331.jpg</thumbnail>
+		<title>Challenge Power Warrior</title>
+		<creator>Princess George Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="17282494" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Superior/Jonas/Jamboree/17282494.jpg</thumbnail>
+		<title>Pursuit Shadow Fire</title>
+		<creator>Superior Jonas Jamboree</creator>
+		<relatedgames />
+	</game>
+	<game id="10952750" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Zippy/Destiny/Dragon/10952750.jpg</thumbnail>
+		<title>Warp Energy Star</title>
+		<creator>Zippy Destiny Dragon</creator>
+		<relatedgames />
+	</game>
+	<game id="17551194" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Colossal/Pete/Shovel/17551194.jpg</thumbnail>
+		<title>Nano Adventure Omniverse</title>
+		<creator>Colossal Pete Shovel</creator>
+		<relatedgames />
+	</game>
+	<game id="17379163" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Pretty/Scott/Beeswax/17379163.jpg</thumbnail>
+		<title>Razor Titan Blaster</title>
+		<creator>Pretty Scott Beeswax</creator>
+		<relatedgames />
+	</game>
+	<game id="10931089" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Puzzling/Gigi/Thunder/10931089.jpg</thumbnail>
+		<title>Rustbucket Quake Magno</title>
+		<creator>Puzzling Gigi Thunder</creator>
+		<relatedgames />
+	</game>
+	<game id="17056202" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/25/2012">
+		<thumbnail>/gamecreators/images2/Tireless/Ruby/Phoenix/17056202.jpg</thumbnail>
+		<title>Clash Nitro Drone</title>
+		<creator>Tireless Ruby Phoenix</creator>
+		<relatedgames />
+	</game>
+	<game id="17191739" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/05/2012">
+		<thumbnail>/gamecreators/images2/Elastic/Dwight/Robot/17191739.jpg</thumbnail>
+		<title>Solar Warrior Ambush</title>
+		<creator>Elastic Dwight Robot</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

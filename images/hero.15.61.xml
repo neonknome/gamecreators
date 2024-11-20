@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10931049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Puzzling/Marsha/Nibbles/10931049.jpg</thumbnail>
+		<title>Nitro Attack Alien</title>
+		<creator>Puzzling Marsha Nibbles</creator>
+		<relatedgames />
+	</game>
+	<game id="17549943" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Electric/David/Gamer/17549943.jpg</thumbnail>
+		<title>Chill Shock Force</title>
+		<creator>Electric David Gamer</creator>
+		<relatedgames />
+	</game>
+	<game id="10931081" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Cranky/Jake/Bamboo/10931081.jpg</thumbnail>
+		<title>Vilgax Smash Invasion</title>
+		<creator>Cranky Jake Bamboo</creator>
+		<relatedgames />
+	</game>
+	<game id="17338691" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Gentle/Clifford/Beast/17338691.jpg</thumbnail>
+		<title>Ben Adventure Cosmic</title>
+		<creator>Gentle Clifford Beast</creator>
+		<relatedgames />
+	</game>
+	<game id="17033336" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/17/2012">
+		<thumbnail>/gamecreators/images2/Epic/Igor/Minotaur/17033336.jpg</thumbnail>
+		<title>Search Energy Chill</title>
+		<creator>Epic Igor Minotaur</creator>
+		<relatedgames />
+	</game>
+	<game id="16860361" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/31/2012">
+		<thumbnail>/gamecreators/images2/Obvious/Cameron/Grackle/16860361.jpg</thumbnail>
+		<title>Titan Defense Whirlwind</title>
+		<creator>Obvious Cameron Grackle</creator>
+		<relatedgames />
+	</game>
+	<game id="10058916" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Lovely/Theodore/Avocado/10058916.jpg</thumbnail>
+		<title>Assault Vilgax Space</title>
+		<creator>Lovely Theodore Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="16886464" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/05/2012">
+		<thumbnail>/gamecreators/images2/Volcanic/Chowder/Cyborg/16886464.jpg</thumbnail>
+		<title>Ultra Spike Fusion</title>
+		<creator>Volcanic Chowder Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="17540418" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Peppy/Phillip/Scythe/17540418.jpg</thumbnail>
+		<title>Target Rush Fusion</title>
+		<creator>Peppy Phillip Scythe</creator>
+		<relatedgames />
+	</game>
+	<game id="17151478" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/23/2012">
+		<thumbnail>/gamecreators/images2/Devious/Paula/Magma/17151478.jpg</thumbnail>
+		<title>Jetray Alien Force</title>
+		<creator>Devious Paula Magma</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

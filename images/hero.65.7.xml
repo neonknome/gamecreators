@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10953226" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Fanciful/Xerxes/Aardvark/10953226.jpg</thumbnail>
+		<title>Mission Streak Solar</title>
+		<creator>Fanciful Xerxes Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="10921966" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Artistic/Mario/Shark/10921966.jpg</thumbnail>
+		<title>Ultimate Spike Adventure</title>
+		<creator>Artistic Mario Shark</creator>
+		<relatedgames />
+	</game>
+	<game id="10921507" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Dazzling/Steven/Squish/10921507.jpg</thumbnail>
+		<title>Quake Danger Escape</title>
+		<creator>Dazzling Steven Squish</creator>
+		<relatedgames />
+	</game>
+	<game id="10649889" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Grouchy/Brittany/Fury/10649889.jpg</thumbnail>
+		<title>Gear Mission Robot</title>
+		<creator>Grouchy Brittany Fury</creator>
+		<relatedgames />
+	</game>
+	<game id="10043219" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Fizzy/Latoya/Hologram/10043219.jpg</thumbnail>
+		<title>Razor Adventure Attack</title>
+		<creator>Fizzy Latoya Hologram</creator>
+		<relatedgames />
+	</game>
+	<game id="17313005" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>/gamecreators/images2/Roaring/Douglas/Fuzz/17313005.jpg</thumbnail>
+		<title>Fire Adventure Iron</title>
+		<creator>Roaring Douglas Fuzz</creator>
+		<relatedgames />
+	</game>
+	<game id="17382087" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Creepy/Richard/Oink/17382087.jpg</thumbnail>
+		<title>Fusion Rescue Drone</title>
+		<creator>Creepy Richard Oink</creator>
+		<relatedgames />
+	</game>
+	<game id="17047482" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/22/2012">
+		<thumbnail>/gamecreators/images2/Intrepid/Alex/Acorn/17047482.jpg</thumbnail>
+		<title>Waterhazard Hyper Champion</title>
+		<creator>Intrepid Alex Acorn</creator>
+		<relatedgames />
+	</game>
+	<game id="17288430" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/01/2012">
+		<thumbnail>/gamecreators/images2/Queen/Lawrence/Eggplant/17288430.jpg</thumbnail>
+		<title>Ultimate Echo Echo</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames />
+	</game>
+	<game id="16998524" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/05/2012">
+		<thumbnail>/gamecreators/images2/Toxic/Caden/Funk/16998524.jpg</thumbnail>
+		<title>Invasion Mega Escape</title>
+		<creator>Toxic Caden Funk</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

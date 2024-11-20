@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16883820" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/04/2012">
+		<thumbnail>/gamecreators/images2/Fiery/James/Cyclone/16883820.jpg</thumbnail>
+		<title>Warp Waterhazard Adventure</title>
+		<creator>Fiery James Cyclone</creator>
+		<relatedgames />
+	</game>
+	<game id="10704405" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Leaping/Emma/Molecule/10704405.jpg</thumbnail>
+		<title>Fusion Pulse Chase</title>
+		<creator>Leaping Emma Molecule</creator>
+		<relatedgames />
+	</game>
+	<game id="10038814" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Odd/Spike/Thud/10038814.jpg</thumbnail>
+		<title>Fusion Vilgax Techno</title>
+		<creator>Odd Spike Thud</creator>
+		<relatedgames />
+	</game>
+	<game id="17421965" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>/gamecreators/images2/Luminous/Mark/Narwhal/17421965.jpg</thumbnail>
+		<title>Metal Streak Shadow</title>
+		<creator>Luminous Mark Narwhal</creator>
+		<relatedgames />
+	</game>
+	<game id="16977448" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Western/Cameron/Jigsaw/16977448.jpg</thumbnail>
+		<title>Assault Humongousaur Laser</title>
+		<creator>Western Cameron Jigsaw</creator>
+		<relatedgames />
+	</game>
+	<game id="16866584" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>/gamecreators/images2/Imperial/Mike/Domino/16866584.jpg</thumbnail>
+		<title>Magno Dark Water</title>
+		<creator>Imperial Mike Domino</creator>
+		<relatedgames />
+	</game>
+	<game id="17395502" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>/gamecreators/images2/Titanic/Hercules/Steel/17395502.jpg</thumbnail>
+		<title>Gear Iron Hero</title>
+		<creator>Titanic Hercules Steel</creator>
+		<relatedgames />
+	</game>
+	<game id="10924748" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Nimble/Bobo/Iguana/10924748.jpg</thumbnail>
+		<title>Battle Escape Light</title>
+		<creator>Nimble Bobo Iguana</creator>
+		<relatedgames />
+	</game>
+	<game id="10927028" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Sly/Ava/Tugboat/10927028.jpg</thumbnail>
+		<title>Force Adventure Stone</title>
+		<creator>Sly Ava Tugboat</creator>
+		<relatedgames />
+	</game>
+	<game id="17308153" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>/gamecreators/images2/Acoustic/Shelby/Oink/17308153.jpg</thumbnail>
+		<title>Shadow Laser Spark</title>
+		<creator>Acoustic Shelby Oink</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17413193" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/14/2012">
+		<thumbnail>/gamecreators/images2/Humorous/Matthew/Dingbat/17413193.jpg</thumbnail>
+		<title>Waterhazard Steel Adventure</title>
+		<creator>Humorous Matthew Dingbat</creator>
+		<relatedgames />
+	</game>
+	<game id="17331560" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Giggling/Lydia/Rhythm/17331560.jpg</thumbnail>
+		<title>Ultimate Echo Assault</title>
+		<creator>Giggling Lydia Rhythm</creator>
+		<relatedgames />
+	</game>
+	<game id="17343320" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>/gamecreators/images2/Musical/Nicolas/Noob/17343320.jpg</thumbnail>
+		<title>Spike Defense Vilgax</title>
+		<creator>Musical Nicolas Noob</creator>
+		<relatedgames />
+	</game>
+	<game id="10936316" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Sincere/Victor/Boing/10936316.jpg</thumbnail>
+		<title>Ambush Iron Lightning</title>
+		<creator>Sincere Victor Boing</creator>
+		<relatedgames />
+	</game>
+	<game id="17271206" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/27/2012">
+		<thumbnail>/gamecreators/images2/Abstract/Hugo/Hambone/17271206.jpg</thumbnail>
+		<title>Spike Stone Energy</title>
+		<creator>Abstract Hugo Hambone</creator>
+		<relatedgames />
+	</game>
+	<game id="10921864" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Cheyenne/Iceberg/10921864.jpg</thumbnail>
+		<title>Ultimate Alien Smash</title>
+		<creator>Tricky Cheyenne Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="10039132" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Bizarre/Caleb/Blammo/10039132.jpg</thumbnail>
+		<title>Ultimate Spark Spike</title>
+		<creator>Bizarre Caleb Blammo</creator>
+		<relatedgames />
+	</game>
+	<game id="17013289" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>/gamecreators/images2/Artful/Michael/Ostrich/17013289.jpg</thumbnail>
+		<title>Escape Magno Breaker</title>
+		<creator>Artful Michael Ostrich</creator>
+		<relatedgames />
+	</game>
+	<game id="10953304" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Scary/James/Lavender/10953304.jpg</thumbnail>
+		<title>Rustbucket Magno Plasma</title>
+		<creator>Scary James Lavender</creator>
+		<relatedgames />
+	</game>
+	<game id="10780319" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2009">
+		<thumbnail>/gamecreators/images2/Wild/Richard/Pontoon/10780319.jpg</thumbnail>
+		<title>Galaxy Solar Ambush</title>
+		<creator>Wild Richard Pontoon</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

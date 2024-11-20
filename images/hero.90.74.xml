@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10936243" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Squishy/Bob/Fishbowl/10936243.jpg</thumbnail>
+		<title>Titan Alien Warp</title>
+		<creator>Squishy Bob Fishbowl</creator>
+		<relatedgames />
+	</game>
+	<game id="16958340" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/22/2012">
+		<thumbnail>/gamecreators/images2/Artful/Kate/Bongo/16958340.jpg</thumbnail>
+		<title>Storm Rocket Jetray</title>
+		<creator>Artful Kate Bongo</creator>
+		<relatedgames />
+	</game>
+	<game id="16979963" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>/gamecreators/images2/Savage/Mary/Wallop/16979963.jpg</thumbnail>
+		<title>Metal Plasma Titan</title>
+		<creator>Savage Mary Wallop</creator>
+		<relatedgames />
+	</game>
+	<game id="17423572" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>/gamecreators/images2/Average/Angela/Cartoon/17423572.jpg</thumbnail>
+		<title>Star Animo Fusion</title>
+		<creator>Average Angela Cartoon</creator>
+		<relatedgames />
+	</game>
+	<game id="10921135" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Dreadful/Medusa/Fishbowl/10921135.jpg</thumbnail>
+		<title>Swampfire Assault Invasion</title>
+		<creator>Dreadful Medusa Fishbowl</creator>
+		<relatedgames />
+	</game>
+	<game id="10786623" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>/gamecreators/images2/Hardy/Adam/Fossil/10786623.jpg</thumbnail>
+		<title>Hyper Adventure Rustbucket</title>
+		<creator>Hardy Adam Fossil</creator>
+		<relatedgames />
+	</game>
+	<game id="17256921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>/gamecreators/images2/Freakish/Paul/Neptune/17256921.jpg</thumbnail>
+		<title>Ultra Gear Hex</title>
+		<creator>Freakish Paul Neptune</creator>
+		<relatedgames />
+	</game>
+	<game id="17389018" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Stunning/Sid/Hambone/17389018.jpg</thumbnail>
+		<title>Adventure Rescue Slam</title>
+		<creator>Stunning Sid Hambone</creator>
+		<relatedgames />
+	</game>
+	<game id="10922698" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Atomic/Matthew/Goulash/10922698.jpg</thumbnail>
+		<title>Warrior Adventure Droid</title>
+		<creator>Atomic Matthew Goulash</creator>
+		<relatedgames />
+	</game>
+	<game id="17314558" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>/gamecreators/images2/Yelping/Albert/Anvil/17314558.jpg</thumbnail>
+		<title>Slam Patrol Slam</title>
+		<creator>Yelping Albert Anvil</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

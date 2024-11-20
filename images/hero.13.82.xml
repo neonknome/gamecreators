@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17417580" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Queen/Alyssa/Javelin/17417580.jpg</thumbnail>
+		<title>Search Techno Animo</title>
+		<creator>Queen Alyssa Javelin</creator>
+		<relatedgames />
+	</game>
+	<game id="17362230" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2012">
+		<thumbnail>/gamecreators/images2/Reckless/Igor/Cupcake/17362230.jpg</thumbnail>
+		<title>Space Metal Assault</title>
+		<creator>Reckless Igor Cupcake</creator>
+		<relatedgames />
+	</game>
+	<game id="10055612" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Uncanny/Dolly/Cyborg/10055612.jpg</thumbnail>
+		<title>Shock Titan Adventure</title>
+		<creator>Uncanny Dolly Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="17292491" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>/gamecreators/images2/Dandy/Penny/Minotaur/17292491.jpg</thumbnail>
+		<title>Clash Invasion Ultimate</title>
+		<creator>Dandy Penny Minotaur</creator>
+		<relatedgames />
+	</game>
+	<game id="17293112" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>/gamecreators/images2/Gorgeous/Nicole/Presto/17293112.jpg</thumbnail>
+		<title>Rescue Razor Water</title>
+		<creator>Gorgeous Nicole Presto</creator>
+		<relatedgames />
+	</game>
+	<game id="10786744" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>/gamecreators/images2/Baffling/Otis/Moonbeam/10786744.jpg</thumbnail>
+		<title>Plasma Crusher Droid</title>
+		<creator>Baffling Otis Moonbeam</creator>
+		<relatedgames />
+	</game>
+	<game id="10924220" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Honest/Kenneth/Saber/10924220.jpg</thumbnail>
+		<title>Plasma Mega Chase</title>
+		<creator>Honest Kenneth Saber</creator>
+		<relatedgames />
+	</game>
+	<game id="17396080" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>/gamecreators/images2/Pleasant/Margaret/Dogfish/17396080.jpg</thumbnail>
+		<title>Alien Mega Danger</title>
+		<creator>Pleasant Margaret Dogfish</creator>
+		<relatedgames />
+	</game>
+	<game id="10920066" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Massive/Ethel/Glop/10920066.jpg</thumbnail>
+		<title>Beast Ambush Spike</title>
+		<creator>Massive Ethel Glop</creator>
+		<relatedgames />
+	</game>
+	<game id="10055924" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Proper/Dwight/Mustard/10055924.jpg</thumbnail>
+		<title>Robot Alien Invasion</title>
+		<creator>Proper Dwight Mustard</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

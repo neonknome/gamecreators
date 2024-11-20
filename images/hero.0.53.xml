@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10649988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Handsome/Michael/Ladybug/10649988.jpg</thumbnail>
+		<title>Rescue Titan Space</title>
+		<creator>Handsome Michael Ladybug</creator>
+		<relatedgames />
+	</game>
+	<game id="10952649" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Obvious/Megan/Octopus/10952649.jpg</thumbnail>
+		<title>Rampage Charge Earth</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames />
+	</game>
+	<game id="10648030" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Loyal/Maria/Tornado/10648030.jpg</thumbnail>
+		<title>Battle Challenge Force</title>
+		<creator>Loyal Maria Tornado</creator>
+		<relatedgames />
+	</game>
+	<game id="10923154" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wacky/Carson/Volcano/10923154.jpg</thumbnail>
+		<title>Adventure Target Battle</title>
+		<creator>Wacky Carson Volcano</creator>
+		<relatedgames />
+	</game>
+	<game id="17381782" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Cagey/Aiden/Bramble/17381782.jpg</thumbnail>
+		<title>Swampfire Assault Force</title>
+		<creator>Cagey Aiden Bramble</creator>
+		<relatedgames />
+	</game>
+	<game id="10928065" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Strange/Dixie/Vampire/10928065.jpg</thumbnail>
+		<title>Warrior Adventure Rampage</title>
+		<creator>Strange Dixie Vampire</creator>
+		<relatedgames />
+	</game>
+	<game id="10932339" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Chilly/Floyd/Gumbo/10932339.jpg</thumbnail>
+		<title>Adventure Plasma Nitro</title>
+		<creator>Chilly Floyd Gumbo</creator>
+		<relatedgames />
+	</game>
+	<game id="10047191" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Lovely/Emma/Zebra/10047191.jpg</thumbnail>
+		<title>Ultra Alien Ambush</title>
+		<creator>Lovely Emma Zebra</creator>
+		<relatedgames />
+	</game>
+	<game id="10928980" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Rowdy/Larry/Grouch/10928980.jpg</thumbnail>
+		<title>Chase Earth Thunder</title>
+		<creator>Rowdy Larry Grouch</creator>
+		<relatedgames />
+	</game>
+	<game id="17358771" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>/gamecreators/images2/Peppy/Elmer/Wyvern/17358771.jpg</thumbnail>
+		<title>Burst Whirlwind Vilgax</title>
+		<creator>Peppy Elmer Wyvern</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

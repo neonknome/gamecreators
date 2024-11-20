@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17504961" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>/gamecreators/images2/Evil/Mario/Gargoyle/17504961.jpg</thumbnail>
+		<title>Giga Storm Blaster</title>
+		<creator>Evil Mario Gargoyle</creator>
+		<relatedgames />
+	</game>
+	<game id="10929472" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Alien/Shannon/Robot/10929472.jpg</thumbnail>
+		<title>Invasion Vilgax Galaxy</title>
+		<creator>Alien Shannon Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="10924177" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dapper/Sophia/Bolt/10924177.jpg</thumbnail>
+		<title>Steel Pulse Iron</title>
+		<creator>Dapper Sophia Bolt</creator>
+		<relatedgames />
+	</game>
+	<game id="17404545" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Graceful/Payten/Dumpling/17404545.jpg</thumbnail>
+		<title>Rumble Streak Mission</title>
+		<creator>Graceful Payten Dumpling</creator>
+		<relatedgames />
+	</game>
+	<game id="17391991" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Speedy/Eli/Firefly/17391991.jpg</thumbnail>
+		<title>Nova Power Fury</title>
+		<creator>Speedy Eli Firefly</creator>
+		<relatedgames />
+	</game>
+	<game id="10946479" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Alien/Lucius/Wombat/10946479.jpg</thumbnail>
+		<title>Spark Fusion Ben</title>
+		<creator>Alien Lucius Wombat</creator>
+		<relatedgames />
+	</game>
+	<game id="10919116" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Fanciful/Xavier/Thunder/10919116.jpg</thumbnail>
+		<title>Ultimate Mega Siege</title>
+		<creator>Fanciful Xavier Thunder</creator>
+		<relatedgames />
+	</game>
+	<game id="17015007" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>/gamecreators/images2/Proper/Vince/Volcano/17015007.jpg</thumbnail>
+		<title>Swampfire Gear Defense</title>
+		<creator>Proper Vince Volcano</creator>
+		<relatedgames />
+	</game>
+	<game id="10953554" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Swift/Owen/Gumbo/10953554.jpg</thumbnail>
+		<title>Turbo Turbo Battle</title>
+		<creator>Swift Owen Gumbo</creator>
+		<relatedgames />
+	</game>
+	<game id="17414730" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Complex/James/Karate/17414730.jpg</thumbnail>
+		<title>Mega Ambush Mission</title>
+		<creator>Complex James Karate</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

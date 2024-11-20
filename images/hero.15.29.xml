@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10933814" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Twisty/Douglas/Turbo/10933814.jpg</thumbnail>
+		<title>Mega Mission Shadow</title>
+		<creator>Twisty Douglas Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="17560228" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Crunchy/Ava/Blizzard/17560228.jpg</thumbnail>
+		<title>Rocket Animo Droid</title>
+		<creator>Crunchy Ava Blizzard</creator>
+		<relatedgames />
+	</game>
+	<game id="10055518" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Sinister/Zoe/Ballyhoo/10055518.jpg</thumbnail>
+		<title>Atomic Quake Assault</title>
+		<creator>Sinister Zoe Ballyhoo</creator>
+		<relatedgames />
+	</game>
+	<game id="17423219" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>/gamecreators/images2/Quiet/Hunter/Blob/17423219.jpg</thumbnail>
+		<title>Turbo Champion Adventure</title>
+		<creator>Quiet Hunter Blob</creator>
+		<relatedgames />
+	</game>
+	<game id="10949707" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Heroic/Connor/Fuzz/10949707.jpg</thumbnail>
+		<title>Mission Fusion Ambush</title>
+		<creator>Heroic Connor Fuzz</creator>
+		<relatedgames />
+	</game>
+	<game id="10947203" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Ornery/Bjorn/Wizard/10947203.jpg</thumbnail>
+		<title>Nitro Swampfire Storm</title>
+		<creator>Ornery Bjorn Wizard</creator>
+		<relatedgames />
+	</game>
+	<game id="17345269" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>/gamecreators/images2/Super/Floyd/Avator/17345269.jpg</thumbnail>
+		<title>Target Battle Laser</title>
+		<creator>Super Floyd Avator</creator>
+		<relatedgames />
+	</game>
+	<game id="16993882" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>/gamecreators/images2/Zany/Yorick/Behemoth/16993882.jpg</thumbnail>
+		<title>Spidermonkey Ultra Escape</title>
+		<creator>Zany Yorick Behemoth</creator>
+		<relatedgames />
+	</game>
+	<game id="17322959" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Colossal/Arthur/Cyborg/17322959.jpg</thumbnail>
+		<title>Jetray Slam Assault</title>
+		<creator>Colossal Arthur Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="10921874" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Magnetic/Ernie/Rumble/10921874.jpg</thumbnail>
+		<title>Rampage Champion Swampfire</title>
+		<creator>Magnetic Ernie Rumble</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

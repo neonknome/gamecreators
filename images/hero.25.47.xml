@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10953653" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Savage/Caroline/Fizz/10953653.jpg</thumbnail>
+		<title>Mega Adventure Alien</title>
+		<creator>Savage Caroline Fizz</creator>
+		<relatedgames />
+	</game>
+	<game id="10952878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Western/Leon/Figment/10952878.jpg</thumbnail>
+		<title>Crusher Alien Solar</title>
+		<creator>Western Leon Figment</creator>
+		<relatedgames />
+	</game>
+	<game id="17228920" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/16/2012">
+		<thumbnail>/gamecreators/images2/Popular/Quentin/Goofball/17228920.jpg</thumbnail>
+		<title>Ultimate Target Doom</title>
+		<creator>Popular Quentin Goofball</creator>
+		<relatedgames />
+	</game>
+	<game id="10062736" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Atomic/Timmy/Parsec/10062736.jpg</thumbnail>
+		<title>Turbo Crusher Laser</title>
+		<creator>Atomic Timmy Parsec</creator>
+		<relatedgames />
+	</game>
+	<game id="17551092" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Dreadful/Alex/Dodo/17551092.jpg</thumbnail>
+		<title>Adventure Assault Nitro</title>
+		<creator>Dreadful Alex Dodo</creator>
+		<relatedgames />
+	</game>
+	<game id="10038610" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Frantic/Henry/Crowbar/10038610.jpg</thumbnail>
+		<title>Shock Nano Siege</title>
+		<creator>Frantic Henry Crowbar</creator>
+		<relatedgames />
+	</game>
+	<game id="10065982" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Eastern/Brandon/Spider/10065982.jpg</thumbnail>
+		<title>Danger Champion Charge</title>
+		<creator>Eastern Brandon Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="10953354" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Jolly/Bryan/Kook/10953354.jpg</thumbnail>
+		<title>Alien Robot Nitro</title>
+		<creator>Jolly Bryan Kook</creator>
+		<relatedgames />
+	</game>
+	<game id="17370247" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>/gamecreators/images2/Radical/Ed/Chaos/17370247.jpg</thumbnail>
+		<title>Terraspin Energy Rush</title>
+		<creator>Radical Ed Chaos</creator>
+		<relatedgames />
+	</game>
+	<game id="16893803" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/06/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Andrew/Vulture/16893803.jpg</thumbnail>
+		<title>Nitro Blaster Challenge</title>
+		<creator>Ultimate Andrew Vulture</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

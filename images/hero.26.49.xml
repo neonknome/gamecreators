@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17338199" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Loud/Connor/Monster/17338199.jpg</thumbnail>
+		<title>Racer Adventure Adventure</title>
+		<creator>Loud Connor Monster</creator>
+		<relatedgames />
+	</game>
+	<game id="10924415" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Robotic/Tom/Wombat/10924415.jpg</thumbnail>
+		<title>Swampfire Sonic Escape</title>
+		<creator>Robotic Tom Wombat</creator>
+		<relatedgames />
+	</game>
+	<game id="10919810" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Visible/Leonardo/Python/10919810.jpg</thumbnail>
+		<title>Search Attack Cosmic</title>
+		<creator>Visible Leonardo Python</creator>
+		<relatedgames />
+	</game>
+	<game id="10039147" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Husky/Bessie/Iceberg/10039147.jpg</thumbnail>
+		<title>Shadow Attack Galaxy</title>
+		<creator>Husky Bessie Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="17302670" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Gleeful/James/Avator/17302670.jpg</thumbnail>
+		<title>Rescue Spike Blaster</title>
+		<creator>Gleeful James Avator</creator>
+		<relatedgames />
+	</game>
+	<game id="10951678" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Musical/Perseus/Elephant/10951678.jpg</thumbnail>
+		<title>Magno Iron Laser</title>
+		<creator>Musical Perseus Elephant</creator>
+		<relatedgames />
+	</game>
+	<game id="17420254" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Abstract/Natalia/Mackerel/17420254.jpg</thumbnail>
+		<title>Spike Ambush Storm</title>
+		<creator>Abstract Natalia Mackerel</creator>
+		<relatedgames />
+	</game>
+	<game id="10916687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Felix/Pontoon/10916687.jpg</thumbnail>
+		<title>Alien Metal Rock</title>
+		<creator>Tricky Felix Pontoon</creator>
+		<relatedgames />
+	</game>
+	<game id="10920432" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Bizarre/Scarlett/Catapult/10920432.jpg</thumbnail>
+		<title>Thunder Assault Giga</title>
+		<creator>Bizarre Scarlett Catapult</creator>
+		<relatedgames />
+	</game>
+	<game id="10946286" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Adorable/Benjamin/Robot/10946286.jpg</thumbnail>
+		<title>Fire Fire Robot</title>
+		<creator>Adorable Benjamin Robot</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

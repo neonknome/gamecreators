@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17148915" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/22/2012">
+		<thumbnail>/gamecreators/images2/Creative/Fred/Robot/17148915.jpg</thumbnail>
+		<title>Alien Ambush Challenge</title>
+		<creator>Creative Fred Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="10952801" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Ghostly/Laura/Bramble/10952801.jpg</thumbnail>
+		<title>Charge Fusion Drone</title>
+		<creator>Ghostly Laura Bramble</creator>
+		<relatedgames />
+	</game>
+	<game id="17332505" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Evil/Parker/Planet/17332505.jpg</thumbnail>
+		<title>Mega Champion Robot</title>
+		<creator>Evil Parker Planet</creator>
+		<relatedgames />
+	</game>
+	<game id="10039284" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Gracious/Vladimir/Yodel/10039284.jpg</thumbnail>
+		<title>Animo Lightning Defense</title>
+		<creator>Gracious Vladimir Yodel</creator>
+		<relatedgames />
+	</game>
+	<game id="10916801" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Sly/Michelle/Chipmunk/10916801.jpg</thumbnail>
+		<title>Warp Pulse Blaster</title>
+		<creator>Sly Michelle Chipmunk</creator>
+		<relatedgames />
+	</game>
+	<game id="17415229" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Reckless/Ernest/Fathom/17415229.jpg</thumbnail>
+		<title>Siege Hero Sonic</title>
+		<creator>Reckless Ernest Fathom</creator>
+		<relatedgames />
+	</game>
+	<game id="17388599" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Luminous/Brooke/Shogun/17388599.jpg</thumbnail>
+		<title>Ultimate Steel Warrior</title>
+		<creator>Luminous Brooke Shogun</creator>
+		<relatedgames />
+	</game>
+	<game id="10926761" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Honest/Scott/Crash/10926761.jpg</thumbnail>
+		<title>Alien Ultra Assault</title>
+		<creator>Honest Scott Crash</creator>
+		<relatedgames />
+	</game>
+	<game id="10952796" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Plucky/Larry/Crowbar/10952796.jpg</thumbnail>
+		<title>Search Rocket Pursuit</title>
+		<creator>Plucky Larry Crowbar</creator>
+		<relatedgames />
+	</game>
+	<game id="10916921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Chilly/Zeus/Daffodil/10916921.jpg</thumbnail>
+		<title>Crusher Plumber Force</title>
+		<creator>Chilly Zeus Daffodil</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

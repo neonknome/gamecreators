@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10931299" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Strange/Tyler/Chipmunk/10931299.jpg</thumbnail>
+		<title>Slam Solar Target</title>
+		<creator>Strange Tyler Chipmunk</creator>
+		<relatedgames />
+	</game>
+	<game id="10928185" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Atomic/Craig/Bagpipe/10928185.jpg</thumbnail>
+		<title>Escape Force Crusher</title>
+		<creator>Atomic Craig Bagpipe</creator>
+		<relatedgames />
+	</game>
+	<game id="10934549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Shaggy/Jeff/Gullet/10934549.jpg</thumbnail>
+		<title>Swampfire Rush Plasma</title>
+		<creator>Shaggy Jeff Gullet</creator>
+		<relatedgames />
+	</game>
+	<game id="10952813" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Babbling/Adam/Buckaroo/10952813.jpg</thumbnail>
+		<title>Fury Spark Galaxy</title>
+		<creator>Babbling Adam Buckaroo</creator>
+		<relatedgames />
+	</game>
+	<game id="10926529" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Twisty/Hank/Bamboo/10926529.jpg</thumbnail>
+		<title>Mission Turbo Sonic</title>
+		<creator>Twisty Hank Bamboo</creator>
+		<relatedgames />
+	</game>
+	<game id="10926269" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Crunchy/Vicky/Behemoth/10926269.jpg</thumbnail>
+		<title>Swampfire Attack Ben</title>
+		<creator>Crunchy Vicky Behemoth</creator>
+		<relatedgames />
+	</game>
+	<game id="10930948" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Glorious/Drew/Aurora/10930948.jpg</thumbnail>
+		<title>Light Energy Doom</title>
+		<creator>Glorious Drew Aurora</creator>
+		<relatedgames />
+	</game>
+	<game id="17373253" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>/gamecreators/images2/Quirky/Tommy/Karate/17373253.jpg</thumbnail>
+		<title>Techno Hero Spike</title>
+		<creator>Quirky Tommy Karate</creator>
+		<relatedgames />
+	</game>
+	<game id="10918821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Red/Travis/Cipher/10918821.jpg</thumbnail>
+		<title>Metal Force Fusion</title>
+		<creator>Red Travis Cipher</creator>
+		<relatedgames />
+	</game>
+	<game id="17210717" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/11/2012">
+		<thumbnail>/gamecreators/images2/Vast/Jack/Creature/17210717.jpg</thumbnail>
+		<title>Metal Iron Defense</title>
+		<creator>Vast Jack Creature</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

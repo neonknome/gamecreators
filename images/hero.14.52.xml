@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10046403" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Majestic/Chelsea/Squawk/10046403.jpg</thumbnail>
+		<title>Rustbucket Pulse Invasion</title>
+		<creator>Majestic Chelsea Squawk</creator>
+		<relatedgames />
+	</game>
+	<game id="10948824" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Humble/Tabitha/Mahogany/10948824.jpg</thumbnail>
+		<title>Adventure Mega Sonic</title>
+		<creator>Humble Tabitha Mahogany</creator>
+		<relatedgames />
+	</game>
+	<game id="17070331" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/29/2012">
+		<thumbnail>/gamecreators/images2/Princess/George/Turbo/17070331.jpg</thumbnail>
+		<title>Challenge Power Warrior</title>
+		<creator>Princess George Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="17551194" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Colossal/Pete/Shovel/17551194.jpg</thumbnail>
+		<title>Nano Adventure Omniverse</title>
+		<creator>Colossal Pete Shovel</creator>
+		<relatedgames />
+	</game>
+	<game id="17395502" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>/gamecreators/images2/Titanic/Hercules/Steel/17395502.jpg</thumbnail>
+		<title>Gear Iron Hero</title>
+		<creator>Titanic Hercules Steel</creator>
+		<relatedgames />
+	</game>
+	<game id="10058625" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Cranky/Rob/Tractor/10058625.jpg</thumbnail>
+		<title>Charge Gear Shock</title>
+		<creator>Cranky Rob Tractor</creator>
+		<relatedgames />
+	</game>
+	<game id="16948219" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>/gamecreators/images2/Gentle/Rosetta/Snowball/16948219.jpg</thumbnail>
+		<title>Shock Big Cannonbolt</title>
+		<creator>Gentle Rosetta Snowball</creator>
+		<relatedgames />
+	</game>
+	<game id="17259995" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>/gamecreators/images2/Shrewd/Stanley/Sunset/17259995.jpg</thumbnail>
+		<title>Warrior Robot Giga</title>
+		<creator>Shrewd Stanley Sunset</creator>
+		<relatedgames />
+	</game>
+	<game id="10931089" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Puzzling/Gigi/Thunder/10931089.jpg</thumbnail>
+		<title>Rustbucket Quake Magno</title>
+		<creator>Puzzling Gigi Thunder</creator>
+		<relatedgames />
+	</game>
+	<game id="10952566" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Obvious/Megan/Octopus/10952566.jpg</thumbnail>
+		<title>Ben Alien Force</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

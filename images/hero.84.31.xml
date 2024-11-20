@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16962875" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/23/2012">
+		<thumbnail>/gamecreators/images2/Aromatic/Chuck/Planet/16962875.jpg</thumbnail>
+		<title>Attack Dark Racer</title>
+		<creator>Aromatic Chuck Planet</creator>
+		<relatedgames />
+	</game>
+	<game id="10916890" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Dashing/Billy/Glacier/10916890.jpg</thumbnail>
+		<title>Quake Robot Pursuit</title>
+		<creator>Dashing Billy Glacier</creator>
+		<relatedgames />
+	</game>
+	<game id="17407467" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>/gamecreators/images2/Green/Vince/Warthog/17407467.jpg</thumbnail>
+		<title>Mission Nitro Vilgax</title>
+		<creator>Green Vince Warthog</creator>
+		<relatedgames />
+	</game>
+	<game id="10940025" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Zippy/Emma/Sphinx/10940025.jpg</thumbnail>
+		<title>Escape Fire Force</title>
+		<creator>Zippy Emma Sphinx</creator>
+		<relatedgames />
+	</game>
+	<game id="10929935" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Colossal/Rhett/Burst/10929935.jpg</thumbnail>
+		<title>Iron Dark Defense</title>
+		<creator>Colossal Rhett Burst</creator>
+		<relatedgames />
+	</game>
+	<game id="17304014" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Titanic/Penny/Calliope/17304014.jpg</thumbnail>
+		<title>Vilgax Nova Siege</title>
+		<creator>Titanic Penny Calliope</creator>
+		<relatedgames />
+	</game>
+	<game id="17387003" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Baroness/Bradley/Jungle/17387003.jpg</thumbnail>
+		<title>Alien Adventure Challenge</title>
+		<creator>Baroness Bradley Jungle</creator>
+		<relatedgames />
+	</game>
+	<game id="10058927" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Cranky/Rob/Tractor/10058927.jpg</thumbnail>
+		<title>Galaxy Shock Shock</title>
+		<creator>Cranky Rob Tractor</creator>
+		<relatedgames />
+	</game>
+	<game id="17005665" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/07/2012">
+		<thumbnail>/gamecreators/images2/Icy/Kristina/Twilight/17005665.jpg</thumbnail>
+		<title>Ben Power Adventure</title>
+		<creator>Icy Kristina Twilight</creator>
+		<relatedgames />
+	</game>
+	<game id="17275840" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>/gamecreators/images2/Puzzling/Kristen/Mars/17275840.jpg</thumbnail>
+		<title>Dark Nova Power</title>
+		<creator>Puzzling Kristen Mars</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

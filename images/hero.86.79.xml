@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17377498" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Nimble/Billy/Flywheel/17377498.jpg</thumbnail>
+		<title>Ambush Smash Challenge</title>
+		<creator>Nimble Billy Flywheel</creator>
+		<relatedgames />
+	</game>
+	<game id="10919116" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Fanciful/Xavier/Thunder/10919116.jpg</thumbnail>
+		<title>Ultimate Mega Siege</title>
+		<creator>Fanciful Xavier Thunder</creator>
+		<relatedgames />
+	</game>
+	<game id="10942924" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Jolly/Gretel/Quake/10942924.jpg</thumbnail>
+		<title>Titan Solar Smash</title>
+		<creator>Jolly Gretel Quake</creator>
+		<relatedgames />
+	</game>
+	<game id="17092970" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/05/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Charles/Hawk/17092970.jpg</thumbnail>
+		<title>Force Breaker Ultra</title>
+		<creator>Ultimate Charles Hawk</creator>
+		<relatedgames />
+	</game>
+	<game id="10935719" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Normal/Pierre/Goblin/10935719.jpg</thumbnail>
+		<title>Chase Gear Swampfire</title>
+		<creator>Normal Pierre Goblin</creator>
+		<relatedgames />
+	</game>
+	<game id="17328767" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Curious/Steven/Catapult/17328767.jpg</thumbnail>
+		<title>Adventure Plumber Adventure</title>
+		<creator>Curious Steven Catapult</creator>
+		<relatedgames />
+	</game>
+	<game id="17365312" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>/gamecreators/images2/Vigilant/Floyd/Fizz/17365312.jpg</thumbnail>
+		<title>Waterhazard Force Attack</title>
+		<creator>Vigilant Floyd Fizz</creator>
+		<relatedgames />
+	</game>
+	<game id="17274855" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>/gamecreators/images2/Brayden/Badger/17274855.jpg</thumbnail>
+		<title>Crusher Cannonbolt Droid</title>
+		<creator>Brayden Badger</creator>
+		<relatedgames />
+	</game>
+	<game id="17172103" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/29/2012">
+		<thumbnail>/gamecreators/images2/Jingling/Spencer/Mosquito/17172103.jpg</thumbnail>
+		<title>Iron Adventure Plumber</title>
+		<creator>Jingling Spencer Mosquito</creator>
+		<relatedgames />
+	</game>
+	<game id="17217721" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>/gamecreators/images2/Normal/Betty/Venom/17217721.jpg</thumbnail>
+		<title>Shadow Vilgax Cosmic</title>
+		<creator>Normal Betty Venom</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

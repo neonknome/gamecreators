@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17403542" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Crystal/Oyster/17403542.jpg</thumbnail>
+		<title>Ultra Nitro Nano</title>
+		<creator>Magnetic Crystal Oyster</creator>
+		<relatedgames />
+	</game>
+	<game id="17257447" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>/gamecreators/images2/Positive/Jill/Orca/17257447.jpg</thumbnail>
+		<title>Breaker Racer Razor</title>
+		<creator>Positive Jill Orca</creator>
+		<relatedgames />
+	</game>
+	<game id="17373112" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>/gamecreators/images2/Shiny/Roy/Insect/17373112.jpg</thumbnail>
+		<title>Cannonbolt Vilgax Adventure</title>
+		<creator>Shiny Roy Insect</creator>
+		<relatedgames />
+	</game>
+	<game id="16870844" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>/gamecreators/images2/Eerie/Ava/Centaur/16870844.jpg</thumbnail>
+		<title>Iron Adventure Rescue</title>
+		<creator>Eerie Ava Centaur</creator>
+		<relatedgames />
+	</game>
+	<game id="10043788" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Crafty/Brittany/Quack/10043788.jpg</thumbnail>
+		<title>Sonic Hero Patrol</title>
+		<creator>Crafty Brittany Quack</creator>
+		<relatedgames />
+	</game>
+	<game id="16917484" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>/gamecreators/images2/Galactic/Scarlett/Blast/16917484.jpg</thumbnail>
+		<title>Alien Hyper Turbo</title>
+		<creator>Galactic Scarlett Blast</creator>
+		<relatedgames />
+	</game>
+	<game id="10925587" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Massive/Kristin/Pulse/10925587.jpg</thumbnail>
+		<title>Champion Challenge Magno</title>
+		<creator>Massive Kristin Pulse</creator>
+		<relatedgames />
+	</game>
+	<game id="10024911" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Shiny/Bobby/Werewolf/10024911.jpg</thumbnail>
+		<title>Fire Iron Burst</title>
+		<creator>Shiny Bobby Werewolf</creator>
+		<relatedgames />
+	</game>
+	<game id="10945842" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Normal/Vinny/Rumble/10945842.jpg</thumbnail>
+		<title>Mega Shock Shadow</title>
+		<creator>Normal Vinny Rumble</creator>
+		<relatedgames />
+	</game>
+	<game id="17324743" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Loopy/Autumn/Snorkel/17324743.jpg</thumbnail>
+		<title>Alien Pulse Universe</title>
+		<creator>Loopy Autumn Snorkel</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

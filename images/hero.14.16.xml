@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17387959" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Bold/Ian/Cactus/17387959.jpg</thumbnail>
+		<title>Alien Adventure Robot</title>
+		<creator>Bold Ian Cactus</creator>
+		<relatedgames />
+	</game>
+	<game id="10038692" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Atomic/Caleb/Bonkers/10038692.jpg</thumbnail>
+		<title>Breaker Galaxy Fire</title>
+		<creator>Atomic Caleb Bonkers</creator>
+		<relatedgames />
+	</game>
+	<game id="17407806" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>/gamecreators/images2/Shaggy/Jason/Spleen/17407806.jpg</thumbnail>
+		<title>Sonic Universe Water</title>
+		<creator>Shaggy Jason Spleen</creator>
+		<relatedgames />
+	</game>
+	<game id="10031707" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Wondrous/Grace/Fizz/10031707.jpg</thumbnail>
+		<title>Lightning Burst Solar</title>
+		<creator>Wondrous Grace Fizz</creator>
+		<relatedgames />
+	</game>
+	<game id="17011631" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/09/2012">
+		<thumbnail>/gamecreators/images2/Foul/Richard/17011631.jpg</thumbnail>
+		<title>Waterhazard Fire Escape</title>
+		<creator>Foul Richard</creator>
+		<relatedgames />
+	</game>
+	<game id="17415485" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Awful/Jacob/Bronco/17415485.jpg</thumbnail>
+		<title>Mission Shock Patrol</title>
+		<creator>Awful Jacob Bronco</creator>
+		<relatedgames />
+	</game>
+	<game id="10925847" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dynamic/Stacy/Crumpet/10925847.jpg</thumbnail>
+		<title>Hero Pulse Shock</title>
+		<creator>Dynamic Stacy Crumpet</creator>
+		<relatedgames />
+	</game>
+	<game id="10655860" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2009">
+		<thumbnail>/gamecreators/images2/Hideous/Donald/Popcorn/10655860.jpg</thumbnail>
+		<title>Ultra Plumber Battle</title>
+		<creator>Hideous Donald Popcorn</creator>
+		<relatedgames />
+	</game>
+	<game id="10046166" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Funny/Chris/Pinwheel/10046166.jpg</thumbnail>
+		<title>Slam Danger Light</title>
+		<creator>Funny Chris Pinwheel</creator>
+		<relatedgames />
+	</game>
+	<game id="17404129" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Shady/Perseus/Comet/17404129.jpg</thumbnail>
+		<title>Ultra Energy Nano</title>
+		<creator>Shady Perseus Comet</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

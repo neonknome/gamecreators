@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10699059" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2009">
+		<thumbnail>/gamecreators/images2/Bouncing/Elijah/Acrobat/10699059.jpg</thumbnail>
+		<title>Atomic Ultimate Nova</title>
+		<creator>Bouncing Elijah Acrobat</creator>
+		<relatedgames />
+	</game>
+	<game id="17377503" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Nimble/Billy/Flywheel/17377503.jpg</thumbnail>
+		<title>Defense Rampage Terraspin</title>
+		<creator>Nimble Billy Flywheel</creator>
+		<relatedgames />
+	</game>
+	<game id="10953226" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Fanciful/Xerxes/Aardvark/10953226.jpg</thumbnail>
+		<title>Mission Streak Solar</title>
+		<creator>Fanciful Xerxes Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="10041441" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Jolly/Jack/Pelican/10041441.jpg</thumbnail>
+		<title>Dark Earth Doom</title>
+		<creator>Jolly Jack Pelican</creator>
+		<relatedgames />
+	</game>
+	<game id="17551176" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Earnest/Meredith/Tiger/17551176.jpg</thumbnail>
+		<title>Power Siege Rumble</title>
+		<creator>Earnest Meredith Tiger</creator>
+		<relatedgames />
+	</game>
+	<game id="10944444" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Fuzzy/Alan/Sprinkle/10944444.jpg</thumbnail>
+		<title>Mission Champion Galaxy</title>
+		<creator>Fuzzy Alan Sprinkle</creator>
+		<relatedgames />
+	</game>
+	<game id="16952681" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/21/2012">
+		<thumbnail>/gamecreators/images2/Massive/Bart/Steel/16952681.jpg</thumbnail>
+		<title>Metal Rumble Adventure</title>
+		<creator>Massive Bart Steel</creator>
+		<relatedgames />
+	</game>
+	<game id="10934549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Shaggy/Jeff/Gullet/10934549.jpg</thumbnail>
+		<title>Swampfire Rush Plasma</title>
+		<creator>Shaggy Jeff Gullet</creator>
+		<relatedgames />
+	</game>
+	<game id="10952813" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Babbling/Adam/Buckaroo/10952813.jpg</thumbnail>
+		<title>Fury Spark Galaxy</title>
+		<creator>Babbling Adam Buckaroo</creator>
+		<relatedgames />
+	</game>
+	<game id="10953330" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Sincere/Noah/Barnacle/10953330.jpg</thumbnail>
+		<title>Plumber Attack Ultimate</title>
+		<creator>Sincere Noah Barnacle</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

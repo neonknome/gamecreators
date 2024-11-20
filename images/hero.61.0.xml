@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17409654" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/12/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Lucas/Mars/17409654.jpg</thumbnail>
+		<title>Assault Titan Laser</title>
+		<creator>Magnetic Lucas Mars</creator>
+		<relatedgames />
+	</game>
+	<game id="17549943" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Electric/David/Gamer/17549943.jpg</thumbnail>
+		<title>Chill Shock Force</title>
+		<creator>Electric David Gamer</creator>
+		<relatedgames />
+	</game>
+	<game id="10930760" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Shrewd/Mia/Wombat/10930760.jpg</thumbnail>
+		<title>Invasion Earth Magno</title>
+		<creator>Shrewd Mia Wombat</creator>
+		<relatedgames />
+	</game>
+	<game id="10797645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/04/2009">
+		<thumbnail>/gamecreators/images2/Eerie/Simon/Scorpion/10797645.jpg</thumbnail>
+		<title>Warrior Plumber Steel</title>
+		<creator>Eerie Simon Scorpion</creator>
+		<relatedgames />
+	</game>
+	<game id="16886464" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/05/2012">
+		<thumbnail>/gamecreators/images2/Volcanic/Chowder/Cyborg/16886464.jpg</thumbnail>
+		<title>Ultra Spike Fusion</title>
+		<creator>Volcanic Chowder Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="10952722" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Burly/Tex/Quarry/10952722.jpg</thumbnail>
+		<title>Attack Rumble Pursuit</title>
+		<creator>Burly Tex Quarry</creator>
+		<relatedgames />
+	</game>
+	<game id="10940046" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Northern/Spencer/Sizzle/10940046.jpg</thumbnail>
+		<title>Adventure Nitro Battle</title>
+		<creator>Northern Spencer Sizzle</creator>
+		<relatedgames />
+	</game>
+	<game id="10932642" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Loud/Faith/Holler/10932642.jpg</thumbnail>
+		<title>Galaxy Shadow Ultimate</title>
+		<creator>Loud Faith Holler</creator>
+		<relatedgames />
+	</game>
+	<game id="17384988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Robust/Isaac/Pudding/17384988.jpg</thumbnail>
+		<title>Escape Nano Smash</title>
+		<creator>Robust Isaac Pudding</creator>
+		<relatedgames />
+	</game>
+	<game id="10952658" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Visible/Zachary/Scribble/10952658.jpg</thumbnail>
+		<title>Hex Assault Drone</title>
+		<creator>Visible Zachary Scribble</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

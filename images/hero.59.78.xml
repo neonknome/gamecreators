@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10927670" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wise/Chris/Boing/10927670.jpg</thumbnail>
+		<title>Invasion Ultimate Pursuit</title>
+		<creator>Wise Chris Boing</creator>
+		<relatedgames />
+	</game>
+	<game id="10942755" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Awesome/Dylan/Lard/10942755.jpg</thumbnail>
+		<title>Power Champion Racer</title>
+		<creator>Awesome Dylan Lard</creator>
+		<relatedgames />
+	</game>
+	<game id="17358951" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>/gamecreators/images2/Duke/Ian/Twilight/17358951.jpg</thumbnail>
+		<title>Metal Smash Robot</title>
+		<creator>Duke Ian Twilight</creator>
+		<relatedgames />
+	</game>
+	<game id="10940027" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Hectic/Matt/Bingo/10940027.jpg</thumbnail>
+		<title>Streak Warp Rumble</title>
+		<creator>Hectic Matt Bingo</creator>
+		<relatedgames />
+	</game>
+	<game id="10919003" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Frosty/Scott/Hambone/10919003.jpg</thumbnail>
+		<title>Danger Plasma Battle</title>
+		<creator>Frosty Scott Hambone</creator>
+		<relatedgames />
+	</game>
+	<game id="10952262" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Scary/Kevin/Saber/10952262.jpg</thumbnail>
+		<title>Dark Storm Galaxy</title>
+		<creator>Scary Kevin Saber</creator>
+		<relatedgames />
+	</game>
+	<game id="17328677" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Average/Owen/Monster/17328677.jpg</thumbnail>
+		<title>Razor Space Rampage</title>
+		<creator>Average Owen Monster</creator>
+		<relatedgames />
+	</game>
+	<game id="10918741" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Shrewd/Jonas/Yodel/10918741.jpg</thumbnail>
+		<title>Mega Atomic Nova</title>
+		<creator>Shrewd Jonas Yodel</creator>
+		<relatedgames />
+	</game>
+	<game id="17404209" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Zany/Luke/Stampede/17404209.jpg</thumbnail>
+		<title>Pulse Adventure Shadow</title>
+		<creator>Zany Luke Stampede</creator>
+		<relatedgames />
+	</game>
+	<game id="10055575" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Reckless/Romeo/Spark/10055575.jpg</thumbnail>
+		<title>Fire Ultra Slam</title>
+		<creator>Reckless Romeo Spark</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

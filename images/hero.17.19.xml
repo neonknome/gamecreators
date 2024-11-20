@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17301303" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Spicy/Holly/Ion/17301303.jpg</thumbnail>
+		<title>Thunder Drone Charge</title>
+		<creator>Spicy Holly Ion</creator>
+		<relatedgames />
+	</game>
+	<game id="10953547" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Alien/Roy/Cinnamon/10953547.jpg</thumbnail>
+		<title>Quake Laser Ultra</title>
+		<creator>Alien Roy Cinnamon</creator>
+		<relatedgames />
+	</game>
+	<game id="10067052" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Rowdy/Betty/Chimera/10067052.jpg</thumbnail>
+		<title>Charge Solar Sonic</title>
+		<creator>Rowdy Betty Chimera</creator>
+		<relatedgames />
+	</game>
+	<game id="10040892" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Fearless/Jason/Funk/10040892.jpg</thumbnail>
+		<title>Swampfire Blaster Spike</title>
+		<creator>Fearless Jason Funk</creator>
+		<relatedgames />
+	</game>
+	<game id="17383696" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Athletic/Calvin/Buffalo/17383696.jpg</thumbnail>
+		<title>Metal Shadow Hex</title>
+		<creator>Athletic Calvin Buffalo</creator>
+		<relatedgames />
+	</game>
+	<game id="17241636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>/gamecreators/images2/Devious/Benjamin/Phoenix/17241636.jpg</thumbnail>
+		<title>Ultra Warrior Danger</title>
+		<creator>Devious Benjamin Phoenix</creator>
+		<relatedgames />
+	</game>
+	<game id="10034847" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Cosmic/Steven/Kumquat/10034847.jpg</thumbnail>
+		<title>Hero Adventure Shadow</title>
+		<creator>Cosmic Steven Kumquat</creator>
+		<relatedgames />
+	</game>
+	<game id="17382115" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Galactic/Ben/Panda/17382115.jpg</thumbnail>
+		<title>Giga Alien Rock</title>
+		<creator>Galactic Ben Panda</creator>
+		<relatedgames />
+	</game>
+	<game id="17311587" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>/gamecreators/images2/Proper/Kate/Witch/17311587.jpg</thumbnail>
+		<title>Razor Attack Rock</title>
+		<creator>Proper Kate Witch</creator>
+		<relatedgames />
+	</game>
+	<game id="17312994" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>/gamecreators/images2/Queen/Rich/Sunshine/17312994.jpg</thumbnail>
+		<title>Doom Gear Warrior</title>
+		<creator>Queen Rich Sunshine</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

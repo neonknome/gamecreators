@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17389747" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Sleepy/William/Tiger/17389747.jpg</thumbnail>
+		<title>Attack Mission Big</title>
+		<creator>Sleepy William Tiger</creator>
+		<relatedgames />
+	</game>
+	<game id="10055468" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Chilly/Hank/Quack/10055468.jpg</thumbnail>
+		<title>Assault Rampage Solar</title>
+		<creator>Chilly Hank Quack</creator>
+		<relatedgames />
+	</game>
+	<game id="17395386" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>/gamecreators/images2/Babbling/Alan/Virtuoso/17395386.jpg</thumbnail>
+		<title>Dark Alien Robot</title>
+		<creator>Babbling Alan Virtuoso</creator>
+		<relatedgames />
+	</game>
+	<game id="10055601" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Hideous/Pedro/Gulch/10055601.jpg</thumbnail>
+		<title>Dark Escape Robot</title>
+		<creator>Hideous Pedro Gulch</creator>
+		<relatedgames />
+	</game>
+	<game id="17349390" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>/gamecreators/images2/Perilous/Heidi/Smidgen/17349390.jpg</thumbnail>
+		<title>Racer Energy Iron</title>
+		<creator>Perilous Heidi Smidgen</creator>
+		<relatedgames />
+	</game>
+	<game id="10936010" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Surreal/Ivy/Fury/10936010.jpg</thumbnail>
+		<title>Thunder Giga Swampfire</title>
+		<creator>Surreal Ivy Fury</creator>
+		<relatedgames />
+	</game>
+	<game id="16988536" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/01/2012">
+		<thumbnail>/gamecreators/images2/Able/Caden/Doodad/16988536.jpg</thumbnail>
+		<title>Mission Techno Breaker</title>
+		<creator>Able Caden Doodad</creator>
+		<relatedgames />
+	</game>
+	<game id="10917033" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Comical/Ariana/Kiwi/10917033.jpg</thumbnail>
+		<title>Hero Fire Force</title>
+		<creator>Comical Ariana Kiwi</creator>
+		<relatedgames />
+	</game>
+	<game id="10046385" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Majestic/Chelsea/Squawk/10046385.jpg</thumbnail>
+		<title>Atomic Slam Space</title>
+		<creator>Majestic Chelsea Squawk</creator>
+		<relatedgames />
+	</game>
+	<game id="10952531" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Humble/Ramona/Fishbowl/10952531.jpg</thumbnail>
+		<title>Magno Laser Shock</title>
+		<creator>Humble Ramona Fishbowl</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10935717" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wild/Mike/Squawk/10935717.jpg</thumbnail>
+		<title>Rush Fire Thunder</title>
+		<creator>Wild Mike Squawk</creator>
+		<relatedgames />
+	</game>
+	<game id="10916699" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Dreadful/Simon/Dynamite/10916699.jpg</thumbnail>
+		<title>Techno Razor Spark</title>
+		<creator>Dreadful Simon Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="10937222" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Clever/Kristin/Fossil/10937222.jpg</thumbnail>
+		<title>Rampage Quake Iron</title>
+		<creator>Clever Kristin Fossil</creator>
+		<relatedgames />
+	</game>
+	<game id="10951878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Freaky/Aaron/Maestro/10951878.jpg</thumbnail>
+		<title>Giga Beast Ambush</title>
+		<creator>Freaky Aaron Maestro</creator>
+		<relatedgames />
+	</game>
+	<game id="17221993" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Savage/Alvin/Fang/17221993.jpg</thumbnail>
+		<title>Escape Ultimate Rush</title>
+		<creator>Savage Alvin Fang</creator>
+		<relatedgames />
+	</game>
+	<game id="10919808" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Atomic/Raymond/Chipmunk/10919808.jpg</thumbnail>
+		<title>Energy Slam Space</title>
+		<creator>Atomic Raymond Chipmunk</creator>
+		<relatedgames />
+	</game>
+	<game id="16989085" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/02/2012">
+		<thumbnail>/gamecreators/images2/Shiny/Homer/Soldier/16989085.jpg</thumbnail>
+		<title>Crusher Adventure Universe</title>
+		<creator>Shiny Homer Soldier</creator>
+		<relatedgames />
+	</game>
+	<game id="10937475" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Frantic/Hayden/Sawtooth/10937475.jpg</thumbnail>
+		<title>Warrior Blaster Mission</title>
+		<creator>Frantic Hayden Sawtooth</creator>
+		<relatedgames />
+	</game>
+	<game id="10786744" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>/gamecreators/images2/Baffling/Otis/Moonbeam/10786744.jpg</thumbnail>
+		<title>Plasma Crusher Droid</title>
+		<creator>Baffling Otis Moonbeam</creator>
+		<relatedgames />
+	</game>
+	<game id="17306187" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>/gamecreators/images2/Eastern/Brady/Clone/17306187.jpg</thumbnail>
+		<title>Hex Techno Nitro</title>
+		<creator>Eastern Brady Clone</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

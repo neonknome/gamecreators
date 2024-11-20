@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17503975" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>/gamecreators/images2/Prolific/Cole/Sprout/17503975.jpg</thumbnail>
+		<title>Rocket Breaker Galaxy</title>
+		<creator>Prolific Cole Sprout</creator>
+		<relatedgames />
+	</game>
+	<game id="17374738" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>/gamecreators/images2/Surreal/Mikayla/Ballyhoo/17374738.jpg</thumbnail>
+		<title>Techno Mission Droid</title>
+		<creator>Surreal Mikayla Ballyhoo</creator>
+		<relatedgames />
+	</game>
+	<game id="10942215" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Dynamic/Ronald/Cyborg/10942215.jpg</thumbnail>
+		<title>Laser Smash Light</title>
+		<creator>Dynamic Ronald Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="17402198" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>/gamecreators/images2/Comical/CJ/Confetti/17402198.jpg</thumbnail>
+		<title>Shadow Hex Rescue</title>
+		<creator>Comical CJ Confetti</creator>
+		<relatedgames />
+	</game>
+	<game id="10947844" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Funky/William/Buckaroo/10947844.jpg</thumbnail>
+		<title>Defense Light Atomic</title>
+		<creator>Funky William Buckaroo</creator>
+		<relatedgames />
+	</game>
+	<game id="10931113" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Majestic/Kevin/Iceberg/10931113.jpg</thumbnail>
+		<title>Spark Hex Clash</title>
+		<creator>Majestic Kevin Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="10918300" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Brawny/Bradley/Howler/10918300.jpg</thumbnail>
+		<title>Steel Burst Dark</title>
+		<creator>Brawny Bradley Howler</creator>
+		<relatedgames />
+	</game>
+	<game id="17363548" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>/gamecreators/images2/Fabulous/Chase/Goulash/17363548.jpg</thumbnail>
+		<title>Danger Charge Assault</title>
+		<creator>Fabulous Chase Goulash</creator>
+		<relatedgames />
+	</game>
+	<game id="17282616" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Aromatic/Lucas/Buffalo/17282616.jpg</thumbnail>
+		<title>Ultimate Vilgax Smash</title>
+		<creator>Aromatic Lucas Buffalo</creator>
+		<relatedgames />
+	</game>
+	<game id="17345413" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>/gamecreators/images2/Grim/Benson/Blizzard/17345413.jpg</thumbnail>
+		<title>Rampage Plasma Rush</title>
+		<creator>Grim Benson Blizzard</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

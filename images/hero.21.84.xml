@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10055807" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Sneaky/Jackie/Dodo/10055807.jpg</thumbnail>
+		<title>Power Power Pursuit</title>
+		<creator>Sneaky Jackie Dodo</creator>
+		<relatedgames />
+	</game>
+	<game id="9954610" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Red/Jordan/Squawk/9954610.jpg</thumbnail>
+		<title>Drone Stone Ambush</title>
+		<creator>Red Jordan Squawk</creator>
+		<relatedgames />
+	</game>
+	<game id="17303818" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Extinct/Coco/Spider/17303818.jpg</thumbnail>
+		<title>Attack Chill Adventure</title>
+		<creator>Extinct Coco Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="17339599" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/15/2012">
+		<thumbnail>/gamecreators/images2/Amusing/Otto/Blob/17339599.jpg</thumbnail>
+		<title>Assault Nano Whirlwind</title>
+		<creator>Amusing Otto Blob</creator>
+		<relatedgames />
+	</game>
+	<game id="16918793" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>/gamecreators/images2/Grand/Xavier/Ooze/16918793.jpg</thumbnail>
+		<title>Chill Adventure Rocket</title>
+		<creator>Grand Xavier Ooze</creator>
+		<relatedgames />
+	</game>
+	<game id="10926558" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Noble/Holly/Universe/10926558.jpg</thumbnail>
+		<title>Drone Swampfire Universe</title>
+		<creator>Noble Holly Universe</creator>
+		<relatedgames />
+	</game>
+	<game id="17356516" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/20/2012">
+		<thumbnail>/gamecreators/images2/Feisty/Carter/Scout/17356516.jpg</thumbnail>
+		<title>Patrol Rock Burst</title>
+		<creator>Feisty Carter Scout</creator>
+		<relatedgames />
+	</game>
+	<game id="17393809" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/04/2012">
+		<thumbnail>/gamecreators/images2/Spirited/Napoleon/Warrior/17393809.jpg</thumbnail>
+		<title>Ultimate Doom Quake</title>
+		<creator>Spirited Napoleon Warrior</creator>
+		<relatedgames />
+	</game>
+	<game id="17370463" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>/gamecreators/images2/Positive/Adam/Cinnamon/17370463.jpg</thumbnail>
+		<title>Atomic Iron Defense</title>
+		<creator>Positive Adam Cinnamon</creator>
+		<relatedgames />
+	</game>
+	<game id="10061528" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Shiny/Owen/Gargoyle/10061528.jpg</thumbnail>
+		<title>Thunder Invasion Sonic</title>
+		<creator>Shiny Owen Gargoyle</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

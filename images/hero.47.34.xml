@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10922511" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Cheerful/Morgan/Charger/10922511.jpg</thumbnail>
+		<title>Space Ultra Plumber</title>
+		<creator>Cheerful Morgan Charger</creator>
+		<relatedgames />
+	</game>
+	<game id="16947799" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>/gamecreators/images2/Flying/Eugene/Squid/16947799.jpg</thumbnail>
+		<title>Techno Shock Ambush</title>
+		<creator>Flying Eugene Squid</creator>
+		<relatedgames />
+	</game>
+	<game id="10933949" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Ornery/Leah/Chutney/10933949.jpg</thumbnail>
+		<title>Space Animo Iron</title>
+		<creator>Ornery Leah Chutney</creator>
+		<relatedgames />
+	</game>
+	<game id="17380187" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>/gamecreators/images2/Frugal/Ralph/Camel/17380187.jpg</thumbnail>
+		<title>Big Droid Battle</title>
+		<creator>Frugal Ralph Camel</creator>
+		<relatedgames />
+	</game>
+	<game id="17127585" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/15/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Zeb/Bingo/17127585.jpg</thumbnail>
+		<title>Solar Assault Space</title>
+		<creator>Magnetic Zeb Bingo</creator>
+		<relatedgames />
+	</game>
+	<game id="10924909" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Scurvy/Diana/Haystack/10924909.jpg</thumbnail>
+		<title>Gear Battle Racer</title>
+		<creator>Scurvy Diana Haystack</creator>
+		<relatedgames />
+	</game>
+	<game id="10922667" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wise/Edgar/Frost/10922667.jpg</thumbnail>
+		<title>Droid Stone Metal</title>
+		<creator>Wise Edgar Frost</creator>
+		<relatedgames />
+	</game>
+	<game id="16988752" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/02/2012">
+		<thumbnail>/gamecreators/images2/Prince/Baxter/Horsefly/16988752.jpg</thumbnail>
+		<title>Attack Warrior Ambush</title>
+		<creator>Prince Baxter Horsefly</creator>
+		<relatedgames />
+	</game>
+	<game id="10951422" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Green/Grace/Manatee/10951422.jpg</thumbnail>
+		<title>Adventure Alien Droid</title>
+		<creator>Green Grace Manatee</creator>
+		<relatedgames />
+	</game>
+	<game id="10923803" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Noisy/Avery/Gazelle/10923803.jpg</thumbnail>
+		<title>Space Ambush Racer</title>
+		<creator>Noisy Avery Gazelle</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

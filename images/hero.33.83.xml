@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17279284" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Jose/Cartoon/17279284.jpg</thumbnail>
+		<title>Galaxy Cosmic Shadow</title>
+		<creator>Ultimate Jose Cartoon</creator>
+		<relatedgames />
+	</game>
+	<game id="10945842" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Normal/Vinny/Rumble/10945842.jpg</thumbnail>
+		<title>Mega Shock Shadow</title>
+		<creator>Normal Vinny Rumble</creator>
+		<relatedgames />
+	</game>
+	<game id="17205541" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/09/2012">
+		<thumbnail>/gamecreators/images2/Cute/Meghan/Jingles/17205541.jpg</thumbnail>
+		<title>Danger Clash Attack</title>
+		<creator>Cute Meghan Jingles</creator>
+		<relatedgames />
+	</game>
+	<game id="17278972" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Virtual/Victor/Rebel/17278972.jpg</thumbnail>
+		<title>Giga Hyper Rustbucket</title>
+		<creator>Virtual Victor Rebel</creator>
+		<relatedgames />
+	</game>
+	<game id="17568616" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Brisk/Aubrey/Camel/17568616.jpg</thumbnail>
+		<title>Cannonbolt Cosmic Omniverse</title>
+		<creator>Brisk Aubrey Camel</creator>
+		<relatedgames />
+	</game>
+	<game id="10942748" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Jolly/Bryan/Kook/10942748.jpg</thumbnail>
+		<title>Adventure Rustbucket Iron</title>
+		<creator>Jolly Bryan Kook</creator>
+		<relatedgames />
+	</game>
+	<game id="10937939" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Dazzling/Gigi/Lobster/10937939.jpg</thumbnail>
+		<title>Alien Fire Smash</title>
+		<creator>Dazzling Gigi Lobster</creator>
+		<relatedgames />
+	</game>
+	<game id="10927605" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Loony/Heidi/Grouch/10927605.jpg</thumbnail>
+		<title>Swampfire Plumber Patrol</title>
+		<creator>Loony Heidi Grouch</creator>
+		<relatedgames />
+	</game>
+	<game id="10917018" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Reliable/Victor/Whizbang/10917018.jpg</thumbnail>
+		<title>Solar Storm Chase</title>
+		<creator>Reliable Victor Whizbang</creator>
+		<relatedgames />
+	</game>
+	<game id="17567998" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Verbose/Sam/Quasar/17567998.jpg</thumbnail>
+		<title>Mission Techno Nano</title>
+		<creator>Verbose Sam Quasar</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

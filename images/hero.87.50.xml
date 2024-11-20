@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10923969" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Blustery/Lucas/Viking/10923969.jpg</thumbnail>
+		<title>Rocket Plumber Razor</title>
+		<creator>Blustery Lucas Viking</creator>
+		<relatedgames />
+	</game>
+	<game id="17569422" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Hyper/Lucius/Ketchup/17569422.jpg</thumbnail>
+		<title>Burst Rustbucket Galaxy</title>
+		<creator>Hyper Lucius Ketchup</creator>
+		<relatedgames />
+	</game>
+	<game id="10059235" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Purple/Patrick/Amethyst/10059235.jpg</thumbnail>
+		<title>Charge Alien Streak</title>
+		<creator>Purple Patrick Amethyst</creator>
+		<relatedgames />
+	</game>
+	<game id="17135325" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/18/2012">
+		<thumbnail>/gamecreators/images2/Nautical/Diego/Bonanza/17135325.jpg</thumbnail>
+		<title>Rampage Hyper Adventure</title>
+		<creator>Nautical Diego Bonanza</creator>
+		<relatedgames />
+	</game>
+	<game id="17379329" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Quirky/Aiden/Moonbeam/17379329.jpg</thumbnail>
+		<title>Iron Iron Gear</title>
+		<creator>Quirky Aiden Moonbeam</creator>
+		<relatedgames />
+	</game>
+	<game id="10066790" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Tricky/Trevor/Zebra/10066790.jpg</thumbnail>
+		<title>Iron Burst Shadow</title>
+		<creator>Tricky Trevor Zebra</creator>
+		<relatedgames />
+	</game>
+	<game id="17201813" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/08/2012">
+		<thumbnail>/gamecreators/images2/Agile/Alan/Jinx/17201813.jpg</thumbnail>
+		<title>Ben Attack Robot</title>
+		<creator>Agile Alan Jinx</creator>
+		<relatedgames />
+	</game>
+	<game id="10786277" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>/gamecreators/images2/Crispy/Michael/Spider/10786277.jpg</thumbnail>
+		<title>Titan Rescue Burst</title>
+		<creator>Crispy Michael Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="17337249" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Ironic/Ghoul/17337249.jpg</thumbnail>
+		<title>Ultimate Cannonbolt Assault</title>
+		<creator>Ironic Ghoul</creator>
+		<relatedgames />
+	</game>
+	<game id="17316554" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Queen/Rich/Sunshine/17316554.jpg</thumbnail>
+		<title>Rustbucket Techno Robot</title>
+		<creator>Queen Rich Sunshine</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

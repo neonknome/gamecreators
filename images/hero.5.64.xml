@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17262592" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Immortal/Lawrence/Spider/17262592.jpg</thumbnail>
+		<title>Warp Shadow Pulse</title>
+		<creator>Immortal Lawrence Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="10926231" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Puzzling/Ludwig/Zigzag/10926231.jpg</thumbnail>
+		<title>Sonic Shadow Racer</title>
+		<creator>Puzzling Ludwig Zigzag</creator>
+		<relatedgames />
+	</game>
+	<game id="17377498" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Nimble/Billy/Flywheel/17377498.jpg</thumbnail>
+		<title>Ambush Smash Challenge</title>
+		<creator>Nimble Billy Flywheel</creator>
+		<relatedgames />
+	</game>
+	<game id="17009687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/09/2012">
+		<thumbnail>/gamecreators/images2/Academic/Penelope/Licorice/17009687.jpg</thumbnail>
+		<title>Robot Adventure Beast</title>
+		<creator>Academic Penelope Licorice</creator>
+		<relatedgames />
+	</game>
+	<game id="17092970" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/05/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Charles/Hawk/17092970.jpg</thumbnail>
+		<title>Force Breaker Ultra</title>
+		<creator>Ultimate Charles Hawk</creator>
+		<relatedgames />
+	</game>
+	<game id="17387959" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Bold/Ian/Cactus/17387959.jpg</thumbnail>
+		<title>Alien Adventure Robot</title>
+		<creator>Bold Ian Cactus</creator>
+		<relatedgames />
+	</game>
+	<game id="17172103" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/29/2012">
+		<thumbnail>/gamecreators/images2/Jingling/Spencer/Mosquito/17172103.jpg</thumbnail>
+		<title>Iron Adventure Plumber</title>
+		<creator>Jingling Spencer Mosquito</creator>
+		<relatedgames />
+	</game>
+	<game id="10953024" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Radiant/Karen/Dingo/10953024.jpg</thumbnail>
+		<title>Plasma Rumble Beast</title>
+		<creator>Radiant Karen Dingo</creator>
+		<relatedgames />
+	</game>
+	<game id="10926958" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Twisty/Gavin/Seesaw/10926958.jpg</thumbnail>
+		<title>Adventure Smash Adventure</title>
+		<creator>Twisty Gavin Seesaw</creator>
+		<relatedgames />
+	</game>
+	<game id="17217721" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>/gamecreators/images2/Normal/Betty/Venom/17217721.jpg</thumbnail>
+		<title>Shadow Vilgax Cosmic</title>
+		<creator>Normal Betty Venom</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

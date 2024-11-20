@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17257125" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>/gamecreators/images2/Barbaric/Faith/Camel/17257125.jpg</thumbnail>
+		<title>Vilgax Chase Galaxy</title>
+		<creator>Barbaric Faith Camel</creator>
+		<relatedgames />
+	</game>
+	<game id="10947411" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Absurd/Victor/Charger/10947411.jpg</thumbnail>
+		<title>Alien Shock Rescue</title>
+		<creator>Absurd Victor Charger</creator>
+		<relatedgames />
+	</game>
+	<game id="10916937" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Merry/Mike/Doodad/10916937.jpg</thumbnail>
+		<title>Fusion Hero Sonic</title>
+		<creator>Merry Mike Doodad</creator>
+		<relatedgames />
+	</game>
+	<game id="10927169" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fearless/Richard/Werewolf/10927169.jpg</thumbnail>
+		<title>Fury Charge Assault</title>
+		<creator>Fearless Richard Werewolf</creator>
+		<relatedgames />
+	</game>
+	<game id="16981961" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>/gamecreators/images2/Athletic/Ernie/Aardvark/16981961.jpg</thumbnail>
+		<title>Alien Dark Mission</title>
+		<creator>Athletic Ernie Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="17339068" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Devious/Jason/Shock/17339068.jpg</thumbnail>
+		<title>Plumber Space Techno</title>
+		<creator>Devious Jason Shock</creator>
+		<relatedgames />
+	</game>
+	<game id="17410111" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/12/2012">
+		<thumbnail>/gamecreators/images2/Grubby/Doug/Tsunami/17410111.jpg</thumbnail>
+		<title>Battle Fire Earth</title>
+		<creator>Grubby Doug Tsunami</creator>
+		<relatedgames />
+	</game>
+	<game id="16947799" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>/gamecreators/images2/Flying/Eugene/Squid/16947799.jpg</thumbnail>
+		<title>Techno Shock Ambush</title>
+		<creator>Flying Eugene Squid</creator>
+		<relatedgames />
+	</game>
+	<game id="10926237" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Robotic/Tyler/Cobweb/10926237.jpg</thumbnail>
+		<title>Attack Warrior Metal</title>
+		<creator>Robotic Tyler Cobweb</creator>
+		<relatedgames />
+	</game>
+	<game id="17316942" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Stinky/James/Avator/17316942.jpg</thumbnail>
+		<title>Nano Nova Thunder</title>
+		<creator>Stinky James Avator</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

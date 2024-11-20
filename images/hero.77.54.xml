@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16886464" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/05/2012">
+		<thumbnail>/gamecreators/images2/Volcanic/Chowder/Cyborg/16886464.jpg</thumbnail>
+		<title>Ultra Spike Fusion</title>
+		<creator>Volcanic Chowder Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="17151478" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/23/2012">
+		<thumbnail>/gamecreators/images2/Devious/Paula/Magma/17151478.jpg</thumbnail>
+		<title>Jetray Alien Force</title>
+		<creator>Devious Paula Magma</creator>
+		<relatedgames />
+	</game>
+	<game id="10932642" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Loud/Faith/Holler/10932642.jpg</thumbnail>
+		<title>Galaxy Shadow Ultimate</title>
+		<creator>Loud Faith Holler</creator>
+		<relatedgames />
+	</game>
+	<game id="17384988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Robust/Isaac/Pudding/17384988.jpg</thumbnail>
+		<title>Escape Nano Smash</title>
+		<creator>Robust Isaac Pudding</creator>
+		<relatedgames />
+	</game>
+	<game id="16974843" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Husky/Lucius/Foul/16974843.jpg</thumbnail>
+		<title>Hyper Ben Solar</title>
+		<creator>Husky Lucius Foul</creator>
+		<relatedgames />
+	</game>
+	<game id="17562120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Proud/Felix/Thud/17562120.jpg</thumbnail>
+		<title>Burst Blaster Alien</title>
+		<creator>Proud Felix Thud</creator>
+		<relatedgames />
+	</game>
+	<game id="10925875" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Swift/Shelby/Ninja/10925875.jpg</thumbnail>
+		<title>Mega Attack Swampfire</title>
+		<creator>Swift Shelby Ninja</creator>
+		<relatedgames />
+	</game>
+	<game id="17260234" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>/gamecreators/images2/Mystic/Ed/Acorn/17260234.jpg</thumbnail>
+		<title>Nova Titan Hero</title>
+		<creator>Mystic Ed Acorn</creator>
+		<relatedgames />
+	</game>
+	<game id="10032046" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Absurd/Ava/Bayou/10032046.jpg</thumbnail>
+		<title>Defense Alien Humongousaur</title>
+		<creator>Absurd Ava Bayou</creator>
+		<relatedgames />
+	</game>
+	<game id="10064904" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Cosmic/Goliath/Oddball/10064904.jpg</thumbnail>
+		<title>Adventure Mission Sonic</title>
+		<creator>Cosmic Goliath Oddball</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

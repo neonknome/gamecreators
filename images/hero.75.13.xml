@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10953320" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Artistic/Alan/Stampede/10953320.jpg</thumbnail>
+		<title>Fire Drone Ambush</title>
+		<creator>Artistic Alan Stampede</creator>
+		<relatedgames />
+	</game>
+	<game id="10937939" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Dazzling/Gigi/Lobster/10937939.jpg</thumbnail>
+		<title>Alien Fire Smash</title>
+		<creator>Dazzling Gigi Lobster</creator>
+		<relatedgames />
+	</game>
+	<game id="10953143" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Grizzly/Mitchell/Hiccup/10953143.jpg</thumbnail>
+		<title>Plasma Breaker Force</title>
+		<creator>Grizzly Mitchell Hiccup</creator>
+		<relatedgames />
+	</game>
+	<game id="16961343" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/23/2012">
+		<thumbnail>/gamecreators/images2/Normal/Craig/16961343.jpg</thumbnail>
+		<title>Humongousaur Escape Mission</title>
+		<creator>Normal Craig</creator>
+		<relatedgames />
+	</game>
+	<game id="17241860" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>/gamecreators/images2/Creative/Jay/Buffalo/17241860.jpg</thumbnail>
+		<title>Razor Echo Chill</title>
+		<creator>Creative Jay Buffalo</creator>
+		<relatedgames />
+	</game>
+	<game id="17163650" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/27/2012">
+		<thumbnail>/gamecreators/images2/Quantum/Tanner/Skeleton/17163650.jpg</thumbnail>
+		<title>Galaxy Alien Spark</title>
+		<creator>Quantum Tanner Skeleton</creator>
+		<relatedgames />
+	</game>
+	<game id="17552197" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Crazy/Edd/Mahogany/17552197.jpg</thumbnail>
+		<title>Siege Metal Titan</title>
+		<creator>Crazy Edd Mahogany</creator>
+		<relatedgames />
+	</game>
+	<game id="10056052" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Ghastly/Phil/Cyborg/10056052.jpg</thumbnail>
+		<title>Plasma Galaxy Adventure</title>
+		<creator>Ghastly Phil Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="10865542" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2009">
+		<thumbnail>/gamecreators/images2/Gorgeous/Elroy/Iceberg/10865542.jpg</thumbnail>
+		<title>Spark Streak Giga</title>
+		<creator>Gorgeous Elroy Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="10930921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Sly/Aaron/Goulash/10930921.jpg</thumbnail>
+		<title>Nitro Razor Rampage</title>
+		<creator>Sly Aaron Goulash</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10952899" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Dynamic/Celeste/Dolphin/10952899.jpg</thumbnail>
+		<title>Galaxy Mission Rampage</title>
+		<creator>Dynamic Celeste Dolphin</creator>
+		<relatedgames />
+	</game>
+	<game id="17364488" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>/gamecreators/images2/Hectic/Taylor/Gazebo/17364488.jpg</thumbnail>
+		<title>Ultimate Dark Fusion</title>
+		<creator>Hectic Taylor Gazebo</creator>
+		<relatedgames />
+	</game>
+	<game id="10923281" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Frosty/Zoe/Planet/10923281.jpg</thumbnail>
+		<title>Battle Shadow Ambush</title>
+		<creator>Frosty Zoe Planet</creator>
+		<relatedgames />
+	</game>
+	<game id="10033720" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Scary/Morgan/Mummy/10033720.jpg</thumbnail>
+		<title>Humongousaur Hex Thunder</title>
+		<creator>Scary Morgan Mummy</creator>
+		<relatedgames />
+	</game>
+	<game id="17237653" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/18/2012">
+		<thumbnail>/gamecreators/images2/Sunny/Lloyd/Fox/17237653.jpg</thumbnail>
+		<title>Adventure Fire Streak</title>
+		<creator>Sunny Lloyd Fox</creator>
+		<relatedgames />
+	</game>
+	<game id="17372287" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>/gamecreators/images2/Average/Owen/Monster/17372287.jpg</thumbnail>
+		<title>Steel Space Techno</title>
+		<creator>Average Owen Monster</creator>
+		<relatedgames />
+	</game>
+	<game id="17228049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>/gamecreators/images2/Zany/Scott/Snake/17228049.jpg</thumbnail>
+		<title>Iron Nano Alien</title>
+		<creator>Zany Scott Snake</creator>
+		<relatedgames />
+	</game>
+	<game id="10924349" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Unusual/Daniel/Waffle/10924349.jpg</thumbnail>
+		<title>Escape Defense Gear</title>
+		<creator>Unusual Daniel Waffle</creator>
+		<relatedgames />
+	</game>
+	<game id="17419128" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Amazing/Aaron/Macaroni/17419128.jpg</thumbnail>
+		<title>Energy Smash Spike</title>
+		<creator>Amazing Aaron Macaroni</creator>
+		<relatedgames />
+	</game>
+	<game id="10939122" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Daring/Bubba/Mustard/10939122.jpg</thumbnail>
+		<title>Adventure Shock Chase</title>
+		<creator>Daring Bubba Mustard</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

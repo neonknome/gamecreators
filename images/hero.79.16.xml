@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10925366" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Mighty/Timothy/Mummy/10925366.jpg</thumbnail>
+		<title>Swampfire Plasma Rampage</title>
+		<creator>Mighty Timothy Mummy</creator>
+		<relatedgames />
+	</game>
+	<game id="17300390" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/03/2012">
+		<thumbnail>/gamecreators/images2/Hypnotic/Michael/17300390.jpg</thumbnail>
+		<title>Attack Rocket Titan</title>
+		<creator>Hypnotic Michael</creator>
+		<relatedgames />
+	</game>
+	<game id="10920342" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Putrid/Tabitha/Cactus/10920342.jpg</thumbnail>
+		<title>Nitro Rush Space</title>
+		<creator>Putrid Tabitha Cactus</creator>
+		<relatedgames />
+	</game>
+	<game id="17347123" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2012">
+		<thumbnail>/gamecreators/images2/Ticklish/Lancelot/Starfish/17347123.jpg</thumbnail>
+		<title>Smash Atomic Mission</title>
+		<creator>Ticklish Lancelot Starfish</creator>
+		<relatedgames />
+	</game>
+	<game id="10947411" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Absurd/Victor/Charger/10947411.jpg</thumbnail>
+		<title>Alien Shock Rescue</title>
+		<creator>Absurd Victor Charger</creator>
+		<relatedgames />
+	</game>
+	<game id="10648482" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Crafty/Kristen/Quake/10648482.jpg</thumbnail>
+		<title>Light Universe Vilgax</title>
+		<creator>Crafty Kristen Quake</creator>
+		<relatedgames />
+	</game>
+	<game id="10923969" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Blustery/Lucas/Viking/10923969.jpg</thumbnail>
+		<title>Rocket Plumber Razor</title>
+		<creator>Blustery Lucas Viking</creator>
+		<relatedgames />
+	</game>
+	<game id="17569422" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Hyper/Lucius/Ketchup/17569422.jpg</thumbnail>
+		<title>Burst Rustbucket Galaxy</title>
+		<creator>Hyper Lucius Ketchup</creator>
+		<relatedgames />
+	</game>
+	<game id="10059235" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Purple/Patrick/Amethyst/10059235.jpg</thumbnail>
+		<title>Charge Alien Streak</title>
+		<creator>Purple Patrick Amethyst</creator>
+		<relatedgames />
+	</game>
+	<game id="17379329" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Quirky/Aiden/Moonbeam/17379329.jpg</thumbnail>
+		<title>Iron Iron Gear</title>
+		<creator>Quirky Aiden Moonbeam</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

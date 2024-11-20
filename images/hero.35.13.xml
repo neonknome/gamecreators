@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17219398" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>/gamecreators/images2/Lucky/Dennis/Penguin/17219398.jpg</thumbnail>
+		<title>Power Cosmic Lightning</title>
+		<creator>Lucky Dennis Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="10934549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Shaggy/Jeff/Gullet/10934549.jpg</thumbnail>
+		<title>Swampfire Rush Plasma</title>
+		<creator>Shaggy Jeff Gullet</creator>
+		<relatedgames />
+	</game>
+	<game id="17574180" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Wondrous/Rigby/Samurai/17574180.jpg</thumbnail>
+		<title>Brainstorm Galaxy Fusion</title>
+		<creator>Wondrous Rigby Samurai</creator>
+		<relatedgames />
+	</game>
+	<game id="10916795" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Eager/Abigail/Turbo/10916795.jpg</thumbnail>
+		<title>Invasion Swampfire Ambush</title>
+		<creator>Eager Abigail Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="10951344" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Funny/Jennifer/Sphere/10951344.jpg</thumbnail>
+		<title>Dark Atomic Power</title>
+		<creator>Funny Jennifer Sphere</creator>
+		<relatedgames />
+	</game>
+	<game id="10926269" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Crunchy/Vicky/Behemoth/10926269.jpg</thumbnail>
+		<title>Swampfire Attack Ben</title>
+		<creator>Crunchy Vicky Behemoth</creator>
+		<relatedgames />
+	</game>
+	<game id="17415199" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Verbose/Lauren/Rhythm/17415199.jpg</thumbnail>
+		<title>Rumble Danger Invasion</title>
+		<creator>Verbose Lauren Rhythm</creator>
+		<relatedgames />
+	</game>
+	<game id="10706060" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Brawny/Chad/Porridge/10706060.jpg</thumbnail>
+		<title>Nova Solar Invasion</title>
+		<creator>Brawny Chad Porridge</creator>
+		<relatedgames />
+	</game>
+	<game id="17407932" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>/gamecreators/images2/Itchy/Jimbo/Paradox/17407932.jpg</thumbnail>
+		<title>Ultimate Titan Terraspin</title>
+		<creator>Itchy Jimbo Paradox</creator>
+		<relatedgames />
+	</game>
+	<game id="10045421" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Nomadic/Augustus/Nacho/10045421.jpg</thumbnail>
+		<title>Solar Rocket Atomic</title>
+		<creator>Nomadic Augustus Nacho</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17351878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>/gamecreators/images2/Acoustic/Jeff/Spider/17351878.jpg</thumbnail>
+		<title>Ultra Warp Star</title>
+		<creator>Acoustic Jeff Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="10952550" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Cranky/Nicole/Galaxy/10952550.jpg</thumbnail>
+		<title>Swampfire Fire Storm</title>
+		<creator>Cranky Nicole Galaxy</creator>
+		<relatedgames />
+	</game>
+	<game id="17204454" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/09/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Jake/Gargoyle/17204454.jpg</thumbnail>
+		<title>Doom Energy Adventure</title>
+		<creator>Ultimate Jake Gargoyle</creator>
+		<relatedgames />
+	</game>
+	<game id="10925503" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Curious/Tyler/Tiptoe/10925503.jpg</thumbnail>
+		<title>Pursuit Razor Energy</title>
+		<creator>Curious Tyler Tiptoe</creator>
+		<relatedgames />
+	</game>
+	<game id="17126549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/15/2012">
+		<thumbnail>/gamecreators/images2/Jolly/Aiden/Beast/17126549.jpg</thumbnail>
+		<title>Hero Star Rock</title>
+		<creator>Jolly Aiden Beast</creator>
+		<relatedgames />
+	</game>
+	<game id="17260418" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>/gamecreators/images2/Radiant/Mckenzie/Kungfu/17260418.jpg</thumbnail>
+		<title>Alien Hyper Titan</title>
+		<creator>Radiant Mckenzie Kungfu</creator>
+		<relatedgames />
+	</game>
+	<game id="10048804" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Twisty/John/Mustang/10048804.jpg</thumbnail>
+		<title>Robot Attack Mission</title>
+		<creator>Twisty John Mustang</creator>
+		<relatedgames />
+	</game>
+	<game id="10953238" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Alien/Bob/Virtuoso/10953238.jpg</thumbnail>
+		<title>Assault Siege Fury</title>
+		<creator>Alien Bob Virtuoso</creator>
+		<relatedgames />
+	</game>
+	<game id="17303802" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Cunning/Ian/Burst/17303802.jpg</thumbnail>
+		<title>Storm Assault Iron</title>
+		<creator>Cunning Ian Burst</creator>
+		<relatedgames />
+	</game>
+	<game id="10039390" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Glorious/Gulliver/Gorilla/10039390.jpg</thumbnail>
+		<title>Solar Storm Hero</title>
+		<creator>Glorious Gulliver Gorilla</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

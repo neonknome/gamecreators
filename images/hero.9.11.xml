@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10918167" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Colossal/Leonardo/Howler/10918167.jpg</thumbnail>
+		<title>Alien Rampage Ambush</title>
+		<creator>Colossal Leonardo Howler</creator>
+		<relatedgames />
+	</game>
+	<game id="16920799" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/13/2012">
+		<thumbnail>/gamecreators/images2/Titanic/Dixie/Macaw/16920799.jpg</thumbnail>
+		<title>Hyper Galaxy Power</title>
+		<creator>Titanic Dixie Macaw</creator>
+		<relatedgames />
+	</game>
+	<game id="10952550" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Cranky/Nicole/Galaxy/10952550.jpg</thumbnail>
+		<title>Swampfire Fire Storm</title>
+		<creator>Cranky Nicole Galaxy</creator>
+		<relatedgames />
+	</game>
+	<game id="17399233" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/07/2012">
+		<thumbnail>/gamecreators/images2/Puzzling/Frank/Wolf/17399233.jpg</thumbnail>
+		<title>Battle Spike Rush</title>
+		<creator>Puzzling Frank Wolf</creator>
+		<relatedgames />
+	</game>
+	<game id="10952640" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Cranky/Bryan/Varmint/10952640.jpg</thumbnail>
+		<title>Challenge Fire Mission</title>
+		<creator>Cranky Bryan Varmint</creator>
+		<relatedgames />
+	</game>
+	<game id="10918666" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Generous/Homer/Potato/10918666.jpg</thumbnail>
+		<title>Drone Ultimate Turbo</title>
+		<creator>Generous Homer Potato</creator>
+		<relatedgames />
+	</game>
+	<game id="17355672" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/20/2012">
+		<thumbnail>/gamecreators/images2/Purple/Rosetta/Rebel/17355672.jpg</thumbnail>
+		<title>Smash Power Earth</title>
+		<creator>Purple Rosetta Rebel</creator>
+		<relatedgames />
+	</game>
+	<game id="10039390" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Glorious/Gulliver/Gorilla/10039390.jpg</thumbnail>
+		<title>Solar Storm Hero</title>
+		<creator>Glorious Gulliver Gorilla</creator>
+		<relatedgames />
+	</game>
+	<game id="16947780" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>/gamecreators/images2/Sleek/CJ/Dolphin/16947780.jpg</thumbnail>
+		<title>Mega Chase Invasion</title>
+		<creator>Sleek CJ Dolphin</creator>
+		<relatedgames />
+	</game>
+	<game id="17377709" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Quirky/Tommy/Karate/17377709.jpg</thumbnail>
+		<title>Turbo Cosmic Solar</title>
+		<creator>Quirky Tommy Karate</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

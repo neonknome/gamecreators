@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10919497" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Red/Ethel/Atom/10919497.jpg</thumbnail>
+		<title>Alien Stone Solar</title>
+		<creator>Red Ethel Atom</creator>
+		<relatedgames />
+	</game>
+	<game id="10928015" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Unusual/Rocky/Gizzard/10928015.jpg</thumbnail>
+		<title>Fury Lightning Nova</title>
+		<creator>Unusual Rocky Gizzard</creator>
+		<relatedgames />
+	</game>
+	<game id="10926749" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Daring/Jack/Photon/10926749.jpg</thumbnail>
+		<title>Rustbucket Hero Racer</title>
+		<creator>Daring Jack Photon</creator>
+		<relatedgames />
+	</game>
+	<game id="17223549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Cackling/Cory/Avator/17223549.jpg</thumbnail>
+		<title>Universe Energy Power</title>
+		<creator>Cackling Cory Avator</creator>
+		<relatedgames />
+	</game>
+	<game id="17279545" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Jumping/Nick/Avocado/17279545.jpg</thumbnail>
+		<title>Power Power Power</title>
+		<creator>Jumping Nick Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="10933707" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Reckless/Jeremy/Monkey/10933707.jpg</thumbnail>
+		<title>Drone Plasma Droid</title>
+		<creator>Reckless Jeremy Monkey</creator>
+		<relatedgames />
+	</game>
+	<game id="10953547" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Alien/Roy/Cinnamon/10953547.jpg</thumbnail>
+		<title>Quake Laser Ultra</title>
+		<creator>Alien Roy Cinnamon</creator>
+		<relatedgames />
+	</game>
+	<game id="10067052" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Rowdy/Betty/Chimera/10067052.jpg</thumbnail>
+		<title>Charge Solar Sonic</title>
+		<creator>Rowdy Betty Chimera</creator>
+		<relatedgames />
+	</game>
+	<game id="17552616" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Volcanic/Alvin/Meteor/17552616.jpg</thumbnail>
+		<title>Vilgax Doom Laser</title>
+		<creator>Volcanic Alvin Meteor</creator>
+		<relatedgames />
+	</game>
+	<game id="17241636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>/gamecreators/images2/Devious/Benjamin/Phoenix/17241636.jpg</thumbnail>
+		<title>Ultra Warrior Danger</title>
+		<creator>Devious Benjamin Phoenix</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

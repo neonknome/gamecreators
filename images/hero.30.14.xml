@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10937939" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Dazzling/Gigi/Lobster/10937939.jpg</thumbnail>
+		<title>Alien Fire Smash</title>
+		<creator>Dazzling Gigi Lobster</creator>
+		<relatedgames />
+	</game>
+	<game id="10918396" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Fizzy/Chris/Moonbeam/10918396.jpg</thumbnail>
+		<title>Universe Adventure Space</title>
+		<creator>Fizzy Chris Moonbeam</creator>
+		<relatedgames />
+	</game>
+	<game id="10927605" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Loony/Heidi/Grouch/10927605.jpg</thumbnail>
+		<title>Swampfire Plumber Patrol</title>
+		<creator>Loony Heidi Grouch</creator>
+		<relatedgames />
+	</game>
+	<game id="10917018" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Reliable/Victor/Whizbang/10917018.jpg</thumbnail>
+		<title>Solar Storm Chase</title>
+		<creator>Reliable Victor Whizbang</creator>
+		<relatedgames />
+	</game>
+	<game id="17567998" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Verbose/Sam/Quasar/17567998.jpg</thumbnail>
+		<title>Mission Techno Nano</title>
+		<creator>Verbose Sam Quasar</creator>
+		<relatedgames />
+	</game>
+	<game id="16958340" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/22/2012">
+		<thumbnail>/gamecreators/images2/Artful/Kate/Bongo/16958340.jpg</thumbnail>
+		<title>Storm Rocket Jetray</title>
+		<creator>Artful Kate Bongo</creator>
+		<relatedgames />
+	</game>
+	<game id="10923562" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Mumbling/Spencer/Stampede/10923562.jpg</thumbnail>
+		<title>Razor Rustbucket Adventure</title>
+		<creator>Mumbling Spencer Stampede</creator>
+		<relatedgames />
+	</game>
+	<game id="10937074" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Infinite/Goliath/Cyborg/10937074.jpg</thumbnail>
+		<title>Spike Robot Pursuit</title>
+		<creator>Infinite Goliath Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="10919862" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Towering/Brandy/Nibbles/10919862.jpg</thumbnail>
+		<title>Burst Power Challenge</title>
+		<creator>Towering Brandy Nibbles</creator>
+		<relatedgames />
+	</game>
+	<game id="10922314" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Bashful/Elroy/Sprout/10922314.jpg</thumbnail>
+		<title>Assault Shadow Droid</title>
+		<creator>Bashful Elroy Sprout</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

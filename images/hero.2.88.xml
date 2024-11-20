@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10917016" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Baffling/Thomas/Zombie/10917016.jpg</thumbnail>
+		<title>Rampage Cosmic Swampfire</title>
+		<creator>Baffling Thomas Zombie</creator>
+		<relatedgames />
+	</game>
+	<game id="10040167" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Honest/Milo/Moonbeam/10040167.jpg</thumbnail>
+		<title>Sonic Pulse Invasion</title>
+		<creator>Honest Milo Moonbeam</creator>
+		<relatedgames />
+	</game>
+	<game id="10921240" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Plucky/Breanna/Figment/10921240.jpg</thumbnail>
+		<title>Animo Rock Beast</title>
+		<creator>Plucky Breanna Figment</creator>
+		<relatedgames />
+	</game>
+	<game id="10032655" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Massive/Ginger/Phantom/10032655.jpg</thumbnail>
+		<title>Turbo Rock Plasma</title>
+		<creator>Massive Ginger Phantom</creator>
+		<relatedgames />
+	</game>
+	<game id="17415515" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Radical/Nick/Cutlass/17415515.jpg</thumbnail>
+		<title>Cosmic Rocket Universe</title>
+		<creator>Radical Nick Cutlass</creator>
+		<relatedgames />
+	</game>
+	<game id="17318747" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Gross/Newton/Windmill/17318747.jpg</thumbnail>
+		<title>Shadow Blaster Atomic</title>
+		<creator>Gross Newton Windmill</creator>
+		<relatedgames />
+	</game>
+	<game id="10916797" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Spectral/Thomas/Zigzag/10916797.jpg</thumbnail>
+		<title>Universe Chase Patrol</title>
+		<creator>Spectral Thomas Zigzag</creator>
+		<relatedgames />
+	</game>
+	<game id="10943083" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Alien/Elijah/Fossil/10943083.jpg</thumbnail>
+		<title>Ultimate Shock Magno</title>
+		<creator>Alien Elijah Fossil</creator>
+		<relatedgames />
+	</game>
+	<game id="17126481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/15/2012">
+		<thumbnail>/gamecreators/images2/Restless/Xerxes/Kook/17126481.jpg</thumbnail>
+		<title>Sonic Chase Blaster</title>
+		<creator>Restless Xerxes Kook</creator>
+		<relatedgames />
+	</game>
+	<game id="17182146" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/02/2012">
+		<thumbnail>/gamecreators/images2/Famous/Karl/Fossil/17182146.jpg</thumbnail>
+		<title>Adventure Rush Light</title>
+		<creator>Famous Karl Fossil</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

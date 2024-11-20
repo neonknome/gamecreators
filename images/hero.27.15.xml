@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17378377" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Fabulous/Austin/Behemoth/17378377.jpg</thumbnail>
+		<title>Cosmic Big Spark</title>
+		<creator>Fabulous Austin Behemoth</creator>
+		<relatedgames />
+	</game>
+	<game id="16978061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Solid/Alexa/Beast/16978061.jpg</thumbnail>
+		<title>Steel Warp Galaxy</title>
+		<creator>Solid Alexa Beast</creator>
+		<relatedgames />
+	</game>
+	<game id="17389282" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Scruffy/Drake/Enigma/17389282.jpg</thumbnail>
+		<title>Battle Echo Beast</title>
+		<creator>Scruffy Drake Enigma</creator>
+		<relatedgames />
+	</game>
+	<game id="10923277" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Pretty/Valerie/Buzzard/10923277.jpg</thumbnail>
+		<title>Ultra Nova Hero</title>
+		<creator>Pretty Valerie Buzzard</creator>
+		<relatedgames />
+	</game>
+	<game id="17322959" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Colossal/Arthur/Cyborg/17322959.jpg</thumbnail>
+		<title>Jetray Slam Assault</title>
+		<creator>Colossal Arthur Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="10918154" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Frosty/Ramona/Sphinx/10918154.jpg</thumbnail>
+		<title>Ambush Breaker Fury</title>
+		<creator>Frosty Ramona Sphinx</creator>
+		<relatedgames />
+	</game>
+	<game id="17346658" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2012">
+		<thumbnail>/gamecreators/images2/Electric/Bailey/Beast/17346658.jpg</thumbnail>
+		<title>Champion Stone Slam</title>
+		<creator>Electric Bailey Beast</creator>
+		<relatedgames />
+	</game>
+	<game id="17281055" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Generous/Lillian/Doodle/17281055.jpg</thumbnail>
+		<title>Rescue Assault Ambush</title>
+		<creator>Generous Lillian Doodle</creator>
+		<relatedgames />
+	</game>
+	<game id="10952189" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Shrewd/Corey/Stampede/10952189.jpg</thumbnail>
+		<title>Cosmic Robot Hero</title>
+		<creator>Shrewd Corey Stampede</creator>
+		<relatedgames />
+	</game>
+	<game id="10924623" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Purple/Thor/Thorax/10924623.jpg</thumbnail>
+		<title>Pulse Atomic Target</title>
+		<creator>Purple Thor Thorax</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

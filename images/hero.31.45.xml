@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10916978" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Powerful/Dominic/Grackle/10916978.jpg</thumbnail>
+		<title>Drone Mega Hero</title>
+		<creator>Powerful Dominic Grackle</creator>
+		<relatedgames />
+	</game>
+	<game id="17236848" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/18/2012">
+		<thumbnail>/gamecreators/images2/Colonel/Amy/Blammo/17236848.jpg</thumbnail>
+		<title>Champion Universe Water</title>
+		<creator>Colonel Amy Blammo</creator>
+		<relatedgames />
+	</game>
+	<game id="10925521" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Eerie/Dominic/Quack/10925521.jpg</thumbnail>
+		<title>Turbo Titan Patrol</title>
+		<creator>Eerie Dominic Quack</creator>
+		<relatedgames />
+	</game>
+	<game id="10041474" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Crafty/Harvey/Atom/10041474.jpg</thumbnail>
+		<title>Swampfire Ultimate Smash</title>
+		<creator>Crafty Harvey Atom</creator>
+		<relatedgames />
+	</game>
+	<game id="17161179" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/26/2012">
+		<thumbnail>/gamecreators/images2/Galactic/Zeus/Celsius/17161179.jpg</thumbnail>
+		<title>Chill Nano Adventure</title>
+		<creator>Galactic Zeus Celsius</creator>
+		<relatedgames />
+	</game>
+	<game id="16886061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/05/2012">
+		<thumbnail>/gamecreators/images2/Shiny/Kara/Insect/16886061.jpg</thumbnail>
+		<title>Adventure Pulse Attack</title>
+		<creator>Shiny Kara Insect</creator>
+		<relatedgames />
+	</game>
+	<game id="17385004" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Purple/Dominic/Gorilla/17385004.jpg</thumbnail>
+		<title>Adventure Adventure Stone</title>
+		<creator>Purple Dominic Gorilla</creator>
+		<relatedgames />
+	</game>
+	<game id="17383696" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Athletic/Calvin/Buffalo/17383696.jpg</thumbnail>
+		<title>Metal Shadow Hex</title>
+		<creator>Athletic Calvin Buffalo</creator>
+		<relatedgames />
+	</game>
+	<game id="10921963" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Northern/Jenna/Yoyo/10921963.jpg</thumbnail>
+		<title>Swampfire Challenge Ultimate</title>
+		<creator>Northern Jenna Yoyo</creator>
+		<relatedgames />
+	</game>
+	<game id="10039014" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Loopy/Logan/Chimera/10039014.jpg</thumbnail>
+		<title>Mega Fire Slam</title>
+		<creator>Loopy Logan Chimera</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

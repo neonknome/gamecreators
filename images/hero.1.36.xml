@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10922314" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Bashful/Elroy/Sprout/10922314.jpg</thumbnail>
+		<title>Assault Shadow Droid</title>
+		<creator>Bashful Elroy Sprout</creator>
+		<relatedgames />
+	</game>
+	<game id="17191784" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/05/2012">
+		<thumbnail>/gamecreators/images2/Active/Michael/Trooper/17191784.jpg</thumbnail>
+		<title>Razor Droid Galaxy</title>
+		<creator>Active Michael Trooper</creator>
+		<relatedgames />
+	</game>
+	<game id="16873112" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/02/2012">
+		<thumbnail>/gamecreators/images2/Aromatic/Amy/Mango/16873112.jpg</thumbnail>
+		<title>Rocket Smash Power</title>
+		<creator>Aromatic Amy Mango</creator>
+		<relatedgames />
+	</game>
+	<game id="17356933" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>/gamecreators/images2/Sassy/Aaron/Baloney/17356933.jpg</thumbnail>
+		<title>Spidermonkey Dark Target</title>
+		<creator>Sassy Aaron Baloney</creator>
+		<relatedgames />
+	</game>
+	<game id="16977448" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Western/Cameron/Jigsaw/16977448.jpg</thumbnail>
+		<title>Assault Humongousaur Laser</title>
+		<creator>Western Cameron Jigsaw</creator>
+		<relatedgames />
+	</game>
+	<game id="10063245" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Fierce/Shelby/Zigzag/10063245.jpg</thumbnail>
+		<title>Shadow Invasion Shadow</title>
+		<creator>Fierce Shelby Zigzag</creator>
+		<relatedgames />
+	</game>
+	<game id="10038151" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Dramatic/Nick/Porridge/10038151.jpg</thumbnail>
+		<title>Ultra Doom Storm</title>
+		<creator>Dramatic Nick Porridge</creator>
+		<relatedgames />
+	</game>
+	<game id="10931645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Handsome/Vinny/Thing/10931645.jpg</thumbnail>
+		<title>Battle Spark Plasma</title>
+		<creator>Handsome Vinny Thing</creator>
+		<relatedgames />
+	</game>
+	<game id="10953549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Frantic/Chester/Walrus/10953549.jpg</thumbnail>
+		<title>Chase Slam Alien</title>
+		<creator>Frantic Chester Walrus</creator>
+		<relatedgames />
+	</game>
+	<game id="10916703" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Rugged/Bianca/Fiddle/10916703.jpg</thumbnail>
+		<title>Razor Alien Shock</title>
+		<creator>Rugged Bianca Fiddle</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

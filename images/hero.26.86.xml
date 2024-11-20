@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10057799" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Swift/Vinny/Crater/10057799.jpg</thumbnail>
+		<title>Swampfire Thunder Adventure</title>
+		<creator>Swift Vinny Crater</creator>
+		<relatedgames />
+	</game>
+	<game id="10924783" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Cosmic/Harry/Bongo/10924783.jpg</thumbnail>
+		<title>Force Rustbucket Attack</title>
+		<creator>Cosmic Harry Bongo</creator>
+		<relatedgames />
+	</game>
+	<game id="10922307" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fuzzy/Harry/Droid/10922307.jpg</thumbnail>
+		<title>Fire Attack Power</title>
+		<creator>Fuzzy Harry Droid</creator>
+		<relatedgames />
+	</game>
+	<game id="10919699" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Shaggy/Shawn/Dodo/10919699.jpg</thumbnail>
+		<title>Smash Doom Giga</title>
+		<creator>Shaggy Shawn Dodo</creator>
+		<relatedgames />
+	</game>
+	<game id="17568616" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Brisk/Aubrey/Camel/17568616.jpg</thumbnail>
+		<title>Cannonbolt Cosmic Omniverse</title>
+		<creator>Brisk Aubrey Camel</creator>
+		<relatedgames />
+	</game>
+	<game id="10918851" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Fanciful/Mandy/Cinnamon/10918851.jpg</thumbnail>
+		<title>Metal Sonic Blaster</title>
+		<creator>Fanciful Mandy Cinnamon</creator>
+		<relatedgames />
+	</game>
+	<game id="10942748" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Jolly/Bryan/Kook/10942748.jpg</thumbnail>
+		<title>Adventure Rustbucket Iron</title>
+		<creator>Jolly Bryan Kook</creator>
+		<relatedgames />
+	</game>
+	<game id="10953298" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Grizzly/Mitchell/Hiccup/10953298.jpg</thumbnail>
+		<title>Energy Robot Solar</title>
+		<creator>Grizzly Mitchell Hiccup</creator>
+		<relatedgames />
+	</game>
+	<game id="17418777" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Normal/Faith/Brick/17418777.jpg</thumbnail>
+		<title>Shadow Adventure Space</title>
+		<creator>Normal Faith Brick</creator>
+		<relatedgames />
+	</game>
+	<game id="17343049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>/gamecreators/images2/Spectral/Don/Goblin/17343049.jpg</thumbnail>
+		<title>Hero Burst Invasion</title>
+		<creator>Spectral Don Goblin</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

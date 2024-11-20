@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17316554" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Queen/Rich/Sunshine/17316554.jpg</thumbnail>
+		<title>Rustbucket Techno Robot</title>
+		<creator>Queen Rich Sunshine</creator>
+		<relatedgames />
+	</game>
+	<game id="10923803" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Noisy/Avery/Gazelle/10923803.jpg</thumbnail>
+		<title>Space Ambush Racer</title>
+		<creator>Noisy Avery Gazelle</creator>
+		<relatedgames />
+	</game>
+	<game id="10928827" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Adorable/Caitlin/Flamingo/10928827.jpg</thumbnail>
+		<title>Metal Danger Light</title>
+		<creator>Adorable Caitlin Flamingo</creator>
+		<relatedgames />
+	</game>
+	<game id="10937447" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Valiant/Evan/Varmint/10937447.jpg</thumbnail>
+		<title>Ben Techno Lightning</title>
+		<creator>Valiant Evan Varmint</creator>
+		<relatedgames />
+	</game>
+	<game id="10947806" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Brave/Alex/Spiral/10947806.jpg</thumbnail>
+		<title>Alien Ambush Adventure</title>
+		<creator>Brave Alex Spiral</creator>
+		<relatedgames />
+	</game>
+	<game id="16982204" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>/gamecreators/images2/Keen/Caleb/Cyclone/16982204.jpg</thumbnail>
+		<title>Water Dark Titan</title>
+		<creator>Keen Caleb Cyclone</creator>
+		<relatedgames />
+	</game>
+	<game id="17280235" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Reckless/Waldo/Popcorn/17280235.jpg</thumbnail>
+		<title>Fire Fire Fire</title>
+		<creator>Reckless Waldo Popcorn</creator>
+		<relatedgames />
+	</game>
+	<game id="10047265" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Unusual/Daniel/Waffle/10047265.jpg</thumbnail>
+		<title>Fire Racer Turbo</title>
+		<creator>Unusual Daniel Waffle</creator>
+		<relatedgames />
+	</game>
+	<game id="10916719" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Obvious/Anthony/Goofball/10916719.jpg</thumbnail>
+		<title>Swampfire Rampage Chase</title>
+		<creator>Obvious Anthony Goofball</creator>
+		<relatedgames />
+	</game>
+	<game id="17305923" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>/gamecreators/images2/Daring/Bryce/Cyborg/17305923.jpg</thumbnail>
+		<title>Patrol Turbo Chase</title>
+		<creator>Daring Bryce Cyborg</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

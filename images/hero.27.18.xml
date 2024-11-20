@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10843570" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2009">
+		<thumbnail>/gamecreators/images2/Freaky/Savannah/Oddball/10843570.jpg</thumbnail>
+		<title>Rampage Earth Fusion</title>
+		<creator>Freaky Savannah Oddball</creator>
+		<relatedgames />
+	</game>
+	<game id="17293144" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>/gamecreators/images2/Savage/Erika/Tsunami/17293144.jpg</thumbnail>
+		<title>Titan Charge Quake</title>
+		<creator>Savage Erika Tsunami</creator>
+		<relatedgames />
+	</game>
+	<game id="10921871" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Atomic/Vanessa/Zip/10921871.jpg</thumbnail>
+		<title>Shadow Power Hyper</title>
+		<creator>Atomic Vanessa Zip</creator>
+		<relatedgames />
+	</game>
+	<game id="10942680" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Shiny/Nicole/Zing/10942680.jpg</thumbnail>
+		<title>Swampfire Clash Charge</title>
+		<creator>Shiny Nicole Zing</creator>
+		<relatedgames />
+	</game>
+	<game id="10917016" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Baffling/Thomas/Zombie/10917016.jpg</thumbnail>
+		<title>Rampage Cosmic Swampfire</title>
+		<creator>Baffling Thomas Zombie</creator>
+		<relatedgames />
+	</game>
+	<game id="17159498" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/25/2012">
+		<thumbnail>/gamecreators/images2/Eastern/Grover/Bagpipe/17159498.jpg</thumbnail>
+		<title>Adventure Champion Cosmic</title>
+		<creator>Eastern Grover Bagpipe</creator>
+		<relatedgames />
+	</game>
+	<game id="10040167" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Honest/Milo/Moonbeam/10040167.jpg</thumbnail>
+		<title>Sonic Pulse Invasion</title>
+		<creator>Honest Milo Moonbeam</creator>
+		<relatedgames />
+	</game>
+	<game id="10926927" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dainty/Darla/Ketchup/10926927.jpg</thumbnail>
+		<title>Doom Rampage Defense</title>
+		<creator>Dainty Darla Ketchup</creator>
+		<relatedgames />
+	</game>
+	<game id="16983993" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/30/2012">
+		<thumbnail>/gamecreators/images2/Visible/Gladys/Kangaroo/16983993.jpg</thumbnail>
+		<title>Patrol Ultimate Beast</title>
+		<creator>Visible Gladys Kangaroo</creator>
+		<relatedgames />
+	</game>
+	<game id="17388061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Brisk/Josiah/Yoyo/17388061.jpg</thumbnail>
+		<title>Cosmic Echo Metal</title>
+		<creator>Brisk Josiah Yoyo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

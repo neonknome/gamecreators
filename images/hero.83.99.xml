@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17301462" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Ironic/Isaac/Deadbolt/17301462.jpg</thumbnail>
+		<title>Thunder Ultra Alien</title>
+		<creator>Ironic Isaac Deadbolt</creator>
+		<relatedgames />
+	</game>
+	<game id="10017418" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Awesome/Travis/Kangaroo/10017418.jpg</thumbnail>
+		<title>Hyper Humongousaur Force</title>
+		<creator>Awesome Travis Kangaroo</creator>
+		<relatedgames />
+	</game>
+	<game id="10929624" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dynamic/Clyde/Fondue/10929624.jpg</thumbnail>
+		<title>Ben Ben Ben</title>
+		<creator>Dynamic Clyde Fondue</creator>
+		<relatedgames />
+	</game>
+	<game id="10953659" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Hefty/Brandy/Turtle/10953659.jpg</thumbnail>
+		<title>Clash Iron Rescue</title>
+		<creator>Hefty Brandy Turtle</creator>
+		<relatedgames />
+	</game>
+	<game id="17554096" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Frugal/Emmett/Rhombus/17554096.jpg</thumbnail>
+		<title>Robot Challenge Vilgax</title>
+		<creator>Frugal Emmett Rhombus</creator>
+		<relatedgames />
+	</game>
+	<game id="17403705" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Howling/Nicholas/Sardine/17403705.jpg</thumbnail>
+		<title>Escape Ambush Slam</title>
+		<creator>Howling Nicholas Sardine</creator>
+		<relatedgames />
+	</game>
+	<game id="17281287" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Super/Alice/Knight/17281287.jpg</thumbnail>
+		<title>Warrior Swampfire Storm</title>
+		<creator>Super Alice Knight</creator>
+		<relatedgames />
+	</game>
+	<game id="10928502" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Awesome/Anthony/Monkey/10928502.jpg</thumbnail>
+		<title>Invasion Danger Fusion</title>
+		<creator>Awesome Anthony Monkey</creator>
+		<relatedgames />
+	</game>
+	<game id="10063843" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Shrewd/Minerva/Aurora/10063843.jpg</thumbnail>
+		<title>Storm Plasma Spike</title>
+		<creator>Shrewd Minerva Aurora</creator>
+		<relatedgames />
+	</game>
+	<game id="17302569" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Zany/Scott/Snake/17302569.jpg</thumbnail>
+		<title>Humungousaur Target Adventure</title>
+		<creator>Zany Scott Snake</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

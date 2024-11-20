@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10952470" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Puzzling/Misty/Polliwog/10952470.jpg</thumbnail>
+		<title>Racer Burst Fusion</title>
+		<creator>Puzzling Misty Polliwog</creator>
+		<relatedgames />
+	</game>
+	<game id="17311257" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>/gamecreators/images2/Epic/Igor/Minotaur/17311257.jpg</thumbnail>
+		<title>Adventure Sonic Fury</title>
+		<creator>Epic Igor Minotaur</creator>
+		<relatedgames />
+	</game>
+	<game id="10925503" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Curious/Tyler/Tiptoe/10925503.jpg</thumbnail>
+		<title>Pursuit Razor Energy</title>
+		<creator>Curious Tyler Tiptoe</creator>
+		<relatedgames />
+	</game>
+	<game id="17404696" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Golden/Benjamin/Hedgehog/17404696.jpg</thumbnail>
+		<title>Robot Hyper Mission</title>
+		<creator>Golden Benjamin Hedgehog</creator>
+		<relatedgames />
+	</game>
+	<game id="17389747" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Sleepy/William/Tiger/17389747.jpg</thumbnail>
+		<title>Attack Mission Big</title>
+		<creator>Sleepy William Tiger</creator>
+		<relatedgames />
+	</game>
+	<game id="17349390" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>/gamecreators/images2/Perilous/Heidi/Smidgen/17349390.jpg</thumbnail>
+		<title>Racer Energy Iron</title>
+		<creator>Perilous Heidi Smidgen</creator>
+		<relatedgames />
+	</game>
+	<game id="17352173" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>/gamecreators/images2/Majestic/Michael/Electron/17352173.jpg</thumbnail>
+		<title>Jetray Cosmic Adventure</title>
+		<creator>Majestic Michael Electron</creator>
+		<relatedgames />
+	</game>
+	<game id="10953624" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Witty/Madison/Squish/10953624.jpg</thumbnail>
+		<title>Power Spike Hyper</title>
+		<creator>Witty Madison Squish</creator>
+		<relatedgames />
+	</game>
+	<game id="17333355" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Princess/Wes/Jungle/17333355.jpg</thumbnail>
+		<title>Stone Nitro Fusion</title>
+		<creator>Princess Wes Jungle</creator>
+		<relatedgames />
+	</game>
+	<game id="10936010" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Surreal/Ivy/Fury/10936010.jpg</thumbnail>
+		<title>Thunder Giga Swampfire</title>
+		<creator>Surreal Ivy Fury</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

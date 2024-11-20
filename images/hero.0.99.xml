@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17376817" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2012">
+		<thumbnail>/gamecreators/images2/Devious/Devon/Glitch/17376817.jpg</thumbnail>
+		<title>Lightning Metal Fusion</title>
+		<creator>Devious Devon Glitch</creator>
+		<relatedgames />
+	</game>
+	<game id="17336082" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Grubby/Clyde/Glop/17336082.jpg</thumbnail>
+		<title>Big Turbo Rush</title>
+		<creator>Grubby Clyde Glop</creator>
+		<relatedgames />
+	</game>
+	<game id="17391991" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Speedy/Eli/Firefly/17391991.jpg</thumbnail>
+		<title>Nova Power Fury</title>
+		<creator>Speedy Eli Firefly</creator>
+		<relatedgames />
+	</game>
+	<game id="10924415" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Robotic/Tom/Wombat/10924415.jpg</thumbnail>
+		<title>Swampfire Sonic Escape</title>
+		<creator>Robotic Tom Wombat</creator>
+		<relatedgames />
+	</game>
+	<game id="10953481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Artistic/Leonardo/Zebra/10953481.jpg</thumbnail>
+		<title>Plasma Robot Fusion</title>
+		<creator>Artistic Leonardo Zebra</creator>
+		<relatedgames />
+	</game>
+	<game id="17561116" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Gross/Vinny/Gamer/17561116.jpg</thumbnail>
+		<title>Rescue Warrior Water</title>
+		<creator>Gross Vinny Gamer</creator>
+		<relatedgames />
+	</game>
+	<game id="10940027" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Hectic/Matt/Bingo/10940027.jpg</thumbnail>
+		<title>Streak Warp Rumble</title>
+		<creator>Hectic Matt Bingo</creator>
+		<relatedgames />
+	</game>
+	<game id="10946286" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Adorable/Benjamin/Robot/10946286.jpg</thumbnail>
+		<title>Fire Fire Robot</title>
+		<creator>Adorable Benjamin Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="17574657" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Creepy/George/Sprinkle/17574657.jpg</thumbnail>
+		<title>Chill Plumber Vilgax</title>
+		<creator>Creepy George Sprinkle</creator>
+		<relatedgames />
+	</game>
+	<game id="17259079" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>/gamecreators/images2/Queen/Lawrence/Eggplant/17259079.jpg</thumbnail>
+		<title>Cosmic Iron Chill</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

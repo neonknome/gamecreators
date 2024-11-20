@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10944444" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Fuzzy/Alan/Sprinkle/10944444.jpg</thumbnail>
+		<title>Mission Champion Galaxy</title>
+		<creator>Fuzzy Alan Sprinkle</creator>
+		<relatedgames />
+	</game>
+	<game id="10952842" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Proper/Brandon/Thud/10952842.jpg</thumbnail>
+		<title>Pursuit Beast Rumble</title>
+		<creator>Proper Brandon Thud</creator>
+		<relatedgames />
+	</game>
+	<game id="10953330" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Sincere/Noah/Barnacle/10953330.jpg</thumbnail>
+		<title>Plumber Attack Ultimate</title>
+		<creator>Sincere Noah Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="17585253" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Elite/Nicolas/Crater/17585253.jpg</thumbnail>
+		<title>Universe Robot Storm</title>
+		<creator>Elite Nicolas Crater</creator>
+		<relatedgames />
+	</game>
+	<game id="17148915" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/22/2012">
+		<thumbnail>/gamecreators/images2/Creative/Fred/Robot/17148915.jpg</thumbnail>
+		<title>Alien Ambush Challenge</title>
+		<creator>Creative Fred Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="10952801" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Ghostly/Laura/Bramble/10952801.jpg</thumbnail>
+		<title>Charge Fusion Drone</title>
+		<creator>Ghostly Laura Bramble</creator>
+		<relatedgames />
+	</game>
+	<game id="17078645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/01/2012">
+		<thumbnail>/gamecreators/images2/Captain/Waldo/Samurai/17078645.jpg</thumbnail>
+		<title>Challenge Quake Crusher</title>
+		<creator>Captain Waldo Samurai</creator>
+		<relatedgames />
+	</game>
+	<game id="17322770" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/09/2012">
+		<thumbnail>/gamecreators/images2/Fiery/Holly/Phoenix/17322770.jpg</thumbnail>
+		<title>Spike Star Clash</title>
+		<creator>Fiery Holly Phoenix</creator>
+		<relatedgames />
+	</game>
+	<game id="17218349" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>/gamecreators/images2/Odd/Jeremy/Knight/17218349.jpg</thumbnail>
+		<title>Light Atomic Vilgax</title>
+		<creator>Odd Jeremy Knight</creator>
+		<relatedgames />
+	</game>
+	<game id="17388599" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Luminous/Brooke/Shogun/17388599.jpg</thumbnail>
+		<title>Ultimate Steel Warrior</title>
+		<creator>Luminous Brooke Shogun</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

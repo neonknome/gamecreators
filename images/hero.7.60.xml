@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17304147" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Flying/Stanley/Quake/17304147.jpg</thumbnail>
+		<title>Cannonbolt Cannonbolt Cannonbolt</title>
+		<creator>Flying Stanley Quake</creator>
+		<relatedgames />
+	</game>
+	<game id="10928980" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Rowdy/Larry/Grouch/10928980.jpg</thumbnail>
+		<title>Chase Earth Thunder</title>
+		<creator>Rowdy Larry Grouch</creator>
+		<relatedgames />
+	</game>
+	<game id="16981961" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>/gamecreators/images2/Athletic/Ernie/Aardvark/16981961.jpg</thumbnail>
+		<title>Alien Dark Mission</title>
+		<creator>Athletic Ernie Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="17339068" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Devious/Jason/Shock/17339068.jpg</thumbnail>
+		<title>Plumber Space Techno</title>
+		<creator>Devious Jason Shock</creator>
+		<relatedgames />
+	</game>
+	<game id="17135325" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/18/2012">
+		<thumbnail>/gamecreators/images2/Nautical/Diego/Bonanza/17135325.jpg</thumbnail>
+		<title>Rampage Hyper Adventure</title>
+		<creator>Nautical Diego Bonanza</creator>
+		<relatedgames />
+	</game>
+	<game id="10923520" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Itchy/Jared/Kazoo/10923520.jpg</thumbnail>
+		<title>Swampfire Invasion Storm</title>
+		<creator>Itchy Jared Kazoo</creator>
+		<relatedgames />
+	</game>
+	<game id="17379329" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Quirky/Aiden/Moonbeam/17379329.jpg</thumbnail>
+		<title>Iron Iron Gear</title>
+		<creator>Quirky Aiden Moonbeam</creator>
+		<relatedgames />
+	</game>
+	<game id="10066790" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Tricky/Trevor/Zebra/10066790.jpg</thumbnail>
+		<title>Iron Burst Shadow</title>
+		<creator>Tricky Trevor Zebra</creator>
+		<relatedgames />
+	</game>
+	<game id="17201813" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/08/2012">
+		<thumbnail>/gamecreators/images2/Agile/Alan/Jinx/17201813.jpg</thumbnail>
+		<title>Ben Attack Robot</title>
+		<creator>Agile Alan Jinx</creator>
+		<relatedgames />
+	</game>
+	<game id="10786277" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>/gamecreators/images2/Crispy/Michael/Spider/10786277.jpg</thumbnail>
+		<title>Titan Rescue Burst</title>
+		<creator>Crispy Michael Spider</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10017418" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Awesome/Travis/Kangaroo/10017418.jpg</thumbnail>
+		<title>Hyper Humongousaur Force</title>
+		<creator>Awesome Travis Kangaroo</creator>
+		<relatedgames />
+	</game>
+	<game id="10953659" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Hefty/Brandy/Turtle/10953659.jpg</thumbnail>
+		<title>Clash Iron Rescue</title>
+		<creator>Hefty Brandy Turtle</creator>
+		<relatedgames />
+	</game>
+	<game id="10953680" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Orange/Sara/Cyborg/10953680.jpg</thumbnail>
+		<title>Hero Robot Shock</title>
+		<creator>Orange Sara Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="17409654" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/12/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Lucas/Mars/17409654.jpg</thumbnail>
+		<title>Assault Titan Laser</title>
+		<creator>Magnetic Lucas Mars</creator>
+		<relatedgames />
+	</game>
+	<game id="17339288" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Wily/Jamie/Presto/17339288.jpg</thumbnail>
+		<title>Chase Hyper Vilgax</title>
+		<creator>Wily Jamie Presto</creator>
+		<relatedgames />
+	</game>
+	<game id="10930717" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Pretty/Isabel/Mallard/10930717.jpg</thumbnail>
+		<title>Crusher Ben Earth</title>
+		<creator>Pretty Isabel Mallard</creator>
+		<relatedgames />
+	</game>
+	<game id="17281287" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Super/Alice/Knight/17281287.jpg</thumbnail>
+		<title>Warrior Swampfire Storm</title>
+		<creator>Super Alice Knight</creator>
+		<relatedgames />
+	</game>
+	<game id="17302569" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Zany/Scott/Snake/17302569.jpg</thumbnail>
+		<title>Humungousaur Target Adventure</title>
+		<creator>Zany Scott Snake</creator>
+		<relatedgames />
+	</game>
+	<game id="10921995" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Colorful/Leslie/Enigma/10921995.jpg</thumbnail>
+		<title>Iron Fury Mission</title>
+		<creator>Colorful Leslie Enigma</creator>
+		<relatedgames />
+	</game>
+	<game id="17403542" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Crystal/Oyster/17403542.jpg</thumbnail>
+		<title>Ultra Nitro Nano</title>
+		<creator>Magnetic Crystal Oyster</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

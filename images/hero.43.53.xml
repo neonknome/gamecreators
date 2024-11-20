@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17362230" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2012">
+		<thumbnail>/gamecreators/images2/Reckless/Igor/Cupcake/17362230.jpg</thumbnail>
+		<title>Space Metal Assault</title>
+		<creator>Reckless Igor Cupcake</creator>
+		<relatedgames />
+	</game>
+	<game id="17390861" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Evil/Jeremy/Nacho/17390861.jpg</thumbnail>
+		<title>Big Chill Mission</title>
+		<creator>Evil Jeremy Nacho</creator>
+		<relatedgames />
+	</game>
+	<game id="10015515" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Alien/Nathan/Parallax/10015515.jpg</thumbnail>
+		<title>Techno Laser Invasion</title>
+		<creator>Alien Nathan Parallax</creator>
+		<relatedgames />
+	</game>
+	<game id="10931774" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Stylish/Alan/Cosmos/10931774.jpg</thumbnail>
+		<title>Alien Universe Racer</title>
+		<creator>Stylish Alan Cosmos</creator>
+		<relatedgames />
+	</game>
+	<game id="17312986" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>/gamecreators/images2/Mellow/Benjamin/Banzai/17312986.jpg</thumbnail>
+		<title>Shadow Rock Nova</title>
+		<creator>Mellow Benjamin Banzai</creator>
+		<relatedgames />
+	</game>
+	<game id="17262083" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Yucky/Rufus/Kiwi/17262083.jpg</thumbnail>
+		<title>Invasion Spidermonkey Rock</title>
+		<creator>Yucky Rufus Kiwi</creator>
+		<relatedgames />
+	</game>
+	<game id="17286455" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>/gamecreators/images2/Classic/Angela/Aviator/17286455.jpg</thumbnail>
+		<title>Doom Danger Adventure</title>
+		<creator>Classic Angela Aviator</creator>
+		<relatedgames />
+	</game>
+	<game id="10057799" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Swift/Vinny/Crater/10057799.jpg</thumbnail>
+		<title>Swampfire Thunder Adventure</title>
+		<creator>Swift Vinny Crater</creator>
+		<relatedgames />
+	</game>
+	<game id="10924783" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Cosmic/Harry/Bongo/10924783.jpg</thumbnail>
+		<title>Force Rustbucket Attack</title>
+		<creator>Cosmic Harry Bongo</creator>
+		<relatedgames />
+	</game>
+	<game id="10921477" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Humorous/Lorenzo/Igloo/10921477.jpg</thumbnail>
+		<title>Fire Siege Giga</title>
+		<creator>Humorous Lorenzo Igloo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

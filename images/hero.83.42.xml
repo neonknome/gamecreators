@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17383531" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Princess/Melanie/Penguin/17383531.jpg</thumbnail>
+		<title>Battle Chill Search</title>
+		<creator>Princess Melanie Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="10925948" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Silly/Joshua/Thunder/10925948.jpg</thumbnail>
+		<title>Adventure Storm Siege</title>
+		<creator>Silly Joshua Thunder</creator>
+		<relatedgames />
+	</game>
+	<game id="17400211" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/07/2012">
+		<thumbnail>/gamecreators/images2/Elegant/George/Doodad/17400211.jpg</thumbnail>
+		<title>Rush Ultra Hero</title>
+		<creator>Elegant George Doodad</creator>
+		<relatedgames />
+	</game>
+	<game id="17016612" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>/gamecreators/images2/Cranky/Zeb/Martian/17016612.jpg</thumbnail>
+		<title>Alien Terraspin Ambush</title>
+		<creator>Cranky Zeb Martian</creator>
+		<relatedgames />
+	</game>
+	<game id="17335294" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Ghastly/Olive/Cyborg/17335294.jpg</thumbnail>
+		<title>Target Chase Robot</title>
+		<creator>Ghastly Olive Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="17326435" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Silent/Gus/Carousel/17326435.jpg</thumbnail>
+		<title>Spark Patrol Challenge</title>
+		<creator>Silent Gus Carousel</creator>
+		<relatedgames />
+	</game>
+	<game id="16867305" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>/gamecreators/images2/Baron/Jose/Polka/16867305.jpg</thumbnail>
+		<title>Ultimate Rocket Nano</title>
+		<creator>Baron Jose Polka</creator>
+		<relatedgames />
+	</game>
+	<game id="10706453" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Sloppy/Derrick/Blade/10706453.jpg</thumbnail>
+		<title>Rustbucket Rumble Champion</title>
+		<creator>Sloppy Derrick Blade</creator>
+		<relatedgames />
+	</game>
+	<game id="17338691" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Gentle/Clifford/Beast/17338691.jpg</thumbnail>
+		<title>Ben Adventure Cosmic</title>
+		<creator>Gentle Clifford Beast</creator>
+		<relatedgames />
+	</game>
+	<game id="17033336" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/17/2012">
+		<thumbnail>/gamecreators/images2/Epic/Igor/Minotaur/17033336.jpg</thumbnail>
+		<title>Search Energy Chill</title>
+		<creator>Epic Igor Minotaur</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

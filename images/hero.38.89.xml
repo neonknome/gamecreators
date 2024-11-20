@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17380187" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>/gamecreators/images2/Frugal/Ralph/Camel/17380187.jpg</thumbnail>
+		<title>Big Droid Battle</title>
+		<creator>Frugal Ralph Camel</creator>
+		<relatedgames />
+	</game>
+	<game id="17127585" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/15/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Zeb/Bingo/17127585.jpg</thumbnail>
+		<title>Solar Assault Space</title>
+		<creator>Magnetic Zeb Bingo</creator>
+		<relatedgames />
+	</game>
+	<game id="10952455" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Brave/Raymond/Atom/10952455.jpg</thumbnail>
+		<title>Swampfire Smash Vilgax</title>
+		<creator>Brave Raymond Atom</creator>
+		<relatedgames />
+	</game>
+	<game id="17411125" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/13/2012">
+		<thumbnail>/gamecreators/images2/Extreme/Chuck/Pirate/17411125.jpg</thumbnail>
+		<title>Whirlwind Chase Big</title>
+		<creator>Extreme Chuck Pirate</creator>
+		<relatedgames />
+	</game>
+	<game id="17337249" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Ironic/Ghoul/17337249.jpg</thumbnail>
+		<title>Ultimate Cannonbolt Assault</title>
+		<creator>Ironic Ghoul</creator>
+		<relatedgames />
+	</game>
+	<game id="10951422" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Green/Grace/Manatee/10951422.jpg</thumbnail>
+		<title>Adventure Alien Droid</title>
+		<creator>Green Grace Manatee</creator>
+		<relatedgames />
+	</game>
+	<game id="10923803" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Noisy/Avery/Gazelle/10923803.jpg</thumbnail>
+		<title>Space Ambush Racer</title>
+		<creator>Noisy Avery Gazelle</creator>
+		<relatedgames />
+	</game>
+	<game id="17341141" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/15/2012">
+		<thumbnail>/gamecreators/images2/King/Edward/Robot/17341141.jpg</thumbnail>
+		<title>Breaker Siege Earth</title>
+		<creator>King Edward Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="10937447" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Valiant/Evan/Varmint/10937447.jpg</thumbnail>
+		<title>Ben Techno Lightning</title>
+		<creator>Valiant Evan Varmint</creator>
+		<relatedgames />
+	</game>
+	<game id="10947806" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Brave/Alex/Spiral/10947806.jpg</thumbnail>
+		<title>Alien Ambush Adventure</title>
+		<creator>Brave Alex Spiral</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

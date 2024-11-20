@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10922520" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Infinite/Jill/Thorax/10922520.jpg</thumbnail>
+		<title>Swampfire Challenge Hyper</title>
+		<creator>Infinite Jill Thorax</creator>
+		<relatedgames />
+	</game>
+	<game id="17302719" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Fiery/Jose/Walrus/17302719.jpg</thumbnail>
+		<title>Rocket Siege Nitro</title>
+		<creator>Fiery Jose Walrus</creator>
+		<relatedgames />
+	</game>
+	<game id="17027011" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/14/2012">
+		<thumbnail>/gamecreators/images2/Average/Cheyenne/Chutney/17027011.jpg</thumbnail>
+		<title>Big Warrior Alien</title>
+		<creator>Average Cheyenne Chutney</creator>
+		<relatedgames />
+	</game>
+	<game id="17360082" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>/gamecreators/images2/Drowzy/Benny/Droid/17360082.jpg</thumbnail>
+		<title>Clash Smash Fury</title>
+		<creator>Drowzy Benny Droid</creator>
+		<relatedgames />
+	</game>
+	<game id="17353438" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>/gamecreators/images2/Hardy/Skips/Knight/17353438.jpg</thumbnail>
+		<title>Robot Alien Ambush</title>
+		<creator>Hardy Skips Knight</creator>
+		<relatedgames />
+	</game>
+	<game id="10044035" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Freaky/Bugsy/Dragon/10044035.jpg</thumbnail>
+		<title>Hero Shock Quake</title>
+		<creator>Freaky Bugsy Dragon</creator>
+		<relatedgames />
+	</game>
+	<game id="10953653" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Savage/Caroline/Fizz/10953653.jpg</thumbnail>
+		<title>Mega Adventure Alien</title>
+		<creator>Savage Caroline Fizz</creator>
+		<relatedgames />
+	</game>
+	<game id="10062736" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Atomic/Timmy/Parsec/10062736.jpg</thumbnail>
+		<title>Turbo Crusher Laser</title>
+		<creator>Atomic Timmy Parsec</creator>
+		<relatedgames />
+	</game>
+	<game id="10063915" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Zany/Adam/Mumbles/10063915.jpg</thumbnail>
+		<title>Ben Ultra Alien</title>
+		<creator>Zany Adam Mumbles</creator>
+		<relatedgames />
+	</game>
+	<game id="10065982" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Eastern/Brandon/Spider/10065982.jpg</thumbnail>
+		<title>Danger Champion Charge</title>
+		<creator>Eastern Brandon Spider</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10919681" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Wise/Jasmine/Blob/10919681.jpg</thumbnail>
+		<title>Breaker Dark Challenge</title>
+		<creator>Wise Jasmine Blob</creator>
+		<relatedgames />
+	</game>
+	<game id="17386767" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Flying/Brandon/Robot/17386767.jpg</thumbnail>
+		<title>Warrior Atomic Warrior</title>
+		<creator>Flying Brandon Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="10929624" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dynamic/Clyde/Fondue/10929624.jpg</thumbnail>
+		<title>Ben Ben Ben</title>
+		<creator>Dynamic Clyde Fondue</creator>
+		<relatedgames />
+	</game>
+	<game id="17554096" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Frugal/Emmett/Rhombus/17554096.jpg</thumbnail>
+		<title>Robot Challenge Vilgax</title>
+		<creator>Frugal Emmett Rhombus</creator>
+		<relatedgames />
+	</game>
+	<game id="10919889" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Magnetic/Natalie/Monolith/10919889.jpg</thumbnail>
+		<title>Universe Doom Rush</title>
+		<creator>Magnetic Natalie Monolith</creator>
+		<relatedgames />
+	</game>
+	<game id="10923388" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Scary/Orlando/Phantom/10923388.jpg</thumbnail>
+		<title>Ultra Swampfire Battle</title>
+		<creator>Scary Orlando Phantom</creator>
+		<relatedgames />
+	</game>
+	<game id="16977304" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Wily/Sadie/Skeleton/16977304.jpg</thumbnail>
+		<title>Invasion Alien Rush</title>
+		<creator>Wily Sadie Skeleton</creator>
+		<relatedgames />
+	</game>
+	<game id="10921550" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Pretty/Oscar/Fireball/10921550.jpg</thumbnail>
+		<title>Shadow Warrior Ultra</title>
+		<creator>Pretty Oscar Fireball</creator>
+		<relatedgames />
+	</game>
+	<game id="10928502" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Awesome/Anthony/Monkey/10928502.jpg</thumbnail>
+		<title>Invasion Danger Fusion</title>
+		<creator>Awesome Anthony Monkey</creator>
+		<relatedgames />
+	</game>
+	<game id="17562051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Dubious/Kevin/Mustard/17562051.jpg</thumbnail>
+		<title>Rampage Swampfire Storm</title>
+		<creator>Dubious Kevin Mustard</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17395975" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>/gamecreators/images2/Cranky/Gregory/Haystack/17395975.jpg</thumbnail>
+		<title>Solar Ambush Whirlwind</title>
+		<creator>Cranky Gregory Haystack</creator>
+		<relatedgames />
+	</game>
+	<game id="10951732" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Generous/Matthew/Turtle/10951732.jpg</thumbnail>
+		<title>Ben Ben Search</title>
+		<creator>Generous Matthew Turtle</creator>
+		<relatedgames />
+	</game>
+	<game id="10920342" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Putrid/Tabitha/Cactus/10920342.jpg</thumbnail>
+		<title>Nitro Rush Space</title>
+		<creator>Putrid Tabitha Cactus</creator>
+		<relatedgames />
+	</game>
+	<game id="17402735" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>/gamecreators/images2/Sleepy/Destiny/Apple/17402735.jpg</thumbnail>
+		<title>Battle Iron Defense</title>
+		<creator>Sleepy Destiny Apple</creator>
+		<relatedgames />
+	</game>
+	<game id="17423166" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>/gamecreators/images2/Volcanic/Brad/Warrior/17423166.jpg</thumbnail>
+		<title>Light Earth Crusher</title>
+		<creator>Volcanic Brad Warrior</creator>
+		<relatedgames />
+	</game>
+	<game id="17052669" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/24/2012">
+		<thumbnail>/gamecreators/images2/Peppy/Claire/Pizza/17052669.jpg</thumbnail>
+		<title>Earth Siege Alien</title>
+		<creator>Peppy Claire Pizza</creator>
+		<relatedgames />
+	</game>
+	<game id="10939013" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Stout/Larry/Phantom/10939013.jpg</thumbnail>
+		<title>Force Vilgax Hyper</title>
+		<creator>Stout Larry Phantom</creator>
+		<relatedgames />
+	</game>
+	<game id="10655820" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2009">
+		<thumbnail>/gamecreators/images2/Cheerful/Leopold/Mantis/10655820.jpg</thumbnail>
+		<title>Clash Smash Adventure</title>
+		<creator>Cheerful Leopold Mantis</creator>
+		<relatedgames />
+	</game>
+	<game id="17328807" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Flying/Ellen/Banjo/17328807.jpg</thumbnail>
+		<title>Light Energy Racer</title>
+		<creator>Flying Ellen Banjo</creator>
+		<relatedgames />
+	</game>
+	<game id="17338199" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Loud/Connor/Monster/17338199.jpg</thumbnail>
+		<title>Racer Adventure Adventure</title>
+		<creator>Loud Connor Monster</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

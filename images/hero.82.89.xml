@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10918900" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Comical/Ivy/Doodle/10918900.jpg</thumbnail>
+		<title>Vilgax Metal Nova</title>
+		<creator>Comical Ivy Doodle</creator>
+		<relatedgames />
+	</game>
+	<game id="10065361" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Funny/Billy/Barnacle/10065361.jpg</thumbnail>
+		<title>Adventure Smash Racer</title>
+		<creator>Funny Billy Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="17241048" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>/gamecreators/images2/Princess/George/Turbo/17241048.jpg</thumbnail>
+		<title>Rumble Burst Doom</title>
+		<creator>Princess George Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="17258413" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>/gamecreators/images2/Quaint/Scarlett/Sardine/17258413.jpg</thumbnail>
+		<title>Adventure Solar Nova</title>
+		<creator>Quaint Scarlett Sardine</creator>
+		<relatedgames />
+	</game>
+	<game id="10929416" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Elegant/Crystal/Barnacle/10929416.jpg</thumbnail>
+		<title>Iron Universe Space</title>
+		<creator>Elegant Crystal Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="10949874" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Cranky/Theodore/Dwarf/10949874.jpg</thumbnail>
+		<title>Dark Beast Invasion</title>
+		<creator>Cranky Theodore Dwarf</creator>
+		<relatedgames />
+	</game>
+	<game id="17223545" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Ghastly/Norman/Trapeze/17223545.jpg</thumbnail>
+		<title>Adventure Galaxy Assault</title>
+		<creator>Ghastly Norman Trapeze</creator>
+		<relatedgames />
+	</game>
+	<game id="10926231" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Puzzling/Ludwig/Zigzag/10926231.jpg</thumbnail>
+		<title>Sonic Shadow Racer</title>
+		<creator>Puzzling Ludwig Zigzag</creator>
+		<relatedgames />
+	</game>
+	<game id="10953061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Sloppy/Connor/Fondue/10953061.jpg</thumbnail>
+		<title>Nitro Rustbucket Invasion</title>
+		<creator>Sloppy Connor Fondue</creator>
+		<relatedgames />
+	</game>
+	<game id="10952826" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Chilly/Leah/Haystack/10952826.jpg</thumbnail>
+		<title>Pursuit Fire Nova</title>
+		<creator>Chilly Leah Haystack</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

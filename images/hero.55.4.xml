@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17070331" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/29/2012">
+		<thumbnail>/gamecreators/images2/Princess/George/Turbo/17070331.jpg</thumbnail>
+		<title>Challenge Power Warrior</title>
+		<creator>Princess George Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="17551194" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Colossal/Pete/Shovel/17551194.jpg</thumbnail>
+		<title>Nano Adventure Omniverse</title>
+		<creator>Colossal Pete Shovel</creator>
+		<relatedgames />
+	</game>
+	<game id="10055491" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Frugal/Grover/Gorilla/10055491.jpg</thumbnail>
+		<title>Atomic Giga Robot</title>
+		<creator>Frugal Grover Gorilla</creator>
+		<relatedgames />
+	</game>
+	<game id="17379163" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Pretty/Scott/Beeswax/17379163.jpg</thumbnail>
+		<title>Razor Titan Blaster</title>
+		<creator>Pretty Scott Beeswax</creator>
+		<relatedgames />
+	</game>
+	<game id="17259995" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>/gamecreators/images2/Shrewd/Stanley/Sunset/17259995.jpg</thumbnail>
+		<title>Warrior Robot Giga</title>
+		<creator>Shrewd Stanley Sunset</creator>
+		<relatedgames />
+	</game>
+	<game id="10931089" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Puzzling/Gigi/Thunder/10931089.jpg</thumbnail>
+		<title>Rustbucket Quake Magno</title>
+		<creator>Puzzling Gigi Thunder</creator>
+		<relatedgames />
+	</game>
+	<game id="17191739" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/05/2012">
+		<thumbnail>/gamecreators/images2/Elastic/Dwight/Robot/17191739.jpg</thumbnail>
+		<title>Solar Warrior Ambush</title>
+		<creator>Elastic Dwight Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="10952566" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Obvious/Megan/Octopus/10952566.jpg</thumbnail>
+		<title>Ben Alien Force</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames />
+	</game>
+	<game id="10953622" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Spirited/Vladimir/Icicle/10953622.jpg</thumbnail>
+		<title>Pursuit Hex Battle</title>
+		<creator>Spirited Vladimir Icicle</creator>
+		<relatedgames />
+	</game>
+	<game id="17568876" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Cackling/Beth/Ladybug/17568876.jpg</thumbnail>
+		<title>Escape Hex Galaxy</title>
+		<creator>Cackling Beth Ladybug</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

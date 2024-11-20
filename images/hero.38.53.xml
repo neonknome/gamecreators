@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10919497" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Red/Ethel/Atom/10919497.jpg</thumbnail>
+		<title>Alien Stone Solar</title>
+		<creator>Red Ethel Atom</creator>
+		<relatedgames />
+	</game>
+	<game id="10054722" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Brainy/Otis/Ladybug/10054722.jpg</thumbnail>
+		<title>Thunder Sonic Dark</title>
+		<creator>Brainy Otis Ladybug</creator>
+		<relatedgames />
+	</game>
+	<game id="10953622" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Spirited/Vladimir/Icicle/10953622.jpg</thumbnail>
+		<title>Pursuit Hex Battle</title>
+		<creator>Spirited Vladimir Icicle</creator>
+		<relatedgames />
+	</game>
+	<game id="10916978" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Powerful/Dominic/Grackle/10916978.jpg</thumbnail>
+		<title>Drone Mega Hero</title>
+		<creator>Powerful Dominic Grackle</creator>
+		<relatedgames />
+	</game>
+	<game id="10918223" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Purple/Sam/Warp/10918223.jpg</thumbnail>
+		<title>Rumble Swampfire Warrior</title>
+		<creator>Purple Sam Warp</creator>
+		<relatedgames />
+	</game>
+	<game id="17562390" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Tall/Sara/Hippo/17562390.jpg</thumbnail>
+		<title>Fury Adventure Ambush</title>
+		<creator>Tall Sara Hippo</creator>
+		<relatedgames />
+	</game>
+	<game id="10041474" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Crafty/Harvey/Atom/10041474.jpg</thumbnail>
+		<title>Swampfire Ultimate Smash</title>
+		<creator>Crafty Harvey Atom</creator>
+		<relatedgames />
+	</game>
+	<game id="17161179" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/26/2012">
+		<thumbnail>/gamecreators/images2/Galactic/Zeus/Celsius/17161179.jpg</thumbnail>
+		<title>Chill Nano Adventure</title>
+		<creator>Galactic Zeus Celsius</creator>
+		<relatedgames />
+	</game>
+	<game id="17385004" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Purple/Dominic/Gorilla/17385004.jpg</thumbnail>
+		<title>Adventure Adventure Stone</title>
+		<creator>Purple Dominic Gorilla</creator>
+		<relatedgames />
+	</game>
+	<game id="10055886" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Visible/Ben/Yodel/10055886.jpg</thumbnail>
+		<title>Universe Metal Steel</title>
+		<creator>Visible Ben Yodel</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

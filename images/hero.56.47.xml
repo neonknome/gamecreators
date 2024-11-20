@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10704405" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Leaping/Emma/Molecule/10704405.jpg</thumbnail>
+		<title>Fusion Pulse Chase</title>
+		<creator>Leaping Emma Molecule</creator>
+		<relatedgames />
+	</game>
+	<game id="10038814" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Odd/Spike/Thud/10038814.jpg</thumbnail>
+		<title>Fusion Vilgax Techno</title>
+		<creator>Odd Spike Thud</creator>
+		<relatedgames />
+	</game>
+	<game id="17421965" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>/gamecreators/images2/Luminous/Mark/Narwhal/17421965.jpg</thumbnail>
+		<title>Metal Streak Shadow</title>
+		<creator>Luminous Mark Narwhal</creator>
+		<relatedgames />
+	</game>
+	<game id="16977448" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Western/Cameron/Jigsaw/16977448.jpg</thumbnail>
+		<title>Assault Humongousaur Laser</title>
+		<creator>Western Cameron Jigsaw</creator>
+		<relatedgames />
+	</game>
+	<game id="10038151" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Dramatic/Nick/Porridge/10038151.jpg</thumbnail>
+		<title>Ultra Doom Storm</title>
+		<creator>Dramatic Nick Porridge</creator>
+		<relatedgames />
+	</game>
+	<game id="17286455" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>/gamecreators/images2/Classic/Angela/Aviator/17286455.jpg</thumbnail>
+		<title>Doom Danger Adventure</title>
+		<creator>Classic Angela Aviator</creator>
+		<relatedgames />
+	</game>
+	<game id="10953549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Frantic/Chester/Walrus/10953549.jpg</thumbnail>
+		<title>Chase Slam Alien</title>
+		<creator>Frantic Chester Walrus</creator>
+		<relatedgames />
+	</game>
+	<game id="10921998" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Lucky/Katie/Bongo/10921998.jpg</thumbnail>
+		<title>Earth Thunder Ben</title>
+		<creator>Lucky Katie Bongo</creator>
+		<relatedgames />
+	</game>
+	<game id="10916703" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Rugged/Bianca/Fiddle/10916703.jpg</thumbnail>
+		<title>Razor Alien Shock</title>
+		<creator>Rugged Bianca Fiddle</creator>
+		<relatedgames />
+	</game>
+	<game id="10953586" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Atomic/Fred/Jungle/10953586.jpg</thumbnail>
+		<title>Streak Ultimate Nitro</title>
+		<creator>Atomic Fred Jungle</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

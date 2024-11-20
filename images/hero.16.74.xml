@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17551180" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Noisy/Nicholas/Crowbar/17551180.jpg</thumbnail>
+		<title>Ben Echo Star</title>
+		<creator>Noisy Nicholas Crowbar</creator>
+		<relatedgames />
+	</game>
+	<game id="17028218" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/15/2012">
+		<thumbnail>/gamecreators/images2/Solid/Shawn/Oyster/17028218.jpg</thumbnail>
+		<title>Jetray Rock Animo</title>
+		<creator>Solid Shawn Oyster</creator>
+		<relatedgames />
+	</game>
+	<game id="16871238" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>/gamecreators/images2/Aerobic/Larry/Mango/16871238.jpg</thumbnail>
+		<title>Target Robot Fire</title>
+		<creator>Aerobic Larry Mango</creator>
+		<relatedgames />
+	</game>
+	<game id="17332957" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Tiffany/Tugboat/17332957.jpg</thumbnail>
+		<title>Breaker Siege Mega</title>
+		<creator>Magnetic Tiffany Tugboat</creator>
+		<relatedgames />
+	</game>
+	<game id="17202873" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/09/2012">
+		<thumbnail>/gamecreators/images2/Scruffy/Ludwig/Stampede/17202873.jpg</thumbnail>
+		<title>Nova Techno Adventure</title>
+		<creator>Scruffy Ludwig Stampede</creator>
+		<relatedgames />
+	</game>
+	<game id="10942755" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Awesome/Dylan/Lard/10942755.jpg</thumbnail>
+		<title>Power Champion Racer</title>
+		<creator>Awesome Dylan Lard</creator>
+		<relatedgames />
+	</game>
+	<game id="17358951" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>/gamecreators/images2/Duke/Ian/Twilight/17358951.jpg</thumbnail>
+		<title>Metal Smash Robot</title>
+		<creator>Duke Ian Twilight</creator>
+		<relatedgames />
+	</game>
+	<game id="10919003" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Frosty/Scott/Hambone/10919003.jpg</thumbnail>
+		<title>Danger Plasma Battle</title>
+		<creator>Frosty Scott Hambone</creator>
+		<relatedgames />
+	</game>
+	<game id="17408812" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>/gamecreators/images2/Electric/Chase/Reptile/17408812.jpg</thumbnail>
+		<title>Invasion Humungousaur Target</title>
+		<creator>Electric Chase Reptile</creator>
+		<relatedgames />
+	</game>
+	<game id="17418779" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Horrid/Wilford/Rhombus/17418779.jpg</thumbnail>
+		<title>Magno Chase Assault</title>
+		<creator>Horrid Wilford Rhombus</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17241367" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>/gamecreators/images2/Sparkly/Elijah/Noob/17241367.jpg</thumbnail>
+		<title>Adventure Adventure Chase</title>
+		<creator>Sparkly Elijah Noob</creator>
+		<relatedgames />
+	</game>
+	<game id="16977289" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Regular/Will/Noob/16977289.jpg</thumbnail>
+		<title>Ultimate Shadow Invasion</title>
+		<creator>Regular Will Noob</creator>
+		<relatedgames />
+	</game>
+	<game id="16843442" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/26/2012">
+		<thumbnail>/gamecreators/images2/Humble/Thor/Cyclone/16843442.jpg</thumbnail>
+		<title>Chill Razor Shadow</title>
+		<creator>Humble Thor Cyclone</creator>
+		<relatedgames />
+	</game>
+	<game id="17071572" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/29/2012">
+		<thumbnail>/gamecreators/images2/Princess/George/Turbo/17071572.jpg</thumbnail>
+		<title>Vilgax Force Rush</title>
+		<creator>Princess George Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="17344012" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>/gamecreators/images2/Superior/Milo/Sprout/17344012.jpg</thumbnail>
+		<title>Universe Crusher Atomic</title>
+		<creator>Superior Milo Sprout</creator>
+		<relatedgames />
+	</game>
+	<game id="10928607" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Mumbling/Ace/Cactus/10928607.jpg</thumbnail>
+		<title>Warp Solar Steel</title>
+		<creator>Mumbling Ace Cactus</creator>
+		<relatedgames />
+	</game>
+	<game id="10929935" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Colossal/Rhett/Burst/10929935.jpg</thumbnail>
+		<title>Iron Dark Defense</title>
+		<creator>Colossal Rhett Burst</creator>
+		<relatedgames />
+	</game>
+	<game id="17304014" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Titanic/Penny/Calliope/17304014.jpg</thumbnail>
+		<title>Vilgax Nova Siege</title>
+		<creator>Titanic Penny Calliope</creator>
+		<relatedgames />
+	</game>
+	<game id="10058927" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Cranky/Rob/Tractor/10058927.jpg</thumbnail>
+		<title>Galaxy Shock Shock</title>
+		<creator>Cranky Rob Tractor</creator>
+		<relatedgames />
+	</game>
+	<game id="17005665" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/07/2012">
+		<thumbnail>/gamecreators/images2/Icy/Kristina/Twilight/17005665.jpg</thumbnail>
+		<title>Ben Power Adventure</title>
+		<creator>Icy Kristina Twilight</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

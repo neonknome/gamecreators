@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17370463" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>/gamecreators/images2/Positive/Adam/Cinnamon/17370463.jpg</thumbnail>
+		<title>Atomic Iron Defense</title>
+		<creator>Positive Adam Cinnamon</creator>
+		<relatedgames />
+	</game>
+	<game id="10934445" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Clever/Avery/Coconut/10934445.jpg</thumbnail>
+		<title>Animo Power Robot</title>
+		<creator>Clever Avery Coconut</creator>
+		<relatedgames />
+	</game>
+	<game id="17377059" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2012">
+		<thumbnail>/gamecreators/images2/Tall/Casey/Bingo/17377059.jpg</thumbnail>
+		<title>Solar Fusion Sonic</title>
+		<creator>Tall Casey Bingo</creator>
+		<relatedgames />
+	</game>
+	<game id="17392032" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Edgy/Cody/Reptile/17392032.jpg</thumbnail>
+		<title>Fusion Burst Force</title>
+		<creator>Edgy Cody Reptile</creator>
+		<relatedgames />
+	</game>
+	<game id="17574620" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Countess/Quentin/Gator/17574620.jpg</thumbnail>
+		<title>Animo Charge Galaxy</title>
+		<creator>Countess Quentin Gator</creator>
+		<relatedgames />
+	</game>
+	<game id="17019676" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>/gamecreators/images2/Galactic/Luis/Twilight/17019676.jpg</thumbnail>
+		<title>Nano Space Ambush</title>
+		<creator>Galactic Luis Twilight</creator>
+		<relatedgames />
+	</game>
+	<game id="17574763" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Bumbling/Andy/Zinger/17574763.jpg</thumbnail>
+		<title>Drone Rampage Smash</title>
+		<creator>Bumbling Andy Zinger</creator>
+		<relatedgames />
+	</game>
+	<game id="10953226" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Fanciful/Xerxes/Aardvark/10953226.jpg</thumbnail>
+		<title>Mission Streak Solar</title>
+		<creator>Fanciful Xerxes Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="10041441" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Jolly/Jack/Pelican/10041441.jpg</thumbnail>
+		<title>Dark Earth Doom</title>
+		<creator>Jolly Jack Pelican</creator>
+		<relatedgames />
+	</game>
+	<game id="10649889" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Grouchy/Brittany/Fury/10649889.jpg</thumbnail>
+		<title>Gear Mission Robot</title>
+		<creator>Grouchy Brittany Fury</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

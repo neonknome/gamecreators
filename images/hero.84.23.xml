@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17349390" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>/gamecreators/images2/Perilous/Heidi/Smidgen/17349390.jpg</thumbnail>
+		<title>Racer Energy Iron</title>
+		<creator>Perilous Heidi Smidgen</creator>
+		<relatedgames />
+	</game>
+	<game id="17411294" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/13/2012">
+		<thumbnail>/gamecreators/images2/Strange/Ariel/Gumdrop/17411294.jpg</thumbnail>
+		<title>Warrior Force Robot</title>
+		<creator>Strange Ariel Gumdrop</creator>
+		<relatedgames />
+	</game>
+	<game id="16866191" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/31/2012">
+		<thumbnail>/gamecreators/images2/Cheesy/Jade/Wombat/16866191.jpg</thumbnail>
+		<title>Ben Cannonbolt Galaxy</title>
+		<creator>Cheesy Jade Wombat</creator>
+		<relatedgames />
+	</game>
+	<game id="10950423" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Awful/Brittney/Amethyst/10950423.jpg</thumbnail>
+		<title>Robot Force Thunder</title>
+		<creator>Awful Brittney Amethyst</creator>
+		<relatedgames />
+	</game>
+	<game id="17094971" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/06/2012">
+		<thumbnail>/gamecreators/images2/Peculiar/Edd/Pontoon/17094971.jpg</thumbnail>
+		<title>Jetray Hero Galaxy</title>
+		<creator>Peculiar Edd Pontoon</creator>
+		<relatedgames />
+	</game>
+	<game id="10046385" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Majestic/Chelsea/Squawk/10046385.jpg</thumbnail>
+		<title>Atomic Slam Space</title>
+		<creator>Majestic Chelsea Squawk</creator>
+		<relatedgames />
+	</game>
+	<game id="10919681" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Wise/Jasmine/Blob/10919681.jpg</thumbnail>
+		<title>Breaker Dark Challenge</title>
+		<creator>Wise Jasmine Blob</creator>
+		<relatedgames />
+	</game>
+	<game id="17576666" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Prince/Summer/Spider/17576666.jpg</thumbnail>
+		<title>Challenge Star Fury</title>
+		<creator>Prince Summer Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="17069768" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/29/2012">
+		<thumbnail>/gamecreators/images2/Superb/Bart/Zigzag/17069768.jpg</thumbnail>
+		<title>Adventure Swampfire Assault</title>
+		<creator>Superb Bart Zigzag</creator>
+		<relatedgames />
+	</game>
+	<game id="10918167" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Colossal/Leonardo/Howler/10918167.jpg</thumbnail>
+		<title>Alien Rampage Ambush</title>
+		<creator>Colossal Leonardo Howler</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10043219" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Fizzy/Latoya/Hologram/10043219.jpg</thumbnail>
+		<title>Razor Adventure Attack</title>
+		<creator>Fizzy Latoya Hologram</creator>
+		<relatedgames />
+	</game>
+	<game id="17554156" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Loony/Sam/Garlic/17554156.jpg</thumbnail>
+		<title>Laser Sonic Adventure</title>
+		<creator>Loony Sam Garlic</creator>
+		<relatedgames />
+	</game>
+	<game id="17313005" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>/gamecreators/images2/Roaring/Douglas/Fuzz/17313005.jpg</thumbnail>
+		<title>Fire Adventure Iron</title>
+		<creator>Roaring Douglas Fuzz</creator>
+		<relatedgames />
+	</game>
+	<game id="10953211" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Artistic/Alan/Stampede/10953211.jpg</thumbnail>
+		<title>Droid Crusher Invasion</title>
+		<creator>Artistic Alan Stampede</creator>
+		<relatedgames />
+	</game>
+	<game id="10055993" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Scary/Leonardo/Droid/10055993.jpg</thumbnail>
+		<title>Earth Alien Adventure</title>
+		<creator>Scary Leonardo Droid</creator>
+		<relatedgames />
+	</game>
+	<game id="10043501" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Wily/Jackson/Umbrella/10043501.jpg</thumbnail>
+		<title>Alien Blaster Adventure</title>
+		<creator>Wily Jackson Umbrella</creator>
+		<relatedgames />
+	</game>
+	<game id="10930994" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fizzy/Casey/Flipper/10930994.jpg</thumbnail>
+		<title>Fire Fire Warrior</title>
+		<creator>Fizzy Casey Flipper</creator>
+		<relatedgames />
+	</game>
+	<game id="17323636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Drowzy/Yancy/Porridge/17323636.jpg</thumbnail>
+		<title>Rocket Hex Drone</title>
+		<creator>Drowzy Yancy Porridge</creator>
+		<relatedgames />
+	</game>
+	<game id="17419559" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Friendly/Felix/Dodo/17419559.jpg</thumbnail>
+		<title>Stone Hero Laser</title>
+		<creator>Friendly Felix Dodo</creator>
+		<relatedgames />
+	</game>
+	<game id="10934766" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Savage/Jacob/Pulse/10934766.jpg</thumbnail>
+		<title>Nova Assault Earth</title>
+		<creator>Savage Jacob Pulse</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10936094" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Grand/Michelle/Goulash/10936094.jpg</thumbnail>
+		<title>Alien Atomic Attack</title>
+		<creator>Grand Michelle Goulash</creator>
+		<relatedgames />
+	</game>
+	<game id="10038215" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Reckless/Jeremiah/Doodle/10038215.jpg</thumbnail>
+		<title>Cosmic Fire Adventure</title>
+		<creator>Reckless Jeremiah Doodle</creator>
+		<relatedgames />
+	</game>
+	<game id="17321920" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/09/2012">
+		<thumbnail>/gamecreators/images2/Spicy/Chase/Pinball/17321920.jpg</thumbnail>
+		<title>Razor Warp Fusion</title>
+		<creator>Spicy Chase Pinball</creator>
+		<relatedgames />
+	</game>
+	<game id="10041108" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Alien/Pearl/Cyborg/10041108.jpg</thumbnail>
+		<title>Swampfire Target Burst</title>
+		<creator>Alien Pearl Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="10918880" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Robust/Norman/Brick/10918880.jpg</thumbnail>
+		<title>Metal Techno Rescue</title>
+		<creator>Robust Norman Brick</creator>
+		<relatedgames />
+	</game>
+	<game id="10038010" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Fearless/Jason/Bonkers/10038010.jpg</thumbnail>
+		<title>Galaxy Storm Rustbucket</title>
+		<creator>Fearless Jason Bonkers</creator>
+		<relatedgames />
+	</game>
+	<game id="17350606" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>/gamecreators/images2/Ashley/Planet/17350606.jpg</thumbnail>
+		<title>Alien Brainstorm Assault</title>
+		<creator>Ashley Planet</creator>
+		<relatedgames />
+	</game>
+	<game id="16904399" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/09/2012">
+		<thumbnail>/gamecreators/images2/Delicate/Bethany/Talon/16904399.jpg</thumbnail>
+		<title>Rush Shock Echo</title>
+		<creator>Delicate Bethany Talon</creator>
+		<relatedgames />
+	</game>
+	<game id="10919136" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Grouchy/Pearl/Rhino/10919136.jpg</thumbnail>
+		<title>Animo Alien Steel</title>
+		<creator>Grouchy Pearl Rhino</creator>
+		<relatedgames />
+	</game>
+	<game id="17303953" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Flying/Crystal/Virtuoso/17303953.jpg</thumbnail>
+		<title>Escape Plasma Cosmic</title>
+		<creator>Flying Crystal Virtuoso</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

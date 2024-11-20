@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10926558" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Noble/Holly/Universe/10926558.jpg</thumbnail>
+		<title>Drone Swampfire Universe</title>
+		<creator>Noble Holly Universe</creator>
+		<relatedgames />
+	</game>
+	<game id="17356516" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/20/2012">
+		<thumbnail>/gamecreators/images2/Feisty/Carter/Scout/17356516.jpg</thumbnail>
+		<title>Patrol Rock Burst</title>
+		<creator>Feisty Carter Scout</creator>
+		<relatedgames />
+	</game>
+	<game id="17393809" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/04/2012">
+		<thumbnail>/gamecreators/images2/Spirited/Napoleon/Warrior/17393809.jpg</thumbnail>
+		<title>Ultimate Doom Quake</title>
+		<creator>Spirited Napoleon Warrior</creator>
+		<relatedgames />
+	</game>
+	<game id="10924021" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Alien/Tyler/Klunk/10924021.jpg</thumbnail>
+		<title>Hero Attack Power</title>
+		<creator>Alien Tyler Klunk</creator>
+		<relatedgames />
+	</game>
+	<game id="16976315" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Burly/Gillian/Dodo/16976315.jpg</thumbnail>
+		<title>Nitro Doom Metal</title>
+		<creator>Burly Gillian Dodo</creator>
+		<relatedgames />
+	</game>
+	<game id="10927169" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fearless/Richard/Werewolf/10927169.jpg</thumbnail>
+		<title>Fury Charge Assault</title>
+		<creator>Fearless Richard Werewolf</creator>
+		<relatedgames />
+	</game>
+	<game id="17273482" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>/gamecreators/images2/Joyous/Patricia/Squirrel/17273482.jpg</thumbnail>
+		<title>Target Water Warp</title>
+		<creator>Joyous Patricia Squirrel</creator>
+		<relatedgames />
+	</game>
+	<game id="17410111" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/12/2012">
+		<thumbnail>/gamecreators/images2/Grubby/Doug/Tsunami/17410111.jpg</thumbnail>
+		<title>Battle Fire Earth</title>
+		<creator>Grubby Doug Tsunami</creator>
+		<relatedgames />
+	</game>
+	<game id="10033502" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Northern/Oscar/Vampire/10033502.jpg</thumbnail>
+		<title>Sonic Attack Quake</title>
+		<creator>Northern Oscar Vampire</creator>
+		<relatedgames />
+	</game>
+	<game id="17415976" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Speedy/Finn/Steel/17415976.jpg</thumbnail>
+		<title>Ultimate Cannonbolt Invasion</title>
+		<creator>Speedy Finn Steel</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

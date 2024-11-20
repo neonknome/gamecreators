@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10926231" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Puzzling/Ludwig/Zigzag/10926231.jpg</thumbnail>
+		<title>Sonic Shadow Racer</title>
+		<creator>Puzzling Ludwig Zigzag</creator>
+		<relatedgames />
+	</game>
+	<game id="17384530" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Cranky/Jaden/Phoenix/17384530.jpg</thumbnail>
+		<title>Fury Plasma Star</title>
+		<creator>Cranky Jaden Phoenix</creator>
+		<relatedgames />
+	</game>
+	<game id="17092970" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/05/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Charles/Hawk/17092970.jpg</thumbnail>
+		<title>Force Breaker Ultra</title>
+		<creator>Ultimate Charles Hawk</creator>
+		<relatedgames />
+	</game>
+	<game id="10928891" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Honest/Cole/Dragon/10928891.jpg</thumbnail>
+		<title>Alien Magno Fire</title>
+		<creator>Honest Cole Dragon</creator>
+		<relatedgames />
+	</game>
+	<game id="10928065" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Strange/Dixie/Vampire/10928065.jpg</thumbnail>
+		<title>Warrior Adventure Rampage</title>
+		<creator>Strange Dixie Vampire</creator>
+		<relatedgames />
+	</game>
+	<game id="10932339" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Chilly/Floyd/Gumbo/10932339.jpg</thumbnail>
+		<title>Adventure Plasma Nitro</title>
+		<creator>Chilly Floyd Gumbo</creator>
+		<relatedgames />
+	</game>
+	<game id="17415485" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Awful/Jacob/Bronco/17415485.jpg</thumbnail>
+		<title>Mission Shock Patrol</title>
+		<creator>Awful Jacob Bronco</creator>
+		<relatedgames />
+	</game>
+	<game id="10655860" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2009">
+		<thumbnail>/gamecreators/images2/Hideous/Donald/Popcorn/10655860.jpg</thumbnail>
+		<title>Ultra Plumber Battle</title>
+		<creator>Hideous Donald Popcorn</creator>
+		<relatedgames />
+	</game>
+	<game id="17358771" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>/gamecreators/images2/Peppy/Elmer/Wyvern/17358771.jpg</thumbnail>
+		<title>Burst Whirlwind Vilgax</title>
+		<creator>Peppy Elmer Wyvern</creator>
+		<relatedgames />
+	</game>
+	<game id="10930210" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Witty/Bert/Parsec/10930210.jpg</thumbnail>
+		<title>Rush Turbo Assault</title>
+		<creator>Witty Bert Parsec</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

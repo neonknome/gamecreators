@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17404687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Golden/Benjamin/Hedgehog/17404687.jpg</thumbnail>
+		<title>Space Star Patrol</title>
+		<creator>Golden Benjamin Hedgehog</creator>
+		<relatedgames />
+	</game>
+	<game id="17260152" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>/gamecreators/images2/Radiant/Mckenzie/Kungfu/17260152.jpg</thumbnail>
+		<title>Alien Escape Assault</title>
+		<creator>Radiant Mckenzie Kungfu</creator>
+		<relatedgames />
+	</game>
+	<game id="16989131" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/02/2012">
+		<thumbnail>/gamecreators/images2/Hideous/Ginger/Rhino/16989131.jpg</thumbnail>
+		<title>Assault Mission Racer</title>
+		<creator>Hideous Ginger Rhino</creator>
+		<relatedgames />
+	</game>
+	<game id="10953441" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Comical/Jenna/Funk/10953441.jpg</thumbnail>
+		<title>Attack Hyper Lightning</title>
+		<creator>Comical Jenna Funk</creator>
+		<relatedgames />
+	</game>
+	<game id="10921591" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Majestic/Mario/Sawtooth/10921591.jpg</thumbnail>
+		<title>Dark Adventure Drone</title>
+		<creator>Majestic Mario Sawtooth</creator>
+		<relatedgames />
+	</game>
+	<game id="10923558" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Humorous/Benjamin/Ballyhoo/10923558.jpg</thumbnail>
+		<title>Swampfire Hero Adventure</title>
+		<creator>Humorous Benjamin Ballyhoo</creator>
+		<relatedgames />
+	</game>
+	<game id="17383531" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Princess/Melanie/Penguin/17383531.jpg</thumbnail>
+		<title>Battle Chill Search</title>
+		<creator>Princess Melanie Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="10924687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Surreal/Grace/Flypaper/10924687.jpg</thumbnail>
+		<title>Clash Alien Adventure</title>
+		<creator>Surreal Grace Flypaper</creator>
+		<relatedgames />
+	</game>
+	<game id="10649815" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Zippy/Sarah/Tuxedo/10649815.jpg</thumbnail>
+		<title>Storm Robot Adventure</title>
+		<creator>Zippy Sarah Tuxedo</creator>
+		<relatedgames />
+	</game>
+	<game id="16900941" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/08/2012">
+		<thumbnail>/gamecreators/images2/Comical/Ariana/Brine/16900941.jpg</thumbnail>
+		<title>Rocket Quake Smash</title>
+		<creator>Comical Ariana Brine</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

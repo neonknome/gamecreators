@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10929155" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Zany/Isabel/Blade/10929155.jpg</thumbnail>
+		<title>Mega Swampfire Rampage</title>
+		<creator>Zany Isabel Blade</creator>
+		<relatedgames />
+	</game>
+	<game id="16982800" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>/gamecreators/images2/Barbaric/Duke/Funk/16982800.jpg</thumbnail>
+		<title>Pulse Rampage Adventure</title>
+		<creator>Barbaric Duke Funk</creator>
+		<relatedgames />
+	</game>
+	<game id="10953072" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Eerie/Elijah/Turtle/10953072.jpg</thumbnail>
+		<title>Search Force Fire</title>
+		<creator>Eerie Elijah Turtle</creator>
+		<relatedgames />
+	</game>
+	<game id="16974309" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Obscure/Julian/Charger/16974309.jpg</thumbnail>
+		<title>Charge Plumber Vilgax</title>
+		<creator>Obscure Julian Charger</creator>
+		<relatedgames />
+	</game>
+	<game id="10953547" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Alien/Roy/Cinnamon/10953547.jpg</thumbnail>
+		<title>Quake Laser Ultra</title>
+		<creator>Alien Roy Cinnamon</creator>
+		<relatedgames />
+	</game>
+	<game id="10067052" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Rowdy/Betty/Chimera/10067052.jpg</thumbnail>
+		<title>Charge Solar Sonic</title>
+		<creator>Rowdy Betty Chimera</creator>
+		<relatedgames />
+	</game>
+	<game id="17552616" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Volcanic/Alvin/Meteor/17552616.jpg</thumbnail>
+		<title>Vilgax Doom Laser</title>
+		<creator>Volcanic Alvin Meteor</creator>
+		<relatedgames />
+	</game>
+	<game id="17241636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>/gamecreators/images2/Devious/Benjamin/Phoenix/17241636.jpg</thumbnail>
+		<title>Ultra Warrior Danger</title>
+		<creator>Devious Benjamin Phoenix</creator>
+		<relatedgames />
+	</game>
+	<game id="16995598" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>/gamecreators/images2/Flying/Drake/Sorcerer/16995598.jpg</thumbnail>
+		<title>Charge Alien Clash</title>
+		<creator>Flying Drake Sorcerer</creator>
+		<relatedgames />
+	</game>
+	<game id="17554265" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Loud/Carson/Blob/17554265.jpg</thumbnail>
+		<title>Plumber Nova Stone</title>
+		<creator>Loud Carson Blob</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

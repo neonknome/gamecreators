@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16930985" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/14/2012">
+		<thumbnail>/gamecreators/images2/Splendid/Simon/Sardine/16930985.jpg</thumbnail>
+		<title>Shock Charge Rocket</title>
+		<creator>Splendid Simon Sardine</creator>
+		<relatedgames />
+	</game>
+	<game id="16956383" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/22/2012">
+		<thumbnail>/gamecreators/images2/Capable/Bugsy/Sword/16956383.jpg</thumbnail>
+		<title>Rush Ultimate Titan</title>
+		<creator>Capable Bugsy Sword</creator>
+		<relatedgames />
+	</game>
+	<game id="17417389" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Strong/Matthew/Fez/17417389.jpg</thumbnail>
+		<title>Battle Blaster Titan</title>
+		<creator>Strong Matthew Fez</creator>
+		<relatedgames />
+	</game>
+	<game id="10924271" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Chilly/Jeremy/Tractor/10924271.jpg</thumbnail>
+		<title>Gear Gear Robot</title>
+		<creator>Chilly Jeremy Tractor</creator>
+		<relatedgames />
+	</game>
+	<game id="17387691" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Loyal/Juan/Parallax/17387691.jpg</thumbnail>
+		<title>Cannonbolt Metal Mission</title>
+		<creator>Loyal Juan Parallax</creator>
+		<relatedgames />
+	</game>
+	<game id="10705689" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Honest/Adrian/Shark/10705689.jpg</thumbnail>
+		<title>Ultra Target Danger</title>
+		<creator>Honest Adrian Shark</creator>
+		<relatedgames />
+	</game>
+	<game id="17309781" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>/gamecreators/images2/Pleasant/Alan/Gamer/17309781.jpg</thumbnail>
+		<title>Razor Jetray Laser</title>
+		<creator>Pleasant Alan Gamer</creator>
+		<relatedgames />
+	</game>
+	<game id="10918912" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Strange/Daniel/Squid/10918912.jpg</thumbnail>
+		<title>Doom Chase Space</title>
+		<creator>Strange Daniel Squid</creator>
+		<relatedgames />
+	</game>
+	<game id="10038578" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Witty/Wes/Grouch/10038578.jpg</thumbnail>
+		<title>Warrior Hero Warrior</title>
+		<creator>Witty Wes Grouch</creator>
+		<relatedgames />
+	</game>
+	<game id="10931159" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Chilly/Eddie/Fiddle/10931159.jpg</thumbnail>
+		<title>Alien Ambush Defense</title>
+		<creator>Chilly Eddie Fiddle</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

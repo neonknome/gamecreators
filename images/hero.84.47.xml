@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10949020" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Odd/Sean/Mustang/10949020.jpg</thumbnail>
+		<title>Nano Giga Ambush</title>
+		<creator>Odd Sean Mustang</creator>
+		<relatedgames />
+	</game>
+	<game id="10922876" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Weird/Zelda/Pulse/10922876.jpg</thumbnail>
+		<title>Plasma Ambush Storm</title>
+		<creator>Weird Zelda Pulse</creator>
+		<relatedgames />
+	</game>
+	<game id="10953602" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Fierce/Milton/Burst/10953602.jpg</thumbnail>
+		<title>Universe Solar Warrior</title>
+		<creator>Fierce Milton Burst</creator>
+		<relatedgames />
+	</game>
+	<game id="10058843" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Dramatic/Matt/Igloo/10058843.jpg</thumbnail>
+		<title>Smash Invasion Plumber</title>
+		<creator>Dramatic Matt Igloo</creator>
+		<relatedgames />
+	</game>
+	<game id="10952923" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Frantic/Chester/Walrus/10952923.jpg</thumbnail>
+		<title>Rustbucket Siege Ben</title>
+		<creator>Frantic Chester Walrus</creator>
+		<relatedgames />
+	</game>
+	<game id="10923848" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Lucky/Egbert/Avocado/10923848.jpg</thumbnail>
+		<title>Alien Adventure Ambush</title>
+		<creator>Lucky Egbert Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="10938896" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Royal/Noah/Tempest/10938896.jpg</thumbnail>
+		<title>Target Breaker Mega</title>
+		<creator>Royal Noah Tempest</creator>
+		<relatedgames />
+	</game>
+	<game id="10927069" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wacky/Gretel/Centaur/10927069.jpg</thumbnail>
+		<title>Swampfire Alien Fire</title>
+		<creator>Wacky Gretel Centaur</creator>
+		<relatedgames />
+	</game>
+	<game id="17550908" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Pleasant/Leah/Jinx/17550908.jpg</thumbnail>
+		<title>Assault Attack Robot</title>
+		<creator>Pleasant Leah Jinx</creator>
+		<relatedgames />
+	</game>
+	<game id="10058669" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Atomic/Diana/Zeppelin/10058669.jpg</thumbnail>
+		<title>Rampage Adventure Beast</title>
+		<creator>Atomic Diana Zeppelin</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10793298" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2009">
+		<thumbnail>/gamecreators/images2/Bashful/Duncan/Tuxedo/10793298.jpg</thumbnail>
+		<title>Cosmic Assault Plasma</title>
+		<creator>Bashful Duncan Tuxedo</creator>
+		<relatedgames />
+	</game>
+	<game id="10952531" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Humble/Ramona/Fishbowl/10952531.jpg</thumbnail>
+		<title>Magno Laser Shock</title>
+		<creator>Humble Ramona Fishbowl</creator>
+		<relatedgames />
+	</game>
+	<game id="17576666" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Prince/Summer/Spider/17576666.jpg</thumbnail>
+		<title>Challenge Star Fury</title>
+		<creator>Prince Summer Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="10922703" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Aquatic/Xerxes/Beeswax/10922703.jpg</thumbnail>
+		<title>Assault Solar Assault</title>
+		<creator>Aquatic Xerxes Beeswax</creator>
+		<relatedgames />
+	</game>
+	<game id="10916734" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Darling/Hank/Mustang/10916734.jpg</thumbnail>
+		<title>Swampfire Ultra Invasion</title>
+		<creator>Darling Hank Mustang</creator>
+		<relatedgames />
+	</game>
+	<game id="10922876" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Weird/Zelda/Pulse/10922876.jpg</thumbnail>
+		<title>Plasma Ambush Storm</title>
+		<creator>Weird Zelda Pulse</creator>
+		<relatedgames />
+	</game>
+	<game id="10953602" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Fierce/Milton/Burst/10953602.jpg</thumbnail>
+		<title>Universe Solar Warrior</title>
+		<creator>Fierce Milton Burst</creator>
+		<relatedgames />
+	</game>
+	<game id="10058843" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Dramatic/Matt/Igloo/10058843.jpg</thumbnail>
+		<title>Smash Invasion Plumber</title>
+		<creator>Dramatic Matt Igloo</creator>
+		<relatedgames />
+	</game>
+	<game id="10927274" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Handsome/Noah/Penguin/10927274.jpg</thumbnail>
+		<title>Turbo Assault Burst</title>
+		<creator>Handsome Noah Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="17288581" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/01/2012">
+		<thumbnail>/gamecreators/images2/Splendid/Noah/Dragoon/17288581.jpg</thumbnail>
+		<title>Ultimate Cannonbolt Light</title>
+		<creator>Splendid Noah Dragoon</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17582460" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Grubby/Jan/Gorilla/17582460.jpg</thumbnail>
+		<title>Dark Adventure Battle</title>
+		<creator>Grubby Jan Gorilla</creator>
+		<relatedgames />
+	</game>
+	<game id="10940046" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Northern/Spencer/Sizzle/10940046.jpg</thumbnail>
+		<title>Adventure Nitro Battle</title>
+		<creator>Northern Spencer Sizzle</creator>
+		<relatedgames />
+	</game>
+	<game id="17417687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Stormy/Mordecai/Vulture/17417687.jpg</thumbnail>
+		<title>Invasion Ultra Lightning</title>
+		<creator>Stormy Mordecai Vulture</creator>
+		<relatedgames />
+	</game>
+	<game id="10949978" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Sinister/Aidan/Dynamite/10949978.jpg</thumbnail>
+		<title>Ultimate Alien Rumble</title>
+		<creator>Sinister Aidan Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="17223727" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Quick/Chuck/Cobweb/17223727.jpg</thumbnail>
+		<title>Power Adventure Champion</title>
+		<creator>Quick Chuck Cobweb</creator>
+		<relatedgames />
+	</game>
+	<game id="10924693" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Crispy/Cory/Dingbat/10924693.jpg</thumbnail>
+		<title>Smash Breaker Fire</title>
+		<creator>Crispy Cory Dingbat</creator>
+		<relatedgames />
+	</game>
+	<game id="10921624" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Giggling/Ben/Paradox/10921624.jpg</thumbnail>
+		<title>Space Power Shock</title>
+		<creator>Giggling Ben Paradox</creator>
+		<relatedgames />
+	</game>
+	<game id="17295723" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>/gamecreators/images2/Extinct/Oscar/Yoyo/17295723.jpg</thumbnail>
+		<title>Power Quake Adventure</title>
+		<creator>Extinct Oscar Yoyo</creator>
+		<relatedgames />
+	</game>
+	<game id="10068757" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Green/Andy/Tusk/10068757.jpg</thumbnail>
+		<title>Ben Alien Force</title>
+		<creator>Green Andy Tusk</creator>
+		<relatedgames />
+	</game>
+	<game id="17336600" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Snazzy/Harry/Sawtooth/17336600.jpg</thumbnail>
+		<title>Lightning Racer Rampage</title>
+		<creator>Snazzy Harry Sawtooth</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

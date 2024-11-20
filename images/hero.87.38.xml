@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10953344" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Orange/Donald/Pinwheel/10953344.jpg</thumbnail>
+		<title>Animo Hero Defense</title>
+		<creator>Orange Donald Pinwheel</creator>
+		<relatedgames />
+	</game>
+	<game id="17257764" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>/gamecreators/images2/Dashing/Reuben/Knight/17257764.jpg</thumbnail>
+		<title>Ben Pursuit Titan</title>
+		<creator>Dashing Reuben Knight</creator>
+		<relatedgames />
+	</game>
+	<game id="10933419" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wild/Mike/Squawk/10933419.jpg</thumbnail>
+		<title>Magno Mission Rescue</title>
+		<creator>Wild Mike Squawk</creator>
+		<relatedgames />
+	</game>
+	<game id="17220619" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Carefree/Penelope/Banshee/17220619.jpg</thumbnail>
+		<title>Lightning Big Animo</title>
+		<creator>Carefree Penelope Banshee</creator>
+		<relatedgames />
+	</game>
+	<game id="16883820" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/04/2012">
+		<thumbnail>/gamecreators/images2/Fiery/James/Cyclone/16883820.jpg</thumbnail>
+		<title>Warp Waterhazard Adventure</title>
+		<creator>Fiery James Cyclone</creator>
+		<relatedgames />
+	</game>
+	<game id="10704405" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Leaping/Emma/Molecule/10704405.jpg</thumbnail>
+		<title>Fusion Pulse Chase</title>
+		<creator>Leaping Emma Molecule</creator>
+		<relatedgames />
+	</game>
+	<game id="17421965" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>/gamecreators/images2/Luminous/Mark/Narwhal/17421965.jpg</thumbnail>
+		<title>Metal Streak Shadow</title>
+		<creator>Luminous Mark Narwhal</creator>
+		<relatedgames />
+	</game>
+	<game id="17356933" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>/gamecreators/images2/Sassy/Aaron/Baloney/17356933.jpg</thumbnail>
+		<title>Spidermonkey Dark Target</title>
+		<creator>Sassy Aaron Baloney</creator>
+		<relatedgames />
+	</game>
+	<game id="16977448" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Western/Cameron/Jigsaw/16977448.jpg</thumbnail>
+		<title>Assault Humongousaur Laser</title>
+		<creator>Western Cameron Jigsaw</creator>
+		<relatedgames />
+	</game>
+	<game id="10038151" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Dramatic/Nick/Porridge/10038151.jpg</thumbnail>
+		<title>Ultra Doom Storm</title>
+		<creator>Dramatic Nick Porridge</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

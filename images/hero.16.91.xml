@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17191739" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/05/2012">
+		<thumbnail>/gamecreators/images2/Elastic/Dwight/Robot/17191739.jpg</thumbnail>
+		<title>Solar Warrior Ambush</title>
+		<creator>Elastic Dwight Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="17408837" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>/gamecreators/images2/Cranky/Conrad/17408837.jpg</thumbnail>
+		<title>Racer Siege Rock</title>
+		<creator>Cranky Conrad</creator>
+		<relatedgames />
+	</game>
+	<game id="10057035" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Generous/Justin/Coconut/10057035.jpg</thumbnail>
+		<title>Atomic Adventure Alien</title>
+		<creator>Generous Justin Coconut</creator>
+		<relatedgames />
+	</game>
+	<game id="10918223" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Purple/Sam/Warp/10918223.jpg</thumbnail>
+		<title>Rumble Swampfire Warrior</title>
+		<creator>Purple Sam Warp</creator>
+		<relatedgames />
+	</game>
+	<game id="10928563" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Sleepy/Arthur/Funk/10928563.jpg</thumbnail>
+		<title>Swampfire Search Hyper</title>
+		<creator>Sleepy Arthur Funk</creator>
+		<relatedgames />
+	</game>
+	<game id="17552120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Volcanic/Alvin/Meteor/17552120.jpg</thumbnail>
+		<title>Lightning Danger Omniverse</title>
+		<creator>Volcanic Alvin Meteor</creator>
+		<relatedgames />
+	</game>
+	<game id="10015822" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Peculiar/Gulliver/Phantom/10015822.jpg</thumbnail>
+		<title>Invasion Defense Swampfire</title>
+		<creator>Peculiar Gulliver Phantom</creator>
+		<relatedgames />
+	</game>
+	<game id="10921090" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Stout/Earl/Marigold/10921090.jpg</thumbnail>
+		<title>Iron Crusher Alien</title>
+		<creator>Stout Earl Marigold</creator>
+		<relatedgames />
+	</game>
+	<game id="10047193" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Wise/Max/Avocado/10047193.jpg</thumbnail>
+		<title>Dark Energy Defense</title>
+		<creator>Wise Max Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="10936340" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Cheerful/Chelsea/Bolt/10936340.jpg</thumbnail>
+		<title>Cosmic Robot Burst</title>
+		<creator>Cheerful Chelsea Bolt</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

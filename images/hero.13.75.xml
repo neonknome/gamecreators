@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17574180" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Wondrous/Rigby/Samurai/17574180.jpg</thumbnail>
+		<title>Brainstorm Galaxy Fusion</title>
+		<creator>Wondrous Rigby Samurai</creator>
+		<relatedgames />
+	</game>
+	<game id="10055468" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Chilly/Hank/Quack/10055468.jpg</thumbnail>
+		<title>Assault Rampage Solar</title>
+		<creator>Chilly Hank Quack</creator>
+		<relatedgames />
+	</game>
+	<game id="10918059" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Fragrant/Apollo/Ooze/10918059.jpg</thumbnail>
+		<title>Alien Challenge Stone</title>
+		<creator>Fragrant Apollo Ooze</creator>
+		<relatedgames />
+	</game>
+	<game id="10951344" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Funny/Jennifer/Sphere/10951344.jpg</thumbnail>
+		<title>Dark Atomic Power</title>
+		<creator>Funny Jennifer Sphere</creator>
+		<relatedgames />
+	</game>
+	<game id="17352173" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>/gamecreators/images2/Majestic/Michael/Electron/17352173.jpg</thumbnail>
+		<title>Jetray Cosmic Adventure</title>
+		<creator>Majestic Michael Electron</creator>
+		<relatedgames />
+	</game>
+	<game id="10926778" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Shaggy/Brett/Shark/10926778.jpg</thumbnail>
+		<title>Doom Atomic Razor</title>
+		<creator>Shaggy Brett Shark</creator>
+		<relatedgames />
+	</game>
+	<game id="10953624" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Witty/Madison/Squish/10953624.jpg</thumbnail>
+		<title>Power Spike Hyper</title>
+		<creator>Witty Madison Squish</creator>
+		<relatedgames />
+	</game>
+	<game id="17333355" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Princess/Wes/Jungle/17333355.jpg</thumbnail>
+		<title>Stone Nitro Fusion</title>
+		<creator>Princess Wes Jungle</creator>
+		<relatedgames />
+	</game>
+	<game id="10068760" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Dynamic/Leopold/Wizard/10068760.jpg</thumbnail>
+		<title>Swampfire Mega Battle</title>
+		<creator>Dynamic Leopold Wizard</creator>
+		<relatedgames />
+	</game>
+	<game id="10917033" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Comical/Ariana/Kiwi/10917033.jpg</thumbnail>
+		<title>Hero Fire Force</title>
+		<creator>Comical Ariana Kiwi</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10953354" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Jolly/Bryan/Kook/10953354.jpg</thumbnail>
+		<title>Alien Robot Nitro</title>
+		<creator>Jolly Bryan Kook</creator>
+		<relatedgames />
+	</game>
+	<game id="17318747" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Gross/Newton/Windmill/17318747.jpg</thumbnail>
+		<title>Shadow Blaster Atomic</title>
+		<creator>Gross Newton Windmill</creator>
+		<relatedgames />
+	</game>
+	<game id="10923524" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Normal/Merlin/Monster/10923524.jpg</thumbnail>
+		<title>Robot Drone Fury</title>
+		<creator>Normal Merlin Monster</creator>
+		<relatedgames />
+	</game>
+	<game id="10916797" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Spectral/Thomas/Zigzag/10916797.jpg</thumbnail>
+		<title>Universe Chase Patrol</title>
+		<creator>Spectral Thomas Zigzag</creator>
+		<relatedgames />
+	</game>
+	<game id="17085481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/03/2012">
+		<thumbnail>/gamecreators/images2/Vibrant/Gabriel/Mahogany/17085481.jpg</thumbnail>
+		<title>Nitro Mega Smash</title>
+		<creator>Vibrant Gabriel Mahogany</creator>
+		<relatedgames />
+	</game>
+	<game id="10952671" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Brawny/Scooter/Monolith/10952671.jpg</thumbnail>
+		<title>Target Metal Challenge</title>
+		<creator>Brawny Scooter Monolith</creator>
+		<relatedgames />
+	</game>
+	<game id="10933914" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Squishy/Phillip/Fritter/10933914.jpg</thumbnail>
+		<title>Rumble Battle Techno</title>
+		<creator>Squishy Phillip Fritter</creator>
+		<relatedgames />
+	</game>
+	<game id="17252700" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/22/2012">
+		<thumbnail>/gamecreators/images2/Cartoony/Carl/Zebra/17252700.jpg</thumbnail>
+		<title>Search Rustbucket Atomic</title>
+		<creator>Cartoony Carl Zebra</creator>
+		<relatedgames />
+	</game>
+	<game id="10923878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Lively/Orville/Tornado/10923878.jpg</thumbnail>
+		<title>Invasion Adventure Energy</title>
+		<creator>Lively Orville Tornado</creator>
+		<relatedgames />
+	</game>
+	<game id="17283609" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Haunted/Andre/Tarragon/17283609.jpg</thumbnail>
+		<title>Iron Assault Challenge</title>
+		<creator>Haunted Andre Tarragon</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

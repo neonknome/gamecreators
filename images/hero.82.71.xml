@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17383762" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Comical/Jeremiah/Crash/17383762.jpg</thumbnail>
+		<title>Giga Racer Rustbucket</title>
+		<creator>Comical Jeremiah Crash</creator>
+		<relatedgames />
+	</game>
+	<game id="10951344" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Funny/Jennifer/Sphere/10951344.jpg</thumbnail>
+		<title>Dark Atomic Power</title>
+		<creator>Funny Jennifer Sphere</creator>
+		<relatedgames />
+	</game>
+	<game id="17352173" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>/gamecreators/images2/Majestic/Michael/Electron/17352173.jpg</thumbnail>
+		<title>Jetray Cosmic Adventure</title>
+		<creator>Majestic Michael Electron</creator>
+		<relatedgames />
+	</game>
+	<game id="10926778" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Shaggy/Brett/Shark/10926778.jpg</thumbnail>
+		<title>Doom Atomic Razor</title>
+		<creator>Shaggy Brett Shark</creator>
+		<relatedgames />
+	</game>
+	<game id="17234945" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>/gamecreators/images2/Awful/Bobby/Fossil/17234945.jpg</thumbnail>
+		<title>Racer Adventure Light</title>
+		<creator>Awful Bobby Fossil</creator>
+		<relatedgames />
+	</game>
+	<game id="10926374" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Silly/Joshua/Thunder/10926374.jpg</thumbnail>
+		<title>Razor Quake Adventure</title>
+		<creator>Silly Joshua Thunder</creator>
+		<relatedgames />
+	</game>
+	<game id="16993808" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>/gamecreators/images2/Funky/Antonio/Cobra/16993808.jpg</thumbnail>
+		<title>Cosmic Mission Plumber</title>
+		<creator>Funky Antonio Cobra</creator>
+		<relatedgames />
+	</game>
+	<game id="10921774" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Elegant/Joel/Spumoni/10921774.jpg</thumbnail>
+		<title>Fire Drone Ambush</title>
+		<creator>Elegant Joel Spumoni</creator>
+		<relatedgames />
+	</game>
+	<game id="10935113" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Ghastly/Oliver/Orchid/10935113.jpg</thumbnail>
+		<title>Streak Cosmic Beast</title>
+		<creator>Ghastly Oliver Orchid</creator>
+		<relatedgames />
+	</game>
+	<game id="10929981" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Modest/Gretel/Bongo/10929981.jpg</thumbnail>
+		<title>Rush Cosmic Shadow</title>
+		<creator>Modest Gretel Bongo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

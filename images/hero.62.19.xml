@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10932767" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Sleepy/Will/Spider/10932767.jpg</thumbnail>
+		<title>Rocket Ultimate Streak</title>
+		<creator>Sleepy Will Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="10949490" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Enormous/Nathan/Monster/10949490.jpg</thumbnail>
+		<title>Warrior Thunder Iron</title>
+		<creator>Enormous Nathan Monster</creator>
+		<relatedgames />
+	</game>
+	<game id="10926269" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Crunchy/Vicky/Behemoth/10926269.jpg</thumbnail>
+		<title>Swampfire Attack Ben</title>
+		<creator>Crunchy Vicky Behemoth</creator>
+		<relatedgames />
+	</game>
+	<game id="10930948" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Glorious/Drew/Aurora/10930948.jpg</thumbnail>
+		<title>Light Energy Doom</title>
+		<creator>Glorious Drew Aurora</creator>
+		<relatedgames />
+	</game>
+	<game id="16850246" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/28/2012">
+		<thumbnail>/gamecreators/images2/Nautical/Mark/Aardvark/16850246.jpg</thumbnail>
+		<title>Fury Nano Ultimate</title>
+		<creator>Nautical Mark Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="16837718" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/25/2012">
+		<thumbnail>/gamecreators/images2/Witty/Dean/Giblets/16837718.jpg</thumbnail>
+		<title>Nitro Mission Atomic</title>
+		<creator>Witty Dean Giblets</creator>
+		<relatedgames />
+	</game>
+	<game id="10953381" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Cheerful/Vincent/Dragon/10953381.jpg</thumbnail>
+		<title>Plasma Giga Droid</title>
+		<creator>Cheerful Vincent Dragon</creator>
+		<relatedgames />
+	</game>
+	<game id="17227876" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>/gamecreators/images2/Flying/Logan/Magnet/17227876.jpg</thumbnail>
+		<title>Charge Escape Breaker</title>
+		<creator>Flying Logan Magnet</creator>
+		<relatedgames />
+	</game>
+	<game id="10934959" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Peculiar/Derek/Blubber/10934959.jpg</thumbnail>
+		<title>Ben Sonic Hero</title>
+		<creator>Peculiar Derek Blubber</creator>
+		<relatedgames />
+	</game>
+	<game id="10918878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Majestic/Adam/Bolt/10918878.jpg</thumbnail>
+		<title>Blaster Ambush Assault</title>
+		<creator>Majestic Adam Bolt</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

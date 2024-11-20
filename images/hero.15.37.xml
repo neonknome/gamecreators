@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10058854" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Mighty/Tony/Goofball/10058854.jpg</thumbnail>
+		<title>Attack Force Mega</title>
+		<creator>Mighty Tony Goofball</creator>
+		<relatedgames />
+	</game>
+	<game id="17003097" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/06/2012">
+		<thumbnail>/gamecreators/images2/Hypnotic/Tex/Scorpion/17003097.jpg</thumbnail>
+		<title>Storm Light Light</title>
+		<creator>Hypnotic Tex Scorpion</creator>
+		<relatedgames />
+	</game>
+	<game id="10953030" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Ticklish/Olivia/Coconut/10953030.jpg</thumbnail>
+		<title>Pursuit Sonic Warrior</title>
+		<creator>Ticklish Olivia Coconut</creator>
+		<relatedgames />
+	</game>
+	<game id="10069016" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Absurd/Zeus/Rumble/10069016.jpg</thumbnail>
+		<title>Adventure Drone Nova</title>
+		<creator>Absurd Zeus Rumble</creator>
+		<relatedgames />
+	</game>
+	<game id="10930634" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Crafty/Sarah/Zombie/10930634.jpg</thumbnail>
+		<title>Atomic Alien Ambush</title>
+		<creator>Crafty Sarah Zombie</creator>
+		<relatedgames />
+	</game>
+	<game id="16835000" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/24/2012">
+		<thumbnail>/gamecreators/images2/Blustery/Zoe/Banshee/16835000.jpg</thumbnail>
+		<title>Energy Adventure Rush</title>
+		<creator>Blustery Zoe Banshee</creator>
+		<relatedgames />
+	</game>
+	<game id="17560298" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Hyper/Rebecca/Barnacle/17560298.jpg</thumbnail>
+		<title>Chase Adventure Adventure</title>
+		<creator>Hyper Rebecca Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="10916905" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Purple/Penny/Citrus/10916905.jpg</thumbnail>
+		<title>Hero Rumble Assault</title>
+		<creator>Purple Penny Citrus</creator>
+		<relatedgames />
+	</game>
+	<game id="16850246" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/28/2012">
+		<thumbnail>/gamecreators/images2/Nautical/Mark/Aardvark/16850246.jpg</thumbnail>
+		<title>Fury Nano Ultimate</title>
+		<creator>Nautical Mark Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="17262495" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Quirky/Oscar/Cutlass/17262495.jpg</thumbnail>
+		<title>Robot Gear Atomic</title>
+		<creator>Quirky Oscar Cutlass</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

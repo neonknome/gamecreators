@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10953680" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Orange/Sara/Cyborg/10953680.jpg</thumbnail>
+		<title>Hero Robot Shock</title>
+		<creator>Orange Sara Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="10059113" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Stately/Hunter/Blade/10059113.jpg</thumbnail>
+		<title>Dark Hex Burst</title>
+		<creator>Stately Hunter Blade</creator>
+		<relatedgames />
+	</game>
+	<game id="10919176" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Chaotic/Ed/Fossil/10919176.jpg</thumbnail>
+		<title>Robot Mega Ambush</title>
+		<creator>Chaotic Ed Fossil</creator>
+		<relatedgames />
+	</game>
+	<game id="10953344" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Orange/Donald/Pinwheel/10953344.jpg</thumbnail>
+		<title>Animo Hero Defense</title>
+		<creator>Orange Donald Pinwheel</creator>
+		<relatedgames />
+	</game>
+	<game id="17403542" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Crystal/Oyster/17403542.jpg</thumbnail>
+		<title>Ultra Nitro Nano</title>
+		<creator>Magnetic Crystal Oyster</creator>
+		<relatedgames />
+	</game>
+	<game id="10933419" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wild/Mike/Squawk/10933419.jpg</thumbnail>
+		<title>Magno Mission Rescue</title>
+		<creator>Wild Mike Squawk</creator>
+		<relatedgames />
+	</game>
+	<game id="17257447" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>/gamecreators/images2/Positive/Jill/Orca/17257447.jpg</thumbnail>
+		<title>Breaker Racer Razor</title>
+		<creator>Positive Jill Orca</creator>
+		<relatedgames />
+	</game>
+	<game id="17392679" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Sublime/Alvin/Amoeba/17392679.jpg</thumbnail>
+		<title>Ben Battle Siege</title>
+		<creator>Sublime Alvin Amoeba</creator>
+		<relatedgames />
+	</game>
+	<game id="10921135" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Dreadful/Medusa/Fishbowl/10921135.jpg</thumbnail>
+		<title>Swampfire Assault Invasion</title>
+		<creator>Dreadful Medusa Fishbowl</creator>
+		<relatedgames />
+	</game>
+	<game id="17420645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Smart/Marco/Aardvark/17420645.jpg</thumbnail>
+		<title>Warrior Rumble Fury</title>
+		<creator>Smart Marco Aardvark</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

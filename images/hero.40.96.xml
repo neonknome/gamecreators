@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10931089" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Puzzling/Gigi/Thunder/10931089.jpg</thumbnail>
+		<title>Rustbucket Quake Magno</title>
+		<creator>Puzzling Gigi Thunder</creator>
+		<relatedgames />
+	</game>
+	<game id="17056202" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/25/2012">
+		<thumbnail>/gamecreators/images2/Tireless/Ruby/Phoenix/17056202.jpg</thumbnail>
+		<title>Clash Nitro Drone</title>
+		<creator>Tireless Ruby Phoenix</creator>
+		<relatedgames />
+	</game>
+	<game id="17369469" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/25/2012">
+		<thumbnail>/gamecreators/images2/Academic/Lauren/Spider/17369469.jpg</thumbnail>
+		<title>Gear Giga Big</title>
+		<creator>Academic Lauren Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="17408837" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>/gamecreators/images2/Cranky/Conrad/17408837.jpg</thumbnail>
+		<title>Racer Siege Rock</title>
+		<creator>Cranky Conrad</creator>
+		<relatedgames />
+	</game>
+	<game id="17191368" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/05/2012">
+		<thumbnail>/gamecreators/images2/Hypnotic/Jayden/Marmoset/17191368.jpg</thumbnail>
+		<title>Nova Power Adventure</title>
+		<creator>Hypnotic Jayden Marmoset</creator>
+		<relatedgames />
+	</game>
+	<game id="10918223" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Purple/Sam/Warp/10918223.jpg</thumbnail>
+		<title>Rumble Swampfire Warrior</title>
+		<creator>Purple Sam Warp</creator>
+		<relatedgames />
+	</game>
+	<game id="10041474" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Crafty/Harvey/Atom/10041474.jpg</thumbnail>
+		<title>Swampfire Ultimate Smash</title>
+		<creator>Crafty Harvey Atom</creator>
+		<relatedgames />
+	</game>
+	<game id="10922617" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Twisty/Donald/Magma/10922617.jpg</thumbnail>
+		<title>Galaxy Rampage Dark</title>
+		<creator>Twisty Donald Magma</creator>
+		<relatedgames />
+	</game>
+	<game id="10949434" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Crunchy/Angel/Goblin/10949434.jpg</thumbnail>
+		<title>Burst Target Space</title>
+		<creator>Crunchy Angel Goblin</creator>
+		<relatedgames />
+	</game>
+	<game id="10952564" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Gloomy/Harry/Bolt/10952564.jpg</thumbnail>
+		<title>Rocket Drone Adventure</title>
+		<creator>Gloomy Harry Bolt</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10046385" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Majestic/Chelsea/Squawk/10046385.jpg</thumbnail>
+		<title>Atomic Slam Space</title>
+		<creator>Majestic Chelsea Squawk</creator>
+		<relatedgames />
+	</game>
+	<game id="10843782" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2009">
+		<thumbnail>/gamecreators/images2/Silent/Jimbo/Zombie/10843782.jpg</thumbnail>
+		<title>Vilgax Breaker Assault</title>
+		<creator>Silent Jimbo Zombie</creator>
+		<relatedgames />
+	</game>
+	<game id="17331653" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Electric/Izzy/Coconut/17331653.jpg</thumbnail>
+		<title>Energy Whirlwind Cosmic</title>
+		<creator>Electric Izzy Coconut</creator>
+		<relatedgames />
+	</game>
+	<game id="10952550" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Cranky/Nicole/Galaxy/10952550.jpg</thumbnail>
+		<title>Swampfire Fire Storm</title>
+		<creator>Cranky Nicole Galaxy</creator>
+		<relatedgames />
+	</game>
+	<game id="10929135" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wacky/Elijah/Scorpion/10929135.jpg</thumbnail>
+		<title>Alien Sonic Power</title>
+		<creator>Wacky Elijah Scorpion</creator>
+		<relatedgames />
+	</game>
+	<game id="16940361" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/17/2012">
+		<thumbnail>/gamecreators/images2/Capable/Beatrice/Sunset/16940361.jpg</thumbnail>
+		<title>Chill Iron Titan</title>
+		<creator>Capable Beatrice Sunset</creator>
+		<relatedgames />
+	</game>
+	<game id="10952782" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Obvious/Fred/Mallard/10952782.jpg</thumbnail>
+		<title>Swampfire Dark Rescue</title>
+		<creator>Obvious Fred Mallard</creator>
+		<relatedgames />
+	</game>
+	<game id="10950440" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Loyal/Becky/Fury/10950440.jpg</thumbnail>
+		<title>Rocket Battle Beast</title>
+		<creator>Loyal Becky Fury</creator>
+		<relatedgames />
+	</game>
+	<game id="17206021" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/10/2012">
+		<thumbnail>/gamecreators/images2/Volcanic/Gabriel/Tarragon/17206021.jpg</thumbnail>
+		<title>Adventure Attack Target</title>
+		<creator>Volcanic Gabriel Tarragon</creator>
+		<relatedgames />
+	</game>
+	<game id="17349390" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>/gamecreators/images2/Perilous/Heidi/Smidgen/17349390.jpg</thumbnail>
+		<title>Racer Energy Iron</title>
+		<creator>Perilous Heidi Smidgen</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

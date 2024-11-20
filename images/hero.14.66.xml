@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10055525" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Infamous/Joseph/Dynamite/10055525.jpg</thumbnail>
+		<title>Vilgax Hero Mission</title>
+		<creator>Infamous Joseph Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="10039284" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Gracious/Vladimir/Yodel/10039284.jpg</thumbnail>
+		<title>Animo Lightning Defense</title>
+		<creator>Gracious Vladimir Yodel</creator>
+		<relatedgames />
+	</game>
+	<game id="10953582" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Nimble/Lillian/Robot/10953582.jpg</thumbnail>
+		<title>Rustbucket Smash Pursuit</title>
+		<creator>Nimble Lillian Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="10916801" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Sly/Michelle/Chipmunk/10916801.jpg</thumbnail>
+		<title>Warp Pulse Blaster</title>
+		<creator>Sly Michelle Chipmunk</creator>
+		<relatedgames />
+	</game>
+	<game id="17262259" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Active/Jesse/Javelin/17262259.jpg</thumbnail>
+		<title>Force Rocket Thunder</title>
+		<creator>Active Jesse Javelin</creator>
+		<relatedgames />
+	</game>
+	<game id="10916670" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Frantic/Spike/Cobweb/10916670.jpg</thumbnail>
+		<title>Ambush Turbo Racer</title>
+		<creator>Frantic Spike Cobweb</creator>
+		<relatedgames />
+	</game>
+	<game id="17535805" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>/gamecreators/images2/Ruthless/Dustin/Gulch/17535805.jpg</thumbnail>
+		<title>Gear Adventure Spidermonkey</title>
+		<creator>Ruthless Dustin Gulch</creator>
+		<relatedgames />
+	</game>
+	<game id="10929318" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Atomic/Jordan/Atom/10929318.jpg</thumbnail>
+		<title>Robot Turbo Warrior</title>
+		<creator>Atomic Jordan Atom</creator>
+		<relatedgames />
+	</game>
+	<game id="17286743" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>/gamecreators/images2/Sharp/Max/Mantis/17286743.jpg</thumbnail>
+		<title>Ben Champion Warrior</title>
+		<creator>Sharp Max Mantis</creator>
+		<relatedgames />
+	</game>
+	<game id="10952867" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Frantic/Chester/Walrus/10952867.jpg</thumbnail>
+		<title>Search Nova Champion</title>
+		<creator>Frantic Chester Walrus</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

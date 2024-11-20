@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16930985" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/14/2012">
+		<thumbnail>/gamecreators/images2/Splendid/Simon/Sardine/16930985.jpg</thumbnail>
+		<title>Shock Charge Rocket</title>
+		<creator>Splendid Simon Sardine</creator>
+		<relatedgames />
+	</game>
+	<game id="16956383" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/22/2012">
+		<thumbnail>/gamecreators/images2/Capable/Bugsy/Sword/16956383.jpg</thumbnail>
+		<title>Rush Ultimate Titan</title>
+		<creator>Capable Bugsy Sword</creator>
+		<relatedgames />
+	</game>
+	<game id="10028568" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Atomic/Harvey/Aardvark/10028568.jpg</thumbnail>
+		<title>Fire Spike Search</title>
+		<creator>Atomic Harvey Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="10064405" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Cranky/Dawn/Boing/10064405.jpg</thumbnail>
+		<title>Racer Racer Assault</title>
+		<creator>Cranky Dawn Boing</creator>
+		<relatedgames />
+	</game>
+	<game id="10649752" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Enormous/Simon/Acrobat/10649752.jpg</thumbnail>
+		<title>Ultra Thunder Hero</title>
+		<creator>Enormous Simon Acrobat</creator>
+		<relatedgames />
+	</game>
+	<game id="17220400" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Cunning/Sofia/Pinball/17220400.jpg</thumbnail>
+		<title>Earth Pursuit Warrior</title>
+		<creator>Cunning Sofia Pinball</creator>
+		<relatedgames />
+	</game>
+	<game id="17115481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/11/2012">
+		<thumbnail>/gamecreators/images2/Glorious/Logan/Brick/17115481.jpg</thumbnail>
+		<title>Cosmic Clash Adventure</title>
+		<creator>Glorious Logan Brick</creator>
+		<relatedgames />
+	</game>
+	<game id="16954763" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/21/2012">
+		<thumbnail>/gamecreators/images2/Sleepy/Cameron/Gamer/16954763.jpg</thumbnail>
+		<title>Ultimate Escape Racer</title>
+		<creator>Sleepy Cameron Gamer</creator>
+		<relatedgames />
+	</game>
+	<game id="10786966" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>/gamecreators/images2/Radiant/Cynthia/Squeegee/10786966.jpg</thumbnail>
+		<title>Magno Solar Danger</title>
+		<creator>Radiant Cynthia Squeegee</creator>
+		<relatedgames />
+	</game>
+	<game id="10930381" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Blue/Jonathan/Sunshine/10930381.jpg</thumbnail>
+		<title>Gear Storm Alien</title>
+		<creator>Blue Jonathan Sunshine</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

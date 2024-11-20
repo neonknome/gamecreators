@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17551777" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Splendid/Caitlin/Denizen/17551777.jpg</thumbnail>
+		<title>Drone Mission Warrior</title>
+		<creator>Splendid Caitlin Denizen</creator>
+		<relatedgames />
+	</game>
+	<game id="17223549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Cackling/Cory/Avator/17223549.jpg</thumbnail>
+		<title>Universe Energy Power</title>
+		<creator>Cackling Cory Avator</creator>
+		<relatedgames />
+	</game>
+	<game id="10918912" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Strange/Daniel/Squid/10918912.jpg</thumbnail>
+		<title>Doom Chase Space</title>
+		<creator>Strange Daniel Squid</creator>
+		<relatedgames />
+	</game>
+	<game id="16912533" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/10/2012">
+		<thumbnail>/gamecreators/images2/Athletic/Luke/Fang/16912533.jpg</thumbnail>
+		<title>Jetray Galaxy Rush</title>
+		<creator>Athletic Luke Fang</creator>
+		<relatedgames />
+	</game>
+	<game id="10926938" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Gruesome/Ryan/Nacho/10926938.jpg</thumbnail>
+		<title>Galaxy Adventure Ambush</title>
+		<creator>Gruesome Ryan Nacho</creator>
+		<relatedgames />
+	</game>
+	<game id="10922525" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Heroic/Michelle/Zebra/10922525.jpg</thumbnail>
+		<title>Rock Challenge Robot</title>
+		<creator>Heroic Michelle Zebra</creator>
+		<relatedgames />
+	</game>
+	<game id="10699107" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2009">
+		<thumbnail>/gamecreators/images2/Peculiar/Robert/Aurora/10699107.jpg</thumbnail>
+		<title>Fury Target Rampage</title>
+		<creator>Peculiar Robert Aurora</creator>
+		<relatedgames />
+	</game>
+	<game id="17323118" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Stout/Herman/Aardvark/17323118.jpg</thumbnail>
+		<title>Lightning Hyper Dark</title>
+		<creator>Stout Herman Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="10020400" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Cheerful/Jill/Blubber/10020400.jpg</thumbnail>
+		<title>Gear Warrior Siege</title>
+		<creator>Cheerful Jill Blubber</creator>
+		<relatedgames />
+	</game>
+	<game id="10953158" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Awful/Austin/Sphinx/10953158.jpg</thumbnail>
+		<title>Dark Search Spike</title>
+		<creator>Awful Austin Sphinx</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

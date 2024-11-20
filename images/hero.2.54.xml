@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10927605" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Loony/Heidi/Grouch/10927605.jpg</thumbnail>
+		<title>Swampfire Plumber Patrol</title>
+		<creator>Loony Heidi Grouch</creator>
+		<relatedgames />
+	</game>
+	<game id="10953344" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Orange/Donald/Pinwheel/10953344.jpg</thumbnail>
+		<title>Animo Hero Defense</title>
+		<creator>Orange Donald Pinwheel</creator>
+		<relatedgames />
+	</game>
+	<game id="17403542" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Crystal/Oyster/17403542.jpg</thumbnail>
+		<title>Ultra Nitro Nano</title>
+		<creator>Magnetic Crystal Oyster</creator>
+		<relatedgames />
+	</game>
+	<game id="16979963" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>/gamecreators/images2/Savage/Mary/Wallop/16979963.jpg</thumbnail>
+		<title>Metal Plasma Titan</title>
+		<creator>Savage Mary Wallop</creator>
+		<relatedgames />
+	</game>
+	<game id="10933419" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wild/Mike/Squawk/10933419.jpg</thumbnail>
+		<title>Magno Mission Rescue</title>
+		<creator>Wild Mike Squawk</creator>
+		<relatedgames />
+	</game>
+	<game id="10921135" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Dreadful/Medusa/Fishbowl/10921135.jpg</thumbnail>
+		<title>Swampfire Assault Invasion</title>
+		<creator>Dreadful Medusa Fishbowl</creator>
+		<relatedgames />
+	</game>
+	<game id="17400808" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>/gamecreators/images2/Noble/Celeste/Thorax/17400808.jpg</thumbnail>
+		<title>Galaxy Turbo Vilgax</title>
+		<creator>Noble Celeste Thorax</creator>
+		<relatedgames />
+	</game>
+	<game id="17420645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Smart/Marco/Aardvark/17420645.jpg</thumbnail>
+		<title>Warrior Rumble Fury</title>
+		<creator>Smart Marco Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="17191784" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/05/2012">
+		<thumbnail>/gamecreators/images2/Active/Michael/Trooper/17191784.jpg</thumbnail>
+		<title>Razor Droid Galaxy</title>
+		<creator>Active Michael Trooper</creator>
+		<relatedgames />
+	</game>
+	<game id="10952882" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Bouncing/Rufus/Ukulele/10952882.jpg</thumbnail>
+		<title>Warrior Beast Alien</title>
+		<creator>Bouncing Rufus Ukulele</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

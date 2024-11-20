@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17033336" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/17/2012">
+		<thumbnail>/gamecreators/images2/Epic/Igor/Minotaur/17033336.jpg</thumbnail>
+		<title>Search Energy Chill</title>
+		<creator>Epic Igor Minotaur</creator>
+		<relatedgames />
+	</game>
+	<game id="17404687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Golden/Benjamin/Hedgehog/17404687.jpg</thumbnail>
+		<title>Space Star Patrol</title>
+		<creator>Golden Benjamin Hedgehog</creator>
+		<relatedgames />
+	</game>
+	<game id="17143652" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/20/2012">
+		<thumbnail>/gamecreators/images2/Negative/Luke/Omelet/17143652.jpg</thumbnail>
+		<title>Big Rustbucket Rumble</title>
+		<creator>Negative Luke Omelet</creator>
+		<relatedgames />
+	</game>
+	<game id="10932767" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Sleepy/Will/Spider/10932767.jpg</thumbnail>
+		<title>Rocket Ultimate Streak</title>
+		<creator>Sleepy Will Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="10069016" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Absurd/Zeus/Rumble/10069016.jpg</thumbnail>
+		<title>Adventure Drone Nova</title>
+		<creator>Absurd Zeus Rumble</creator>
+		<relatedgames />
+	</game>
+	<game id="16835000" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/24/2012">
+		<thumbnail>/gamecreators/images2/Blustery/Zoe/Banshee/16835000.jpg</thumbnail>
+		<title>Energy Adventure Rush</title>
+		<creator>Blustery Zoe Banshee</creator>
+		<relatedgames />
+	</game>
+	<game id="17540418" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Peppy/Phillip/Scythe/17540418.jpg</thumbnail>
+		<title>Target Rush Fusion</title>
+		<creator>Peppy Phillip Scythe</creator>
+		<relatedgames />
+	</game>
+	<game id="16837718" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/25/2012">
+		<thumbnail>/gamecreators/images2/Witty/Dean/Giblets/16837718.jpg</thumbnail>
+		<title>Nitro Mission Atomic</title>
+		<creator>Witty Dean Giblets</creator>
+		<relatedgames />
+	</game>
+	<game id="17227876" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>/gamecreators/images2/Flying/Logan/Magnet/17227876.jpg</thumbnail>
+		<title>Charge Escape Breaker</title>
+		<creator>Flying Logan Magnet</creator>
+		<relatedgames />
+	</game>
+	<game id="10952807" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Dynamic/Larry/Eggplant/10952807.jpg</thumbnail>
+		<title>Battle Turbo Shadow</title>
+		<creator>Dynamic Larry Eggplant</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

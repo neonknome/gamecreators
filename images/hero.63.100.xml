@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17275840" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>/gamecreators/images2/Puzzling/Kristen/Mars/17275840.jpg</thumbnail>
+		<title>Dark Nova Power</title>
+		<creator>Puzzling Kristen Mars</creator>
+		<relatedgames />
+	</game>
+	<game id="10952932" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Sloppy/Connor/Fondue/10952932.jpg</thumbnail>
+		<title>Adventure Doom Breaker</title>
+		<creator>Sloppy Connor Fondue</creator>
+		<relatedgames />
+	</game>
+	<game id="10705689" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Honest/Adrian/Shark/10705689.jpg</thumbnail>
+		<title>Ultra Target Danger</title>
+		<creator>Honest Adrian Shark</creator>
+		<relatedgames />
+	</game>
+	<game id="17309781" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>/gamecreators/images2/Pleasant/Alan/Gamer/17309781.jpg</thumbnail>
+		<title>Razor Jetray Laser</title>
+		<creator>Pleasant Alan Gamer</creator>
+		<relatedgames />
+	</game>
+	<game id="10918912" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Strange/Daniel/Squid/10918912.jpg</thumbnail>
+		<title>Doom Chase Space</title>
+		<creator>Strange Daniel Squid</creator>
+		<relatedgames />
+	</game>
+	<game id="10931159" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Chilly/Eddie/Fiddle/10931159.jpg</thumbnail>
+		<title>Alien Ambush Defense</title>
+		<creator>Chilly Eddie Fiddle</creator>
+		<relatedgames />
+	</game>
+	<game id="17296193" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/03/2012">
+		<thumbnail>/gamecreators/images2/Flying/Stanley/Quake/17296193.jpg</thumbnail>
+		<title>Rocket Danger Nitro</title>
+		<creator>Flying Stanley Quake</creator>
+		<relatedgames />
+	</game>
+	<game id="10699107" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2009">
+		<thumbnail>/gamecreators/images2/Peculiar/Robert/Aurora/10699107.jpg</thumbnail>
+		<title>Fury Target Rampage</title>
+		<creator>Peculiar Robert Aurora</creator>
+		<relatedgames />
+	</game>
+	<game id="10932957" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Majestic/Don/Ketchup/10932957.jpg</thumbnail>
+		<title>Earth Razor Warp</title>
+		<creator>Majestic Don Ketchup</creator>
+		<relatedgames />
+	</game>
+	<game id="10045226" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Wise/Tara/Pinball/10045226.jpg</thumbnail>
+		<title>Iron Vilgax Adventure</title>
+		<creator>Wise Tara Pinball</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

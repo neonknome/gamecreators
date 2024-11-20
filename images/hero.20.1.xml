@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17387464" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Feisty/Michelle/Ketchup/17387464.jpg</thumbnail>
+		<title>Water Droid Defense</title>
+		<creator>Feisty Michelle Ketchup</creator>
+		<relatedgames />
+	</game>
+	<game id="10038692" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Atomic/Caleb/Bonkers/10038692.jpg</thumbnail>
+		<title>Breaker Galaxy Fire</title>
+		<creator>Atomic Caleb Bonkers</creator>
+		<relatedgames />
+	</game>
+	<game id="10039334" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Gruesome/Will/Yodel/10039334.jpg</thumbnail>
+		<title>Steel Stone Titan</title>
+		<creator>Gruesome Will Yodel</creator>
+		<relatedgames />
+	</game>
+	<game id="10916719" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Obvious/Anthony/Goofball/10916719.jpg</thumbnail>
+		<title>Swampfire Rampage Chase</title>
+		<creator>Obvious Anthony Goofball</creator>
+		<relatedgames />
+	</game>
+	<game id="17405008" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Volcanic/Bryce/Oyster/17405008.jpg</thumbnail>
+		<title>Cosmic Sonic Burst</title>
+		<creator>Volcanic Bryce Oyster</creator>
+		<relatedgames />
+	</game>
+	<game id="17358771" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>/gamecreators/images2/Peppy/Elmer/Wyvern/17358771.jpg</thumbnail>
+		<title>Burst Whirlwind Vilgax</title>
+		<creator>Peppy Elmer Wyvern</creator>
+		<relatedgames />
+	</game>
+	<game id="10917011" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Stout/Wilbur/Oddball/10917011.jpg</thumbnail>
+		<title>Fire Alien Sonic</title>
+		<creator>Stout Wilbur Oddball</creator>
+		<relatedgames />
+	</game>
+	<game id="10922511" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Cheerful/Morgan/Charger/10922511.jpg</thumbnail>
+		<title>Space Ultra Plumber</title>
+		<creator>Cheerful Morgan Charger</creator>
+		<relatedgames />
+	</game>
+	<game id="17177367" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>/gamecreators/images2/Loud/DJ/Minotaur/17177367.jpg</thumbnail>
+		<title>Ultimate Smash Challenge</title>
+		<creator>Loud DJ Minotaur</creator>
+		<relatedgames />
+	</game>
+	<game id="10933949" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Ornery/Leah/Chutney/10933949.jpg</thumbnail>
+		<title>Space Animo Iron</title>
+		<creator>Ornery Leah Chutney</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

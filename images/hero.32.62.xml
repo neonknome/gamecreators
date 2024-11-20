@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10038151" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Dramatic/Nick/Porridge/10038151.jpg</thumbnail>
+		<title>Ultra Doom Storm</title>
+		<creator>Dramatic Nick Porridge</creator>
+		<relatedgames />
+	</game>
+	<game id="10931645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Handsome/Vinny/Thing/10931645.jpg</thumbnail>
+		<title>Battle Spark Plasma</title>
+		<creator>Handsome Vinny Thing</creator>
+		<relatedgames />
+	</game>
+	<game id="10953549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Frantic/Chester/Walrus/10953549.jpg</thumbnail>
+		<title>Chase Slam Alien</title>
+		<creator>Frantic Chester Walrus</creator>
+		<relatedgames />
+	</game>
+	<game id="10916703" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Rugged/Bianca/Fiddle/10916703.jpg</thumbnail>
+		<title>Razor Alien Shock</title>
+		<creator>Rugged Bianca Fiddle</creator>
+		<relatedgames />
+	</game>
+	<game id="17386673" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Strong/Chris/Eel/17386673.jpg</thumbnail>
+		<title>Plasma Mission Escape</title>
+		<creator>Strong Chris Eel</creator>
+		<relatedgames />
+	</game>
+	<game id="10953586" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Atomic/Fred/Jungle/10953586.jpg</thumbnail>
+		<title>Streak Ultimate Nitro</title>
+		<creator>Atomic Fred Jungle</creator>
+		<relatedgames />
+	</game>
+	<game id="10942748" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Jolly/Bryan/Kook/10942748.jpg</thumbnail>
+		<title>Adventure Rustbucket Iron</title>
+		<creator>Jolly Bryan Kook</creator>
+		<relatedgames />
+	</game>
+	<game id="16975781" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Radiant/Robert/Paladin/16975781.jpg</thumbnail>
+		<title>Adventure Spidermonkey Nitro</title>
+		<creator>Radiant Robert Paladin</creator>
+		<relatedgames />
+	</game>
+	<game id="10923045" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Twisty/Mario/Barnacle/10923045.jpg</thumbnail>
+		<title>Sonic Adventure Adventure</title>
+		<creator>Twisty Mario Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="17408872" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>/gamecreators/images2/Cunning/Samuel/Calypso/17408872.jpg</thumbnail>
+		<title>Champion Defense Warrior</title>
+		<creator>Cunning Samuel Calypso</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

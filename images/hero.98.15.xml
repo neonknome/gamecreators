@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17331796" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Evelyn/Brick/17331796.jpg</thumbnail>
+		<title>Ultimate Big Chill</title>
+		<creator>Magnetic Evelyn Brick</creator>
+		<relatedgames />
+	</game>
+	<game id="17239956" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>/gamecreators/images2/Precious/Leon/Raptor/17239956.jpg</thumbnail>
+		<title>Crusher Doom Ambush</title>
+		<creator>Precious Leon Raptor</creator>
+		<relatedgames />
+	</game>
+	<game id="10056062" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Colorful/Aidan/Avocado/10056062.jpg</thumbnail>
+		<title>Atomic Magno Spark</title>
+		<creator>Colorful Aidan Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="17347123" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2012">
+		<thumbnail>/gamecreators/images2/Ticklish/Lancelot/Starfish/17347123.jpg</thumbnail>
+		<title>Smash Atomic Mission</title>
+		<creator>Ticklish Lancelot Starfish</creator>
+		<relatedgames />
+	</game>
+	<game id="10953188" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Eerie/Iris/Oddball/10953188.jpg</thumbnail>
+		<title>Ultra Droid Titan</title>
+		<creator>Eerie Iris Oddball</creator>
+		<relatedgames />
+	</game>
+	<game id="10648482" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Crafty/Kristen/Quake/10648482.jpg</thumbnail>
+		<title>Light Universe Vilgax</title>
+		<creator>Crafty Kristen Quake</creator>
+		<relatedgames />
+	</game>
+	<game id="17382394" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/General/Ian/Fang/17382394.jpg</thumbnail>
+		<title>Champion Smash Ben</title>
+		<creator>General Ian Fang</creator>
+		<relatedgames />
+	</game>
+	<game id="10061528" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Shiny/Owen/Gargoyle/10061528.jpg</thumbnail>
+		<title>Thunder Invasion Sonic</title>
+		<creator>Shiny Owen Gargoyle</creator>
+		<relatedgames />
+	</game>
+	<game id="10059235" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Purple/Patrick/Amethyst/10059235.jpg</thumbnail>
+		<title>Charge Alien Streak</title>
+		<creator>Purple Patrick Amethyst</creator>
+		<relatedgames />
+	</game>
+	<game id="17338199" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Loud/Connor/Monster/17338199.jpg</thumbnail>
+		<title>Racer Adventure Adventure</title>
+		<creator>Loud Connor Monster</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

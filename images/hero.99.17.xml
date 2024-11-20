@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17260152" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>/gamecreators/images2/Radiant/Mckenzie/Kungfu/17260152.jpg</thumbnail>
+		<title>Alien Escape Assault</title>
+		<creator>Radiant Mckenzie Kungfu</creator>
+		<relatedgames />
+	</game>
+	<game id="16835000" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/24/2012">
+		<thumbnail>/gamecreators/images2/Blustery/Zoe/Banshee/16835000.jpg</thumbnail>
+		<title>Energy Adventure Rush</title>
+		<creator>Blustery Zoe Banshee</creator>
+		<relatedgames />
+	</game>
+	<game id="10949490" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Enormous/Nathan/Monster/10949490.jpg</thumbnail>
+		<title>Warrior Thunder Iron</title>
+		<creator>Enormous Nathan Monster</creator>
+		<relatedgames />
+	</game>
+	<game id="17540418" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Peppy/Phillip/Scythe/17540418.jpg</thumbnail>
+		<title>Target Rush Fusion</title>
+		<creator>Peppy Phillip Scythe</creator>
+		<relatedgames />
+	</game>
+	<game id="10921591" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Majestic/Mario/Sawtooth/10921591.jpg</thumbnail>
+		<title>Dark Adventure Drone</title>
+		<creator>Majestic Mario Sawtooth</creator>
+		<relatedgames />
+	</game>
+	<game id="16837718" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/25/2012">
+		<thumbnail>/gamecreators/images2/Witty/Dean/Giblets/16837718.jpg</thumbnail>
+		<title>Nitro Mission Atomic</title>
+		<creator>Witty Dean Giblets</creator>
+		<relatedgames />
+	</game>
+	<game id="10953381" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Cheerful/Vincent/Dragon/10953381.jpg</thumbnail>
+		<title>Plasma Giga Droid</title>
+		<creator>Cheerful Vincent Dragon</creator>
+		<relatedgames />
+	</game>
+	<game id="10924687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Surreal/Grace/Flypaper/10924687.jpg</thumbnail>
+		<title>Clash Alien Adventure</title>
+		<creator>Surreal Grace Flypaper</creator>
+		<relatedgames />
+	</game>
+	<game id="16900941" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/08/2012">
+		<thumbnail>/gamecreators/images2/Comical/Ariana/Brine/16900941.jpg</thumbnail>
+		<title>Rocket Quake Smash</title>
+		<creator>Comical Ariana Brine</creator>
+		<relatedgames />
+	</game>
+	<game id="10925842" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Frugal/Sean/Volcano/10925842.jpg</thumbnail>
+		<title>Swampfire Doom Adventure</title>
+		<creator>Frugal Sean Volcano</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

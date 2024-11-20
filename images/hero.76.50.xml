@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10924601" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Atomic/Vinny/Sawtooth/10924601.jpg</thumbnail>
+		<title>Attack Alien Force</title>
+		<creator>Atomic Vinny Sawtooth</creator>
+		<relatedgames />
+	</game>
+	<game id="10933602" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dreadful/Joshua/Techno/10933602.jpg</thumbnail>
+		<title>Swampfire Ultimate Chase</title>
+		<creator>Dreadful Joshua Techno</creator>
+		<relatedgames />
+	</game>
+	<game id="10058809" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Happy/Simon/Steam/10058809.jpg</thumbnail>
+		<title>Swampfire Blaster Smash</title>
+		<creator>Happy Simon Steam</creator>
+		<relatedgames />
+	</game>
+	<game id="10916670" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Frantic/Spike/Cobweb/10916670.jpg</thumbnail>
+		<title>Ambush Turbo Racer</title>
+		<creator>Frantic Spike Cobweb</creator>
+		<relatedgames />
+	</game>
+	<game id="10926785" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Honest/Natasha/Tempest/10926785.jpg</thumbnail>
+		<title>Pursuit Mega Nano</title>
+		<creator>Honest Natasha Tempest</creator>
+		<relatedgames />
+	</game>
+	<game id="10924472" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dainty/Hayden/Avocado/10924472.jpg</thumbnail>
+		<title>Burst Atomic Droid</title>
+		<creator>Dainty Hayden Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="10041441" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Jolly/Jack/Pelican/10041441.jpg</thumbnail>
+		<title>Dark Earth Doom</title>
+		<creator>Jolly Jack Pelican</creator>
+		<relatedgames />
+	</game>
+	<game id="17327386" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Radical/Romeo/Skeleton/17327386.jpg</thumbnail>
+		<title>Adventure Attack Solar</title>
+		<creator>Radical Romeo Skeleton</creator>
+		<relatedgames />
+	</game>
+	<game id="17350933" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Gerard/Fez/17350933.jpg</thumbnail>
+		<title>Ultimate Big Chill</title>
+		<creator>Ultimate Gerard Fez</creator>
+		<relatedgames />
+	</game>
+	<game id="10923851" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Normal/Scooter/Squish/10923851.jpg</thumbnail>
+		<title>Patrol Chase Plasma</title>
+		<creator>Normal Scooter Squish</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

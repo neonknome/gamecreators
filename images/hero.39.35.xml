@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17414153" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/14/2012">
+		<thumbnail>/gamecreators/images2/Vague/Hunter/Celsius/17414153.jpg</thumbnail>
+		<title>Adventure Lightning Assault</title>
+		<creator>Vague Hunter Celsius</creator>
+		<relatedgames />
+	</game>
+	<game id="10924317" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Daring/Kaitlyn/Ketchup/10924317.jpg</thumbnail>
+		<title>Assault Droid Rustbucket</title>
+		<creator>Daring Kaitlyn Ketchup</creator>
+		<relatedgames />
+	</game>
+	<game id="17326873" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Grand/Tex/Gator/17326873.jpg</thumbnail>
+		<title>Droid Quake Light</title>
+		<creator>Grand Tex Gator</creator>
+		<relatedgames />
+	</game>
+	<game id="10055575" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Reckless/Romeo/Spark/10055575.jpg</thumbnail>
+		<title>Fire Ultra Slam</title>
+		<creator>Reckless Romeo Spark</creator>
+		<relatedgames />
+	</game>
+	<game id="10929472" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Alien/Shannon/Robot/10929472.jpg</thumbnail>
+		<title>Invasion Vilgax Galaxy</title>
+		<creator>Alien Shannon Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="17504532" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>/gamecreators/images2/Rowdy/Chris/Blast/17504532.jpg</thumbnail>
+		<title>Nano Steel Alien</title>
+		<creator>Rowdy Chris Blast</creator>
+		<relatedgames />
+	</game>
+	<game id="10865866" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2009">
+		<thumbnail>/gamecreators/images2/Merry/Jayden/Phantom/10865866.jpg</thumbnail>
+		<title>Patrol Plumber Hyper</title>
+		<creator>Merry Jayden Phantom</creator>
+		<relatedgames />
+	</game>
+	<game id="17210216" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/11/2012">
+		<thumbnail>/gamecreators/images2/Hyper/Dexter/Kiwi/17210216.jpg</thumbnail>
+		<title>Target Fury Brainstorm</title>
+		<creator>Hyper Dexter Kiwi</creator>
+		<relatedgames />
+	</game>
+	<game id="10922797" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Purple/Kevin/Penguin/10922797.jpg</thumbnail>
+		<title>Energy Lightning Galaxy</title>
+		<creator>Purple Kevin Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="17052967" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/24/2012">
+		<thumbnail>/gamecreators/images2/Talented/Owen/Deadbolt/17052967.jpg</thumbnail>
+		<title>Plumber Slam Turbo</title>
+		<creator>Talented Owen Deadbolt</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

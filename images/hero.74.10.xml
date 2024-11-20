@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17302670" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Gleeful/James/Avator/17302670.jpg</thumbnail>
+		<title>Rescue Spike Blaster</title>
+		<creator>Gleeful James Avator</creator>
+		<relatedgames />
+	</game>
+	<game id="10951678" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Musical/Perseus/Elephant/10951678.jpg</thumbnail>
+		<title>Magno Iron Laser</title>
+		<creator>Musical Perseus Elephant</creator>
+		<relatedgames />
+	</game>
+	<game id="17177519" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>/gamecreators/images2/Singular/Egbert/Eel/17177519.jpg</thumbnail>
+		<title>Alien Adventure Adventure</title>
+		<creator>Singular Egbert Eel</creator>
+		<relatedgames />
+	</game>
+	<game id="17420254" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Abstract/Natalia/Mackerel/17420254.jpg</thumbnail>
+		<title>Spike Ambush Storm</title>
+		<creator>Abstract Natalia Mackerel</creator>
+		<relatedgames />
+	</game>
+	<game id="10916687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Felix/Pontoon/10916687.jpg</thumbnail>
+		<title>Alien Metal Rock</title>
+		<creator>Tricky Felix Pontoon</creator>
+		<relatedgames />
+	</game>
+	<game id="10920432" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Bizarre/Scarlett/Catapult/10920432.jpg</thumbnail>
+		<title>Thunder Assault Giga</title>
+		<creator>Bizarre Scarlett Catapult</creator>
+		<relatedgames />
+	</game>
+	<game id="10946286" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Adorable/Benjamin/Robot/10946286.jpg</thumbnail>
+		<title>Fire Fire Robot</title>
+		<creator>Adorable Benjamin Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="17382354" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Musical/Brian/Warrior/17382354.jpg</thumbnail>
+		<title>Turbo Adventure Stone</title>
+		<creator>Musical Brian Warrior</creator>
+		<relatedgames />
+	</game>
+	<game id="17303818" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Extinct/Coco/Spider/17303818.jpg</thumbnail>
+		<title>Attack Chill Adventure</title>
+		<creator>Extinct Coco Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="10043263" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Infinite/Polly/Monster/10043263.jpg</thumbnail>
+		<title>Alien Force Battle</title>
+		<creator>Infinite Polly Monster</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

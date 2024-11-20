@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17337988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Enormous/Alice/Dodo/17337988.jpg</thumbnail>
+		<title>Ultimate Mission Droid</title>
+		<creator>Enormous Alice Dodo</creator>
+		<relatedgames />
+	</game>
+	<game id="10055824" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Gloomy/Ben/Sawtooth/10055824.jpg</thumbnail>
+		<title>Lightning Champion Fusion</title>
+		<creator>Gloomy Ben Sawtooth</creator>
+		<relatedgames />
+	</game>
+	<game id="10919489" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Sinister/Hercules/Monkey/10919489.jpg</thumbnail>
+		<title>Ultra Alien Ambush</title>
+		<creator>Sinister Hercules Monkey</creator>
+		<relatedgames />
+	</game>
+	<game id="17223749" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Quick/Chuck/Cobweb/17223749.jpg</thumbnail>
+		<title>Techno Stone Fusion</title>
+		<creator>Quick Chuck Cobweb</creator>
+		<relatedgames />
+	</game>
+	<game id="10057062" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Bizarre/Zelda/Catapult/10057062.jpg</thumbnail>
+		<title>Droid Target Rush</title>
+		<creator>Bizarre Zelda Catapult</creator>
+		<relatedgames />
+	</game>
+	<game id="17230806" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/16/2012">
+		<thumbnail>/gamecreators/images2/Emperor/Autumn/Mutant/17230806.jpg</thumbnail>
+		<title>Drone Danger Escape</title>
+		<creator>Emperor Autumn Mutant</creator>
+		<relatedgames />
+	</game>
+	<game id="16977304" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Wily/Sadie/Skeleton/16977304.jpg</thumbnail>
+		<title>Invasion Alien Rush</title>
+		<creator>Wily Sadie Skeleton</creator>
+		<relatedgames />
+	</game>
+	<game id="10054675" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Chaotic/Lily/Safari/10054675.jpg</thumbnail>
+		<title>Ultimate Fusion Assault</title>
+		<creator>Chaotic Lily Safari</creator>
+		<relatedgames />
+	</game>
+	<game id="10925590" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fizzy/Dominic/Splat/10925590.jpg</thumbnail>
+		<title>Hero Battle Spark</title>
+		<creator>Fizzy Dominic Splat</creator>
+		<relatedgames />
+	</game>
+	<game id="10924399" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Frosty/Cory/Cyclone/10924399.jpg</thumbnail>
+		<title>Swampfire Spark Star</title>
+		<creator>Frosty Cory Cyclone</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

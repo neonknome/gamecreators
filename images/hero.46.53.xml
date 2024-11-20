@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10916680" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Stylish/Hank/Gorilla/10916680.jpg</thumbnail>
+		<title>Beast Alien Nitro</title>
+		<creator>Stylish Hank Gorilla</creator>
+		<relatedgames />
+	</game>
+	<game id="16947434" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>/gamecreators/images2/Classic/Bill/Doodle/16947434.jpg</thumbnail>
+		<title>Ambush Rustbucket Light</title>
+		<creator>Classic Bill Doodle</creator>
+		<relatedgames />
+	</game>
+	<game id="10935790" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Reckless/Arthur/Fossil/10935790.jpg</thumbnail>
+		<title>Escape Ambush Space</title>
+		<creator>Reckless Arthur Fossil</creator>
+		<relatedgames />
+	</game>
+	<game id="10928541" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Bouncing/Ashley/Minotaur/10928541.jpg</thumbnail>
+		<title>Hyper Rocket Champion</title>
+		<creator>Bouncing Ashley Minotaur</creator>
+		<relatedgames />
+	</game>
+	<game id="16961131" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/23/2012">
+		<thumbnail>/gamecreators/images2/Epic/Thor/Noob/16961131.jpg</thumbnail>
+		<title>Nano Universe Big</title>
+		<creator>Epic Thor Noob</creator>
+		<relatedgames />
+	</game>
+	<game id="10068663" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Alien/Isaiah/Thud/10068663.jpg</thumbnail>
+		<title>Alien Adventure Ambush</title>
+		<creator>Alien Isaiah Thud</creator>
+		<relatedgames />
+	</game>
+	<game id="16871294" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>/gamecreators/images2/Golden/Levi/Twilight/16871294.jpg</thumbnail>
+		<title>Ultimate Force Attack</title>
+		<creator>Golden Levi Twilight</creator>
+		<relatedgames />
+	</game>
+	<game id="17386226" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Neutral/Pedro/Clone/17386226.jpg</thumbnail>
+		<title>Force Swampfire Alien</title>
+		<creator>Neutral Pedro Clone</creator>
+		<relatedgames />
+	</game>
+	<game id="10040051" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Fanciful/Pedro/Magma/10040051.jpg</thumbnail>
+		<title>Solar Invasion Ultimate</title>
+		<creator>Fanciful Pedro Magma</creator>
+		<relatedgames />
+	</game>
+	<game id="10952855" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Normal/Mario/Cobra/10952855.jpg</thumbnail>
+		<title>Nova Alien Invasion</title>
+		<creator>Normal Mario Cobra</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

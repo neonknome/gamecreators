@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17551092" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Dreadful/Alex/Dodo/17551092.jpg</thumbnail>
+		<title>Adventure Assault Nitro</title>
+		<creator>Dreadful Alex Dodo</creator>
+		<relatedgames />
+	</game>
+	<game id="17549594" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Classic/Buffy/Dingo/17549594.jpg</thumbnail>
+		<title>Warrior Rustbucket Echo</title>
+		<creator>Classic Buffy Dingo</creator>
+		<relatedgames />
+	</game>
+	<game id="10038610" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Frantic/Henry/Crowbar/10038610.jpg</thumbnail>
+		<title>Shock Nano Siege</title>
+		<creator>Frantic Henry Crowbar</creator>
+		<relatedgames />
+	</game>
+	<game id="10953578" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Lucky/Matthew/Avocado/10953578.jpg</thumbnail>
+		<title>Warp Pulse Swampfire</title>
+		<creator>Lucky Matthew Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="17223057" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Bouncing/Benton/Mummy/17223057.jpg</thumbnail>
+		<title>Big Chill Challenge</title>
+		<creator>Bouncing Benton Mummy</creator>
+		<relatedgames />
+	</game>
+	<game id="17360908" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>/gamecreators/images2/Speedy/Cole/Fuzz/17360908.jpg</thumbnail>
+		<title>Storm Ultimate Animo</title>
+		<creator>Speedy Cole Fuzz</creator>
+		<relatedgames />
+	</game>
+	<game id="10069100" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Alien/Jacob/Brick/10069100.jpg</thumbnail>
+		<title>Swampfire Hero Hex</title>
+		<creator>Alien Jacob Brick</creator>
+		<relatedgames />
+	</game>
+	<game id="16983247" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>/gamecreators/images2/Brisk/Ben/Ballyhoo/16983247.jpg</thumbnail>
+		<title>Spike Drone Ultra</title>
+		<creator>Brisk Ben Ballyhoo</creator>
+		<relatedgames />
+	</game>
+	<game id="10946491" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Fanciful/Sandra/Howler/10946491.jpg</thumbnail>
+		<title>Warrior Quake Pursuit</title>
+		<creator>Fanciful Sandra Howler</creator>
+		<relatedgames />
+	</game>
+	<game id="10953354" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Jolly/Bryan/Kook/10953354.jpg</thumbnail>
+		<title>Alien Robot Nitro</title>
+		<creator>Jolly Bryan Kook</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

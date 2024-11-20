@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17262274" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Popular/Roscoe/Volcano/17262274.jpg</thumbnail>
+		<title>Universe Ultimate Nitro</title>
+		<creator>Popular Roscoe Volcano</creator>
+		<relatedgames />
+	</game>
+	<game id="10865866" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2009">
+		<thumbnail>/gamecreators/images2/Merry/Jayden/Phantom/10865866.jpg</thumbnail>
+		<title>Patrol Plumber Hyper</title>
+		<creator>Merry Jayden Phantom</creator>
+		<relatedgames />
+	</game>
+	<game id="17018925" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>/gamecreators/images2/Zany/Andre/Wolf/17018925.jpg</thumbnail>
+		<title>Clash Water Dark</title>
+		<creator>Zany Andre Wolf</creator>
+		<relatedgames />
+	</game>
+	<game id="17052967" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/24/2012">
+		<thumbnail>/gamecreators/images2/Talented/Owen/Deadbolt/17052967.jpg</thumbnail>
+		<title>Plumber Slam Turbo</title>
+		<creator>Talented Owen Deadbolt</creator>
+		<relatedgames />
+	</game>
+	<game id="10649467" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Baffling/Zoe/Kazoo/10649467.jpg</thumbnail>
+		<title>Plumber Escape Rock</title>
+		<creator>Baffling Zoe Kazoo</creator>
+		<relatedgames />
+	</game>
+	<game id="10648025" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Absurd/Bob/Hambone/10648025.jpg</thumbnail>
+		<title>Spike Smash Thunder</title>
+		<creator>Absurd Bob Hambone</creator>
+		<relatedgames />
+	</game>
+	<game id="10924415" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Robotic/Tom/Wombat/10924415.jpg</thumbnail>
+		<title>Swampfire Sonic Escape</title>
+		<creator>Robotic Tom Wombat</creator>
+		<relatedgames />
+	</game>
+	<game id="10953481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Artistic/Leonardo/Zebra/10953481.jpg</thumbnail>
+		<title>Plasma Robot Fusion</title>
+		<creator>Artistic Leonardo Zebra</creator>
+		<relatedgames />
+	</game>
+	<game id="10950341" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Dazzling/Reginald/Igloo/10950341.jpg</thumbnail>
+		<title>Blaster Turbo Storm</title>
+		<creator>Dazzling Reginald Igloo</creator>
+		<relatedgames />
+	</game>
+	<game id="17561116" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Gross/Vinny/Gamer/17561116.jpg</thumbnail>
+		<title>Rescue Warrior Water</title>
+		<creator>Gross Vinny Gamer</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

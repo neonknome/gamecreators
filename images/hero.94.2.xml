@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17555017" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Magical/Isaac/Enigma/17555017.jpg</thumbnail>
+		<title>Challenge Target Racer</title>
+		<creator>Magical Isaac Enigma</creator>
+		<relatedgames />
+	</game>
+	<game id="17293144" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>/gamecreators/images2/Savage/Erika/Tsunami/17293144.jpg</thumbnail>
+		<title>Titan Charge Quake</title>
+		<creator>Savage Erika Tsunami</creator>
+		<relatedgames />
+	</game>
+	<game id="10952930" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Western/Leon/Figment/10952930.jpg</thumbnail>
+		<title>Assault Streak Siege</title>
+		<creator>Western Leon Figment</creator>
+		<relatedgames />
+	</game>
+	<game id="17262274" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Popular/Roscoe/Volcano/17262274.jpg</thumbnail>
+		<title>Universe Ultimate Nitro</title>
+		<creator>Popular Roscoe Volcano</creator>
+		<relatedgames />
+	</game>
+	<game id="10055983" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Dreadful/Dawn/Mummy/10055983.jpg</thumbnail>
+		<title>Warrior Razor Nano</title>
+		<creator>Dreadful Dawn Mummy</creator>
+		<relatedgames />
+	</game>
+	<game id="17380207" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>/gamecreators/images2/Classic/Tanner/Plankton/17380207.jpg</thumbnail>
+		<title>Metal Hyper Champion</title>
+		<creator>Classic Tanner Plankton</creator>
+		<relatedgames />
+	</game>
+	<game id="10924158" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Frantic/Melissa/Porridge/10924158.jpg</thumbnail>
+		<title>Swampfire Techno Warp</title>
+		<creator>Frantic Melissa Porridge</creator>
+		<relatedgames />
+	</game>
+	<game id="17224970" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>/gamecreators/images2/Bouncing/Benton/Mummy/17224970.jpg</thumbnail>
+		<title>Ben Jetray Beast</title>
+		<creator>Bouncing Benton Mummy</creator>
+		<relatedgames />
+	</game>
+	<game id="17391991" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Speedy/Eli/Firefly/17391991.jpg</thumbnail>
+		<title>Nova Power Fury</title>
+		<creator>Speedy Eli Firefly</creator>
+		<relatedgames />
+	</game>
+	<game id="17388061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Brisk/Josiah/Yoyo/17388061.jpg</thumbnail>
+		<title>Cosmic Echo Metal</title>
+		<creator>Brisk Josiah Yoyo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10793298" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2009">
+		<thumbnail>/gamecreators/images2/Bashful/Duncan/Tuxedo/10793298.jpg</thumbnail>
+		<title>Cosmic Assault Plasma</title>
+		<creator>Bashful Duncan Tuxedo</creator>
+		<relatedgames />
+	</game>
+	<game id="10919791" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Sly/Wesley/Tiptoe/10919791.jpg</thumbnail>
+		<title>Lightning Energy Invasion</title>
+		<creator>Sly Wesley Tiptoe</creator>
+		<relatedgames />
+	</game>
+	<game id="17303785" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Active/Kenny/Zinger/17303785.jpg</thumbnail>
+		<title>Mission Ambush Earth</title>
+		<creator>Active Kenny Zinger</creator>
+		<relatedgames />
+	</game>
+	<game id="17234140" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>/gamecreators/images2/Bouncing/Franklin/Nibbles/17234140.jpg</thumbnail>
+		<title>Universe Ultimate Power</title>
+		<creator>Bouncing Franklin Nibbles</creator>
+		<relatedgames />
+	</game>
+	<game id="17574176" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Evil/Brandon/Rhombus/17574176.jpg</thumbnail>
+		<title>Rocket Search Siege</title>
+		<creator>Evil Brandon Rhombus</creator>
+		<relatedgames />
+	</game>
+	<game id="17562268" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Imperial/Cole/Pizza/17562268.jpg</thumbnail>
+		<title>Rocket Big Charge</title>
+		<creator>Imperial Cole Pizza</creator>
+		<relatedgames />
+	</game>
+	<game id="10865542" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2009">
+		<thumbnail>/gamecreators/images2/Gorgeous/Elroy/Iceberg/10865542.jpg</thumbnail>
+		<title>Spark Streak Giga</title>
+		<creator>Gorgeous Elroy Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="10058843" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Dramatic/Matt/Igloo/10058843.jpg</thumbnail>
+		<title>Smash Invasion Plumber</title>
+		<creator>Dramatic Matt Igloo</creator>
+		<relatedgames />
+	</game>
+	<game id="10927274" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Handsome/Noah/Penguin/10927274.jpg</thumbnail>
+		<title>Turbo Assault Burst</title>
+		<creator>Handsome Noah Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="10952923" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Frantic/Chester/Walrus/10952923.jpg</thumbnail>
+		<title>Rustbucket Siege Ben</title>
+		<creator>Frantic Chester Walrus</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

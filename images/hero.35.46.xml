@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17261205" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>/gamecreators/images2/Dashing/Reuben/Knight/17261205.jpg</thumbnail>
+		<title>Plumber Storm Energy</title>
+		<creator>Dashing Reuben Knight</creator>
+		<relatedgames />
+	</game>
+	<game id="10935717" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wild/Mike/Squawk/10935717.jpg</thumbnail>
+		<title>Rush Fire Thunder</title>
+		<creator>Wild Mike Squawk</creator>
+		<relatedgames />
+	</game>
+	<game id="16893781" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/06/2012">
+		<thumbnail>/gamecreators/images2/Fiery/James/Cyclone/16893781.jpg</thumbnail>
+		<title>Mega Big Doom</title>
+		<creator>Fiery James Cyclone</creator>
+		<relatedgames />
+	</game>
+	<game id="10918129" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Towering/Joshua/Popcorn/10918129.jpg</thumbnail>
+		<title>Drone Streak Ultra</title>
+		<creator>Towering Joshua Popcorn</creator>
+		<relatedgames />
+	</game>
+	<game id="17387267" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Active/Yvette/Mackerel/17387267.jpg</thumbnail>
+		<title>Challenge Star Champion</title>
+		<creator>Active Yvette Mackerel</creator>
+		<relatedgames />
+	</game>
+	<game id="17579668" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Crazy/John/Gamer/17579668.jpg</thumbnail>
+		<title>Feedback Ultra Adventure</title>
+		<creator>Crazy John Gamer</creator>
+		<relatedgames />
+	</game>
+	<game id="17409988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/12/2012">
+		<thumbnail>/gamecreators/images2/Bouncing/Wally/Apple/17409988.jpg</thumbnail>
+		<title>Fire Alien Hero</title>
+		<creator>Bouncing Wally Apple</creator>
+		<relatedgames />
+	</game>
+	<game id="17417105" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Infamous/Ariel/Omelet/17417105.jpg</thumbnail>
+		<title>Battle Warrior Force</title>
+		<creator>Infamous Ariel Omelet</creator>
+		<relatedgames />
+	</game>
+	<game id="17389024" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Puzzling/Zachary/Thorax/17389024.jpg</thumbnail>
+		<title>Doom Sonic Vilgax</title>
+		<creator>Puzzling Zachary Thorax</creator>
+		<relatedgames />
+	</game>
+	<game id="17574979" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Nimble/Joey/Lemon/17574979.jpg</thumbnail>
+		<title>Chill Ambush Adventure</title>
+		<creator>Nimble Joey Lemon</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

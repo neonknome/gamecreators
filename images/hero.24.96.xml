@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10928607" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Mumbling/Ace/Cactus/10928607.jpg</thumbnail>
+		<title>Warp Solar Steel</title>
+		<creator>Mumbling Ace Cactus</creator>
+		<relatedgames />
+	</game>
+	<game id="17417105" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Infamous/Ariel/Omelet/17417105.jpg</thumbnail>
+		<title>Battle Warrior Force</title>
+		<creator>Infamous Ariel Omelet</creator>
+		<relatedgames />
+	</game>
+	<game id="17304014" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Titanic/Penny/Calliope/17304014.jpg</thumbnail>
+		<title>Vilgax Nova Siege</title>
+		<creator>Titanic Penny Calliope</creator>
+		<relatedgames />
+	</game>
+	<game id="17387003" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Baroness/Bradley/Jungle/17387003.jpg</thumbnail>
+		<title>Alien Adventure Challenge</title>
+		<creator>Baroness Bradley Jungle</creator>
+		<relatedgames />
+	</game>
+	<game id="10066861" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Sly/Cole/Holler/10066861.jpg</thumbnail>
+		<title>Siege Razor Warrior</title>
+		<creator>Sly Cole Holler</creator>
+		<relatedgames />
+	</game>
+	<game id="16961418" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/23/2012">
+		<thumbnail>/gamecreators/images2/Active/Augustus/Lemon/16961418.jpg</thumbnail>
+		<title>Alien Ultimate Universe</title>
+		<creator>Active Augustus Lemon</creator>
+		<relatedgames />
+	</game>
+	<game id="10928541" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Bouncing/Ashley/Minotaur/10928541.jpg</thumbnail>
+		<title>Hyper Rocket Champion</title>
+		<creator>Bouncing Ashley Minotaur</creator>
+		<relatedgames />
+	</game>
+	<game id="16961131" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/23/2012">
+		<thumbnail>/gamecreators/images2/Epic/Thor/Noob/16961131.jpg</thumbnail>
+		<title>Nano Universe Big</title>
+		<creator>Epic Thor Noob</creator>
+		<relatedgames />
+	</game>
+	<game id="17005665" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/07/2012">
+		<thumbnail>/gamecreators/images2/Icy/Kristina/Twilight/17005665.jpg</thumbnail>
+		<title>Ben Power Adventure</title>
+		<creator>Icy Kristina Twilight</creator>
+		<relatedgames />
+	</game>
+	<game id="17275840" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>/gamecreators/images2/Puzzling/Kristen/Mars/17275840.jpg</thumbnail>
+		<title>Dark Nova Power</title>
+		<creator>Puzzling Kristen Mars</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

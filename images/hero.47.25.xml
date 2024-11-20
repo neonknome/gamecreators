@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17378377" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Fabulous/Austin/Behemoth/17378377.jpg</thumbnail>
+		<title>Cosmic Big Spark</title>
+		<creator>Fabulous Austin Behemoth</creator>
+		<relatedgames />
+	</game>
+	<game id="10931915" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Itchy/Haley/Bamboo/10931915.jpg</thumbnail>
+		<title>Chase Magno Star</title>
+		<creator>Itchy Haley Bamboo</creator>
+		<relatedgames />
+	</game>
+	<game id="17407467" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>/gamecreators/images2/Green/Vince/Warthog/17407467.jpg</thumbnail>
+		<title>Mission Nitro Vilgax</title>
+		<creator>Green Vince Warthog</creator>
+		<relatedgames />
+	</game>
+	<game id="17391769" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Noisy/Judith/Taco/17391769.jpg</thumbnail>
+		<title>Doom Warp Crusher</title>
+		<creator>Noisy Judith Taco</creator>
+		<relatedgames />
+	</game>
+	<game id="16978061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Solid/Alexa/Beast/16978061.jpg</thumbnail>
+		<title>Steel Warp Galaxy</title>
+		<creator>Solid Alexa Beast</creator>
+		<relatedgames />
+	</game>
+	<game id="17195393" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/06/2012">
+		<thumbnail>/gamecreators/images2/Aerobic/Adriana/Galosh/17195393.jpg</thumbnail>
+		<title>Giga Thunder Breaker</title>
+		<creator>Aerobic Adriana Galosh</creator>
+		<relatedgames />
+	</game>
+	<game id="10055989" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Valiant/Sterling/Popcorn/10055989.jpg</thumbnail>
+		<title>Spike Force Adventure</title>
+		<creator>Valiant Sterling Popcorn</creator>
+		<relatedgames />
+	</game>
+	<game id="10926065" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Brave/Otis/Elephant/10926065.jpg</thumbnail>
+		<title>Rocket Crusher Fusion</title>
+		<creator>Brave Otis Elephant</creator>
+		<relatedgames />
+	</game>
+	<game id="10948867" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Noble/Ron/Frost/10948867.jpg</thumbnail>
+		<title>Adventure Search Attack</title>
+		<creator>Noble Ron Frost</creator>
+		<relatedgames />
+	</game>
+	<game id="16917205" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>/gamecreators/images2/King/Bernard/Fizz/16917205.jpg</thumbnail>
+		<title>Shadow Target Hyper</title>
+		<creator>King Bernard Fizz</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

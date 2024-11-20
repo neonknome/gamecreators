@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10920338" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Stylish/Harvey/Universe/10920338.jpg</thumbnail>
+		<title>Spark Magno Racer</title>
+		<creator>Stylish Harvey Universe</creator>
+		<relatedgames />
+	</game>
+	<game id="17549594" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Classic/Buffy/Dingo/17549594.jpg</thumbnail>
+		<title>Warrior Rustbucket Echo</title>
+		<creator>Classic Buffy Dingo</creator>
+		<relatedgames />
+	</game>
+	<game id="10953578" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Lucky/Matthew/Avocado/10953578.jpg</thumbnail>
+		<title>Warp Pulse Swampfire</title>
+		<creator>Lucky Matthew Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="10921240" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Plucky/Breanna/Figment/10921240.jpg</thumbnail>
+		<title>Animo Rock Beast</title>
+		<creator>Plucky Breanna Figment</creator>
+		<relatedgames />
+	</game>
+	<game id="10952826" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Chilly/Leah/Haystack/10952826.jpg</thumbnail>
+		<title>Pursuit Fire Nova</title>
+		<creator>Chilly Leah Haystack</creator>
+		<relatedgames />
+	</game>
+	<game id="10918854" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Fragrant/Shannon/Spider/10918854.jpg</thumbnail>
+		<title>Siege Nova Crusher</title>
+		<creator>Fragrant Shannon Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="10933685" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Funny/Samantha/Cosmos/10933685.jpg</thumbnail>
+		<title>Plumber Nitro Chase</title>
+		<creator>Funny Samantha Cosmos</creator>
+		<relatedgames />
+	</game>
+	<game id="17332714" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Major/Raymond/Saturn/17332714.jpg</thumbnail>
+		<title>Techno Challenge Challenge</title>
+		<creator>Major Raymond Saturn</creator>
+		<relatedgames />
+	</game>
+	<game id="10932922" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Shaggy/Hunter/Behemoth/10932922.jpg</thumbnail>
+		<title>Pursuit Force Ambush</title>
+		<creator>Shaggy Hunter Behemoth</creator>
+		<relatedgames />
+	</game>
+	<game id="10031446" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Wondrous/Grace/Fizz/10031446.jpg</thumbnail>
+		<title>Stone Humongousaur Force</title>
+		<creator>Wondrous Grace Fizz</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17569422" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Hyper/Lucius/Ketchup/17569422.jpg</thumbnail>
+		<title>Burst Rustbucket Galaxy</title>
+		<creator>Hyper Lucius Ketchup</creator>
+		<relatedgames />
+	</game>
+	<game id="10059235" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Purple/Patrick/Amethyst/10059235.jpg</thumbnail>
+		<title>Charge Alien Streak</title>
+		<creator>Purple Patrick Amethyst</creator>
+		<relatedgames />
+	</game>
+	<game id="17339068" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Devious/Jason/Shock/17339068.jpg</thumbnail>
+		<title>Plumber Space Techno</title>
+		<creator>Devious Jason Shock</creator>
+		<relatedgames />
+	</game>
+	<game id="17410111" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/12/2012">
+		<thumbnail>/gamecreators/images2/Grubby/Doug/Tsunami/17410111.jpg</thumbnail>
+		<title>Battle Fire Earth</title>
+		<creator>Grubby Doug Tsunami</creator>
+		<relatedgames />
+	</game>
+	<game id="16947799" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>/gamecreators/images2/Flying/Eugene/Squid/16947799.jpg</thumbnail>
+		<title>Techno Shock Ambush</title>
+		<creator>Flying Eugene Squid</creator>
+		<relatedgames />
+	</game>
+	<game id="10952504" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Heroic/Danielle/Cobra/10952504.jpg</thumbnail>
+		<title>Escape Fire Patrol</title>
+		<creator>Heroic Danielle Cobra</creator>
+		<relatedgames />
+	</game>
+	<game id="17316942" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Stinky/James/Avator/17316942.jpg</thumbnail>
+		<title>Nano Nova Thunder</title>
+		<creator>Stinky James Avator</creator>
+		<relatedgames />
+	</game>
+	<game id="10921966" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Artistic/Mario/Shark/10921966.jpg</thumbnail>
+		<title>Ultimate Spike Adventure</title>
+		<creator>Artistic Mario Shark</creator>
+		<relatedgames />
+	</game>
+	<game id="10924909" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Scurvy/Diana/Haystack/10924909.jpg</thumbnail>
+		<title>Gear Battle Racer</title>
+		<creator>Scurvy Diana Haystack</creator>
+		<relatedgames />
+	</game>
+	<game id="10927316" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Awesome/Robin/Nova/10927316.jpg</thumbnail>
+		<title>Adventure Escape Challenge</title>
+		<creator>Awesome Robin Nova</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

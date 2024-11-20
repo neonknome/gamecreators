@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17326435" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Silent/Gus/Carousel/17326435.jpg</thumbnail>
+		<title>Spark Patrol Challenge</title>
+		<creator>Silent Gus Carousel</creator>
+		<relatedgames />
+	</game>
+	<game id="17549943" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Electric/David/Gamer/17549943.jpg</thumbnail>
+		<title>Chill Shock Force</title>
+		<creator>Electric David Gamer</creator>
+		<relatedgames />
+	</game>
+	<game id="10936061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Howling/Faith/Tusk/10936061.jpg</thumbnail>
+		<title>Power Adventure Solar</title>
+		<creator>Howling Faith Tusk</creator>
+		<relatedgames />
+	</game>
+	<game id="17338691" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Gentle/Clifford/Beast/17338691.jpg</thumbnail>
+		<title>Ben Adventure Cosmic</title>
+		<creator>Gentle Clifford Beast</creator>
+		<relatedgames />
+	</game>
+	<game id="10058854" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Mighty/Tony/Goofball/10058854.jpg</thumbnail>
+		<title>Attack Force Mega</title>
+		<creator>Mighty Tony Goofball</creator>
+		<relatedgames />
+	</game>
+	<game id="10930760" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Shrewd/Mia/Wombat/10930760.jpg</thumbnail>
+		<title>Invasion Earth Magno</title>
+		<creator>Shrewd Mia Wombat</creator>
+		<relatedgames />
+	</game>
+	<game id="17259716" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>/gamecreators/images2/Barbaric/Faith/Camel/17259716.jpg</thumbnail>
+		<title>Drone Solar Charge</title>
+		<creator>Barbaric Faith Camel</creator>
+		<relatedgames />
+	</game>
+	<game id="10932767" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Sleepy/Will/Spider/10932767.jpg</thumbnail>
+		<title>Rocket Ultimate Streak</title>
+		<creator>Sleepy Will Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="16835000" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/24/2012">
+		<thumbnail>/gamecreators/images2/Blustery/Zoe/Banshee/16835000.jpg</thumbnail>
+		<title>Energy Adventure Rush</title>
+		<creator>Blustery Zoe Banshee</creator>
+		<relatedgames />
+	</game>
+	<game id="10949490" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Enormous/Nathan/Monster/10949490.jpg</thumbnail>
+		<title>Warrior Thunder Iron</title>
+		<creator>Enormous Nathan Monster</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10929318" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Atomic/Jordan/Atom/10929318.jpg</thumbnail>
+		<title>Robot Turbo Warrior</title>
+		<creator>Atomic Jordan Atom</creator>
+		<relatedgames />
+	</game>
+	<game id="10924453" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dramatic/Luke/Charger/10924453.jpg</thumbnail>
+		<title>Invasion Mission Nova</title>
+		<creator>Dramatic Luke Charger</creator>
+		<relatedgames />
+	</game>
+	<game id="10925450" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Handsome/Noah/Penguin/10925450.jpg</thumbnail>
+		<title>Rocket Ultimate Assault</title>
+		<creator>Handsome Noah Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="17562431" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Acoustic/Angel/Nonsense/17562431.jpg</thumbnail>
+		<title>Challenge Humungousaur Smash</title>
+		<creator>Acoustic Angel Nonsense</creator>
+		<relatedgames />
+	</game>
+	<game id="10931081" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Cranky/Jake/Bamboo/10931081.jpg</thumbnail>
+		<title>Vilgax Smash Invasion</title>
+		<creator>Cranky Jake Bamboo</creator>
+		<relatedgames />
+	</game>
+	<game id="17350933" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Gerard/Fez/17350933.jpg</thumbnail>
+		<title>Ultimate Big Chill</title>
+		<creator>Ultimate Gerard Fez</creator>
+		<relatedgames />
+	</game>
+	<game id="17014494" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>/gamecreators/images2/Bold/Isabelle/Pizza/17014494.jpg</thumbnail>
+		<title>Pursuit Quake Warp</title>
+		<creator>Bold Isabelle Pizza</creator>
+		<relatedgames />
+	</game>
+	<game id="17391022" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Curious/Steven/Catapult/17391022.jpg</thumbnail>
+		<title>Ultimate Big Chill</title>
+		<creator>Curious Steven Catapult</creator>
+		<relatedgames />
+	</game>
+	<game id="17000132" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/05/2012">
+		<thumbnail>/gamecreators/images2/Jolly/Aaron/Fuzz/17000132.jpg</thumbnail>
+		<title>Ultra Nano Warrior</title>
+		<creator>Jolly Aaron Fuzz</creator>
+		<relatedgames />
+	</game>
+	<game id="17260152" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>/gamecreators/images2/Radiant/Mckenzie/Kungfu/17260152.jpg</thumbnail>
+		<title>Alien Escape Assault</title>
+		<creator>Radiant Mckenzie Kungfu</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10864782" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2009">
+		<thumbnail>/gamecreators/images2/Fanciful/Brian/Dragon/10864782.jpg</thumbnail>
+		<title>Universe Rampage Breaker</title>
+		<creator>Fanciful Brian Dragon</creator>
+		<relatedgames />
+	</game>
+	<game id="10953058" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Grizzly/Michael/Pinball/10953058.jpg</thumbnail>
+		<title>Alien Beast Challenge</title>
+		<creator>Grizzly Michael Pinball</creator>
+		<relatedgames />
+	</game>
+	<game id="17282201" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Abnormal/Lawrence/Burro/17282201.jpg</thumbnail>
+		<title>Iron Adventure Ben</title>
+		<creator>Abnormal Lawrence Burro</creator>
+		<relatedgames />
+	</game>
+	<game id="17383762" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Comical/Jeremiah/Crash/17383762.jpg</thumbnail>
+		<title>Giga Racer Rustbucket</title>
+		<creator>Comical Jeremiah Crash</creator>
+		<relatedgames />
+	</game>
+	<game id="17352173" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>/gamecreators/images2/Majestic/Michael/Electron/17352173.jpg</thumbnail>
+		<title>Jetray Cosmic Adventure</title>
+		<creator>Majestic Michael Electron</creator>
+		<relatedgames />
+	</game>
+	<game id="17333355" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Princess/Wes/Jungle/17333355.jpg</thumbnail>
+		<title>Stone Nitro Fusion</title>
+		<creator>Princess Wes Jungle</creator>
+		<relatedgames />
+	</game>
+	<game id="10917033" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Comical/Ariana/Kiwi/10917033.jpg</thumbnail>
+		<title>Hero Fire Force</title>
+		<creator>Comical Ariana Kiwi</creator>
+		<relatedgames />
+	</game>
+	<game id="17283059" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Towering/Angel/Bucket/17283059.jpg</thumbnail>
+		<title>Fire Metal Crusher</title>
+		<creator>Towering Angel Bucket</creator>
+		<relatedgames />
+	</game>
+	<game id="17359324" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>/gamecreators/images2/Crazy/Andy/Turbo/17359324.jpg</thumbnail>
+		<title>Streak Drone Adventure</title>
+		<creator>Crazy Andy Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="10935113" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Ghastly/Oliver/Orchid/10935113.jpg</thumbnail>
+		<title>Streak Cosmic Beast</title>
+		<creator>Ghastly Oliver Orchid</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

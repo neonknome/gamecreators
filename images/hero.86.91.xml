@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10059358" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Rowdy/Zachary/Haystack/10059358.jpg</thumbnail>
+		<title>Galaxy Battle Magno</title>
+		<creator>Rowdy Zachary Haystack</creator>
+		<relatedgames />
+	</game>
+	<game id="17285375" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>/gamecreators/images2/Negative/Andy/Atlas/17285375.jpg</thumbnail>
+		<title>Water Blaster Challenge</title>
+		<creator>Negative Andy Atlas</creator>
+		<relatedgames />
+	</game>
+	<game id="10923788" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Itchy/Timmy/Igloo/10923788.jpg</thumbnail>
+		<title>Shock Adventure Adventure</title>
+		<creator>Itchy Timmy Igloo</creator>
+		<relatedgames />
+	</game>
+	<game id="17377709" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Quirky/Tommy/Karate/17377709.jpg</thumbnail>
+		<title>Turbo Cosmic Solar</title>
+		<creator>Quirky Tommy Karate</creator>
+		<relatedgames />
+	</game>
+	<game id="10945498" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Twisty/Conrad/Nova/10945498.jpg</thumbnail>
+		<title>Hyper Burst Energy</title>
+		<creator>Twisty Conrad Nova</creator>
+		<relatedgames />
+	</game>
+	<game id="17345648" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2012">
+		<thumbnail>/gamecreators/images2/Agile/Hannah/Balloon/17345648.jpg</thumbnail>
+		<title>Magno Ben Hex</title>
+		<creator>Agile Hannah Balloon</creator>
+		<relatedgames />
+	</game>
+	<game id="10045066" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Crispy/Wilma/Turbo/10045066.jpg</thumbnail>
+		<title>Rock Rustbucket Rustbucket</title>
+		<creator>Crispy Wilma Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="10039264" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Brawny/Benjamin/Dolphin/10039264.jpg</thumbnail>
+		<title>Spike Beast Chase</title>
+		<creator>Brawny Benjamin Dolphin</creator>
+		<relatedgames />
+	</game>
+	<game id="10936465" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Itchy/Cameron/Blammo/10936465.jpg</thumbnail>
+		<title>Pursuit Earth Thunder</title>
+		<creator>Itchy Cameron Blammo</creator>
+		<relatedgames />
+	</game>
+	<game id="17223749" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Quick/Chuck/Cobweb/17223749.jpg</thumbnail>
+		<title>Techno Stone Fusion</title>
+		<creator>Quick Chuck Cobweb</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

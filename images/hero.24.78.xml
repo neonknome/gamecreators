@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17314812" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>/gamecreators/images2/Babbling/Hayden/Aurora/17314812.jpg</thumbnail>
+		<title>Fire Cosmic Clash</title>
+		<creator>Babbling Hayden Aurora</creator>
+		<relatedgames />
+	</game>
+	<game id="10926745" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Eager/Sara/Goulash/10926745.jpg</thumbnail>
+		<title>Force Invasion Warrior</title>
+		<creator>Eager Sara Goulash</creator>
+		<relatedgames />
+	</game>
+	<game id="10943083" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Alien/Elijah/Fossil/10943083.jpg</thumbnail>
+		<title>Ultimate Shock Magno</title>
+		<creator>Alien Elijah Fossil</creator>
+		<relatedgames />
+	</game>
+	<game id="17328767" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Curious/Steven/Catapult/17328767.jpg</thumbnail>
+		<title>Adventure Plumber Adventure</title>
+		<creator>Curious Steven Catapult</creator>
+		<relatedgames />
+	</game>
+	<game id="16983732" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/30/2012">
+		<thumbnail>/gamecreators/images2/Golden/Ben/Yak/16983732.jpg</thumbnail>
+		<title>Streak Adventure Lightning</title>
+		<creator>Golden Ben Yak</creator>
+		<relatedgames />
+	</game>
+	<game id="10933350" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Surreal/Natasha/Crater/10933350.jpg</thumbnail>
+		<title>Plumber Fire Light</title>
+		<creator>Surreal Natasha Crater</creator>
+		<relatedgames />
+	</game>
+	<game id="17415485" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Awful/Jacob/Bronco/17415485.jpg</thumbnail>
+		<title>Mission Shock Patrol</title>
+		<creator>Awful Jacob Bronco</creator>
+		<relatedgames />
+	</game>
+	<game id="16918247" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>/gamecreators/images2/Abnormal/Duke/Bagpipe/16918247.jpg</thumbnail>
+		<title>Alien Adventure Laser</title>
+		<creator>Abnormal Duke Bagpipe</creator>
+		<relatedgames />
+	</game>
+	<game id="10932732" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Majestic/Logan/Obelisk/10932732.jpg</thumbnail>
+		<title>Chase Spark Adventure</title>
+		<creator>Majestic Logan Obelisk</creator>
+		<relatedgames />
+	</game>
+	<game id="17046178" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/21/2012">
+		<thumbnail>/gamecreators/images2/Humorous/Alvin/Tiger/17046178.jpg</thumbnail>
+		<title>Animo Shock Universe</title>
+		<creator>Humorous Alvin Tiger</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

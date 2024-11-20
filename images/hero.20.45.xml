@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17551180" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Noisy/Nicholas/Crowbar/17551180.jpg</thumbnail>
+		<title>Ben Echo Star</title>
+		<creator>Noisy Nicholas Crowbar</creator>
+		<relatedgames />
+	</game>
+	<game id="17028218" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/15/2012">
+		<thumbnail>/gamecreators/images2/Solid/Shawn/Oyster/17028218.jpg</thumbnail>
+		<title>Jetray Rock Animo</title>
+		<creator>Solid Shawn Oyster</creator>
+		<relatedgames />
+	</game>
+	<game id="17389503" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Lanky/Flint/Gorgon/17389503.jpg</thumbnail>
+		<title>Stone Nova Star</title>
+		<creator>Lanky Flint Gorgon</creator>
+		<relatedgames />
+	</game>
+	<game id="10927920" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Valiant/Tom/Paradox/10927920.jpg</thumbnail>
+		<title>Light Assault Danger</title>
+		<creator>Valiant Tom Paradox</creator>
+		<relatedgames />
+	</game>
+	<game id="10922395" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Brave/Raymond/Atom/10922395.jpg</thumbnail>
+		<title>Warrior Earth Sonic</title>
+		<creator>Brave Raymond Atom</creator>
+		<relatedgames />
+	</game>
+	<game id="16939364" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/17/2012">
+		<thumbnail>/gamecreators/images2/Splendid/Simon/Sardine/16939364.jpg</thumbnail>
+		<title>Rush Rush Rush</title>
+		<creator>Splendid Simon Sardine</creator>
+		<relatedgames />
+	</game>
+	<game id="17194153" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/06/2012">
+		<thumbnail>/gamecreators/images2/Capable/Gregory/Anvil/17194153.jpg</thumbnail>
+		<title>Techno Sonic Hyper</title>
+		<creator>Capable Gregory Anvil</creator>
+		<relatedgames />
+	</game>
+	<game id="17410295" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/12/2012">
+		<thumbnail>/gamecreators/images2/King/Colin/Iceberg/17410295.jpg</thumbnail>
+		<title>Robot Hero Spike</title>
+		<creator>King Colin Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="10952619" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Obvious/Megan/Octopus/10952619.jpg</thumbnail>
+		<title>Magno Smash Danger</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames />
+	</game>
+	<game id="10948271" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Wacky/Billy/Enigma/10948271.jpg</thumbnail>
+		<title>Rescue Nitro Giga</title>
+		<creator>Wacky Billy Enigma</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10929567" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Noble/Chelsea/Crowbar/10929567.jpg</thumbnail>
+		<title>Swampfire Warrior Fury</title>
+		<creator>Noble Chelsea Crowbar</creator>
+		<relatedgames />
+	</game>
+	<game id="17220720" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Smart/Pearl/Confetti/17220720.jpg</thumbnail>
+		<title>Cosmic Adventure Ben</title>
+		<creator>Smart Pearl Confetti</creator>
+		<relatedgames />
+	</game>
+	<game id="17387267" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Active/Yvette/Mackerel/17387267.jpg</thumbnail>
+		<title>Challenge Star Champion</title>
+		<creator>Active Yvette Mackerel</creator>
+		<relatedgames />
+	</game>
+	<game id="10055612" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Uncanny/Dolly/Cyborg/10055612.jpg</thumbnail>
+		<title>Shock Titan Adventure</title>
+		<creator>Uncanny Dolly Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="17409988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/12/2012">
+		<thumbnail>/gamecreators/images2/Bouncing/Wally/Apple/17409988.jpg</thumbnail>
+		<title>Fire Alien Hero</title>
+		<creator>Bouncing Wally Apple</creator>
+		<relatedgames />
+	</game>
+	<game id="17417105" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Infamous/Ariel/Omelet/17417105.jpg</thumbnail>
+		<title>Battle Warrior Force</title>
+		<creator>Infamous Ariel Omelet</creator>
+		<relatedgames />
+	</game>
+	<game id="17574979" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Nimble/Joey/Lemon/17574979.jpg</thumbnail>
+		<title>Chill Ambush Adventure</title>
+		<creator>Nimble Joey Lemon</creator>
+		<relatedgames />
+	</game>
+	<game id="10926076" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Jolly/Raymond/Sunshine/10926076.jpg</thumbnail>
+		<title>Drone Plasma Metal</title>
+		<creator>Jolly Raymond Sunshine</creator>
+		<relatedgames />
+	</game>
+	<game id="17284536" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Newton/Dragoon/17284536.jpg</thumbnail>
+		<title>Dark Alien Storm</title>
+		<creator>Ultimate Newton Dragoon</creator>
+		<relatedgames />
+	</game>
+	<game id="17325012" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Cute/Rufus/Droid/17325012.jpg</thumbnail>
+		<title>Danger Chill Doom</title>
+		<creator>Cute Rufus Droid</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10748430" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2009">
+		<thumbnail>/gamecreators/images2/Heroic/Igor/Barnacle/10748430.jpg</thumbnail>
+		<title>Champion Danger Alien</title>
+		<creator>Heroic Igor Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="17357894" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>/gamecreators/images2/Stormy/Wes/Steel/17357894.jpg</thumbnail>
+		<title>Racer Defense Plasma</title>
+		<creator>Stormy Wes Steel</creator>
+		<relatedgames />
+	</game>
+	<game id="10038231" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Cheerful/Bryan/Sizzle/10038231.jpg</thumbnail>
+		<title>Razor Shadow Rocket</title>
+		<creator>Cheerful Bryan Sizzle</creator>
+		<relatedgames />
+	</game>
+	<game id="17069768" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/29/2012">
+		<thumbnail>/gamecreators/images2/Superb/Bart/Zigzag/17069768.jpg</thumbnail>
+		<title>Adventure Swampfire Assault</title>
+		<creator>Superb Bart Zigzag</creator>
+		<relatedgames />
+	</game>
+	<game id="10047186" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Awesome/Trevor/Bison/10047186.jpg</thumbnail>
+		<title>Ambush Nitro Alien</title>
+		<creator>Awesome Trevor Bison</creator>
+		<relatedgames />
+	</game>
+	<game id="10048064" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Hefty/Sara/Pelican/10048064.jpg</thumbnail>
+		<title>Nano Fury Nova</title>
+		<creator>Hefty Sara Pelican</creator>
+		<relatedgames />
+	</game>
+	<game id="17327969" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Howling/Seth/Virtuoso/17327969.jpg</thumbnail>
+		<title>Fire Drone Adventure</title>
+		<creator>Howling Seth Virtuoso</creator>
+		<relatedgames />
+	</game>
+	<game id="10921550" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Pretty/Oscar/Fireball/10921550.jpg</thumbnail>
+		<title>Shadow Warrior Ultra</title>
+		<creator>Pretty Oscar Fireball</creator>
+		<relatedgames />
+	</game>
+	<game id="17012536" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>/gamecreators/images2/Super/Carol/Blizzard/17012536.jpg</thumbnail>
+		<title>Cannonbolt Challenge Hyper</title>
+		<creator>Super Carol Blizzard</creator>
+		<relatedgames />
+	</game>
+	<game id="17318539" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Zany/Scott/Snake/17318539.jpg</thumbnail>
+		<title>Terraspin Hex Pulse</title>
+		<creator>Zany Scott Snake</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

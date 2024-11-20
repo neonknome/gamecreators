@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10920120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Red/Mitchell/Ninja/10920120.jpg</thumbnail>
+		<title>Energy Burst Adventure</title>
+		<creator>Red Mitchell Ninja</creator>
+		<relatedgames />
+	</game>
+	<game id="10942751" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Valiant/Scarlett/Charger/10942751.jpg</thumbnail>
+		<title>Cosmic Space Lightning</title>
+		<creator>Valiant Scarlett Charger</creator>
+		<relatedgames />
+	</game>
+	<game id="17253414" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/22/2012">
+		<thumbnail>/gamecreators/images2/Obvious/Paul/Safari/17253414.jpg</thumbnail>
+		<title>Rampage Hero Streak</title>
+		<creator>Obvious Paul Safari</creator>
+		<relatedgames />
+	</game>
+	<game id="17188190" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/04/2012">
+		<thumbnail>/gamecreators/images2/Daring/Ronald/Presto/17188190.jpg</thumbnail>
+		<title>Rescue Echo Plasma</title>
+		<creator>Daring Ronald Presto</creator>
+		<relatedgames />
+	</game>
+	<game id="10927069" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wacky/Gretel/Centaur/10927069.jpg</thumbnail>
+		<title>Swampfire Alien Fire</title>
+		<creator>Wacky Gretel Centaur</creator>
+		<relatedgames />
+	</game>
+	<game id="17384794" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Capable/Ben/Diamond/17384794.jpg</thumbnail>
+		<title>Ben Fire Star</title>
+		<creator>Capable Ben Diamond</creator>
+		<relatedgames />
+	</game>
+	<game id="440596" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="10/26/2010">
+		<thumbnail>
+		</thumbnail>
+		<title>Adventure Alien Warrior</title>
+		<creator>FelipeFuegoA</creator>
+		<relatedgames />
+	</game>
+	<game id="17342035" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/15/2012">
+		<thumbnail>/gamecreators/images2/Keen/Ludwig/Quasar/17342035.jpg</thumbnail>
+		<title>Iron Slam Attack</title>
+		<creator>Keen Ludwig Quasar</creator>
+		<relatedgames />
+	</game>
+	<game id="17348799" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>/gamecreators/images2/Loyal/Helen/Blammo/17348799.jpg</thumbnail>
+		<title>Rock Vilgax Solar</title>
+		<creator>Loyal Helen Blammo</creator>
+		<relatedgames />
+	</game>
+	<game id="10059358" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Rowdy/Zachary/Haystack/10059358.jpg</thumbnail>
+		<title>Galaxy Battle Magno</title>
+		<creator>Rowdy Zachary Haystack</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

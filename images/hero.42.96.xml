@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10953441" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Comical/Jenna/Funk/10953441.jpg</thumbnail>
+		<title>Attack Hyper Lightning</title>
+		<creator>Comical Jenna Funk</creator>
+		<relatedgames />
+	</game>
+	<game id="10046166" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Funny/Chris/Pinwheel/10046166.jpg</thumbnail>
+		<title>Slam Danger Light</title>
+		<creator>Funny Chris Pinwheel</creator>
+		<relatedgames />
+	</game>
+	<game id="10921591" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Majestic/Mario/Sawtooth/10921591.jpg</thumbnail>
+		<title>Dark Adventure Drone</title>
+		<creator>Majestic Mario Sawtooth</creator>
+		<relatedgames />
+	</game>
+	<game id="17383531" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Princess/Melanie/Penguin/17383531.jpg</thumbnail>
+		<title>Battle Chill Search</title>
+		<creator>Princess Melanie Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="16971326" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/27/2012">
+		<thumbnail>/gamecreators/images2/Captain/Tony/Bucket/16971326.jpg</thumbnail>
+		<title>Cosmic Gear Quake</title>
+		<creator>Captain Tony Bucket</creator>
+		<relatedgames />
+	</game>
+	<game id="17234049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>/gamecreators/images2/Lanky/Lily/Licorice/17234049.jpg</thumbnail>
+		<title>Hyper Alien Hero</title>
+		<creator>Lanky Lily Licorice</creator>
+		<relatedgames />
+	</game>
+	<game id="10058809" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Happy/Simon/Steam/10058809.jpg</thumbnail>
+		<title>Swampfire Blaster Smash</title>
+		<creator>Happy Simon Steam</creator>
+		<relatedgames />
+	</game>
+	<game id="10918533" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Odd/Gary/Pirate/10918533.jpg</thumbnail>
+		<title>Quake Danger Battle</title>
+		<creator>Odd Gary Pirate</creator>
+		<relatedgames />
+	</game>
+	<game id="10069216" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Spooky/Kelly/Ketchup/10069216.jpg</thumbnail>
+		<title>Earth Rustbucket Spark</title>
+		<creator>Spooky Kelly Ketchup</creator>
+		<relatedgames />
+	</game>
+	<game id="17278910" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Captain/Connor/Charger/17278910.jpg</thumbnail>
+		<title>Thunder Mega Champion</title>
+		<creator>Captain Connor Charger</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

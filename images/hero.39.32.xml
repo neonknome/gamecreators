@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10918300" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Brawny/Bradley/Howler/10918300.jpg</thumbnail>
+		<title>Steel Burst Dark</title>
+		<creator>Brawny Bradley Howler</creator>
+		<relatedgames />
+	</game>
+	<game id="16948692" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>/gamecreators/images2/Fiery/Alyssa/Blammo/16948692.jpg</thumbnail>
+		<title>Rush Breaker Storm</title>
+		<creator>Fiery Alyssa Blammo</creator>
+		<relatedgames />
+	</game>
+	<game id="17389503" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Lanky/Flint/Gorgon/17389503.jpg</thumbnail>
+		<title>Stone Nova Star</title>
+		<creator>Lanky Flint Gorgon</creator>
+		<relatedgames />
+	</game>
+	<game id="10649584" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Red/Rudolph/Spider/10649584.jpg</thumbnail>
+		<title>Pursuit Alien Attack</title>
+		<creator>Red Rudolph Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="10927920" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Valiant/Tom/Paradox/10927920.jpg</thumbnail>
+		<title>Light Assault Danger</title>
+		<creator>Valiant Tom Paradox</creator>
+		<relatedgames />
+	</game>
+	<game id="10045372" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Obvious/Shane/Zigzag/10045372.jpg</thumbnail>
+		<title>Ultra Swampfire Rush</title>
+		<creator>Obvious Shane Zigzag</creator>
+		<relatedgames />
+	</game>
+	<game id="10918078" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Daring/Will/Safari/10918078.jpg</thumbnail>
+		<title>Solar Dark Fire</title>
+		<creator>Daring Will Safari</creator>
+		<relatedgames />
+	</game>
+	<game id="10952349" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Weird/Greg/Kangaroo/10952349.jpg</thumbnail>
+		<title>Earth Turbo Invasion</title>
+		<creator>Weird Greg Kangaroo</creator>
+		<relatedgames />
+	</game>
+	<game id="17194153" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/06/2012">
+		<thumbnail>/gamecreators/images2/Capable/Gregory/Anvil/17194153.jpg</thumbnail>
+		<title>Techno Sonic Hyper</title>
+		<creator>Capable Gregory Anvil</creator>
+		<relatedgames />
+	</game>
+	<game id="16965399" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/24/2012">
+		<thumbnail>/gamecreators/images2/Feral/Andrew/Mustang/16965399.jpg</thumbnail>
+		<title>Humongousaur Assault Blaster</title>
+		<creator>Feral Andrew Mustang</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10065361" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Funny/Billy/Barnacle/10065361.jpg</thumbnail>
+		<title>Adventure Smash Racer</title>
+		<creator>Funny Billy Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="10033590" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Bashful/Penny/Orca/10033590.jpg</thumbnail>
+		<title>Droid Adventure Fire</title>
+		<creator>Bashful Penny Orca</creator>
+		<relatedgames />
+	</game>
+	<game id="17102291" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/08/2012">
+		<thumbnail>/gamecreators/images2/Elite/Luke/Mastodon/17102291.jpg</thumbnail>
+		<title>Nano Sonic Assault</title>
+		<creator>Elite Luke Mastodon</creator>
+		<relatedgames />
+	</game>
+	<game id="17337940" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Humble/Wilbur/Skunk/17337940.jpg</thumbnail>
+		<title>Jetray Ambush Adventure</title>
+		<creator>Humble Wilbur Skunk</creator>
+		<relatedgames />
+	</game>
+	<game id="10927469" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dashing/Calvin/Maestro/10927469.jpg</thumbnail>
+		<title>Rush Ultra Racer</title>
+		<creator>Dashing Calvin Maestro</creator>
+		<relatedgames />
+	</game>
+	<game id="17374839" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>/gamecreators/images2/Captain/Sapphire/Electron/17374839.jpg</thumbnail>
+		<title>Cosmic Fire Escape</title>
+		<creator>Captain Sapphire Electron</creator>
+		<relatedgames />
+	</game>
+	<game id="17278924" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Fiery/Colin/Jungle/17278924.jpg</thumbnail>
+		<title>Alien Ambush Chill</title>
+		<creator>Fiery Colin Jungle</creator>
+		<relatedgames />
+	</game>
+	<game id="10057867" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Lanky/Joey/Buckaroo/10057867.jpg</thumbnail>
+		<title>Rescue Fire Escape</title>
+		<creator>Lanky Joey Buckaroo</creator>
+		<relatedgames />
+	</game>
+	<game id="10938438" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Red/Tom/Fritter/10938438.jpg</thumbnail>
+		<title>Pursuit Energy Magno</title>
+		<creator>Red Tom Fritter</creator>
+		<relatedgames />
+	</game>
+	<game id="10922368" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Aquatic/Dana/Bolt/10922368.jpg</thumbnail>
+		<title>Challenge Battle Battle</title>
+		<creator>Aquatic Dana Bolt</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

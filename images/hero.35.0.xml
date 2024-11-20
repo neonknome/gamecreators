@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17161179" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/26/2012">
+		<thumbnail>/gamecreators/images2/Galactic/Zeus/Celsius/17161179.jpg</thumbnail>
+		<title>Chill Nano Adventure</title>
+		<creator>Galactic Zeus Celsius</creator>
+		<relatedgames />
+	</game>
+	<game id="10952564" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Gloomy/Harry/Bolt/10952564.jpg</thumbnail>
+		<title>Rocket Drone Adventure</title>
+		<creator>Gloomy Harry Bolt</creator>
+		<relatedgames />
+	</game>
+	<game id="17393705" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/04/2012">
+		<thumbnail>/gamecreators/images2/Sinister/Marcus/Oink/17393705.jpg</thumbnail>
+		<title>Hero Alien Beast</title>
+		<creator>Sinister Marcus Oink</creator>
+		<relatedgames />
+	</game>
+	<game id="16975496" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Quiet/Alex/Wolf/16975496.jpg</thumbnail>
+		<title>Dark Nano Power</title>
+		<creator>Quiet Alex Wolf</creator>
+		<relatedgames />
+	</game>
+	<game id="10953435" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Heroic/Bailey/Kazoo/10953435.jpg</thumbnail>
+		<title>Charge Giga Rescue</title>
+		<creator>Heroic Bailey Kazoo</creator>
+		<relatedgames />
+	</game>
+	<game id="17411673" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/13/2012">
+		<thumbnail>/gamecreators/images2/Organic/Yvonne/Sprocket/17411673.jpg</thumbnail>
+		<title>Fury Doom Ultra</title>
+		<creator>Organic Yvonne Sprocket</creator>
+		<relatedgames />
+	</game>
+	<game id="17552128" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Steven/Buffalo/17552128.jpg</thumbnail>
+		<title>Humungousaur Dark Techno</title>
+		<creator>Steven Buffalo</creator>
+		<relatedgames />
+	</game>
+	<game id="17423485" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>/gamecreators/images2/Wily/Wes/Parallax/17423485.jpg</thumbnail>
+		<title>Thunder Ultra Rampage</title>
+		<creator>Wily Wes Parallax</creator>
+		<relatedgames />
+	</game>
+	<game id="10042851" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Chaotic/Rob/Pinwheel/10042851.jpg</thumbnail>
+		<title>Ultimate Earth Star</title>
+		<creator>Chaotic Rob Pinwheel</creator>
+		<relatedgames />
+	</game>
+	<game id="17248167" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/21/2012">
+		<thumbnail>/gamecreators/images2/Super/Felipe/Macaroni/17248167.jpg</thumbnail>
+		<title>Gear Adventure Adventure</title>
+		<creator>Super Felipe Macaroni</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

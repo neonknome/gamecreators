@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10938798" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Massive/Hansel/Basilisk/10938798.jpg</thumbnail>
+		<title>Swampfire Galaxy Smash</title>
+		<creator>Massive Hansel Basilisk</creator>
+		<relatedgames />
+	</game>
+	<game id="17286743" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>/gamecreators/images2/Sharp/Max/Mantis/17286743.jpg</thumbnail>
+		<title>Ben Champion Warrior</title>
+		<creator>Sharp Max Mantis</creator>
+		<relatedgames />
+	</game>
+	<game id="10947189" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Yellow/Scooter/Manatee/10947189.jpg</thumbnail>
+		<title>Rumble Pulse Cosmic</title>
+		<creator>Yellow Scooter Manatee</creator>
+		<relatedgames />
+	</game>
+	<game id="10041441" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Jolly/Jack/Pelican/10041441.jpg</thumbnail>
+		<title>Dark Earth Doom</title>
+		<creator>Jolly Jack Pelican</creator>
+		<relatedgames />
+	</game>
+	<game id="10923851" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Normal/Scooter/Squish/10923851.jpg</thumbnail>
+		<title>Patrol Chase Plasma</title>
+		<creator>Normal Scooter Squish</creator>
+		<relatedgames />
+	</game>
+	<game id="10934659" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Loony/Rick/Lard/10934659.jpg</thumbnail>
+		<title>Adventure Space Force</title>
+		<creator>Loony Rick Lard</creator>
+		<relatedgames />
+	</game>
+	<game id="17312975" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>/gamecreators/images2/Roaring/Douglas/Fuzz/17312975.jpg</thumbnail>
+		<title>Patrol Crusher Stone</title>
+		<creator>Roaring Douglas Fuzz</creator>
+		<relatedgames />
+	</game>
+	<game id="17379648" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>/gamecreators/images2/Vigilant/Hayden/Obelisk/17379648.jpg</thumbnail>
+		<title>Titan Metal Adventure</title>
+		<creator>Vigilant Hayden Obelisk</creator>
+		<relatedgames />
+	</game>
+	<game id="16950338" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>/gamecreators/images2/Dazzling/Angelica/Castle/16950338.jpg</thumbnail>
+		<title>Star Atomic Animo</title>
+		<creator>Dazzling Angelica Castle</creator>
+		<relatedgames />
+	</game>
+	<game id="10040351" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Chaotic/Bert/Lavender/10040351.jpg</thumbnail>
+		<title>Adventure Doom Mission</title>
+		<creator>Chaotic Bert Lavender</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

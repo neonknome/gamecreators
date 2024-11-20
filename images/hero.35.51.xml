@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10933066" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Powerful/Juan/Eggplant/10933066.jpg</thumbnail>
+		<title>Slam Rush Laser</title>
+		<creator>Powerful Juan Eggplant</creator>
+		<relatedgames />
+	</game>
+	<game id="10952189" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Shrewd/Corey/Stampede/10952189.jpg</thumbnail>
+		<title>Cosmic Robot Hero</title>
+		<creator>Shrewd Corey Stampede</creator>
+		<relatedgames />
+	</game>
+	<game id="10924623" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Purple/Thor/Thorax/10924623.jpg</thumbnail>
+		<title>Pulse Atomic Target</title>
+		<creator>Purple Thor Thorax</creator>
+		<relatedgames />
+	</game>
+	<game id="10953072" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Eerie/Elijah/Turtle/10953072.jpg</thumbnail>
+		<title>Search Force Fire</title>
+		<creator>Eerie Elijah Turtle</creator>
+		<relatedgames />
+	</game>
+	<game id="17252572" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/22/2012">
+		<thumbnail>/gamecreators/images2/Spicy/Lorenzo/Venom/17252572.jpg</thumbnail>
+		<title>Quake Atomic Force</title>
+		<creator>Spicy Lorenzo Venom</creator>
+		<relatedgames />
+	</game>
+	<game id="17552616" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Volcanic/Alvin/Meteor/17552616.jpg</thumbnail>
+		<title>Vilgax Doom Laser</title>
+		<creator>Volcanic Alvin Meteor</creator>
+		<relatedgames />
+	</game>
+	<game id="10935329" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Burly/Crystal/Fritter/10935329.jpg</thumbnail>
+		<title>Shadow Champion Invasion</title>
+		<creator>Burly Crystal Fritter</creator>
+		<relatedgames />
+	</game>
+	<game id="10918998" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Northern/Marcus/Turtle/10918998.jpg</thumbnail>
+		<title>Vilgax Blaster Beast</title>
+		<creator>Northern Marcus Turtle</creator>
+		<relatedgames />
+	</game>
+	<game id="17554265" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Loud/Carson/Blob/17554265.jpg</thumbnail>
+		<title>Plumber Nova Stone</title>
+		<creator>Loud Carson Blob</creator>
+		<relatedgames />
+	</game>
+	<game id="16983993" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/30/2012">
+		<thumbnail>/gamecreators/images2/Visible/Gladys/Kangaroo/16983993.jpg</thumbnail>
+		<title>Patrol Ultimate Beast</title>
+		<creator>Visible Gladys Kangaroo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

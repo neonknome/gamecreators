@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17178491" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>/gamecreators/images2/Extreme/Alan/Avocado/17178491.jpg</thumbnail>
+		<title>Chase Steel Thunder</title>
+		<creator>Extreme Alan Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="17107636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/09/2012">
+		<thumbnail>/gamecreators/images2/Ancient/Sean/Pizza/17107636.jpg</thumbnail>
+		<title>Metal Doom Escape</title>
+		<creator>Ancient Sean Pizza</creator>
+		<relatedgames />
+	</game>
+	<game id="10918078" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Daring/Will/Safari/10918078.jpg</thumbnail>
+		<title>Solar Dark Fire</title>
+		<creator>Daring Will Safari</creator>
+		<relatedgames />
+	</game>
+	<game id="10706482" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Green/Cody/Fathom/10706482.jpg</thumbnail>
+		<title>Atomic Swampfire Mission</title>
+		<creator>Green Cody Fathom</creator>
+		<relatedgames />
+	</game>
+	<game id="10948867" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Noble/Ron/Frost/10948867.jpg</thumbnail>
+		<title>Adventure Search Attack</title>
+		<creator>Noble Ron Frost</creator>
+		<relatedgames />
+	</game>
+	<game id="17322959" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Colossal/Arthur/Cyborg/17322959.jpg</thumbnail>
+		<title>Jetray Slam Assault</title>
+		<creator>Colossal Arthur Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="10918154" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Frosty/Ramona/Sphinx/10918154.jpg</thumbnail>
+		<title>Ambush Breaker Fury</title>
+		<creator>Frosty Ramona Sphinx</creator>
+		<relatedgames />
+	</game>
+	<game id="10933066" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Powerful/Juan/Eggplant/10933066.jpg</thumbnail>
+		<title>Slam Rush Laser</title>
+		<creator>Powerful Juan Eggplant</creator>
+		<relatedgames />
+	</game>
+	<game id="10924623" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Purple/Thor/Thorax/10924623.jpg</thumbnail>
+		<title>Pulse Atomic Target</title>
+		<creator>Purple Thor Thorax</creator>
+		<relatedgames />
+	</game>
+	<game id="10953072" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Eerie/Elijah/Turtle/10953072.jpg</thumbnail>
+		<title>Search Force Fire</title>
+		<creator>Eerie Elijah Turtle</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

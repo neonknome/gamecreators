@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10066790" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Tricky/Trevor/Zebra/10066790.jpg</thumbnail>
+		<title>Iron Burst Shadow</title>
+		<creator>Tricky Trevor Zebra</creator>
+		<relatedgames />
+	</game>
+	<game id="17201813" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/08/2012">
+		<thumbnail>/gamecreators/images2/Agile/Alan/Jinx/17201813.jpg</thumbnail>
+		<title>Ben Attack Robot</title>
+		<creator>Agile Alan Jinx</creator>
+		<relatedgames />
+	</game>
+	<game id="10786277" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>/gamecreators/images2/Crispy/Michael/Spider/10786277.jpg</thumbnail>
+		<title>Titan Rescue Burst</title>
+		<creator>Crispy Michael Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="17302670" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Gleeful/James/Avator/17302670.jpg</thumbnail>
+		<title>Rescue Spike Blaster</title>
+		<creator>Gleeful James Avator</creator>
+		<relatedgames />
+	</game>
+	<game id="17316554" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Queen/Rich/Sunshine/17316554.jpg</thumbnail>
+		<title>Rustbucket Techno Robot</title>
+		<creator>Queen Rich Sunshine</creator>
+		<relatedgames />
+	</game>
+	<game id="10927316" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Awesome/Robin/Nova/10927316.jpg</thumbnail>
+		<title>Adventure Escape Challenge</title>
+		<creator>Awesome Robin Nova</creator>
+		<relatedgames />
+	</game>
+	<game id="17364403" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>/gamecreators/images2/Hectic/Taylor/Gazebo/17364403.jpg</thumbnail>
+		<title>Droid Light Escape</title>
+		<creator>Hectic Taylor Gazebo</creator>
+		<relatedgames />
+	</game>
+	<game id="10040939" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Howling/Evelyn/Bullfrog/10040939.jpg</thumbnail>
+		<title>Star Ben Shock</title>
+		<creator>Howling Evelyn Bullfrog</creator>
+		<relatedgames />
+	</game>
+	<game id="17239956" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>/gamecreators/images2/Precious/Leon/Raptor/17239956.jpg</thumbnail>
+		<title>Crusher Doom Ambush</title>
+		<creator>Precious Leon Raptor</creator>
+		<relatedgames />
+	</game>
+	<game id="17562791" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Sunny/Caden/Grackle/17562791.jpg</thumbnail>
+		<title>Spark Stone Doom</title>
+		<creator>Sunny Caden Grackle</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

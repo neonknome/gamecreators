@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17334444" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Able/Mordecai/Vapor/17334444.jpg</thumbnail>
+		<title>Adventure Rush Terraspin</title>
+		<creator>Able Mordecai Vapor</creator>
+		<relatedgames />
+	</game>
+	<game id="10918129" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Towering/Joshua/Popcorn/10918129.jpg</thumbnail>
+		<title>Drone Streak Ultra</title>
+		<creator>Towering Joshua Popcorn</creator>
+		<relatedgames />
+	</game>
+	<game id="10928093" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Bashful/Gulliver/Clang/10928093.jpg</thumbnail>
+		<title>Swampfire Ben Thunder</title>
+		<creator>Bashful Gulliver Clang</creator>
+		<relatedgames />
+	</game>
+	<game id="17387267" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Active/Yvette/Mackerel/17387267.jpg</thumbnail>
+		<title>Challenge Star Champion</title>
+		<creator>Active Yvette Mackerel</creator>
+		<relatedgames />
+	</game>
+	<game id="10928607" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Mumbling/Ace/Cactus/10928607.jpg</thumbnail>
+		<title>Warp Solar Steel</title>
+		<creator>Mumbling Ace Cactus</creator>
+		<relatedgames />
+	</game>
+	<game id="17319388" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/09/2012">
+		<thumbnail>/gamecreators/images2/Evil/Keith/Dynamite/17319388.jpg</thumbnail>
+		<title>Chase Blaster Smash</title>
+		<creator>Evil Keith Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="17417105" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Infamous/Ariel/Omelet/17417105.jpg</thumbnail>
+		<title>Battle Warrior Force</title>
+		<creator>Infamous Ariel Omelet</creator>
+		<relatedgames />
+	</game>
+	<game id="16948692" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>/gamecreators/images2/Fiery/Alyssa/Blammo/16948692.jpg</thumbnail>
+		<title>Rush Breaker Storm</title>
+		<creator>Fiery Alyssa Blammo</creator>
+		<relatedgames />
+	</game>
+	<game id="10916893" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Dramatic/Rufus/Ogre/10916893.jpg</thumbnail>
+		<title>Patrol Rush Chase</title>
+		<creator>Dramatic Rufus Ogre</creator>
+		<relatedgames />
+	</game>
+	<game id="10044170" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Happy/Bernard/Banjo/10044170.jpg</thumbnail>
+		<title>Mission Stone Pursuit</title>
+		<creator>Happy Bernard Banjo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17241860" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>/gamecreators/images2/Creative/Jay/Buffalo/17241860.jpg</thumbnail>
+		<title>Razor Echo Chill</title>
+		<creator>Creative Jay Buffalo</creator>
+		<relatedgames />
+	</game>
+	<game id="10934222" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Gigantic/Andrew/Tusk/10934222.jpg</thumbnail>
+		<title>Doom Titan Invasion</title>
+		<creator>Gigantic Andrew Tusk</creator>
+		<relatedgames />
+	</game>
+	<game id="17540239" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Mumbling/Kaden/Tarragon/17540239.jpg</thumbnail>
+		<title>Dark Omniverse Charge</title>
+		<creator>Mumbling Kaden Tarragon</creator>
+		<relatedgames />
+	</game>
+	<game id="17009487" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/09/2012">
+		<thumbnail>/gamecreators/images2/Expert/Hailey/Knight/17009487.jpg</thumbnail>
+		<title>Rock Drone Nova</title>
+		<creator>Expert Hailey Knight</creator>
+		<relatedgames />
+	</game>
+	<game id="10935655" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Stylish/Rachel/Sphinx/10935655.jpg</thumbnail>
+		<title>Clash Gear Titan</title>
+		<creator>Stylish Rachel Sphinx</creator>
+		<relatedgames />
+	</game>
+	<game id="17404731" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Clever/Ben/Blade/17404731.jpg</thumbnail>
+		<title>Ultimate Cannonbolt Assault</title>
+		<creator>Clever Ben Blade</creator>
+		<relatedgames />
+	</game>
+	<game id="17337519" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Luminous/Cameron/Behemoth/17337519.jpg</thumbnail>
+		<title>Fusion Whirlwind Techno</title>
+		<creator>Luminous Cameron Behemoth</creator>
+		<relatedgames />
+	</game>
+	<game id="10921238" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Honest/Wesley/Monster/10921238.jpg</thumbnail>
+		<title>Fire Hero Plasma</title>
+		<creator>Honest Wesley Monster</creator>
+		<relatedgames />
+	</game>
+	<game id="17584644" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Plucky/Romeo/Aviator/17584644.jpg</thumbnail>
+		<title>Big Chill Power</title>
+		<creator>Plucky Romeo Aviator</creator>
+		<relatedgames />
+	</game>
+	<game id="10948852" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Chilly/Zoe/Wizard/10948852.jpg</thumbnail>
+		<title>Warrior Warrior Warrior</title>
+		<creator>Chilly Zoe Wizard</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

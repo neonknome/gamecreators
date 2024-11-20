@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17252572" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/22/2012">
+		<thumbnail>/gamecreators/images2/Spicy/Lorenzo/Venom/17252572.jpg</thumbnail>
+		<title>Quake Atomic Force</title>
+		<creator>Spicy Lorenzo Venom</creator>
+		<relatedgames />
+	</game>
+	<game id="17504532" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>/gamecreators/images2/Rowdy/Chris/Blast/17504532.jpg</thumbnail>
+		<title>Nano Steel Alien</title>
+		<creator>Rowdy Chris Blast</creator>
+		<relatedgames />
+	</game>
+	<game id="10935329" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Burly/Crystal/Fritter/10935329.jpg</thumbnail>
+		<title>Shadow Champion Invasion</title>
+		<creator>Burly Crystal Fritter</creator>
+		<relatedgames />
+	</game>
+	<game id="17323118" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Stout/Herman/Aardvark/17323118.jpg</thumbnail>
+		<title>Lightning Hyper Dark</title>
+		<creator>Stout Herman Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="17156444" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/24/2012">
+		<thumbnail>/gamecreators/images2/Athletic/Carl/Fathom/17156444.jpg</thumbnail>
+		<title>Rescue Adventure Turbo</title>
+		<creator>Athletic Carl Fathom</creator>
+		<relatedgames />
+	</game>
+	<game id="17336082" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Grubby/Clyde/Glop/17336082.jpg</thumbnail>
+		<title>Big Turbo Rush</title>
+		<creator>Grubby Clyde Glop</creator>
+		<relatedgames />
+	</game>
+	<game id="10057344" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Crispy/Michael/Dynamite/10057344.jpg</thumbnail>
+		<title>Ultimate Fire Force</title>
+		<creator>Crispy Michael Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="10928690" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Giggling/Tom/Stampede/10928690.jpg</thumbnail>
+		<title>Pulse Doom Shadow</title>
+		<creator>Giggling Tom Stampede</creator>
+		<relatedgames />
+	</game>
+	<game id="17173567" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/30/2012">
+		<thumbnail>/gamecreators/images2/Singular/Egbert/Eel/17173567.jpg</thumbnail>
+		<title>Chase Shock Universe</title>
+		<creator>Singular Egbert Eel</creator>
+		<relatedgames />
+	</game>
+	<game id="17316341" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Queen/Rich/Sunshine/17316341.jpg</thumbnail>
+		<title>Galaxy Danger Challenge</title>
+		<creator>Queen Rich Sunshine</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17417687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Stormy/Mordecai/Vulture/17417687.jpg</thumbnail>
+		<title>Invasion Ultra Lightning</title>
+		<creator>Stormy Mordecai Vulture</creator>
+		<relatedgames />
+	</game>
+	<game id="10918878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Majestic/Adam/Bolt/10918878.jpg</thumbnail>
+		<title>Blaster Ambush Assault</title>
+		<creator>Majestic Adam Bolt</creator>
+		<relatedgames />
+	</game>
+	<game id="10923368" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wise/Herman/Tornado/10923368.jpg</thumbnail>
+		<title>Blaster Force Clash</title>
+		<creator>Wise Herman Tornado</creator>
+		<relatedgames />
+	</game>
+	<game id="10919466" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Cheerful/Blake/Crater/10919466.jpg</thumbnail>
+		<title>Clash Atomic Stone</title>
+		<creator>Cheerful Blake Crater</creator>
+		<relatedgames />
+	</game>
+	<game id="17013199" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>/gamecreators/images2/Super/Shnitzel/Aviator/17013199.jpg</thumbnail>
+		<title>Fury Techno Alien</title>
+		<creator>Super Shnitzel Aviator</creator>
+		<relatedgames />
+	</game>
+	<game id="10920479" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Colossal/Joey/Wizard/10920479.jpg</thumbnail>
+		<title>Rocket Clash Battle</title>
+		<creator>Colossal Joey Wizard</creator>
+		<relatedgames />
+	</game>
+	<game id="17409654" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/12/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Lucas/Mars/17409654.jpg</thumbnail>
+		<title>Assault Titan Laser</title>
+		<creator>Magnetic Lucas Mars</creator>
+		<relatedgames />
+	</game>
+	<game id="10033720" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Scary/Morgan/Mummy/10033720.jpg</thumbnail>
+		<title>Humongousaur Hex Thunder</title>
+		<creator>Scary Morgan Mummy</creator>
+		<relatedgames />
+	</game>
+	<game id="10930717" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Pretty/Isabel/Mallard/10930717.jpg</thumbnail>
+		<title>Crusher Ben Earth</title>
+		<creator>Pretty Isabel Mallard</creator>
+		<relatedgames />
+	</game>
+	<game id="10921995" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Colorful/Leslie/Enigma/10921995.jpg</thumbnail>
+		<title>Iron Fury Mission</title>
+		<creator>Colorful Leslie Enigma</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10039132" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Bizarre/Caleb/Blammo/10039132.jpg</thumbnail>
+		<title>Ultimate Spark Spike</title>
+		<creator>Bizarre Caleb Blammo</creator>
+		<relatedgames />
+	</game>
+	<game id="17085481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/03/2012">
+		<thumbnail>/gamecreators/images2/Vibrant/Gabriel/Mahogany/17085481.jpg</thumbnail>
+		<title>Nitro Mega Smash</title>
+		<creator>Vibrant Gabriel Mahogany</creator>
+		<relatedgames />
+	</game>
+	<game id="10058997" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Orange/Isaac/Spider/10058997.jpg</thumbnail>
+		<title>Mission Drone Invasion</title>
+		<creator>Orange Isaac Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="17013289" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>/gamecreators/images2/Artful/Michael/Ostrich/17013289.jpg</thumbnail>
+		<title>Escape Magno Breaker</title>
+		<creator>Artful Michael Ostrich</creator>
+		<relatedgames />
+	</game>
+	<game id="10917704" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Dashing/Trinity/Cobra/10917704.jpg</thumbnail>
+		<title>Adventure Animo Assault</title>
+		<creator>Dashing Trinity Cobra</creator>
+		<relatedgames />
+	</game>
+	<game id="10780319" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2009">
+		<thumbnail>/gamecreators/images2/Wild/Richard/Pontoon/10780319.jpg</thumbnail>
+		<title>Galaxy Solar Ambush</title>
+		<creator>Wild Richard Pontoon</creator>
+		<relatedgames />
+	</game>
+	<game id="17302719" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Fiery/Jose/Walrus/17302719.jpg</thumbnail>
+		<title>Rocket Siege Nitro</title>
+		<creator>Fiery Jose Walrus</creator>
+		<relatedgames />
+	</game>
+	<game id="17360082" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>/gamecreators/images2/Drowzy/Benny/Droid/17360082.jpg</thumbnail>
+		<title>Clash Smash Fury</title>
+		<creator>Drowzy Benny Droid</creator>
+		<relatedgames />
+	</game>
+	<game id="10933355" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Madcap/Pete/Fritter/10933355.jpg</thumbnail>
+		<title>Universe Target Warrior</title>
+		<creator>Madcap Pete Fritter</creator>
+		<relatedgames />
+	</game>
+	<game id="10953653" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Savage/Caroline/Fizz/10953653.jpg</thumbnail>
+		<title>Mega Adventure Alien</title>
+		<creator>Savage Caroline Fizz</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

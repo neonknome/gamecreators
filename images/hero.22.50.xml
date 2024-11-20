@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10950848" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Dramatic/Gladys/Turbo/10950848.jpg</thumbnail>
+		<title>Mega Rescue Thunder</title>
+		<creator>Dramatic Gladys Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="17551777" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Splendid/Caitlin/Denizen/17551777.jpg</thumbnail>
+		<title>Drone Mission Warrior</title>
+		<creator>Splendid Caitlin Denizen</creator>
+		<relatedgames />
+	</game>
+	<game id="10935483" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Royal/Bradley/Bullfrog/10935483.jpg</thumbnail>
+		<title>Steel Spike Alien</title>
+		<creator>Royal Bradley Bullfrog</creator>
+		<relatedgames />
+	</game>
+	<game id="16912533" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/10/2012">
+		<thumbnail>/gamecreators/images2/Athletic/Luke/Fang/16912533.jpg</thumbnail>
+		<title>Jetray Galaxy Rush</title>
+		<creator>Athletic Luke Fang</creator>
+		<relatedgames />
+	</game>
+	<game id="17232540" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>/gamecreators/images2/Diagonal/Trevor/Blammo/17232540.jpg</thumbnail>
+		<title>Dark Metal Attack</title>
+		<creator>Diagonal Trevor Blammo</creator>
+		<relatedgames />
+	</game>
+	<game id="10926938" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Gruesome/Ryan/Nacho/10926938.jpg</thumbnail>
+		<title>Galaxy Adventure Ambush</title>
+		<creator>Gruesome Ryan Nacho</creator>
+		<relatedgames />
+	</game>
+	<game id="10786966" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>/gamecreators/images2/Radiant/Cynthia/Squeegee/10786966.jpg</thumbnail>
+		<title>Magno Solar Danger</title>
+		<creator>Radiant Cynthia Squeegee</creator>
+		<relatedgames />
+	</game>
+	<game id="10933814" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Twisty/Douglas/Turbo/10933814.jpg</thumbnail>
+		<title>Mega Mission Shadow</title>
+		<creator>Twisty Douglas Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="17177939" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>/gamecreators/images2/Agile/Miguel/Bingo/17177939.jpg</thumbnail>
+		<title>Nova Patrol Mission</title>
+		<creator>Agile Miguel Bingo</creator>
+		<relatedgames />
+	</game>
+	<game id="17560228" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Crunchy/Ava/Blizzard/17560228.jpg</thumbnail>
+		<title>Rocket Animo Droid</title>
+		<creator>Crunchy Ava Blizzard</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

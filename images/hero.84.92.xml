@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10919201" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Grimy/Autumn/Gumbo/10919201.jpg</thumbnail>
+		<title>Fire Steel Turbo</title>
+		<creator>Grimy Autumn Gumbo</creator>
+		<relatedgames />
+	</game>
+	<game id="17322770" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/09/2012">
+		<thumbnail>/gamecreators/images2/Fiery/Holly/Phoenix/17322770.jpg</thumbnail>
+		<title>Spike Star Clash</title>
+		<creator>Fiery Holly Phoenix</creator>
+		<relatedgames />
+	</game>
+	<game id="17404567" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Towering/Aaliyah/Cipher/17404567.jpg</thumbnail>
+		<title>Adventure Water Ben</title>
+		<creator>Towering Aaliyah Cipher</creator>
+		<relatedgames />
+	</game>
+	<game id="17558743" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Bashful/Christy/Clone/17558743.jpg</thumbnail>
+		<title>Adventure Alien Adventure</title>
+		<creator>Bashful Christy Clone</creator>
+		<relatedgames />
+	</game>
+	<game id="10930549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Humble/Jackson/Blade/10930549.jpg</thumbnail>
+		<title>Danger Fire Hero</title>
+		<creator>Humble Jackson Blade</creator>
+		<relatedgames />
+	</game>
+	<game id="17299391" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/03/2012">
+		<thumbnail>/gamecreators/images2/Imperial/Calvin/Ruckus/17299391.jpg</thumbnail>
+		<title>Razor Adventure Plumber</title>
+		<creator>Imperial Calvin Ruckus</creator>
+		<relatedgames />
+	</game>
+	<game id="10931049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Puzzling/Marsha/Nibbles/10931049.jpg</thumbnail>
+		<title>Nitro Attack Alien</title>
+		<creator>Puzzling Marsha Nibbles</creator>
+		<relatedgames />
+	</game>
+	<game id="17133581" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/17/2012">
+		<thumbnail>/gamecreators/images2/Titanic/Clyde/Dwarf/17133581.jpg</thumbnail>
+		<title>Adventure Smash Burst</title>
+		<creator>Titanic Clyde Dwarf</creator>
+		<relatedgames />
+	</game>
+	<game id="17562431" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Acoustic/Angel/Nonsense/17562431.jpg</thumbnail>
+		<title>Challenge Humungousaur Smash</title>
+		<creator>Acoustic Angel Nonsense</creator>
+		<relatedgames />
+	</game>
+	<game id="10931081" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Cranky/Jake/Bamboo/10931081.jpg</thumbnail>
+		<title>Vilgax Smash Invasion</title>
+		<creator>Cranky Jake Bamboo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

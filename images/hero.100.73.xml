@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10918242" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Dynamic/Polly/Turbo/10918242.jpg</thumbnail>
+		<title>Danger Sonic Iron</title>
+		<creator>Dynamic Polly Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="10949766" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Heroic/Lucius/Cactus/10949766.jpg</thumbnail>
+		<title>Pulse Adventure Racer</title>
+		<creator>Heroic Lucius Cactus</creator>
+		<relatedgames />
+	</game>
+	<game id="10933292" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Funky/Pearl/Zombie/10933292.jpg</thumbnail>
+		<title>Patrol Rescue Laser</title>
+		<creator>Funky Pearl Zombie</creator>
+		<relatedgames />
+	</game>
+	<game id="16994396" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>/gamecreators/images2/Sergeant/Leonard/Iceberg/16994396.jpg</thumbnail>
+		<title>Battle Defense Adventure</title>
+		<creator>Sergeant Leonard Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="17564122" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Awesome/Xerxes/Dynamite/17564122.jpg</thumbnail>
+		<title>Galaxy Nova Rampage</title>
+		<creator>Awesome Xerxes Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="10952750" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Zippy/Destiny/Dragon/10952750.jpg</thumbnail>
+		<title>Warp Energy Star</title>
+		<creator>Zippy Destiny Dragon</creator>
+		<relatedgames />
+	</game>
+	<game id="17295706" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>/gamecreators/images2/Electric/Rudolph/Soldier/17295706.jpg</thumbnail>
+		<title>Iron Hero Fury</title>
+		<creator>Electric Rudolph Soldier</creator>
+		<relatedgames />
+	</game>
+	<game id="17551679" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Howling/Vince/Bazooka/17551679.jpg</thumbnail>
+		<title>Hyper Invasion Adventure</title>
+		<creator>Howling Vince Bazooka</creator>
+		<relatedgames />
+	</game>
+	<game id="17248167" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/21/2012">
+		<thumbnail>/gamecreators/images2/Super/Felipe/Macaroni/17248167.jpg</thumbnail>
+		<title>Gear Adventure Adventure</title>
+		<creator>Super Felipe Macaroni</creator>
+		<relatedgames />
+	</game>
+	<game id="10924763" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Mirthful/Dorothy/Twist/10924763.jpg</thumbnail>
+		<title>Fire Force Alien</title>
+		<creator>Mirthful Dorothy Twist</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

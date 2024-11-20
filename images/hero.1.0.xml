@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17561116" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Gross/Vinny/Gamer/17561116.jpg</thumbnail>
+		<title>Rescue Warrior Water</title>
+		<creator>Gross Vinny Gamer</creator>
+		<relatedgames />
+	</game>
+	<game id="10927078" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Spectral/Tommy/Hologram/10927078.jpg</thumbnail>
+		<title>Stone Hex Metal</title>
+		<creator>Spectral Tommy Hologram</creator>
+		<relatedgames />
+	</game>
+	<game id="10937548" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Alien/Haley/Jamboree/10937548.jpg</thumbnail>
+		<title>Rocket Techno Sonic</title>
+		<creator>Alien Haley Jamboree</creator>
+		<relatedgames />
+	</game>
+	<game id="17312975" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>/gamecreators/images2/Roaring/Douglas/Fuzz/17312975.jpg</thumbnail>
+		<title>Patrol Crusher Stone</title>
+		<creator>Roaring Douglas Fuzz</creator>
+		<relatedgames />
+	</game>
+	<game id="17274855" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>/gamecreators/images2/Brayden/Badger/17274855.jpg</thumbnail>
+		<title>Crusher Cannonbolt Droid</title>
+		<creator>Brayden Badger</creator>
+		<relatedgames />
+	</game>
+	<game id="10647540" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Proper/Ben/Popcorn/10647540.jpg</thumbnail>
+		<title>Blaster Robot Universe</title>
+		<creator>Proper Ben Popcorn</creator>
+		<relatedgames />
+	</game>
+	<game id="17318985" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Grizzly/Eugene/Banzai/17318985.jpg</thumbnail>
+		<title>Escape Star Thunder</title>
+		<creator>Grizzly Eugene Banzai</creator>
+		<relatedgames />
+	</game>
+	<game id="17217721" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>/gamecreators/images2/Normal/Betty/Venom/17217721.jpg</thumbnail>
+		<title>Shadow Vilgax Cosmic</title>
+		<creator>Normal Betty Venom</creator>
+		<relatedgames />
+	</game>
+	<game id="10921236" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Sporty/Matt/Citrus/10921236.jpg</thumbnail>
+		<title>Sonic Hero Universe</title>
+		<creator>Sporty Matt Citrus</creator>
+		<relatedgames />
+	</game>
+	<game id="16971326" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/27/2012">
+		<thumbnail>/gamecreators/images2/Captain/Tony/Bucket/16971326.jpg</thumbnail>
+		<title>Cosmic Gear Quake</title>
+		<creator>Captain Tony Bucket</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

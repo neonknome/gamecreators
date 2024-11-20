@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10938971" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Jingling/Madison/Spider/10938971.jpg</thumbnail>
+		<title>Mission Adventure Slam</title>
+		<creator>Jingling Madison Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="17017591" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>/gamecreators/images2/Radiant/Genghis/Warrior/17017591.jpg</thumbnail>
+		<title>Jetray Laser Assault</title>
+		<creator>Radiant Genghis Warrior</creator>
+		<relatedgames />
+	</game>
+	<game id="10926436" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Twisty/Gavin/Seesaw/10926436.jpg</thumbnail>
+		<title>Sonic Ben Streak</title>
+		<creator>Twisty Gavin Seesaw</creator>
+		<relatedgames />
+	</game>
+	<game id="442251" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="10/26/2010">
+		<thumbnail>
+		</thumbnail>
+		<title>Battle Beast Waterhazard</title>
+		<creator>aisflash</creator>
+		<relatedgames />
+	</game>
+	<game id="10927171" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Crunchy/Benjamin/Blammo/10927171.jpg</thumbnail>
+		<title>Siege Nano Earth</title>
+		<creator>Crunchy Benjamin Blammo</creator>
+		<relatedgames />
+	</game>
+	<game id="10952590" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Gloomy/Harry/Bolt/10952590.jpg</thumbnail>
+		<title>Nitro Giga Quake</title>
+		<creator>Gloomy Harry Bolt</creator>
+		<relatedgames />
+	</game>
+	<game id="17379329" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Quirky/Aiden/Moonbeam/17379329.jpg</thumbnail>
+		<title>Iron Iron Gear</title>
+		<creator>Quirky Aiden Moonbeam</creator>
+		<relatedgames />
+	</game>
+	<game id="10938438" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Red/Tom/Fritter/10938438.jpg</thumbnail>
+		<title>Pursuit Energy Magno</title>
+		<creator>Red Tom Fritter</creator>
+		<relatedgames />
+	</game>
+	<game id="17332957" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Tiffany/Tugboat/17332957.jpg</thumbnail>
+		<title>Breaker Siege Mega</title>
+		<creator>Magnetic Tiffany Tugboat</creator>
+		<relatedgames />
+	</game>
+	<game id="10919589" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Humble/Adrian/Unicorn/10919589.jpg</thumbnail>
+		<title>Nova Laser Earth</title>
+		<creator>Humble Adrian Unicorn</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

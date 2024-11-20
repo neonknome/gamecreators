@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17239029" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>/gamecreators/images2/Bumbling/Don/Dragoon/17239029.jpg</thumbnail>
+		<title>Adventure Shadow Pursuit</title>
+		<creator>Bumbling Don Dragoon</creator>
+		<relatedgames />
+	</game>
+	<game id="10933522" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fearless/Erik/Mummy/10933522.jpg</thumbnail>
+		<title>Swampfire Ambush Rampage</title>
+		<creator>Fearless Erik Mummy</creator>
+		<relatedgames />
+	</game>
+	<game id="10936013" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Jolly/Julian/Howler/10936013.jpg</thumbnail>
+		<title>Energy Invasion Champion</title>
+		<creator>Jolly Julian Howler</creator>
+		<relatedgames />
+	</game>
+	<game id="10704668" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Grouchy/Chase/Ketchup/10704668.jpg</thumbnail>
+		<title>Nano Mega Slam</title>
+		<creator>Grouchy Chase Ketchup</creator>
+		<relatedgames />
+	</game>
+	<game id="10945842" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Normal/Vinny/Rumble/10945842.jpg</thumbnail>
+		<title>Mega Shock Shadow</title>
+		<creator>Normal Vinny Rumble</creator>
+		<relatedgames />
+	</game>
+	<game id="17278972" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Virtual/Victor/Rebel/17278972.jpg</thumbnail>
+		<title>Giga Hyper Rustbucket</title>
+		<creator>Virtual Victor Rebel</creator>
+		<relatedgames />
+	</game>
+	<game id="17568616" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Brisk/Aubrey/Camel/17568616.jpg</thumbnail>
+		<title>Cannonbolt Cosmic Omniverse</title>
+		<creator>Brisk Aubrey Camel</creator>
+		<relatedgames />
+	</game>
+	<game id="17418777" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Normal/Faith/Brick/17418777.jpg</thumbnail>
+		<title>Shadow Adventure Space</title>
+		<creator>Normal Faith Brick</creator>
+		<relatedgames />
+	</game>
+	<game id="10927605" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Loony/Heidi/Grouch/10927605.jpg</thumbnail>
+		<title>Swampfire Plumber Patrol</title>
+		<creator>Loony Heidi Grouch</creator>
+		<relatedgames />
+	</game>
+	<game id="10917018" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Reliable/Victor/Whizbang/10917018.jpg</thumbnail>
+		<title>Solar Storm Chase</title>
+		<creator>Reliable Victor Whizbang</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

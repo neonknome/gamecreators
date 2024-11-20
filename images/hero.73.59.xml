@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10699107" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2009">
+		<thumbnail>/gamecreators/images2/Peculiar/Robert/Aurora/10699107.jpg</thumbnail>
+		<title>Fury Target Rampage</title>
+		<creator>Peculiar Robert Aurora</creator>
+		<relatedgames />
+	</game>
+	<game id="17323118" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Stout/Herman/Aardvark/17323118.jpg</thumbnail>
+		<title>Lightning Hyper Dark</title>
+		<creator>Stout Herman Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="10932957" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Majestic/Don/Ketchup/10932957.jpg</thumbnail>
+		<title>Earth Razor Warp</title>
+		<creator>Majestic Don Ketchup</creator>
+		<relatedgames />
+	</game>
+	<game id="10045226" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Wise/Tara/Pinball/10045226.jpg</thumbnail>
+		<title>Iron Vilgax Adventure</title>
+		<creator>Wise Tara Pinball</creator>
+		<relatedgames />
+	</game>
+	<game id="10020400" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Cheerful/Jill/Blubber/10020400.jpg</thumbnail>
+		<title>Gear Warrior Siege</title>
+		<creator>Cheerful Jill Blubber</creator>
+		<relatedgames />
+	</game>
+	<game id="17344012" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>/gamecreators/images2/Superior/Milo/Sprout/17344012.jpg</thumbnail>
+		<title>Universe Crusher Atomic</title>
+		<creator>Superior Milo Sprout</creator>
+		<relatedgames />
+	</game>
+	<game id="16978061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Solid/Alexa/Beast/16978061.jpg</thumbnail>
+		<title>Steel Warp Galaxy</title>
+		<creator>Solid Alexa Beast</creator>
+		<relatedgames />
+	</game>
+	<game id="10649584" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Red/Rudolph/Spider/10649584.jpg</thumbnail>
+		<title>Pursuit Alien Attack</title>
+		<creator>Red Rudolph Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="10926065" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Brave/Otis/Elephant/10926065.jpg</thumbnail>
+		<title>Rocket Crusher Fusion</title>
+		<creator>Brave Otis Elephant</creator>
+		<relatedgames />
+	</game>
+	<game id="17178491" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>/gamecreators/images2/Extreme/Alan/Avocado/17178491.jpg</thumbnail>
+		<title>Chase Steel Thunder</title>
+		<creator>Extreme Alan Avocado</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

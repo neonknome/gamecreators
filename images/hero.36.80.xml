@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10916958" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Loony/Ace/Eel/10916958.jpg</thumbnail>
+		<title>Lightning Rampage Droid</title>
+		<creator>Loony Ace Eel</creator>
+		<relatedgames />
+	</game>
+	<game id="10953308" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Orange/Donald/Pinwheel/10953308.jpg</thumbnail>
+		<title>Danger Racer Techno</title>
+		<creator>Orange Donald Pinwheel</creator>
+		<relatedgames />
+	</game>
+	<game id="10038852" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Magnetic/Alan/Blubber/10038852.jpg</thumbnail>
+		<title>Shock Spark Invasion</title>
+		<creator>Magnetic Alan Blubber</creator>
+		<relatedgames />
+	</game>
+	<game id="10926893" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wild/Ernie/Fireball/10926893.jpg</thumbnail>
+		<title>Alien Invasion Mission</title>
+		<creator>Wild Ernie Fireball</creator>
+		<relatedgames />
+	</game>
+	<game id="10919820" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Dreadful/Luke/Buffalo/10919820.jpg</thumbnail>
+		<title>Alien Ambush Assault</title>
+		<creator>Dreadful Luke Buffalo</creator>
+		<relatedgames />
+	</game>
+	<game id="17404731" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Clever/Ben/Blade/17404731.jpg</thumbnail>
+		<title>Ultimate Cannonbolt Assault</title>
+		<creator>Clever Ben Blade</creator>
+		<relatedgames />
+	</game>
+	<game id="17311338" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>/gamecreators/images2/Freakish/Benson/Banshee/17311338.jpg</thumbnail>
+		<title>Rustbucket Battle Clash</title>
+		<creator>Freakish Benson Banshee</creator>
+		<relatedgames />
+	</game>
+	<game id="17337519" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Luminous/Cameron/Behemoth/17337519.jpg</thumbnail>
+		<title>Fusion Whirlwind Techno</title>
+		<creator>Luminous Cameron Behemoth</creator>
+		<relatedgames />
+	</game>
+	<game id="17356919" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>/gamecreators/images2/Sassy/Aaron/Baloney/17356919.jpg</thumbnail>
+		<title>Alien Chase Shock</title>
+		<creator>Sassy Aaron Baloney</creator>
+		<relatedgames />
+	</game>
+	<game id="17584644" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Plucky/Romeo/Aviator/17584644.jpg</thumbnail>
+		<title>Big Chill Power</title>
+		<creator>Plucky Romeo Aviator</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

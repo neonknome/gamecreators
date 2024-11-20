@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17315386" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>/gamecreators/images2/Emperor/Joshua/Slurp/17315386.jpg</thumbnail>
+		<title>Shadow Quake Charge</title>
+		<creator>Emperor Joshua Slurp</creator>
+		<relatedgames />
+	</game>
+	<game id="10057344" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Crispy/Michael/Dynamite/10057344.jpg</thumbnail>
+		<title>Ultimate Fire Force</title>
+		<creator>Crispy Michael Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="10928690" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Giggling/Tom/Stampede/10928690.jpg</thumbnail>
+		<title>Pulse Doom Shadow</title>
+		<creator>Giggling Tom Stampede</creator>
+		<relatedgames />
+	</game>
+	<game id="10918670" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Sneaky/Bubba/Kumquat/10918670.jpg</thumbnail>
+		<title>Cosmic Steel Warrior</title>
+		<creator>Sneaky Bubba Kumquat</creator>
+		<relatedgames />
+	</game>
+	<game id="16979806" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>/gamecreators/images2/Extinct/Bobo/Wombat/16979806.jpg</thumbnail>
+		<title>Rumble Energy Ultimate</title>
+		<creator>Extinct Bobo Wombat</creator>
+		<relatedgames />
+	</game>
+	<game id="17331941" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Subtle/Lancelot/Ricochet/17331941.jpg</thumbnail>
+		<title>Rocket Charge Blaster</title>
+		<creator>Subtle Lancelot Ricochet</creator>
+		<relatedgames />
+	</game>
+	<game id="17552388" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Drowzy/Finn/Fishbowl/17552388.jpg</thumbnail>
+		<title>Omniverse Cosmic Adventure</title>
+		<creator>Drowzy Finn Fishbowl</creator>
+		<relatedgames />
+	</game>
+	<game id="17260364" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>/gamecreators/images2/Colonel/Danny/Droid/17260364.jpg</thumbnail>
+		<title>Adventure Power Pursuit</title>
+		<creator>Colonel Danny Droid</creator>
+		<relatedgames />
+	</game>
+	<game id="10843570" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2009">
+		<thumbnail>/gamecreators/images2/Freaky/Savannah/Oddball/10843570.jpg</thumbnail>
+		<title>Rampage Earth Fusion</title>
+		<creator>Freaky Savannah Oddball</creator>
+		<relatedgames />
+	</game>
+	<game id="17555017" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Magical/Isaac/Enigma/17555017.jpg</thumbnail>
+		<title>Challenge Target Racer</title>
+		<creator>Magical Isaac Enigma</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

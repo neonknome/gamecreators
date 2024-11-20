@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10055518" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Sinister/Zoe/Ballyhoo/10055518.jpg</thumbnail>
+		<title>Atomic Quake Assault</title>
+		<creator>Sinister Zoe Ballyhoo</creator>
+		<relatedgames />
+	</game>
+	<game id="10952824" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Blue/Chad/Nova/10952824.jpg</thumbnail>
+		<title>Doom Rumble Challenge</title>
+		<creator>Blue Chad Nova</creator>
+		<relatedgames />
+	</game>
+	<game id="17315386" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>/gamecreators/images2/Emperor/Joshua/Slurp/17315386.jpg</thumbnail>
+		<title>Shadow Quake Charge</title>
+		<creator>Emperor Joshua Slurp</creator>
+		<relatedgames />
+	</game>
+	<game id="10928690" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Giggling/Tom/Stampede/10928690.jpg</thumbnail>
+		<title>Pulse Doom Shadow</title>
+		<creator>Giggling Tom Stampede</creator>
+		<relatedgames />
+	</game>
+	<game id="17332691" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Musical/Noah/Nanobot/17332691.jpg</thumbnail>
+		<title>Assault Rumble Power</title>
+		<creator>Musical Noah Nanobot</creator>
+		<relatedgames />
+	</game>
+	<game id="17178491" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>/gamecreators/images2/Extreme/Alan/Avocado/17178491.jpg</thumbnail>
+		<title>Chase Steel Thunder</title>
+		<creator>Extreme Alan Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="10935773" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Dixie/Creature/10935773.jpg</thumbnail>
+		<title>Swampfire Target Challenge</title>
+		<creator>Tricky Dixie Creature</creator>
+		<relatedgames />
+	</game>
+	<game id="10948867" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Noble/Ron/Frost/10948867.jpg</thumbnail>
+		<title>Adventure Search Attack</title>
+		<creator>Noble Ron Frost</creator>
+		<relatedgames />
+	</game>
+	<game id="10918670" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Sneaky/Bubba/Kumquat/10918670.jpg</thumbnail>
+		<title>Cosmic Steel Warrior</title>
+		<creator>Sneaky Bubba Kumquat</creator>
+		<relatedgames />
+	</game>
+	<game id="10066089" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Adorable/Alexis/Cumulus/10066089.jpg</thumbnail>
+		<title>Swampfire Swampfire Swampfire</title>
+		<creator>Adorable Alexis Cumulus</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

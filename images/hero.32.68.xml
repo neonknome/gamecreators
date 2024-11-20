@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16914025" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/11/2012">
+		<thumbnail>/gamecreators/images2/Smelly/Micah/Hawk/16914025.jpg</thumbnail>
+		<title>Techno Laser Cannonbolt</title>
+		<creator>Smelly Micah Hawk</creator>
+		<relatedgames />
+	</game>
+	<game id="17407363" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>/gamecreators/images2/Adept/Biff/Quark/17407363.jpg</thumbnail>
+		<title>Atomic Earth Plasma</title>
+		<creator>Adept Biff Quark</creator>
+		<relatedgames />
+	</game>
+	<game id="10064428" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Bouncing/Wesley/Parallax/10064428.jpg</thumbnail>
+		<title>Ben Smash Force</title>
+		<creator>Bouncing Wesley Parallax</creator>
+		<relatedgames />
+	</game>
+	<game id="17418873" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Evil/Marcia/Ballyhoo/17418873.jpg</thumbnail>
+		<title>Animo Shadow Warp</title>
+		<creator>Evil Marcia Ballyhoo</creator>
+		<relatedgames />
+	</game>
+	<game id="10063345" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Infamous/Florence/Crumpet/10063345.jpg</thumbnail>
+		<title>Adventure Razor Blaster</title>
+		<creator>Infamous Florence Crumpet</creator>
+		<relatedgames />
+	</game>
+	<game id="10931973" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Graceful/Chad/Beeswax/10931973.jpg</thumbnail>
+		<title>Fury Dark Sonic</title>
+		<creator>Graceful Chad Beeswax</creator>
+		<relatedgames />
+	</game>
+	<game id="10938101" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Nimble/Lillian/Robot/10938101.jpg</thumbnail>
+		<title>Swampfire Iron Invasion</title>
+		<creator>Nimble Lillian Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="10942553" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Joyous/Brian/Daffodil/10942553.jpg</thumbnail>
+		<title>Adventure Universe Siege</title>
+		<creator>Joyous Brian Daffodil</creator>
+		<relatedgames />
+	</game>
+	<game id="17260921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Rocky/Flamingo/17260921.jpg</thumbnail>
+		<title>Spark Titan Siege</title>
+		<creator>Ultimate Rocky Flamingo</creator>
+		<relatedgames />
+	</game>
+	<game id="17223057" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Bouncing/Benton/Mummy/17223057.jpg</thumbnail>
+		<title>Big Chill Challenge</title>
+		<creator>Bouncing Benton Mummy</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

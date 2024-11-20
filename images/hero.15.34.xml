@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17254961" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>/gamecreators/images2/Fiery/DJ/Yam/17254961.jpg</thumbnail>
+		<title>Blaster Clash Mega</title>
+		<creator>Fiery DJ Yam</creator>
+		<relatedgames />
+	</game>
+	<game id="17234049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>/gamecreators/images2/Lanky/Lily/Licorice/17234049.jpg</thumbnail>
+		<title>Hyper Alien Hero</title>
+		<creator>Lanky Lily Licorice</creator>
+		<relatedgames />
+	</game>
+	<game id="10918533" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Odd/Gary/Pirate/10918533.jpg</thumbnail>
+		<title>Quake Danger Battle</title>
+		<creator>Odd Gary Pirate</creator>
+		<relatedgames />
+	</game>
+	<game id="10069204" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Lucky/Simon/Droid/10069204.jpg</thumbnail>
+		<title>Nano Hex Giga</title>
+		<creator>Lucky Simon Droid</creator>
+		<relatedgames />
+	</game>
+	<game id="17278815" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Rugged/Scooter/Possum/17278815.jpg</thumbnail>
+		<title>Laser Gear Shadow</title>
+		<creator>Rugged Scooter Possum</creator>
+		<relatedgames />
+	</game>
+	<game id="10062600" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Weird/Grover/Monkey/10062600.jpg</thumbnail>
+		<title>Swampfire Fire Universe</title>
+		<creator>Weird Grover Monkey</creator>
+		<relatedgames />
+	</game>
+	<game id="17262592" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Immortal/Lawrence/Spider/17262592.jpg</thumbnail>
+		<title>Warp Shadow Pulse</title>
+		<creator>Immortal Lawrence Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="17251649" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/22/2012">
+		<thumbnail>/gamecreators/images2/Titanic/Andy/Cartoon/17251649.jpg</thumbnail>
+		<title>Cannonbolt Hero Nova</title>
+		<creator>Titanic Andy Cartoon</creator>
+		<relatedgames />
+	</game>
+	<game id="17377498" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Nimble/Billy/Flywheel/17377498.jpg</thumbnail>
+		<title>Ambush Smash Challenge</title>
+		<creator>Nimble Billy Flywheel</creator>
+		<relatedgames />
+	</game>
+	<game id="10706453" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Sloppy/Derrick/Blade/10706453.jpg</thumbnail>
+		<title>Rustbucket Rumble Champion</title>
+		<creator>Sloppy Derrick Blade</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

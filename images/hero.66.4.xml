@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10952867" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Frantic/Chester/Walrus/10952867.jpg</thumbnail>
+		<title>Search Nova Champion</title>
+		<creator>Frantic Chester Walrus</creator>
+		<relatedgames />
+	</game>
+	<game id="17551176" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Earnest/Meredith/Tiger/17551176.jpg</thumbnail>
+		<title>Power Siege Rumble</title>
+		<creator>Earnest Meredith Tiger</creator>
+		<relatedgames />
+	</game>
+	<game id="10934549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Shaggy/Jeff/Gullet/10934549.jpg</thumbnail>
+		<title>Swampfire Rush Plasma</title>
+		<creator>Shaggy Jeff Gullet</creator>
+		<relatedgames />
+	</game>
+	<game id="17574180" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Wondrous/Rigby/Samurai/17574180.jpg</thumbnail>
+		<title>Brainstorm Galaxy Fusion</title>
+		<creator>Wondrous Rigby Samurai</creator>
+		<relatedgames />
+	</game>
+	<game id="10952813" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Babbling/Adam/Buckaroo/10952813.jpg</thumbnail>
+		<title>Fury Spark Galaxy</title>
+		<creator>Babbling Adam Buckaroo</creator>
+		<relatedgames />
+	</game>
+	<game id="10916795" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Eager/Abigail/Turbo/10916795.jpg</thumbnail>
+		<title>Invasion Swampfire Ambush</title>
+		<creator>Eager Abigail Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="16989131" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/02/2012">
+		<thumbnail>/gamecreators/images2/Hideous/Ginger/Rhino/16989131.jpg</thumbnail>
+		<title>Assault Mission Racer</title>
+		<creator>Hideous Ginger Rhino</creator>
+		<relatedgames />
+	</game>
+	<game id="10951344" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Funny/Jennifer/Sphere/10951344.jpg</thumbnail>
+		<title>Dark Atomic Power</title>
+		<creator>Funny Jennifer Sphere</creator>
+		<relatedgames />
+	</game>
+	<game id="10926778" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Shaggy/Brett/Shark/10926778.jpg</thumbnail>
+		<title>Doom Atomic Razor</title>
+		<creator>Shaggy Brett Shark</creator>
+		<relatedgames />
+	</game>
+	<game id="10064835" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Dashing/Joey/Atom/10064835.jpg</thumbnail>
+		<title>Battle Razor Magno</title>
+		<creator>Dashing Joey Atom</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

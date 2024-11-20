@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16950419" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/21/2012">
+		<thumbnail>/gamecreators/images2/Super/Savannah/Neutron/16950419.jpg</thumbnail>
+		<title>Swampfire Galaxy Rocket</title>
+		<creator>Super Savannah Neutron</creator>
+		<relatedgames />
+	</game>
+	<game id="10648224" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Colossal/Carson/Vampire/10648224.jpg</thumbnail>
+		<title>Humongousaur Hyper Smash</title>
+		<creator>Colossal Carson Vampire</creator>
+		<relatedgames />
+	</game>
+	<game id="10917786" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Frosty/Vincent/Narwhal/10917786.jpg</thumbnail>
+		<title>Danger Lightning Galaxy</title>
+		<creator>Frosty Vincent Narwhal</creator>
+		<relatedgames />
+	</game>
+	<game id="10933360" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Pretty/Clyde/Minotaur/10933360.jpg</thumbnail>
+		<title>Charge Slam Spike</title>
+		<creator>Pretty Clyde Minotaur</creator>
+		<relatedgames />
+	</game>
+	<game id="10939640" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Putrid/Tim/Paradox/10939640.jpg</thumbnail>
+		<title>Rocket Robot Robot</title>
+		<creator>Putrid Tim Paradox</creator>
+		<relatedgames />
+	</game>
+	<game id="10918647" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Eerie/Natasha/Skunk/10918647.jpg</thumbnail>
+		<title>Streak Quake Pulse</title>
+		<creator>Eerie Natasha Skunk</creator>
+		<relatedgames />
+	</game>
+	<game id="10930634" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Crafty/Sarah/Zombie/10930634.jpg</thumbnail>
+		<title>Atomic Alien Ambush</title>
+		<creator>Crafty Sarah Zombie</creator>
+		<relatedgames />
+	</game>
+	<game id="17014566" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>/gamecreators/images2/Generous/Carter/Bazooka/17014566.jpg</thumbnail>
+		<title>Stone Rescue Razor</title>
+		<creator>Generous Carter Bazooka</creator>
+		<relatedgames />
+	</game>
+	<game id="10916779" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Skinny/Jacob/Bullfrog/10916779.jpg</thumbnail>
+		<title>Titan Doom Nova</title>
+		<creator>Skinny Jacob Bullfrog</creator>
+		<relatedgames />
+	</game>
+	<game id="17357314" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>/gamecreators/images2/Emperor/Liam/Ghoul/17357314.jpg</thumbnail>
+		<title>Alien Challenge Earth</title>
+		<creator>Emperor Liam Ghoul</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17309781" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>/gamecreators/images2/Pleasant/Alan/Gamer/17309781.jpg</thumbnail>
+		<title>Razor Jetray Laser</title>
+		<creator>Pleasant Alan Gamer</creator>
+		<relatedgames />
+	</game>
+	<game id="17370479" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>/gamecreators/images2/Diagonal/Leo/Martian/17370479.jpg</thumbnail>
+		<title>Alien Blaster Hero</title>
+		<creator>Diagonal Leo Martian</creator>
+		<relatedgames />
+	</game>
+	<game id="10038578" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Witty/Wes/Grouch/10038578.jpg</thumbnail>
+		<title>Warrior Hero Warrior</title>
+		<creator>Witty Wes Grouch</creator>
+		<relatedgames />
+	</game>
+	<game id="10931159" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Chilly/Eddie/Fiddle/10931159.jpg</thumbnail>
+		<title>Alien Ambush Defense</title>
+		<creator>Chilly Eddie Fiddle</creator>
+		<relatedgames />
+	</game>
+	<game id="17296193" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/03/2012">
+		<thumbnail>/gamecreators/images2/Flying/Stanley/Quake/17296193.jpg</thumbnail>
+		<title>Rocket Danger Nitro</title>
+		<creator>Flying Stanley Quake</creator>
+		<relatedgames />
+	</game>
+	<game id="10918242" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Dynamic/Polly/Turbo/10918242.jpg</thumbnail>
+		<title>Danger Sonic Iron</title>
+		<creator>Dynamic Polly Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="10932957" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Majestic/Don/Ketchup/10932957.jpg</thumbnail>
+		<title>Earth Razor Warp</title>
+		<creator>Majestic Don Ketchup</creator>
+		<relatedgames />
+	</game>
+	<game id="16994396" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>/gamecreators/images2/Sergeant/Leonard/Iceberg/16994396.jpg</thumbnail>
+		<title>Battle Defense Adventure</title>
+		<creator>Sergeant Leonard Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="10045226" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Wise/Tara/Pinball/10045226.jpg</thumbnail>
+		<title>Iron Vilgax Adventure</title>
+		<creator>Wise Tara Pinball</creator>
+		<relatedgames />
+	</game>
+	<game id="17564122" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Awesome/Xerxes/Dynamite/17564122.jpg</thumbnail>
+		<title>Galaxy Nova Rampage</title>
+		<creator>Awesome Xerxes Dynamite</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

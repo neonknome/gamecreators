@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17234140" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>/gamecreators/images2/Bouncing/Franklin/Nibbles/17234140.jpg</thumbnail>
+		<title>Universe Ultimate Power</title>
+		<creator>Bouncing Franklin Nibbles</creator>
+		<relatedgames />
+	</game>
+	<game id="17416368" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Speedy/Lancelot/Virtuoso/17416368.jpg</thumbnail>
+		<title>Stone Escape Storm</title>
+		<creator>Speedy Lancelot Virtuoso</creator>
+		<relatedgames />
+	</game>
+	<game id="10952513" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Alien/Miguel/Zebra/10952513.jpg</thumbnail>
+		<title>Ben Thunder Rocket</title>
+		<creator>Alien Miguel Zebra</creator>
+		<relatedgames />
+	</game>
+	<game id="17562120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Proud/Felix/Thud/17562120.jpg</thumbnail>
+		<title>Burst Blaster Alien</title>
+		<creator>Proud Felix Thud</creator>
+		<relatedgames />
+	</game>
+	<game id="10941646" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Eastern/Ace/Mantis/10941646.jpg</thumbnail>
+		<title>Ultra Rumble Universe</title>
+		<creator>Eastern Ace Mantis</creator>
+		<relatedgames />
+	</game>
+	<game id="10064904" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Cosmic/Goliath/Oddball/10064904.jpg</thumbnail>
+		<title>Adventure Mission Sonic</title>
+		<creator>Cosmic Goliath Oddball</creator>
+		<relatedgames />
+	</game>
+	<game id="10924702" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fuzzy/Austin/Cosmos/10924702.jpg</thumbnail>
+		<title>Search Steel Magno</title>
+		<creator>Fuzzy Austin Cosmos</creator>
+		<relatedgames />
+	</game>
+	<game id="10655835" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2009">
+		<thumbnail>/gamecreators/images2/Proper/Dinah/Sardine/10655835.jpg</thumbnail>
+		<title>Shadow Dark Rampage</title>
+		<creator>Proper Dinah Sardine</creator>
+		<relatedgames />
+	</game>
+	<game id="10952647" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Sincere/Stephen/Magma/10952647.jpg</thumbnail>
+		<title>Cosmic Star Invasion</title>
+		<creator>Sincere Stephen Magma</creator>
+		<relatedgames />
+	</game>
+	<game id="16945322" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/19/2012">
+		<thumbnail>/gamecreators/images2/Elite/Sam/Catapult/16945322.jpg</thumbnail>
+		<title>Atomic Ambush Assault</title>
+		<creator>Elite Sam Catapult</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17328677" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Average/Owen/Monster/17328677.jpg</thumbnail>
+		<title>Razor Space Rampage</title>
+		<creator>Average Owen Monster</creator>
+		<relatedgames />
+	</game>
+	<game id="17316460" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Drowzy/Yancy/Porridge/17316460.jpg</thumbnail>
+		<title>Nano Rampage Giga</title>
+		<creator>Drowzy Yancy Porridge</creator>
+		<relatedgames />
+	</game>
+	<game id="10953188" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Eerie/Iris/Oddball/10953188.jpg</thumbnail>
+		<title>Ultra Droid Titan</title>
+		<creator>Eerie Iris Oddball</creator>
+		<relatedgames />
+	</game>
+	<game id="10924136" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Horrid/Duncan/Squirrel/10924136.jpg</thumbnail>
+		<title>Fury Force Adventure</title>
+		<creator>Horrid Duncan Squirrel</creator>
+		<relatedgames />
+	</game>
+	<game id="10924177" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dapper/Sophia/Bolt/10924177.jpg</thumbnail>
+		<title>Steel Pulse Iron</title>
+		<creator>Dapper Sophia Bolt</creator>
+		<relatedgames />
+	</game>
+	<game id="16976315" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Burly/Gillian/Dodo/16976315.jpg</thumbnail>
+		<title>Nitro Doom Metal</title>
+		<creator>Burly Gillian Dodo</creator>
+		<relatedgames />
+	</game>
+	<game id="17273482" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>/gamecreators/images2/Joyous/Patricia/Squirrel/17273482.jpg</thumbnail>
+		<title>Target Water Warp</title>
+		<creator>Joyous Patricia Squirrel</creator>
+		<relatedgames />
+	</game>
+	<game id="10953322" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Reckless/Erin/Phantom/10953322.jpg</thumbnail>
+		<title>Danger Swampfire Rescue</title>
+		<creator>Reckless Erin Phantom</creator>
+		<relatedgames />
+	</game>
+	<game id="10946479" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Alien/Lucius/Wombat/10946479.jpg</thumbnail>
+		<title>Spark Fusion Ben</title>
+		<creator>Alien Lucius Wombat</creator>
+		<relatedgames />
+	</game>
+	<game id="10924415" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Robotic/Tom/Wombat/10924415.jpg</thumbnail>
+		<title>Swampfire Sonic Escape</title>
+		<creator>Robotic Tom Wombat</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

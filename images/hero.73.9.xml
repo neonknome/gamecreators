@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17161179" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/26/2012">
+		<thumbnail>/gamecreators/images2/Galactic/Zeus/Celsius/17161179.jpg</thumbnail>
+		<title>Chill Nano Adventure</title>
+		<creator>Galactic Zeus Celsius</creator>
+		<relatedgames />
+	</game>
+	<game id="16886061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/05/2012">
+		<thumbnail>/gamecreators/images2/Shiny/Kara/Insect/16886061.jpg</thumbnail>
+		<title>Adventure Pulse Attack</title>
+		<creator>Shiny Kara Insect</creator>
+		<relatedgames />
+	</game>
+	<game id="17385004" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Purple/Dominic/Gorilla/17385004.jpg</thumbnail>
+		<title>Adventure Adventure Stone</title>
+		<creator>Purple Dominic Gorilla</creator>
+		<relatedgames />
+	</game>
+	<game id="10937552" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Grouchy/Xavier/Wizard/10937552.jpg</thumbnail>
+		<title>Rocket Ultimate Rumble</title>
+		<creator>Grouchy Xavier Wizard</creator>
+		<relatedgames />
+	</game>
+	<game id="10921963" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Northern/Jenna/Yoyo/10921963.jpg</thumbnail>
+		<title>Swampfire Challenge Ultimate</title>
+		<creator>Northern Jenna Yoyo</creator>
+		<relatedgames />
+	</game>
+	<game id="10039014" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Loopy/Logan/Chimera/10039014.jpg</thumbnail>
+		<title>Mega Fire Slam</title>
+		<creator>Loopy Logan Chimera</creator>
+		<relatedgames />
+	</game>
+	<game id="10055886" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Visible/Ben/Yodel/10055886.jpg</thumbnail>
+		<title>Universe Metal Steel</title>
+		<creator>Visible Ben Yodel</creator>
+		<relatedgames />
+	</game>
+	<game id="16983247" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>/gamecreators/images2/Brisk/Ben/Ballyhoo/16983247.jpg</thumbnail>
+		<title>Spike Drone Ultra</title>
+		<creator>Brisk Ben Ballyhoo</creator>
+		<relatedgames />
+	</game>
+	<game id="17552128" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Steven/Buffalo/17552128.jpg</thumbnail>
+		<title>Humungousaur Dark Techno</title>
+		<creator>Steven Buffalo</creator>
+		<relatedgames />
+	</game>
+	<game id="10042851" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Chaotic/Rob/Pinwheel/10042851.jpg</thumbnail>
+		<title>Ultimate Earth Star</title>
+		<creator>Chaotic Rob Pinwheel</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10953304" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Scary/James/Lavender/10953304.jpg</thumbnail>
+		<title>Rustbucket Magno Plasma</title>
+		<creator>Scary James Lavender</creator>
+		<relatedgames />
+	</game>
+	<game id="10780319" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2009">
+		<thumbnail>/gamecreators/images2/Wild/Richard/Pontoon/10780319.jpg</thumbnail>
+		<title>Galaxy Solar Ambush</title>
+		<creator>Wild Richard Pontoon</creator>
+		<relatedgames />
+	</game>
+	<game id="17302719" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Fiery/Jose/Walrus/17302719.jpg</thumbnail>
+		<title>Rocket Siege Nitro</title>
+		<creator>Fiery Jose Walrus</creator>
+		<relatedgames />
+	</game>
+	<game id="10930625" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Towering/Matthew/Hedgehog/10930625.jpg</thumbnail>
+		<title>Dark Siege Earth</title>
+		<creator>Towering Matthew Hedgehog</creator>
+		<relatedgames />
+	</game>
+	<game id="10033590" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Bashful/Penny/Orca/10033590.jpg</thumbnail>
+		<title>Droid Adventure Fire</title>
+		<creator>Bashful Penny Orca</creator>
+		<relatedgames />
+	</game>
+	<game id="16914025" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/11/2012">
+		<thumbnail>/gamecreators/images2/Smelly/Micah/Hawk/16914025.jpg</thumbnail>
+		<title>Techno Laser Cannonbolt</title>
+		<creator>Smelly Micah Hawk</creator>
+		<relatedgames />
+	</game>
+	<game id="17407363" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>/gamecreators/images2/Adept/Biff/Quark/17407363.jpg</thumbnail>
+		<title>Atomic Earth Plasma</title>
+		<creator>Adept Biff Quark</creator>
+		<relatedgames />
+	</game>
+	<game id="10064428" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Bouncing/Wesley/Parallax/10064428.jpg</thumbnail>
+		<title>Ben Smash Force</title>
+		<creator>Bouncing Wesley Parallax</creator>
+		<relatedgames />
+	</game>
+	<game id="10063345" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Infamous/Florence/Crumpet/10063345.jpg</thumbnail>
+		<title>Adventure Razor Blaster</title>
+		<creator>Infamous Florence Crumpet</creator>
+		<relatedgames />
+	</game>
+	<game id="17336642" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Quaint/Freddy/Oddball/17336642.jpg</thumbnail>
+		<title>Universe Pulse Vilgax</title>
+		<creator>Quaint Freddy Oddball</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

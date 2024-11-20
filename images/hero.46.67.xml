@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10917851" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Red/Antonio/Spider/10917851.jpg</thumbnail>
+		<title>Nitro Fire Lightning</title>
+		<creator>Red Antonio Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="10924349" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Unusual/Daniel/Waffle/10924349.jpg</thumbnail>
+		<title>Escape Defense Gear</title>
+		<creator>Unusual Daniel Waffle</creator>
+		<relatedgames />
+	</game>
+	<game id="16860361" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/31/2012">
+		<thumbnail>/gamecreators/images2/Obvious/Cameron/Grackle/16860361.jpg</thumbnail>
+		<title>Titan Defense Whirlwind</title>
+		<creator>Obvious Cameron Grackle</creator>
+		<relatedgames />
+	</game>
+	<game id="10939122" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Daring/Bubba/Mustard/10939122.jpg</thumbnail>
+		<title>Adventure Shock Chase</title>
+		<creator>Daring Bubba Mustard</creator>
+		<relatedgames />
+	</game>
+	<game id="16886464" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/05/2012">
+		<thumbnail>/gamecreators/images2/Volcanic/Chowder/Cyborg/16886464.jpg</thumbnail>
+		<title>Ultra Spike Fusion</title>
+		<creator>Volcanic Chowder Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="10952722" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Burly/Tex/Quarry/10952722.jpg</thumbnail>
+		<title>Attack Rumble Pursuit</title>
+		<creator>Burly Tex Quarry</creator>
+		<relatedgames />
+	</game>
+	<game id="17151478" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/23/2012">
+		<thumbnail>/gamecreators/images2/Devious/Paula/Magma/17151478.jpg</thumbnail>
+		<title>Jetray Alien Force</title>
+		<creator>Devious Paula Magma</creator>
+		<relatedgames />
+	</game>
+	<game id="10932642" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Loud/Faith/Holler/10932642.jpg</thumbnail>
+		<title>Galaxy Shadow Ultimate</title>
+		<creator>Loud Faith Holler</creator>
+		<relatedgames />
+	</game>
+	<game id="17384988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Robust/Isaac/Pudding/17384988.jpg</thumbnail>
+		<title>Escape Nano Smash</title>
+		<creator>Robust Isaac Pudding</creator>
+		<relatedgames />
+	</game>
+	<game id="10952658" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Visible/Zachary/Scribble/10952658.jpg</thumbnail>
+		<title>Hex Assault Drone</title>
+		<creator>Visible Zachary Scribble</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

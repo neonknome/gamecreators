@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10843570" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2009">
+		<thumbnail>/gamecreators/images2/Freaky/Savannah/Oddball/10843570.jpg</thumbnail>
+		<title>Rampage Earth Fusion</title>
+		<creator>Freaky Savannah Oddball</creator>
+		<relatedgames />
+	</game>
+	<game id="17555017" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Magical/Isaac/Enigma/17555017.jpg</thumbnail>
+		<title>Challenge Target Racer</title>
+		<creator>Magical Isaac Enigma</creator>
+		<relatedgames />
+	</game>
+	<game id="17293144" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>/gamecreators/images2/Savage/Erika/Tsunami/17293144.jpg</thumbnail>
+		<title>Titan Charge Quake</title>
+		<creator>Savage Erika Tsunami</creator>
+		<relatedgames />
+	</game>
+	<game id="17262274" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Popular/Roscoe/Volcano/17262274.jpg</thumbnail>
+		<title>Universe Ultimate Nitro</title>
+		<creator>Popular Roscoe Volcano</creator>
+		<relatedgames />
+	</game>
+	<game id="10924158" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Frantic/Melissa/Porridge/10924158.jpg</thumbnail>
+		<title>Swampfire Techno Warp</title>
+		<creator>Frantic Melissa Porridge</creator>
+		<relatedgames />
+	</game>
+	<game id="17159498" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/25/2012">
+		<thumbnail>/gamecreators/images2/Eastern/Grover/Bagpipe/17159498.jpg</thumbnail>
+		<title>Adventure Champion Cosmic</title>
+		<creator>Eastern Grover Bagpipe</creator>
+		<relatedgames />
+	</game>
+	<game id="17505120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>/gamecreators/images2/Galactic/Chuck/Giblets/17505120.jpg</thumbnail>
+		<title>Adventure Jetray Rocket</title>
+		<creator>Galactic Chuck Giblets</creator>
+		<relatedgames />
+	</game>
+	<game id="17374433" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>/gamecreators/images2/Sharp/Ivan/Flywheel/17374433.jpg</thumbnail>
+		<title>Alien Mega Warrior</title>
+		<creator>Sharp Ivan Flywheel</creator>
+		<relatedgames />
+	</game>
+	<game id="17015007" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>/gamecreators/images2/Proper/Vince/Volcano/17015007.jpg</thumbnail>
+		<title>Swampfire Gear Defense</title>
+		<creator>Proper Vince Volcano</creator>
+		<relatedgames />
+	</game>
+	<game id="17314812" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>/gamecreators/images2/Babbling/Hayden/Aurora/17314812.jpg</thumbnail>
+		<title>Fire Cosmic Clash</title>
+		<creator>Babbling Hayden Aurora</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

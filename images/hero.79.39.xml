@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17182146" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/02/2012">
+		<thumbnail>/gamecreators/images2/Famous/Karl/Fossil/17182146.jpg</thumbnail>
+		<title>Adventure Rush Light</title>
+		<creator>Famous Karl Fossil</creator>
+		<relatedgames />
+	</game>
+	<game id="17584138" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Grizzly/Dolly/Moonbeam/17584138.jpg</thumbnail>
+		<title>Adventure Adventure Water</title>
+		<creator>Grizzly Dolly Moonbeam</creator>
+		<relatedgames />
+	</game>
+	<game id="10922615" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Spectral/Augustus/Yodel/10922615.jpg</thumbnail>
+		<title>Shock Hyper Titan</title>
+		<creator>Spectral Augustus Yodel</creator>
+		<relatedgames />
+	</game>
+	<game id="10924886" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Alien/Amelia/Baloney/10924886.jpg</thumbnail>
+		<title>Blaster Alien Storm</title>
+		<creator>Alien Amelia Baloney</creator>
+		<relatedgames />
+	</game>
+	<game id="10932732" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Majestic/Logan/Obelisk/10932732.jpg</thumbnail>
+		<title>Chase Spark Adventure</title>
+		<creator>Majestic Logan Obelisk</creator>
+		<relatedgames />
+	</game>
+	<game id="17290900" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/01/2012">
+		<thumbnail>/gamecreators/images2/Shady/Dalton/Ion/17290900.jpg</thumbnail>
+		<title>Pursuit Rock Water</title>
+		<creator>Shady Dalton Ion</creator>
+		<relatedgames />
+	</game>
+	<game id="17241048" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>/gamecreators/images2/Princess/George/Turbo/17241048.jpg</thumbnail>
+		<title>Rumble Burst Doom</title>
+		<creator>Princess George Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="10922841" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Colossal/Vincent/Blade/10922841.jpg</thumbnail>
+		<title>Alien Swampfire Nitro</title>
+		<creator>Colossal Vincent Blade</creator>
+		<relatedgames />
+	</game>
+	<game id="17380187" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>/gamecreators/images2/Frugal/Ralph/Camel/17380187.jpg</thumbnail>
+		<title>Big Droid Battle</title>
+		<creator>Frugal Ralph Camel</creator>
+		<relatedgames />
+	</game>
+	<game id="10929416" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Elegant/Crystal/Barnacle/10929416.jpg</thumbnail>
+		<title>Iron Universe Space</title>
+		<creator>Elegant Crystal Barnacle</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

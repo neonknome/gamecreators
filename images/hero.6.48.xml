@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10043837" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Artistic/Stacey/Atom/10043837.jpg</thumbnail>
+		<title>Universe Fusion Battle</title>
+		<creator>Artistic Stacey Atom</creator>
+		<relatedgames />
+	</game>
+	<game id="17420096" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Delicate/Aaliyah/Sparkle/17420096.jpg</thumbnail>
+		<title>Giga Space Swampfire</title>
+		<creator>Delicate Aaliyah Sparkle</creator>
+		<relatedgames />
+	</game>
+	<game id="10704668" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Grouchy/Chase/Ketchup/10704668.jpg</thumbnail>
+		<title>Nano Mega Slam</title>
+		<creator>Grouchy Chase Ketchup</creator>
+		<relatedgames />
+	</game>
+	<game id="17386767" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Flying/Brandon/Robot/17386767.jpg</thumbnail>
+		<title>Warrior Atomic Warrior</title>
+		<creator>Flying Brandon Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="10950318" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Robotic/Diego/Pirate/10950318.jpg</thumbnail>
+		<title>Ben Escape Vilgax</title>
+		<creator>Robotic Diego Pirate</creator>
+		<relatedgames />
+	</game>
+	<game id="10038642" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Artistic/Dominic/Lavender/10038642.jpg</thumbnail>
+		<title>Ultimate Drone Doom</title>
+		<creator>Artistic Dominic Lavender</creator>
+		<relatedgames />
+	</game>
+	<game id="17562051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Dubious/Kevin/Mustard/17562051.jpg</thumbnail>
+		<title>Rampage Swampfire Storm</title>
+		<creator>Dubious Kevin Mustard</creator>
+		<relatedgames />
+	</game>
+	<game id="17400817" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>/gamecreators/images2/Healthy/Kyle/Squid/17400817.jpg</thumbnail>
+		<title>Mission Big Chill</title>
+		<creator>Healthy Kyle Squid</creator>
+		<relatedgames />
+	</game>
+	<game id="10922880" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Squishy/Duncan/Llama/10922880.jpg</thumbnail>
+		<title>Spark Beast Adventure</title>
+		<creator>Squishy Duncan Llama</creator>
+		<relatedgames />
+	</game>
+	<game id="17220619" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Carefree/Penelope/Banshee/17220619.jpg</thumbnail>
+		<title>Lightning Big Animo</title>
+		<creator>Carefree Penelope Banshee</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

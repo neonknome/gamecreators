@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16947780" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>/gamecreators/images2/Sleek/CJ/Dolphin/16947780.jpg</thumbnail>
+		<title>Mega Chase Invasion</title>
+		<creator>Sleek CJ Dolphin</creator>
+		<relatedgames />
+	</game>
+	<game id="17377709" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Quirky/Tommy/Karate/17377709.jpg</thumbnail>
+		<title>Turbo Cosmic Solar</title>
+		<creator>Quirky Tommy Karate</creator>
+		<relatedgames />
+	</game>
+	<game id="10045066" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Crispy/Wilma/Turbo/10045066.jpg</thumbnail>
+		<title>Rock Rustbucket Rustbucket</title>
+		<creator>Crispy Wilma Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="10055824" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Gloomy/Ben/Sawtooth/10055824.jpg</thumbnail>
+		<title>Lightning Champion Fusion</title>
+		<creator>Gloomy Ben Sawtooth</creator>
+		<relatedgames />
+	</game>
+	<game id="17407097" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>/gamecreators/images2/Extreme/Meghan/Dragoon/17407097.jpg</thumbnail>
+		<title>Rampage Thunder Doom</title>
+		<creator>Extreme Meghan Dragoon</creator>
+		<relatedgames />
+	</game>
+	<game id="10935383" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Green/Justin/Saber/10935383.jpg</thumbnail>
+		<title>Racer Techno Dark</title>
+		<creator>Green Justin Saber</creator>
+		<relatedgames />
+	</game>
+	<game id="17305485" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>/gamecreators/images2/Soggy/Yvette/Magma/17305485.jpg</thumbnail>
+		<title>Rustbucket Lightning Danger</title>
+		<creator>Soggy Yvette Magma</creator>
+		<relatedgames />
+	</game>
+	<game id="10918167" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Colossal/Leonardo/Howler/10918167.jpg</thumbnail>
+		<title>Alien Rampage Ambush</title>
+		<creator>Colossal Leonardo Howler</creator>
+		<relatedgames />
+	</game>
+	<game id="10919889" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Magnetic/Natalie/Monolith/10919889.jpg</thumbnail>
+		<title>Universe Doom Rush</title>
+		<creator>Magnetic Natalie Monolith</creator>
+		<relatedgames />
+	</game>
+	<game id="17327969" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Howling/Seth/Virtuoso/17327969.jpg</thumbnail>
+		<title>Fire Drone Adventure</title>
+		<creator>Howling Seth Virtuoso</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

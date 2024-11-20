@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10921998" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Lucky/Katie/Bongo/10921998.jpg</thumbnail>
+		<title>Earth Thunder Ben</title>
+		<creator>Lucky Katie Bongo</creator>
+		<relatedgames />
+	</game>
+	<game id="10925864" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wacky/Jack/Virtuoso/10925864.jpg</thumbnail>
+		<title>Turbo Techno Laser</title>
+		<creator>Wacky Jack Virtuoso</creator>
+		<relatedgames />
+	</game>
+	<game id="17396080" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>/gamecreators/images2/Pleasant/Margaret/Dogfish/17396080.jpg</thumbnail>
+		<title>Alien Mega Danger</title>
+		<creator>Pleasant Margaret Dogfish</creator>
+		<relatedgames />
+	</game>
+	<game id="10057898" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Dramatic/Dora/Doodad/10057898.jpg</thumbnail>
+		<title>Nova Rush Adventure</title>
+		<creator>Dramatic Dora Doodad</creator>
+		<relatedgames />
+	</game>
+	<game id="10924271" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Chilly/Jeremy/Tractor/10924271.jpg</thumbnail>
+		<title>Gear Gear Robot</title>
+		<creator>Chilly Jeremy Tractor</creator>
+		<relatedgames />
+	</game>
+	<game id="10950785" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Fragrant/Dudley/Fritter/10950785.jpg</thumbnail>
+		<title>Laser Rocket Streak</title>
+		<creator>Fragrant Dudley Fritter</creator>
+		<relatedgames />
+	</game>
+	<game id="17387691" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Loyal/Juan/Parallax/17387691.jpg</thumbnail>
+		<title>Cannonbolt Metal Mission</title>
+		<creator>Loyal Juan Parallax</creator>
+		<relatedgames />
+	</game>
+	<game id="17378888" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Major/Alan/Cartoon/17378888.jpg</thumbnail>
+		<title>Ultra Laser Battle</title>
+		<creator>Major Alan Cartoon</creator>
+		<relatedgames />
+	</game>
+	<game id="10953342" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Shaggy/Hercules/Frost/10953342.jpg</thumbnail>
+		<title>Sonic Danger Fury</title>
+		<creator>Shaggy Hercules Frost</creator>
+		<relatedgames />
+	</game>
+	<game id="10038578" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Witty/Wes/Grouch/10038578.jpg</thumbnail>
+		<title>Warrior Hero Warrior</title>
+		<creator>Witty Wes Grouch</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17551777" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Splendid/Caitlin/Denizen/17551777.jpg</thumbnail>
+		<title>Drone Mission Warrior</title>
+		<creator>Splendid Caitlin Denizen</creator>
+		<relatedgames />
+	</game>
+	<game id="10935483" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Royal/Bradley/Bullfrog/10935483.jpg</thumbnail>
+		<title>Steel Spike Alien</title>
+		<creator>Royal Bradley Bullfrog</creator>
+		<relatedgames />
+	</game>
+	<game id="10924623" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Purple/Thor/Thorax/10924623.jpg</thumbnail>
+		<title>Pulse Atomic Target</title>
+		<creator>Purple Thor Thorax</creator>
+		<relatedgames />
+	</game>
+	<game id="17362289" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2012">
+		<thumbnail>/gamecreators/images2/Ticklish/Dylan/Steel/17362289.jpg</thumbnail>
+		<title>Ultra Thunder Mission</title>
+		<creator>Ticklish Dylan Steel</creator>
+		<relatedgames />
+	</game>
+	<game id="17415520" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Negative/Isaac/Grouch/17415520.jpg</thumbnail>
+		<title>Magno Ultimate Hex</title>
+		<creator>Negative Isaac Grouch</creator>
+		<relatedgames />
+	</game>
+	<game id="10932691" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Absurd/Timmy/Calypso/10932691.jpg</thumbnail>
+		<title>Danger Blaster Adventure</title>
+		<creator>Absurd Timmy Calypso</creator>
+		<relatedgames />
+	</game>
+	<game id="10044001" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Crafty/Hunter/Iguana/10044001.jpg</thumbnail>
+		<title>Chase Challenge Rampage</title>
+		<creator>Crafty Hunter Iguana</creator>
+		<relatedgames />
+	</game>
+	<game id="10933814" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Twisty/Douglas/Turbo/10933814.jpg</thumbnail>
+		<title>Mega Mission Shadow</title>
+		<creator>Twisty Douglas Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="17560228" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Crunchy/Ava/Blizzard/17560228.jpg</thumbnail>
+		<title>Rocket Animo Droid</title>
+		<creator>Crunchy Ava Blizzard</creator>
+		<relatedgames />
+	</game>
+	<game id="10916844" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Itchy/Jared/Kazoo/10916844.jpg</thumbnail>
+		<title>Rampage Smash Fusion</title>
+		<creator>Itchy Jared Kazoo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

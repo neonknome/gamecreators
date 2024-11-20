@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17345648" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2012">
+		<thumbnail>/gamecreators/images2/Agile/Hannah/Balloon/17345648.jpg</thumbnail>
+		<title>Magno Ben Hex</title>
+		<creator>Agile Hannah Balloon</creator>
+		<relatedgames />
+	</game>
+	<game id="10039264" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Brawny/Benjamin/Dolphin/10039264.jpg</thumbnail>
+		<title>Spike Beast Chase</title>
+		<creator>Brawny Benjamin Dolphin</creator>
+		<relatedgames />
+	</game>
+	<game id="17585376" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Extreme/Vicky/Penguin/17585376.jpg</thumbnail>
+		<title>Magno Rock Patrol</title>
+		<creator>Extreme Vicky Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="16873112" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/02/2012">
+		<thumbnail>/gamecreators/images2/Aromatic/Amy/Mango/16873112.jpg</thumbnail>
+		<title>Rocket Smash Power</title>
+		<creator>Aromatic Amy Mango</creator>
+		<relatedgames />
+	</game>
+	<game id="17551194" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Colossal/Pete/Shovel/17551194.jpg</thumbnail>
+		<title>Nano Adventure Omniverse</title>
+		<creator>Colossal Pete Shovel</creator>
+		<relatedgames />
+	</game>
+	<game id="17395502" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>/gamecreators/images2/Titanic/Hercules/Steel/17395502.jpg</thumbnail>
+		<title>Gear Iron Hero</title>
+		<creator>Titanic Hercules Steel</creator>
+		<relatedgames />
+	</game>
+	<game id="16840527" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/25/2012">
+		<thumbnail>/gamecreators/images2/Electric/Jeffrey/Wingding/16840527.jpg</thumbnail>
+		<title>Crusher Energy Rampage</title>
+		<creator>Electric Jeffrey Wingding</creator>
+		<relatedgames />
+	</game>
+	<game id="10058625" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Cranky/Rob/Tractor/10058625.jpg</thumbnail>
+		<title>Charge Gear Shock</title>
+		<creator>Cranky Rob Tractor</creator>
+		<relatedgames />
+	</game>
+	<game id="16948219" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>/gamecreators/images2/Gentle/Rosetta/Snowball/16948219.jpg</thumbnail>
+		<title>Shock Big Cannonbolt</title>
+		<creator>Gentle Rosetta Snowball</creator>
+		<relatedgames />
+	</game>
+	<game id="17259995" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>/gamecreators/images2/Shrewd/Stanley/Sunset/17259995.jpg</thumbnail>
+		<title>Warrior Robot Giga</title>
+		<creator>Shrewd Stanley Sunset</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

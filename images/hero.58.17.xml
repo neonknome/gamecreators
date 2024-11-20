@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16920799" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/13/2012">
+		<thumbnail>/gamecreators/images2/Titanic/Dixie/Macaw/16920799.jpg</thumbnail>
+		<title>Hyper Galaxy Power</title>
+		<creator>Titanic Dixie Macaw</creator>
+		<relatedgames />
+	</game>
+	<game id="10924605" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Nimble/Bobo/Iguana/10924605.jpg</thumbnail>
+		<title>Force Animo Chase</title>
+		<creator>Nimble Bobo Iguana</creator>
+		<relatedgames />
+	</game>
+	<game id="17351878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>/gamecreators/images2/Acoustic/Jeff/Spider/17351878.jpg</thumbnail>
+		<title>Ultra Warp Star</title>
+		<creator>Acoustic Jeff Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="10952550" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Cranky/Nicole/Galaxy/10952550.jpg</thumbnail>
+		<title>Swampfire Fire Storm</title>
+		<creator>Cranky Nicole Galaxy</creator>
+		<relatedgames />
+	</game>
+	<game id="17204454" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/09/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Jake/Gargoyle/17204454.jpg</thumbnail>
+		<title>Doom Energy Adventure</title>
+		<creator>Ultimate Jake Gargoyle</creator>
+		<relatedgames />
+	</game>
+	<game id="10938896" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Royal/Noah/Tempest/10938896.jpg</thumbnail>
+		<title>Target Breaker Mega</title>
+		<creator>Royal Noah Tempest</creator>
+		<relatedgames />
+	</game>
+	<game id="17017625" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>/gamecreators/images2/Strong/Ben/Glop/17017625.jpg</thumbnail>
+		<title>Quake Rush Target</title>
+		<creator>Strong Ben Glop</creator>
+		<relatedgames />
+	</game>
+	<game id="10058669" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Atomic/Diana/Zeppelin/10058669.jpg</thumbnail>
+		<title>Rampage Adventure Beast</title>
+		<creator>Atomic Diana Zeppelin</creator>
+		<relatedgames />
+	</game>
+	<game id="17380971" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>/gamecreators/images2/Eager/Ella/Vitamin/17380971.jpg</thumbnail>
+		<title>Razor Robot Drone</title>
+		<creator>Eager Ella Vitamin</creator>
+		<relatedgames />
+	</game>
+	<game id="10055601" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Hideous/Pedro/Gulch/10055601.jpg</thumbnail>
+		<title>Dark Escape Robot</title>
+		<creator>Hideous Pedro Gulch</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17415229" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Reckless/Ernest/Fathom/17415229.jpg</thumbnail>
+		<title>Siege Hero Sonic</title>
+		<creator>Reckless Ernest Fathom</creator>
+		<relatedgames />
+	</game>
+	<game id="10918701" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Alien/Madison/Fossil/10918701.jpg</thumbnail>
+		<title>Razor Spike Search</title>
+		<creator>Alien Madison Fossil</creator>
+		<relatedgames />
+	</game>
+	<game id="10921299" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Dainty/Rachel/Ladybug/10921299.jpg</thumbnail>
+		<title>Rumble Chase Assault</title>
+		<creator>Dainty Rachel Ladybug</creator>
+		<relatedgames />
+	</game>
+	<game id="16935535" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/15/2012">
+		<thumbnail>/gamecreators/images2/Gorgeous/Earl/Shuriken/16935535.jpg</thumbnail>
+		<title>Vilgax Beast Rescue</title>
+		<creator>Gorgeous Earl Shuriken</creator>
+		<relatedgames />
+	</game>
+	<game id="10953226" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Fanciful/Xerxes/Aardvark/10953226.jpg</thumbnail>
+		<title>Mission Streak Solar</title>
+		<creator>Fanciful Xerxes Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="10015692" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Cosmic/Amber/Iceberg/10015692.jpg</thumbnail>
+		<title>Chase Nitro Crusher</title>
+		<creator>Cosmic Amber Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="10952842" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Proper/Brandon/Thud/10952842.jpg</thumbnail>
+		<title>Pursuit Beast Rumble</title>
+		<creator>Proper Brandon Thud</creator>
+		<relatedgames />
+	</game>
+	<game id="17383762" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Comical/Jeremiah/Crash/17383762.jpg</thumbnail>
+		<title>Giga Racer Rustbucket</title>
+		<creator>Comical Jeremiah Crash</creator>
+		<relatedgames />
+	</game>
+	<game id="10951344" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Funny/Jennifer/Sphere/10951344.jpg</thumbnail>
+		<title>Dark Atomic Power</title>
+		<creator>Funny Jennifer Sphere</creator>
+		<relatedgames />
+	</game>
+	<game id="10952801" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Ghostly/Laura/Bramble/10952801.jpg</thumbnail>
+		<title>Charge Fusion Drone</title>
+		<creator>Ghostly Laura Bramble</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

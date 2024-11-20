@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17259049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>/gamecreators/images2/Queen/Lawrence/Eggplant/17259049.jpg</thumbnail>
+		<title>Big Earth Nova</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames />
+	</game>
+	<game id="10916917" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Towering/Spike/Thud/10916917.jpg</thumbnail>
+		<title>Fusion Rampage Breaker</title>
+		<creator>Towering Spike Thud</creator>
+		<relatedgames />
+	</game>
+	<game id="17283609" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Haunted/Andre/Tarragon/17283609.jpg</thumbnail>
+		<title>Iron Assault Challenge</title>
+		<creator>Haunted Andre Tarragon</creator>
+		<relatedgames />
+	</game>
+	<game id="10916691" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Sporty/Ivy/Ketchup/10916691.jpg</thumbnail>
+		<title>Swampfire Fire Storm</title>
+		<creator>Sporty Ivy Ketchup</creator>
+		<relatedgames />
+	</game>
+	<game id="17209454" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/11/2012">
+		<thumbnail>/gamecreators/images2/Aromatic/Milo/Spark/17209454.jpg</thumbnail>
+		<title>Galaxy Attack Turbo</title>
+		<creator>Aromatic Milo Spark</creator>
+		<relatedgames />
+	</game>
+	<game id="17374839" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>/gamecreators/images2/Captain/Sapphire/Electron/17374839.jpg</thumbnail>
+		<title>Cosmic Fire Escape</title>
+		<creator>Captain Sapphire Electron</creator>
+		<relatedgames />
+	</game>
+	<game id="10921871" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Atomic/Vanessa/Zip/10921871.jpg</thumbnail>
+		<title>Shadow Power Hyper</title>
+		<creator>Atomic Vanessa Zip</creator>
+		<relatedgames />
+	</game>
+	<game id="10947072" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Happy/Devin/Macaroni/10947072.jpg</thumbnail>
+		<title>Invasion Thunder Mega</title>
+		<creator>Happy Devin Macaroni</creator>
+		<relatedgames />
+	</game>
+	<game id="10932117" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Odd/Austin/Sphere/10932117.jpg</thumbnail>
+		<title>Target Fury Nitro</title>
+		<creator>Odd Austin Sphere</creator>
+		<relatedgames />
+	</game>
+	<game id="10921240" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Plucky/Breanna/Figment/10921240.jpg</thumbnail>
+		<title>Animo Rock Beast</title>
+		<creator>Plucky Breanna Figment</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

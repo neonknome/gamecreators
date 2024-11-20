@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10056467" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Mirthful/Danielle/Monster/10056467.jpg</thumbnail>
+		<title>Storm Ultimate Fusion</title>
+		<creator>Mirthful Danielle Monster</creator>
+		<relatedgames />
+	</game>
+	<game id="17363601" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>/gamecreators/images2/Icy/Bridget/Atlas/17363601.jpg</thumbnail>
+		<title>Metal Spidermonkey Spidermonkey</title>
+		<creator>Icy Bridget Atlas</creator>
+		<relatedgames />
+	</game>
+	<game id="10920168" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Ticklish/Spike/Dynamite/10920168.jpg</thumbnail>
+		<title>Cosmic Fire Slam</title>
+		<creator>Ticklish Spike Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="16976893" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Barbaric/Grover/Alien/16976893.jpg</thumbnail>
+		<title>Mega Challenge Mission</title>
+		<creator>Barbaric Grover Alien</creator>
+		<relatedgames />
+	</game>
+	<game id="16875579" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/02/2012">
+		<thumbnail>/gamecreators/images2/Spirited/Raymond/Moonbeam/16875579.jpg</thumbnail>
+		<title>Mega Shadow Alien</title>
+		<creator>Spirited Raymond Moonbeam</creator>
+		<relatedgames />
+	</game>
+	<game id="10931869" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Rowdy/Trevor/Glop/10931869.jpg</thumbnail>
+		<title>Shadow Patrol Attack</title>
+		<creator>Rowdy Trevor Glop</creator>
+		<relatedgames />
+	</game>
+	<game id="17318169" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Athletic/Jordan/Mustard/17318169.jpg</thumbnail>
+		<title>Energy Escape Challenge</title>
+		<creator>Athletic Jordan Mustard</creator>
+		<relatedgames />
+	</game>
+	<game id="16937348" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/16/2012">
+		<thumbnail>/gamecreators/images2/Diagonal/Ben/Spark/16937348.jpg</thumbnail>
+		<title>Power Danger Slam</title>
+		<creator>Diagonal Ben Spark</creator>
+		<relatedgames />
+	</game>
+	<game id="17582460" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Grubby/Jan/Gorilla/17582460.jpg</thumbnail>
+		<title>Dark Adventure Battle</title>
+		<creator>Grubby Jan Gorilla</creator>
+		<relatedgames />
+	</game>
+	<game id="17554036" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Heroic/Gavin/Fury/17554036.jpg</thumbnail>
+		<title>Adventure Assault Clash</title>
+		<creator>Heroic Gavin Fury</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

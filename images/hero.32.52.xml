@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16950338" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>/gamecreators/images2/Dazzling/Angelica/Castle/16950338.jpg</thumbnail>
+		<title>Star Atomic Animo</title>
+		<creator>Dazzling Angelica Castle</creator>
+		<relatedgames />
+	</game>
+	<game id="17318985" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Grizzly/Eugene/Banzai/17318985.jpg</thumbnail>
+		<title>Escape Star Thunder</title>
+		<creator>Grizzly Eugene Banzai</creator>
+		<relatedgames />
+	</game>
+	<game id="17103443" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/08/2012">
+		<thumbnail>/gamecreators/images2/Fiery/Lucius/Tiger/17103443.jpg</thumbnail>
+		<title>Fury Echo Whirlwind</title>
+		<creator>Fiery Lucius Tiger</creator>
+		<relatedgames />
+	</game>
+	<game id="10933527" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Reliable/Jeff/Pulse/10933527.jpg</thumbnail>
+		<title>Warrior Rocket Adventure</title>
+		<creator>Reliable Jeff Pulse</creator>
+		<relatedgames />
+	</game>
+	<game id="17246245" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/20/2012">
+		<thumbnail>/gamecreators/images2/Artful/Anna/Cosmos/17246245.jpg</thumbnail>
+		<title>Rampage Nitro Storm</title>
+		<creator>Artful Anna Cosmos</creator>
+		<relatedgames />
+	</game>
+	<game id="10948918" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Savage/Gavin/Frost/10948918.jpg</thumbnail>
+		<title>Rumble Mission Champion</title>
+		<creator>Savage Gavin Frost</creator>
+		<relatedgames />
+	</game>
+	<game id="10924601" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Atomic/Vinny/Sawtooth/10924601.jpg</thumbnail>
+		<title>Attack Alien Force</title>
+		<creator>Atomic Vinny Sawtooth</creator>
+		<relatedgames />
+	</game>
+	<game id="10933602" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dreadful/Joshua/Techno/10933602.jpg</thumbnail>
+		<title>Swampfire Ultimate Chase</title>
+		<creator>Dreadful Joshua Techno</creator>
+		<relatedgames />
+	</game>
+	<game id="10058809" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Happy/Simon/Steam/10058809.jpg</thumbnail>
+		<title>Swampfire Blaster Smash</title>
+		<creator>Happy Simon Steam</creator>
+		<relatedgames />
+	</game>
+	<game id="10916670" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Frantic/Spike/Cobweb/10916670.jpg</thumbnail>
+		<title>Ambush Turbo Racer</title>
+		<creator>Frantic Spike Cobweb</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

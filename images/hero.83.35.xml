@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10926216" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Blue/Xavier/Giblets/10926216.jpg</thumbnail>
+		<title>Champion Rampage Atomic</title>
+		<creator>Blue Xavier Giblets</creator>
+		<relatedgames />
+	</game>
+	<game id="16928645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/14/2012">
+		<thumbnail>/gamecreators/images2/Spectral/Angel/Fang/16928645.jpg</thumbnail>
+		<title>Racer Adventure Storm</title>
+		<creator>Spectral Angel Fang</creator>
+		<relatedgames />
+	</game>
+	<game id="17177939" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>/gamecreators/images2/Agile/Miguel/Bingo/17177939.jpg</thumbnail>
+		<title>Nova Patrol Mission</title>
+		<creator>Agile Miguel Bingo</creator>
+		<relatedgames />
+	</game>
+	<game id="10918300" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Brawny/Bradley/Howler/10918300.jpg</thumbnail>
+		<title>Steel Burst Dark</title>
+		<creator>Brawny Bradley Howler</creator>
+		<relatedgames />
+	</game>
+	<game id="10916844" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Itchy/Jared/Kazoo/10916844.jpg</thumbnail>
+		<title>Rampage Smash Fusion</title>
+		<creator>Itchy Jared Kazoo</creator>
+		<relatedgames />
+	</game>
+	<game id="17423219" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>/gamecreators/images2/Quiet/Hunter/Blob/17423219.jpg</thumbnail>
+		<title>Turbo Champion Adventure</title>
+		<creator>Quiet Hunter Blob</creator>
+		<relatedgames />
+	</game>
+	<game id="17551180" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Noisy/Nicholas/Crowbar/17551180.jpg</thumbnail>
+		<title>Ben Echo Star</title>
+		<creator>Noisy Nicholas Crowbar</creator>
+		<relatedgames />
+	</game>
+	<game id="16871238" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>/gamecreators/images2/Aerobic/Larry/Mango/16871238.jpg</thumbnail>
+		<title>Target Robot Fire</title>
+		<creator>Aerobic Larry Mango</creator>
+		<relatedgames />
+	</game>
+	<game id="10927920" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Valiant/Tom/Paradox/10927920.jpg</thumbnail>
+		<title>Light Assault Danger</title>
+		<creator>Valiant Tom Paradox</creator>
+		<relatedgames />
+	</game>
+	<game id="10922395" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Brave/Raymond/Atom/10922395.jpg</thumbnail>
+		<title>Warrior Earth Sonic</title>
+		<creator>Brave Raymond Atom</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

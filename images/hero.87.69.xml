@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10953336" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Scary/James/Lavender/10953336.jpg</thumbnail>
+		<title>Steel Smash Magno</title>
+		<creator>Scary James Lavender</creator>
+		<relatedgames />
+	</game>
+	<game id="17364456" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>/gamecreators/images2/Average/Mike/Pizza/17364456.jpg</thumbnail>
+		<title>Defense Rocket Droid</title>
+		<creator>Average Mike Pizza</creator>
+		<relatedgames />
+	</game>
+	<game id="17552388" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Drowzy/Finn/Fishbowl/17552388.jpg</thumbnail>
+		<title>Omniverse Cosmic Adventure</title>
+		<creator>Drowzy Finn Fishbowl</creator>
+		<relatedgames />
+	</game>
+	<game id="10953072" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Eerie/Elijah/Turtle/10953072.jpg</thumbnail>
+		<title>Search Force Fire</title>
+		<creator>Eerie Elijah Turtle</creator>
+		<relatedgames />
+	</game>
+	<game id="10952492" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Horrid/Blake/Ukulele/10952492.jpg</thumbnail>
+		<title>Cosmic Swampfire Storm</title>
+		<creator>Horrid Blake Ukulele</creator>
+		<relatedgames />
+	</game>
+	<game id="10920338" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Stylish/Harvey/Universe/10920338.jpg</thumbnail>
+		<title>Spark Magno Racer</title>
+		<creator>Stylish Harvey Universe</creator>
+		<relatedgames />
+	</game>
+	<game id="17333014" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Merry/Ichabod/Elephant/17333014.jpg</thumbnail>
+		<title>Stone Big Pursuit</title>
+		<creator>Merry Ichabod Elephant</creator>
+		<relatedgames />
+	</game>
+	<game id="10942680" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Shiny/Nicole/Zing/10942680.jpg</thumbnail>
+		<title>Swampfire Clash Charge</title>
+		<creator>Shiny Nicole Zing</creator>
+		<relatedgames />
+	</game>
+	<game id="10647546" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Zany/Alan/Cipher/10647546.jpg</thumbnail>
+		<title>Rocket Attack Ambush</title>
+		<creator>Zany Alan Cipher</creator>
+		<relatedgames />
+	</game>
+	<game id="17331573" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Talented/Destiny/Warrior/17331573.jpg</thumbnail>
+		<title>Alien Attack Blaster</title>
+		<creator>Talented Destiny Warrior</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

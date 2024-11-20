@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17377839" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Able/Michelle/Splat/17377839.jpg</thumbnail>
+		<title>Adventure Atomic Champion</title>
+		<creator>Able Michelle Splat</creator>
+		<relatedgames />
+	</game>
+	<game id="10951563" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Elegant/Marissa/Tornado/10951563.jpg</thumbnail>
+		<title>Cosmic Stone Stone</title>
+		<creator>Elegant Marissa Tornado</creator>
+		<relatedgames />
+	</game>
+	<game id="10948824" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Humble/Tabitha/Mahogany/10948824.jpg</thumbnail>
+		<title>Adventure Mega Sonic</title>
+		<creator>Humble Tabitha Mahogany</creator>
+		<relatedgames />
+	</game>
+	<game id="17282494" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Superior/Jonas/Jamboree/17282494.jpg</thumbnail>
+		<title>Pursuit Shadow Fire</title>
+		<creator>Superior Jonas Jamboree</creator>
+		<relatedgames />
+	</game>
+	<game id="10921330" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Modest/Shawn/Doodle/10921330.jpg</thumbnail>
+		<title>Steel Breaker Earth</title>
+		<creator>Modest Shawn Doodle</creator>
+		<relatedgames />
+	</game>
+	<game id="10952750" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Zippy/Destiny/Dragon/10952750.jpg</thumbnail>
+		<title>Warp Energy Star</title>
+		<creator>Zippy Destiny Dragon</creator>
+		<relatedgames />
+	</game>
+	<game id="17551194" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Colossal/Pete/Shovel/17551194.jpg</thumbnail>
+		<title>Nano Adventure Omniverse</title>
+		<creator>Colossal Pete Shovel</creator>
+		<relatedgames />
+	</game>
+	<game id="17395502" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>/gamecreators/images2/Titanic/Hercules/Steel/17395502.jpg</thumbnail>
+		<title>Gear Iron Hero</title>
+		<creator>Titanic Hercules Steel</creator>
+		<relatedgames />
+	</game>
+	<game id="16993778" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>/gamecreators/images2/Baroness/Anna/Beast/16993778.jpg</thumbnail>
+		<title>Animo Patrol Steel</title>
+		<creator>Baroness Anna Beast</creator>
+		<relatedgames />
+	</game>
+	<game id="17551679" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Howling/Vince/Bazooka/17551679.jpg</thumbnail>
+		<title>Hyper Invasion Adventure</title>
+		<creator>Howling Vince Bazooka</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

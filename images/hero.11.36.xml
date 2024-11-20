@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10952932" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Sloppy/Connor/Fondue/10952932.jpg</thumbnail>
+		<title>Adventure Doom Breaker</title>
+		<creator>Sloppy Connor Fondue</creator>
+		<relatedgames />
+	</game>
+	<game id="17281055" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Generous/Lillian/Doodle/17281055.jpg</thumbnail>
+		<title>Rescue Assault Ambush</title>
+		<creator>Generous Lillian Doodle</creator>
+		<relatedgames />
+	</game>
+	<game id="10649752" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Enormous/Simon/Acrobat/10649752.jpg</thumbnail>
+		<title>Ultra Thunder Hero</title>
+		<creator>Enormous Simon Acrobat</creator>
+		<relatedgames />
+	</game>
+	<game id="17115481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/11/2012">
+		<thumbnail>/gamecreators/images2/Glorious/Logan/Brick/17115481.jpg</thumbnail>
+		<title>Cosmic Clash Adventure</title>
+		<creator>Glorious Logan Brick</creator>
+		<relatedgames />
+	</game>
+	<game id="17283515" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Negative/Bubbie/Pinwheel/17283515.jpg</thumbnail>
+		<title>Ultimate Adventure Storm</title>
+		<creator>Negative Bubbie Pinwheel</creator>
+		<relatedgames />
+	</game>
+	<game id="10931159" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Chilly/Eddie/Fiddle/10931159.jpg</thumbnail>
+		<title>Alien Ambush Defense</title>
+		<creator>Chilly Eddie Fiddle</creator>
+		<relatedgames />
+	</game>
+	<game id="17296193" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/03/2012">
+		<thumbnail>/gamecreators/images2/Flying/Stanley/Quake/17296193.jpg</thumbnail>
+		<title>Rocket Danger Nitro</title>
+		<creator>Flying Stanley Quake</creator>
+		<relatedgames />
+	</game>
+	<game id="10039272" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Loud/Steven/Charger/10039272.jpg</thumbnail>
+		<title>Power Metal Attack</title>
+		<creator>Loud Steven Charger</creator>
+		<relatedgames />
+	</game>
+	<game id="10067052" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Rowdy/Betty/Chimera/10067052.jpg</thumbnail>
+		<title>Charge Solar Sonic</title>
+		<creator>Rowdy Betty Chimera</creator>
+		<relatedgames />
+	</game>
+	<game id="10699107" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2009">
+		<thumbnail>/gamecreators/images2/Peculiar/Robert/Aurora/10699107.jpg</thumbnail>
+		<title>Fury Target Rampage</title>
+		<creator>Peculiar Robert Aurora</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

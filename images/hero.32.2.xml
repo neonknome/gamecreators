@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17284323" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>/gamecreators/images2/Verbose/Felicity/Nibbles/17284323.jpg</thumbnail>
+		<title>Light Attack Nova</title>
+		<creator>Verbose Felicity Nibbles</creator>
+		<relatedgames />
+	</game>
+	<game id="17209454" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/11/2012">
+		<thumbnail>/gamecreators/images2/Aromatic/Milo/Spark/17209454.jpg</thumbnail>
+		<title>Galaxy Attack Turbo</title>
+		<creator>Aromatic Milo Spark</creator>
+		<relatedgames />
+	</game>
+	<game id="10919694" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Dashing/Jake/Molecule/10919694.jpg</thumbnail>
+		<title>Defense Ultimate Vilgax</title>
+		<creator>Dashing Jake Molecule</creator>
+		<relatedgames />
+	</game>
+	<game id="17261733" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Grim/Paige/Kayak/17261733.jpg</thumbnail>
+		<title>Chase Echo Challenge</title>
+		<creator>Grim Paige Kayak</creator>
+		<relatedgames />
+	</game>
+	<game id="17254961" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>/gamecreators/images2/Fiery/DJ/Yam/17254961.jpg</thumbnail>
+		<title>Blaster Clash Mega</title>
+		<creator>Fiery DJ Yam</creator>
+		<relatedgames />
+	</game>
+	<game id="10952685" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Red/Tom/Fritter/10952685.jpg</thumbnail>
+		<title>Alien Alien Fire</title>
+		<creator>Red Tom Fritter</creator>
+		<relatedgames />
+	</game>
+	<game id="10952326" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Aquatic/Egbert/Thud/10952326.jpg</thumbnail>
+		<title>Adventure Clash Metal</title>
+		<creator>Aquatic Egbert Thud</creator>
+		<relatedgames />
+	</game>
+	<game id="17278815" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Rugged/Scooter/Possum/17278815.jpg</thumbnail>
+		<title>Laser Gear Shadow</title>
+		<creator>Rugged Scooter Possum</creator>
+		<relatedgames />
+	</game>
+	<game id="10942693" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Atomic/Jeffrey/Nova/10942693.jpg</thumbnail>
+		<title>Ultra Burst Warp</title>
+		<creator>Atomic Jeffrey Nova</creator>
+		<relatedgames />
+	</game>
+	<game id="17349988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>/gamecreators/images2/Dramatic/Lois/Sword/17349988.jpg</thumbnail>
+		<title>Hero Swampfire Rumble</title>
+		<creator>Dramatic Lois Sword</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

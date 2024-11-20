@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17345648" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2012">
+		<thumbnail>/gamecreators/images2/Agile/Hannah/Balloon/17345648.jpg</thumbnail>
+		<title>Magno Ben Hex</title>
+		<creator>Agile Hannah Balloon</creator>
+		<relatedgames />
+	</game>
+	<game id="17326887" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Mystic/Maxwell/Martian/17326887.jpg</thumbnail>
+		<title>Jetray Quake Fire</title>
+		<creator>Mystic Maxwell Martian</creator>
+		<relatedgames />
+	</game>
+	<game id="17585376" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Extreme/Vicky/Penguin/17585376.jpg</thumbnail>
+		<title>Magno Rock Patrol</title>
+		<creator>Extreme Vicky Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="10936465" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Itchy/Cameron/Blammo/10936465.jpg</thumbnail>
+		<title>Pursuit Earth Thunder</title>
+		<creator>Itchy Cameron Blammo</creator>
+		<relatedgames />
+	</game>
+	<game id="10922700" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Ingrid/Unicorn/10922700.jpg</thumbnail>
+		<title>Iron Pulse Storm</title>
+		<creator>Tricky Ingrid Unicorn</creator>
+		<relatedgames />
+	</game>
+	<game id="10918948" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Noisy/Jared/Squish/10918948.jpg</thumbnail>
+		<title>Danger Energy Metal</title>
+		<creator>Noisy Jared Squish</creator>
+		<relatedgames />
+	</game>
+	<game id="10793354" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2009">
+		<thumbnail>/gamecreators/images2/Adorable/Rosemary/Vittles/10793354.jpg</thumbnail>
+		<title>Energy Rocket Thunder</title>
+		<creator>Adorable Rosemary Vittles</creator>
+		<relatedgames />
+	</game>
+	<game id="17281862" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Crispy/Diana/Daffodil/17281862.jpg</thumbnail>
+		<title>Beast Slam Attack</title>
+		<creator>Crispy Diana Daffodil</creator>
+		<relatedgames />
+	</game>
+	<game id="10942751" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Valiant/Scarlett/Charger/10942751.jpg</thumbnail>
+		<title>Cosmic Space Lightning</title>
+		<creator>Valiant Scarlett Charger</creator>
+		<relatedgames />
+	</game>
+	<game id="10920076" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Brave/Jamie/Klunk/10920076.jpg</thumbnail>
+		<title>Power Dark Robot</title>
+		<creator>Brave Jamie Klunk</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

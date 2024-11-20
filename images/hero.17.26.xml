@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17316942" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Stinky/James/Avator/17316942.jpg</thumbnail>
+		<title>Nano Nova Thunder</title>
+		<creator>Stinky James Avator</creator>
+		<relatedgames />
+	</game>
+	<game id="10924909" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Scurvy/Diana/Haystack/10924909.jpg</thumbnail>
+		<title>Gear Battle Racer</title>
+		<creator>Scurvy Diana Haystack</creator>
+		<relatedgames />
+	</game>
+	<game id="10927316" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Awesome/Robin/Nova/10927316.jpg</thumbnail>
+		<title>Adventure Escape Challenge</title>
+		<creator>Awesome Robin Nova</creator>
+		<relatedgames />
+	</game>
+	<game id="10926589" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dynamic/Celeste/Dolphin/10926589.jpg</thumbnail>
+		<title>Adventure Racer Shadow</title>
+		<creator>Dynamic Celeste Dolphin</creator>
+		<relatedgames />
+	</game>
+	<game id="17364403" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>/gamecreators/images2/Hectic/Taylor/Gazebo/17364403.jpg</thumbnail>
+		<title>Droid Light Escape</title>
+		<creator>Hectic Taylor Gazebo</creator>
+		<relatedgames />
+	</game>
+	<game id="10917786" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Frosty/Vincent/Narwhal/10917786.jpg</thumbnail>
+		<title>Danger Lightning Galaxy</title>
+		<creator>Frosty Vincent Narwhal</creator>
+		<relatedgames />
+	</game>
+	<game id="10040939" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Howling/Evelyn/Bullfrog/10040939.jpg</thumbnail>
+		<title>Star Ben Shock</title>
+		<creator>Howling Evelyn Bullfrog</creator>
+		<relatedgames />
+	</game>
+	<game id="17562791" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Sunny/Caden/Grackle/17562791.jpg</thumbnail>
+		<title>Spark Stone Doom</title>
+		<creator>Sunny Caden Grackle</creator>
+		<relatedgames />
+	</game>
+	<game id="17335970" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Average/Owen/Monster/17335970.jpg</thumbnail>
+		<title>Mega Quake Fusion</title>
+		<creator>Average Owen Monster</creator>
+		<relatedgames />
+	</game>
+	<game id="10706149" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Shrewd/Leah/Acrobat/10706149.jpg</thumbnail>
+		<title>Attack Shadow Smash</title>
+		<creator>Shrewd Leah Acrobat</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

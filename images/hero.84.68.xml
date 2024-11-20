@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10015961" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Twisty/Avery/Fondue/10015961.jpg</thumbnail>
+		<title>Star Breaker Attack</title>
+		<creator>Twisty Avery Fondue</creator>
+		<relatedgames />
+	</game>
+	<game id="10945010" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Blue/Fred/Howler/10945010.jpg</thumbnail>
+		<title>Champion Rock Plasma</title>
+		<creator>Blue Fred Howler</creator>
+		<relatedgames />
+	</game>
+	<game id="10929381" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Southern/Justin/Steam/10929381.jpg</thumbnail>
+		<title>Swampfire Attack Challenge</title>
+		<creator>Southern Justin Steam</creator>
+		<relatedgames />
+	</game>
+	<game id="17403914" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Agile/Ben/Jigsaw/17403914.jpg</thumbnail>
+		<title>Atomic Search Space</title>
+		<creator>Agile Ben Jigsaw</creator>
+		<relatedgames />
+	</game>
+	<game id="10937230" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Brave/Shawn/Fizz/10937230.jpg</thumbnail>
+		<title>Racer Fire Assault</title>
+		<creator>Brave Shawn Fizz</creator>
+		<relatedgames />
+	</game>
+	<game id="17378159" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Extreme/Izzy/Martian/17378159.jpg</thumbnail>
+		<title>Terraspin Adventure Fury</title>
+		<creator>Extreme Izzy Martian</creator>
+		<relatedgames />
+	</game>
+	<game id="17402611" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>/gamecreators/images2/Ironic/Gulliver/Pirate/17402611.jpg</thumbnail>
+		<title>Hyper Earth Fusion</title>
+		<creator>Ironic Gulliver Pirate</creator>
+		<relatedgames />
+	</game>
+	<game id="16956406" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/22/2012">
+		<thumbnail>/gamecreators/images2/Queen/Tim/Dogfish/16956406.jpg</thumbnail>
+		<title>Champion Solar Attack</title>
+		<creator>Queen Tim Dogfish</creator>
+		<relatedgames />
+	</game>
+	<game id="17415028" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Noisy/Ben/Hiccup/17415028.jpg</thumbnail>
+		<title>Beast Search Chase</title>
+		<creator>Noisy Ben Hiccup</creator>
+		<relatedgames />
+	</game>
+	<game id="10938043" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Adorable/Celeste/Chutney/10938043.jpg</thumbnail>
+		<title>Earth Ambush Doom</title>
+		<creator>Adorable Celeste Chutney</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

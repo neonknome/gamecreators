@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16875554" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/02/2012">
+		<thumbnail>/gamecreators/images2/Spirited/Raymond/Moonbeam/16875554.jpg</thumbnail>
+		<title>Alien Adventure Assault</title>
+		<creator>Spirited Raymond Moonbeam</creator>
+		<relatedgames />
+	</game>
+	<game id="17377392" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Burly/Jacob/Blast/17377392.jpg</thumbnail>
+		<title>Nitro Big Adventure</title>
+		<creator>Burly Jacob Blast</creator>
+		<relatedgames />
+	</game>
+	<game id="10952790" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Fearsome/Adam/Magma/10952790.jpg</thumbnail>
+		<title>Nitro Alien Smash</title>
+		<creator>Fearsome Adam Magma</creator>
+		<relatedgames />
+	</game>
+	<game id="10916968" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Northern/Shelby/Goulash/10916968.jpg</thumbnail>
+		<title>Attack Adventure Racer</title>
+		<creator>Northern Shelby Goulash</creator>
+		<relatedgames />
+	</game>
+	<game id="17177367" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>/gamecreators/images2/Loud/DJ/Minotaur/17177367.jpg</thumbnail>
+		<title>Ultimate Smash Challenge</title>
+		<creator>Loud DJ Minotaur</creator>
+		<relatedgames />
+	</game>
+	<game id="17378050" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Visible/Luke/Yam/17378050.jpg</thumbnail>
+		<title>Animo Fury Patrol</title>
+		<creator>Visible Luke Yam</creator>
+		<relatedgames />
+	</game>
+	<game id="10933949" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Ornery/Leah/Chutney/10933949.jpg</thumbnail>
+		<title>Space Animo Iron</title>
+		<creator>Ornery Leah Chutney</creator>
+		<relatedgames />
+	</game>
+	<game id="17305208" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>/gamecreators/images2/Stormy/Anthony/Pizza/17305208.jpg</thumbnail>
+		<title>Pursuit Robot Robot</title>
+		<creator>Stormy Anthony Pizza</creator>
+		<relatedgames />
+	</game>
+	<game id="10922667" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wise/Edgar/Frost/10922667.jpg</thumbnail>
+		<title>Droid Stone Metal</title>
+		<creator>Wise Edgar Frost</creator>
+		<relatedgames />
+	</game>
+	<game id="10944185" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Charming/Erin/Steam/10944185.jpg</thumbnail>
+		<title>Spark Fury Escape</title>
+		<creator>Charming Erin Steam</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

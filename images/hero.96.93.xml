@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10952669" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Charming/Edward/Vittles/10952669.jpg</thumbnail>
+		<title>Smash Magno Rush</title>
+		<creator>Charming Edward Vittles</creator>
+		<relatedgames />
+	</game>
+	<game id="10936068" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fizzy/Kenneth/Cyborg/10936068.jpg</thumbnail>
+		<title>Fire Ambush Assault</title>
+		<creator>Fizzy Kenneth Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="10934659" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Loony/Rick/Lard/10934659.jpg</thumbnail>
+		<title>Adventure Space Force</title>
+		<creator>Loony Rick Lard</creator>
+		<relatedgames />
+	</game>
+	<game id="10931879" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Orange/Mario/Cosmos/10931879.jpg</thumbnail>
+		<title>Fire Escape Adventure</title>
+		<creator>Orange Mario Cosmos</creator>
+		<relatedgames />
+	</game>
+	<game id="17331796" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Evelyn/Brick/17331796.jpg</thumbnail>
+		<title>Ultimate Big Chill</title>
+		<creator>Magnetic Evelyn Brick</creator>
+		<relatedgames />
+	</game>
+	<game id="17382049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Wily/Iris/Ostrich/17382049.jpg</thumbnail>
+		<title>Turbo Dark Defense</title>
+		<creator>Wily Iris Ostrich</creator>
+		<relatedgames />
+	</game>
+	<game id="10040351" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Chaotic/Bert/Lavender/10040351.jpg</thumbnail>
+		<title>Adventure Doom Mission</title>
+		<creator>Chaotic Bert Lavender</creator>
+		<relatedgames />
+	</game>
+	<game id="17562791" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Sunny/Caden/Grackle/17562791.jpg</thumbnail>
+		<title>Spark Stone Doom</title>
+		<creator>Sunny Caden Grackle</creator>
+		<relatedgames />
+	</game>
+	<game id="17316460" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Drowzy/Yancy/Porridge/17316460.jpg</thumbnail>
+		<title>Nano Rampage Giga</title>
+		<creator>Drowzy Yancy Porridge</creator>
+		<relatedgames />
+	</game>
+	<game id="10926558" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Noble/Holly/Universe/10926558.jpg</thumbnail>
+		<title>Drone Swampfire Universe</title>
+		<creator>Noble Holly Universe</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

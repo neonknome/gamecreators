@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10952590" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Gloomy/Harry/Bolt/10952590.jpg</thumbnail>
+		<title>Nitro Giga Quake</title>
+		<creator>Gloomy Harry Bolt</creator>
+		<relatedgames />
+	</game>
+	<game id="17262454" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Mystic/Sterling/Blizzard/17262454.jpg</thumbnail>
+		<title>Quake Atomic Droid</title>
+		<creator>Mystic Sterling Blizzard</creator>
+		<relatedgames />
+	</game>
+	<game id="10648025" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Absurd/Bob/Hambone/10648025.jpg</thumbnail>
+		<title>Spike Smash Thunder</title>
+		<creator>Absurd Bob Hambone</creator>
+		<relatedgames />
+	</game>
+	<game id="10925006" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Savannah/Crash/10925006.jpg</thumbnail>
+		<title>Mega Hyper Fire</title>
+		<creator>Tricky Savannah Crash</creator>
+		<relatedgames />
+	</game>
+	<game id="10922956" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Blue/Corey/Crash/10922956.jpg</thumbnail>
+		<title>Burst Swampfire Patrol</title>
+		<creator>Blue Corey Crash</creator>
+		<relatedgames />
+	</game>
+	<game id="16871238" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>/gamecreators/images2/Aerobic/Larry/Mango/16871238.jpg</thumbnail>
+		<title>Target Robot Fire</title>
+		<creator>Aerobic Larry Mango</creator>
+		<relatedgames />
+	</game>
+	<game id="10951678" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Musical/Perseus/Elephant/10951678.jpg</thumbnail>
+		<title>Magno Iron Laser</title>
+		<creator>Musical Perseus Elephant</creator>
+		<relatedgames />
+	</game>
+	<game id="17383215" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Ironic/DJ/Giraffe/17383215.jpg</thumbnail>
+		<title>Force Techno Blaster</title>
+		<creator>Ironic DJ Giraffe</creator>
+		<relatedgames />
+	</game>
+	<game id="17316341" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Queen/Rich/Sunshine/17316341.jpg</thumbnail>
+		<title>Galaxy Danger Challenge</title>
+		<creator>Queen Rich Sunshine</creator>
+		<relatedgames />
+	</game>
+	<game id="10916687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Felix/Pontoon/10916687.jpg</thumbnail>
+		<title>Alien Metal Rock</title>
+		<creator>Tricky Felix Pontoon</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

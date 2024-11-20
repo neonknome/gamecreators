@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16867305" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>/gamecreators/images2/Baron/Jose/Polka/16867305.jpg</thumbnail>
+		<title>Ultimate Rocket Nano</title>
+		<creator>Baron Jose Polka</creator>
+		<relatedgames />
+	</game>
+	<game id="10706453" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Sloppy/Derrick/Blade/10706453.jpg</thumbnail>
+		<title>Rustbucket Rumble Champion</title>
+		<creator>Sloppy Derrick Blade</creator>
+		<relatedgames />
+	</game>
+	<game id="17009687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/09/2012">
+		<thumbnail>/gamecreators/images2/Academic/Penelope/Licorice/17009687.jpg</thumbnail>
+		<title>Robot Adventure Beast</title>
+		<creator>Academic Penelope Licorice</creator>
+		<relatedgames />
+	</game>
+	<game id="17387959" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Bold/Ian/Cactus/17387959.jpg</thumbnail>
+		<title>Alien Adventure Robot</title>
+		<creator>Bold Ian Cactus</creator>
+		<relatedgames />
+	</game>
+	<game id="17033336" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/17/2012">
+		<thumbnail>/gamecreators/images2/Epic/Igor/Minotaur/17033336.jpg</thumbnail>
+		<title>Search Energy Chill</title>
+		<creator>Epic Igor Minotaur</creator>
+		<relatedgames />
+	</game>
+	<game id="17003097" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/06/2012">
+		<thumbnail>/gamecreators/images2/Hypnotic/Tex/Scorpion/17003097.jpg</thumbnail>
+		<title>Storm Light Light</title>
+		<creator>Hypnotic Tex Scorpion</creator>
+		<relatedgames />
+	</game>
+	<game id="10939640" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Putrid/Tim/Paradox/10939640.jpg</thumbnail>
+		<title>Rocket Robot Robot</title>
+		<creator>Putrid Tim Paradox</creator>
+		<relatedgames />
+	</game>
+	<game id="17143652" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/20/2012">
+		<thumbnail>/gamecreators/images2/Negative/Luke/Omelet/17143652.jpg</thumbnail>
+		<title>Big Rustbucket Rumble</title>
+		<creator>Negative Luke Omelet</creator>
+		<relatedgames />
+	</game>
+	<game id="10069016" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Absurd/Zeus/Rumble/10069016.jpg</thumbnail>
+		<title>Adventure Drone Nova</title>
+		<creator>Absurd Zeus Rumble</creator>
+		<relatedgames />
+	</game>
+	<game id="10926958" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Twisty/Gavin/Seesaw/10926958.jpg</thumbnail>
+		<title>Adventure Smash Adventure</title>
+		<creator>Twisty Gavin Seesaw</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

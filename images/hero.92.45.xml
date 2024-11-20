@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17206021" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/10/2012">
+		<thumbnail>/gamecreators/images2/Volcanic/Gabriel/Tarragon/17206021.jpg</thumbnail>
+		<title>Adventure Attack Target</title>
+		<creator>Volcanic Gabriel Tarragon</creator>
+		<relatedgames />
+	</game>
+	<game id="17349390" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>/gamecreators/images2/Perilous/Heidi/Smidgen/17349390.jpg</thumbnail>
+		<title>Racer Energy Iron</title>
+		<creator>Perilous Heidi Smidgen</creator>
+		<relatedgames />
+	</game>
+	<game id="16937348" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/16/2012">
+		<thumbnail>/gamecreators/images2/Diagonal/Ben/Spark/16937348.jpg</thumbnail>
+		<title>Power Danger Slam</title>
+		<creator>Diagonal Ben Spark</creator>
+		<relatedgames />
+	</game>
+	<game id="10953624" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Witty/Madison/Squish/10953624.jpg</thumbnail>
+		<title>Power Spike Hyper</title>
+		<creator>Witty Madison Squish</creator>
+		<relatedgames />
+	</game>
+	<game id="16860071" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/30/2012">
+		<thumbnail>/gamecreators/images2/Flying/Nicholas/Rumble/16860071.jpg</thumbnail>
+		<title>Battle Spark Force</title>
+		<creator>Flying Nicholas Rumble</creator>
+		<relatedgames />
+	</game>
+	<game id="10068760" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Dynamic/Leopold/Wizard/10068760.jpg</thumbnail>
+		<title>Swampfire Mega Battle</title>
+		<creator>Dynamic Leopold Wizard</creator>
+		<relatedgames />
+	</game>
+	<game id="10046385" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Majestic/Chelsea/Squawk/10046385.jpg</thumbnail>
+		<title>Atomic Slam Space</title>
+		<creator>Majestic Chelsea Squawk</creator>
+		<relatedgames />
+	</game>
+	<game id="17335491" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Scurvy/Payton/Pelican/17335491.jpg</thumbnail>
+		<title>Plasma Magno Space</title>
+		<creator>Scurvy Payton Pelican</creator>
+		<relatedgames />
+	</game>
+	<game id="10919681" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Wise/Jasmine/Blob/10919681.jpg</thumbnail>
+		<title>Breaker Dark Challenge</title>
+		<creator>Wise Jasmine Blob</creator>
+		<relatedgames />
+	</game>
+	<game id="10017418" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Awesome/Travis/Kangaroo/10017418.jpg</thumbnail>
+		<title>Hyper Humongousaur Force</title>
+		<creator>Awesome Travis Kangaroo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

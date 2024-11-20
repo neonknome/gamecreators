@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16867305" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>/gamecreators/images2/Baron/Jose/Polka/16867305.jpg</thumbnail>
+		<title>Ultimate Rocket Nano</title>
+		<creator>Baron Jose Polka</creator>
+		<relatedgames />
+	</game>
+	<game id="10936061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Howling/Faith/Tusk/10936061.jpg</thumbnail>
+		<title>Power Adventure Solar</title>
+		<creator>Howling Faith Tusk</creator>
+		<relatedgames />
+	</game>
+	<game id="10058854" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Mighty/Tony/Goofball/10058854.jpg</thumbnail>
+		<title>Attack Force Mega</title>
+		<creator>Mighty Tony Goofball</creator>
+		<relatedgames />
+	</game>
+	<game id="10038692" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Atomic/Caleb/Bonkers/10038692.jpg</thumbnail>
+		<title>Breaker Galaxy Fire</title>
+		<creator>Atomic Caleb Bonkers</creator>
+		<relatedgames />
+	</game>
+	<game id="17584909" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Dizzy/Joshua/Deadbolt/17584909.jpg</thumbnail>
+		<title>Iron Alien Adventure</title>
+		<creator>Dizzy Joshua Deadbolt</creator>
+		<relatedgames />
+	</game>
+	<game id="10039334" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Gruesome/Will/Yodel/10039334.jpg</thumbnail>
+		<title>Steel Stone Titan</title>
+		<creator>Gruesome Will Yodel</creator>
+		<relatedgames />
+	</game>
+	<game id="17011631" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/09/2012">
+		<thumbnail>/gamecreators/images2/Foul/Richard/17011631.jpg</thumbnail>
+		<title>Waterhazard Fire Escape</title>
+		<creator>Foul Richard</creator>
+		<relatedgames />
+	</game>
+	<game id="10953425" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Rowdy/Mario/Pulse/10953425.jpg</thumbnail>
+		<title>Rumble Metal Drone</title>
+		<creator>Rowdy Mario Pulse</creator>
+		<relatedgames />
+	</game>
+	<game id="17365968" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>/gamecreators/images2/Athletic/Felipe/Macaroni/17365968.jpg</thumbnail>
+		<title>Alien Rumble Metal</title>
+		<creator>Athletic Felipe Macaroni</creator>
+		<relatedgames />
+	</game>
+	<game id="10952807" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Dynamic/Larry/Eggplant/10952807.jpg</thumbnail>
+		<title>Battle Turbo Shadow</title>
+		<creator>Dynamic Larry Eggplant</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

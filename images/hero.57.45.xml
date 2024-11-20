@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17335398" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Golden/Dominic/Giblets/17335398.jpg</thumbnail>
+		<title>Danger Champion Thunder</title>
+		<creator>Golden Dominic Giblets</creator>
+		<relatedgames />
+	</game>
+	<game id="16975781" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Radiant/Robert/Paladin/16975781.jpg</thumbnail>
+		<title>Adventure Spidermonkey Nitro</title>
+		<creator>Radiant Robert Paladin</creator>
+		<relatedgames />
+	</game>
+	<game id="10943281" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Alien/Brent/Starfish/10943281.jpg</thumbnail>
+		<title>Galaxy Pursuit Rescue</title>
+		<creator>Alien Brent Starfish</creator>
+		<relatedgames />
+	</game>
+	<game id="10917018" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Reliable/Victor/Whizbang/10917018.jpg</thumbnail>
+		<title>Solar Storm Chase</title>
+		<creator>Reliable Victor Whizbang</creator>
+		<relatedgames />
+	</game>
+	<game id="17215734" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/12/2012">
+		<thumbnail>/gamecreators/images2/Fair/Zeke/Badger/17215734.jpg</thumbnail>
+		<title>Swampfire Drone Battle</title>
+		<creator>Fair Zeke Badger</creator>
+		<relatedgames />
+	</game>
+	<game id="16958340" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/22/2012">
+		<thumbnail>/gamecreators/images2/Artful/Kate/Bongo/16958340.jpg</thumbnail>
+		<title>Storm Rocket Jetray</title>
+		<creator>Artful Kate Bongo</creator>
+		<relatedgames />
+	</game>
+	<game id="17257764" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>/gamecreators/images2/Dashing/Reuben/Knight/17257764.jpg</thumbnail>
+		<title>Ben Pursuit Titan</title>
+		<creator>Dashing Reuben Knight</creator>
+		<relatedgames />
+	</game>
+	<game id="17575180" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Grimy/Jesse/Zigzag/17575180.jpg</thumbnail>
+		<title>Defense Storm Pulse</title>
+		<creator>Grimy Jesse Zigzag</creator>
+		<relatedgames />
+	</game>
+	<game id="16883820" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/04/2012">
+		<thumbnail>/gamecreators/images2/Fiery/James/Cyclone/16883820.jpg</thumbnail>
+		<title>Warp Waterhazard Adventure</title>
+		<creator>Fiery James Cyclone</creator>
+		<relatedgames />
+	</game>
+	<game id="17089029" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/04/2012">
+		<thumbnail>/gamecreators/images2/Regular/Andrea/Fandango/17089029.jpg</thumbnail>
+		<title>Rumble Adventure Vilgax</title>
+		<creator>Regular Andrea Fandango</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

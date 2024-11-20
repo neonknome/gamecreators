@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10043219" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Fizzy/Latoya/Hologram/10043219.jpg</thumbnail>
+		<title>Razor Adventure Attack</title>
+		<creator>Fizzy Latoya Hologram</creator>
+		<relatedgames />
+	</game>
+	<game id="10926589" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dynamic/Celeste/Dolphin/10926589.jpg</thumbnail>
+		<title>Adventure Racer Shadow</title>
+		<creator>Dynamic Celeste Dolphin</creator>
+		<relatedgames />
+	</game>
+	<game id="10953091" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Magnetic/Jackie/Turbo/10953091.jpg</thumbnail>
+		<title>Ultimate Earth Rumble</title>
+		<creator>Magnetic Jackie Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="10055993" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Scary/Leonardo/Droid/10055993.jpg</thumbnail>
+		<title>Earth Alien Adventure</title>
+		<creator>Scary Leonardo Droid</creator>
+		<relatedgames />
+	</game>
+	<game id="10043501" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Wily/Jackson/Umbrella/10043501.jpg</thumbnail>
+		<title>Alien Blaster Adventure</title>
+		<creator>Wily Jackson Umbrella</creator>
+		<relatedgames />
+	</game>
+	<game id="17379381" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Extinct/Jay/Dynamite/17379381.jpg</thumbnail>
+		<title>Star Animo Fusion</title>
+		<creator>Extinct Jay Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="17047482" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/22/2012">
+		<thumbnail>/gamecreators/images2/Intrepid/Alex/Acorn/17047482.jpg</thumbnail>
+		<title>Waterhazard Hyper Champion</title>
+		<creator>Intrepid Alex Acorn</creator>
+		<relatedgames />
+	</game>
+	<game id="17288430" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/01/2012">
+		<thumbnail>/gamecreators/images2/Queen/Lawrence/Eggplant/17288430.jpg</thumbnail>
+		<title>Ultimate Echo Echo</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames />
+	</game>
+	<game id="17308118" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>/gamecreators/images2/Noble/Justin/Halo/17308118.jpg</thumbnail>
+		<title>Breaker Rustbucket Earth</title>
+		<creator>Noble Justin Halo</creator>
+		<relatedgames />
+	</game>
+	<game id="17341198" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/15/2012">
+		<thumbnail>/gamecreators/images2/Admiral/Anna/Crater/17341198.jpg</thumbnail>
+		<title>Target Ultimate Ambush</title>
+		<creator>Admiral Anna Crater</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

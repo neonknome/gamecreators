@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10041441" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Jolly/Jack/Pelican/10041441.jpg</thumbnail>
+		<title>Dark Earth Doom</title>
+		<creator>Jolly Jack Pelican</creator>
+		<relatedgames />
+	</game>
+	<game id="17327386" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Radical/Romeo/Skeleton/17327386.jpg</thumbnail>
+		<title>Adventure Attack Solar</title>
+		<creator>Radical Romeo Skeleton</creator>
+		<relatedgames />
+	</game>
+	<game id="17350933" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Gerard/Fez/17350933.jpg</thumbnail>
+		<title>Ultimate Big Chill</title>
+		<creator>Ultimate Gerard Fez</creator>
+		<relatedgames />
+	</game>
+	<game id="17391022" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Curious/Steven/Catapult/17391022.jpg</thumbnail>
+		<title>Ultimate Big Chill</title>
+		<creator>Curious Steven Catapult</creator>
+		<relatedgames />
+	</game>
+	<game id="16898008" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/07/2012">
+		<thumbnail>/gamecreators/images2/Bright/Bryce/Neptune/16898008.jpg</thumbnail>
+		<title>Turbo Crusher Swampfire</title>
+		<creator>Bright Bryce Neptune</creator>
+		<relatedgames />
+	</game>
+	<game id="17260152" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>/gamecreators/images2/Radiant/Mckenzie/Kungfu/17260152.jpg</thumbnail>
+		<title>Alien Escape Assault</title>
+		<creator>Radiant Mckenzie Kungfu</creator>
+		<relatedgames />
+	</game>
+	<game id="10952813" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Babbling/Adam/Buckaroo/10952813.jpg</thumbnail>
+		<title>Fury Spark Galaxy</title>
+		<creator>Babbling Adam Buckaroo</creator>
+		<relatedgames />
+	</game>
+	<game id="17416793" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Abnormal/Jackson/Hippo/17416793.jpg</thumbnail>
+		<title>Razor Attack Challenge</title>
+		<creator>Abnormal Jackson Hippo</creator>
+		<relatedgames />
+	</game>
+	<game id="17585253" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Elite/Nicolas/Crater/17585253.jpg</thumbnail>
+		<title>Universe Robot Storm</title>
+		<creator>Elite Nicolas Crater</creator>
+		<relatedgames />
+	</game>
+	<game id="10923558" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Humorous/Benjamin/Ballyhoo/10923558.jpg</thumbnail>
+		<title>Swampfire Hero Adventure</title>
+		<creator>Humorous Benjamin Ballyhoo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16860361" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/31/2012">
+		<thumbnail>/gamecreators/images2/Obvious/Cameron/Grackle/16860361.jpg</thumbnail>
+		<title>Titan Defense Whirlwind</title>
+		<creator>Obvious Cameron Grackle</creator>
+		<relatedgames />
+	</game>
+	<game id="10939122" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Daring/Bubba/Mustard/10939122.jpg</thumbnail>
+		<title>Adventure Shock Chase</title>
+		<creator>Daring Bubba Mustard</creator>
+		<relatedgames />
+	</game>
+	<game id="16886464" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/05/2012">
+		<thumbnail>/gamecreators/images2/Volcanic/Chowder/Cyborg/16886464.jpg</thumbnail>
+		<title>Ultra Spike Fusion</title>
+		<creator>Volcanic Chowder Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="10952722" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Burly/Tex/Quarry/10952722.jpg</thumbnail>
+		<title>Attack Rumble Pursuit</title>
+		<creator>Burly Tex Quarry</creator>
+		<relatedgames />
+	</game>
+	<game id="10068837" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Jumping/Hannah/Sphinx/10068837.jpg</thumbnail>
+		<title>Cosmic Metal Rampage</title>
+		<creator>Jumping Hannah Sphinx</creator>
+		<relatedgames />
+	</game>
+	<game id="16866155" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/31/2012">
+		<thumbnail>/gamecreators/images2/Skinny/Ryan/Skeleton/16866155.jpg</thumbnail>
+		<title>Lightning Atomic Razor</title>
+		<creator>Skinny Ryan Skeleton</creator>
+		<relatedgames />
+	</game>
+	<game id="10039310" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Absurd/Leonardo/Ladybug/10039310.jpg</thumbnail>
+		<title>Rescue Mission Assault</title>
+		<creator>Absurd Leonardo Ladybug</creator>
+		<relatedgames />
+	</game>
+	<game id="10945010" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Blue/Fred/Howler/10945010.jpg</thumbnail>
+		<title>Champion Rock Plasma</title>
+		<creator>Blue Fred Howler</creator>
+		<relatedgames />
+	</game>
+	<game id="17353328" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>/gamecreators/images2/Emperor/Taylor/Barnacle/17353328.jpg</thumbnail>
+		<title>Dark Drone Danger</title>
+		<creator>Emperor Taylor Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="16974843" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Husky/Lucius/Foul/16974843.jpg</thumbnail>
+		<title>Hyper Ben Solar</title>
+		<creator>Husky Lucius Foul</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

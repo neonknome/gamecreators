@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10953013" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Mumbling/Jared/Maestro/10953013.jpg</thumbnail>
+		<title>Ambush Rocket Plumber</title>
+		<creator>Mumbling Jared Maestro</creator>
+		<relatedgames />
+	</game>
+	<game id="17332505" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Evil/Parker/Planet/17332505.jpg</thumbnail>
+		<title>Mega Champion Robot</title>
+		<creator>Evil Parker Planet</creator>
+		<relatedgames />
+	</game>
+	<game id="10916801" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Sly/Michelle/Chipmunk/10916801.jpg</thumbnail>
+		<title>Warp Pulse Blaster</title>
+		<creator>Sly Michelle Chipmunk</creator>
+		<relatedgames />
+	</game>
+	<game id="17262259" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Active/Jesse/Javelin/17262259.jpg</thumbnail>
+		<title>Force Rocket Thunder</title>
+		<creator>Active Jesse Javelin</creator>
+		<relatedgames />
+	</game>
+	<game id="10699059" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2009">
+		<thumbnail>/gamecreators/images2/Bouncing/Elijah/Acrobat/10699059.jpg</thumbnail>
+		<title>Atomic Ultimate Nova</title>
+		<creator>Bouncing Elijah Acrobat</creator>
+		<relatedgames />
+	</game>
+	<game id="17327437" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Evil/Apollo/Barnacle/17327437.jpg</thumbnail>
+		<title>Warp Rocket Burst</title>
+		<creator>Evil Apollo Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="17299391" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/03/2012">
+		<thumbnail>/gamecreators/images2/Imperial/Calvin/Ruckus/17299391.jpg</thumbnail>
+		<title>Razor Adventure Plumber</title>
+		<creator>Imperial Calvin Ruckus</creator>
+		<relatedgames />
+	</game>
+	<game id="16935535" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/15/2012">
+		<thumbnail>/gamecreators/images2/Gorgeous/Earl/Shuriken/16935535.jpg</thumbnail>
+		<title>Vilgax Beast Rescue</title>
+		<creator>Gorgeous Earl Shuriken</creator>
+		<relatedgames />
+	</game>
+	<game id="17377503" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Nimble/Billy/Flywheel/17377503.jpg</thumbnail>
+		<title>Defense Rampage Terraspin</title>
+		<creator>Nimble Billy Flywheel</creator>
+		<relatedgames />
+	</game>
+	<game id="17200966" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/08/2012">
+		<thumbnail>/gamecreators/images2/Sloppy/Ronald/Tundra/17200966.jpg</thumbnail>
+		<title>Cannonbolt Spark Metal</title>
+		<creator>Sloppy Ronald Tundra</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

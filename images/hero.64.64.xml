@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16875579" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/02/2012">
+		<thumbnail>/gamecreators/images2/Spirited/Raymond/Moonbeam/16875579.jpg</thumbnail>
+		<title>Mega Shadow Alien</title>
+		<creator>Spirited Raymond Moonbeam</creator>
+		<relatedgames />
+	</game>
+	<game id="10952722" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Burly/Tex/Quarry/10952722.jpg</thumbnail>
+		<title>Attack Rumble Pursuit</title>
+		<creator>Burly Tex Quarry</creator>
+		<relatedgames />
+	</game>
+	<game id="10068837" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Jumping/Hannah/Sphinx/10068837.jpg</thumbnail>
+		<title>Cosmic Metal Rampage</title>
+		<creator>Jumping Hannah Sphinx</creator>
+		<relatedgames />
+	</game>
+	<game id="10925610" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Reckless/Hank/Stampede/10925610.jpg</thumbnail>
+		<title>Alien Warrior Adventure</title>
+		<creator>Reckless Hank Stampede</creator>
+		<relatedgames />
+	</game>
+	<game id="10940046" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Northern/Spencer/Sizzle/10940046.jpg</thumbnail>
+		<title>Adventure Nitro Battle</title>
+		<creator>Northern Spencer Sizzle</creator>
+		<relatedgames />
+	</game>
+	<game id="10952658" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Visible/Zachary/Scribble/10952658.jpg</thumbnail>
+		<title>Hex Assault Drone</title>
+		<creator>Visible Zachary Scribble</creator>
+		<relatedgames />
+	</game>
+	<game id="17239029" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>/gamecreators/images2/Bumbling/Don/Dragoon/17239029.jpg</thumbnail>
+		<title>Adventure Shadow Pursuit</title>
+		<creator>Bumbling Don Dragoon</creator>
+		<relatedgames />
+	</game>
+	<game id="17310250" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>/gamecreators/images2/Defiant/Mario/Blob/17310250.jpg</thumbnail>
+		<title>Chase Thunder Droid</title>
+		<creator>Defiant Mario Blob</creator>
+		<relatedgames />
+	</game>
+	<game id="10919184" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Fizzy/Laura/Tugboat/10919184.jpg</thumbnail>
+		<title>Siege Atomic Rush</title>
+		<creator>Fizzy Laura Tugboat</creator>
+		<relatedgames />
+	</game>
+	<game id="17324743" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Loopy/Autumn/Snorkel/17324743.jpg</thumbnail>
+		<title>Alien Pulse Universe</title>
+		<creator>Loopy Autumn Snorkel</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

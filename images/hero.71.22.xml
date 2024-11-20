@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17327552" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Fiery/Lisa/Rebel/17327552.jpg</thumbnail>
+		<title>Shadow Spidermonkey Warrior</title>
+		<creator>Fiery Lisa Rebel</creator>
+		<relatedgames />
+	</game>
+	<game id="17552388" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Drowzy/Finn/Fishbowl/17552388.jpg</thumbnail>
+		<title>Omniverse Cosmic Adventure</title>
+		<creator>Drowzy Finn Fishbowl</creator>
+		<relatedgames />
+	</game>
+	<game id="17555017" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Magical/Isaac/Enigma/17555017.jpg</thumbnail>
+		<title>Challenge Target Racer</title>
+		<creator>Magical Isaac Enigma</creator>
+		<relatedgames />
+	</game>
+	<game id="17293144" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>/gamecreators/images2/Savage/Erika/Tsunami/17293144.jpg</thumbnail>
+		<title>Titan Charge Quake</title>
+		<creator>Savage Erika Tsunami</creator>
+		<relatedgames />
+	</game>
+	<game id="10952930" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Western/Leon/Figment/10952930.jpg</thumbnail>
+		<title>Assault Streak Siege</title>
+		<creator>Western Leon Figment</creator>
+		<relatedgames />
+	</game>
+	<game id="10921871" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Atomic/Vanessa/Zip/10921871.jpg</thumbnail>
+		<title>Shadow Power Hyper</title>
+		<creator>Atomic Vanessa Zip</creator>
+		<relatedgames />
+	</game>
+	<game id="10055983" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Dreadful/Dawn/Mummy/10055983.jpg</thumbnail>
+		<title>Warrior Razor Nano</title>
+		<creator>Dreadful Dawn Mummy</creator>
+		<relatedgames />
+	</game>
+	<game id="10947072" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Happy/Devin/Macaroni/10947072.jpg</thumbnail>
+		<title>Invasion Thunder Mega</title>
+		<creator>Happy Devin Macaroni</creator>
+		<relatedgames />
+	</game>
+	<game id="10924158" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Frantic/Melissa/Porridge/10924158.jpg</thumbnail>
+		<title>Swampfire Techno Warp</title>
+		<creator>Frantic Melissa Porridge</creator>
+		<relatedgames />
+	</game>
+	<game id="17164092" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/27/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Scott/Calypso/17164092.jpg</thumbnail>
+		<title>Siege Dark Space</title>
+		<creator>Ultimate Scott Calypso</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

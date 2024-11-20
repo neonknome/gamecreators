@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17404821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Strong/Orlando/Buckaroo/17404821.jpg</thumbnail>
+		<title>Space Universe Swampfire</title>
+		<creator>Strong Orlando Buckaroo</creator>
+		<relatedgames />
+	</game>
+	<game id="10928166" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Chilly/Jeremy/Tractor/10928166.jpg</thumbnail>
+		<title>Nitro Storm Rush</title>
+		<creator>Chilly Jeremy Tractor</creator>
+		<relatedgames />
+	</game>
+	<game id="10926266" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fragrant/Mary/Mallard/10926266.jpg</thumbnail>
+		<title>Sonic Thunder Power</title>
+		<creator>Fragrant Mary Mallard</creator>
+		<relatedgames />
+	</game>
+	<game id="17362833" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2012">
+		<thumbnail>/gamecreators/images2/Pleasant/Alan/Gamer/17362833.jpg</thumbnail>
+		<title>Humungousaur Alien Danger</title>
+		<creator>Pleasant Alan Gamer</creator>
+		<relatedgames />
+	</game>
+	<game id="17423217" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>/gamecreators/images2/Major/Kelly/Beeswax/17423217.jpg</thumbnail>
+		<title>Rumble Streak Ben</title>
+		<creator>Major Kelly Beeswax</creator>
+		<relatedgames />
+	</game>
+	<game id="10935019" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wondrous/Connor/Troll/10935019.jpg</thumbnail>
+		<title>Laser Fire Titan</title>
+		<creator>Wondrous Connor Troll</creator>
+		<relatedgames />
+	</game>
+	<game id="17503975" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>/gamecreators/images2/Prolific/Cole/Sprout/17503975.jpg</thumbnail>
+		<title>Rocket Breaker Galaxy</title>
+		<creator>Prolific Cole Sprout</creator>
+		<relatedgames />
+	</game>
+	<game id="10942215" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Dynamic/Ronald/Cyborg/10942215.jpg</thumbnail>
+		<title>Laser Smash Light</title>
+		<creator>Dynamic Ronald Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="17402198" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>/gamecreators/images2/Comical/CJ/Confetti/17402198.jpg</thumbnail>
+		<title>Shadow Hex Rescue</title>
+		<creator>Comical CJ Confetti</creator>
+		<relatedgames />
+	</game>
+	<game id="10947844" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Funky/William/Buckaroo/10947844.jpg</thumbnail>
+		<title>Defense Light Atomic</title>
+		<creator>Funky William Buckaroo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

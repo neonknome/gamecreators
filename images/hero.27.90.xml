@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17379329" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Quirky/Aiden/Moonbeam/17379329.jpg</thumbnail>
+		<title>Iron Iron Gear</title>
+		<creator>Quirky Aiden Moonbeam</creator>
+		<relatedgames />
+	</game>
+	<game id="10786277" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>/gamecreators/images2/Crispy/Michael/Spider/10786277.jpg</thumbnail>
+		<title>Titan Rescue Burst</title>
+		<creator>Crispy Michael Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="10929377" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Valiant/Tom/Paradox/10929377.jpg</thumbnail>
+		<title>Rocket Drone Champion</title>
+		<creator>Valiant Tom Paradox</creator>
+		<relatedgames />
+	</game>
+	<game id="10930706" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Daring/Will/Safari/10930706.jpg</thumbnail>
+		<title>Ultra Metal Burst</title>
+		<creator>Daring Will Safari</creator>
+		<relatedgames />
+	</game>
+	<game id="10921861" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Green/Gladys/Droid/10921861.jpg</thumbnail>
+		<title>Razor Mega Power</title>
+		<creator>Green Gladys Droid</creator>
+		<relatedgames />
+	</game>
+	<game id="10055807" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Sneaky/Jackie/Dodo/10055807.jpg</thumbnail>
+		<title>Power Power Pursuit</title>
+		<creator>Sneaky Jackie Dodo</creator>
+		<relatedgames />
+	</game>
+	<game id="9954610" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Red/Jordan/Squawk/9954610.jpg</thumbnail>
+		<title>Drone Stone Ambush</title>
+		<creator>Red Jordan Squawk</creator>
+		<relatedgames />
+	</game>
+	<game id="17339599" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/15/2012">
+		<thumbnail>/gamecreators/images2/Amusing/Otto/Blob/17339599.jpg</thumbnail>
+		<title>Assault Nano Whirlwind</title>
+		<creator>Amusing Otto Blob</creator>
+		<relatedgames />
+	</game>
+	<game id="16918793" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>/gamecreators/images2/Grand/Xavier/Ooze/16918793.jpg</thumbnail>
+		<title>Chill Adventure Rocket</title>
+		<creator>Grand Xavier Ooze</creator>
+		<relatedgames />
+	</game>
+	<game id="10056062" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Colorful/Aidan/Avocado/10056062.jpg</thumbnail>
+		<title>Atomic Magno Spark</title>
+		<creator>Colorful Aidan Avocado</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

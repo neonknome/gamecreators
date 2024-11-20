@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17567998" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Verbose/Sam/Quasar/17567998.jpg</thumbnail>
+		<title>Mission Techno Nano</title>
+		<creator>Verbose Sam Quasar</creator>
+		<relatedgames />
+	</game>
+	<game id="10952545" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Eloquent/Blake/Fishbowl/10952545.jpg</thumbnail>
+		<title>Sonic Light Adventure</title>
+		<creator>Eloquent Blake Fishbowl</creator>
+		<relatedgames />
+	</game>
+	<game id="10924276" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Surreal/Leonardo/Gargoyle/10924276.jpg</thumbnail>
+		<title>Charge Dark Danger</title>
+		<creator>Surreal Leonardo Gargoyle</creator>
+		<relatedgames />
+	</game>
+	<game id="10923562" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Mumbling/Spencer/Stampede/10923562.jpg</thumbnail>
+		<title>Razor Rustbucket Adventure</title>
+		<creator>Mumbling Spencer Stampede</creator>
+		<relatedgames />
+	</game>
+	<game id="10946279" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Sincere/Diego/Obelisk/10946279.jpg</thumbnail>
+		<title>Rescue Alien Hex</title>
+		<creator>Sincere Diego Obelisk</creator>
+		<relatedgames />
+	</game>
+	<game id="17377839" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Able/Michelle/Splat/17377839.jpg</thumbnail>
+		<title>Adventure Atomic Champion</title>
+		<creator>Able Michelle Splat</creator>
+		<relatedgames />
+	</game>
+	<game id="10922314" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Bashful/Elroy/Sprout/10922314.jpg</thumbnail>
+		<title>Assault Shadow Droid</title>
+		<creator>Bashful Elroy Sprout</creator>
+		<relatedgames />
+	</game>
+	<game id="10951563" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Elegant/Marissa/Tornado/10951563.jpg</thumbnail>
+		<title>Cosmic Stone Stone</title>
+		<creator>Elegant Marissa Tornado</creator>
+		<relatedgames />
+	</game>
+	<game id="10948824" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Humble/Tabitha/Mahogany/10948824.jpg</thumbnail>
+		<title>Adventure Mega Sonic</title>
+		<creator>Humble Tabitha Mahogany</creator>
+		<relatedgames />
+	</game>
+	<game id="10921330" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Modest/Shawn/Doodle/10921330.jpg</thumbnail>
+		<title>Steel Breaker Earth</title>
+		<creator>Modest Shawn Doodle</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17569997" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Brisk/Aubrey/Camel/17569997.jpg</thumbnail>
+		<title>Hero Rush Alien</title>
+		<creator>Brisk Aubrey Camel</creator>
+		<relatedgames />
+	</game>
+	<game id="10952905" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Jolly/Bryan/Kook/10952905.jpg</thumbnail>
+		<title>Laser Plasma Challenge</title>
+		<creator>Jolly Bryan Kook</creator>
+		<relatedgames />
+	</game>
+	<game id="10952855" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Normal/Mario/Cobra/10952855.jpg</thumbnail>
+		<title>Nova Alien Invasion</title>
+		<creator>Normal Mario Cobra</creator>
+		<relatedgames />
+	</game>
+	<game id="10951833" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Loony/Hunter/Penguin/10951833.jpg</thumbnail>
+		<title>Atomic Adventure Galaxy</title>
+		<creator>Loony Hunter Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="17585359" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Verbose/Wilt/Bucket/17585359.jpg</thumbnail>
+		<title>Ben Blaster Beast</title>
+		<creator>Verbose Wilt Bucket</creator>
+		<relatedgames />
+	</game>
+	<game id="10926182" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Brawny/Sara/Galaxy/10926182.jpg</thumbnail>
+		<title>Rock Swampfire Magno</title>
+		<creator>Brawny Sara Galaxy</creator>
+		<relatedgames />
+	</game>
+	<game id="17404295" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Squishy/Johnny/Toenail/17404295.jpg</thumbnail>
+		<title>Robot Laser Adventure</title>
+		<creator>Squishy Johnny Toenail</creator>
+		<relatedgames />
+	</game>
+	<game id="17261205" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>/gamecreators/images2/Dashing/Reuben/Knight/17261205.jpg</thumbnail>
+		<title>Plumber Storm Energy</title>
+		<creator>Dashing Reuben Knight</creator>
+		<relatedgames />
+	</game>
+	<game id="17220625" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Carefree/Penelope/Banshee/17220625.jpg</thumbnail>
+		<title>Clash Universe Giga</title>
+		<creator>Carefree Penelope Banshee</creator>
+		<relatedgames />
+	</game>
+	<game id="16893781" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/06/2012">
+		<thumbnail>/gamecreators/images2/Fiery/James/Cyclone/16893781.jpg</thumbnail>
+		<title>Mega Big Doom</title>
+		<creator>Fiery James Cyclone</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

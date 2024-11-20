@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10929416" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Elegant/Crystal/Barnacle/10929416.jpg</thumbnail>
+		<title>Iron Universe Space</title>
+		<creator>Elegant Crystal Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="10930706" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Daring/Will/Safari/10930706.jpg</thumbnail>
+		<title>Ultra Metal Burst</title>
+		<creator>Daring Will Safari</creator>
+		<relatedgames />
+	</game>
+	<game id="17323066" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Capable/Marvin/Brick/17323066.jpg</thumbnail>
+		<title>Fury Clash Lightning</title>
+		<creator>Capable Marvin Brick</creator>
+		<relatedgames />
+	</game>
+	<game id="17216790" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>/gamecreators/images2/Feral/Jasmine/Llama/17216790.jpg</thumbnail>
+		<title>Rampage Pulse Droid</title>
+		<creator>Feral Jasmine Llama</creator>
+		<relatedgames />
+	</game>
+	<game id="17341141" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/15/2012">
+		<thumbnail>/gamecreators/images2/King/Edward/Robot/17341141.jpg</thumbnail>
+		<title>Breaker Siege Earth</title>
+		<creator>King Edward Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="9954610" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Red/Jordan/Squawk/9954610.jpg</thumbnail>
+		<title>Drone Stone Ambush</title>
+		<creator>Red Jordan Squawk</creator>
+		<relatedgames />
+	</game>
+	<game id="17339599" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/15/2012">
+		<thumbnail>/gamecreators/images2/Amusing/Otto/Blob/17339599.jpg</thumbnail>
+		<title>Assault Nano Whirlwind</title>
+		<creator>Amusing Otto Blob</creator>
+		<relatedgames />
+	</game>
+	<game id="10938998" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Royal/Cameron/Cupcake/10938998.jpg</thumbnail>
+		<title>Ultra Hero Attack</title>
+		<creator>Royal Cameron Cupcake</creator>
+		<relatedgames />
+	</game>
+	<game id="10923154" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wacky/Carson/Volcano/10923154.jpg</thumbnail>
+		<title>Adventure Target Battle</title>
+		<creator>Wacky Carson Volcano</creator>
+		<relatedgames />
+	</game>
+	<game id="17287999" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/01/2012">
+		<thumbnail>/gamecreators/images2/Digital/Milo/Cartoon/17287999.jpg</thumbnail>
+		<title>Rush Streak Swampfire</title>
+		<creator>Digital Milo Cartoon</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

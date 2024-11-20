@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10952604" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Obvious/Megan/Octopus/10952604.jpg</thumbnail>
+		<title>Escape Thunder Defense</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames />
+	</game>
+	<game id="17551777" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Splendid/Caitlin/Denizen/17551777.jpg</thumbnail>
+		<title>Drone Mission Warrior</title>
+		<creator>Splendid Caitlin Denizen</creator>
+		<relatedgames />
+	</game>
+	<game id="17223549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Cackling/Cory/Avator/17223549.jpg</thumbnail>
+		<title>Universe Energy Power</title>
+		<creator>Cackling Cory Avator</creator>
+		<relatedgames />
+	</game>
+	<game id="10948032" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Feisty/Bailey/Skylark/10948032.jpg</thumbnail>
+		<title>Smash Shock Atomic</title>
+		<creator>Feisty Bailey Skylark</creator>
+		<relatedgames />
+	</game>
+	<game id="17279545" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Jumping/Nick/Avocado/17279545.jpg</thumbnail>
+		<title>Power Power Power</title>
+		<creator>Jumping Nick Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="16974309" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Obscure/Julian/Charger/16974309.jpg</thumbnail>
+		<title>Charge Plumber Vilgax</title>
+		<creator>Obscure Julian Charger</creator>
+		<relatedgames />
+	</game>
+	<game id="10039272" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Loud/Steven/Charger/10039272.jpg</thumbnail>
+		<title>Power Metal Attack</title>
+		<creator>Loud Steven Charger</creator>
+		<relatedgames />
+	</game>
+	<game id="17552616" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Volcanic/Alvin/Meteor/17552616.jpg</thumbnail>
+		<title>Vilgax Doom Laser</title>
+		<creator>Volcanic Alvin Meteor</creator>
+		<relatedgames />
+	</game>
+	<game id="10935329" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Burly/Crystal/Fritter/10935329.jpg</thumbnail>
+		<title>Shadow Champion Invasion</title>
+		<creator>Burly Crystal Fritter</creator>
+		<relatedgames />
+	</game>
+	<game id="17323118" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Stout/Herman/Aardvark/17323118.jpg</thumbnail>
+		<title>Lightning Hyper Dark</title>
+		<creator>Stout Herman Aardvark</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

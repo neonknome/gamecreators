@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10930625" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Towering/Matthew/Hedgehog/10930625.jpg</thumbnail>
+		<title>Dark Siege Earth</title>
+		<creator>Towering Matthew Hedgehog</creator>
+		<relatedgames />
+	</game>
+	<game id="10033590" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Bashful/Penny/Orca/10033590.jpg</thumbnail>
+		<title>Droid Adventure Fire</title>
+		<creator>Bashful Penny Orca</creator>
+		<relatedgames />
+	</game>
+	<game id="17407363" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>/gamecreators/images2/Adept/Biff/Quark/17407363.jpg</thumbnail>
+		<title>Atomic Earth Plasma</title>
+		<creator>Adept Biff Quark</creator>
+		<relatedgames />
+	</game>
+	<game id="17214957" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/12/2012">
+		<thumbnail>/gamecreators/images2/Crazy/Payton/Shadow/17214957.jpg</thumbnail>
+		<title>Alien Invasion Breaker</title>
+		<creator>Crazy Payton Shadow</creator>
+		<relatedgames />
+	</game>
+	<game id="10063345" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Infamous/Florence/Crumpet/10063345.jpg</thumbnail>
+		<title>Adventure Razor Blaster</title>
+		<creator>Infamous Florence Crumpet</creator>
+		<relatedgames />
+	</game>
+	<game id="17336642" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Quaint/Freddy/Oddball/17336642.jpg</thumbnail>
+		<title>Universe Pulse Vilgax</title>
+		<creator>Quaint Freddy Oddball</creator>
+		<relatedgames />
+	</game>
+	<game id="17034253" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/17/2012">
+		<thumbnail>/gamecreators/images2/Tough/Connor/Sword/17034253.jpg</thumbnail>
+		<title>Chill Ultimate Attack</title>
+		<creator>Tough Connor Sword</creator>
+		<relatedgames />
+	</game>
+	<game id="10938101" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Nimble/Lillian/Robot/10938101.jpg</thumbnail>
+		<title>Swampfire Iron Invasion</title>
+		<creator>Nimble Lillian Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="17239311" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>/gamecreators/images2/Active/Chip/Mango/17239311.jpg</thumbnail>
+		<title>Ultimate Turbo Spidermonkey</title>
+		<creator>Active Chip Mango</creator>
+		<relatedgames />
+	</game>
+	<game id="10953085" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Cranky/Robin/Sardine/10953085.jpg</thumbnail>
+		<title>Earth Slam Shock</title>
+		<creator>Cranky Robin Sardine</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

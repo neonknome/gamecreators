@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17404295" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Squishy/Johnny/Toenail/17404295.jpg</thumbnail>
+		<title>Robot Laser Adventure</title>
+		<creator>Squishy Johnny Toenail</creator>
+		<relatedgames />
+	</game>
+	<game id="17013289" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>/gamecreators/images2/Artful/Michael/Ostrich/17013289.jpg</thumbnail>
+		<title>Escape Magno Breaker</title>
+		<creator>Artful Michael Ostrich</creator>
+		<relatedgames />
+	</game>
+	<game id="17220625" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Carefree/Penelope/Banshee/17220625.jpg</thumbnail>
+		<title>Clash Universe Giga</title>
+		<creator>Carefree Penelope Banshee</creator>
+		<relatedgames />
+	</game>
+	<game id="10938061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Lively/Felix/Cipher/10938061.jpg</thumbnail>
+		<title>Racer Universe Sonic</title>
+		<creator>Lively Felix Cipher</creator>
+		<relatedgames />
+	</game>
+	<game id="17353438" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>/gamecreators/images2/Hardy/Skips/Knight/17353438.jpg</thumbnail>
+		<title>Robot Alien Ambush</title>
+		<creator>Hardy Skips Knight</creator>
+		<relatedgames />
+	</game>
+	<game id="17225306" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>/gamecreators/images2/Omar/Apple/17225306.jpg</thumbnail>
+		<title>Charge Assault Stone</title>
+		<creator>Omar Apple</creator>
+		<relatedgames />
+	</game>
+	<game id="10927809" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Sporty/Helga/Cyborg/10927809.jpg</thumbnail>
+		<title>Ben Challenge Spark</title>
+		<creator>Sporty Helga Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="17319388" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/09/2012">
+		<thumbnail>/gamecreators/images2/Evil/Keith/Dynamite/17319388.jpg</thumbnail>
+		<title>Chase Blaster Smash</title>
+		<creator>Evil Keith Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="17017938" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>/gamecreators/images2/Gothic/Sara/Weasel/17017938.jpg</thumbnail>
+		<title>Rush Cosmic Adventure</title>
+		<creator>Gothic Sara Weasel</creator>
+		<relatedgames />
+	</game>
+	<game id="10066861" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Sly/Cole/Holler/10066861.jpg</thumbnail>
+		<title>Siege Razor Warrior</title>
+		<creator>Sly Cole Holler</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

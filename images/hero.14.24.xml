@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17136703" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/18/2012">
+		<thumbnail>/gamecreators/images2/Verbose/Oscar/Glitch/17136703.jpg</thumbnail>
+		<title>Invasion Adventure Rush</title>
+		<creator>Verbose Oscar Glitch</creator>
+		<relatedgames />
+	</game>
+	<game id="17568465" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Brawny/Michael/Dragoon/17568465.jpg</thumbnail>
+		<title>Energy Stone Rocket</title>
+		<creator>Brawny Michael Dragoon</creator>
+		<relatedgames />
+	</game>
+	<game id="10936243" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Squishy/Bob/Fishbowl/10936243.jpg</thumbnail>
+		<title>Titan Alien Warp</title>
+		<creator>Squishy Bob Fishbowl</creator>
+		<relatedgames />
+	</game>
+	<game id="17217964" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>/gamecreators/images2/Carefree/Penelope/Banshee/17217964.jpg</thumbnail>
+		<title>Animo Lightning Danger</title>
+		<creator>Carefree Penelope Banshee</creator>
+		<relatedgames />
+	</game>
+	<game id="10919856" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Leaping/Derek/Elf/10919856.jpg</thumbnail>
+		<title>Spark Lightning Warrior</title>
+		<creator>Leaping Derek Elf</creator>
+		<relatedgames />
+	</game>
+	<game id="10949020" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Odd/Sean/Mustang/10949020.jpg</thumbnail>
+		<title>Nano Giga Ambush</title>
+		<creator>Odd Sean Mustang</creator>
+		<relatedgames />
+	</game>
+	<game id="10056052" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Ghastly/Phil/Cyborg/10056052.jpg</thumbnail>
+		<title>Plasma Galaxy Adventure</title>
+		<creator>Ghastly Phil Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="17374179" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>/gamecreators/images2/Modest/Juliet/Horsefly/17374179.jpg</thumbnail>
+		<title>Hyper Dark Shadow</title>
+		<creator>Modest Juliet Horsefly</creator>
+		<relatedgames />
+	</game>
+	<game id="17160674" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/26/2012">
+		<thumbnail>/gamecreators/images2/Silly/Franklin/Foghorn/17160674.jpg</thumbnail>
+		<title>Adventure Earth Patrol</title>
+		<creator>Silly Franklin Foghorn</creator>
+		<relatedgames />
+	</game>
+	<game id="16993737" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>/gamecreators/images2/Baroness/Anna/Beast/16993737.jpg</thumbnail>
+		<title>Rescue Techno Fusion</title>
+		<creator>Baroness Anna Beast</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

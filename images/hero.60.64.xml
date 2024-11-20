@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16947434" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>/gamecreators/images2/Classic/Bill/Doodle/16947434.jpg</thumbnail>
+		<title>Ambush Rustbucket Light</title>
+		<creator>Classic Bill Doodle</creator>
+		<relatedgames />
+	</game>
+	<game id="10937475" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Frantic/Hayden/Sawtooth/10937475.jpg</thumbnail>
+		<title>Warrior Blaster Mission</title>
+		<creator>Frantic Hayden Sawtooth</creator>
+		<relatedgames />
+	</game>
+	<game id="10936585" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Rugged/Dakota/Doodle/10936585.jpg</thumbnail>
+		<title>Robot Rumble Rampage</title>
+		<creator>Rugged Dakota Doodle</creator>
+		<relatedgames />
+	</game>
+	<game id="10028568" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Atomic/Harvey/Aardvark/10028568.jpg</thumbnail>
+		<title>Fire Spike Search</title>
+		<creator>Atomic Harvey Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="17262679" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Shaggy/Vladimir/Crowbar/17262679.jpg</thumbnail>
+		<title>Big Adventure Universe</title>
+		<creator>Shaggy Vladimir Crowbar</creator>
+		<relatedgames />
+	</game>
+	<game id="10926266" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fragrant/Mary/Mallard/10926266.jpg</thumbnail>
+		<title>Sonic Thunder Power</title>
+		<creator>Fragrant Mary Mallard</creator>
+		<relatedgames />
+	</game>
+	<game id="17363715" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>/gamecreators/images2/Babbling/Brett/Nonsense/17363715.jpg</thumbnail>
+		<title>Space Spark Nano</title>
+		<creator>Babbling Brett Nonsense</creator>
+		<relatedgames />
+	</game>
+	<game id="10929106" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Eager/Madeline/Barnacle/10929106.jpg</thumbnail>
+		<title>Racer Rocket Crusher</title>
+		<creator>Eager Madeline Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="10705689" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Honest/Adrian/Shark/10705689.jpg</thumbnail>
+		<title>Ultra Target Danger</title>
+		<creator>Honest Adrian Shark</creator>
+		<relatedgames />
+	</game>
+	<game id="17220400" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Cunning/Sofia/Pinball/17220400.jpg</thumbnail>
+		<title>Earth Pursuit Warrior</title>
+		<creator>Cunning Sofia Pinball</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

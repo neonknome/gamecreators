@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10952919" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Blue/Jeffrey/Bullfrog/10952919.jpg</thumbnail>
+		<title>Hyper Invasion Rampage</title>
+		<creator>Blue Jeffrey Bullfrog</creator>
+		<relatedgames />
+	</game>
+	<game id="10953277" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Southern/Shelby/Saber/10953277.jpg</thumbnail>
+		<title>Nova Thunder Vilgax</title>
+		<creator>Southern Shelby Saber</creator>
+		<relatedgames />
+	</game>
+	<game id="17345648" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2012">
+		<thumbnail>/gamecreators/images2/Agile/Hannah/Balloon/17345648.jpg</thumbnail>
+		<title>Magno Ben Hex</title>
+		<creator>Agile Hannah Balloon</creator>
+		<relatedgames />
+	</game>
+	<game id="10045066" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Crispy/Wilma/Turbo/10045066.jpg</thumbnail>
+		<title>Rock Rustbucket Rustbucket</title>
+		<creator>Crispy Wilma Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="10039264" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Brawny/Benjamin/Dolphin/10039264.jpg</thumbnail>
+		<title>Spike Beast Chase</title>
+		<creator>Brawny Benjamin Dolphin</creator>
+		<relatedgames />
+	</game>
+	<game id="10936465" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Itchy/Cameron/Blammo/10936465.jpg</thumbnail>
+		<title>Pursuit Earth Thunder</title>
+		<creator>Itchy Cameron Blammo</creator>
+		<relatedgames />
+	</game>
+	<game id="17223749" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Quick/Chuck/Cobweb/17223749.jpg</thumbnail>
+		<title>Techno Stone Fusion</title>
+		<creator>Quick Chuck Cobweb</creator>
+		<relatedgames />
+	</game>
+	<game id="10650024" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Dynamic/Cody/Bullfrog/10650024.jpg</thumbnail>
+		<title>Universe Adventure Attack</title>
+		<creator>Dynamic Cody Bullfrog</creator>
+		<relatedgames />
+	</game>
+	<game id="16840527" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/25/2012">
+		<thumbnail>/gamecreators/images2/Electric/Jeffrey/Wingding/16840527.jpg</thumbnail>
+		<title>Crusher Energy Rampage</title>
+		<creator>Electric Jeffrey Wingding</creator>
+		<relatedgames />
+	</game>
+	<game id="17327969" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Howling/Seth/Virtuoso/17327969.jpg</thumbnail>
+		<title>Fire Drone Adventure</title>
+		<creator>Howling Seth Virtuoso</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

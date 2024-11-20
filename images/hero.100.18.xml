@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10936243" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Squishy/Bob/Fishbowl/10936243.jpg</thumbnail>
+		<title>Titan Alien Warp</title>
+		<creator>Squishy Bob Fishbowl</creator>
+		<relatedgames />
+	</game>
+	<game id="17217964" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>/gamecreators/images2/Carefree/Penelope/Banshee/17217964.jpg</thumbnail>
+		<title>Animo Lightning Danger</title>
+		<creator>Carefree Penelope Banshee</creator>
+		<relatedgames />
+	</game>
+	<game id="10919856" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Leaping/Derek/Elf/10919856.jpg</thumbnail>
+		<title>Spark Lightning Warrior</title>
+		<creator>Leaping Derek Elf</creator>
+		<relatedgames />
+	</game>
+	<game id="17381279" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>/gamecreators/images2/Elegant/Mac/Unicycle/17381279.jpg</thumbnail>
+		<title>Vilgax Plumber Racer</title>
+		<creator>Elegant Mac Unicycle</creator>
+		<relatedgames />
+	</game>
+	<game id="10056052" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Ghastly/Phil/Cyborg/10056052.jpg</thumbnail>
+		<title>Plasma Galaxy Adventure</title>
+		<creator>Ghastly Phil Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="17374179" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>/gamecreators/images2/Modest/Juliet/Horsefly/17374179.jpg</thumbnail>
+		<title>Hyper Dark Shadow</title>
+		<creator>Modest Juliet Horsefly</creator>
+		<relatedgames />
+	</game>
+	<game id="17574176" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Evil/Brandon/Rhombus/17574176.jpg</thumbnail>
+		<title>Rocket Search Siege</title>
+		<creator>Evil Brandon Rhombus</creator>
+		<relatedgames />
+	</game>
+	<game id="10930921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Sly/Aaron/Goulash/10930921.jpg</thumbnail>
+		<title>Nitro Razor Rampage</title>
+		<creator>Sly Aaron Goulash</creator>
+		<relatedgames />
+	</game>
+	<game id="17558739" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Bold/Jimmy/Biscuit/17558739.jpg</thumbnail>
+		<title>Omniverse Big Champion</title>
+		<creator>Bold Jimmy Biscuit</creator>
+		<relatedgames />
+	</game>
+	<game id="17014033" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>/gamecreators/images2/Epic/Peter/Possum/17014033.jpg</thumbnail>
+		<title>Ultra Ultimate Energy</title>
+		<creator>Epic Peter Possum</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

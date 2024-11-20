@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10951531" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Stately/Benjamin/Galaxy/10951531.jpg</thumbnail>
+		<title>Mega Titan Search</title>
+		<creator>Stately Benjamin Galaxy</creator>
+		<relatedgames />
+	</game>
+	<game id="10040351" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Chaotic/Bert/Lavender/10040351.jpg</thumbnail>
+		<title>Adventure Doom Mission</title>
+		<creator>Chaotic Bert Lavender</creator>
+		<relatedgames />
+	</game>
+	<game id="17335970" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Average/Owen/Monster/17335970.jpg</thumbnail>
+		<title>Mega Quake Fusion</title>
+		<creator>Average Owen Monster</creator>
+		<relatedgames />
+	</game>
+	<game id="10953267" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Orange/Donald/Pinwheel/10953267.jpg</thumbnail>
+		<title>Storm Hex Space</title>
+		<creator>Orange Donald Pinwheel</creator>
+		<relatedgames />
+	</game>
+	<game id="17383792" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Magical/Otis/Vitamin/17383792.jpg</thumbnail>
+		<title>Vilgax Alien Universe</title>
+		<creator>Magical Otis Vitamin</creator>
+		<relatedgames />
+	</game>
+	<game id="10937150" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Western/Tommy/Starfish/10937150.jpg</thumbnail>
+		<title>Fusion Razor Light</title>
+		<creator>Western Tommy Starfish</creator>
+		<relatedgames />
+	</game>
+	<game id="17370463" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>/gamecreators/images2/Positive/Adam/Cinnamon/17370463.jpg</thumbnail>
+		<title>Atomic Iron Defense</title>
+		<creator>Positive Adam Cinnamon</creator>
+		<relatedgames />
+	</game>
+	<game id="10918517" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Stylish/Matthew/Acrobat/10918517.jpg</thumbnail>
+		<title>Iron Challenge Chase</title>
+		<creator>Stylish Matthew Acrobat</creator>
+		<relatedgames />
+	</game>
+	<game id="10922333" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Zany/Drew/Hippo/10922333.jpg</thumbnail>
+		<title>Dark Star Ultra</title>
+		<creator>Zany Drew Hippo</creator>
+		<relatedgames />
+	</game>
+	<game id="10934445" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Clever/Avery/Coconut/10934445.jpg</thumbnail>
+		<title>Animo Power Robot</title>
+		<creator>Clever Avery Coconut</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

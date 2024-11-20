@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17000233" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/05/2012">
+		<thumbnail>/gamecreators/images2/Artful/Julia/Mars/17000233.jpg</thumbnail>
+		<title>Adventure Cosmic Alien</title>
+		<creator>Artful Julia Mars</creator>
+		<relatedgames />
+	</game>
+	<game id="10927817" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Grimy/Blake/Tornado/10927817.jpg</thumbnail>
+		<title>Patrol Energy Magno</title>
+		<creator>Grimy Blake Tornado</creator>
+		<relatedgames />
+	</game>
+	<game id="10045421" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Nomadic/Augustus/Nacho/10045421.jpg</thumbnail>
+		<title>Solar Rocket Atomic</title>
+		<creator>Nomadic Augustus Nacho</creator>
+		<relatedgames />
+	</game>
+	<game id="10055801" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Lanky/Ted/Phantom/10055801.jpg</thumbnail>
+		<title>Galaxy Shadow Rush</title>
+		<creator>Lanky Ted Phantom</creator>
+		<relatedgames />
+	</game>
+	<game id="17210717" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/11/2012">
+		<thumbnail>/gamecreators/images2/Vast/Jack/Creature/17210717.jpg</thumbnail>
+		<title>Metal Iron Defense</title>
+		<creator>Vast Jack Creature</creator>
+		<relatedgames />
+	</game>
+	<game id="17218349" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>/gamecreators/images2/Odd/Jeremy/Knight/17218349.jpg</thumbnail>
+		<title>Light Atomic Vilgax</title>
+		<creator>Odd Jeremy Knight</creator>
+		<relatedgames />
+	</game>
+	<game id="10916765" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Spooky/Vinny/Porridge/10916765.jpg</thumbnail>
+		<title>Lightning Hero Danger</title>
+		<creator>Spooky Vinny Porridge</creator>
+		<relatedgames />
+	</game>
+	<game id="17387667" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Captain/Curtis/Skunk/17387667.jpg</thumbnail>
+		<title>Ambush Charge Rescue</title>
+		<creator>Captain Curtis Skunk</creator>
+		<relatedgames />
+	</game>
+	<game id="17142675" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/20/2012">
+		<thumbnail>/gamecreators/images2/King/Thor/Gulch/17142675.jpg</thumbnail>
+		<title>Invasion Assault Clash</title>
+		<creator>King Thor Gulch</creator>
+		<relatedgames />
+	</game>
+	<game id="10952683" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Obvious/Megan/Octopus/10952683.jpg</thumbnail>
+		<title>Charge Space Universe</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

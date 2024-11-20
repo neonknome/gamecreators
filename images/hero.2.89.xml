@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17389194" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Artful/Russell/Cobweb/17389194.jpg</thumbnail>
+		<title>Universe Shadow Pursuit</title>
+		<creator>Artful Russell Cobweb</creator>
+		<relatedgames />
+	</game>
+	<game id="10940698" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Dashing/Zeb/Crash/10940698.jpg</thumbnail>
+		<title>Hex Robot Rumble</title>
+		<creator>Dashing Zeb Crash</creator>
+		<relatedgames />
+	</game>
+	<game id="17584138" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Grizzly/Dolly/Moonbeam/17584138.jpg</thumbnail>
+		<title>Adventure Adventure Water</title>
+		<creator>Grizzly Dolly Moonbeam</creator>
+		<relatedgames />
+	</game>
+	<game id="17209583" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/11/2012">
+		<thumbnail>/gamecreators/images2/Normal/Betty/Venom/17209583.jpg</thumbnail>
+		<title>Patrol Warrior Water</title>
+		<creator>Normal Betty Venom</creator>
+		<relatedgames />
+	</game>
+	<game id="10916691" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Sporty/Ivy/Ketchup/10916691.jpg</thumbnail>
+		<title>Swampfire Fire Storm</title>
+		<creator>Sporty Ivy Ketchup</creator>
+		<relatedgames />
+	</game>
+	<game id="17209454" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/11/2012">
+		<thumbnail>/gamecreators/images2/Aromatic/Milo/Spark/17209454.jpg</thumbnail>
+		<title>Galaxy Attack Turbo</title>
+		<creator>Aromatic Milo Spark</creator>
+		<relatedgames />
+	</game>
+	<game id="10057867" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Lanky/Joey/Buckaroo/10057867.jpg</thumbnail>
+		<title>Rescue Fire Escape</title>
+		<creator>Lanky Joey Buckaroo</creator>
+		<relatedgames />
+	</game>
+	<game id="10947072" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Happy/Devin/Macaroni/10947072.jpg</thumbnail>
+		<title>Invasion Thunder Mega</title>
+		<creator>Happy Devin Macaroni</creator>
+		<relatedgames />
+	</game>
+	<game id="10932117" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Odd/Austin/Sphere/10932117.jpg</thumbnail>
+		<title>Target Fury Nitro</title>
+		<creator>Odd Austin Sphere</creator>
+		<relatedgames />
+	</game>
+	<game id="10052360" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Spooky/Dylan/Moxie/10052360.jpg</thumbnail>
+		<title>Sonic Burst Razor</title>
+		<creator>Spooky Dylan Moxie</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

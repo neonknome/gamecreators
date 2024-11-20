@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17554074" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Eloquent/Dillon/Bayou/17554074.jpg</thumbnail>
+		<title>Gear Magno Droid</title>
+		<creator>Eloquent Dillon Bayou</creator>
+		<relatedgames />
+	</game>
+	<game id="17407634" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>/gamecreators/images2/Creative/Yorick/Worm/17407634.jpg</thumbnail>
+		<title>Rampage Nitro Burst</title>
+		<creator>Creative Yorick Worm</creator>
+		<relatedgames />
+	</game>
+	<game id="17376217" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2012">
+		<thumbnail>/gamecreators/images2/Gigantic/Derek/Pelican/17376217.jpg</thumbnail>
+		<title>Ambush Nova Adventure</title>
+		<creator>Gigantic Derek Pelican</creator>
+		<relatedgames />
+	</game>
+	<game id="10064388" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Sincere/Diego/Tiptoe/10064388.jpg</thumbnail>
+		<title>Adventure Challenge Battle</title>
+		<creator>Sincere Diego Tiptoe</creator>
+		<relatedgames />
+	</game>
+	<game id="17366681" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/25/2012">
+		<thumbnail>/gamecreators/images2/Queen/Jeff/Kayak/17366681.jpg</thumbnail>
+		<title>Mission Swampfire Burst</title>
+		<creator>Queen Jeff Kayak</creator>
+		<relatedgames />
+	</game>
+	<game id="10055889" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Ghostly/Charles/Cosmos/10055889.jpg</thumbnail>
+		<title>Pulse Plumber Adventure</title>
+		<creator>Ghostly Charles Cosmos</creator>
+		<relatedgames />
+	</game>
+	<game id="17319388" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/09/2012">
+		<thumbnail>/gamecreators/images2/Evil/Keith/Dynamite/17319388.jpg</thumbnail>
+		<title>Chase Blaster Smash</title>
+		<creator>Evil Keith Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="17017938" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>/gamecreators/images2/Gothic/Sara/Weasel/17017938.jpg</thumbnail>
+		<title>Rush Cosmic Adventure</title>
+		<creator>Gothic Sara Weasel</creator>
+		<relatedgames />
+	</game>
+	<game id="10066861" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Sly/Cole/Holler/10066861.jpg</thumbnail>
+		<title>Siege Razor Warrior</title>
+		<creator>Sly Cole Holler</creator>
+		<relatedgames />
+	</game>
+	<game id="10928541" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Bouncing/Ashley/Minotaur/10928541.jpg</thumbnail>
+		<title>Hyper Rocket Champion</title>
+		<creator>Bouncing Ashley Minotaur</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

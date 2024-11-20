@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10044170" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Happy/Bernard/Banjo/10044170.jpg</thumbnail>
+		<title>Mission Stone Pursuit</title>
+		<creator>Happy Bernard Banjo</creator>
+		<relatedgames />
+	</game>
+	<game id="10924220" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Honest/Kenneth/Saber/10924220.jpg</thumbnail>
+		<title>Plasma Mega Chase</title>
+		<creator>Honest Kenneth Saber</creator>
+		<relatedgames />
+	</game>
+	<game id="17417389" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Strong/Matthew/Fez/17417389.jpg</thumbnail>
+		<title>Battle Blaster Titan</title>
+		<creator>Strong Matthew Fez</creator>
+		<relatedgames />
+	</game>
+	<game id="10920049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Yellow/Aaron/Mango/10920049.jpg</thumbnail>
+		<title>Invasion Adventure Rustbucket</title>
+		<creator>Yellow Aaron Mango</creator>
+		<relatedgames />
+	</game>
+	<game id="10924271" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Chilly/Jeremy/Tractor/10924271.jpg</thumbnail>
+		<title>Gear Gear Robot</title>
+		<creator>Chilly Jeremy Tractor</creator>
+		<relatedgames />
+	</game>
+	<game id="17371687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>/gamecreators/images2/Radical/Alvin/Catapult/17371687.jpg</thumbnail>
+		<title>Ultimate Pulse Lightning</title>
+		<creator>Radical Alvin Catapult</creator>
+		<relatedgames />
+	</game>
+	<game id="10927896" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Alien/Don/Penguin/10927896.jpg</thumbnail>
+		<title>Power Turbo Swampfire</title>
+		<creator>Alien Don Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="17220400" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Cunning/Sofia/Pinball/17220400.jpg</thumbnail>
+		<title>Earth Pursuit Warrior</title>
+		<creator>Cunning Sofia Pinball</creator>
+		<relatedgames />
+	</game>
+	<game id="17577028" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Famous/Flapjack/Shogun/17577028.jpg</thumbnail>
+		<title>Echo Alien Omniverse</title>
+		<creator>Famous Flapjack Shogun</creator>
+		<relatedgames />
+	</game>
+	<game id="17261205" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>/gamecreators/images2/Dashing/Reuben/Knight/17261205.jpg</thumbnail>
+		<title>Plumber Storm Energy</title>
+		<creator>Dashing Reuben Knight</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

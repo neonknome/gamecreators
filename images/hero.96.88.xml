@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16967196" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/25/2012">
+		<thumbnail>/gamecreators/images2/Eager/Rachel/Samurai/16967196.jpg</thumbnail>
+		<title>Mission Fury Fire</title>
+		<creator>Eager Rachel Samurai</creator>
+		<relatedgames />
+	</game>
+	<game id="10927813" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Honest/Chad/Molecule/10927813.jpg</thumbnail>
+		<title>Swampfire Swampfire Swampfire</title>
+		<creator>Honest Chad Molecule</creator>
+		<relatedgames />
+	</game>
+	<game id="17374738" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>/gamecreators/images2/Surreal/Mikayla/Ballyhoo/17374738.jpg</thumbnail>
+		<title>Techno Mission Droid</title>
+		<creator>Surreal Mikayla Ballyhoo</creator>
+		<relatedgames />
+	</game>
+	<game id="10935439" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Awful/Edward/Acrobat/10935439.jpg</thumbnail>
+		<title>Beast Pulse Vilgax</title>
+		<creator>Awful Edward Acrobat</creator>
+		<relatedgames />
+	</game>
+	<game id="17325121" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Able/Zelda/Platypus/17325121.jpg</thumbnail>
+		<title>Cannonbolt Sonic Adventure</title>
+		<creator>Able Zelda Platypus</creator>
+		<relatedgames />
+	</game>
+	<game id="10931113" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Majestic/Kevin/Iceberg/10931113.jpg</thumbnail>
+		<title>Spark Hex Clash</title>
+		<creator>Majestic Kevin Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="17337940" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Humble/Wilbur/Skunk/17337940.jpg</thumbnail>
+		<title>Jetray Ambush Adventure</title>
+		<creator>Humble Wilbur Skunk</creator>
+		<relatedgames />
+	</game>
+	<game id="17071643" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/29/2012">
+		<thumbnail>/gamecreators/images2/Princess/George/Turbo/17071643.jpg</thumbnail>
+		<title>Assault Gear Danger</title>
+		<creator>Princess George Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="17323648" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Superior/Vincent/Biscuit/17323648.jpg</thumbnail>
+		<title>Mission Chill Rocket</title>
+		<creator>Superior Vincent Biscuit</creator>
+		<relatedgames />
+	</game>
+	<game id="17323622" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Mumbling/Chuck/Techno/17323622.jpg</thumbnail>
+		<title>Warp Storm Ben</title>
+		<creator>Mumbling Chuck Techno</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

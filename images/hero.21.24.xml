@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17386150" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Dazzling/Ellen/Zigzag/17386150.jpg</thumbnail>
+		<title>Ultimate Stone Turbo</title>
+		<creator>Dazzling Ellen Zigzag</creator>
+		<relatedgames />
+	</game>
+	<game id="10043501" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Wily/Jackson/Umbrella/10043501.jpg</thumbnail>
+		<title>Alien Blaster Adventure</title>
+		<creator>Wily Jackson Umbrella</creator>
+		<relatedgames />
+	</game>
+	<game id="10920193" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Chaotic/Carson/Thunder/10920193.jpg</thumbnail>
+		<title>Atomic Force Clash</title>
+		<creator>Chaotic Carson Thunder</creator>
+		<relatedgames />
+	</game>
+	<game id="10930994" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fizzy/Casey/Flipper/10930994.jpg</thumbnail>
+		<title>Fire Fire Warrior</title>
+		<creator>Fizzy Casey Flipper</creator>
+		<relatedgames />
+	</game>
+	<game id="10916958" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Loony/Ace/Eel/10916958.jpg</thumbnail>
+		<title>Lightning Rampage Droid</title>
+		<creator>Loony Ace Eel</creator>
+		<relatedgames />
+	</game>
+	<game id="10038852" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Magnetic/Alan/Blubber/10038852.jpg</thumbnail>
+		<title>Shock Spark Invasion</title>
+		<creator>Magnetic Alan Blubber</creator>
+		<relatedgames />
+	</game>
+	<game id="10934766" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Savage/Jacob/Pulse/10934766.jpg</thumbnail>
+		<title>Nova Assault Earth</title>
+		<creator>Savage Jacob Pulse</creator>
+		<relatedgames />
+	</game>
+	<game id="10926893" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wild/Ernie/Fireball/10926893.jpg</thumbnail>
+		<title>Alien Invasion Mission</title>
+		<creator>Wild Ernie Fireball</creator>
+		<relatedgames />
+	</game>
+	<game id="10919820" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Dreadful/Luke/Buffalo/10919820.jpg</thumbnail>
+		<title>Alien Ambush Assault</title>
+		<creator>Dreadful Luke Buffalo</creator>
+		<relatedgames />
+	</game>
+	<game id="17311338" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>/gamecreators/images2/Freakish/Benson/Banshee/17311338.jpg</thumbnail>
+		<title>Rustbucket Battle Clash</title>
+		<creator>Freakish Benson Banshee</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

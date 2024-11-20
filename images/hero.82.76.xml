@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10953659" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Hefty/Brandy/Turtle/10953659.jpg</thumbnail>
+		<title>Clash Iron Rescue</title>
+		<creator>Hefty Brandy Turtle</creator>
+		<relatedgames />
+	</game>
+	<game id="10059113" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Stately/Hunter/Blade/10059113.jpg</thumbnail>
+		<title>Dark Hex Burst</title>
+		<creator>Stately Hunter Blade</creator>
+		<relatedgames />
+	</game>
+	<game id="10038642" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Artistic/Dominic/Lavender/10038642.jpg</thumbnail>
+		<title>Ultimate Drone Doom</title>
+		<creator>Artistic Dominic Lavender</creator>
+		<relatedgames />
+	</game>
+	<game id="10923388" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Scary/Orlando/Phantom/10923388.jpg</thumbnail>
+		<title>Ultra Swampfire Battle</title>
+		<creator>Scary Orlando Phantom</creator>
+		<relatedgames />
+	</game>
+	<game id="10928502" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Awesome/Anthony/Monkey/10928502.jpg</thumbnail>
+		<title>Invasion Danger Fusion</title>
+		<creator>Awesome Anthony Monkey</creator>
+		<relatedgames />
+	</game>
+	<game id="17562051" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Dubious/Kevin/Mustard/17562051.jpg</thumbnail>
+		<title>Rampage Swampfire Storm</title>
+		<creator>Dubious Kevin Mustard</creator>
+		<relatedgames />
+	</game>
+	<game id="17400817" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>/gamecreators/images2/Healthy/Kyle/Squid/17400817.jpg</thumbnail>
+		<title>Mission Big Chill</title>
+		<creator>Healthy Kyle Squid</creator>
+		<relatedgames />
+	</game>
+	<game id="10953344" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Orange/Donald/Pinwheel/10953344.jpg</thumbnail>
+		<title>Animo Hero Defense</title>
+		<creator>Orange Donald Pinwheel</creator>
+		<relatedgames />
+	</game>
+	<game id="17392679" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Sublime/Alvin/Amoeba/17392679.jpg</thumbnail>
+		<title>Ben Battle Siege</title>
+		<creator>Sublime Alvin Amoeba</creator>
+		<relatedgames />
+	</game>
+	<game id="17028951" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/15/2012">
+		<thumbnail>/gamecreators/images2/Average/Carlos/Behemoth/17028951.jpg</thumbnail>
+		<title>Slam Attack Mission</title>
+		<creator>Average Carlos Behemoth</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

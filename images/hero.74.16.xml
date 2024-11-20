@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10916785" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Splendid/Igor/Rutabaga/10916785.jpg</thumbnail>
+		<title>Rocket Adventure Champion</title>
+		<creator>Splendid Igor Rutabaga</creator>
+		<relatedgames />
+	</game>
+	<game id="16844411" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/26/2012">
+		<thumbnail>/gamecreators/images2/Amusing/Rex/Python/16844411.jpg</thumbnail>
+		<title>Mega Hex Star</title>
+		<creator>Amusing Rex Python</creator>
+		<relatedgames />
+	</game>
+	<game id="17417038" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Cagey/Bailey/Jalapeno/17417038.jpg</thumbnail>
+		<title>Animo Ambush Target</title>
+		<creator>Cagey Bailey Jalapeno</creator>
+		<relatedgames />
+	</game>
+	<game id="10927951" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Feisty/Pearl/Hambone/10927951.jpg</thumbnail>
+		<title>Turbo Alien Adventure</title>
+		<creator>Feisty Pearl Hambone</creator>
+		<relatedgames />
+	</game>
+	<game id="17403331" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>/gamecreators/images2/Keen/Helen/Tundra/17403331.jpg</thumbnail>
+		<title>Adventure Alien Droid</title>
+		<creator>Keen Helen Tundra</creator>
+		<relatedgames />
+	</game>
+	<game id="10933122" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Handsome/Breanna/Aurora/10933122.jpg</thumbnail>
+		<title>Rock Space Fire</title>
+		<creator>Handsome Breanna Aurora</creator>
+		<relatedgames />
+	</game>
+	<game id="16860361" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/31/2012">
+		<thumbnail>/gamecreators/images2/Obvious/Cameron/Grackle/16860361.jpg</thumbnail>
+		<title>Titan Defense Whirlwind</title>
+		<creator>Obvious Cameron Grackle</creator>
+		<relatedgames />
+	</game>
+	<game id="16875579" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/02/2012">
+		<thumbnail>/gamecreators/images2/Spirited/Raymond/Moonbeam/16875579.jpg</thumbnail>
+		<title>Mega Shadow Alien</title>
+		<creator>Spirited Raymond Moonbeam</creator>
+		<relatedgames />
+	</game>
+	<game id="10952722" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Burly/Tex/Quarry/10952722.jpg</thumbnail>
+		<title>Attack Rumble Pursuit</title>
+		<creator>Burly Tex Quarry</creator>
+		<relatedgames />
+	</game>
+	<game id="17411231" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/13/2012">
+		<thumbnail>/gamecreators/images2/Strange/Ariel/Gumdrop/17411231.jpg</thumbnail>
+		<title>Defense Spidermonkey Droid</title>
+		<creator>Strange Ariel Gumdrop</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

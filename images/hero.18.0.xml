@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10953322" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Reckless/Erin/Phantom/10953322.jpg</thumbnail>
+		<title>Danger Swampfire Rescue</title>
+		<creator>Reckless Erin Phantom</creator>
+		<relatedgames />
+	</game>
+	<game id="17348915" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Tristan/Yoyo/17348915.jpg</thumbnail>
+		<title>Hex Patrol Storm</title>
+		<creator>Ultimate Tristan Yoyo</creator>
+		<relatedgames />
+	</game>
+	<game id="10946479" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Alien/Lucius/Wombat/10946479.jpg</thumbnail>
+		<title>Spark Fusion Ben</title>
+		<creator>Alien Lucius Wombat</creator>
+		<relatedgames />
+	</game>
+	<game id="10924472" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dainty/Hayden/Avocado/10924472.jpg</thumbnail>
+		<title>Burst Atomic Droid</title>
+		<creator>Dainty Hayden Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="17394571" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/04/2012">
+		<thumbnail>/gamecreators/images2/Golden/Will/Pyramid/17394571.jpg</thumbnail>
+		<title>Slam Blaster Solar</title>
+		<creator>Golden Will Pyramid</creator>
+		<relatedgames />
+	</game>
+	<game id="10953554" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Swift/Owen/Gumbo/10953554.jpg</thumbnail>
+		<title>Turbo Turbo Battle</title>
+		<creator>Swift Owen Gumbo</creator>
+		<relatedgames />
+	</game>
+	<game id="10922330" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Babbling/Oscar/Tornado/10922330.jpg</thumbnail>
+		<title>Shadow Defense Spark</title>
+		<creator>Babbling Oscar Tornado</creator>
+		<relatedgames />
+	</game>
+	<game id="10952675" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Honest/Florence/Squeegee/10952675.jpg</thumbnail>
+		<title>Swampfire Fury Attack</title>
+		<creator>Honest Florence Squeegee</creator>
+		<relatedgames />
+	</game>
+	<game id="17414730" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Complex/James/Karate/17414730.jpg</thumbnail>
+		<title>Mega Ambush Mission</title>
+		<creator>Complex James Karate</creator>
+		<relatedgames />
+	</game>
+	<game id="17279509" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Humorous/Justin/Phoenix/17279509.jpg</thumbnail>
+		<title>Danger Cosmic Fire</title>
+		<creator>Humorous Justin Phoenix</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

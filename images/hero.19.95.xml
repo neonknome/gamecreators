@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10942680" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Shiny/Nicole/Zing/10942680.jpg</thumbnail>
+		<title>Swampfire Clash Charge</title>
+		<creator>Shiny Nicole Zing</creator>
+		<relatedgames />
+	</game>
+	<game id="10917016" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Baffling/Thomas/Zombie/10917016.jpg</thumbnail>
+		<title>Rampage Cosmic Swampfire</title>
+		<creator>Baffling Thomas Zombie</creator>
+		<relatedgames />
+	</game>
+	<game id="10055518" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Sinister/Zoe/Ballyhoo/10055518.jpg</thumbnail>
+		<title>Atomic Quake Assault</title>
+		<creator>Sinister Zoe Ballyhoo</creator>
+		<relatedgames />
+	</game>
+	<game id="10951645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Absurd/Blake/Eggplant/10951645.jpg</thumbnail>
+		<title>Storm Crusher Danger</title>
+		<creator>Absurd Blake Eggplant</creator>
+		<relatedgames />
+	</game>
+	<game id="17554265" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Loud/Carson/Blob/17554265.jpg</thumbnail>
+		<title>Plumber Nova Stone</title>
+		<creator>Loud Carson Blob</creator>
+		<relatedgames />
+	</game>
+	<game id="17373576" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>/gamecreators/images2/Robotic/Owen/Cobra/17373576.jpg</thumbnail>
+		<title>Animo Rampage Energy</title>
+		<creator>Robotic Owen Cobra</creator>
+		<relatedgames />
+	</game>
+	<game id="16983993" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/30/2012">
+		<thumbnail>/gamecreators/images2/Visible/Gladys/Kangaroo/16983993.jpg</thumbnail>
+		<title>Patrol Ultimate Beast</title>
+		<creator>Visible Gladys Kangaroo</creator>
+		<relatedgames />
+	</game>
+	<game id="10947203" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Ornery/Bjorn/Wizard/10947203.jpg</thumbnail>
+		<title>Nitro Swampfire Storm</title>
+		<creator>Ornery Bjorn Wizard</creator>
+		<relatedgames />
+	</game>
+	<game id="10946650" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Dazzling/Napoleon/Cupcake/10946650.jpg</thumbnail>
+		<title>Iron Ambush Plumber</title>
+		<creator>Dazzling Napoleon Cupcake</creator>
+		<relatedgames />
+	</game>
+	<game id="10929180" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wise/Brooke/Vector/10929180.jpg</thumbnail>
+		<title>Titan Streak Rustbucket</title>
+		<creator>Wise Brooke Vector</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10942751" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Valiant/Scarlett/Charger/10942751.jpg</thumbnail>
+		<title>Cosmic Space Lightning</title>
+		<creator>Valiant Scarlett Charger</creator>
+		<relatedgames />
+	</game>
+	<game id="17318679" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Ancient/Finn/Iguana/17318679.jpg</thumbnail>
+		<title>Pursuit Warrior Rescue</title>
+		<creator>Ancient Finn Iguana</creator>
+		<relatedgames />
+	</game>
+	<game id="17188190" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/04/2012">
+		<thumbnail>/gamecreators/images2/Daring/Ronald/Presto/17188190.jpg</thumbnail>
+		<title>Rescue Echo Plasma</title>
+		<creator>Daring Ronald Presto</creator>
+		<relatedgames />
+	</game>
+	<game id="10927069" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wacky/Gretel/Centaur/10927069.jpg</thumbnail>
+		<title>Swampfire Alien Fire</title>
+		<creator>Wacky Gretel Centaur</creator>
+		<relatedgames />
+	</game>
+	<game id="440596" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="10/26/2010">
+		<thumbnail>
+		</thumbnail>
+		<title>Adventure Alien Warrior</title>
+		<creator>FelipeFuegoA</creator>
+		<relatedgames />
+	</game>
+	<game id="17217564" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>/gamecreators/images2/Dramatic/Austin/Domino/17217564.jpg</thumbnail>
+		<title>Big Thunder Fury</title>
+		<creator>Dramatic Austin Domino</creator>
+		<relatedgames />
+	</game>
+	<game id="10059358" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Rowdy/Zachary/Haystack/10059358.jpg</thumbnail>
+		<title>Galaxy Battle Magno</title>
+		<creator>Rowdy Zachary Haystack</creator>
+		<relatedgames />
+	</game>
+	<game id="17420513" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Hyper/Silvia/Pulse/17420513.jpg</thumbnail>
+		<title>Adventure Star Spike</title>
+		<creator>Hyper Silvia Pulse</creator>
+		<relatedgames />
+	</game>
+	<game id="17355672" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/20/2012">
+		<thumbnail>/gamecreators/images2/Purple/Rosetta/Rebel/17355672.jpg</thumbnail>
+		<title>Smash Power Earth</title>
+		<creator>Purple Rosetta Rebel</creator>
+		<relatedgames />
+	</game>
+	<game id="17285375" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>/gamecreators/images2/Negative/Andy/Atlas/17285375.jpg</thumbnail>
+		<title>Water Blaster Challenge</title>
+		<creator>Negative Andy Atlas</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

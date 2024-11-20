@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17574215" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Crafty/Vincent/Nacho/17574215.jpg</thumbnail>
+		<title>Galaxy Chill Shock</title>
+		<creator>Crafty Vincent Nacho</creator>
+		<relatedgames />
+	</game>
+	<game id="10953508" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Generous/Cheyenne/Fizz/10953508.jpg</thumbnail>
+		<title>Swampfire Mega Mission</title>
+		<creator>Generous Cheyenne Fizz</creator>
+		<relatedgames />
+	</game>
+	<game id="10920284" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Merry/Stacey/Turtle/10920284.jpg</thumbnail>
+		<title>Fire Shock Attack</title>
+		<creator>Merry Stacey Turtle</creator>
+		<relatedgames />
+	</game>
+	<game id="16886464" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/05/2012">
+		<thumbnail>/gamecreators/images2/Volcanic/Chowder/Cyborg/16886464.jpg</thumbnail>
+		<title>Ultra Spike Fusion</title>
+		<creator>Volcanic Chowder Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="10952722" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Burly/Tex/Quarry/10952722.jpg</thumbnail>
+		<title>Attack Rumble Pursuit</title>
+		<creator>Burly Tex Quarry</creator>
+		<relatedgames />
+	</game>
+	<game id="10068837" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Jumping/Hannah/Sphinx/10068837.jpg</thumbnail>
+		<title>Cosmic Metal Rampage</title>
+		<creator>Jumping Hannah Sphinx</creator>
+		<relatedgames />
+	</game>
+	<game id="10940046" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Northern/Spencer/Sizzle/10940046.jpg</thumbnail>
+		<title>Adventure Nitro Battle</title>
+		<creator>Northern Spencer Sizzle</creator>
+		<relatedgames />
+	</game>
+	<game id="10932642" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Loud/Faith/Holler/10932642.jpg</thumbnail>
+		<title>Galaxy Shadow Ultimate</title>
+		<creator>Loud Faith Holler</creator>
+		<relatedgames />
+	</game>
+	<game id="10952658" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Visible/Zachary/Scribble/10952658.jpg</thumbnail>
+		<title>Hex Assault Drone</title>
+		<creator>Visible Zachary Scribble</creator>
+		<relatedgames />
+	</game>
+	<game id="17310250" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>/gamecreators/images2/Defiant/Mario/Blob/17310250.jpg</thumbnail>
+		<title>Chase Thunder Droid</title>
+		<creator>Defiant Mario Blob</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

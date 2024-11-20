@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17363548" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>/gamecreators/images2/Fabulous/Chase/Goulash/17363548.jpg</thumbnail>
+		<title>Danger Charge Assault</title>
+		<creator>Fabulous Chase Goulash</creator>
+		<relatedgames />
+	</game>
+	<game id="17345413" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>/gamecreators/images2/Grim/Benson/Blizzard/17345413.jpg</thumbnail>
+		<title>Rampage Plasma Rush</title>
+		<creator>Grim Benson Blizzard</creator>
+		<relatedgames />
+	</game>
+	<game id="17551180" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Noisy/Nicholas/Crowbar/17551180.jpg</thumbnail>
+		<title>Ben Echo Star</title>
+		<creator>Noisy Nicholas Crowbar</creator>
+		<relatedgames />
+	</game>
+	<game id="17028218" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/15/2012">
+		<thumbnail>/gamecreators/images2/Solid/Shawn/Oyster/17028218.jpg</thumbnail>
+		<title>Jetray Rock Animo</title>
+		<creator>Solid Shawn Oyster</creator>
+		<relatedgames />
+	</game>
+	<game id="16871238" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>/gamecreators/images2/Aerobic/Larry/Mango/16871238.jpg</thumbnail>
+		<title>Target Robot Fire</title>
+		<creator>Aerobic Larry Mango</creator>
+		<relatedgames />
+	</game>
+	<game id="10068460" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Frugal/Natasha/Minotaur/10068460.jpg</thumbnail>
+		<title>Atomic Spike Danger</title>
+		<creator>Frugal Natasha Minotaur</creator>
+		<relatedgames />
+	</game>
+	<game id="17332957" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Tiffany/Tugboat/17332957.jpg</thumbnail>
+		<title>Breaker Siege Mega</title>
+		<creator>Magnetic Tiffany Tugboat</creator>
+		<relatedgames />
+	</game>
+	<game id="10942165" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Pretty/Vinny/Zebra/10942165.jpg</thumbnail>
+		<title>Earth Nano Storm</title>
+		<creator>Pretty Vinny Zebra</creator>
+		<relatedgames />
+	</game>
+	<game id="17408812" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>/gamecreators/images2/Electric/Chase/Reptile/17408812.jpg</thumbnail>
+		<title>Invasion Humungousaur Target</title>
+		<creator>Electric Chase Reptile</creator>
+		<relatedgames />
+	</game>
+	<game id="17395975" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>/gamecreators/images2/Cranky/Gregory/Haystack/17395975.jpg</thumbnail>
+		<title>Solar Ambush Whirlwind</title>
+		<creator>Cranky Gregory Haystack</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10952952" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Zippy/Frank/Bramble/10952952.jpg</thumbnail>
+		<title>Energy Warp Spark</title>
+		<creator>Zippy Frank Bramble</creator>
+		<relatedgames />
+	</game>
+	<game id="10020537" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Bashful/Ace/Hiccup/10020537.jpg</thumbnail>
+		<title>Fury Sonic Mega</title>
+		<creator>Bashful Ace Hiccup</creator>
+		<relatedgames />
+	</game>
+	<game id="10929416" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Elegant/Crystal/Barnacle/10929416.jpg</thumbnail>
+		<title>Iron Universe Space</title>
+		<creator>Elegant Crystal Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="10919589" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Humble/Adrian/Unicorn/10919589.jpg</thumbnail>
+		<title>Nova Laser Earth</title>
+		<creator>Humble Adrian Unicorn</creator>
+		<relatedgames />
+	</game>
+	<game id="10925913" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Mirthful/Zeus/Narwhal/10925913.jpg</thumbnail>
+		<title>Danger Adventure Battle</title>
+		<creator>Mirthful Zeus Narwhal</creator>
+		<relatedgames />
+	</game>
+	<game id="10951804" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Weird/Gretel/Troll/10951804.jpg</thumbnail>
+		<title>Hero Target Adventure</title>
+		<creator>Weird Gretel Troll</creator>
+		<relatedgames />
+	</game>
+	<game id="17216790" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>/gamecreators/images2/Feral/Jasmine/Llama/17216790.jpg</thumbnail>
+		<title>Rampage Pulse Droid</title>
+		<creator>Feral Jasmine Llama</creator>
+		<relatedgames />
+	</game>
+	<game id="10926454" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dramatic/Laura/Fishbowl/10926454.jpg</thumbnail>
+		<title>Ultimate Rampage Chase</title>
+		<creator>Dramatic Laura Fishbowl</creator>
+		<relatedgames />
+	</game>
+	<game id="10918854" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Fragrant/Shannon/Spider/10918854.jpg</thumbnail>
+		<title>Siege Nova Crusher</title>
+		<creator>Fragrant Shannon Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="10648030" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Loyal/Maria/Tornado/10648030.jpg</thumbnail>
+		<title>Battle Challenge Force</title>
+		<creator>Loyal Maria Tornado</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

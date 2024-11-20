@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10953199" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Reckless/Emily/Spiral/10953199.jpg</thumbnail>
+		<title>Danger Plumber Storm</title>
+		<creator>Reckless Emily Spiral</creator>
+		<relatedgames />
+	</game>
+	<game id="10069100" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Alien/Jacob/Brick/10069100.jpg</thumbnail>
+		<title>Swampfire Hero Hex</title>
+		<creator>Alien Jacob Brick</creator>
+		<relatedgames />
+	</game>
+	<game id="17373576" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>/gamecreators/images2/Robotic/Owen/Cobra/17373576.jpg</thumbnail>
+		<title>Animo Rampage Energy</title>
+		<creator>Robotic Owen Cobra</creator>
+		<relatedgames />
+	</game>
+	<game id="10946491" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Fanciful/Sandra/Howler/10946491.jpg</thumbnail>
+		<title>Warrior Quake Pursuit</title>
+		<creator>Fanciful Sandra Howler</creator>
+		<relatedgames />
+	</game>
+	<game id="10953463" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Artistic/Leonardo/Zebra/10953463.jpg</thumbnail>
+		<title>Fury Space Plasma</title>
+		<creator>Artistic Leonardo Zebra</creator>
+		<relatedgames />
+	</game>
+	<game id="10946650" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Dazzling/Napoleon/Cupcake/10946650.jpg</thumbnail>
+		<title>Iron Ambush Plumber</title>
+		<creator>Dazzling Napoleon Cupcake</creator>
+		<relatedgames />
+	</game>
+	<game id="17318747" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Gross/Newton/Windmill/17318747.jpg</thumbnail>
+		<title>Shadow Blaster Atomic</title>
+		<creator>Gross Newton Windmill</creator>
+		<relatedgames />
+	</game>
+	<game id="10924684" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fizzy/Jackie/Iceberg/10924684.jpg</thumbnail>
+		<title>Mission Turbo Sonic</title>
+		<creator>Fizzy Jackie Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="10920288" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Bizarre/Jonathan/Gong/10920288.jpg</thumbnail>
+		<title>Escape Beast Adventure</title>
+		<creator>Bizarre Jonathan Gong</creator>
+		<relatedgames />
+	</game>
+	<game id="17539894" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Prolific/Cole/Sprout/17539894.jpg</thumbnail>
+		<title>Vilgax Pulse Nova</title>
+		<creator>Prolific Cole Sprout</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

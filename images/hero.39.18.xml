@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17228049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>/gamecreators/images2/Zany/Scott/Snake/17228049.jpg</thumbnail>
+		<title>Iron Nano Alien</title>
+		<creator>Zany Scott Snake</creator>
+		<relatedgames />
+	</game>
+	<game id="10923111" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Colorful/Cody/Crash/10923111.jpg</thumbnail>
+		<title>Shock Light Light</title>
+		<creator>Colorful Cody Crash</creator>
+		<relatedgames />
+	</game>
+	<game id="10038852" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Magnetic/Alan/Blubber/10038852.jpg</thumbnail>
+		<title>Shock Spark Invasion</title>
+		<creator>Magnetic Alan Blubber</creator>
+		<relatedgames />
+	</game>
+	<game id="17009487" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/09/2012">
+		<thumbnail>/gamecreators/images2/Expert/Hailey/Knight/17009487.jpg</thumbnail>
+		<title>Rock Drone Nova</title>
+		<creator>Expert Hailey Knight</creator>
+		<relatedgames />
+	</game>
+	<game id="17419128" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Amazing/Aaron/Macaroni/17419128.jpg</thumbnail>
+		<title>Energy Smash Spike</title>
+		<creator>Amazing Aaron Macaroni</creator>
+		<relatedgames />
+	</game>
+	<game id="10953017" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Grand/Jessica/Skunk/10953017.jpg</thumbnail>
+		<title>Invasion Star Galaxy</title>
+		<creator>Grand Jessica Skunk</creator>
+		<relatedgames />
+	</game>
+	<game id="10923812" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Noble/Bruce/Barnacle/10923812.jpg</thumbnail>
+		<title>Racer Atomic Rocket</title>
+		<creator>Noble Bruce Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="10952790" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Fearsome/Adam/Magma/10952790.jpg</thumbnail>
+		<title>Nitro Alien Smash</title>
+		<creator>Fearsome Adam Magma</creator>
+		<relatedgames />
+	</game>
+	<game id="17361579" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Waldo/Firefly/17361579.jpg</thumbnail>
+		<title>Cosmic Adventure Sonic</title>
+		<creator>Ultimate Waldo Firefly</creator>
+		<relatedgames />
+	</game>
+	<game id="10916968" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Northern/Shelby/Goulash/10916968.jpg</thumbnail>
+		<title>Attack Adventure Racer</title>
+		<creator>Northern Shelby Goulash</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

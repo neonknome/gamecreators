@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17555980" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Brainy/George/Jamboree/17555980.jpg</thumbnail>
+		<title>Giga Atomic Invasion</title>
+		<creator>Brainy George Jamboree</creator>
+		<relatedgames />
+	</game>
+	<game id="17332505" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Evil/Parker/Planet/17332505.jpg</thumbnail>
+		<title>Mega Champion Robot</title>
+		<creator>Evil Parker Planet</creator>
+		<relatedgames />
+	</game>
+	<game id="10924021" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Alien/Tyler/Klunk/10924021.jpg</thumbnail>
+		<title>Hero Attack Power</title>
+		<creator>Alien Tyler Klunk</creator>
+		<relatedgames />
+	</game>
+	<game id="10039284" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Gracious/Vladimir/Yodel/10039284.jpg</thumbnail>
+		<title>Animo Lightning Defense</title>
+		<creator>Gracious Vladimir Yodel</creator>
+		<relatedgames />
+	</game>
+	<game id="10953582" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Nimble/Lillian/Robot/10953582.jpg</thumbnail>
+		<title>Rustbucket Smash Pursuit</title>
+		<creator>Nimble Lillian Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="10927169" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fearless/Richard/Werewolf/10927169.jpg</thumbnail>
+		<title>Fury Charge Assault</title>
+		<creator>Fearless Richard Werewolf</creator>
+		<relatedgames />
+	</game>
+	<game id="17273482" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>/gamecreators/images2/Joyous/Patricia/Squirrel/17273482.jpg</thumbnail>
+		<title>Target Water Warp</title>
+		<creator>Joyous Patricia Squirrel</creator>
+		<relatedgames />
+	</game>
+	<game id="17348915" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Tristan/Yoyo/17348915.jpg</thumbnail>
+		<title>Hex Patrol Storm</title>
+		<creator>Ultimate Tristan Yoyo</creator>
+		<relatedgames />
+	</game>
+	<game id="10033502" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Northern/Oscar/Vampire/10033502.jpg</thumbnail>
+		<title>Sonic Attack Quake</title>
+		<creator>Northern Oscar Vampire</creator>
+		<relatedgames />
+	</game>
+	<game id="17415976" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Speedy/Finn/Steel/17415976.jpg</thumbnail>
+		<title>Ultimate Cannonbolt Invasion</title>
+		<creator>Speedy Finn Steel</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17389507" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Grimy/Zachary/Twilight/17389507.jpg</thumbnail>
+		<title>Shock Shadow Ambush</title>
+		<creator>Grimy Zachary Twilight</creator>
+		<relatedgames />
+	</game>
+	<game id="10952770" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Nomadic/Ryan/Grouch/10952770.jpg</thumbnail>
+		<title>Magno Magno Hex</title>
+		<creator>Nomadic Ryan Grouch</creator>
+		<relatedgames />
+	</game>
+	<game id="10926636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Sporty/Daniel/Iceberg/10926636.jpg</thumbnail>
+		<title>Animo Rocket Search</title>
+		<creator>Sporty Daniel Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="16962875" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/23/2012">
+		<thumbnail>/gamecreators/images2/Aromatic/Chuck/Planet/16962875.jpg</thumbnail>
+		<title>Attack Dark Racer</title>
+		<creator>Aromatic Chuck Planet</creator>
+		<relatedgames />
+	</game>
+	<game id="16988735" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/02/2012">
+		<thumbnail>/gamecreators/images2/Captain/Gwen/Viking/16988735.jpg</thumbnail>
+		<title>Escape Atomic Burst</title>
+		<creator>Captain Gwen Viking</creator>
+		<relatedgames />
+	</game>
+	<game id="10052419" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Kooky/Leonardo/Barnacle/10052419.jpg</thumbnail>
+		<title>Nano Atomic Ambush</title>
+		<creator>Kooky Leonardo Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="10044170" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Happy/Bernard/Banjo/10044170.jpg</thumbnail>
+		<title>Mission Stone Pursuit</title>
+		<creator>Happy Bernard Banjo</creator>
+		<relatedgames />
+	</game>
+	<game id="17226624" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>/gamecreators/images2/Obvious/Sean/17226624.jpg</thumbnail>
+		<title>Alien Invasion Challenge</title>
+		<creator>Obvious Sean</creator>
+		<relatedgames />
+	</game>
+	<game id="16930985" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/14/2012">
+		<thumbnail>/gamecreators/images2/Splendid/Simon/Sardine/16930985.jpg</thumbnail>
+		<title>Shock Charge Rocket</title>
+		<creator>Splendid Simon Sardine</creator>
+		<relatedgames />
+	</game>
+	<game id="10952932" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Sloppy/Connor/Fondue/10952932.jpg</thumbnail>
+		<title>Adventure Doom Breaker</title>
+		<creator>Sloppy Connor Fondue</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

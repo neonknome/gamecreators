@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10058854" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Mighty/Tony/Goofball/10058854.jpg</thumbnail>
+		<title>Attack Force Mega</title>
+		<creator>Mighty Tony Goofball</creator>
+		<relatedgames />
+	</game>
+	<game id="17228049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>/gamecreators/images2/Zany/Scott/Snake/17228049.jpg</thumbnail>
+		<title>Iron Nano Alien</title>
+		<creator>Zany Scott Snake</creator>
+		<relatedgames />
+	</game>
+	<game id="10923111" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Colorful/Cody/Crash/10923111.jpg</thumbnail>
+		<title>Shock Light Light</title>
+		<creator>Colorful Cody Crash</creator>
+		<relatedgames />
+	</game>
+	<game id="10953030" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Ticklish/Olivia/Coconut/10953030.jpg</thumbnail>
+		<title>Pursuit Sonic Warrior</title>
+		<creator>Ticklish Olivia Coconut</creator>
+		<relatedgames />
+	</game>
+	<game id="17259716" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>/gamecreators/images2/Barbaric/Faith/Camel/17259716.jpg</thumbnail>
+		<title>Drone Solar Charge</title>
+		<creator>Barbaric Faith Camel</creator>
+		<relatedgames />
+	</game>
+	<game id="10930634" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Crafty/Sarah/Zombie/10930634.jpg</thumbnail>
+		<title>Atomic Alien Ambush</title>
+		<creator>Crafty Sarah Zombie</creator>
+		<relatedgames />
+	</game>
+	<game id="17560298" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Hyper/Rebecca/Barnacle/17560298.jpg</thumbnail>
+		<title>Chase Adventure Adventure</title>
+		<creator>Hyper Rebecca Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="10916905" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Purple/Penny/Citrus/10916905.jpg</thumbnail>
+		<title>Hero Rumble Assault</title>
+		<creator>Purple Penny Citrus</creator>
+		<relatedgames />
+	</game>
+	<game id="17379327" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Tall/Clay/Mystery/17379327.jpg</thumbnail>
+		<title>Laser Warrior Adventure</title>
+		<creator>Tall Clay Mystery</creator>
+		<relatedgames />
+	</game>
+	<game id="10039310" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Absurd/Leonardo/Ladybug/10039310.jpg</thumbnail>
+		<title>Rescue Mission Assault</title>
+		<creator>Absurd Leonardo Ladybug</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

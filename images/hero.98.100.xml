@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17415966" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Witty/Marco/Shadow/17415966.jpg</thumbnail>
+		<title>Slam Attack Warp</title>
+		<creator>Witty Marco Shadow</creator>
+		<relatedgames />
+	</game>
+	<game id="17358453" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>/gamecreators/images2/Profound/Bernard/Scribble/17358453.jpg</thumbnail>
+		<title>Shock Vilgax Droid</title>
+		<creator>Profound Bernard Scribble</creator>
+		<relatedgames />
+	</game>
+	<game id="10038161" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Dynamic/Matt/Aardvark/10038161.jpg</thumbnail>
+		<title>Warrior Ultra Laser</title>
+		<creator>Dynamic Matt Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="10933180" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Funky/Pearl/Zombie/10933180.jpg</thumbnail>
+		<title>Galaxy Titan Breaker</title>
+		<creator>Funky Pearl Zombie</creator>
+		<relatedgames />
+	</game>
+	<game id="17381279" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>/gamecreators/images2/Elegant/Mac/Unicycle/17381279.jpg</thumbnail>
+		<title>Vilgax Plumber Racer</title>
+		<creator>Elegant Mac Unicycle</creator>
+		<relatedgames />
+	</game>
+	<game id="17160674" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/26/2012">
+		<thumbnail>/gamecreators/images2/Silly/Franklin/Foghorn/17160674.jpg</thumbnail>
+		<title>Adventure Earth Patrol</title>
+		<creator>Silly Franklin Foghorn</creator>
+		<relatedgames />
+	</game>
+	<game id="10952706" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Zippy/Destiny/Dragon/10952706.jpg</thumbnail>
+		<title>Galaxy Blaster Razor</title>
+		<creator>Zippy Destiny Dragon</creator>
+		<relatedgames />
+	</game>
+	<game id="16993737" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>/gamecreators/images2/Baroness/Anna/Beast/16993737.jpg</thumbnail>
+		<title>Rescue Techno Fusion</title>
+		<creator>Baroness Anna Beast</creator>
+		<relatedgames />
+	</game>
+	<game id="16840527" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/25/2012">
+		<thumbnail>/gamecreators/images2/Electric/Jeffrey/Wingding/16840527.jpg</thumbnail>
+		<title>Crusher Energy Rampage</title>
+		<creator>Electric Jeffrey Wingding</creator>
+		<relatedgames />
+	</game>
+	<game id="17327969" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Howling/Seth/Virtuoso/17327969.jpg</thumbnail>
+		<title>Fire Drone Adventure</title>
+		<creator>Howling Seth Virtuoso</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

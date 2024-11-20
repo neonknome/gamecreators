@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17332505" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Evil/Parker/Planet/17332505.jpg</thumbnail>
+		<title>Mega Champion Robot</title>
+		<creator>Evil Parker Planet</creator>
+		<relatedgames />
+	</game>
+	<game id="10924021" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Alien/Tyler/Klunk/10924021.jpg</thumbnail>
+		<title>Hero Attack Power</title>
+		<creator>Alien Tyler Klunk</creator>
+		<relatedgames />
+	</game>
+	<game id="17305923" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>/gamecreators/images2/Daring/Bryce/Cyborg/17305923.jpg</thumbnail>
+		<title>Patrol Turbo Chase</title>
+		<creator>Daring Bryce Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="10039284" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Gracious/Vladimir/Yodel/10039284.jpg</thumbnail>
+		<title>Animo Lightning Defense</title>
+		<creator>Gracious Vladimir Yodel</creator>
+		<relatedgames />
+	</game>
+	<game id="17415229" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Reckless/Ernest/Fathom/17415229.jpg</thumbnail>
+		<title>Siege Hero Sonic</title>
+		<creator>Reckless Ernest Fathom</creator>
+		<relatedgames />
+	</game>
+	<game id="17415976" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Speedy/Finn/Steel/17415976.jpg</thumbnail>
+		<title>Ultimate Cannonbolt Invasion</title>
+		<creator>Speedy Finn Steel</creator>
+		<relatedgames />
+	</game>
+	<game id="10918701" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Alien/Madison/Fossil/10918701.jpg</thumbnail>
+		<title>Razor Spike Search</title>
+		<creator>Alien Madison Fossil</creator>
+		<relatedgames />
+	</game>
+	<game id="10953226" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Fanciful/Xerxes/Aardvark/10953226.jpg</thumbnail>
+		<title>Mission Streak Solar</title>
+		<creator>Fanciful Xerxes Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="10921507" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Dazzling/Steven/Squish/10921507.jpg</thumbnail>
+		<title>Quake Danger Escape</title>
+		<creator>Dazzling Steven Squish</creator>
+		<relatedgames />
+	</game>
+	<game id="10649889" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Grouchy/Brittany/Fury/10649889.jpg</thumbnail>
+		<title>Gear Mission Robot</title>
+		<creator>Grouchy Brittany Fury</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

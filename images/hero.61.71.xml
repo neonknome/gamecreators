@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10703285" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2009">
+		<thumbnail>/gamecreators/images2/Humorous/Kyle/Penguin/10703285.jpg</thumbnail>
+		<title>Cosmic Swampfire Rescue</title>
+		<creator>Humorous Kyle Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="10952287" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Gigantic/Zelda/Turbo/10952287.jpg</thumbnail>
+		<title>Rescue Rampage Rumble</title>
+		<creator>Gigantic Zelda Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="17357887" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>/gamecreators/images2/Musical/CJ/Universe/17357887.jpg</thumbnail>
+		<title>Shadow Adventure Assault</title>
+		<creator>Musical CJ Universe</creator>
+		<relatedgames />
+	</game>
+	<game id="10952647" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Sincere/Stephen/Magma/10952647.jpg</thumbnail>
+		<title>Cosmic Star Invasion</title>
+		<creator>Sincere Stephen Magma</creator>
+		<relatedgames />
+	</game>
+	<game id="17282201" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Abnormal/Lawrence/Burro/17282201.jpg</thumbnail>
+		<title>Iron Adventure Ben</title>
+		<creator>Abnormal Lawrence Burro</creator>
+		<relatedgames />
+	</game>
+	<game id="10931981" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Beastly/Corey/Citrus/10931981.jpg</thumbnail>
+		<title>Adventure Nova Warrior</title>
+		<creator>Beastly Corey Citrus</creator>
+		<relatedgames />
+	</game>
+	<game id="17341198" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/15/2012">
+		<thumbnail>/gamecreators/images2/Admiral/Anna/Crater/17341198.jpg</thumbnail>
+		<title>Target Ultimate Ambush</title>
+		<creator>Admiral Anna Crater</creator>
+		<relatedgames />
+	</game>
+	<game id="17000233" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/05/2012">
+		<thumbnail>/gamecreators/images2/Artful/Julia/Mars/17000233.jpg</thumbnail>
+		<title>Adventure Cosmic Alien</title>
+		<creator>Artful Julia Mars</creator>
+		<relatedgames />
+	</game>
+	<game id="10934766" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Savage/Jacob/Pulse/10934766.jpg</thumbnail>
+		<title>Nova Assault Earth</title>
+		<creator>Savage Jacob Pulse</creator>
+		<relatedgames />
+	</game>
+	<game id="10926893" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wild/Ernie/Fireball/10926893.jpg</thumbnail>
+		<title>Alien Invasion Mission</title>
+		<creator>Wild Ernie Fireball</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

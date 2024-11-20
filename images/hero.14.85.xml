@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17345197" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>/gamecreators/images2/Epic/Zachary/Dingbat/17345197.jpg</thumbnail>
+		<title>Steel Mission Space</title>
+		<creator>Epic Zachary Dingbat</creator>
+		<relatedgames />
+	</game>
+	<game id="17351796" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>/gamecreators/images2/Immense/Jayden/Buzzard/17351796.jpg</thumbnail>
+		<title>Vilgax Warp Swampfire</title>
+		<creator>Immense Jayden Buzzard</creator>
+		<relatedgames />
+	</game>
+	<game id="10926454" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dramatic/Laura/Fishbowl/10926454.jpg</thumbnail>
+		<title>Ultimate Rampage Chase</title>
+		<creator>Dramatic Laura Fishbowl</creator>
+		<relatedgames />
+	</game>
+	<game id="10952826" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Chilly/Leah/Haystack/10952826.jpg</thumbnail>
+		<title>Pursuit Fire Nova</title>
+		<creator>Chilly Leah Haystack</creator>
+		<relatedgames />
+	</game>
+	<game id="10918854" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Fragrant/Shannon/Spider/10918854.jpg</thumbnail>
+		<title>Siege Nova Crusher</title>
+		<creator>Fragrant Shannon Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="10648030" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Loyal/Maria/Tornado/10648030.jpg</thumbnail>
+		<title>Battle Challenge Force</title>
+		<creator>Loyal Maria Tornado</creator>
+		<relatedgames />
+	</game>
+	<game id="17332714" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Major/Raymond/Saturn/17332714.jpg</thumbnail>
+		<title>Techno Challenge Challenge</title>
+		<creator>Major Raymond Saturn</creator>
+		<relatedgames />
+	</game>
+	<game id="10932922" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Shaggy/Hunter/Behemoth/10932922.jpg</thumbnail>
+		<title>Pursuit Force Ambush</title>
+		<creator>Shaggy Hunter Behemoth</creator>
+		<relatedgames />
+	</game>
+	<game id="10031446" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Wondrous/Grace/Fizz/10031446.jpg</thumbnail>
+		<title>Stone Humongousaur Force</title>
+		<creator>Wondrous Grace Fizz</creator>
+		<relatedgames />
+	</game>
+	<game id="10925582" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dynamic/Stacy/Crumpet/10925582.jpg</thumbnail>
+		<title>Adventure Adventure Battle</title>
+		<creator>Dynamic Stacy Crumpet</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

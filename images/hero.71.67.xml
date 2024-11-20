@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17071643" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/29/2012">
+		<thumbnail>/gamecreators/images2/Princess/George/Turbo/17071643.jpg</thumbnail>
+		<title>Assault Gear Danger</title>
+		<creator>Princess George Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="17105222" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/09/2012">
+		<thumbnail>/gamecreators/images2/Colossal/Ulysses/Knight/17105222.jpg</thumbnail>
+		<title>Plasma Energy Vilgax</title>
+		<creator>Colossal Ulysses Knight</creator>
+		<relatedgames />
+	</game>
+	<game id="17034253" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/17/2012">
+		<thumbnail>/gamecreators/images2/Tough/Connor/Sword/17034253.jpg</thumbnail>
+		<title>Chill Ultimate Attack</title>
+		<creator>Tough Connor Sword</creator>
+		<relatedgames />
+	</game>
+	<game id="17392924" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Elegant/Benson/Shinobi/17392924.jpg</thumbnail>
+		<title>Solar Search Warp</title>
+		<creator>Elegant Benson Shinobi</creator>
+		<relatedgames />
+	</game>
+	<game id="16939364" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/17/2012">
+		<thumbnail>/gamecreators/images2/Splendid/Simon/Sardine/16939364.jpg</thumbnail>
+		<title>Rush Rush Rush</title>
+		<creator>Splendid Simon Sardine</creator>
+		<relatedgames />
+	</game>
+	<game id="17194153" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/06/2012">
+		<thumbnail>/gamecreators/images2/Capable/Gregory/Anvil/17194153.jpg</thumbnail>
+		<title>Techno Sonic Hyper</title>
+		<creator>Capable Gregory Anvil</creator>
+		<relatedgames />
+	</game>
+	<game id="10056515" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Atomic/Jacob/Mahogany/10056515.jpg</thumbnail>
+		<title>Hyper Doom Hero</title>
+		<creator>Atomic Jacob Mahogany</creator>
+		<relatedgames />
+	</game>
+	<game id="10928655" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Handsome/Jeffrey/Aardvark/10928655.jpg</thumbnail>
+		<title>Metal Breaker Ultimate</title>
+		<creator>Handsome Jeffrey Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="10952619" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Obvious/Megan/Octopus/10952619.jpg</thumbnail>
+		<title>Magno Smash Danger</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames />
+	</game>
+	<game id="10646034" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Loyal/Maria/Tornado/10646034.jpg</thumbnail>
+		<title>Slam Champion Plumber</title>
+		<creator>Loyal Maria Tornado</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

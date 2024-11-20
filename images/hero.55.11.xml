@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17282616" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Aromatic/Lucas/Buffalo/17282616.jpg</thumbnail>
+		<title>Ultimate Vilgax Smash</title>
+		<creator>Aromatic Lucas Buffalo</creator>
+		<relatedgames />
+	</game>
+	<game id="10927469" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dashing/Calvin/Maestro/10927469.jpg</thumbnail>
+		<title>Rush Ultra Racer</title>
+		<creator>Dashing Calvin Maestro</creator>
+		<relatedgames />
+	</game>
+	<game id="10952878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Western/Leon/Figment/10952878.jpg</thumbnail>
+		<title>Crusher Alien Solar</title>
+		<creator>Western Leon Figment</creator>
+		<relatedgames />
+	</game>
+	<game id="17278924" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Fiery/Colin/Jungle/17278924.jpg</thumbnail>
+		<title>Alien Ambush Chill</title>
+		<creator>Fiery Colin Jungle</creator>
+		<relatedgames />
+	</game>
+	<game id="17551092" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Dreadful/Alex/Dodo/17551092.jpg</thumbnail>
+		<title>Adventure Assault Nitro</title>
+		<creator>Dreadful Alex Dodo</creator>
+		<relatedgames />
+	</game>
+	<game id="10916994" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Happy/Bucky/Cobweb/10916994.jpg</thumbnail>
+		<title>Star Mega Breaker</title>
+		<creator>Happy Bucky Cobweb</creator>
+		<relatedgames />
+	</game>
+	<game id="16939364" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/17/2012">
+		<thumbnail>/gamecreators/images2/Splendid/Simon/Sardine/16939364.jpg</thumbnail>
+		<title>Rush Rush Rush</title>
+		<creator>Splendid Simon Sardine</creator>
+		<relatedgames />
+	</game>
+	<game id="10921674" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Rugged/Orlando/Virtuoso/10921674.jpg</thumbnail>
+		<title>Swampfire Shadow Attack</title>
+		<creator>Rugged Orlando Virtuoso</creator>
+		<relatedgames />
+	</game>
+	<game id="17351796" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>/gamecreators/images2/Immense/Jayden/Buzzard/17351796.jpg</thumbnail>
+		<title>Vilgax Warp Swampfire</title>
+		<creator>Immense Jayden Buzzard</creator>
+		<relatedgames />
+	</game>
+	<game id="10925920" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Puzzling/Ludwig/Zigzag/10925920.jpg</thumbnail>
+		<title>Lightning Alien Earth</title>
+		<creator>Puzzling Ludwig Zigzag</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

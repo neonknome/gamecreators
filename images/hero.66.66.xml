@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17353868" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>/gamecreators/images2/Mirthful/Marco/Castle/17353868.jpg</thumbnail>
+		<title>Champion Adventure Ultimate</title>
+		<creator>Mirthful Marco Castle</creator>
+		<relatedgames />
+	</game>
+	<game id="16993882" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>/gamecreators/images2/Zany/Yorick/Behemoth/16993882.jpg</thumbnail>
+		<title>Spidermonkey Ultra Escape</title>
+		<creator>Zany Yorick Behemoth</creator>
+		<relatedgames />
+	</game>
+	<game id="17322959" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Colossal/Arthur/Cyborg/17322959.jpg</thumbnail>
+		<title>Jetray Slam Assault</title>
+		<creator>Colossal Arthur Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="17075414" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/31/2012">
+		<thumbnail>/gamecreators/images2/Tireless/Ruby/Phoenix/17075414.jpg</thumbnail>
+		<title>Fire Ben Universe</title>
+		<creator>Tireless Ruby Phoenix</creator>
+		<relatedgames />
+	</game>
+	<game id="17233967" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>/gamecreators/images2/Baron/Felipe/Nova/17233967.jpg</thumbnail>
+		<title>Techno Cosmic Slam</title>
+		<creator>Baron Felipe Nova</creator>
+		<relatedgames />
+	</game>
+	<game id="17418779" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Horrid/Wilford/Rhombus/17418779.jpg</thumbnail>
+		<title>Magno Chase Assault</title>
+		<creator>Horrid Wilford Rhombus</creator>
+		<relatedgames />
+	</game>
+	<game id="10042856" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Mighty/Matthew/Kayak/10042856.jpg</thumbnail>
+		<title>Hero Drone Atomic</title>
+		<creator>Mighty Matthew Kayak</creator>
+		<relatedgames />
+	</game>
+	<game id="17376853" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2012">
+		<thumbnail>/gamecreators/images2/Hypnotic/Mason/Blast/17376853.jpg</thumbnail>
+		<title>Adventure Warp Laser</title>
+		<creator>Hypnotic Mason Blast</creator>
+		<relatedgames />
+	</game>
+	<game id="10924623" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Purple/Thor/Thorax/10924623.jpg</thumbnail>
+		<title>Pulse Atomic Target</title>
+		<creator>Purple Thor Thorax</creator>
+		<relatedgames />
+	</game>
+	<game id="17362289" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2012">
+		<thumbnail>/gamecreators/images2/Ticklish/Dylan/Steel/17362289.jpg</thumbnail>
+		<title>Ultra Thunder Mission</title>
+		<creator>Ticklish Dylan Steel</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

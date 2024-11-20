@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10916748" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Frosty/Lillian/Crash/10916748.jpg</thumbnail>
+		<title>Doom Blaster Rumble</title>
+		<creator>Frosty Lillian Crash</creator>
+		<relatedgames />
+	</game>
+	<game id="17191739" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/05/2012">
+		<thumbnail>/gamecreators/images2/Elastic/Dwight/Robot/17191739.jpg</thumbnail>
+		<title>Solar Warrior Ambush</title>
+		<creator>Elastic Dwight Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="10057035" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Generous/Justin/Coconut/10057035.jpg</thumbnail>
+		<title>Atomic Adventure Alien</title>
+		<creator>Generous Justin Coconut</creator>
+		<relatedgames />
+	</game>
+	<game id="10942861" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Shrewd/Cheyenne/Goofball/10942861.jpg</thumbnail>
+		<title>Rumble Force Swampfire</title>
+		<creator>Shrewd Cheyenne Goofball</creator>
+		<relatedgames />
+	</game>
+	<game id="10918223" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Purple/Sam/Warp/10918223.jpg</thumbnail>
+		<title>Rumble Swampfire Warrior</title>
+		<creator>Purple Sam Warp</creator>
+		<relatedgames />
+	</game>
+	<game id="10925521" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Eerie/Dominic/Quack/10925521.jpg</thumbnail>
+		<title>Turbo Titan Patrol</title>
+		<creator>Eerie Dominic Quack</creator>
+		<relatedgames />
+	</game>
+	<game id="17161179" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/26/2012">
+		<thumbnail>/gamecreators/images2/Galactic/Zeus/Celsius/17161179.jpg</thumbnail>
+		<title>Chill Nano Adventure</title>
+		<creator>Galactic Zeus Celsius</creator>
+		<relatedgames />
+	</game>
+	<game id="10034816" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Merry/Bjorn/Witch/10034816.jpg</thumbnail>
+		<title>Fire Blaster Force</title>
+		<creator>Merry Bjorn Witch</creator>
+		<relatedgames />
+	</game>
+	<game id="16981505" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>/gamecreators/images2/Enormous/Bella/Bucket/16981505.jpg</thumbnail>
+		<title>Adventure Lightning Challenge</title>
+		<creator>Enormous Bella Bucket</creator>
+		<relatedgames />
+	</game>
+	<game id="17393705" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/04/2012">
+		<thumbnail>/gamecreators/images2/Sinister/Marcus/Oink/17393705.jpg</thumbnail>
+		<title>Hero Alien Beast</title>
+		<creator>Sinister Marcus Oink</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

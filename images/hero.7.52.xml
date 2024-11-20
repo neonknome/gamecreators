@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17248167" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/21/2012">
+		<thumbnail>/gamecreators/images2/Super/Felipe/Macaroni/17248167.jpg</thumbnail>
+		<title>Gear Adventure Adventure</title>
+		<creator>Super Felipe Macaroni</creator>
+		<relatedgames />
+	</game>
+	<game id="17275942" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>/gamecreators/images2/Zany/Timmy/Yak/17275942.jpg</thumbnail>
+		<title>Ben Techno Warrior</title>
+		<creator>Zany Timmy Yak</creator>
+		<relatedgames />
+	</game>
+	<game id="10944766" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Colossal/Adam/Squawk/10944766.jpg</thumbnail>
+		<title>Star Patrol Robot</title>
+		<creator>Colossal Adam Squawk</creator>
+		<relatedgames />
+	</game>
+	<game id="17227748" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>/gamecreators/images2/Baron/Benjamin/Twilight/17227748.jpg</thumbnail>
+		<title>Whirlwind Giga Chill</title>
+		<creator>Baron Benjamin Twilight</creator>
+		<relatedgames />
+	</game>
+	<game id="17232918" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/17/2012">
+		<thumbnail>/gamecreators/images2/Amusing/Corey/Yoyo/17232918.jpg</thumbnail>
+		<title>Lightning Brainstorm Laser</title>
+		<creator>Amusing Corey Yoyo</creator>
+		<relatedgames />
+	</game>
+	<game id="10926749" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Daring/Jack/Photon/10926749.jpg</thumbnail>
+		<title>Rustbucket Hero Racer</title>
+		<creator>Daring Jack Photon</creator>
+		<relatedgames />
+	</game>
+	<game id="10953468" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Grand/Samuel/Penguin/10953468.jpg</thumbnail>
+		<title>Swampfire Mission Challenge</title>
+		<creator>Grand Samuel Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="10948057" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Fearsome/Rick/Mammoth/10948057.jpg</thumbnail>
+		<title>Plumber Storm Force</title>
+		<creator>Fearsome Rick Mammoth</creator>
+		<relatedgames />
+	</game>
+	<game id="10039383" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Gruesome/Justin/Manatee/10039383.jpg</thumbnail>
+		<title>Titan Magno Fire</title>
+		<creator>Gruesome Justin Manatee</creator>
+		<relatedgames />
+	</game>
+	<game id="17301303" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Spicy/Holly/Ion/17301303.jpg</thumbnail>
+		<title>Thunder Drone Charge</title>
+		<creator>Spicy Holly Ion</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

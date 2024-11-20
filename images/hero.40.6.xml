@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10935773" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Dixie/Creature/10935773.jpg</thumbnail>
+		<title>Swampfire Target Challenge</title>
+		<creator>Tricky Dixie Creature</creator>
+		<relatedgames />
+	</game>
+	<game id="10066089" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Adorable/Alexis/Cumulus/10066089.jpg</thumbnail>
+		<title>Swampfire Swampfire Swampfire</title>
+		<creator>Adorable Alexis Cumulus</creator>
+		<relatedgames />
+	</game>
+	<game id="16997259" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/05/2012">
+		<thumbnail>/gamecreators/images2/Creepy/Ashton/Vulture/16997259.jpg</thumbnail>
+		<title>Iron Big Robot</title>
+		<creator>Creepy Ashton Vulture</creator>
+		<relatedgames />
+	</game>
+	<game id="10930529" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Brainy/Taylor/Spark/10930529.jpg</thumbnail>
+		<title>Defense Crusher Storm</title>
+		<creator>Brainy Taylor Spark</creator>
+		<relatedgames />
+	</game>
+	<game id="10926798" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Infinite/Leon/Amethyst/10926798.jpg</thumbnail>
+		<title>Rumble Hero Power</title>
+		<creator>Infinite Leon Amethyst</creator>
+		<relatedgames />
+	</game>
+	<game id="17259049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/24/2012">
+		<thumbnail>/gamecreators/images2/Queen/Lawrence/Eggplant/17259049.jpg</thumbnail>
+		<title>Big Earth Nova</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames />
+	</game>
+	<game id="10933707" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Reckless/Jeremy/Monkey/10933707.jpg</thumbnail>
+		<title>Drone Plasma Droid</title>
+		<creator>Reckless Jeremy Monkey</creator>
+		<relatedgames />
+	</game>
+	<game id="17281331" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Unknown/Magnus/Twist/17281331.jpg</thumbnail>
+		<title>Ultimate Cannonbolt Escape</title>
+		<creator>Unknown Magnus Twist</creator>
+		<relatedgames />
+	</game>
+	<game id="10920338" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Stylish/Harvey/Universe/10920338.jpg</thumbnail>
+		<title>Spark Magno Racer</title>
+		<creator>Stylish Harvey Universe</creator>
+		<relatedgames />
+	</game>
+	<game id="17333014" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Merry/Ichabod/Elephant/17333014.jpg</thumbnail>
+		<title>Stone Big Pursuit</title>
+		<creator>Merry Ichabod Elephant</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10938998" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Royal/Cameron/Cupcake/10938998.jpg</thumbnail>
+		<title>Ultra Hero Attack</title>
+		<creator>Royal Cameron Cupcake</creator>
+		<relatedgames />
+	</game>
+	<game id="10923154" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wacky/Carson/Volcano/10923154.jpg</thumbnail>
+		<title>Adventure Target Battle</title>
+		<creator>Wacky Carson Volcano</creator>
+		<relatedgames />
+	</game>
+	<game id="17177767" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>/gamecreators/images2/Athletic/Oscar/Mars/17177767.jpg</thumbnail>
+		<title>Spark Spidermonkey Assault</title>
+		<creator>Athletic Oscar Mars</creator>
+		<relatedgames />
+	</game>
+	<game id="17287999" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/01/2012">
+		<thumbnail>/gamecreators/images2/Digital/Milo/Cartoon/17287999.jpg</thumbnail>
+		<title>Rush Streak Swampfire</title>
+		<creator>Digital Milo Cartoon</creator>
+		<relatedgames />
+	</game>
+	<game id="17242114" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>/gamecreators/images2/Gruesome/Scooby/Cyborg/17242114.jpg</thumbnail>
+		<title>Adventure Droid Ultra</title>
+		<creator>Gruesome Scooby Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="17304147" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Flying/Stanley/Quake/17304147.jpg</thumbnail>
+		<title>Cannonbolt Cannonbolt Cannonbolt</title>
+		<creator>Flying Stanley Quake</creator>
+		<relatedgames />
+	</game>
+	<game id="10648482" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Crafty/Kristen/Quake/10648482.jpg</thumbnail>
+		<title>Light Universe Vilgax</title>
+		<creator>Crafty Kristen Quake</creator>
+		<relatedgames />
+	</game>
+	<game id="10926436" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Twisty/Gavin/Seesaw/10926436.jpg</thumbnail>
+		<title>Sonic Ben Streak</title>
+		<creator>Twisty Gavin Seesaw</creator>
+		<relatedgames />
+	</game>
+	<game id="10923969" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Blustery/Lucas/Viking/10923969.jpg</thumbnail>
+		<title>Rocket Plumber Razor</title>
+		<creator>Blustery Lucas Viking</creator>
+		<relatedgames />
+	</game>
+	<game id="17569422" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Hyper/Lucius/Ketchup/17569422.jpg</thumbnail>
+		<title>Burst Rustbucket Galaxy</title>
+		<creator>Hyper Lucius Ketchup</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

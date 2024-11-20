@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17411673" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/13/2012">
+		<thumbnail>/gamecreators/images2/Organic/Yvonne/Sprocket/17411673.jpg</thumbnail>
+		<title>Fury Doom Ultra</title>
+		<creator>Organic Yvonne Sprocket</creator>
+		<relatedgames />
+	</game>
+	<game id="17552128" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Steven/Buffalo/17552128.jpg</thumbnail>
+		<title>Humungousaur Dark Techno</title>
+		<creator>Steven Buffalo</creator>
+		<relatedgames />
+	</game>
+	<game id="10042851" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Chaotic/Rob/Pinwheel/10042851.jpg</thumbnail>
+		<title>Ultimate Earth Star</title>
+		<creator>Chaotic Rob Pinwheel</creator>
+		<relatedgames />
+	</game>
+	<game id="17248167" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/21/2012">
+		<thumbnail>/gamecreators/images2/Super/Felipe/Macaroni/17248167.jpg</thumbnail>
+		<title>Gear Adventure Adventure</title>
+		<creator>Super Felipe Macaroni</creator>
+		<relatedgames />
+	</game>
+	<game id="10952583" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Awesome/Craig/Orchid/10952583.jpg</thumbnail>
+		<title>Sonic Adventure Vilgax</title>
+		<creator>Awesome Craig Orchid</creator>
+		<relatedgames />
+	</game>
+	<game id="10944766" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Colossal/Adam/Squawk/10944766.jpg</thumbnail>
+		<title>Star Patrol Robot</title>
+		<creator>Colossal Adam Squawk</creator>
+		<relatedgames />
+	</game>
+	<game id="10921643" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Magnetic/Ernie/Rumble/10921643.jpg</thumbnail>
+		<title>Rampage Defense Galaxy</title>
+		<creator>Magnetic Ernie Rumble</creator>
+		<relatedgames />
+	</game>
+	<game id="10923136" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Horrid/Mario/Dwarf/10923136.jpg</thumbnail>
+		<title>Mission Vilgax Fusion</title>
+		<creator>Horrid Mario Dwarf</creator>
+		<relatedgames />
+	</game>
+	<game id="10916978" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Powerful/Dominic/Grackle/10916978.jpg</thumbnail>
+		<title>Drone Mega Hero</title>
+		<creator>Powerful Dominic Grackle</creator>
+		<relatedgames />
+	</game>
+	<game id="17331685" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Subtle/Lancelot/Ricochet/17331685.jpg</thumbnail>
+		<title>Hyper Whirlwind Rampage</title>
+		<creator>Subtle Lancelot Ricochet</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

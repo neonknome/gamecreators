@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10923277" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Pretty/Valerie/Buzzard/10923277.jpg</thumbnail>
+		<title>Ultra Nova Hero</title>
+		<creator>Pretty Valerie Buzzard</creator>
+		<relatedgames />
+	</game>
+	<game id="17389615" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Duke/Ariel/Cookie/17389615.jpg</thumbnail>
+		<title>Alien Techno Turbo</title>
+		<creator>Duke Ariel Cookie</creator>
+		<relatedgames />
+	</game>
+	<game id="10948867" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Noble/Ron/Frost/10948867.jpg</thumbnail>
+		<title>Adventure Search Attack</title>
+		<creator>Noble Ron Frost</creator>
+		<relatedgames />
+	</game>
+	<game id="10918670" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Sneaky/Bubba/Kumquat/10918670.jpg</thumbnail>
+		<title>Cosmic Steel Warrior</title>
+		<creator>Sneaky Bubba Kumquat</creator>
+		<relatedgames />
+	</game>
+	<game id="10066089" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Adorable/Alexis/Cumulus/10066089.jpg</thumbnail>
+		<title>Swampfire Swampfire Swampfire</title>
+		<creator>Adorable Alexis Cumulus</creator>
+		<relatedgames />
+	</game>
+	<game id="10930529" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Brainy/Taylor/Spark/10930529.jpg</thumbnail>
+		<title>Defense Crusher Storm</title>
+		<creator>Brainy Taylor Spark</creator>
+		<relatedgames />
+	</game>
+	<game id="16979806" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>/gamecreators/images2/Extinct/Bobo/Wombat/16979806.jpg</thumbnail>
+		<title>Rumble Energy Ultimate</title>
+		<creator>Extinct Bobo Wombat</creator>
+		<relatedgames />
+	</game>
+	<game id="10920878" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Noble/Erin/Wiffle/10920878.jpg</thumbnail>
+		<title>Fury Droid Pursuit</title>
+		<creator>Noble Erin Wiffle</creator>
+		<relatedgames />
+	</game>
+	<game id="10948032" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Feisty/Bailey/Skylark/10948032.jpg</thumbnail>
+		<title>Smash Shock Atomic</title>
+		<creator>Feisty Bailey Skylark</creator>
+		<relatedgames />
+	</game>
+	<game id="17279545" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Jumping/Nick/Avocado/17279545.jpg</thumbnail>
+		<title>Power Power Power</title>
+		<creator>Jumping Nick Avocado</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

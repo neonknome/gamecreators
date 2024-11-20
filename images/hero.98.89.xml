@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17254961" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>/gamecreators/images2/Fiery/DJ/Yam/17254961.jpg</thumbnail>
+		<title>Blaster Clash Mega</title>
+		<creator>Fiery DJ Yam</creator>
+		<relatedgames />
+	</game>
+	<game id="10924158" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Frantic/Melissa/Porridge/10924158.jpg</thumbnail>
+		<title>Swampfire Techno Warp</title>
+		<creator>Frantic Melissa Porridge</creator>
+		<relatedgames />
+	</game>
+	<game id="10069204" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Lucky/Simon/Droid/10069204.jpg</thumbnail>
+		<title>Nano Hex Giga</title>
+		<creator>Lucky Simon Droid</creator>
+		<relatedgames />
+	</game>
+	<game id="17278815" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Rugged/Scooter/Possum/17278815.jpg</thumbnail>
+		<title>Laser Gear Shadow</title>
+		<creator>Rugged Scooter Possum</creator>
+		<relatedgames />
+	</game>
+	<game id="10062600" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Weird/Grover/Monkey/10062600.jpg</thumbnail>
+		<title>Swampfire Fire Universe</title>
+		<creator>Weird Grover Monkey</creator>
+		<relatedgames />
+	</game>
+	<game id="17540856" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Plucky/Drew/Yak/17540856.jpg</thumbnail>
+		<title>Shadow Steel Crusher</title>
+		<creator>Plucky Drew Yak</creator>
+		<relatedgames />
+	</game>
+	<game id="17349988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>/gamecreators/images2/Dramatic/Lois/Sword/17349988.jpg</thumbnail>
+		<title>Hero Swampfire Rumble</title>
+		<creator>Dramatic Lois Sword</creator>
+		<relatedgames />
+	</game>
+	<game id="16872902" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/02/2012">
+		<thumbnail>/gamecreators/images2/Frantic/Carlos/Anvil/16872902.jpg</thumbnail>
+		<title>Universe Warrior Iron</title>
+		<creator>Frantic Carlos Anvil</creator>
+		<relatedgames />
+	</game>
+	<game id="10926745" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Eager/Sara/Goulash/10926745.jpg</thumbnail>
+		<title>Force Invasion Warrior</title>
+		<creator>Eager Sara Goulash</creator>
+		<relatedgames />
+	</game>
+	<game id="17407806" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>/gamecreators/images2/Shaggy/Jason/Spleen/17407806.jpg</thumbnail>
+		<title>Sonic Universe Water</title>
+		<creator>Shaggy Jason Spleen</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

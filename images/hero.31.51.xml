@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17017591" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/12/2012">
+		<thumbnail>/gamecreators/images2/Radiant/Genghis/Warrior/17017591.jpg</thumbnail>
+		<title>Jetray Laser Assault</title>
+		<creator>Radiant Genghis Warrior</creator>
+		<relatedgames />
+	</game>
+	<game id="10926436" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Twisty/Gavin/Seesaw/10926436.jpg</thumbnail>
+		<title>Sonic Ben Streak</title>
+		<creator>Twisty Gavin Seesaw</creator>
+		<relatedgames />
+	</game>
+	<game id="17209583" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/11/2012">
+		<thumbnail>/gamecreators/images2/Normal/Betty/Venom/17209583.jpg</thumbnail>
+		<title>Patrol Warrior Water</title>
+		<creator>Normal Betty Venom</creator>
+		<relatedgames />
+	</game>
+	<game id="10927171" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Crunchy/Benjamin/Blammo/10927171.jpg</thumbnail>
+		<title>Siege Nano Earth</title>
+		<creator>Crunchy Benjamin Blammo</creator>
+		<relatedgames />
+	</game>
+	<game id="17333120" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Venomous/Cheyenne/Venom/17333120.jpg</thumbnail>
+		<title>Escape Burst Ben</title>
+		<creator>Venomous Cheyenne Venom</creator>
+		<relatedgames />
+	</game>
+	<game id="17323648" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Superior/Vincent/Biscuit/17323648.jpg</thumbnail>
+		<title>Mission Chill Rocket</title>
+		<creator>Superior Vincent Biscuit</creator>
+		<relatedgames />
+	</game>
+	<game id="16916886" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>/gamecreators/images2/Awful/Bart/Spark/16916886.jpg</thumbnail>
+		<title>Rush Chill Beast</title>
+		<creator>Awful Bart Spark</creator>
+		<relatedgames />
+	</game>
+	<game id="10952952" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Zippy/Frank/Bramble/10952952.jpg</thumbnail>
+		<title>Energy Warp Spark</title>
+		<creator>Zippy Frank Bramble</creator>
+		<relatedgames />
+	</game>
+	<game id="10919589" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Humble/Adrian/Unicorn/10919589.jpg</thumbnail>
+		<title>Nova Laser Earth</title>
+		<creator>Humble Adrian Unicorn</creator>
+		<relatedgames />
+	</game>
+	<game id="10942165" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Pretty/Vinny/Zebra/10942165.jpg</thumbnail>
+		<title>Earth Nano Storm</title>
+		<creator>Pretty Vinny Zebra</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10918668" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Brainy/Logan/Blitz/10918668.jpg</thumbnail>
+		<title>Burst Storm Sonic</title>
+		<creator>Brainy Logan Blitz</creator>
+		<relatedgames />
+	</game>
+	<game id="10937074" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Infinite/Goliath/Cyborg/10937074.jpg</thumbnail>
+		<title>Spike Robot Pursuit</title>
+		<creator>Infinite Goliath Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="17163650" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/27/2012">
+		<thumbnail>/gamecreators/images2/Quantum/Tanner/Skeleton/17163650.jpg</thumbnail>
+		<title>Galaxy Alien Spark</title>
+		<creator>Quantum Tanner Skeleton</creator>
+		<relatedgames />
+	</game>
+	<game id="17400808" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>/gamecreators/images2/Noble/Celeste/Thorax/17400808.jpg</thumbnail>
+		<title>Galaxy Turbo Vilgax</title>
+		<creator>Noble Celeste Thorax</creator>
+		<relatedgames />
+	</game>
+	<game id="17191784" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/05/2012">
+		<thumbnail>/gamecreators/images2/Active/Michael/Trooper/17191784.jpg</thumbnail>
+		<title>Razor Droid Galaxy</title>
+		<creator>Active Michael Trooper</creator>
+		<relatedgames />
+	</game>
+	<game id="10933579" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Uncanny/Anthony/Volcano/10933579.jpg</thumbnail>
+		<title>Burst Blaster Smash</title>
+		<creator>Uncanny Anthony Volcano</creator>
+		<relatedgames />
+	</game>
+	<game id="10952882" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Bouncing/Rufus/Ukulele/10952882.jpg</thumbnail>
+		<title>Warrior Beast Alien</title>
+		<creator>Bouncing Rufus Ukulele</creator>
+		<relatedgames />
+	</game>
+	<game id="17401228" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>/gamecreators/images2/Dandy/Ernie/Goblin/17401228.jpg</thumbnail>
+		<title>Breaker Atomic Turbo</title>
+		<creator>Dandy Ernie Goblin</creator>
+		<relatedgames />
+	</game>
+	<game id="10936013" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Jolly/Julian/Howler/10936013.jpg</thumbnail>
+		<title>Energy Invasion Champion</title>
+		<creator>Jolly Julian Howler</creator>
+		<relatedgames />
+	</game>
+	<game id="17578219" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Rancid/Don/Nova/17578219.jpg</thumbnail>
+		<title>Clash Chill Spidermonkey</title>
+		<creator>Rancid Don Nova</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

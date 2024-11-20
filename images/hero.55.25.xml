@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17408671" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>/gamecreators/images2/Popular/Brayden/Spleen/17408671.jpg</thumbnail>
+		<title>Stone Siege Laser</title>
+		<creator>Popular Brayden Spleen</creator>
+		<relatedgames />
+	</game>
+	<game id="10024911" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Shiny/Bobby/Werewolf/10024911.jpg</thumbnail>
+		<title>Fire Iron Burst</title>
+		<creator>Shiny Bobby Werewolf</creator>
+		<relatedgames />
+	</game>
+	<game id="17422758" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>/gamecreators/images2/Proud/Nate/Foul/17422758.jpg</thumbnail>
+		<title>Cosmic Ambush Adventure</title>
+		<creator>Proud Nate Foul</creator>
+		<relatedgames />
+	</game>
+	<game id="10028187" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Eastern/Alan/Charger/10028187.jpg</thumbnail>
+		<title>Defense Attack Power</title>
+		<creator>Eastern Alan Charger</creator>
+		<relatedgames />
+	</game>
+	<game id="10924783" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Cosmic/Harry/Bongo/10924783.jpg</thumbnail>
+		<title>Force Rustbucket Attack</title>
+		<creator>Cosmic Harry Bongo</creator>
+		<relatedgames />
+	</game>
+	<game id="10922307" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fuzzy/Harry/Droid/10922307.jpg</thumbnail>
+		<title>Fire Attack Power</title>
+		<creator>Fuzzy Harry Droid</creator>
+		<relatedgames />
+	</game>
+	<game id="17229933" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/16/2012">
+		<thumbnail>/gamecreators/images2/Emperor/Autumn/Mutant/17229933.jpg</thumbnail>
+		<title>Adventure Jetray Shock</title>
+		<creator>Emperor Autumn Mutant</creator>
+		<relatedgames />
+	</game>
+	<game id="10921512" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Sincere/Victor/Boing/10921512.jpg</thumbnail>
+		<title>Galaxy Mission Rush</title>
+		<creator>Sincere Victor Boing</creator>
+		<relatedgames />
+	</game>
+	<game id="10927605" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Loony/Heidi/Grouch/10927605.jpg</thumbnail>
+		<title>Swampfire Plumber Patrol</title>
+		<creator>Loony Heidi Grouch</creator>
+		<relatedgames />
+	</game>
+	<game id="17567998" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Verbose/Sam/Quasar/17567998.jpg</thumbnail>
+		<title>Mission Techno Nano</title>
+		<creator>Verbose Sam Quasar</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17227748" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>/gamecreators/images2/Baron/Benjamin/Twilight/17227748.jpg</thumbnail>
+		<title>Whirlwind Giga Chill</title>
+		<creator>Baron Benjamin Twilight</creator>
+		<relatedgames />
+	</game>
+	<game id="10952932" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Sloppy/Connor/Fondue/10952932.jpg</thumbnail>
+		<title>Adventure Doom Breaker</title>
+		<creator>Sloppy Connor Fondue</creator>
+		<relatedgames />
+	</game>
+	<game id="17369469" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/25/2012">
+		<thumbnail>/gamecreators/images2/Academic/Lauren/Spider/17369469.jpg</thumbnail>
+		<title>Gear Giga Big</title>
+		<creator>Academic Lauren Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="17305155" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>/gamecreators/images2/Bold/Brandon/Magpie/17305155.jpg</thumbnail>
+		<title>Plumber Slam Blaster</title>
+		<creator>Bold Brandon Magpie</creator>
+		<relatedgames />
+	</game>
+	<game id="10649752" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Enormous/Simon/Acrobat/10649752.jpg</thumbnail>
+		<title>Ultra Thunder Hero</title>
+		<creator>Enormous Simon Acrobat</creator>
+		<relatedgames />
+	</game>
+	<game id="17191368" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/05/2012">
+		<thumbnail>/gamecreators/images2/Hypnotic/Jayden/Marmoset/17191368.jpg</thumbnail>
+		<title>Nova Power Adventure</title>
+		<creator>Hypnotic Jayden Marmoset</creator>
+		<relatedgames />
+	</game>
+	<game id="17115481" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/11/2012">
+		<thumbnail>/gamecreators/images2/Glorious/Logan/Brick/17115481.jpg</thumbnail>
+		<title>Cosmic Clash Adventure</title>
+		<creator>Glorious Logan Brick</creator>
+		<relatedgames />
+	</game>
+	<game id="17283515" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Negative/Bubbie/Pinwheel/17283515.jpg</thumbnail>
+		<title>Ultimate Adventure Storm</title>
+		<creator>Negative Bubbie Pinwheel</creator>
+		<relatedgames />
+	</game>
+	<game id="16954763" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/21/2012">
+		<thumbnail>/gamecreators/images2/Sleepy/Cameron/Gamer/16954763.jpg</thumbnail>
+		<title>Ultimate Escape Racer</title>
+		<creator>Sleepy Cameron Gamer</creator>
+		<relatedgames />
+	</game>
+	<game id="10916846" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Absurd/Rocky/Penguin/10916846.jpg</thumbnail>
+		<title>Ben Magno Blaster</title>
+		<creator>Absurd Rocky Penguin</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

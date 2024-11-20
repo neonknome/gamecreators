@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10044170" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Happy/Bernard/Banjo/10044170.jpg</thumbnail>
+		<title>Mission Stone Pursuit</title>
+		<creator>Happy Bernard Banjo</creator>
+		<relatedgames />
+	</game>
+	<game id="16961418" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/23/2012">
+		<thumbnail>/gamecreators/images2/Active/Augustus/Lemon/16961418.jpg</thumbnail>
+		<title>Alien Ultimate Universe</title>
+		<creator>Active Augustus Lemon</creator>
+		<relatedgames />
+	</game>
+	<game id="10937475" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Frantic/Hayden/Sawtooth/10937475.jpg</thumbnail>
+		<title>Warrior Blaster Mission</title>
+		<creator>Frantic Hayden Sawtooth</creator>
+		<relatedgames />
+	</game>
+	<game id="10936585" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Rugged/Dakota/Doodle/10936585.jpg</thumbnail>
+		<title>Robot Rumble Rampage</title>
+		<creator>Rugged Dakota Doodle</creator>
+		<relatedgames />
+	</game>
+	<game id="17417389" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Strong/Matthew/Fez/17417389.jpg</thumbnail>
+		<title>Battle Blaster Titan</title>
+		<creator>Strong Matthew Fez</creator>
+		<relatedgames />
+	</game>
+	<game id="10028568" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Atomic/Harvey/Aardvark/10028568.jpg</thumbnail>
+		<title>Fire Spike Search</title>
+		<creator>Atomic Harvey Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="17262679" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Shaggy/Vladimir/Crowbar/17262679.jpg</thumbnail>
+		<title>Big Adventure Universe</title>
+		<creator>Shaggy Vladimir Crowbar</creator>
+		<relatedgames />
+	</game>
+	<game id="10920049" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Yellow/Aaron/Mango/10920049.jpg</thumbnail>
+		<title>Invasion Adventure Rustbucket</title>
+		<creator>Yellow Aaron Mango</creator>
+		<relatedgames />
+	</game>
+	<game id="17363715" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>/gamecreators/images2/Babbling/Brett/Nonsense/17363715.jpg</thumbnail>
+		<title>Space Spark Nano</title>
+		<creator>Babbling Brett Nonsense</creator>
+		<relatedgames />
+	</game>
+	<game id="10929106" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Eager/Madeline/Barnacle/10929106.jpg</thumbnail>
+		<title>Racer Rocket Crusher</title>
+		<creator>Eager Madeline Barnacle</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

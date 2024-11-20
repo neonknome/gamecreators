@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10032046" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Absurd/Ava/Bayou/10032046.jpg</thumbnail>
+		<title>Defense Alien Humongousaur</title>
+		<creator>Absurd Ava Bayou</creator>
+		<relatedgames />
+	</game>
+	<game id="10064904" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Cosmic/Goliath/Oddball/10064904.jpg</thumbnail>
+		<title>Adventure Mission Sonic</title>
+		<creator>Cosmic Goliath Oddball</creator>
+		<relatedgames />
+	</game>
+	<game id="10938646" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Frank/Blade/10938646.jpg</thumbnail>
+		<title>Swampfire Spark Charge</title>
+		<creator>Tricky Frank Blade</creator>
+		<relatedgames />
+	</game>
+	<game id="10953287" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Crispy/Ben/Bolt/10953287.jpg</thumbnail>
+		<title>Slam Ultimate Beast</title>
+		<creator>Crispy Ben Bolt</creator>
+		<relatedgames />
+	</game>
+	<game id="16850232" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/28/2012">
+		<thumbnail>/gamecreators/images2/Intrepid/Eduardo/Flatiron/16850232.jpg</thumbnail>
+		<title>Hero Blaster Light</title>
+		<creator>Intrepid Eduardo Flatiron</creator>
+		<relatedgames />
+	</game>
+	<game id="17292401" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>/gamecreators/images2/Queen/Lawrence/Eggplant/17292401.jpg</thumbnail>
+		<title>Terraspin Terraspin Terraspin</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames />
+	</game>
+	<game id="17395565" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>/gamecreators/images2/Toxic/Rocky/Photon/17395565.jpg</thumbnail>
+		<title>Sonic Big Rocket</title>
+		<creator>Toxic Rocky Photon</creator>
+		<relatedgames />
+	</game>
+	<game id="17241860" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>/gamecreators/images2/Creative/Jay/Buffalo/17241860.jpg</thumbnail>
+		<title>Razor Echo Chill</title>
+		<creator>Creative Jay Buffalo</creator>
+		<relatedgames />
+	</game>
+	<game id="10934222" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Gigantic/Andrew/Tusk/10934222.jpg</thumbnail>
+		<title>Doom Titan Invasion</title>
+		<creator>Gigantic Andrew Tusk</creator>
+		<relatedgames />
+	</game>
+	<game id="17163650" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/27/2012">
+		<thumbnail>/gamecreators/images2/Quantum/Tanner/Skeleton/17163650.jpg</thumbnail>
+		<title>Galaxy Alien Spark</title>
+		<creator>Quantum Tanner Skeleton</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

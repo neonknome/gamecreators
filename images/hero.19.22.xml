@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10916844" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Itchy/Jared/Kazoo/10916844.jpg</thumbnail>
+		<title>Rampage Smash Fusion</title>
+		<creator>Itchy Jared Kazoo</creator>
+		<relatedgames />
+	</game>
+	<game id="10925006" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Savannah/Crash/10925006.jpg</thumbnail>
+		<title>Mega Hyper Fire</title>
+		<creator>Tricky Savannah Crash</creator>
+		<relatedgames />
+	</game>
+	<game id="10922956" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Blue/Corey/Crash/10922956.jpg</thumbnail>
+		<title>Burst Swampfire Patrol</title>
+		<creator>Blue Corey Crash</creator>
+		<relatedgames />
+	</game>
+	<game id="17028218" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/15/2012">
+		<thumbnail>/gamecreators/images2/Solid/Shawn/Oyster/17028218.jpg</thumbnail>
+		<title>Jetray Rock Animo</title>
+		<creator>Solid Shawn Oyster</creator>
+		<relatedgames />
+	</game>
+	<game id="16871238" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/01/2012">
+		<thumbnail>/gamecreators/images2/Aerobic/Larry/Mango/16871238.jpg</thumbnail>
+		<title>Target Robot Fire</title>
+		<creator>Aerobic Larry Mango</creator>
+		<relatedgames />
+	</game>
+	<game id="10922395" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Brave/Raymond/Atom/10922395.jpg</thumbnail>
+		<title>Warrior Earth Sonic</title>
+		<creator>Brave Raymond Atom</creator>
+		<relatedgames />
+	</game>
+	<game id="17179810" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>/gamecreators/images2/Extreme/Alan/Avocado/17179810.jpg</thumbnail>
+		<title>Cosmic Beast Quake</title>
+		<creator>Extreme Alan Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="17383215" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Ironic/DJ/Giraffe/17383215.jpg</thumbnail>
+		<title>Force Techno Blaster</title>
+		<creator>Ironic DJ Giraffe</creator>
+		<relatedgames />
+	</game>
+	<game id="17316341" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Queen/Rich/Sunshine/17316341.jpg</thumbnail>
+		<title>Galaxy Danger Challenge</title>
+		<creator>Queen Rich Sunshine</creator>
+		<relatedgames />
+	</game>
+	<game id="10930482" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Noble/Tyler/Hogwash/10930482.jpg</thumbnail>
+		<title>Doom Pulse Fusion</title>
+		<creator>Noble Tyler Hogwash</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

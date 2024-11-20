@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10949490" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Enormous/Nathan/Monster/10949490.jpg</thumbnail>
+		<title>Warrior Thunder Iron</title>
+		<creator>Enormous Nathan Monster</creator>
+		<relatedgames />
+	</game>
+	<game id="17560298" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Hyper/Rebecca/Barnacle/17560298.jpg</thumbnail>
+		<title>Chase Adventure Adventure</title>
+		<creator>Hyper Rebecca Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="17379327" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Tall/Clay/Mystery/17379327.jpg</thumbnail>
+		<title>Laser Warrior Adventure</title>
+		<creator>Tall Clay Mystery</creator>
+		<relatedgames />
+	</game>
+	<game id="16850246" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/28/2012">
+		<thumbnail>/gamecreators/images2/Nautical/Mark/Aardvark/16850246.jpg</thumbnail>
+		<title>Fury Nano Ultimate</title>
+		<creator>Nautical Mark Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="16866155" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/31/2012">
+		<thumbnail>/gamecreators/images2/Skinny/Ryan/Skeleton/16866155.jpg</thumbnail>
+		<title>Lightning Atomic Razor</title>
+		<creator>Skinny Ryan Skeleton</creator>
+		<relatedgames />
+	</game>
+	<game id="10039310" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Absurd/Leonardo/Ladybug/10039310.jpg</thumbnail>
+		<title>Rescue Mission Assault</title>
+		<creator>Absurd Leonardo Ladybug</creator>
+		<relatedgames />
+	</game>
+	<game id="10945010" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Blue/Fred/Howler/10945010.jpg</thumbnail>
+		<title>Champion Rock Plasma</title>
+		<creator>Blue Fred Howler</creator>
+		<relatedgames />
+	</game>
+	<game id="16974843" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Husky/Lucius/Foul/16974843.jpg</thumbnail>
+		<title>Hyper Ben Solar</title>
+		<creator>Husky Lucius Foul</creator>
+		<relatedgames />
+	</game>
+	<game id="10924638" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Artistic/Ramona/Prism/10924638.jpg</thumbnail>
+		<title>Droid Escape Blaster</title>
+		<creator>Artistic Ramona Prism</creator>
+		<relatedgames />
+	</game>
+	<game id="10953605" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Scurvy/Edward/Monster/10953605.jpg</thumbnail>
+		<title>Rumble Shadow Techno</title>
+		<creator>Scurvy Edward Monster</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

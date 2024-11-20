@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16866155" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/31/2012">
+		<thumbnail>/gamecreators/images2/Skinny/Ryan/Skeleton/16866155.jpg</thumbnail>
+		<title>Lightning Atomic Razor</title>
+		<creator>Skinny Ryan Skeleton</creator>
+		<relatedgames />
+	</game>
+	<game id="17353328" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>/gamecreators/images2/Emperor/Taylor/Barnacle/17353328.jpg</thumbnail>
+		<title>Dark Drone Danger</title>
+		<creator>Emperor Taylor Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="16974843" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Husky/Lucius/Foul/16974843.jpg</thumbnail>
+		<title>Hyper Ben Solar</title>
+		<creator>Husky Lucius Foul</creator>
+		<relatedgames />
+	</game>
+	<game id="17310250" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>/gamecreators/images2/Defiant/Mario/Blob/17310250.jpg</thumbnail>
+		<title>Chase Thunder Droid</title>
+		<creator>Defiant Mario Blob</creator>
+		<relatedgames />
+	</game>
+	<game id="10923368" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wise/Herman/Tornado/10923368.jpg</thumbnail>
+		<title>Blaster Force Clash</title>
+		<creator>Wise Herman Tornado</creator>
+		<relatedgames />
+	</game>
+	<game id="10919466" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Cheerful/Blake/Crater/10919466.jpg</thumbnail>
+		<title>Clash Atomic Stone</title>
+		<creator>Cheerful Blake Crater</creator>
+		<relatedgames />
+	</game>
+	<game id="10919184" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Fizzy/Laura/Tugboat/10919184.jpg</thumbnail>
+		<title>Siege Atomic Rush</title>
+		<creator>Fizzy Laura Tugboat</creator>
+		<relatedgames />
+	</game>
+	<game id="17324743" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Loopy/Autumn/Snorkel/17324743.jpg</thumbnail>
+		<title>Alien Pulse Universe</title>
+		<creator>Loopy Autumn Snorkel</creator>
+		<relatedgames />
+	</game>
+	<game id="10953680" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Orange/Sara/Cyborg/10953680.jpg</thumbnail>
+		<title>Hero Robot Shock</title>
+		<creator>Orange Sara Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="17409654" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/12/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Lucas/Mars/17409654.jpg</thumbnail>
+		<title>Assault Titan Laser</title>
+		<creator>Magnetic Lucas Mars</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10924638" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Artistic/Ramona/Prism/10924638.jpg</thumbnail>
+		<title>Droid Escape Blaster</title>
+		<creator>Artistic Ramona Prism</creator>
+		<relatedgames />
+	</game>
+	<game id="10931272" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Grouchy/Caleb/Atom/10931272.jpg</thumbnail>
+		<title>Nitro Energy Charge</title>
+		<creator>Grouchy Caleb Atom</creator>
+		<relatedgames />
+	</game>
+	<game id="17554156" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Loony/Sam/Garlic/17554156.jpg</thumbnail>
+		<title>Laser Sonic Adventure</title>
+		<creator>Loony Sam Garlic</creator>
+		<relatedgames />
+	</game>
+	<game id="17364488" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>/gamecreators/images2/Hectic/Taylor/Gazebo/17364488.jpg</thumbnail>
+		<title>Ultimate Dark Fusion</title>
+		<creator>Hectic Taylor Gazebo</creator>
+		<relatedgames />
+	</game>
+	<game id="17265238" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Orange/Olivia/Maestro/17265238.jpg</thumbnail>
+		<title>Gear Vilgax Burst</title>
+		<creator>Orange Olivia Maestro</creator>
+		<relatedgames />
+	</game>
+	<game id="10064634" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Stately/Bob/Avocado/10064634.jpg</thumbnail>
+		<title>Rumble Razor Turbo</title>
+		<creator>Stately Bob Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="10920193" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Chaotic/Carson/Thunder/10920193.jpg</thumbnail>
+		<title>Atomic Force Clash</title>
+		<creator>Chaotic Carson Thunder</creator>
+		<relatedgames />
+	</game>
+	<game id="17372287" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/26/2012">
+		<thumbnail>/gamecreators/images2/Average/Owen/Monster/17372287.jpg</thumbnail>
+		<title>Steel Space Techno</title>
+		<creator>Average Owen Monster</creator>
+		<relatedgames />
+	</game>
+	<game id="10953308" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Orange/Donald/Pinwheel/10953308.jpg</thumbnail>
+		<title>Danger Racer Techno</title>
+		<creator>Orange Donald Pinwheel</creator>
+		<relatedgames />
+	</game>
+	<game id="10038852" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Magnetic/Alan/Blubber/10038852.jpg</thumbnail>
+		<title>Shock Spark Invasion</title>
+		<creator>Magnetic Alan Blubber</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

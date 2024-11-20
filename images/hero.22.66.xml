@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17217564" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>/gamecreators/images2/Dramatic/Austin/Domino/17217564.jpg</thumbnail>
+		<title>Big Thunder Fury</title>
+		<creator>Dramatic Austin Domino</creator>
+		<relatedgames />
+	</game>
+	<game id="17334355" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Wondrous/Scooby/Creature/17334355.jpg</thumbnail>
+		<title>Alien Dark Ultimate</title>
+		<creator>Wondrous Scooby Creature</creator>
+		<relatedgames />
+	</game>
+	<game id="10040009" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Chilly/Jackson/Hedgehog/10040009.jpg</thumbnail>
+		<title>Titan Animo Mega</title>
+		<creator>Chilly Jackson Hedgehog</creator>
+		<relatedgames />
+	</game>
+	<game id="17237572" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/18/2012">
+		<thumbnail>/gamecreators/images2/Academic/Jorge/Avator/17237572.jpg</thumbnail>
+		<title>Universe Doom Rush</title>
+		<creator>Academic Jorge Avator</creator>
+		<relatedgames />
+	</game>
+	<game id="17076960" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/31/2012">
+		<thumbnail>/gamecreators/images2/Bold/Bobby/Yoyo/17076960.jpg</thumbnail>
+		<title>Pulse Gear Nova</title>
+		<creator>Bold Bobby Yoyo</creator>
+		<relatedgames />
+	</game>
+	<game id="10920181" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Enormous/Romeo/Bongo/10920181.jpg</thumbnail>
+		<title>Adventure Adventure Adventure</title>
+		<creator>Enormous Romeo Bongo</creator>
+		<relatedgames />
+	</game>
+	<game id="10943281" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Alien/Brent/Starfish/10943281.jpg</thumbnail>
+		<title>Galaxy Pursuit Rescue</title>
+		<creator>Alien Brent Starfish</creator>
+		<relatedgames />
+	</game>
+	<game id="17285375" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>/gamecreators/images2/Negative/Andy/Atlas/17285375.jpg</thumbnail>
+		<title>Water Blaster Challenge</title>
+		<creator>Negative Andy Atlas</creator>
+		<relatedgames />
+	</game>
+	<game id="17215734" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/12/2012">
+		<thumbnail>/gamecreators/images2/Fair/Zeke/Badger/17215734.jpg</thumbnail>
+		<title>Swampfire Drone Battle</title>
+		<creator>Fair Zeke Badger</creator>
+		<relatedgames />
+	</game>
+	<game id="10923788" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Itchy/Timmy/Igloo/10923788.jpg</thumbnail>
+		<title>Shock Adventure Adventure</title>
+		<creator>Itchy Timmy Igloo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

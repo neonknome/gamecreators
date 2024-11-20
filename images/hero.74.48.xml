@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10918242" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Dynamic/Polly/Turbo/10918242.jpg</thumbnail>
+		<title>Danger Sonic Iron</title>
+		<creator>Dynamic Polly Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="10069150" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Comical/Cheyenne/Unicycle/10069150.jpg</thumbnail>
+		<title>Shock Stone Pulse</title>
+		<creator>Comical Cheyenne Unicycle</creator>
+		<relatedgames />
+	</game>
+	<game id="10933292" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Funky/Pearl/Zombie/10933292.jpg</thumbnail>
+		<title>Patrol Rescue Laser</title>
+		<creator>Funky Pearl Zombie</creator>
+		<relatedgames />
+	</game>
+	<game id="16994396" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>/gamecreators/images2/Sergeant/Leonard/Iceberg/16994396.jpg</thumbnail>
+		<title>Battle Defense Adventure</title>
+		<creator>Sergeant Leonard Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="17564122" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Awesome/Xerxes/Dynamite/17564122.jpg</thumbnail>
+		<title>Galaxy Nova Rampage</title>
+		<creator>Awesome Xerxes Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="17391769" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Noisy/Judith/Taco/17391769.jpg</thumbnail>
+		<title>Doom Warp Crusher</title>
+		<creator>Noisy Judith Taco</creator>
+		<relatedgames />
+	</game>
+	<game id="10052419" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Kooky/Leonardo/Barnacle/10052419.jpg</thumbnail>
+		<title>Nano Atomic Ambush</title>
+		<creator>Kooky Leonardo Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="10055989" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Valiant/Sterling/Popcorn/10055989.jpg</thumbnail>
+		<title>Spike Force Adventure</title>
+		<creator>Valiant Sterling Popcorn</creator>
+		<relatedgames />
+	</game>
+	<game id="17226624" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>/gamecreators/images2/Obvious/Sean/17226624.jpg</thumbnail>
+		<title>Alien Invasion Challenge</title>
+		<creator>Obvious Sean</creator>
+		<relatedgames />
+	</game>
+	<game id="17188265" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/04/2012">
+		<thumbnail>/gamecreators/images2/Daring/Ronald/Presto/17188265.jpg</thumbnail>
+		<title>Thunder Invasion Doom</title>
+		<creator>Daring Ronald Presto</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

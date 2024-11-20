@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10945050" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Awesome/Clyde/Howler/10945050.jpg</thumbnail>
+		<title>Fusion Burst Galaxy</title>
+		<creator>Awesome Clyde Howler</creator>
+		<relatedgames />
+	</game>
+	<game id="10055588" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Hectic/Cathy/Zigzag/10055588.jpg</thumbnail>
+		<title>Beast Sonic Magno</title>
+		<creator>Hectic Cathy Zigzag</creator>
+		<relatedgames />
+	</game>
+	<game id="10704476" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Orange/Greg/Basilisk/10704476.jpg</thumbnail>
+		<title>Ultimate Warrior Battle</title>
+		<creator>Orange Greg Basilisk</creator>
+		<relatedgames />
+	</game>
+	<game id="17322825" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/09/2012">
+		<thumbnail>/gamecreators/images2/Subtle/Apollo/Yoyo/17322825.jpg</thumbnail>
+		<title>Nitro Battle Rock</title>
+		<creator>Subtle Apollo Yoyo</creator>
+		<relatedgames />
+	</game>
+	<game id="10748197" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2009">
+		<thumbnail>/gamecreators/images2/Zany/Isaac/Flipper/10748197.jpg</thumbnail>
+		<title>Fire Rescue Chase</title>
+		<creator>Zany Isaac Flipper</creator>
+		<relatedgames />
+	</game>
+	<game id="10937222" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Clever/Kristin/Fossil/10937222.jpg</thumbnail>
+		<title>Rampage Quake Iron</title>
+		<creator>Clever Kristin Fossil</creator>
+		<relatedgames />
+	</game>
+	<game id="17397818" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/06/2012">
+		<thumbnail>/gamecreators/images2/Madcap/Elijah/Python/17397818.jpg</thumbnail>
+		<title>Galaxy Adventure Ambush</title>
+		<creator>Madcap Elijah Python</creator>
+		<relatedgames />
+	</game>
+	<game id="10044541" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Horrid/Bernard/Buffalo/10044541.jpg</thumbnail>
+		<title>Robot Rumble Galaxy</title>
+		<creator>Horrid Bernard Buffalo</creator>
+		<relatedgames />
+	</game>
+	<game id="17334361" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Popular/Mary/Frog/17334361.jpg</thumbnail>
+		<title>Animo Giga Adventure</title>
+		<creator>Popular Mary Frog</creator>
+		<relatedgames />
+	</game>
+	<game id="10916680" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Stylish/Hank/Gorilla/10916680.jpg</thumbnail>
+		<title>Beast Alien Nitro</title>
+		<creator>Stylish Hank Gorilla</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

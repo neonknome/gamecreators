@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10949490" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Enormous/Nathan/Monster/10949490.jpg</thumbnail>
+		<title>Warrior Thunder Iron</title>
+		<creator>Enormous Nathan Monster</creator>
+		<relatedgames />
+	</game>
+	<game id="17560298" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Hyper/Rebecca/Barnacle/17560298.jpg</thumbnail>
+		<title>Chase Adventure Adventure</title>
+		<creator>Hyper Rebecca Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="10930948" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Glorious/Drew/Aurora/10930948.jpg</thumbnail>
+		<title>Light Energy Doom</title>
+		<creator>Glorious Drew Aurora</creator>
+		<relatedgames />
+	</game>
+	<game id="16850246" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/28/2012">
+		<thumbnail>/gamecreators/images2/Nautical/Mark/Aardvark/16850246.jpg</thumbnail>
+		<title>Fury Nano Ultimate</title>
+		<creator>Nautical Mark Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="16866155" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/31/2012">
+		<thumbnail>/gamecreators/images2/Skinny/Ryan/Skeleton/16866155.jpg</thumbnail>
+		<title>Lightning Atomic Razor</title>
+		<creator>Skinny Ryan Skeleton</creator>
+		<relatedgames />
+	</game>
+	<game id="10925050" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Itchy/Jared/Kazoo/10925050.jpg</thumbnail>
+		<title>Swampfire Rescue Star</title>
+		<creator>Itchy Jared Kazoo</creator>
+		<relatedgames />
+	</game>
+	<game id="10015961" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Twisty/Avery/Fondue/10015961.jpg</thumbnail>
+		<title>Star Breaker Attack</title>
+		<creator>Twisty Avery Fondue</creator>
+		<relatedgames />
+	</game>
+	<game id="10945010" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Blue/Fred/Howler/10945010.jpg</thumbnail>
+		<title>Champion Rock Plasma</title>
+		<creator>Blue Fred Howler</creator>
+		<relatedgames />
+	</game>
+	<game id="10929381" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Southern/Justin/Steam/10929381.jpg</thumbnail>
+		<title>Swampfire Attack Challenge</title>
+		<creator>Southern Justin Steam</creator>
+		<relatedgames />
+	</game>
+	<game id="17403914" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Agile/Ben/Jigsaw/17403914.jpg</thumbnail>
+		<title>Atomic Search Space</title>
+		<creator>Agile Ben Jigsaw</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

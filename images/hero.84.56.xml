@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17400821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>/gamecreators/images2/Venomous/Buster/Tarragon/17400821.jpg</thumbnail>
+		<title>Giga Techno Big</title>
+		<creator>Venomous Buster Tarragon</creator>
+		<relatedgames />
+	</game>
+	<game id="10918300" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Brawny/Bradley/Howler/10918300.jpg</thumbnail>
+		<title>Steel Burst Dark</title>
+		<creator>Brawny Bradley Howler</creator>
+		<relatedgames />
+	</game>
+	<game id="10927809" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Sporty/Helga/Cyborg/10927809.jpg</thumbnail>
+		<title>Ben Challenge Spark</title>
+		<creator>Sporty Helga Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="17404927" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Captain/Marvin/Cyborg/17404927.jpg</thumbnail>
+		<title>Sonic Target Hero</title>
+		<creator>Captain Marvin Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="16948692" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>/gamecreators/images2/Fiery/Alyssa/Blammo/16948692.jpg</thumbnail>
+		<title>Rush Breaker Storm</title>
+		<creator>Fiery Alyssa Blammo</creator>
+		<relatedgames />
+	</game>
+	<game id="17389503" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Lanky/Flint/Gorgon/17389503.jpg</thumbnail>
+		<title>Stone Nova Star</title>
+		<creator>Lanky Flint Gorgon</creator>
+		<relatedgames />
+	</game>
+	<game id="10649584" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Red/Rudolph/Spider/10649584.jpg</thumbnail>
+		<title>Pursuit Alien Attack</title>
+		<creator>Red Rudolph Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="10045372" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Obvious/Shane/Zigzag/10045372.jpg</thumbnail>
+		<title>Ultra Swampfire Rush</title>
+		<creator>Obvious Shane Zigzag</creator>
+		<relatedgames />
+	</game>
+	<game id="10843598" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2009">
+		<thumbnail>/gamecreators/images2/Ghastly/Leah/Dynamite/10843598.jpg</thumbnail>
+		<title>Storm Shock Adventure</title>
+		<creator>Ghastly Leah Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="17353868" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/19/2012">
+		<thumbnail>/gamecreators/images2/Mirthful/Marco/Castle/17353868.jpg</thumbnail>
+		<title>Champion Adventure Ultimate</title>
+		<creator>Mirthful Marco Castle</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17389282" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Scruffy/Drake/Enigma/17389282.jpg</thumbnail>
+		<title>Battle Echo Beast</title>
+		<creator>Scruffy Drake Enigma</creator>
+		<relatedgames />
+	</game>
+	<game id="10923277" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Pretty/Valerie/Buzzard/10923277.jpg</thumbnail>
+		<title>Ultra Nova Hero</title>
+		<creator>Pretty Valerie Buzzard</creator>
+		<relatedgames />
+	</game>
+	<game id="10952583" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Awesome/Craig/Orchid/10952583.jpg</thumbnail>
+		<title>Sonic Adventure Vilgax</title>
+		<creator>Awesome Craig Orchid</creator>
+		<relatedgames />
+	</game>
+	<game id="17404245" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Shy/Buford/Reptile/17404245.jpg</thumbnail>
+		<title>Humungousaur Adventure Adventure</title>
+		<creator>Shy Buford Reptile</creator>
+		<relatedgames />
+	</game>
+	<game id="10918154" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Frosty/Ramona/Sphinx/10918154.jpg</thumbnail>
+		<title>Ambush Breaker Fury</title>
+		<creator>Frosty Ramona Sphinx</creator>
+		<relatedgames />
+	</game>
+	<game id="17346658" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2012">
+		<thumbnail>/gamecreators/images2/Electric/Bailey/Beast/17346658.jpg</thumbnail>
+		<title>Champion Stone Slam</title>
+		<creator>Electric Bailey Beast</creator>
+		<relatedgames />
+	</game>
+	<game id="17281055" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Generous/Lillian/Doodle/17281055.jpg</thumbnail>
+		<title>Rescue Assault Ambush</title>
+		<creator>Generous Lillian Doodle</creator>
+		<relatedgames />
+	</game>
+	<game id="10952189" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Shrewd/Corey/Stampede/10952189.jpg</thumbnail>
+		<title>Cosmic Robot Hero</title>
+		<creator>Shrewd Corey Stampede</creator>
+		<relatedgames />
+	</game>
+	<game id="10929155" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Zany/Isabel/Blade/10929155.jpg</thumbnail>
+		<title>Mega Swampfire Rampage</title>
+		<creator>Zany Isabel Blade</creator>
+		<relatedgames />
+	</game>
+	<game id="16982800" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>/gamecreators/images2/Barbaric/Duke/Funk/16982800.jpg</thumbnail>
+		<title>Pulse Rampage Adventure</title>
+		<creator>Barbaric Duke Funk</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

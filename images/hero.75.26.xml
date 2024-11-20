@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10942165" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Pretty/Vinny/Zebra/10942165.jpg</thumbnail>
+		<title>Earth Nano Storm</title>
+		<creator>Pretty Vinny Zebra</creator>
+		<relatedgames />
+	</game>
+	<game id="16970451" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/26/2012">
+		<thumbnail>/gamecreators/images2/Shy/Ginger/Calamari/16970451.jpg</thumbnail>
+		<title>Target Universe Ultimate</title>
+		<creator>Shy Ginger Calamari</creator>
+		<relatedgames />
+	</game>
+	<game id="17194153" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/06/2012">
+		<thumbnail>/gamecreators/images2/Capable/Gregory/Anvil/17194153.jpg</thumbnail>
+		<title>Techno Sonic Hyper</title>
+		<creator>Capable Gregory Anvil</creator>
+		<relatedgames />
+	</game>
+	<game id="17410295" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/12/2012">
+		<thumbnail>/gamecreators/images2/King/Colin/Iceberg/17410295.jpg</thumbnail>
+		<title>Robot Hero Spike</title>
+		<creator>King Colin Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="10928655" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Handsome/Jeffrey/Aardvark/10928655.jpg</thumbnail>
+		<title>Metal Breaker Ultimate</title>
+		<creator>Handsome Jeffrey Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="10952619" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Obvious/Megan/Octopus/10952619.jpg</thumbnail>
+		<title>Magno Smash Danger</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames />
+	</game>
+	<game id="17552149" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Splendid/Connor/Shogun/17552149.jpg</thumbnail>
+		<title>Robot Ambush Rock</title>
+		<creator>Splendid Connor Shogun</creator>
+		<relatedgames />
+	</game>
+	<game id="17246497" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/20/2012">
+		<thumbnail>/gamecreators/images2/Cackling/Cory/Avator/17246497.jpg</thumbnail>
+		<title>Ultra Swampfire Power</title>
+		<creator>Cackling Cory Avator</creator>
+		<relatedgames />
+	</game>
+	<game id="10945636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Obvious/Alex/Dynamite/10945636.jpg</thumbnail>
+		<title>Energy Search Solar</title>
+		<creator>Obvious Alex Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="10039822" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Loud/Steven/Charger/10039822.jpg</thumbnail>
+		<title>Swampfire Invasion Rampage</title>
+		<creator>Loud Steven Charger</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

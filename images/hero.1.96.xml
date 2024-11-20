@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17224970" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>/gamecreators/images2/Bouncing/Benton/Mummy/17224970.jpg</thumbnail>
+		<title>Ben Jetray Beast</title>
+		<creator>Bouncing Benton Mummy</creator>
+		<relatedgames />
+	</game>
+	<game id="17262592" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Immortal/Lawrence/Spider/17262592.jpg</thumbnail>
+		<title>Warp Shadow Pulse</title>
+		<creator>Immortal Lawrence Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="17377498" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Nimble/Billy/Flywheel/17377498.jpg</thumbnail>
+		<title>Ambush Smash Challenge</title>
+		<creator>Nimble Billy Flywheel</creator>
+		<relatedgames />
+	</game>
+	<game id="10942924" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Jolly/Gretel/Quake/10942924.jpg</thumbnail>
+		<title>Titan Solar Smash</title>
+		<creator>Jolly Gretel Quake</creator>
+		<relatedgames />
+	</game>
+	<game id="10926745" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Eager/Sara/Goulash/10926745.jpg</thumbnail>
+		<title>Force Invasion Warrior</title>
+		<creator>Eager Sara Goulash</creator>
+		<relatedgames />
+	</game>
+	<game id="10928891" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Honest/Cole/Dragon/10928891.jpg</thumbnail>
+		<title>Alien Magno Fire</title>
+		<creator>Honest Cole Dragon</creator>
+		<relatedgames />
+	</game>
+	<game id="10953223" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Fuzzy/Adrian/Fritter/10953223.jpg</thumbnail>
+		<title>Galaxy Storm Iron</title>
+		<creator>Fuzzy Adrian Fritter</creator>
+		<relatedgames />
+	</game>
+	<game id="416237" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="10/24/2010">
+		<thumbnail>
+		</thumbnail>
+		<title>Swampfire Droid Warrior</title>
+		<creator>mamamaster</creator>
+		<relatedgames />
+	</game>
+	<game id="17407806" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>/gamecreators/images2/Shaggy/Jason/Spleen/17407806.jpg</thumbnail>
+		<title>Sonic Universe Water</title>
+		<creator>Shaggy Jason Spleen</creator>
+		<relatedgames />
+	</game>
+	<game id="17415485" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Awful/Jacob/Bronco/17415485.jpg</thumbnail>
+		<title>Mission Shock Patrol</title>
+		<creator>Awful Jacob Bronco</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

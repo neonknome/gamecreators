@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17335398" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Golden/Dominic/Giblets/17335398.jpg</thumbnail>
+		<title>Danger Champion Thunder</title>
+		<creator>Golden Dominic Giblets</creator>
+		<relatedgames />
+	</game>
+	<game id="17402614" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>/gamecreators/images2/Sloppy/Anna/Gizzard/17402614.jpg</thumbnail>
+		<title>Battle Pursuit Quake</title>
+		<creator>Sloppy Anna Gizzard</creator>
+		<relatedgames />
+	</game>
+	<game id="16975781" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Radiant/Robert/Paladin/16975781.jpg</thumbnail>
+		<title>Adventure Spidermonkey Nitro</title>
+		<creator>Radiant Robert Paladin</creator>
+		<relatedgames />
+	</game>
+	<game id="17076960" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/31/2012">
+		<thumbnail>/gamecreators/images2/Bold/Bobby/Yoyo/17076960.jpg</thumbnail>
+		<title>Pulse Gear Nova</title>
+		<creator>Bold Bobby Yoyo</creator>
+		<relatedgames />
+	</game>
+	<game id="10920181" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Enormous/Romeo/Bongo/10920181.jpg</thumbnail>
+		<title>Adventure Adventure Adventure</title>
+		<creator>Enormous Romeo Bongo</creator>
+		<relatedgames />
+	</game>
+	<game id="10943281" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Alien/Brent/Starfish/10943281.jpg</thumbnail>
+		<title>Galaxy Pursuit Rescue</title>
+		<creator>Alien Brent Starfish</creator>
+		<relatedgames />
+	</game>
+	<game id="10943350" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Glorious/Hank/Zombie/10943350.jpg</thumbnail>
+		<title>Champion Challenge Doom</title>
+		<creator>Glorious Hank Zombie</creator>
+		<relatedgames />
+	</game>
+	<game id="17415966" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Witty/Marco/Shadow/17415966.jpg</thumbnail>
+		<title>Slam Attack Warp</title>
+		<creator>Witty Marco Shadow</creator>
+		<relatedgames />
+	</game>
+	<game id="10921907" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Chilly/Bethany/Starfish/10921907.jpg</thumbnail>
+		<title>Slam Star Razor</title>
+		<creator>Chilly Bethany Starfish</creator>
+		<relatedgames />
+	</game>
+	<game id="10924276" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Surreal/Leonardo/Gargoyle/10924276.jpg</thumbnail>
+		<title>Charge Dark Danger</title>
+		<creator>Surreal Leonardo Gargoyle</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

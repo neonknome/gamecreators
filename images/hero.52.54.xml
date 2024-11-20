@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17012539" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>/gamecreators/images2/Bold/Don/Robot/17012539.jpg</thumbnail>
+		<title>Laser Defense Attack</title>
+		<creator>Bold Don Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="17127565" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/15/2012">
+		<thumbnail>/gamecreators/images2/Enormous/William/Witch/17127565.jpg</thumbnail>
+		<title>Ultra Thunder Titan</title>
+		<creator>Enormous William Witch</creator>
+		<relatedgames />
+	</game>
+	<game id="17376853" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2012">
+		<thumbnail>/gamecreators/images2/Hypnotic/Mason/Blast/17376853.jpg</thumbnail>
+		<title>Adventure Warp Laser</title>
+		<creator>Hypnotic Mason Blast</creator>
+		<relatedgames />
+	</game>
+	<game id="10935019" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wondrous/Connor/Troll/10935019.jpg</thumbnail>
+		<title>Laser Fire Titan</title>
+		<creator>Wondrous Connor Troll</creator>
+		<relatedgames />
+	</game>
+	<game id="10942444" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Chilly/Edgar/Quasar/10942444.jpg</thumbnail>
+		<title>Laser Sonic Galaxy</title>
+		<creator>Chilly Edgar Quasar</creator>
+		<relatedgames />
+	</game>
+	<game id="17303375" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Flying/Stanley/Quake/17303375.jpg</thumbnail>
+		<title>Rampage Ambush Charge</title>
+		<creator>Flying Stanley Quake</creator>
+		<relatedgames />
+	</game>
+	<game id="10942215" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Dynamic/Ronald/Cyborg/10942215.jpg</thumbnail>
+		<title>Laser Smash Light</title>
+		<creator>Dynamic Ronald Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="10947844" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Funky/William/Buckaroo/10947844.jpg</thumbnail>
+		<title>Defense Light Atomic</title>
+		<creator>Funky William Buckaroo</creator>
+		<relatedgames />
+	</game>
+	<game id="10931113" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Majestic/Kevin/Iceberg/10931113.jpg</thumbnail>
+		<title>Spark Hex Clash</title>
+		<creator>Majestic Kevin Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="17137189" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/18/2012">
+		<thumbnail>/gamecreators/images2/Shady/Albert/Iceberg/17137189.jpg</thumbnail>
+		<title>Big Cannonbolt Spike</title>
+		<creator>Shady Albert Iceberg</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

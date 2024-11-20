@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17012539" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>/gamecreators/images2/Bold/Don/Robot/17012539.jpg</thumbnail>
+		<title>Laser Defense Attack</title>
+		<creator>Bold Don Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="17127565" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/15/2012">
+		<thumbnail>/gamecreators/images2/Enormous/William/Witch/17127565.jpg</thumbnail>
+		<title>Ultra Thunder Titan</title>
+		<creator>Enormous William Witch</creator>
+		<relatedgames />
+	</game>
+	<game id="17376853" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2012">
+		<thumbnail>/gamecreators/images2/Hypnotic/Mason/Blast/17376853.jpg</thumbnail>
+		<title>Adventure Warp Laser</title>
+		<creator>Hypnotic Mason Blast</creator>
+		<relatedgames />
+	</game>
+	<game id="16982684" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>/gamecreators/images2/Glorious/Rosemary/Sparkle/16982684.jpg</thumbnail>
+		<title>Ambush Spike Plasma</title>
+		<creator>Glorious Rosemary Sparkle</creator>
+		<relatedgames />
+	</game>
+	<game id="17415520" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Negative/Isaac/Grouch/17415520.jpg</thumbnail>
+		<title>Magno Ultimate Hex</title>
+		<creator>Negative Isaac Grouch</creator>
+		<relatedgames />
+	</game>
+	<game id="17402735" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>/gamecreators/images2/Sleepy/Destiny/Apple/17402735.jpg</thumbnail>
+		<title>Battle Iron Defense</title>
+		<creator>Sleepy Destiny Apple</creator>
+		<relatedgames />
+	</game>
+	<game id="10932691" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Absurd/Timmy/Calypso/10932691.jpg</thumbnail>
+		<title>Danger Blaster Adventure</title>
+		<creator>Absurd Timmy Calypso</creator>
+		<relatedgames />
+	</game>
+	<game id="10933814" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Twisty/Douglas/Turbo/10933814.jpg</thumbnail>
+		<title>Mega Mission Shadow</title>
+		<creator>Twisty Douglas Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="10926216" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Blue/Xavier/Giblets/10926216.jpg</thumbnail>
+		<title>Champion Rampage Atomic</title>
+		<creator>Blue Xavier Giblets</creator>
+		<relatedgames />
+	</game>
+	<game id="17177939" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>/gamecreators/images2/Agile/Miguel/Bingo/17177939.jpg</thumbnail>
+		<title>Nova Patrol Mission</title>
+		<creator>Agile Miguel Bingo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

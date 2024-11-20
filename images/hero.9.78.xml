@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10952813" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Babbling/Adam/Buckaroo/10952813.jpg</thumbnail>
+		<title>Fury Spark Galaxy</title>
+		<creator>Babbling Adam Buckaroo</creator>
+		<relatedgames />
+	</game>
+	<game id="10916795" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Eager/Abigail/Turbo/10916795.jpg</thumbnail>
+		<title>Invasion Swampfire Ambush</title>
+		<creator>Eager Abigail Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="16989131" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/02/2012">
+		<thumbnail>/gamecreators/images2/Hideous/Ginger/Rhino/16989131.jpg</thumbnail>
+		<title>Assault Mission Racer</title>
+		<creator>Hideous Ginger Rhino</creator>
+		<relatedgames />
+	</game>
+	<game id="10919519" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Alien/Bessie/Atom/10919519.jpg</thumbnail>
+		<title>Streak Turbo Galaxy</title>
+		<creator>Alien Bessie Atom</creator>
+		<relatedgames />
+	</game>
+	<game id="10926269" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Crunchy/Vicky/Behemoth/10926269.jpg</thumbnail>
+		<title>Swampfire Attack Ben</title>
+		<creator>Crunchy Vicky Behemoth</creator>
+		<relatedgames />
+	</game>
+	<game id="17415199" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Verbose/Lauren/Rhythm/17415199.jpg</thumbnail>
+		<title>Rumble Danger Invasion</title>
+		<creator>Verbose Lauren Rhythm</creator>
+		<relatedgames />
+	</game>
+	<game id="10064835" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Dashing/Joey/Atom/10064835.jpg</thumbnail>
+		<title>Battle Razor Magno</title>
+		<creator>Dashing Joey Atom</creator>
+		<relatedgames />
+	</game>
+	<game id="10918821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Red/Travis/Cipher/10918821.jpg</thumbnail>
+		<title>Metal Force Fusion</title>
+		<creator>Red Travis Cipher</creator>
+		<relatedgames />
+	</game>
+	<game id="10930329" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Aquatic/Richard/Troll/10930329.jpg</thumbnail>
+		<title>Battle Droid Solar</title>
+		<creator>Aquatic Richard Troll</creator>
+		<relatedgames />
+	</game>
+	<game id="10917836" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Darling/Buffy/Narwhal/10917836.jpg</thumbnail>
+		<title>Universe Adventure Adventure</title>
+		<creator>Darling Buffy Narwhal</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

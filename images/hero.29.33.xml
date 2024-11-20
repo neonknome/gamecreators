@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10937447" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Valiant/Evan/Varmint/10937447.jpg</thumbnail>
+		<title>Ben Techno Lightning</title>
+		<creator>Valiant Evan Varmint</creator>
+		<relatedgames />
+	</game>
+	<game id="16993702" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>/gamecreators/images2/Daring/Latoya/Javelin/16993702.jpg</thumbnail>
+		<title>Ben Sonic Siege</title>
+		<creator>Daring Latoya Javelin</creator>
+		<relatedgames />
+	</game>
+	<game id="17381782" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/31/2012">
+		<thumbnail>/gamecreators/images2/Cagey/Aiden/Bramble/17381782.jpg</thumbnail>
+		<title>Swampfire Assault Force</title>
+		<creator>Cagey Aiden Bramble</creator>
+		<relatedgames />
+	</game>
+	<game id="16982204" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>/gamecreators/images2/Keen/Caleb/Cyclone/16982204.jpg</thumbnail>
+		<title>Water Dark Titan</title>
+		<creator>Keen Caleb Cyclone</creator>
+		<relatedgames />
+	</game>
+	<game id="17280235" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Reckless/Waldo/Popcorn/17280235.jpg</thumbnail>
+		<title>Fire Fire Fire</title>
+		<creator>Reckless Waldo Popcorn</creator>
+		<relatedgames />
+	</game>
+	<game id="10916719" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Obvious/Anthony/Goofball/10916719.jpg</thumbnail>
+		<title>Swampfire Rampage Chase</title>
+		<creator>Obvious Anthony Goofball</creator>
+		<relatedgames />
+	</game>
+	<game id="10924021" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Alien/Tyler/Klunk/10924021.jpg</thumbnail>
+		<title>Hero Attack Power</title>
+		<creator>Alien Tyler Klunk</creator>
+		<relatedgames />
+	</game>
+	<game id="10928980" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Rowdy/Larry/Grouch/10928980.jpg</thumbnail>
+		<title>Chase Earth Thunder</title>
+		<creator>Rowdy Larry Grouch</creator>
+		<relatedgames />
+	</game>
+	<game id="17405008" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Volcanic/Bryce/Oyster/17405008.jpg</thumbnail>
+		<title>Cosmic Sonic Burst</title>
+		<creator>Volcanic Bryce Oyster</creator>
+		<relatedgames />
+	</game>
+	<game id="17339068" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/14/2012">
+		<thumbnail>/gamecreators/images2/Devious/Jason/Shock/17339068.jpg</thumbnail>
+		<title>Plumber Space Techno</title>
+		<creator>Devious Jason Shock</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

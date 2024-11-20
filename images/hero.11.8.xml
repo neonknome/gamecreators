@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17369469" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/25/2012">
+		<thumbnail>/gamecreators/images2/Academic/Lauren/Spider/17369469.jpg</thumbnail>
+		<title>Gear Giga Big</title>
+		<creator>Academic Lauren Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="10918863" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Eager/Katelyn/Ooze/10918863.jpg</thumbnail>
+		<title>Ultimate Fury Invasion</title>
+		<creator>Eager Katelyn Ooze</creator>
+		<relatedgames />
+	</game>
+	<game id="10066116" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Strange/Cody/Python/10066116.jpg</thumbnail>
+		<title>Smash Power Magno</title>
+		<creator>Strange Cody Python</creator>
+		<relatedgames />
+	</game>
+	<game id="10953342" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Shaggy/Hercules/Frost/10953342.jpg</thumbnail>
+		<title>Sonic Danger Fury</title>
+		<creator>Shaggy Hercules Frost</creator>
+		<relatedgames />
+	</game>
+	<game id="10063302" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Awful/Caleb/Bolt/10063302.jpg</thumbnail>
+		<title>Alien Space Rocket</title>
+		<creator>Awful Caleb Bolt</creator>
+		<relatedgames />
+	</game>
+	<game id="10918242" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Dynamic/Polly/Turbo/10918242.jpg</thumbnail>
+		<title>Danger Sonic Iron</title>
+		<creator>Dynamic Polly Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="10949766" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Heroic/Lucius/Cactus/10949766.jpg</thumbnail>
+		<title>Pulse Adventure Racer</title>
+		<creator>Heroic Lucius Cactus</creator>
+		<relatedgames />
+	</game>
+	<game id="10933292" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Funky/Pearl/Zombie/10933292.jpg</thumbnail>
+		<title>Patrol Rescue Laser</title>
+		<creator>Funky Pearl Zombie</creator>
+		<relatedgames />
+	</game>
+	<game id="10948824" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Humble/Tabitha/Mahogany/10948824.jpg</thumbnail>
+		<title>Adventure Mega Sonic</title>
+		<creator>Humble Tabitha Mahogany</creator>
+		<relatedgames />
+	</game>
+	<game id="17282494" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Superior/Jonas/Jamboree/17282494.jpg</thumbnail>
+		<title>Pursuit Shadow Fire</title>
+		<creator>Superior Jonas Jamboree</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

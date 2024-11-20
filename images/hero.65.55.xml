@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10709585" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Wacky/Destiny/Steam/10709585.jpg</thumbnail>
+		<title>Battle Adventure Siege</title>
+		<creator>Wacky Destiny Steam</creator>
+		<relatedgames />
+	</game>
+	<game id="10924819" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Pleasant/Dakota/Rumble/10924819.jpg</thumbnail>
+		<title>Champion Rush Slam</title>
+		<creator>Pleasant Dakota Rumble</creator>
+		<relatedgames />
+	</game>
+	<game id="17584909" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Dizzy/Joshua/Deadbolt/17584909.jpg</thumbnail>
+		<title>Iron Alien Adventure</title>
+		<creator>Dizzy Joshua Deadbolt</creator>
+		<relatedgames />
+	</game>
+	<game id="10031707" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Wondrous/Grace/Fizz/10031707.jpg</thumbnail>
+		<title>Lightning Burst Solar</title>
+		<creator>Wondrous Grace Fizz</creator>
+		<relatedgames />
+	</game>
+	<game id="17011631" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/09/2012">
+		<thumbnail>/gamecreators/images2/Foul/Richard/17011631.jpg</thumbnail>
+		<title>Waterhazard Fire Escape</title>
+		<creator>Foul Richard</creator>
+		<relatedgames />
+	</game>
+	<game id="10925847" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dynamic/Stacy/Crumpet/10925847.jpg</thumbnail>
+		<title>Hero Pulse Shock</title>
+		<creator>Dynamic Stacy Crumpet</creator>
+		<relatedgames />
+	</game>
+	<game id="10921591" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Majestic/Mario/Sawtooth/10921591.jpg</thumbnail>
+		<title>Dark Adventure Drone</title>
+		<creator>Majestic Mario Sawtooth</creator>
+		<relatedgames />
+	</game>
+	<game id="17404129" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Shady/Perseus/Comet/17404129.jpg</thumbnail>
+		<title>Ultra Energy Nano</title>
+		<creator>Shady Perseus Comet</creator>
+		<relatedgames />
+	</game>
+	<game id="16837718" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/25/2012">
+		<thumbnail>/gamecreators/images2/Witty/Dean/Giblets/16837718.jpg</thumbnail>
+		<title>Nitro Mission Atomic</title>
+		<creator>Witty Dean Giblets</creator>
+		<relatedgames />
+	</game>
+	<game id="17262495" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Quirky/Oscar/Cutlass/17262495.jpg</thumbnail>
+		<title>Robot Gear Atomic</title>
+		<creator>Quirky Oscar Cutlass</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

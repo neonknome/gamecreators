@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17028951" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/15/2012">
+		<thumbnail>/gamecreators/images2/Average/Carlos/Behemoth/17028951.jpg</thumbnail>
+		<title>Slam Attack Mission</title>
+		<creator>Average Carlos Behemoth</creator>
+		<relatedgames />
+	</game>
+	<game id="17554100" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Zany/Ingrid/Sludge/17554100.jpg</thumbnail>
+		<title>Burst Storm Spark</title>
+		<creator>Zany Ingrid Sludge</creator>
+		<relatedgames />
+	</game>
+	<game id="10055612" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Uncanny/Dolly/Cyborg/10055612.jpg</thumbnail>
+		<title>Shock Titan Adventure</title>
+		<creator>Uncanny Dolly Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="17390861" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Evil/Jeremy/Nacho/17390861.jpg</thumbnail>
+		<title>Big Chill Mission</title>
+		<creator>Evil Jeremy Nacho</creator>
+		<relatedgames />
+	</game>
+	<game id="10015515" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Alien/Nathan/Parallax/10015515.jpg</thumbnail>
+		<title>Techno Laser Invasion</title>
+		<creator>Alien Nathan Parallax</creator>
+		<relatedgames />
+	</game>
+	<game id="17292491" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>/gamecreators/images2/Dandy/Penny/Minotaur/17292491.jpg</thumbnail>
+		<title>Clash Invasion Ultimate</title>
+		<creator>Dandy Penny Minotaur</creator>
+		<relatedgames />
+	</game>
+	<game id="17293112" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>/gamecreators/images2/Gorgeous/Nicole/Presto/17293112.jpg</thumbnail>
+		<title>Rescue Razor Water</title>
+		<creator>Gorgeous Nicole Presto</creator>
+		<relatedgames />
+	</game>
+	<game id="17315171" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>/gamecreators/images2/Rational/Bobo/Orca/17315171.jpg</thumbnail>
+		<title>Slam Attack Galaxy</title>
+		<creator>Rational Bobo Orca</creator>
+		<relatedgames />
+	</game>
+	<game id="10068519" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Alien/Isaiah/Thud/10068519.jpg</thumbnail>
+		<title>Force Pursuit Target</title>
+		<creator>Alien Isaiah Thud</creator>
+		<relatedgames />
+	</game>
+	<game id="10918851" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Fanciful/Mandy/Cinnamon/10918851.jpg</thumbnail>
+		<title>Metal Sonic Blaster</title>
+		<creator>Fanciful Mandy Cinnamon</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

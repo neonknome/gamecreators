@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16956162" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/22/2012">
+		<thumbnail>/gamecreators/images2/Queen/Pearl/Rascal/16956162.jpg</thumbnail>
+		<title>Water Ben Rock</title>
+		<creator>Queen Pearl Rascal</creator>
+		<relatedgames />
+	</game>
+	<game id="17407634" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>/gamecreators/images2/Creative/Yorick/Worm/17407634.jpg</thumbnail>
+		<title>Rampage Nitro Burst</title>
+		<creator>Creative Yorick Worm</creator>
+		<relatedgames />
+	</game>
+	<game id="17376217" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2012">
+		<thumbnail>/gamecreators/images2/Gigantic/Derek/Pelican/17376217.jpg</thumbnail>
+		<title>Ambush Nova Adventure</title>
+		<creator>Gigantic Derek Pelican</creator>
+		<relatedgames />
+	</game>
+	<game id="17014243" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/11/2012">
+		<thumbnail>/gamecreators/images2/Expert/Hailey/Knight/17014243.jpg</thumbnail>
+		<title>Adventure Ambush Robot</title>
+		<creator>Expert Hailey Knight</creator>
+		<relatedgames />
+	</game>
+	<game id="10936094" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Grand/Michelle/Goulash/10936094.jpg</thumbnail>
+		<title>Alien Atomic Attack</title>
+		<creator>Grand Michelle Goulash</creator>
+		<relatedgames />
+	</game>
+	<game id="17220720" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Smart/Pearl/Confetti/17220720.jpg</thumbnail>
+		<title>Cosmic Adventure Ben</title>
+		<creator>Smart Pearl Confetti</creator>
+		<relatedgames />
+	</game>
+	<game id="10038215" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Reckless/Jeremiah/Doodle/10038215.jpg</thumbnail>
+		<title>Cosmic Fire Adventure</title>
+		<creator>Reckless Jeremiah Doodle</creator>
+		<relatedgames />
+	</game>
+	<game id="17319388" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/09/2012">
+		<thumbnail>/gamecreators/images2/Evil/Keith/Dynamite/17319388.jpg</thumbnail>
+		<title>Chase Blaster Smash</title>
+		<creator>Evil Keith Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="10041108" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Alien/Pearl/Cyborg/10041108.jpg</thumbnail>
+		<title>Swampfire Target Burst</title>
+		<creator>Alien Pearl Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="16947434" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>/gamecreators/images2/Classic/Bill/Doodle/16947434.jpg</thumbnail>
+		<title>Ambush Rustbucket Light</title>
+		<creator>Classic Bill Doodle</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

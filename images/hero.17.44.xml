@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10953072" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Eerie/Elijah/Turtle/10953072.jpg</thumbnail>
+		<title>Search Force Fire</title>
+		<creator>Eerie Elijah Turtle</creator>
+		<relatedgames />
+	</game>
+	<game id="17286369" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>/gamecreators/images2/General/Alvin/Wiffle/17286369.jpg</thumbnail>
+		<title>Ultimate Vilgax Battle</title>
+		<creator>General Alvin Wiffle</creator>
+		<relatedgames />
+	</game>
+	<game id="17333014" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Merry/Ichabod/Elephant/17333014.jpg</thumbnail>
+		<title>Stone Big Pursuit</title>
+		<creator>Merry Ichabod Elephant</creator>
+		<relatedgames />
+	</game>
+	<game id="10924853" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Enormous/Brandon/Vector/10924853.jpg</thumbnail>
+		<title>Solar Ultimate Fury</title>
+		<creator>Enormous Brandon Vector</creator>
+		<relatedgames />
+	</game>
+	<game id="17331573" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Talented/Destiny/Warrior/17331573.jpg</thumbnail>
+		<title>Alien Attack Blaster</title>
+		<creator>Talented Destiny Warrior</creator>
+		<relatedgames />
+	</game>
+	<game id="17277286" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Mystic/Roscoe/Mummy/17277286.jpg</thumbnail>
+		<title>Adventure Slam Adventure</title>
+		<creator>Mystic Roscoe Mummy</creator>
+		<relatedgames />
+	</game>
+	<game id="10020400" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Cheerful/Jill/Blubber/10020400.jpg</thumbnail>
+		<title>Gear Warrior Siege</title>
+		<creator>Cheerful Jill Blubber</creator>
+		<relatedgames />
+	</game>
+	<game id="16995598" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>/gamecreators/images2/Flying/Drake/Sorcerer/16995598.jpg</thumbnail>
+		<title>Charge Alien Clash</title>
+		<creator>Flying Drake Sorcerer</creator>
+		<relatedgames />
+	</game>
+	<game id="17554265" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Loud/Carson/Blob/17554265.jpg</thumbnail>
+		<title>Plumber Nova Stone</title>
+		<creator>Loud Carson Blob</creator>
+		<relatedgames />
+	</game>
+	<game id="17373576" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>/gamecreators/images2/Robotic/Owen/Cobra/17373576.jpg</thumbnail>
+		<title>Animo Rampage Energy</title>
+		<creator>Robotic Owen Cobra</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

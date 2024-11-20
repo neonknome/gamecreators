@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17293112" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>/gamecreators/images2/Gorgeous/Nicole/Presto/17293112.jpg</thumbnail>
+		<title>Rescue Razor Water</title>
+		<creator>Gorgeous Nicole Presto</creator>
+		<relatedgames />
+	</game>
+	<game id="10927028" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Sly/Ava/Tugboat/10927028.jpg</thumbnail>
+		<title>Force Adventure Stone</title>
+		<creator>Sly Ava Tugboat</creator>
+		<relatedgames />
+	</game>
+	<game id="17315171" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>/gamecreators/images2/Rational/Bobo/Orca/17315171.jpg</thumbnail>
+		<title>Slam Attack Galaxy</title>
+		<creator>Rational Bobo Orca</creator>
+		<relatedgames />
+	</game>
+	<game id="10068519" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Alien/Isaiah/Thud/10068519.jpg</thumbnail>
+		<title>Force Pursuit Target</title>
+		<creator>Alien Isaiah Thud</creator>
+		<relatedgames />
+	</game>
+	<game id="17422344" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>/gamecreators/images2/Golden/Gabriel/Bazooka/17422344.jpg</thumbnail>
+		<title>Spark Chase Vilgax</title>
+		<creator>Golden Gabriel Bazooka</creator>
+		<relatedgames />
+	</game>
+	<game id="10918851" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Fanciful/Mandy/Cinnamon/10918851.jpg</thumbnail>
+		<title>Metal Sonic Blaster</title>
+		<creator>Fanciful Mandy Cinnamon</creator>
+		<relatedgames />
+	</game>
+	<game id="10038105" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Swift/Breanna/Blitz/10038105.jpg</thumbnail>
+		<title>Doom Plumber Shadow</title>
+		<creator>Swift Breanna Blitz</creator>
+		<relatedgames />
+	</game>
+	<game id="10952398" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Comical/Ray/Worm/10952398.jpg</thumbnail>
+		<title>Hyper Shock Mission</title>
+		<creator>Comical Ray Worm</creator>
+		<relatedgames />
+	</game>
+	<game id="17378888" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Major/Alan/Cartoon/17378888.jpg</thumbnail>
+		<title>Ultra Laser Battle</title>
+		<creator>Major Alan Cartoon</creator>
+		<relatedgames />
+	</game>
+	<game id="10953342" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Shaggy/Hercules/Frost/10953342.jpg</thumbnail>
+		<title>Sonic Danger Fury</title>
+		<creator>Shaggy Hercules Frost</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

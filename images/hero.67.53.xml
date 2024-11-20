@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10654995" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2009">
+		<thumbnail>/gamecreators/images2/Brainy/Nicholas/Chimera/10654995.jpg</thumbnail>
+		<title>Solar Invasion Rush</title>
+		<creator>Brainy Nicholas Chimera</creator>
+		<relatedgames />
+	</game>
+	<game id="10916705" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Infinite/Jill/Thorax/10916705.jpg</thumbnail>
+		<title>Rumble Challenge Slam</title>
+		<creator>Infinite Jill Thorax</creator>
+		<relatedgames />
+	</game>
+	<game id="10929567" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Noble/Chelsea/Crowbar/10929567.jpg</thumbnail>
+		<title>Swampfire Warrior Fury</title>
+		<creator>Noble Chelsea Crowbar</creator>
+		<relatedgames />
+	</game>
+	<game id="17585272" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Jumping/Joel/Zigzag/17585272.jpg</thumbnail>
+		<title>Adventure Adventure Hero</title>
+		<creator>Jumping Joel Zigzag</creator>
+		<relatedgames />
+	</game>
+	<game id="17362230" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2012">
+		<thumbnail>/gamecreators/images2/Reckless/Igor/Cupcake/17362230.jpg</thumbnail>
+		<title>Space Metal Assault</title>
+		<creator>Reckless Igor Cupcake</creator>
+		<relatedgames />
+	</game>
+	<game id="10055612" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Uncanny/Dolly/Cyborg/10055612.jpg</thumbnail>
+		<title>Shock Titan Adventure</title>
+		<creator>Uncanny Dolly Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="10924138" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Eerie/Ben/Tuxedo/10924138.jpg</thumbnail>
+		<title>Battle Beast Nova</title>
+		<creator>Eerie Ben Tuxedo</creator>
+		<relatedgames />
+	</game>
+	<game id="17550925" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Horrid/Angel/Venus/17550925.jpg</thumbnail>
+		<title>Rescue Nano Echo</title>
+		<creator>Horrid Angel Venus</creator>
+		<relatedgames />
+	</game>
+	<game id="10931774" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Stylish/Alan/Cosmos/10931774.jpg</thumbnail>
+		<title>Alien Universe Racer</title>
+		<creator>Stylish Alan Cosmos</creator>
+		<relatedgames />
+	</game>
+	<game id="17312986" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>/gamecreators/images2/Mellow/Benjamin/Banzai/17312986.jpg</thumbnail>
+		<title>Shadow Rock Nova</title>
+		<creator>Mellow Benjamin Banzai</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

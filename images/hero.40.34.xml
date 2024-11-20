@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10953447" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Nimble/Lillian/Robot/10953447.jpg</thumbnail>
+		<title>Mission Hero Smash</title>
+		<creator>Nimble Lillian Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="17331676" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Active/Ian/Cactus/17331676.jpg</thumbnail>
+		<title>Adventure Blaster Alien</title>
+		<creator>Active Ian Cactus</creator>
+		<relatedgames />
+	</game>
+	<game id="17164092" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/27/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Scott/Calypso/17164092.jpg</thumbnail>
+		<title>Siege Dark Space</title>
+		<creator>Ultimate Scott Calypso</creator>
+		<relatedgames />
+	</game>
+	<game id="17224970" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>/gamecreators/images2/Bouncing/Benton/Mummy/17224970.jpg</thumbnail>
+		<title>Ben Jetray Beast</title>
+		<creator>Bouncing Benton Mummy</creator>
+		<relatedgames />
+	</game>
+	<game id="17377498" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Nimble/Billy/Flywheel/17377498.jpg</thumbnail>
+		<title>Ambush Smash Challenge</title>
+		<creator>Nimble Billy Flywheel</creator>
+		<relatedgames />
+	</game>
+	<game id="17314812" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>/gamecreators/images2/Babbling/Hayden/Aurora/17314812.jpg</thumbnail>
+		<title>Fire Cosmic Clash</title>
+		<creator>Babbling Hayden Aurora</creator>
+		<relatedgames />
+	</game>
+	<game id="10926745" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Eager/Sara/Goulash/10926745.jpg</thumbnail>
+		<title>Force Invasion Warrior</title>
+		<creator>Eager Sara Goulash</creator>
+		<relatedgames />
+	</game>
+	<game id="10928891" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Honest/Cole/Dragon/10928891.jpg</thumbnail>
+		<title>Alien Magno Fire</title>
+		<creator>Honest Cole Dragon</creator>
+		<relatedgames />
+	</game>
+	<game id="10953223" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Fuzzy/Adrian/Fritter/10953223.jpg</thumbnail>
+		<title>Galaxy Storm Iron</title>
+		<creator>Fuzzy Adrian Fritter</creator>
+		<relatedgames />
+	</game>
+	<game id="416237" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="10/24/2010">
+		<thumbnail>
+		</thumbnail>
+		<title>Swampfire Droid Warrior</title>
+		<creator>mamamaster</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

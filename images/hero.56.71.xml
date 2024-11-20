@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10057799" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Swift/Vinny/Crater/10057799.jpg</thumbnail>
+		<title>Swampfire Thunder Adventure</title>
+		<creator>Swift Vinny Crater</creator>
+		<relatedgames />
+	</game>
+	<game id="10786744" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2009">
+		<thumbnail>/gamecreators/images2/Baffling/Otis/Moonbeam/10786744.jpg</thumbnail>
+		<title>Plasma Crusher Droid</title>
+		<creator>Baffling Otis Moonbeam</creator>
+		<relatedgames />
+	</game>
+	<game id="10934745" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Absurd/Baxter/Cosmos/10934745.jpg</thumbnail>
+		<title>Star Rustbucket Quake</title>
+		<creator>Absurd Baxter Cosmos</creator>
+		<relatedgames />
+	</game>
+	<game id="10924783" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Cosmic/Harry/Bongo/10924783.jpg</thumbnail>
+		<title>Force Rustbucket Attack</title>
+		<creator>Cosmic Harry Bongo</creator>
+		<relatedgames />
+	</game>
+	<game id="10921477" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Humorous/Lorenzo/Igloo/10921477.jpg</thumbnail>
+		<title>Fire Siege Giga</title>
+		<creator>Humorous Lorenzo Igloo</creator>
+		<relatedgames />
+	</game>
+	<game id="10055924" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Proper/Dwight/Mustard/10055924.jpg</thumbnail>
+		<title>Robot Alien Invasion</title>
+		<creator>Proper Dwight Mustard</creator>
+		<relatedgames />
+	</game>
+	<game id="10038105" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Swift/Breanna/Blitz/10038105.jpg</thumbnail>
+		<title>Doom Plumber Shadow</title>
+		<creator>Swift Breanna Blitz</creator>
+		<relatedgames />
+	</game>
+	<game id="10943881" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Dazzling/Grover/Fireball/10943881.jpg</thumbnail>
+		<title>Crusher Shock Ben</title>
+		<creator>Dazzling Grover Fireball</creator>
+		<relatedgames />
+	</game>
+	<game id="10953298" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Grizzly/Mitchell/Hiccup/10953298.jpg</thumbnail>
+		<title>Energy Robot Solar</title>
+		<creator>Grizzly Mitchell Hiccup</creator>
+		<relatedgames />
+	</game>
+	<game id="10925590" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fizzy/Dominic/Splat/10925590.jpg</thumbnail>
+		<title>Hero Battle Spark</title>
+		<creator>Fizzy Dominic Splat</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17236848" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/18/2012">
+		<thumbnail>/gamecreators/images2/Colonel/Amy/Blammo/17236848.jpg</thumbnail>
+		<title>Champion Universe Water</title>
+		<creator>Colonel Amy Blammo</creator>
+		<relatedgames />
+	</game>
+	<game id="10933355" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Madcap/Pete/Fritter/10933355.jpg</thumbnail>
+		<title>Universe Target Warrior</title>
+		<creator>Madcap Pete Fritter</creator>
+		<relatedgames />
+	</game>
+	<game id="10952492" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Horrid/Blake/Ukulele/10952492.jpg</thumbnail>
+		<title>Cosmic Swampfire Storm</title>
+		<creator>Horrid Blake Ukulele</creator>
+		<relatedgames />
+	</game>
+	<game id="17228920" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/16/2012">
+		<thumbnail>/gamecreators/images2/Popular/Quentin/Goofball/17228920.jpg</thumbnail>
+		<title>Ultimate Target Doom</title>
+		<creator>Popular Quentin Goofball</creator>
+		<relatedgames />
+	</game>
+	<game id="17549594" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Classic/Buffy/Dingo/17549594.jpg</thumbnail>
+		<title>Warrior Rustbucket Echo</title>
+		<creator>Classic Buffy Dingo</creator>
+		<relatedgames />
+	</game>
+	<game id="17331573" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Talented/Destiny/Warrior/17331573.jpg</thumbnail>
+		<title>Alien Attack Blaster</title>
+		<creator>Talented Destiny Warrior</creator>
+		<relatedgames />
+	</game>
+	<game id="17360908" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>/gamecreators/images2/Speedy/Cole/Fuzz/17360908.jpg</thumbnail>
+		<title>Storm Ultimate Animo</title>
+		<creator>Speedy Cole Fuzz</creator>
+		<relatedgames />
+	</game>
+	<game id="10069100" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Alien/Jacob/Brick/10069100.jpg</thumbnail>
+		<title>Swampfire Hero Hex</title>
+		<creator>Alien Jacob Brick</creator>
+		<relatedgames />
+	</game>
+	<game id="16983247" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>/gamecreators/images2/Brisk/Ben/Ballyhoo/16983247.jpg</thumbnail>
+		<title>Spike Drone Ultra</title>
+		<creator>Brisk Ben Ballyhoo</creator>
+		<relatedgames />
+	</game>
+	<game id="10946491" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Fanciful/Sandra/Howler/10946491.jpg</thumbnail>
+		<title>Warrior Quake Pursuit</title>
+		<creator>Fanciful Sandra Howler</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

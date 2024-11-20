@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16989085" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/02/2012">
+		<thumbnail>/gamecreators/images2/Shiny/Homer/Soldier/16989085.jpg</thumbnail>
+		<title>Crusher Adventure Universe</title>
+		<creator>Shiny Homer Soldier</creator>
+		<relatedgames />
+	</game>
+	<game id="17306187" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>/gamecreators/images2/Eastern/Brady/Clone/17306187.jpg</thumbnail>
+		<title>Hex Techno Nitro</title>
+		<creator>Eastern Brady Clone</creator>
+		<relatedgames />
+	</game>
+	<game id="10924220" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Honest/Kenneth/Saber/10924220.jpg</thumbnail>
+		<title>Plasma Mega Chase</title>
+		<creator>Honest Kenneth Saber</creator>
+		<relatedgames />
+	</game>
+	<game id="10926490" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fuzzy/Trevor/Zombie/10926490.jpg</thumbnail>
+		<title>Titan Assault Energy</title>
+		<creator>Fuzzy Trevor Zombie</creator>
+		<relatedgames />
+	</game>
+	<game id="10920066" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Massive/Ethel/Glop/10920066.jpg</thumbnail>
+		<title>Beast Ambush Spike</title>
+		<creator>Massive Ethel Glop</creator>
+		<relatedgames />
+	</game>
+	<game id="17262679" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Shaggy/Vladimir/Crowbar/17262679.jpg</thumbnail>
+		<title>Big Adventure Universe</title>
+		<creator>Shaggy Vladimir Crowbar</creator>
+		<relatedgames />
+	</game>
+	<game id="17363715" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>/gamecreators/images2/Babbling/Brett/Nonsense/17363715.jpg</thumbnail>
+		<title>Space Spark Nano</title>
+		<creator>Babbling Brett Nonsense</creator>
+		<relatedgames />
+	</game>
+	<game id="10922483" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Sincere/Victor/Boing/10922483.jpg</thumbnail>
+		<title>Fury Power Patrol</title>
+		<creator>Sincere Victor Boing</creator>
+		<relatedgames />
+	</game>
+	<game id="10936939" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Bizarre/Ace/Warthog/10936939.jpg</thumbnail>
+		<title>Fusion Vilgax Galaxy</title>
+		<creator>Bizarre Ace Warthog</creator>
+		<relatedgames />
+	</game>
+	<game id="17554074" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Eloquent/Dillon/Bayou/17554074.jpg</thumbnail>
+		<title>Gear Magno Droid</title>
+		<creator>Eloquent Dillon Bayou</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

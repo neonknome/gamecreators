@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10059447" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Surreal/Max/Tusk/10059447.jpg</thumbnail>
+		<title>Doom Doom Siege</title>
+		<creator>Surreal Max Tusk</creator>
+		<relatedgames />
+	</game>
+	<game id="10924451" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Musical/Andrew/Jalapeno/10924451.jpg</thumbnail>
+		<title>Dark Robot Rustbucket</title>
+		<creator>Musical Andrew Jalapeno</creator>
+		<relatedgames />
+	</game>
+	<game id="10064388" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Sincere/Diego/Tiptoe/10064388.jpg</thumbnail>
+		<title>Adventure Challenge Battle</title>
+		<creator>Sincere Diego Tiptoe</creator>
+		<relatedgames />
+	</game>
+	<game id="17334444" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Able/Mordecai/Vapor/17334444.jpg</thumbnail>
+		<title>Adventure Rush Terraspin</title>
+		<creator>Able Mordecai Vapor</creator>
+		<relatedgames />
+	</game>
+	<game id="10928093" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Bashful/Gulliver/Clang/10928093.jpg</thumbnail>
+		<title>Swampfire Ben Thunder</title>
+		<creator>Bashful Gulliver Clang</creator>
+		<relatedgames />
+	</game>
+	<game id="10924653" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Elegant/Salvador/Volcano/10924653.jpg</thumbnail>
+		<title>Swampfire Fury Adventure</title>
+		<creator>Elegant Salvador Volcano</creator>
+		<relatedgames />
+	</game>
+	<game id="16843442" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/26/2012">
+		<thumbnail>/gamecreators/images2/Humble/Thor/Cyclone/16843442.jpg</thumbnail>
+		<title>Chill Razor Shadow</title>
+		<creator>Humble Thor Cyclone</creator>
+		<relatedgames />
+	</game>
+	<game id="10055889" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Ghostly/Charles/Cosmos/10055889.jpg</thumbnail>
+		<title>Pulse Plumber Adventure</title>
+		<creator>Ghostly Charles Cosmos</creator>
+		<relatedgames />
+	</game>
+	<game id="10928607" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Mumbling/Ace/Cactus/10928607.jpg</thumbnail>
+		<title>Warp Solar Steel</title>
+		<creator>Mumbling Ace Cactus</creator>
+		<relatedgames />
+	</game>
+	<game id="10952821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Western/Leon/Figment/10952821.jpg</thumbnail>
+		<title>Battle Force Doom</title>
+		<creator>Western Leon Figment</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

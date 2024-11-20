@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17415966" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Witty/Marco/Shadow/17415966.jpg</thumbnail>
+		<title>Slam Attack Warp</title>
+		<creator>Witty Marco Shadow</creator>
+		<relatedgames />
+	</game>
+	<game id="17358453" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>/gamecreators/images2/Profound/Bernard/Scribble/17358453.jpg</thumbnail>
+		<title>Shock Vilgax Droid</title>
+		<creator>Profound Bernard Scribble</creator>
+		<relatedgames />
+	</game>
+	<game id="10038161" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Dynamic/Matt/Aardvark/10038161.jpg</thumbnail>
+		<title>Warrior Ultra Laser</title>
+		<creator>Dynamic Matt Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="10068974" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Comical/Chad/Sprinkle/10068974.jpg</thumbnail>
+		<title>Burst Adventure Breaker</title>
+		<creator>Comical Chad Sprinkle</creator>
+		<relatedgames />
+	</game>
+	<game id="10933180" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Funky/Pearl/Zombie/10933180.jpg</thumbnail>
+		<title>Galaxy Titan Breaker</title>
+		<creator>Funky Pearl Zombie</creator>
+		<relatedgames />
+	</game>
+	<game id="10046403" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Majestic/Chelsea/Squawk/10046403.jpg</thumbnail>
+		<title>Rustbucket Pulse Invasion</title>
+		<creator>Majestic Chelsea Squawk</creator>
+		<relatedgames />
+	</game>
+	<game id="17381279" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>/gamecreators/images2/Elegant/Mac/Unicycle/17381279.jpg</thumbnail>
+		<title>Vilgax Plumber Racer</title>
+		<creator>Elegant Mac Unicycle</creator>
+		<relatedgames />
+	</game>
+	<game id="17160674" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/26/2012">
+		<thumbnail>/gamecreators/images2/Silly/Franklin/Foghorn/17160674.jpg</thumbnail>
+		<title>Adventure Earth Patrol</title>
+		<creator>Silly Franklin Foghorn</creator>
+		<relatedgames />
+	</game>
+	<game id="10918948" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Noisy/Jared/Squish/10918948.jpg</thumbnail>
+		<title>Danger Energy Metal</title>
+		<creator>Noisy Jared Squish</creator>
+		<relatedgames />
+	</game>
+	<game id="17417151" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/King/Todd/Galaxy/17417151.jpg</thumbnail>
+		<title>Ultimate Target Hero</title>
+		<creator>King Todd Galaxy</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

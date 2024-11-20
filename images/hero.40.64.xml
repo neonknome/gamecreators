@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17151478" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/23/2012">
+		<thumbnail>/gamecreators/images2/Devious/Paula/Magma/17151478.jpg</thumbnail>
+		<title>Jetray Alien Force</title>
+		<creator>Devious Paula Magma</creator>
+		<relatedgames />
+	</game>
+	<game id="10953381" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Cheerful/Vincent/Dragon/10953381.jpg</thumbnail>
+		<title>Plasma Giga Droid</title>
+		<creator>Cheerful Vincent Dragon</creator>
+		<relatedgames />
+	</game>
+	<game id="17227876" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>/gamecreators/images2/Flying/Logan/Magnet/17227876.jpg</thumbnail>
+		<title>Charge Escape Breaker</title>
+		<creator>Flying Logan Magnet</creator>
+		<relatedgames />
+	</game>
+	<game id="17384988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Robust/Isaac/Pudding/17384988.jpg</thumbnail>
+		<title>Escape Nano Smash</title>
+		<creator>Robust Isaac Pudding</creator>
+		<relatedgames />
+	</game>
+	<game id="10924638" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Artistic/Ramona/Prism/10924638.jpg</thumbnail>
+		<title>Droid Escape Blaster</title>
+		<creator>Artistic Ramona Prism</creator>
+		<relatedgames />
+	</game>
+	<game id="10953605" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Scurvy/Edward/Monster/10953605.jpg</thumbnail>
+		<title>Rumble Shadow Techno</title>
+		<creator>Scurvy Edward Monster</creator>
+		<relatedgames />
+	</game>
+	<game id="10923368" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wise/Herman/Tornado/10923368.jpg</thumbnail>
+		<title>Blaster Force Clash</title>
+		<creator>Wise Herman Tornado</creator>
+		<relatedgames />
+	</game>
+	<game id="10919184" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Fizzy/Laura/Tugboat/10919184.jpg</thumbnail>
+		<title>Siege Atomic Rush</title>
+		<creator>Fizzy Laura Tugboat</creator>
+		<relatedgames />
+	</game>
+	<game id="10930929" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Awesome/Robin/Nova/10930929.jpg</thumbnail>
+		<title>Hyper Nova Attack</title>
+		<creator>Awesome Robin Nova</creator>
+		<relatedgames />
+	</game>
+	<game id="10952899" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Dynamic/Celeste/Dolphin/10952899.jpg</thumbnail>
+		<title>Galaxy Mission Rampage</title>
+		<creator>Dynamic Celeste Dolphin</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

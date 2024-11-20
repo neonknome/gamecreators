@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17540418" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Peppy/Phillip/Scythe/17540418.jpg</thumbnail>
+		<title>Target Rush Fusion</title>
+		<creator>Peppy Phillip Scythe</creator>
+		<relatedgames />
+	</game>
+	<game id="17411231" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/13/2012">
+		<thumbnail>/gamecreators/images2/Strange/Ariel/Gumdrop/17411231.jpg</thumbnail>
+		<title>Defense Spidermonkey Droid</title>
+		<creator>Strange Ariel Gumdrop</creator>
+		<relatedgames />
+	</game>
+	<game id="10953381" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Cheerful/Vincent/Dragon/10953381.jpg</thumbnail>
+		<title>Plasma Giga Droid</title>
+		<creator>Cheerful Vincent Dragon</creator>
+		<relatedgames />
+	</game>
+	<game id="10924687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Surreal/Grace/Flypaper/10924687.jpg</thumbnail>
+		<title>Clash Alien Adventure</title>
+		<creator>Surreal Grace Flypaper</creator>
+		<relatedgames />
+	</game>
+	<game id="17373253" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>/gamecreators/images2/Quirky/Tommy/Karate/17373253.jpg</thumbnail>
+		<title>Techno Hero Spike</title>
+		<creator>Quirky Tommy Karate</creator>
+		<relatedgames />
+	</game>
+	<game id="10918821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Red/Travis/Cipher/10918821.jpg</thumbnail>
+		<title>Metal Force Fusion</title>
+		<creator>Red Travis Cipher</creator>
+		<relatedgames />
+	</game>
+	<game id="17378159" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Extreme/Izzy/Martian/17378159.jpg</thumbnail>
+		<title>Terraspin Adventure Fury</title>
+		<creator>Extreme Izzy Martian</creator>
+		<relatedgames />
+	</game>
+	<game id="10930329" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Aquatic/Richard/Troll/10930329.jpg</thumbnail>
+		<title>Battle Droid Solar</title>
+		<creator>Aquatic Richard Troll</creator>
+		<relatedgames />
+	</game>
+	<game id="10917836" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Darling/Buffy/Narwhal/10917836.jpg</thumbnail>
+		<title>Universe Adventure Adventure</title>
+		<creator>Darling Buffy Narwhal</creator>
+		<relatedgames />
+	</game>
+	<game id="10780341" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2009">
+		<thumbnail>/gamecreators/images2/Green/Holly/Crater/10780341.jpg</thumbnail>
+		<title>Shock Defense Magno</title>
+		<creator>Green Holly Crater</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10709680" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Zippy/Ron/Sardine/10709680.jpg</thumbnail>
+		<title>Turbo Breaker Racer</title>
+		<creator>Zippy Ron Sardine</creator>
+		<relatedgames />
+	</game>
+	<game id="10056546" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Bashful/Bjorn/Avocado/10056546.jpg</thumbnail>
+		<title>Laser Laser Attack</title>
+		<creator>Bashful Bjorn Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="10953079" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Humble/Daniel/Scorpion/10953079.jpg</thumbnail>
+		<title>Plumber Force Rampage</title>
+		<creator>Humble Daniel Scorpion</creator>
+		<relatedgames />
+	</game>
+	<game id="16988752" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/02/2012">
+		<thumbnail>/gamecreators/images2/Prince/Baxter/Horsefly/16988752.jpg</thumbnail>
+		<title>Attack Warrior Ambush</title>
+		<creator>Prince Baxter Horsefly</creator>
+		<relatedgames />
+	</game>
+	<game id="10923252" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Modest/Bobby/Jungle/10923252.jpg</thumbnail>
+		<title>Charge Nova Escape</title>
+		<creator>Modest Bobby Jungle</creator>
+		<relatedgames />
+	</game>
+	<game id="10916697" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Zippy/Barney/Elephant/10916697.jpg</thumbnail>
+		<title>Beast Rock Thunder</title>
+		<creator>Zippy Barney Elephant</creator>
+		<relatedgames />
+	</game>
+	<game id="10949397" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Fierce/Anthony/Lobster/10949397.jpg</thumbnail>
+		<title>Shadow Search Shock</title>
+		<creator>Fierce Anthony Lobster</creator>
+		<relatedgames />
+	</game>
+	<game id="10918460" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Red/Julian/Shark/10918460.jpg</thumbnail>
+		<title>Giga Champion Solar</title>
+		<creator>Red Julian Shark</creator>
+		<relatedgames />
+	</game>
+	<game id="10931541" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Splendid/Donald/Whizbang/10931541.jpg</thumbnail>
+		<title>Rampage Assault Thunder</title>
+		<creator>Splendid Donald Whizbang</creator>
+		<relatedgames />
+	</game>
+	<game id="17179172" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>/gamecreators/images2/Amusing/Ray/Snake/17179172.jpg</thumbnail>
+		<title>Mega Titan Nova</title>
+		<creator>Amusing Ray Snake</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

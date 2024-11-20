@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17386673" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Strong/Chris/Eel/17386673.jpg</thumbnail>
+		<title>Plasma Mission Escape</title>
+		<creator>Strong Chris Eel</creator>
+		<relatedgames />
+	</game>
+	<game id="10069102" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Massive/Dawn/Glacier/10069102.jpg</thumbnail>
+		<title>Target Ultimate Battle</title>
+		<creator>Massive Dawn Glacier</creator>
+		<relatedgames />
+	</game>
+	<game id="16975781" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Radiant/Robert/Paladin/16975781.jpg</thumbnail>
+		<title>Adventure Spidermonkey Nitro</title>
+		<creator>Radiant Robert Paladin</creator>
+		<relatedgames />
+	</game>
+	<game id="10953143" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Grizzly/Mitchell/Hiccup/10953143.jpg</thumbnail>
+		<title>Plasma Breaker Force</title>
+		<creator>Grizzly Mitchell Hiccup</creator>
+		<relatedgames />
+	</game>
+	<game id="17343024" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>/gamecreators/images2/Spectral/Don/Goblin/17343024.jpg</thumbnail>
+		<title>Cosmic Rock Breaker</title>
+		<creator>Spectral Don Goblin</creator>
+		<relatedgames />
+	</game>
+	<game id="10943281" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Alien/Brent/Starfish/10943281.jpg</thumbnail>
+		<title>Galaxy Pursuit Rescue</title>
+		<creator>Alien Brent Starfish</creator>
+		<relatedgames />
+	</game>
+	<game id="10917018" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Reliable/Victor/Whizbang/10917018.jpg</thumbnail>
+		<title>Solar Storm Chase</title>
+		<creator>Reliable Victor Whizbang</creator>
+		<relatedgames />
+	</game>
+	<game id="17215734" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/12/2012">
+		<thumbnail>/gamecreators/images2/Fair/Zeke/Badger/17215734.jpg</thumbnail>
+		<title>Swampfire Drone Battle</title>
+		<creator>Fair Zeke Badger</creator>
+		<relatedgames />
+	</game>
+	<game id="16958340" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/22/2012">
+		<thumbnail>/gamecreators/images2/Artful/Kate/Bongo/16958340.jpg</thumbnail>
+		<title>Storm Rocket Jetray</title>
+		<creator>Artful Kate Bongo</creator>
+		<relatedgames />
+	</game>
+	<game id="17257764" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>/gamecreators/images2/Dashing/Reuben/Knight/17257764.jpg</thumbnail>
+		<title>Ben Pursuit Titan</title>
+		<creator>Dashing Reuben Knight</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

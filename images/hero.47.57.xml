@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17274855" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>/gamecreators/images2/Brayden/Badger/17274855.jpg</thumbnail>
+		<title>Crusher Cannonbolt Droid</title>
+		<creator>Brayden Badger</creator>
+		<relatedgames />
+	</game>
+	<game id="17172103" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/29/2012">
+		<thumbnail>/gamecreators/images2/Jingling/Spencer/Mosquito/17172103.jpg</thumbnail>
+		<title>Iron Adventure Plumber</title>
+		<creator>Jingling Spencer Mosquito</creator>
+		<relatedgames />
+	</game>
+	<game id="17217721" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>/gamecreators/images2/Normal/Betty/Venom/17217721.jpg</thumbnail>
+		<title>Shadow Vilgax Cosmic</title>
+		<creator>Normal Betty Venom</creator>
+		<relatedgames />
+	</game>
+	<game id="17255336" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/23/2012">
+		<thumbnail>/gamecreators/images2/Lively/Sophie/Viking/17255336.jpg</thumbnail>
+		<title>Target Echo Breaker</title>
+		<creator>Lively Sophie Viking</creator>
+		<relatedgames />
+	</game>
+	<game id="10932753" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Reliable/Gregory/Gorilla/10932753.jpg</thumbnail>
+		<title>Mega Pursuit Sonic</title>
+		<creator>Reliable Gregory Gorilla</creator>
+		<relatedgames />
+	</game>
+	<game id="9954616" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Bashful/Zachary/Porridge/9954616.jpg</thumbnail>
+		<title>Robot Humongousaur Nano</title>
+		<creator>Bashful Zachary Porridge</creator>
+		<relatedgames />
+	</game>
+	<game id="17387237" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Elite/Marcus/Balloon/17387237.jpg</thumbnail>
+		<title>Star Slam Space</title>
+		<creator>Elite Marcus Balloon</creator>
+		<relatedgames />
+	</game>
+	<game id="17046178" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/21/2012">
+		<thumbnail>/gamecreators/images2/Humorous/Alvin/Tiger/17046178.jpg</thumbnail>
+		<title>Animo Shock Universe</title>
+		<creator>Humorous Alvin Tiger</creator>
+		<relatedgames />
+	</game>
+	<game id="10939432" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Ghostly/Julia/Planet/10939432.jpg</thumbnail>
+		<title>Ultra Danger Storm</title>
+		<creator>Ghostly Julia Planet</creator>
+		<relatedgames />
+	</game>
+	<game id="10016036" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Mumbling/Dorothy/Talon/10016036.jpg</thumbnail>
+		<title>Force Ultimate Fire</title>
+		<creator>Mumbling Dorothy Talon</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

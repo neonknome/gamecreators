@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17313005" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/07/2012">
+		<thumbnail>/gamecreators/images2/Roaring/Douglas/Fuzz/17313005.jpg</thumbnail>
+		<title>Fire Adventure Iron</title>
+		<creator>Roaring Douglas Fuzz</creator>
+		<relatedgames />
+	</game>
+	<game id="17319185" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Virtual/Johnny/Vortex/17319185.jpg</thumbnail>
+		<title>Cosmic Assault Alien</title>
+		<creator>Virtual Johnny Vortex</creator>
+		<relatedgames />
+	</game>
+	<game id="17265238" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Orange/Olivia/Maestro/17265238.jpg</thumbnail>
+		<title>Gear Vilgax Burst</title>
+		<creator>Orange Olivia Maestro</creator>
+		<relatedgames />
+	</game>
+	<game id="10952287" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Gigantic/Zelda/Turbo/10952287.jpg</thumbnail>
+		<title>Rescue Rampage Rumble</title>
+		<creator>Gigantic Zelda Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="17357887" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>/gamecreators/images2/Musical/CJ/Universe/17357887.jpg</thumbnail>
+		<title>Shadow Adventure Assault</title>
+		<creator>Musical CJ Universe</creator>
+		<relatedgames />
+	</game>
+	<game id="17282201" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Abnormal/Lawrence/Burro/17282201.jpg</thumbnail>
+		<title>Iron Adventure Ben</title>
+		<creator>Abnormal Lawrence Burro</creator>
+		<relatedgames />
+	</game>
+	<game id="16998524" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/05/2012">
+		<thumbnail>/gamecreators/images2/Toxic/Caden/Funk/16998524.jpg</thumbnail>
+		<title>Invasion Mega Escape</title>
+		<creator>Toxic Caden Funk</creator>
+		<relatedgames />
+	</game>
+	<game id="10931981" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Beastly/Corey/Citrus/10931981.jpg</thumbnail>
+		<title>Adventure Nova Warrior</title>
+		<creator>Beastly Corey Citrus</creator>
+		<relatedgames />
+	</game>
+	<game id="17341198" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/15/2012">
+		<thumbnail>/gamecreators/images2/Admiral/Anna/Crater/17341198.jpg</thumbnail>
+		<title>Target Ultimate Ambush</title>
+		<creator>Admiral Anna Crater</creator>
+		<relatedgames />
+	</game>
+	<game id="17540239" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Mumbling/Kaden/Tarragon/17540239.jpg</thumbnail>
+		<title>Dark Omniverse Charge</title>
+		<creator>Mumbling Kaden Tarragon</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10919201" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Grimy/Autumn/Gumbo/10919201.jpg</thumbnail>
+		<title>Fire Steel Turbo</title>
+		<creator>Grimy Autumn Gumbo</creator>
+		<relatedgames />
+	</game>
+	<game id="10950896" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Nomadic/Alyssa/Kayak/10950896.jpg</thumbnail>
+		<title>Rampage Spark Force</title>
+		<creator>Nomadic Alyssa Kayak</creator>
+		<relatedgames />
+	</game>
+	<game id="10929381" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Southern/Justin/Steam/10929381.jpg</thumbnail>
+		<title>Swampfire Attack Challenge</title>
+		<creator>Southern Justin Steam</creator>
+		<relatedgames />
+	</game>
+	<game id="17394577" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/04/2012">
+		<thumbnail>/gamecreators/images2/Variable/Ron/Shogun/17394577.jpg</thumbnail>
+		<title>Mega Swampfire Search</title>
+		<creator>Variable Ron Shogun</creator>
+		<relatedgames />
+	</game>
+	<game id="10937230" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Brave/Shawn/Fizz/10937230.jpg</thumbnail>
+		<title>Racer Fire Assault</title>
+		<creator>Brave Shawn Fizz</creator>
+		<relatedgames />
+	</game>
+	<game id="10069216" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Spooky/Kelly/Ketchup/10069216.jpg</thumbnail>
+		<title>Earth Rustbucket Spark</title>
+		<creator>Spooky Kelly Ketchup</creator>
+		<relatedgames />
+	</game>
+	<game id="17278910" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Captain/Connor/Charger/17278910.jpg</thumbnail>
+		<title>Thunder Mega Champion</title>
+		<creator>Captain Connor Charger</creator>
+		<relatedgames />
+	</game>
+	<game id="17376535" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2012">
+		<thumbnail>/gamecreators/images2/King/Leopold/Python/17376535.jpg</thumbnail>
+		<title>Beast Atomic Magno</title>
+		<creator>King Leopold Python</creator>
+		<relatedgames />
+	</game>
+	<game id="10925450" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Handsome/Noah/Penguin/10925450.jpg</thumbnail>
+		<title>Rocket Ultimate Assault</title>
+		<creator>Handsome Noah Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="10952660" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Obvious/Megan/Octopus/10952660.jpg</thumbnail>
+		<title>Search Assault Rumble</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

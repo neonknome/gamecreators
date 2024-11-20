@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17407932" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>/gamecreators/images2/Itchy/Jimbo/Paradox/17407932.jpg</thumbnail>
+		<title>Ultimate Titan Terraspin</title>
+		<creator>Itchy Jimbo Paradox</creator>
+		<relatedgames />
+	</game>
+	<game id="17373253" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>/gamecreators/images2/Quirky/Tommy/Karate/17373253.jpg</thumbnail>
+		<title>Techno Hero Spike</title>
+		<creator>Quirky Tommy Karate</creator>
+		<relatedgames />
+	</game>
+	<game id="10045430" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Twisty/Bubba/Kazoo/10045430.jpg</thumbnail>
+		<title>Laser Dark Shadow</title>
+		<creator>Twisty Bubba Kazoo</creator>
+		<relatedgames />
+	</game>
+	<game id="10045421" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Nomadic/Augustus/Nacho/10045421.jpg</thumbnail>
+		<title>Solar Rocket Atomic</title>
+		<creator>Nomadic Augustus Nacho</creator>
+		<relatedgames />
+	</game>
+	<game id="17540459" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Agile/Drake/Glop/17540459.jpg</thumbnail>
+		<title>Rock Racer Force</title>
+		<creator>Agile Drake Glop</creator>
+		<relatedgames />
+	</game>
+	<game id="17188315" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/04/2012">
+		<thumbnail>/gamecreators/images2/Crispy/Steven/Bazooka/17188315.jpg</thumbnail>
+		<title>Shock Echo Adventure</title>
+		<creator>Crispy Steven Bazooka</creator>
+		<relatedgames />
+	</game>
+	<game id="17210717" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/11/2012">
+		<thumbnail>/gamecreators/images2/Vast/Jack/Creature/17210717.jpg</thumbnail>
+		<title>Metal Iron Defense</title>
+		<creator>Vast Jack Creature</creator>
+		<relatedgames />
+	</game>
+	<game id="10065549" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Brave/Tabitha/Cupcake/10065549.jpg</thumbnail>
+		<title>Alien Swampfire Star</title>
+		<creator>Brave Tabitha Cupcake</creator>
+		<relatedgames />
+	</game>
+	<game id="10917836" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Darling/Buffy/Narwhal/10917836.jpg</thumbnail>
+		<title>Universe Adventure Adventure</title>
+		<creator>Darling Buffy Narwhal</creator>
+		<relatedgames />
+	</game>
+	<game id="17142675" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/20/2012">
+		<thumbnail>/gamecreators/images2/King/Thor/Gulch/17142675.jpg</thumbnail>
+		<title>Invasion Assault Clash</title>
+		<creator>King Thor Gulch</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

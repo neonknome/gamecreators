@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10044001" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Crafty/Hunter/Iguana/10044001.jpg</thumbnail>
+		<title>Chase Challenge Rampage</title>
+		<creator>Crafty Hunter Iguana</creator>
+		<relatedgames />
+	</game>
+	<game id="17286369" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>/gamecreators/images2/General/Alvin/Wiffle/17286369.jpg</thumbnail>
+		<title>Ultimate Vilgax Battle</title>
+		<creator>General Alvin Wiffle</creator>
+		<relatedgames />
+	</game>
+	<game id="10935329" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Burly/Crystal/Fritter/10935329.jpg</thumbnail>
+		<title>Shadow Champion Invasion</title>
+		<creator>Burly Crystal Fritter</creator>
+		<relatedgames />
+	</game>
+	<game id="17323118" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Stout/Herman/Aardvark/17323118.jpg</thumbnail>
+		<title>Lightning Hyper Dark</title>
+		<creator>Stout Herman Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="10020400" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Cheerful/Jill/Blubber/10020400.jpg</thumbnail>
+		<title>Gear Warrior Siege</title>
+		<creator>Cheerful Jill Blubber</creator>
+		<relatedgames />
+	</game>
+	<game id="17554265" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Loud/Carson/Blob/17554265.jpg</thumbnail>
+		<title>Plumber Nova Stone</title>
+		<creator>Loud Carson Blob</creator>
+		<relatedgames />
+	</game>
+	<game id="10949707" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Heroic/Connor/Fuzz/10949707.jpg</thumbnail>
+		<title>Mission Fusion Ambush</title>
+		<creator>Heroic Connor Fuzz</creator>
+		<relatedgames />
+	</game>
+	<game id="10947203" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Ornery/Bjorn/Wizard/10947203.jpg</thumbnail>
+		<title>Nitro Swampfire Storm</title>
+		<creator>Ornery Bjorn Wizard</creator>
+		<relatedgames />
+	</game>
+	<game id="10929180" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wise/Brooke/Vector/10929180.jpg</thumbnail>
+		<title>Titan Streak Rustbucket</title>
+		<creator>Wise Brooke Vector</creator>
+		<relatedgames />
+	</game>
+	<game id="10921283" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Charming/Chase/Behemoth/10921283.jpg</thumbnail>
+		<title>Rumble Adventure Iron</title>
+		<creator>Charming Chase Behemoth</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

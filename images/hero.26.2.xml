@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10916923" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Gloomy/Heidi/Charger/10916923.jpg</thumbnail>
+		<title>Adventure Atomic Spike</title>
+		<creator>Gloomy Heidi Charger</creator>
+		<relatedgames />
+	</game>
+	<game id="10916779" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Skinny/Jacob/Bullfrog/10916779.jpg</thumbnail>
+		<title>Titan Doom Nova</title>
+		<creator>Skinny Jacob Bullfrog</creator>
+		<relatedgames />
+	</game>
+	<game id="17262495" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Quirky/Oscar/Cutlass/17262495.jpg</thumbnail>
+		<title>Robot Gear Atomic</title>
+		<creator>Quirky Oscar Cutlass</creator>
+		<relatedgames />
+	</game>
+	<game id="10043458" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Southern/Duncan/Virtuoso/10043458.jpg</thumbnail>
+		<title>Ben Alien Mission</title>
+		<creator>Southern Duncan Virtuoso</creator>
+		<relatedgames />
+	</game>
+	<game id="17409630" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/12/2012">
+		<thumbnail>/gamecreators/images2/Gleeful/Malcolm/Iceberg/17409630.jpg</thumbnail>
+		<title>Pursuit Laser Champion</title>
+		<creator>Gleeful Malcolm Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="17411125" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/13/2012">
+		<thumbnail>/gamecreators/images2/Extreme/Chuck/Pirate/17411125.jpg</thumbnail>
+		<title>Whirlwind Chase Big</title>
+		<creator>Extreme Chuck Pirate</creator>
+		<relatedgames />
+	</game>
+	<game id="10951422" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Green/Grace/Manatee/10951422.jpg</thumbnail>
+		<title>Adventure Alien Droid</title>
+		<creator>Green Grace Manatee</creator>
+		<relatedgames />
+	</game>
+	<game id="10703255" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2009">
+		<thumbnail>/gamecreators/images2/Sneaky/Mason/Manatee/10703255.jpg</thumbnail>
+		<title>Mega Adventure Droid</title>
+		<creator>Sneaky Mason Manatee</creator>
+		<relatedgames />
+	</game>
+	<game id="10947806" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Brave/Alex/Spiral/10947806.jpg</thumbnail>
+		<title>Alien Ambush Adventure</title>
+		<creator>Brave Alex Spiral</creator>
+		<relatedgames />
+	</game>
+	<game id="17379381" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Extinct/Jay/Dynamite/17379381.jpg</thumbnail>
+		<title>Star Animo Fusion</title>
+		<creator>Extinct Jay Dynamite</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

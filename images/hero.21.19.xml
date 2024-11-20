@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10953024" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Radiant/Karen/Dingo/10953024.jpg</thumbnail>
+		<title>Plasma Rumble Beast</title>
+		<creator>Radiant Karen Dingo</creator>
+		<relatedgames />
+	</game>
+	<game id="10924886" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Alien/Amelia/Baloney/10924886.jpg</thumbnail>
+		<title>Blaster Alien Storm</title>
+		<creator>Alien Amelia Baloney</creator>
+		<relatedgames />
+	</game>
+	<game id="10916821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Crunchy/Miranda/Witch/10916821.jpg</thumbnail>
+		<title>Steel Swampfire Champion</title>
+		<creator>Crunchy Miranda Witch</creator>
+		<relatedgames />
+	</game>
+	<game id="10916923" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Gloomy/Heidi/Charger/10916923.jpg</thumbnail>
+		<title>Adventure Atomic Spike</title>
+		<creator>Gloomy Heidi Charger</creator>
+		<relatedgames />
+	</game>
+	<game id="17413288" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/14/2012">
+		<thumbnail>/gamecreators/images2/Fabulous/Luke/Fox/17413288.jpg</thumbnail>
+		<title>Alien Galaxy Doom</title>
+		<creator>Fabulous Luke Fox</creator>
+		<relatedgames />
+	</game>
+	<game id="17261733" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Grim/Paige/Kayak/17261733.jpg</thumbnail>
+		<title>Chase Echo Challenge</title>
+		<creator>Grim Paige Kayak</creator>
+		<relatedgames />
+	</game>
+	<game id="10043458" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Southern/Duncan/Virtuoso/10043458.jpg</thumbnail>
+		<title>Ben Alien Mission</title>
+		<creator>Southern Duncan Virtuoso</creator>
+		<relatedgames />
+	</game>
+	<game id="10952685" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Red/Tom/Fritter/10952685.jpg</thumbnail>
+		<title>Alien Alien Fire</title>
+		<creator>Red Tom Fritter</creator>
+		<relatedgames />
+	</game>
+	<game id="17127585" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/15/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Zeb/Bingo/17127585.jpg</thumbnail>
+		<title>Solar Assault Space</title>
+		<creator>Magnetic Zeb Bingo</creator>
+		<relatedgames />
+	</game>
+	<game id="10953079" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Humble/Daniel/Scorpion/10953079.jpg</thumbnail>
+		<title>Plumber Force Rampage</title>
+		<creator>Humble Daniel Scorpion</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

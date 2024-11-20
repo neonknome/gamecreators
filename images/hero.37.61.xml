@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10045226" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Wise/Tara/Pinball/10045226.jpg</thumbnail>
+		<title>Iron Vilgax Adventure</title>
+		<creator>Wise Tara Pinball</creator>
+		<relatedgames />
+	</game>
+	<game id="16995598" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/04/2012">
+		<thumbnail>/gamecreators/images2/Flying/Drake/Sorcerer/16995598.jpg</thumbnail>
+		<title>Charge Alien Clash</title>
+		<creator>Flying Drake Sorcerer</creator>
+		<relatedgames />
+	</game>
+	<game id="10935376" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dynamic/Edward/Yoyo/10935376.jpg</thumbnail>
+		<title>Racer Storm Challenge</title>
+		<creator>Dynamic Edward Yoyo</creator>
+		<relatedgames />
+	</game>
+	<game id="17389282" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Scruffy/Drake/Enigma/17389282.jpg</thumbnail>
+		<title>Battle Echo Beast</title>
+		<creator>Scruffy Drake Enigma</creator>
+		<relatedgames />
+	</game>
+	<game id="10952583" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Awesome/Craig/Orchid/10952583.jpg</thumbnail>
+		<title>Sonic Adventure Vilgax</title>
+		<creator>Awesome Craig Orchid</creator>
+		<relatedgames />
+	</game>
+	<game id="17389615" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Duke/Ariel/Cookie/17389615.jpg</thumbnail>
+		<title>Alien Techno Turbo</title>
+		<creator>Duke Ariel Cookie</creator>
+		<relatedgames />
+	</game>
+	<game id="10948867" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Noble/Ron/Frost/10948867.jpg</thumbnail>
+		<title>Adventure Search Attack</title>
+		<creator>Noble Ron Frost</creator>
+		<relatedgames />
+	</game>
+	<game id="10066089" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Adorable/Alexis/Cumulus/10066089.jpg</thumbnail>
+		<title>Swampfire Swampfire Swampfire</title>
+		<creator>Adorable Alexis Cumulus</creator>
+		<relatedgames />
+	</game>
+	<game id="16997259" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/05/2012">
+		<thumbnail>/gamecreators/images2/Creepy/Ashton/Vulture/16997259.jpg</thumbnail>
+		<title>Iron Big Robot</title>
+		<creator>Creepy Ashton Vulture</creator>
+		<relatedgames />
+	</game>
+	<game id="10928015" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Unusual/Rocky/Gizzard/10928015.jpg</thumbnail>
+		<title>Fury Lightning Nova</title>
+		<creator>Unusual Rocky Gizzard</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

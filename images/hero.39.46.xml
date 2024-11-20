@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17574176" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Evil/Brandon/Rhombus/17574176.jpg</thumbnail>
+		<title>Rocket Search Siege</title>
+		<creator>Evil Brandon Rhombus</creator>
+		<relatedgames />
+	</game>
+	<game id="10952513" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Alien/Miguel/Zebra/10952513.jpg</thumbnail>
+		<title>Ben Thunder Rocket</title>
+		<creator>Alien Miguel Zebra</creator>
+		<relatedgames />
+	</game>
+	<game id="17401228" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>/gamecreators/images2/Dandy/Ernie/Goblin/17401228.jpg</thumbnail>
+		<title>Breaker Atomic Turbo</title>
+		<creator>Dandy Ernie Goblin</creator>
+		<relatedgames />
+	</game>
+	<game id="10865542" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2009">
+		<thumbnail>/gamecreators/images2/Gorgeous/Elroy/Iceberg/10865542.jpg</thumbnail>
+		<title>Spark Streak Giga</title>
+		<creator>Gorgeous Elroy Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="17578219" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Rancid/Don/Nova/17578219.jpg</thumbnail>
+		<title>Clash Chill Spidermonkey</title>
+		<creator>Rancid Don Nova</creator>
+		<relatedgames />
+	</game>
+	<game id="10953046" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Alien/Henry/Quasar/10953046.jpg</thumbnail>
+		<title>Universe Adventure Ultra</title>
+		<creator>Alien Henry Quasar</creator>
+		<relatedgames />
+	</game>
+	<game id="10942635" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Fanciful/Brianna/Beeswax/10942635.jpg</thumbnail>
+		<title>Smash Droid Cosmic</title>
+		<creator>Fanciful Brianna Beeswax</creator>
+		<relatedgames />
+	</game>
+	<game id="10937939" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Dazzling/Gigi/Lobster/10937939.jpg</thumbnail>
+		<title>Alien Fire Smash</title>
+		<creator>Dazzling Gigi Lobster</creator>
+		<relatedgames />
+	</game>
+	<game id="17287197" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>/gamecreators/images2/Abnormal/Pearl/Lizard/17287197.jpg</thumbnail>
+		<title>Power Atomic Defense</title>
+		<creator>Abnormal Pearl Lizard</creator>
+		<relatedgames />
+	</game>
+	<game id="10931694" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Comical/Kelly/Baloney/10931694.jpg</thumbnail>
+		<title>Pulse Nitro Ultra</title>
+		<creator>Comical Kelly Baloney</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

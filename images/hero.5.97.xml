@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17277858" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Baffling/Michelle/Shinobi/17277858.jpg</thumbnail>
+		<title>Mega Water Nitro</title>
+		<creator>Baffling Michelle Shinobi</creator>
+		<relatedgames />
+	</game>
+	<game id="16875573" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/02/2012">
+		<thumbnail>/gamecreators/images2/Honest/Jose/Kungfu/16875573.jpg</thumbnail>
+		<title>Laser Big Space</title>
+		<creator>Honest Jose Kungfu</creator>
+		<relatedgames />
+	</game>
+	<game id="10069102" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Massive/Dawn/Glacier/10069102.jpg</thumbnail>
+		<title>Target Ultimate Battle</title>
+		<creator>Massive Dawn Glacier</creator>
+		<relatedgames />
+	</game>
+	<game id="10934523" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Humorous/Leroy/Hedgehog/10934523.jpg</thumbnail>
+		<title>Defense Patrol Rush</title>
+		<creator>Humorous Leroy Hedgehog</creator>
+		<relatedgames />
+	</game>
+	<game id="10655835" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2009">
+		<thumbnail>/gamecreators/images2/Proper/Dinah/Sardine/10655835.jpg</thumbnail>
+		<title>Shadow Dark Rampage</title>
+		<creator>Proper Dinah Sardine</creator>
+		<relatedgames />
+	</game>
+	<game id="10704385" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Swift/Alfonso/Monolith/10704385.jpg</thumbnail>
+		<title>Fire Force Fury</title>
+		<creator>Swift Alfonso Monolith</creator>
+		<relatedgames />
+	</game>
+	<game id="17287197" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>/gamecreators/images2/Abnormal/Pearl/Lizard/17287197.jpg</thumbnail>
+		<title>Power Atomic Defense</title>
+		<creator>Abnormal Pearl Lizard</creator>
+		<relatedgames />
+	</game>
+	<game id="10931694" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Comical/Kelly/Baloney/10931694.jpg</thumbnail>
+		<title>Pulse Nitro Ultra</title>
+		<creator>Comical Kelly Baloney</creator>
+		<relatedgames />
+	</game>
+	<game id="10058550" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Beastly/Duke/Stampede/10058550.jpg</thumbnail>
+		<title>Sonic Alien Invasion</title>
+		<creator>Beastly Duke Stampede</creator>
+		<relatedgames />
+	</game>
+	<game id="17358453" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/21/2012">
+		<thumbnail>/gamecreators/images2/Profound/Bernard/Scribble/17358453.jpg</thumbnail>
+		<title>Shock Vilgax Droid</title>
+		<creator>Profound Bernard Scribble</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

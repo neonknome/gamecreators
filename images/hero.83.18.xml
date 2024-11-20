@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17305208" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/05/2012">
+		<thumbnail>/gamecreators/images2/Stormy/Anthony/Pizza/17305208.jpg</thumbnail>
+		<title>Pursuit Robot Robot</title>
+		<creator>Stormy Anthony Pizza</creator>
+		<relatedgames />
+	</game>
+	<game id="10944185" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Charming/Erin/Steam/10944185.jpg</thumbnail>
+		<title>Spark Fury Escape</title>
+		<creator>Charming Erin Steam</creator>
+		<relatedgames />
+	</game>
+	<game id="16950419" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/21/2012">
+		<thumbnail>/gamecreators/images2/Super/Savannah/Neutron/16950419.jpg</thumbnail>
+		<title>Swampfire Galaxy Rocket</title>
+		<creator>Super Savannah Neutron</creator>
+		<relatedgames />
+	</game>
+	<game id="10930929" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Awesome/Robin/Nova/10930929.jpg</thumbnail>
+		<title>Hyper Nova Attack</title>
+		<creator>Awesome Robin Nova</creator>
+		<relatedgames />
+	</game>
+	<game id="10648224" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Colossal/Carson/Vampire/10648224.jpg</thumbnail>
+		<title>Humongousaur Hyper Smash</title>
+		<creator>Colossal Carson Vampire</creator>
+		<relatedgames />
+	</game>
+	<game id="10953091" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Magnetic/Jackie/Turbo/10953091.jpg</thumbnail>
+		<title>Ultimate Earth Rumble</title>
+		<creator>Magnetic Jackie Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="17379381" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Extinct/Jay/Dynamite/17379381.jpg</thumbnail>
+		<title>Star Animo Fusion</title>
+		<creator>Extinct Jay Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="17179172" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/01/2012">
+		<thumbnail>/gamecreators/images2/Amusing/Ray/Snake/17179172.jpg</thumbnail>
+		<title>Mega Titan Nova</title>
+		<creator>Amusing Ray Snake</creator>
+		<relatedgames />
+	</game>
+	<game id="17364767" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>/gamecreators/images2/Daring/Naomi/Squeegee/17364767.jpg</thumbnail>
+		<title>Burst Rush Star</title>
+		<creator>Daring Naomi Squeegee</creator>
+		<relatedgames />
+	</game>
+	<game id="17264863" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Green/Alan/Safari/17264863.jpg</thumbnail>
+		<title>Giga Doom Drone</title>
+		<creator>Green Alan Safari</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

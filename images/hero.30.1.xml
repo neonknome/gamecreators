@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17414153" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/14/2012">
+		<thumbnail>/gamecreators/images2/Vague/Hunter/Celsius/17414153.jpg</thumbnail>
+		<title>Adventure Lightning Assault</title>
+		<creator>Vague Hunter Celsius</creator>
+		<relatedgames />
+	</game>
+	<game id="10952619" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Obvious/Megan/Octopus/10952619.jpg</thumbnail>
+		<title>Magno Smash Danger</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames />
+	</game>
+	<game id="17552149" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Splendid/Connor/Shogun/17552149.jpg</thumbnail>
+		<title>Robot Ambush Rock</title>
+		<creator>Splendid Connor Shogun</creator>
+		<relatedgames />
+	</game>
+	<game id="10948271" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Wacky/Billy/Enigma/10948271.jpg</thumbnail>
+		<title>Rescue Nitro Giga</title>
+		<creator>Wacky Billy Enigma</creator>
+		<relatedgames />
+	</game>
+	<game id="17246497" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/20/2012">
+		<thumbnail>/gamecreators/images2/Cackling/Cory/Avator/17246497.jpg</thumbnail>
+		<title>Ultra Swampfire Power</title>
+		<creator>Cackling Cory Avator</creator>
+		<relatedgames />
+	</game>
+	<game id="10055845" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Jumping/Pierre/Droid/10055845.jpg</thumbnail>
+		<title>Power Mission Battle</title>
+		<creator>Jumping Pierre Droid</creator>
+		<relatedgames />
+	</game>
+	<game id="10945636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Obvious/Alex/Dynamite/10945636.jpg</thumbnail>
+		<title>Energy Search Solar</title>
+		<creator>Obvious Alex Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="10039822" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Loud/Steven/Charger/10039822.jpg</thumbnail>
+		<title>Swampfire Invasion Rampage</title>
+		<creator>Loud Steven Charger</creator>
+		<relatedgames />
+	</game>
+	<game id="17423166" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>/gamecreators/images2/Volcanic/Brad/Warrior/17423166.jpg</thumbnail>
+		<title>Light Earth Crusher</title>
+		<creator>Volcanic Brad Warrior</creator>
+		<relatedgames />
+	</game>
+	<game id="16976315" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Burly/Gillian/Dodo/16976315.jpg</thumbnail>
+		<title>Nitro Doom Metal</title>
+		<creator>Burly Gillian Dodo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

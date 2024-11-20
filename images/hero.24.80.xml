@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17251649" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/22/2012">
+		<thumbnail>/gamecreators/images2/Titanic/Andy/Cartoon/17251649.jpg</thumbnail>
+		<title>Cannonbolt Hero Nova</title>
+		<creator>Titanic Andy Cartoon</creator>
+		<relatedgames />
+	</game>
+	<game id="17384530" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Cranky/Jaden/Phoenix/17384530.jpg</thumbnail>
+		<title>Fury Plasma Star</title>
+		<creator>Cranky Jaden Phoenix</creator>
+		<relatedgames />
+	</game>
+	<game id="10059207" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Generous/Medusa/Lard/10059207.jpg</thumbnail>
+		<title>Shadow Alien Rescue</title>
+		<creator>Generous Medusa Lard</creator>
+		<relatedgames />
+	</game>
+	<game id="10939640" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Putrid/Tim/Paradox/10939640.jpg</thumbnail>
+		<title>Rocket Robot Robot</title>
+		<creator>Putrid Tim Paradox</creator>
+		<relatedgames />
+	</game>
+	<game id="10953024" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Radiant/Karen/Dingo/10953024.jpg</thumbnail>
+		<title>Plasma Rumble Beast</title>
+		<creator>Radiant Karen Dingo</creator>
+		<relatedgames />
+	</game>
+	<game id="17334339" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Enormous/Lucius/Anvil/17334339.jpg</thumbnail>
+		<title>Chill Ambush Fusion</title>
+		<creator>Enormous Lucius Anvil</creator>
+		<relatedgames />
+	</game>
+	<game id="10924886" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Alien/Amelia/Baloney/10924886.jpg</thumbnail>
+		<title>Blaster Alien Storm</title>
+		<creator>Alien Amelia Baloney</creator>
+		<relatedgames />
+	</game>
+	<game id="10916821" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Crunchy/Miranda/Witch/10916821.jpg</thumbnail>
+		<title>Steel Swampfire Champion</title>
+		<creator>Crunchy Miranda Witch</creator>
+		<relatedgames />
+	</game>
+	<game id="10916923" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Gloomy/Heidi/Charger/10916923.jpg</thumbnail>
+		<title>Adventure Atomic Spike</title>
+		<creator>Gloomy Heidi Charger</creator>
+		<relatedgames />
+	</game>
+	<game id="10922511" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Cheerful/Morgan/Charger/10922511.jpg</thumbnail>
+		<title>Space Ultra Plumber</title>
+		<creator>Cheerful Morgan Charger</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

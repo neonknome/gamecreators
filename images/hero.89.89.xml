@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10926454" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dramatic/Laura/Fishbowl/10926454.jpg</thumbnail>
+		<title>Ultimate Rampage Chase</title>
+		<creator>Dramatic Laura Fishbowl</creator>
+		<relatedgames />
+	</game>
+	<game id="10953061" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Sloppy/Connor/Fondue/10953061.jpg</thumbnail>
+		<title>Nitro Rustbucket Invasion</title>
+		<creator>Sloppy Connor Fondue</creator>
+		<relatedgames />
+	</game>
+	<game id="17386188" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Academic/Oliver/Lemon/17386188.jpg</thumbnail>
+		<title>Fury Vilgax Water</title>
+		<creator>Academic Oliver Lemon</creator>
+		<relatedgames />
+	</game>
+	<game id="17327375" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Bold/Ginger/Hedgehog/17327375.jpg</thumbnail>
+		<title>Streak Lightning Breaker</title>
+		<creator>Bold Ginger Hedgehog</creator>
+		<relatedgames />
+	</game>
+	<game id="17359435" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/22/2012">
+		<thumbnail>/gamecreators/images2/Epic/Calvin/Baloney/17359435.jpg</thumbnail>
+		<title>Battle Slam Crusher</title>
+		<creator>Epic Calvin Baloney</creator>
+		<relatedgames />
+	</game>
+	<game id="17300390" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/03/2012">
+		<thumbnail>/gamecreators/images2/Hypnotic/Michael/17300390.jpg</thumbnail>
+		<title>Attack Rocket Titan</title>
+		<creator>Hypnotic Michael</creator>
+		<relatedgames />
+	</game>
+	<game id="17574610" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Negative/Kelly/Samurai/17574610.jpg</thumbnail>
+		<title>Racer Defense Adventure</title>
+		<creator>Negative Kelly Samurai</creator>
+		<relatedgames />
+	</game>
+	<game id="10938971" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Jingling/Madison/Spider/10938971.jpg</thumbnail>
+		<title>Mission Adventure Slam</title>
+		<creator>Jingling Madison Spider</creator>
+		<relatedgames />
+	</game>
+	<game id="10926436" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Twisty/Gavin/Seesaw/10926436.jpg</thumbnail>
+		<title>Sonic Ben Streak</title>
+		<creator>Twisty Gavin Seesaw</creator>
+		<relatedgames />
+	</game>
+	<game id="10923969" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Blustery/Lucas/Viking/10923969.jpg</thumbnail>
+		<title>Rocket Plumber Razor</title>
+		<creator>Blustery Lucas Viking</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

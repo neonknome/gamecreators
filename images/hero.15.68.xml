@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10952182" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Puzzling/Nick/Potato/10952182.jpg</thumbnail>
+		<title>Challenge Drone Mega</title>
+		<creator>Puzzling Nick Potato</creator>
+		<relatedgames />
+	</game>
+	<game id="10058625" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Cranky/Rob/Tractor/10058625.jpg</thumbnail>
+		<title>Charge Gear Shock</title>
+		<creator>Cranky Rob Tractor</creator>
+		<relatedgames />
+	</game>
+	<game id="17279284" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Ultimate/Jose/Cartoon/17279284.jpg</thumbnail>
+		<title>Galaxy Cosmic Shadow</title>
+		<creator>Ultimate Jose Cartoon</creator>
+		<relatedgames />
+	</game>
+	<game id="17205541" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/09/2012">
+		<thumbnail>/gamecreators/images2/Cute/Meghan/Jingles/17205541.jpg</thumbnail>
+		<title>Danger Clash Attack</title>
+		<creator>Cute Meghan Jingles</creator>
+		<relatedgames />
+	</game>
+	<game id="17402614" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>/gamecreators/images2/Sloppy/Anna/Gizzard/17402614.jpg</thumbnail>
+		<title>Battle Pursuit Quake</title>
+		<creator>Sloppy Anna Gizzard</creator>
+		<relatedgames />
+	</game>
+	<game id="16975781" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Radiant/Robert/Paladin/16975781.jpg</thumbnail>
+		<title>Adventure Spidermonkey Nitro</title>
+		<creator>Radiant Robert Paladin</creator>
+		<relatedgames />
+	</game>
+	<game id="10943281" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Alien/Brent/Starfish/10943281.jpg</thumbnail>
+		<title>Galaxy Pursuit Rescue</title>
+		<creator>Alien Brent Starfish</creator>
+		<relatedgames />
+	</game>
+	<game id="17408872" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2012">
+		<thumbnail>/gamecreators/images2/Cunning/Samuel/Calypso/17408872.jpg</thumbnail>
+		<title>Champion Defense Warrior</title>
+		<creator>Cunning Samuel Calypso</creator>
+		<relatedgames />
+	</game>
+	<game id="10943350" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Glorious/Hank/Zombie/10943350.jpg</thumbnail>
+		<title>Champion Challenge Doom</title>
+		<creator>Glorious Hank Zombie</creator>
+		<relatedgames />
+	</game>
+	<game id="10924276" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Surreal/Leonardo/Gargoyle/10924276.jpg</thumbnail>
+		<title>Charge Dark Danger</title>
+		<creator>Surreal Leonardo Gargoyle</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

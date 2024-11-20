@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10933685" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Funny/Samantha/Cosmos/10933685.jpg</thumbnail>
+		<title>Plumber Nitro Chase</title>
+		<creator>Funny Samantha Cosmos</creator>
+		<relatedgames />
+	</game>
+	<game id="17332714" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Major/Raymond/Saturn/17332714.jpg</thumbnail>
+		<title>Techno Challenge Challenge</title>
+		<creator>Major Raymond Saturn</creator>
+		<relatedgames />
+	</game>
+	<game id="10932922" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Shaggy/Hunter/Behemoth/10932922.jpg</thumbnail>
+		<title>Pursuit Force Ambush</title>
+		<creator>Shaggy Hunter Behemoth</creator>
+		<relatedgames />
+	</game>
+	<game id="10935439" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Awful/Edward/Acrobat/10935439.jpg</thumbnail>
+		<title>Beast Pulse Vilgax</title>
+		<creator>Awful Edward Acrobat</creator>
+		<relatedgames />
+	</game>
+	<game id="10925582" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Dynamic/Stacy/Crumpet/10925582.jpg</thumbnail>
+		<title>Adventure Adventure Battle</title>
+		<creator>Dynamic Stacy Crumpet</creator>
+		<relatedgames />
+	</game>
+	<game id="10065361" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Funny/Billy/Barnacle/10065361.jpg</thumbnail>
+		<title>Adventure Smash Racer</title>
+		<creator>Funny Billy Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="17102291" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/08/2012">
+		<thumbnail>/gamecreators/images2/Elite/Luke/Mastodon/17102291.jpg</thumbnail>
+		<title>Nano Sonic Assault</title>
+		<creator>Elite Luke Mastodon</creator>
+		<relatedgames />
+	</game>
+	<game id="17323648" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Superior/Vincent/Biscuit/17323648.jpg</thumbnail>
+		<title>Mission Chill Rocket</title>
+		<creator>Superior Vincent Biscuit</creator>
+		<relatedgames />
+	</game>
+	<game id="17323622" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Mumbling/Chuck/Techno/17323622.jpg</thumbnail>
+		<title>Warp Storm Ben</title>
+		<creator>Mumbling Chuck Techno</creator>
+		<relatedgames />
+	</game>
+	<game id="17418042" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Silly/Jared/Sardine/17418042.jpg</thumbnail>
+		<title>Cosmic Atomic Assault</title>
+		<creator>Silly Jared Sardine</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

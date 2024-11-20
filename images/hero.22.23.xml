@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17241367" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>/gamecreators/images2/Sparkly/Elijah/Noob/17241367.jpg</thumbnail>
+		<title>Adventure Adventure Chase</title>
+		<creator>Sparkly Elijah Noob</creator>
+		<relatedgames />
+	</game>
+	<game id="10932957" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Majestic/Don/Ketchup/10932957.jpg</thumbnail>
+		<title>Earth Razor Warp</title>
+		<creator>Majestic Don Ketchup</creator>
+		<relatedgames />
+	</game>
+	<game id="16843442" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/26/2012">
+		<thumbnail>/gamecreators/images2/Humble/Thor/Cyclone/16843442.jpg</thumbnail>
+		<title>Chill Razor Shadow</title>
+		<creator>Humble Thor Cyclone</creator>
+		<relatedgames />
+	</game>
+	<game id="17071572" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/29/2012">
+		<thumbnail>/gamecreators/images2/Princess/George/Turbo/17071572.jpg</thumbnail>
+		<title>Vilgax Force Rush</title>
+		<creator>Princess George Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="10929935" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Colossal/Rhett/Burst/10929935.jpg</thumbnail>
+		<title>Iron Dark Defense</title>
+		<creator>Colossal Rhett Burst</creator>
+		<relatedgames />
+	</game>
+	<game id="10934753" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Frugal/Melanie/Tempest/10934753.jpg</thumbnail>
+		<title>Hero Ultra Rampage</title>
+		<creator>Frugal Melanie Tempest</creator>
+		<relatedgames />
+	</game>
+	<game id="10923277" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Pretty/Valerie/Buzzard/10923277.jpg</thumbnail>
+		<title>Ultra Nova Hero</title>
+		<creator>Pretty Valerie Buzzard</creator>
+		<relatedgames />
+	</game>
+	<game id="10924291" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Ghastly/Kristen/Dragon/10924291.jpg</thumbnail>
+		<title>Swampfire Blaster Shadow</title>
+		<creator>Ghastly Kristen Dragon</creator>
+		<relatedgames />
+	</game>
+	<game id="17404245" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Shy/Buford/Reptile/17404245.jpg</thumbnail>
+		<title>Humungousaur Adventure Adventure</title>
+		<creator>Shy Buford Reptile</creator>
+		<relatedgames />
+	</game>
+	<game id="17275840" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>/gamecreators/images2/Puzzling/Kristen/Mars/17275840.jpg</thumbnail>
+		<title>Dark Nova Power</title>
+		<creator>Puzzling Kristen Mars</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

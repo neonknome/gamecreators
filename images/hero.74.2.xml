@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17312104" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>/gamecreators/images2/Hyper/Ariana/Calypso/17312104.jpg</thumbnail>
+		<title>Blaster Spark Alien</title>
+		<creator>Hyper Ariana Calypso</creator>
+		<relatedgames />
+	</game>
+	<game id="17320483" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/09/2012">
+		<thumbnail>/gamecreators/images2/Talented/Adam/Tiger/17320483.jpg</thumbnail>
+		<title>Adventure Alien Ambush</title>
+		<creator>Talented Adam Tiger</creator>
+		<relatedgames />
+	</game>
+	<game id="17326887" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Mystic/Maxwell/Martian/17326887.jpg</thumbnail>
+		<title>Jetray Quake Fire</title>
+		<creator>Mystic Maxwell Martian</creator>
+		<relatedgames />
+	</game>
+	<game id="17393705" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/04/2012">
+		<thumbnail>/gamecreators/images2/Sinister/Marcus/Oink/17393705.jpg</thumbnail>
+		<title>Hero Alien Beast</title>
+		<creator>Sinister Marcus Oink</creator>
+		<relatedgames />
+	</game>
+	<game id="10918539" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Absurd/Blake/Eggplant/10918539.jpg</thumbnail>
+		<title>Beast Universe Doom</title>
+		<creator>Absurd Blake Eggplant</creator>
+		<relatedgames />
+	</game>
+	<game id="10063529" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Cosmic/Oscar/Orca/10063529.jpg</thumbnail>
+		<title>Rescue Ultra Universe</title>
+		<creator>Cosmic Oscar Orca</creator>
+		<relatedgames />
+	</game>
+	<game id="10922700" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Ingrid/Unicorn/10922700.jpg</thumbnail>
+		<title>Iron Pulse Storm</title>
+		<creator>Tricky Ingrid Unicorn</creator>
+		<relatedgames />
+	</game>
+	<game id="10953429" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Blue/Aiden/Shock/10953429.jpg</thumbnail>
+		<title>Earth Rocket Rumble</title>
+		<creator>Blue Aiden Shock</creator>
+		<relatedgames />
+	</game>
+	<game id="17413193" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/14/2012">
+		<thumbnail>/gamecreators/images2/Humorous/Matthew/Dingbat/17413193.jpg</thumbnail>
+		<title>Waterhazard Steel Adventure</title>
+		<creator>Humorous Matthew Dingbat</creator>
+		<relatedgames />
+	</game>
+	<game id="17343320" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/16/2012">
+		<thumbnail>/gamecreators/images2/Musical/Nicolas/Noob/17343320.jpg</thumbnail>
+		<title>Spike Defense Vilgax</title>
+		<creator>Musical Nicolas Noob</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

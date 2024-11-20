@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10921507" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Dazzling/Steven/Squish/10921507.jpg</thumbnail>
+		<title>Quake Danger Escape</title>
+		<creator>Dazzling Steven Squish</creator>
+		<relatedgames />
+	</game>
+	<game id="10649889" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Grouchy/Brittany/Fury/10649889.jpg</thumbnail>
+		<title>Gear Mission Robot</title>
+		<creator>Grouchy Brittany Fury</creator>
+		<relatedgames />
+	</game>
+	<game id="10923851" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Normal/Scooter/Squish/10923851.jpg</thumbnail>
+		<title>Patrol Chase Plasma</title>
+		<creator>Normal Scooter Squish</creator>
+		<relatedgames />
+	</game>
+	<game id="16801581" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/16/2012">
+		<thumbnail>/gamecreators/images2/Spectral/Velma/Iceberg/16801581.jpg</thumbnail>
+		<title>Solar Hero Alien</title>
+		<creator>Spectral Velma Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="16898008" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/07/2012">
+		<thumbnail>/gamecreators/images2/Bright/Bryce/Neptune/16898008.jpg</thumbnail>
+		<title>Turbo Crusher Swampfire</title>
+		<creator>Bright Bryce Neptune</creator>
+		<relatedgames />
+	</game>
+	<game id="10951531" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Stately/Benjamin/Galaxy/10951531.jpg</thumbnail>
+		<title>Mega Titan Search</title>
+		<creator>Stately Benjamin Galaxy</creator>
+		<relatedgames />
+	</game>
+	<game id="10953211" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Artistic/Alan/Stampede/10953211.jpg</thumbnail>
+		<title>Droid Crusher Invasion</title>
+		<creator>Artistic Alan Stampede</creator>
+		<relatedgames />
+	</game>
+	<game id="10953058" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Grizzly/Michael/Pinball/10953058.jpg</thumbnail>
+		<title>Alien Beast Challenge</title>
+		<creator>Grizzly Michael Pinball</creator>
+		<relatedgames />
+	</game>
+	<game id="17261922" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Lively/Sophie/Viking/17261922.jpg</thumbnail>
+		<title>Spidermonkey Galaxy Storm</title>
+		<creator>Lively Sophie Viking</creator>
+		<relatedgames />
+	</game>
+	<game id="17585253" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Elite/Nicolas/Crater/17585253.jpg</thumbnail>
+		<title>Universe Robot Storm</title>
+		<creator>Elite Nicolas Crater</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

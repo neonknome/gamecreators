@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17241048" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>/gamecreators/images2/Princess/George/Turbo/17241048.jpg</thumbnail>
+		<title>Rumble Burst Doom</title>
+		<creator>Princess George Turbo</creator>
+		<relatedgames />
+	</game>
+	<game id="10922841" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Colossal/Vincent/Blade/10922841.jpg</thumbnail>
+		<title>Alien Swampfire Nitro</title>
+		<creator>Colossal Vincent Blade</creator>
+		<relatedgames />
+	</game>
+	<game id="17380187" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>/gamecreators/images2/Frugal/Ralph/Camel/17380187.jpg</thumbnail>
+		<title>Big Droid Battle</title>
+		<creator>Frugal Ralph Camel</creator>
+		<relatedgames />
+	</game>
+	<game id="17223545" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Ghastly/Norman/Trapeze/17223545.jpg</thumbnail>
+		<title>Adventure Galaxy Assault</title>
+		<creator>Ghastly Norman Trapeze</creator>
+		<relatedgames />
+	</game>
+	<game id="16968272" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/26/2012">
+		<thumbnail>/gamecreators/images2/Silent/Ed/Spiral/16968272.jpg</thumbnail>
+		<title>Star Laser Battle</title>
+		<creator>Silent Ed Spiral</creator>
+		<relatedgames />
+	</game>
+	<game id="10926231" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Puzzling/Ludwig/Zigzag/10926231.jpg</thumbnail>
+		<title>Sonic Shadow Racer</title>
+		<creator>Puzzling Ludwig Zigzag</creator>
+		<relatedgames />
+	</game>
+	<game id="17278985" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Electric/Colton/Warrior/17278985.jpg</thumbnail>
+		<title>Jetray Nitro Droid</title>
+		<creator>Electric Colton Warrior</creator>
+		<relatedgames />
+	</game>
+	<game id="17384530" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Cranky/Jaden/Phoenix/17384530.jpg</thumbnail>
+		<title>Fury Plasma Star</title>
+		<creator>Cranky Jaden Phoenix</creator>
+		<relatedgames />
+	</game>
+	<game id="10059207" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Generous/Medusa/Lard/10059207.jpg</thumbnail>
+		<title>Shadow Alien Rescue</title>
+		<creator>Generous Medusa Lard</creator>
+		<relatedgames />
+	</game>
+	<game id="10925366" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Mighty/Timothy/Mummy/10925366.jpg</thumbnail>
+		<title>Swampfire Plasma Rampage</title>
+		<creator>Mighty Timothy Mummy</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

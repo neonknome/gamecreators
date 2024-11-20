@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10934753" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Frugal/Melanie/Tempest/10934753.jpg</thumbnail>
+		<title>Hero Ultra Rampage</title>
+		<creator>Frugal Melanie Tempest</creator>
+		<relatedgames />
+	</game>
+	<game id="17295706" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>/gamecreators/images2/Electric/Rudolph/Soldier/17295706.jpg</thumbnail>
+		<title>Iron Hero Fury</title>
+		<creator>Electric Rudolph Soldier</creator>
+		<relatedgames />
+	</game>
+	<game id="10924291" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Ghastly/Kristen/Dragon/10924291.jpg</thumbnail>
+		<title>Swampfire Blaster Shadow</title>
+		<creator>Ghastly Kristen Dragon</creator>
+		<relatedgames />
+	</game>
+	<game id="17404245" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Shy/Buford/Reptile/17404245.jpg</thumbnail>
+		<title>Humungousaur Adventure Adventure</title>
+		<creator>Shy Buford Reptile</creator>
+		<relatedgames />
+	</game>
+	<game id="17275840" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>/gamecreators/images2/Puzzling/Kristen/Mars/17275840.jpg</thumbnail>
+		<title>Dark Nova Power</title>
+		<creator>Puzzling Kristen Mars</creator>
+		<relatedgames />
+	</game>
+	<game id="10928370" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Handsome/Jeffrey/Aardvark/10928370.jpg</thumbnail>
+		<title>Blaster Slam Razor</title>
+		<creator>Handsome Jeffrey Aardvark</creator>
+		<relatedgames />
+	</game>
+	<game id="10952604" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Obvious/Megan/Octopus/10952604.jpg</thumbnail>
+		<title>Escape Thunder Defense</title>
+		<creator>Obvious Megan Octopus</creator>
+		<relatedgames />
+	</game>
+	<game id="17560703" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Volcanic/Veronica/Splat/17560703.jpg</thumbnail>
+		<title>Mega Rocket Chase</title>
+		<creator>Volcanic Veronica Splat</creator>
+		<relatedgames />
+	</game>
+	<game id="17223549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Cackling/Cory/Avator/17223549.jpg</thumbnail>
+		<title>Universe Energy Power</title>
+		<creator>Cackling Cory Avator</creator>
+		<relatedgames />
+	</game>
+	<game id="16974309" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Obscure/Julian/Charger/16974309.jpg</thumbnail>
+		<title>Charge Plumber Vilgax</title>
+		<creator>Obscure Julian Charger</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10056052" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Ghastly/Phil/Cyborg/10056052.jpg</thumbnail>
+		<title>Plasma Galaxy Adventure</title>
+		<creator>Ghastly Phil Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="17574176" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Evil/Brandon/Rhombus/17574176.jpg</thumbnail>
+		<title>Rocket Search Siege</title>
+		<creator>Evil Brandon Rhombus</creator>
+		<relatedgames />
+	</game>
+	<game id="10865542" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/11/2009">
+		<thumbnail>/gamecreators/images2/Gorgeous/Elroy/Iceberg/10865542.jpg</thumbnail>
+		<title>Spark Streak Giga</title>
+		<creator>Gorgeous Elroy Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="10930921" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Sly/Aaron/Goulash/10930921.jpg</thumbnail>
+		<title>Nitro Razor Rampage</title>
+		<creator>Sly Aaron Goulash</creator>
+		<relatedgames />
+	</game>
+	<game id="10923848" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Lucky/Egbert/Avocado/10923848.jpg</thumbnail>
+		<title>Alien Adventure Ambush</title>
+		<creator>Lucky Egbert Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="17550908" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Pleasant/Leah/Jinx/17550908.jpg</thumbnail>
+		<title>Assault Attack Robot</title>
+		<creator>Pleasant Leah Jinx</creator>
+		<relatedgames />
+	</game>
+	<game id="17334355" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Wondrous/Scooby/Creature/17334355.jpg</thumbnail>
+		<title>Alien Dark Ultimate</title>
+		<creator>Wondrous Scooby Creature</creator>
+		<relatedgames />
+	</game>
+	<game id="10040009" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Chilly/Jackson/Hedgehog/10040009.jpg</thumbnail>
+		<title>Titan Animo Mega</title>
+		<creator>Chilly Jackson Hedgehog</creator>
+		<relatedgames />
+	</game>
+	<game id="10704385" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Swift/Alfonso/Monolith/10704385.jpg</thumbnail>
+		<title>Fire Force Fury</title>
+		<creator>Swift Alfonso Monolith</creator>
+		<relatedgames />
+	</game>
+	<game id="17380971" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/30/2012">
+		<thumbnail>/gamecreators/images2/Eager/Ella/Vitamin/17380971.jpg</thumbnail>
+		<title>Razor Robot Drone</title>
+		<creator>Eager Ella Vitamin</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

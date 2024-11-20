@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10069102" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Massive/Dawn/Glacier/10069102.jpg</thumbnail>
+		<title>Target Ultimate Battle</title>
+		<creator>Massive Dawn Glacier</creator>
+		<relatedgames />
+	</game>
+	<game id="10919699" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Shaggy/Shawn/Dodo/10919699.jpg</thumbnail>
+		<title>Smash Doom Giga</title>
+		<creator>Shaggy Shawn Dodo</creator>
+		<relatedgames />
+	</game>
+	<game id="17273223" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>/gamecreators/images2/Babbling/Bethany/Buzzard/17273223.jpg</thumbnail>
+		<title>Power Battle Siege</title>
+		<creator>Babbling Bethany Buzzard</creator>
+		<relatedgames />
+	</game>
+	<game id="10921512" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Sincere/Victor/Boing/10921512.jpg</thumbnail>
+		<title>Galaxy Mission Rush</title>
+		<creator>Sincere Victor Boing</creator>
+		<relatedgames />
+	</game>
+	<game id="17287197" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>/gamecreators/images2/Abnormal/Pearl/Lizard/17287197.jpg</thumbnail>
+		<title>Power Atomic Defense</title>
+		<creator>Abnormal Pearl Lizard</creator>
+		<relatedgames />
+	</game>
+	<game id="10058550" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Beastly/Duke/Stampede/10058550.jpg</thumbnail>
+		<title>Sonic Alien Invasion</title>
+		<creator>Beastly Duke Stampede</creator>
+		<relatedgames />
+	</game>
+	<game id="10952545" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Eloquent/Blake/Fishbowl/10952545.jpg</thumbnail>
+		<title>Sonic Light Adventure</title>
+		<creator>Eloquent Blake Fishbowl</creator>
+		<relatedgames />
+	</game>
+	<game id="10923431" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Humorous/Bryan/Goofball/10923431.jpg</thumbnail>
+		<title>Crusher Ambush Assault</title>
+		<creator>Humorous Bryan Goofball</creator>
+		<relatedgames />
+	</game>
+	<game id="17262269" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/25/2012">
+		<thumbnail>/gamecreators/images2/Gigantic/Bob/Chaos/17262269.jpg</thumbnail>
+		<title>Ben Smash Vilgax</title>
+		<creator>Gigantic Bob Chaos</creator>
+		<relatedgames />
+	</game>
+	<game id="10923562" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Mumbling/Spencer/Stampede/10923562.jpg</thumbnail>
+		<title>Razor Rustbucket Adventure</title>
+		<creator>Mumbling Spencer Stampede</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

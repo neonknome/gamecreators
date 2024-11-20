@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10949020" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Odd/Sean/Mustang/10949020.jpg</thumbnail>
+		<title>Nano Giga Ambush</title>
+		<creator>Odd Sean Mustang</creator>
+		<relatedgames />
+	</game>
+	<game id="10953409" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Spooky/Zeb/Gargoyle/10953409.jpg</thumbnail>
+		<title>Mission Ultimate Pursuit</title>
+		<creator>Spooky Zeb Gargoyle</creator>
+		<relatedgames />
+	</game>
+	<game id="10922876" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Weird/Zelda/Pulse/10922876.jpg</thumbnail>
+		<title>Plasma Ambush Storm</title>
+		<creator>Weird Zelda Pulse</creator>
+		<relatedgames />
+	</game>
+	<game id="17392041" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Captain/Ed/Hornet/17392041.jpg</thumbnail>
+		<title>Lightning Vilgax Metal</title>
+		<creator>Captain Ed Hornet</creator>
+		<relatedgames />
+	</game>
+	<game id="17389018" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Stunning/Sid/Hambone/17389018.jpg</thumbnail>
+		<title>Adventure Rescue Slam</title>
+		<creator>Stunning Sid Hambone</creator>
+		<relatedgames />
+	</game>
+	<game id="10948852" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Chilly/Zoe/Wizard/10948852.jpg</thumbnail>
+		<title>Warrior Warrior Warrior</title>
+		<creator>Chilly Zoe Wizard</creator>
+		<relatedgames />
+	</game>
+	<game id="10923848" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Lucky/Egbert/Avocado/10923848.jpg</thumbnail>
+		<title>Alien Adventure Ambush</title>
+		<creator>Lucky Egbert Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="17550908" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Pleasant/Leah/Jinx/17550908.jpg</thumbnail>
+		<title>Assault Attack Robot</title>
+		<creator>Pleasant Leah Jinx</creator>
+		<relatedgames />
+	</game>
+	<game id="17335398" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/13/2012">
+		<thumbnail>/gamecreators/images2/Golden/Dominic/Giblets/17335398.jpg</thumbnail>
+		<title>Danger Champion Thunder</title>
+		<creator>Golden Dominic Giblets</creator>
+		<relatedgames />
+	</game>
+	<game id="17562509" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Nervous/Dora/Scimitar/17562509.jpg</thumbnail>
+		<title>Warrior Nova Crusher</title>
+		<creator>Nervous Dora Scimitar</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

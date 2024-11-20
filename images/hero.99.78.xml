@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17389507" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Grimy/Zachary/Twilight/17389507.jpg</thumbnail>
+		<title>Shock Shadow Ambush</title>
+		<creator>Grimy Zachary Twilight</creator>
+		<relatedgames />
+	</game>
+	<game id="17241367" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>/gamecreators/images2/Sparkly/Elijah/Noob/17241367.jpg</thumbnail>
+		<title>Adventure Adventure Chase</title>
+		<creator>Sparkly Elijah Noob</creator>
+		<relatedgames />
+	</game>
+	<game id="16977289" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Regular/Will/Noob/16977289.jpg</thumbnail>
+		<title>Ultimate Shadow Invasion</title>
+		<creator>Regular Will Noob</creator>
+		<relatedgames />
+	</game>
+	<game id="10918156" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Brawny/Bradley/Howler/10918156.jpg</thumbnail>
+		<title>Hex Mission Plumber</title>
+		<creator>Brawny Bradley Howler</creator>
+		<relatedgames />
+	</game>
+	<game id="17378377" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Fabulous/Austin/Behemoth/17378377.jpg</thumbnail>
+		<title>Cosmic Big Spark</title>
+		<creator>Fabulous Austin Behemoth</creator>
+		<relatedgames />
+	</game>
+	<game id="16962875" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/23/2012">
+		<thumbnail>/gamecreators/images2/Aromatic/Chuck/Planet/16962875.jpg</thumbnail>
+		<title>Attack Dark Racer</title>
+		<creator>Aromatic Chuck Planet</creator>
+		<relatedgames />
+	</game>
+	<game id="17407467" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/10/2012">
+		<thumbnail>/gamecreators/images2/Green/Vince/Warthog/17407467.jpg</thumbnail>
+		<title>Mission Nitro Vilgax</title>
+		<creator>Green Vince Warthog</creator>
+		<relatedgames />
+	</game>
+	<game id="17391769" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/03/2012">
+		<thumbnail>/gamecreators/images2/Noisy/Judith/Taco/17391769.jpg</thumbnail>
+		<title>Doom Warp Crusher</title>
+		<creator>Noisy Judith Taco</creator>
+		<relatedgames />
+	</game>
+	<game id="17226624" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/15/2012">
+		<thumbnail>/gamecreators/images2/Obvious/Sean/17226624.jpg</thumbnail>
+		<title>Alien Invasion Challenge</title>
+		<creator>Obvious Sean</creator>
+		<relatedgames />
+	</game>
+	<game id="16930985" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/14/2012">
+		<thumbnail>/gamecreators/images2/Splendid/Simon/Sardine/16930985.jpg</thumbnail>
+		<title>Shock Charge Rocket</title>
+		<creator>Splendid Simon Sardine</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

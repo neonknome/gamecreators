@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10931541" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Splendid/Donald/Whizbang/10931541.jpg</thumbnail>
+		<title>Rampage Assault Thunder</title>
+		<creator>Splendid Donald Whizbang</creator>
+		<relatedgames />
+	</game>
+	<game id="10935370" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Royal/Kylie/Penguin/10935370.jpg</thumbnail>
+		<title>Rush Rush Mission</title>
+		<creator>Royal Kylie Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="10038692" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Atomic/Caleb/Bonkers/10038692.jpg</thumbnail>
+		<title>Breaker Galaxy Fire</title>
+		<creator>Atomic Caleb Bonkers</creator>
+		<relatedgames />
+	</game>
+	<game id="17584909" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Dizzy/Joshua/Deadbolt/17584909.jpg</thumbnail>
+		<title>Iron Alien Adventure</title>
+		<creator>Dizzy Joshua Deadbolt</creator>
+		<relatedgames />
+	</game>
+	<game id="10039334" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Gruesome/Will/Yodel/10039334.jpg</thumbnail>
+		<title>Steel Stone Titan</title>
+		<creator>Gruesome Will Yodel</creator>
+		<relatedgames />
+	</game>
+	<game id="17011631" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/09/2012">
+		<thumbnail>/gamecreators/images2/Foul/Richard/17011631.jpg</thumbnail>
+		<title>Waterhazard Fire Escape</title>
+		<creator>Foul Richard</creator>
+		<relatedgames />
+	</game>
+	<game id="10655860" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2009">
+		<thumbnail>/gamecreators/images2/Hideous/Donald/Popcorn/10655860.jpg</thumbnail>
+		<title>Ultra Plumber Battle</title>
+		<creator>Hideous Donald Popcorn</creator>
+		<relatedgames />
+	</game>
+	<game id="10917011" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Stout/Wilbur/Oddball/10917011.jpg</thumbnail>
+		<title>Fire Alien Sonic</title>
+		<creator>Stout Wilbur Oddball</creator>
+		<relatedgames />
+	</game>
+	<game id="17365968" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/24/2012">
+		<thumbnail>/gamecreators/images2/Athletic/Felipe/Macaroni/17365968.jpg</thumbnail>
+		<title>Alien Rumble Metal</title>
+		<creator>Athletic Felipe Macaroni</creator>
+		<relatedgames />
+	</game>
+	<game id="17404129" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Shady/Perseus/Comet/17404129.jpg</thumbnail>
+		<title>Ultra Energy Nano</title>
+		<creator>Shady Perseus Comet</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

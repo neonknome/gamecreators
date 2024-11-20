@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16850232" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/28/2012">
+		<thumbnail>/gamecreators/images2/Intrepid/Eduardo/Flatiron/16850232.jpg</thumbnail>
+		<title>Hero Blaster Light</title>
+		<creator>Intrepid Eduardo Flatiron</creator>
+		<relatedgames />
+	</game>
+	<game id="10797645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/04/2009">
+		<thumbnail>/gamecreators/images2/Eerie/Simon/Scorpion/10797645.jpg</thumbnail>
+		<title>Warrior Plumber Steel</title>
+		<creator>Eerie Simon Scorpion</creator>
+		<relatedgames />
+	</game>
+	<game id="10922790" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Horrid/Grover/Behemoth/10922790.jpg</thumbnail>
+		<title>Rumble Sonic Earth</title>
+		<creator>Horrid Grover Behemoth</creator>
+		<relatedgames />
+	</game>
+	<game id="10935655" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Stylish/Rachel/Sphinx/10935655.jpg</thumbnail>
+		<title>Clash Gear Titan</title>
+		<creator>Stylish Rachel Sphinx</creator>
+		<relatedgames />
+	</game>
+	<game id="10920284" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Merry/Stacey/Turtle/10920284.jpg</thumbnail>
+		<title>Fire Shock Attack</title>
+		<creator>Merry Stacey Turtle</creator>
+		<relatedgames />
+	</game>
+	<game id="17373112" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>/gamecreators/images2/Shiny/Roy/Insect/17373112.jpg</thumbnail>
+		<title>Cannonbolt Vilgax Adventure</title>
+		<creator>Shiny Roy Insect</creator>
+		<relatedgames />
+	</game>
+	<game id="10922465" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Zany/Hunter/Plankton/10922465.jpg</thumbnail>
+		<title>Iron Warrior Metal</title>
+		<creator>Zany Hunter Plankton</creator>
+		<relatedgames />
+	</game>
+	<game id="17404731" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Clever/Ben/Blade/17404731.jpg</thumbnail>
+		<title>Ultimate Cannonbolt Assault</title>
+		<creator>Clever Ben Blade</creator>
+		<relatedgames />
+	</game>
+	<game id="17379327" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Tall/Clay/Mystery/17379327.jpg</thumbnail>
+		<title>Laser Warrior Adventure</title>
+		<creator>Tall Clay Mystery</creator>
+		<relatedgames />
+	</game>
+	<game id="17414376" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/14/2012">
+		<thumbnail>/gamecreators/images2/Barbaric/Brian/Cookie/17414376.jpg</thumbnail>
+		<title>Spidermonkey Rumble Rush</title>
+		<creator>Barbaric Brian Cookie</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

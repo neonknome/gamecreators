@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17417151" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/King/Todd/Galaxy/17417151.jpg</thumbnail>
+		<title>Ultimate Target Hero</title>
+		<creator>King Todd Galaxy</creator>
+		<relatedgames />
+	</game>
+	<game id="10931645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Handsome/Vinny/Thing/10931645.jpg</thumbnail>
+		<title>Battle Spark Plasma</title>
+		<creator>Handsome Vinny Thing</creator>
+		<relatedgames />
+	</game>
+	<game id="17253414" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/22/2012">
+		<thumbnail>/gamecreators/images2/Obvious/Paul/Safari/17253414.jpg</thumbnail>
+		<title>Rampage Hero Streak</title>
+		<creator>Obvious Paul Safari</creator>
+		<relatedgames />
+	</game>
+	<game id="10951284" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Splendid/Samuel/Glop/10951284.jpg</thumbnail>
+		<title>Sonic Adventure Sonic</title>
+		<creator>Splendid Samuel Glop</creator>
+		<relatedgames />
+	</game>
+	<game id="17384794" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Capable/Ben/Diamond/17384794.jpg</thumbnail>
+		<title>Ben Fire Star</title>
+		<creator>Capable Ben Diamond</creator>
+		<relatedgames />
+	</game>
+	<game id="17386673" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Strong/Chris/Eel/17386673.jpg</thumbnail>
+		<title>Plasma Mission Escape</title>
+		<creator>Strong Chris Eel</creator>
+		<relatedgames />
+	</game>
+	<game id="10040009" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Chilly/Jackson/Hedgehog/10040009.jpg</thumbnail>
+		<title>Titan Animo Mega</title>
+		<creator>Chilly Jackson Hedgehog</creator>
+		<relatedgames />
+	</game>
+	<game id="17348799" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>/gamecreators/images2/Loyal/Helen/Blammo/17348799.jpg</thumbnail>
+		<title>Rock Vilgax Solar</title>
+		<creator>Loyal Helen Blammo</creator>
+		<relatedgames />
+	</game>
+	<game id="10952739" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Hideous/Sterling/Ballyhoo/10952739.jpg</thumbnail>
+		<title>Blaster Swampfire Drone</title>
+		<creator>Hideous Sterling Ballyhoo</creator>
+		<relatedgames />
+	</game>
+	<game id="17282810" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/30/2012">
+		<thumbnail>/gamecreators/images2/Pleasant/Alan/Gamer/17282810.jpg</thumbnail>
+		<title>Terraspin Siege Adventure</title>
+		<creator>Pleasant Alan Gamer</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

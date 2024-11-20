@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17237572" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/18/2012">
+		<thumbnail>/gamecreators/images2/Academic/Jorge/Avator/17237572.jpg</thumbnail>
+		<title>Universe Doom Rush</title>
+		<creator>Academic Jorge Avator</creator>
+		<relatedgames />
+	</game>
+	<game id="10952640" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Cranky/Bryan/Varmint/10952640.jpg</thumbnail>
+		<title>Challenge Fire Mission</title>
+		<creator>Cranky Bryan Varmint</creator>
+		<relatedgames />
+	</game>
+	<game id="10048804" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Twisty/John/Mustang/10048804.jpg</thumbnail>
+		<title>Robot Attack Mission</title>
+		<creator>Twisty John Mustang</creator>
+		<relatedgames />
+	</game>
+	<game id="17076960" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/31/2012">
+		<thumbnail>/gamecreators/images2/Bold/Bobby/Yoyo/17076960.jpg</thumbnail>
+		<title>Pulse Gear Nova</title>
+		<creator>Bold Bobby Yoyo</creator>
+		<relatedgames />
+	</game>
+	<game id="17420513" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Hyper/Silvia/Pulse/17420513.jpg</thumbnail>
+		<title>Adventure Star Spike</title>
+		<creator>Hyper Silvia Pulse</creator>
+		<relatedgames />
+	</game>
+	<game id="17285375" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>/gamecreators/images2/Negative/Andy/Atlas/17285375.jpg</thumbnail>
+		<title>Water Blaster Challenge</title>
+		<creator>Negative Andy Atlas</creator>
+		<relatedgames />
+	</game>
+	<game id="10923788" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Itchy/Timmy/Igloo/10923788.jpg</thumbnail>
+		<title>Shock Adventure Adventure</title>
+		<creator>Itchy Timmy Igloo</creator>
+		<relatedgames />
+	</game>
+	<game id="17377709" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Quirky/Tommy/Karate/17377709.jpg</thumbnail>
+		<title>Turbo Cosmic Solar</title>
+		<creator>Quirky Tommy Karate</creator>
+		<relatedgames />
+	</game>
+	<game id="10945498" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Twisty/Conrad/Nova/10945498.jpg</thumbnail>
+		<title>Hyper Burst Energy</title>
+		<creator>Twisty Conrad Nova</creator>
+		<relatedgames />
+	</game>
+	<game id="17345648" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2012">
+		<thumbnail>/gamecreators/images2/Agile/Hannah/Balloon/17345648.jpg</thumbnail>
+		<title>Magno Ben Hex</title>
+		<creator>Agile Hannah Balloon</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

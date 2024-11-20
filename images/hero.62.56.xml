@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10916846" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Absurd/Rocky/Penguin/10916846.jpg</thumbnail>
+		<title>Ben Magno Blaster</title>
+		<creator>Absurd Rocky Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="10041474" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Crafty/Harvey/Atom/10041474.jpg</thumbnail>
+		<title>Swampfire Ultimate Smash</title>
+		<creator>Crafty Harvey Atom</creator>
+		<relatedgames />
+	</game>
+	<game id="17536202" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>/gamecreators/images2/Hyper/Baxter/Blubber/17536202.jpg</thumbnail>
+		<title>Fusion Champion Space</title>
+		<creator>Hyper Baxter Blubber</creator>
+		<relatedgames />
+	</game>
+	<game id="17385004" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Purple/Dominic/Gorilla/17385004.jpg</thumbnail>
+		<title>Adventure Adventure Stone</title>
+		<creator>Purple Dominic Gorilla</creator>
+		<relatedgames />
+	</game>
+	<game id="17331573" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/12/2012">
+		<thumbnail>/gamecreators/images2/Talented/Destiny/Warrior/17331573.jpg</thumbnail>
+		<title>Alien Attack Blaster</title>
+		<creator>Talented Destiny Warrior</creator>
+		<relatedgames />
+	</game>
+	<game id="17277286" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Mystic/Roscoe/Mummy/17277286.jpg</thumbnail>
+		<title>Adventure Slam Adventure</title>
+		<creator>Mystic Roscoe Mummy</creator>
+		<relatedgames />
+	</game>
+	<game id="10951645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Absurd/Blake/Eggplant/10951645.jpg</thumbnail>
+		<title>Storm Crusher Danger</title>
+		<creator>Absurd Blake Eggplant</creator>
+		<relatedgames />
+	</game>
+	<game id="10034847" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Cosmic/Steven/Kumquat/10034847.jpg</thumbnail>
+		<title>Hero Adventure Shadow</title>
+		<creator>Cosmic Steven Kumquat</creator>
+		<relatedgames />
+	</game>
+	<game id="10063221" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Tricky/Mike/Waffle/10063221.jpg</thumbnail>
+		<title>Adventure Atomic Galaxy</title>
+		<creator>Tricky Mike Waffle</creator>
+		<relatedgames />
+	</game>
+	<game id="17054714" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/24/2012">
+		<thumbnail>/gamecreators/images2/Crispy/Marissa/Nanobot/17054714.jpg</thumbnail>
+		<title>Defense Power Star</title>
+		<creator>Crispy Marissa Nanobot</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

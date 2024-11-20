@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16937348" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/16/2012">
+		<thumbnail>/gamecreators/images2/Diagonal/Ben/Spark/16937348.jpg</thumbnail>
+		<title>Power Danger Slam</title>
+		<creator>Diagonal Ben Spark</creator>
+		<relatedgames />
+	</game>
+	<game id="17582460" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2012">
+		<thumbnail>/gamecreators/images2/Grubby/Jan/Gorilla/17582460.jpg</thumbnail>
+		<title>Dark Adventure Battle</title>
+		<creator>Grubby Jan Gorilla</creator>
+		<relatedgames />
+	</game>
+	<game id="16860071" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/30/2012">
+		<thumbnail>/gamecreators/images2/Flying/Nicholas/Rumble/16860071.jpg</thumbnail>
+		<title>Battle Spark Force</title>
+		<creator>Flying Nicholas Rumble</creator>
+		<relatedgames />
+	</game>
+	<game id="10059203" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Robust/Minerva/Icicle/10059203.jpg</thumbnail>
+		<title>Storm Fire Rocket</title>
+		<creator>Robust Minerva Icicle</creator>
+		<relatedgames />
+	</game>
+	<game id="10055642" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Husky/Todd/Cyborg/10055642.jpg</thumbnail>
+		<title>Stone Siege Crusher</title>
+		<creator>Husky Todd Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="17301462" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Ironic/Isaac/Deadbolt/17301462.jpg</thumbnail>
+		<title>Thunder Ultra Alien</title>
+		<creator>Ironic Isaac Deadbolt</creator>
+		<relatedgames />
+	</game>
+	<game id="17223727" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/14/2012">
+		<thumbnail>/gamecreators/images2/Quick/Chuck/Cobweb/17223727.jpg</thumbnail>
+		<title>Power Adventure Champion</title>
+		<creator>Quick Chuck Cobweb</creator>
+		<relatedgames />
+	</game>
+	<game id="10923763" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Fred/Biscuit/10923763.jpg</thumbnail>
+		<title>Rampage Ultra Nano</title>
+		<creator>Tricky Fred Biscuit</creator>
+		<relatedgames />
+	</game>
+	<game id="10924392" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Adorable/Eddie/Catapult/10924392.jpg</thumbnail>
+		<title>Fury Fusion Crusher</title>
+		<creator>Adorable Eddie Catapult</creator>
+		<relatedgames />
+	</game>
+	<game id="10924693" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Crispy/Cory/Dingbat/10924693.jpg</thumbnail>
+		<title>Smash Breaker Fire</title>
+		<creator>Crispy Cory Dingbat</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

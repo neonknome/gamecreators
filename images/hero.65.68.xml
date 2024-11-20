@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10953304" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Scary/James/Lavender/10953304.jpg</thumbnail>
+		<title>Rustbucket Magno Plasma</title>
+		<creator>Scary James Lavender</creator>
+		<relatedgames />
+	</game>
+	<game id="17322825" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/09/2012">
+		<thumbnail>/gamecreators/images2/Subtle/Apollo/Yoyo/17322825.jpg</thumbnail>
+		<title>Nitro Battle Rock</title>
+		<creator>Subtle Apollo Yoyo</creator>
+		<relatedgames />
+	</game>
+	<game id="17027011" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/14/2012">
+		<thumbnail>/gamecreators/images2/Average/Cheyenne/Chutney/17027011.jpg</thumbnail>
+		<title>Big Warrior Alien</title>
+		<creator>Average Cheyenne Chutney</creator>
+		<relatedgames />
+	</game>
+	<game id="10748197" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/28/2009">
+		<thumbnail>/gamecreators/images2/Zany/Isaac/Flipper/10748197.jpg</thumbnail>
+		<title>Fire Rescue Chase</title>
+		<creator>Zany Isaac Flipper</creator>
+		<relatedgames />
+	</game>
+	<game id="10925521" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Eerie/Dominic/Quack/10925521.jpg</thumbnail>
+		<title>Turbo Titan Patrol</title>
+		<creator>Eerie Dominic Quack</creator>
+		<relatedgames />
+	</game>
+	<game id="10044541" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Horrid/Bernard/Buffalo/10044541.jpg</thumbnail>
+		<title>Robot Rumble Galaxy</title>
+		<creator>Horrid Bernard Buffalo</creator>
+		<relatedgames />
+	</game>
+	<game id="10916680" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Stylish/Hank/Gorilla/10916680.jpg</thumbnail>
+		<title>Beast Alien Nitro</title>
+		<creator>Stylish Hank Gorilla</creator>
+		<relatedgames />
+	</game>
+	<game id="10034816" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Merry/Bjorn/Witch/10034816.jpg</thumbnail>
+		<title>Fire Blaster Force</title>
+		<creator>Merry Bjorn Witch</creator>
+		<relatedgames />
+	</game>
+	<game id="10063915" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Zany/Adam/Mumbles/10063915.jpg</thumbnail>
+		<title>Ben Ultra Alien</title>
+		<creator>Zany Adam Mumbles</creator>
+		<relatedgames />
+	</game>
+	<game id="16947434" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>/gamecreators/images2/Classic/Bill/Doodle/16947434.jpg</thumbnail>
+		<title>Ambush Rustbucket Light</title>
+		<creator>Classic Bill Doodle</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

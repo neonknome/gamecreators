@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10055845" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Jumping/Pierre/Droid/10055845.jpg</thumbnail>
+		<title>Power Mission Battle</title>
+		<creator>Jumping Pierre Droid</creator>
+		<relatedgames />
+	</game>
+	<game id="17242114" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>/gamecreators/images2/Gruesome/Scooby/Cyborg/17242114.jpg</thumbnail>
+		<title>Adventure Droid Ultra</title>
+		<creator>Gruesome Scooby Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="10945636" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Obvious/Alex/Dynamite/10945636.jpg</thumbnail>
+		<title>Energy Search Solar</title>
+		<creator>Obvious Alex Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="17393809" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/04/2012">
+		<thumbnail>/gamecreators/images2/Spirited/Napoleon/Warrior/17393809.jpg</thumbnail>
+		<title>Ultimate Doom Quake</title>
+		<creator>Spirited Napoleon Warrior</creator>
+		<relatedgames />
+	</game>
+	<game id="17423166" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>/gamecreators/images2/Volcanic/Brad/Warrior/17423166.jpg</thumbnail>
+		<title>Light Earth Crusher</title>
+		<creator>Volcanic Brad Warrior</creator>
+		<relatedgames />
+	</game>
+	<game id="16976315" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Burly/Gillian/Dodo/16976315.jpg</thumbnail>
+		<title>Nitro Doom Metal</title>
+		<creator>Burly Gillian Dodo</creator>
+		<relatedgames />
+	</game>
+	<game id="10939013" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Stout/Larry/Phantom/10939013.jpg</thumbnail>
+		<title>Force Vilgax Hyper</title>
+		<creator>Stout Larry Phantom</creator>
+		<relatedgames />
+	</game>
+	<game id="10655820" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2009">
+		<thumbnail>/gamecreators/images2/Cheerful/Leopold/Mantis/10655820.jpg</thumbnail>
+		<title>Clash Smash Adventure</title>
+		<creator>Cheerful Leopold Mantis</creator>
+		<relatedgames />
+	</game>
+	<game id="16956458" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/22/2012">
+		<thumbnail>/gamecreators/images2/Emperor/Kenny/Tornado/16956458.jpg</thumbnail>
+		<title>Metal Adventure Vilgax</title>
+		<creator>Emperor Kenny Tornado</creator>
+		<relatedgames />
+	</game>
+	<game id="10039147" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Husky/Bessie/Iceberg/10039147.jpg</thumbnail>
+		<title>Shadow Attack Galaxy</title>
+		<creator>Husky Bessie Iceberg</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

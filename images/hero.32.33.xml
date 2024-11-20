@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10931272" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Grouchy/Caleb/Atom/10931272.jpg</thumbnail>
+		<title>Nitro Energy Charge</title>
+		<creator>Grouchy Caleb Atom</creator>
+		<relatedgames />
+	</game>
+	<game id="10919184" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Fizzy/Laura/Tugboat/10919184.jpg</thumbnail>
+		<title>Siege Atomic Rush</title>
+		<creator>Fizzy Laura Tugboat</creator>
+		<relatedgames />
+	</game>
+	<game id="17218382" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>/gamecreators/images2/Roaring/Zelda/Monster/17218382.jpg</thumbnail>
+		<title>Hyper Galaxy Clash</title>
+		<creator>Roaring Zelda Monster</creator>
+		<relatedgames />
+	</game>
+	<game id="10064634" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Stately/Bob/Avocado/10064634.jpg</thumbnail>
+		<title>Rumble Razor Turbo</title>
+		<creator>Stately Bob Avocado</creator>
+		<relatedgames />
+	</game>
+	<game id="10655835" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2009">
+		<thumbnail>/gamecreators/images2/Proper/Dinah/Sardine/10655835.jpg</thumbnail>
+		<title>Shadow Dark Rampage</title>
+		<creator>Proper Dinah Sardine</creator>
+		<relatedgames />
+	</game>
+	<game id="17292401" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/02/2012">
+		<thumbnail>/gamecreators/images2/Queen/Lawrence/Eggplant/17292401.jpg</thumbnail>
+		<title>Terraspin Terraspin Terraspin</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<relatedgames />
+	</game>
+	<game id="17395565" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/05/2012">
+		<thumbnail>/gamecreators/images2/Toxic/Rocky/Photon/17395565.jpg</thumbnail>
+		<title>Sonic Big Rocket</title>
+		<creator>Toxic Rocky Photon</creator>
+		<relatedgames />
+	</game>
+	<game id="16975152" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/28/2012">
+		<thumbnail>/gamecreators/images2/Admiral/Ben/Reptile/16975152.jpg</thumbnail>
+		<title>Power Force Universe</title>
+		<creator>Admiral Ben Reptile</creator>
+		<relatedgames />
+	</game>
+	<game id="17241860" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/19/2012">
+		<thumbnail>/gamecreators/images2/Creative/Jay/Buffalo/17241860.jpg</thumbnail>
+		<title>Razor Echo Chill</title>
+		<creator>Creative Jay Buffalo</creator>
+		<relatedgames />
+	</game>
+	<game id="10934222" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Gigantic/Andrew/Tusk/10934222.jpg</thumbnail>
+		<title>Doom Titan Invasion</title>
+		<creator>Gigantic Andrew Tusk</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

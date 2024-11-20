@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17384988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Robust/Isaac/Pudding/17384988.jpg</thumbnail>
+		<title>Escape Nano Smash</title>
+		<creator>Robust Isaac Pudding</creator>
+		<relatedgames />
+	</game>
+	<game id="10952658" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Visible/Zachary/Scribble/10952658.jpg</thumbnail>
+		<title>Hex Assault Drone</title>
+		<creator>Visible Zachary Scribble</creator>
+		<relatedgames />
+	</game>
+	<game id="10924638" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Artistic/Ramona/Prism/10924638.jpg</thumbnail>
+		<title>Droid Escape Blaster</title>
+		<creator>Artistic Ramona Prism</creator>
+		<relatedgames />
+	</game>
+	<game id="17310250" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>/gamecreators/images2/Defiant/Mario/Blob/17310250.jpg</thumbnail>
+		<title>Chase Thunder Droid</title>
+		<creator>Defiant Mario Blob</creator>
+		<relatedgames />
+	</game>
+	<game id="10931272" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Grouchy/Caleb/Atom/10931272.jpg</thumbnail>
+		<title>Nitro Energy Charge</title>
+		<creator>Grouchy Caleb Atom</creator>
+		<relatedgames />
+	</game>
+	<game id="10032046" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Absurd/Ava/Bayou/10032046.jpg</thumbnail>
+		<title>Defense Alien Humongousaur</title>
+		<creator>Absurd Ava Bayou</creator>
+		<relatedgames />
+	</game>
+	<game id="10938646" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Frank/Blade/10938646.jpg</thumbnail>
+		<title>Swampfire Spark Charge</title>
+		<creator>Tricky Frank Blade</creator>
+		<relatedgames />
+	</game>
+	<game id="17327834" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/11/2012">
+		<thumbnail>/gamecreators/images2/Bizarre/William/Barnacle/17327834.jpg</thumbnail>
+		<title>Challenge Racer Spark</title>
+		<creator>Bizarre William Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="10938043" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Adorable/Celeste/Chutney/10938043.jpg</thumbnail>
+		<title>Earth Ambush Doom</title>
+		<creator>Adorable Celeste Chutney</creator>
+		<relatedgames />
+	</game>
+	<game id="16850232" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/28/2012">
+		<thumbnail>/gamecreators/images2/Intrepid/Eduardo/Flatiron/16850232.jpg</thumbnail>
+		<title>Hero Blaster Light</title>
+		<creator>Intrepid Eduardo Flatiron</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

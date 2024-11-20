@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10933914" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Squishy/Phillip/Fritter/10933914.jpg</thumbnail>
+		<title>Rumble Battle Techno</title>
+		<creator>Squishy Phillip Fritter</creator>
+		<relatedgames />
+	</game>
+	<game id="10953468" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Grand/Samuel/Penguin/10953468.jpg</thumbnail>
+		<title>Swampfire Mission Challenge</title>
+		<creator>Grand Samuel Penguin</creator>
+		<relatedgames />
+	</game>
+	<game id="16914025" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/11/2012">
+		<thumbnail>/gamecreators/images2/Smelly/Micah/Hawk/16914025.jpg</thumbnail>
+		<title>Techno Laser Cannonbolt</title>
+		<creator>Smelly Micah Hawk</creator>
+		<relatedgames />
+	</game>
+	<game id="10933707" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Reckless/Jeremy/Monkey/10933707.jpg</thumbnail>
+		<title>Drone Plasma Droid</title>
+		<creator>Reckless Jeremy Monkey</creator>
+		<relatedgames />
+	</game>
+	<game id="17418873" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Evil/Marcia/Ballyhoo/17418873.jpg</thumbnail>
+		<title>Animo Shadow Warp</title>
+		<creator>Evil Marcia Ballyhoo</creator>
+		<relatedgames />
+	</game>
+	<game id="10953547" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Alien/Roy/Cinnamon/10953547.jpg</thumbnail>
+		<title>Quake Laser Ultra</title>
+		<creator>Alien Roy Cinnamon</creator>
+		<relatedgames />
+	</game>
+	<game id="10068680" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Dapper/Jada/Cyborg/10068680.jpg</thumbnail>
+		<title>Patrol Nova Nitro</title>
+		<creator>Dapper Jada Cyborg</creator>
+		<relatedgames />
+	</game>
+	<game id="10931973" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Graceful/Chad/Beeswax/10931973.jpg</thumbnail>
+		<title>Fury Dark Sonic</title>
+		<creator>Graceful Chad Beeswax</creator>
+		<relatedgames />
+	</game>
+	<game id="10938101" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Nimble/Lillian/Robot/10938101.jpg</thumbnail>
+		<title>Swampfire Iron Invasion</title>
+		<creator>Nimble Lillian Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="10040892" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Fearless/Jason/Funk/10040892.jpg</thumbnail>
+		<title>Swampfire Blaster Spike</title>
+		<creator>Fearless Jason Funk</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

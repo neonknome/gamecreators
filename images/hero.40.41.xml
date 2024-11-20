@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17311338" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/06/2012">
+		<thumbnail>/gamecreators/images2/Freakish/Benson/Banshee/17311338.jpg</thumbnail>
+		<title>Rustbucket Battle Clash</title>
+		<creator>Freakish Benson Banshee</creator>
+		<relatedgames />
+	</game>
+	<game id="16917374" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>/gamecreators/images2/Galactic/Scarlett/Blast/16917374.jpg</thumbnail>
+		<title>Rocket Burst Adventure</title>
+		<creator>Galactic Scarlett Blast</creator>
+		<relatedgames />
+	</game>
+	<game id="10919042" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Shiny/Baxter/Wombat/10919042.jpg</thumbnail>
+		<title>Nitro Pulse Assault</title>
+		<creator>Shiny Baxter Wombat</creator>
+		<relatedgames />
+	</game>
+	<game id="10927840" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Fearless/Adam/Cinnamon/10927840.jpg</thumbnail>
+		<title>Alien Chase Adventure</title>
+		<creator>Fearless Adam Cinnamon</creator>
+		<relatedgames />
+	</game>
+	<game id="10931272" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Grouchy/Caleb/Atom/10931272.jpg</thumbnail>
+		<title>Nitro Energy Charge</title>
+		<creator>Grouchy Caleb Atom</creator>
+		<relatedgames />
+	</game>
+	<game id="10061756" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Normal/Tony/Robot/10061756.jpg</thumbnail>
+		<title>Power Plumber Rustbucket</title>
+		<creator>Normal Tony Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="17386086" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Speedy/Brianna/Beast/17386086.jpg</thumbnail>
+		<title>Adventure Light Energy</title>
+		<creator>Speedy Brianna Beast</creator>
+		<relatedgames />
+	</game>
+	<game id="17554156" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Loony/Sam/Garlic/17554156.jpg</thumbnail>
+		<title>Laser Sonic Adventure</title>
+		<creator>Loony Sam Garlic</creator>
+		<relatedgames />
+	</game>
+	<game id="17319185" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Virtual/Johnny/Vortex/17319185.jpg</thumbnail>
+		<title>Cosmic Assault Alien</title>
+		<creator>Virtual Johnny Vortex</creator>
+		<relatedgames />
+	</game>
+	<game id="17047952" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/22/2012">
+		<thumbnail>/gamecreators/images2/Bright/Grace/Sparkle/17047952.jpg</thumbnail>
+		<title>Turbo Laser Blaster</title>
+		<creator>Bright Grace Sparkle</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

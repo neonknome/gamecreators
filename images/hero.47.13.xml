@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10934549" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Shaggy/Jeff/Gullet/10934549.jpg</thumbnail>
+		<title>Swampfire Rush Plasma</title>
+		<creator>Shaggy Jeff Gullet</creator>
+		<relatedgames />
+	</game>
+	<game id="10952842" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Proper/Brandon/Thud/10952842.jpg</thumbnail>
+		<title>Pursuit Beast Rumble</title>
+		<creator>Proper Brandon Thud</creator>
+		<relatedgames />
+	</game>
+	<game id="10953058" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Grizzly/Michael/Pinball/10953058.jpg</thumbnail>
+		<title>Alien Beast Challenge</title>
+		<creator>Grizzly Michael Pinball</creator>
+		<relatedgames />
+	</game>
+	<game id="17416641" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Normal/Bradley/Dwarf/17416641.jpg</thumbnail>
+		<title>Laser Patrol Water</title>
+		<creator>Normal Bradley Dwarf</creator>
+		<relatedgames />
+	</game>
+	<game id="17378379" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Spectral/Calvin/Android/17378379.jpg</thumbnail>
+		<title>Iron Clash Sonic</title>
+		<creator>Spectral Calvin Android</creator>
+		<relatedgames />
+	</game>
+	<game id="17415199" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/15/2012">
+		<thumbnail>/gamecreators/images2/Verbose/Lauren/Rhythm/17415199.jpg</thumbnail>
+		<title>Rumble Danger Invasion</title>
+		<creator>Verbose Lauren Rhythm</creator>
+		<relatedgames />
+	</game>
+	<game id="10706060" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/23/2009">
+		<thumbnail>/gamecreators/images2/Brawny/Chad/Porridge/10706060.jpg</thumbnail>
+		<title>Nova Solar Invasion</title>
+		<creator>Brawny Chad Porridge</creator>
+		<relatedgames />
+	</game>
+	<game id="10916862" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Squishy/Andrew/Bullfrog/10916862.jpg</thumbnail>
+		<title>Magno Techno Beast</title>
+		<creator>Squishy Andrew Bullfrog</creator>
+		<relatedgames />
+	</game>
+	<game id="17078645" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/01/2012">
+		<thumbnail>/gamecreators/images2/Captain/Waldo/Samurai/17078645.jpg</thumbnail>
+		<title>Challenge Quake Crusher</title>
+		<creator>Captain Waldo Samurai</creator>
+		<relatedgames />
+	</game>
+	<game id="10055801" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Lanky/Ted/Phantom/10055801.jpg</thumbnail>
+		<title>Galaxy Shadow Rush</title>
+		<creator>Lanky Ted Phantom</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

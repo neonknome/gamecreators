@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17403542" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Crystal/Oyster/17403542.jpg</thumbnail>
+		<title>Ultra Nitro Nano</title>
+		<creator>Magnetic Crystal Oyster</creator>
+		<relatedgames />
+	</game>
+	<game id="16979963" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/29/2012">
+		<thumbnail>/gamecreators/images2/Savage/Mary/Wallop/16979963.jpg</thumbnail>
+		<title>Metal Plasma Titan</title>
+		<creator>Savage Mary Wallop</creator>
+		<relatedgames />
+	</game>
+	<game id="17423572" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/17/2012">
+		<thumbnail>/gamecreators/images2/Average/Angela/Cartoon/17423572.jpg</thumbnail>
+		<title>Star Animo Fusion</title>
+		<creator>Average Angela Cartoon</creator>
+		<relatedgames />
+	</game>
+	<game id="17373112" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/27/2012">
+		<thumbnail>/gamecreators/images2/Shiny/Roy/Insect/17373112.jpg</thumbnail>
+		<title>Cannonbolt Vilgax Adventure</title>
+		<creator>Shiny Roy Insect</creator>
+		<relatedgames />
+	</game>
+	<game id="17400808" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>/gamecreators/images2/Noble/Celeste/Thorax/17400808.jpg</thumbnail>
+		<title>Galaxy Turbo Vilgax</title>
+		<creator>Noble Celeste Thorax</creator>
+		<relatedgames />
+	</game>
+	<game id="10043882" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Fearsome/Jacob/Crumpet/10043882.jpg</thumbnail>
+		<title>Gear Space Rock</title>
+		<creator>Fearsome Jacob Crumpet</creator>
+		<relatedgames />
+	</game>
+	<game id="10068837" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Jumping/Hannah/Sphinx/10068837.jpg</thumbnail>
+		<title>Cosmic Metal Rampage</title>
+		<creator>Jumping Hannah Sphinx</creator>
+		<relatedgames />
+	</game>
+	<game id="10933579" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Uncanny/Anthony/Volcano/10933579.jpg</thumbnail>
+		<title>Burst Blaster Smash</title>
+		<creator>Uncanny Anthony Volcano</creator>
+		<relatedgames />
+	</game>
+	<game id="10940046" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Northern/Spencer/Sizzle/10940046.jpg</thumbnail>
+		<title>Adventure Nitro Battle</title>
+		<creator>Northern Spencer Sizzle</creator>
+		<relatedgames />
+	</game>
+	<game id="17401228" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>/gamecreators/images2/Dandy/Ernie/Goblin/17401228.jpg</thumbnail>
+		<title>Breaker Atomic Turbo</title>
+		<creator>Dandy Ernie Goblin</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

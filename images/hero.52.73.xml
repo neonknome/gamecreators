@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10055491" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Frugal/Grover/Gorilla/10055491.jpg</thumbnail>
+		<title>Atomic Giga Robot</title>
+		<creator>Frugal Grover Gorilla</creator>
+		<relatedgames />
+	</game>
+	<game id="17176419" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/30/2012">
+		<thumbnail>/gamecreators/images2/Magnetic/Ramona/Bramble/17176419.jpg</thumbnail>
+		<title>Steel Dark Adventure</title>
+		<creator>Magnetic Ramona Bramble</creator>
+		<relatedgames />
+	</game>
+	<game id="17389200" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/02/2012">
+		<thumbnail>/gamecreators/images2/Scruffy/Drake/Enigma/17389200.jpg</thumbnail>
+		<title>Sonic Adventure Adventure</title>
+		<creator>Scruffy Drake Enigma</creator>
+		<relatedgames />
+	</game>
+	<game id="17379163" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/29/2012">
+		<thumbnail>/gamecreators/images2/Pretty/Scott/Beeswax/17379163.jpg</thumbnail>
+		<title>Razor Titan Blaster</title>
+		<creator>Pretty Scott Beeswax</creator>
+		<relatedgames />
+	</game>
+	<game id="10944766" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Colossal/Adam/Squawk/10944766.jpg</thumbnail>
+		<title>Star Patrol Robot</title>
+		<creator>Colossal Adam Squawk</creator>
+		<relatedgames />
+	</game>
+	<game id="10916748" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Frosty/Lillian/Crash/10916748.jpg</thumbnail>
+		<title>Doom Blaster Rumble</title>
+		<creator>Frosty Lillian Crash</creator>
+		<relatedgames />
+	</game>
+	<game id="17191739" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/05/2012">
+		<thumbnail>/gamecreators/images2/Elastic/Dwight/Robot/17191739.jpg</thumbnail>
+		<title>Solar Warrior Ambush</title>
+		<creator>Elastic Dwight Robot</creator>
+		<relatedgames />
+	</game>
+	<game id="10057035" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Generous/Justin/Coconut/10057035.jpg</thumbnail>
+		<title>Atomic Adventure Alien</title>
+		<creator>Generous Justin Coconut</creator>
+		<relatedgames />
+	</game>
+	<game id="17568876" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Cackling/Beth/Ladybug/17568876.jpg</thumbnail>
+		<title>Escape Hex Galaxy</title>
+		<creator>Cackling Beth Ladybug</creator>
+		<relatedgames />
+	</game>
+	<game id="10948057" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Fearsome/Rick/Mammoth/10948057.jpg</thumbnail>
+		<title>Plumber Storm Force</title>
+		<creator>Fearsome Rick Mammoth</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

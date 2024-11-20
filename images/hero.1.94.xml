@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17173567" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="06/30/2012">
+		<thumbnail>/gamecreators/images2/Singular/Egbert/Eel/17173567.jpg</thumbnail>
+		<title>Chase Shock Universe</title>
+		<creator>Singular Egbert Eel</creator>
+		<relatedgames />
+	</game>
+	<game id="10953223" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Fuzzy/Adrian/Fritter/10953223.jpg</thumbnail>
+		<title>Galaxy Storm Iron</title>
+		<creator>Fuzzy Adrian Fritter</creator>
+		<relatedgames />
+	</game>
+	<game id="10923074" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Elusive/James/Vector/10923074.jpg</thumbnail>
+		<title>Target Adventure Dark</title>
+		<creator>Elusive James Vector</creator>
+		<relatedgames />
+	</game>
+	<game id="17274962" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/28/2012">
+		<thumbnail>/gamecreators/images2/Humorous/Justin/Phoenix/17274962.jpg</thumbnail>
+		<title>Energy Burst Laser</title>
+		<creator>Humorous Justin Phoenix</creator>
+		<relatedgames />
+	</game>
+	<game id="10931323" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Gigantic/Jose/Dynamite/10931323.jpg</thumbnail>
+		<title>Fire Thunder Storm</title>
+		<creator>Gigantic Jose Dynamite</creator>
+		<relatedgames />
+	</game>
+	<game id="16943806" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/18/2012">
+		<thumbnail>/gamecreators/images2/Musical/Bradley/Centaur/16943806.jpg</thumbnail>
+		<title>Quake Rumble Mega</title>
+		<creator>Musical Bradley Centaur</creator>
+		<relatedgames />
+	</game>
+	<game id="10953258" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/21/2009">
+		<thumbnail>/gamecreators/images2/Sincere/Noah/Barnacle/10953258.jpg</thumbnail>
+		<title>Charge Robot Slam</title>
+		<creator>Sincere Noah Barnacle</creator>
+		<relatedgames />
+	</game>
+	<game id="16918247" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/12/2012">
+		<thumbnail>/gamecreators/images2/Abnormal/Duke/Bagpipe/16918247.jpg</thumbnail>
+		<title>Alien Adventure Laser</title>
+		<creator>Abnormal Duke Bagpipe</creator>
+		<relatedgames />
+	</game>
+	<game id="9954616" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Bashful/Zachary/Porridge/9954616.jpg</thumbnail>
+		<title>Robot Humongousaur Nano</title>
+		<creator>Bashful Zachary Porridge</creator>
+		<relatedgames />
+	</game>
+	<game id="17387237" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/01/2012">
+		<thumbnail>/gamecreators/images2/Elite/Marcus/Balloon/17387237.jpg</thumbnail>
+		<title>Star Slam Space</title>
+		<creator>Elite Marcus Balloon</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17253414" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/22/2012">
+		<thumbnail>/gamecreators/images2/Obvious/Paul/Safari/17253414.jpg</thumbnail>
+		<title>Rampage Hero Streak</title>
+		<creator>Obvious Paul Safari</creator>
+		<relatedgames />
+	</game>
+	<game id="17318679" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/08/2012">
+		<thumbnail>/gamecreators/images2/Ancient/Finn/Iguana/17318679.jpg</thumbnail>
+		<title>Pursuit Warrior Rescue</title>
+		<creator>Ancient Finn Iguana</creator>
+		<relatedgames />
+	</game>
+	<game id="10938896" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Royal/Noah/Tempest/10938896.jpg</thumbnail>
+		<title>Target Breaker Mega</title>
+		<creator>Royal Noah Tempest</creator>
+		<relatedgames />
+	</game>
+	<game id="10927069" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Wacky/Gretel/Centaur/10927069.jpg</thumbnail>
+		<title>Swampfire Alien Fire</title>
+		<creator>Wacky Gretel Centaur</creator>
+		<relatedgames />
+	</game>
+	<game id="440596" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="10/26/2010">
+		<thumbnail>
+		</thumbnail>
+		<title>Adventure Alien Warrior</title>
+		<creator>FelipeFuegoA</creator>
+		<relatedgames />
+	</game>
+	<game id="17217564" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/13/2012">
+		<thumbnail>/gamecreators/images2/Dramatic/Austin/Domino/17217564.jpg</thumbnail>
+		<title>Big Thunder Fury</title>
+		<creator>Dramatic Austin Domino</creator>
+		<relatedgames />
+	</game>
+	<game id="10942111" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Fragrant/Cynthia/Ladybug/10942111.jpg</thumbnail>
+		<title>Nano Target Universe</title>
+		<creator>Fragrant Cynthia Ladybug</creator>
+		<relatedgames />
+	</game>
+	<game id="10059358" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Rowdy/Zachary/Haystack/10059358.jpg</thumbnail>
+		<title>Galaxy Battle Magno</title>
+		<creator>Rowdy Zachary Haystack</creator>
+		<relatedgames />
+	</game>
+	<game id="17301539" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/04/2012">
+		<thumbnail>/gamecreators/images2/Athletic/Kaitlin/Dinosaur/17301539.jpg</thumbnail>
+		<title>Waterhazard Adventure Mega</title>
+		<creator>Athletic Kaitlin Dinosaur</creator>
+		<relatedgames />
+	</game>
+	<game id="17405990" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/09/2012">
+		<thumbnail>/gamecreators/images2/Diagonal/Cole/Crash/17405990.jpg</thumbnail>
+		<title>Assault Earth Big</title>
+		<creator>Diagonal Cole Crash</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

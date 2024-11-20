@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10649467" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Baffling/Zoe/Kazoo/10649467.jpg</thumbnail>
+		<title>Plumber Escape Rock</title>
+		<creator>Baffling Zoe Kazoo</creator>
+		<relatedgames />
+	</game>
+	<game id="10843681" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2009">
+		<thumbnail>/gamecreators/images2/Skinny/Andrew/Celsius/10843681.jpg</thumbnail>
+		<title>Universe Mission Vilgax</title>
+		<creator>Skinny Andrew Celsius</creator>
+		<relatedgames />
+	</game>
+	<game id="10648025" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Absurd/Bob/Hambone/10648025.jpg</thumbnail>
+		<title>Spike Smash Thunder</title>
+		<creator>Absurd Bob Hambone</creator>
+		<relatedgames />
+	</game>
+	<game id="10922956" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Blue/Corey/Crash/10922956.jpg</thumbnail>
+		<title>Burst Swampfire Patrol</title>
+		<creator>Blue Corey Crash</creator>
+		<relatedgames />
+	</game>
+	<game id="16956458" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/22/2012">
+		<thumbnail>/gamecreators/images2/Emperor/Kenny/Tornado/16956458.jpg</thumbnail>
+		<title>Metal Adventure Vilgax</title>
+		<creator>Emperor Kenny Tornado</creator>
+		<relatedgames />
+	</game>
+	<game id="10039147" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Husky/Bessie/Iceberg/10039147.jpg</thumbnail>
+		<title>Shadow Attack Galaxy</title>
+		<creator>Husky Bessie Iceberg</creator>
+		<relatedgames />
+	</game>
+	<game id="10951678" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Musical/Perseus/Elephant/10951678.jpg</thumbnail>
+		<title>Magno Iron Laser</title>
+		<creator>Musical Perseus Elephant</creator>
+		<relatedgames />
+	</game>
+	<game id="17420254" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/16/2012">
+		<thumbnail>/gamecreators/images2/Abstract/Natalia/Mackerel/17420254.jpg</thumbnail>
+		<title>Spike Ambush Storm</title>
+		<creator>Abstract Natalia Mackerel</creator>
+		<relatedgames />
+	</game>
+	<game id="10916687" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Tricky/Felix/Pontoon/10916687.jpg</thumbnail>
+		<title>Alien Metal Rock</title>
+		<creator>Tricky Felix Pontoon</creator>
+		<relatedgames />
+	</game>
+	<game id="10920432" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/18/2009">
+		<thumbnail>/gamecreators/images2/Bizarre/Scarlett/Catapult/10920432.jpg</thumbnail>
+		<title>Thunder Assault Giga</title>
+		<creator>Bizarre Scarlett Catapult</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

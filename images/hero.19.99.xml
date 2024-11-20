@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10932753" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2009">
+		<thumbnail>/gamecreators/images2/Reliable/Gregory/Gorilla/10932753.jpg</thumbnail>
+		<title>Mega Pursuit Sonic</title>
+		<creator>Reliable Gregory Gorilla</creator>
+		<relatedgames />
+	</game>
+	<game id="17209454" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/11/2012">
+		<thumbnail>/gamecreators/images2/Aromatic/Milo/Spark/17209454.jpg</thumbnail>
+		<title>Galaxy Attack Turbo</title>
+		<creator>Aromatic Milo Spark</creator>
+		<relatedgames />
+	</game>
+	<game id="10055983" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Dreadful/Dawn/Mummy/10055983.jpg</thumbnail>
+		<title>Warrior Razor Nano</title>
+		<creator>Dreadful Dawn Mummy</creator>
+		<relatedgames />
+	</game>
+	<game id="10947072" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Happy/Devin/Macaroni/10947072.jpg</thumbnail>
+		<title>Invasion Thunder Mega</title>
+		<creator>Happy Devin Macaroni</creator>
+		<relatedgames />
+	</game>
+	<game id="10052360" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Spooky/Dylan/Moxie/10052360.jpg</thumbnail>
+		<title>Sonic Burst Razor</title>
+		<creator>Spooky Dylan Moxie</creator>
+		<relatedgames />
+	</game>
+	<game id="17278815" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/29/2012">
+		<thumbnail>/gamecreators/images2/Rugged/Scooter/Possum/17278815.jpg</thumbnail>
+		<title>Laser Gear Shadow</title>
+		<creator>Rugged Scooter Possum</creator>
+		<relatedgames />
+	</game>
+	<game id="17323066" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/10/2012">
+		<thumbnail>/gamecreators/images2/Capable/Marvin/Brick/17323066.jpg</thumbnail>
+		<title>Fury Clash Lightning</title>
+		<creator>Capable Marvin Brick</creator>
+		<relatedgames />
+	</game>
+	<game id="17504492" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/19/2012">
+		<thumbnail>/gamecreators/images2/Strong/Wesley/Seagull/17504492.jpg</thumbnail>
+		<title>Burst Blaster Force</title>
+		<creator>Strong Wesley Seagull</creator>
+		<relatedgames />
+	</game>
+	<game id="10942693" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Atomic/Jeffrey/Nova/10942693.jpg</thumbnail>
+		<title>Ultra Burst Warp</title>
+		<creator>Atomic Jeffrey Nova</creator>
+		<relatedgames />
+	</game>
+	<game id="10649988" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/17/2009">
+		<thumbnail>/gamecreators/images2/Handsome/Michael/Ladybug/10649988.jpg</thumbnail>
+		<title>Rescue Titan Space</title>
+		<creator>Handsome Michael Ladybug</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>

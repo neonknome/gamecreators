@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16840527" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="03/25/2012">
+		<thumbnail>/gamecreators/images2/Electric/Jeffrey/Wingding/16840527.jpg</thumbnail>
+		<title>Crusher Energy Rampage</title>
+		<creator>Electric Jeffrey Wingding</creator>
+		<relatedgames />
+	</game>
+	<game id="16948219" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="04/20/2012">
+		<thumbnail>/gamecreators/images2/Gentle/Rosetta/Snowball/16948219.jpg</thumbnail>
+		<title>Shock Big Cannonbolt</title>
+		<creator>Gentle Rosetta Snowball</creator>
+		<relatedgames />
+	</game>
+	<game id="17285614" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="07/31/2012">
+		<thumbnail>/gamecreators/images2/Mirthful/Destiny/Citrus/17285614.jpg</thumbnail>
+		<title>Spike Spike Blaster</title>
+		<creator>Mirthful Destiny Citrus</creator>
+		<relatedgames />
+	</game>
+	<game id="17014033" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/10/2012">
+		<thumbnail>/gamecreators/images2/Epic/Peter/Possum/17014033.jpg</thumbnail>
+		<title>Ultra Ultimate Energy</title>
+		<creator>Epic Peter Possum</creator>
+		<relatedgames />
+	</game>
+	<game id="17039544" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="05/19/2012">
+		<thumbnail>/gamecreators/images2/Tireless/Ruby/Phoenix/17039544.jpg</thumbnail>
+		<title>Rock Laser Energy</title>
+		<creator>Tireless Ruby Phoenix</creator>
+		<relatedgames />
+	</game>
+	<game id="17562509" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2012">
+		<thumbnail>/gamecreators/images2/Nervous/Dora/Scimitar/17562509.jpg</thumbnail>
+		<title>Warrior Nova Crusher</title>
+		<creator>Nervous Dora Scimitar</creator>
+		<relatedgames />
+	</game>
+	<game id="17402614" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/08/2012">
+		<thumbnail>/gamecreators/images2/Sloppy/Anna/Gizzard/17402614.jpg</thumbnail>
+		<title>Battle Pursuit Quake</title>
+		<creator>Sloppy Anna Gizzard</creator>
+		<relatedgames />
+	</game>
+	<game id="10040009" rating="0" difficulty="0" status="0">
+		<thumbnail>/gamecreators/images/Chilly/Jackson/Hedgehog/10040009.jpg</thumbnail>
+		<title>Titan Animo Mega</title>
+		<creator>Chilly Jackson Hedgehog</creator>
+		<relatedgames />
+	</game>
+	<game id="10942111" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="09/20/2009">
+		<thumbnail>/gamecreators/images2/Fragrant/Cynthia/Ladybug/10942111.jpg</thumbnail>
+		<title>Nano Target Universe</title>
+		<creator>Fragrant Cynthia Ladybug</creator>
+		<relatedgames />
+	</game>
+	<game id="17348799" rating="0" difficulty="0" status="0" timeToBeat="0" createDate="08/18/2012">
+		<thumbnail>/gamecreators/images2/Loyal/Helen/Blammo/17348799.jpg</thumbnail>
+		<title>Rock Vilgax Solar</title>
+		<creator>Loyal Helen Blammo</creator>
+		<relatedgames />
+	</game>
+</cartoonnetwork>
