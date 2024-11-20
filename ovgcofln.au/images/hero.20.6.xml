@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4908614" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Husky/Carson/Potato/4908614.jpg</thumbnail>
+		<title>Magno Plumber Razor</title>
+		<creator>/Husky/Carson/Potato/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4908547" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Wacky/Autumn/Goofball/4908547.jpg</thumbnail>
+		<title>Shock Hex Chase</title>
+		<creator>/Wacky/Autumn/Goofball/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4908499" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Swift/Tyler/Hedgehog/4908499.jpg</thumbnail>
+		<title>Humongousaur Ben Battle</title>
+		<creator>/Swift/Tyler/Hedgehog/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4908443" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Massive/Crystal/Fury/4908443.jpg</thumbnail>
+		<title>Mega Humongousaur Challenge</title>
+		<creator>/Massive/Crystal/Fury/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4908473" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Southern/Fred/Robot/4908473.jpg</thumbnail>
+		<title>Spike Thunder Plasma</title>
+		<creator>/Southern/Fred/Robot/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4908411" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Happy/Oscar/Zebra/4908411.jpg</thumbnail>
+		<title>Robot Shadow Razor</title>
+		<creator>/Happy/Oscar/Zebra/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4908420" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Purple/Barney/Monkey/4908420.jpg</thumbnail>
+		<title>Droid Iron Challenge</title>
+		<creator>/Purple/Barney/Monkey/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4908357" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Fierce/Noah/Werewolf/4908357.jpg</thumbnail>
+		<title>Force Doom Adventure</title>
+		<creator>/Fierce/Noah/Werewolf/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4908376" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Pleasant/Ramona/Sardine/4908376.jpg</thumbnail>
+		<title>Chase Force Razor</title>
+		<creator>/Pleasant/Ramona/Sardine/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4908384" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Robotic/Jacob/Macaroni/4908384.jpg</thumbnail>
+		<title>Assault Thunder Razor</title>
+		<creator>/Robotic/Jacob/Macaroni/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

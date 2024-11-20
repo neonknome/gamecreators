@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4914667" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Alien/Ted/Phantom/4914667.jpg</thumbnail>
+		<title>Fusion Turbo Universe</title>
+		<creator>/Alien/Ted/Phantom/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4914607" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Funky/Chase/Thorax/4914607.jpg</thumbnail>
+		<title>Storm Attack Jetray</title>
+		<creator>/Funky/Chase/Thorax/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="4914605" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Squishy/Shane/Spark/4914605.jpg</thumbnail>
+		<title>Mega Warrior Ben</title>
+		<creator>/Squishy/Shane/Spark/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4914634" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Twisty/Justin/Bullfrog/4914634.jpg</thumbnail>
+		<title>Energy Stone Rocket</title>
+		<creator>/Twisty/Justin/Bullfrog/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4914628" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Tricky/Travis/Robot/4914628.jpg</thumbnail>
+		<title>Ben Hyper Rush</title>
+		<creator>/Tricky/Travis/Robot/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4914624" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Humorous/Greg/Chipmunk/4914624.jpg</thumbnail>
+		<title>Burst Ultra Assault</title>
+		<creator>/Humorous/Greg/Chipmunk/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4914584" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Blue/Sarah/Goofball/4914584.jpg</thumbnail>
+		<title>Galaxy Escape Adventure</title>
+		<creator>/Blue/Sarah/Goofball/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4914561" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Atomic/Leopold/Gorilla/4914561.jpg</thumbnail>
+		<title>Mega Jetray Laser</title>
+		<creator>/Atomic/Leopold/Gorilla/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4914565" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Visible/Leah/Grackle/4914565.jpg</thumbnail>
+		<title>Rush Pursuit Hero</title>
+		<creator>/Visible/Leah/Grackle/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4914538" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Scary/Chris/Bagpipe/4914538.jpg</thumbnail>
+		<title>Ultimate Robot Force</title>
+		<creator>/Scary/Chris/Bagpipe/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

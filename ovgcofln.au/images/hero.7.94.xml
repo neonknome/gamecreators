@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4916686" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Gruesome/Hunter/Zing/4916686.jpg</thumbnail>
+		<title>Titan Atomic Warrior</title>
+		<creator>/Gruesome/Hunter/Zing/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4916703" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Sneaky/Zelda/Acrobat/4916703.jpg</thumbnail>
+		<title>Titan Star Iron</title>
+		<creator>/Sneaky/Zelda/Acrobat/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4916690" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Cosmic/Salvador/Mummy/4916690.jpg</thumbnail>
+		<title>Rock Spark Ultimate</title>
+		<creator>/Cosmic/Salvador/Mummy/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916670" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Mirthful/Peter/Blade/4916670.jpg</thumbnail>
+		<title>Lightning Jetray Power</title>
+		<creator>/Mirthful/Peter/Blade/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916635" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Leaping/Nick/Turtle/4916635.jpg</thumbnail>
+		<title>Atomic Mission Rock</title>
+		<creator>/Leaping/Nick/Turtle/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4916648" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Scary/Carlos/Cyclone/4916648.jpg</thumbnail>
+		<title>Jetray Sonic Challenge</title>
+		<creator>/Scary/Carlos/Cyclone/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916665" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Husky/Ray/Catapult/4916665.jpg</thumbnail>
+		<title>Shadow Plasma Assault</title>
+		<creator>/Husky/Ray/Catapult/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4916642" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Beastly/Dewey/Nova/4916642.jpg</thumbnail>
+		<title>Rocket Cosmic Clash</title>
+		<creator>/Beastly/Dewey/Nova/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4916607" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Lucky/Aaron/Parallax/4916607.jpg</thumbnail>
+		<title>Fusion Galaxy Hero</title>
+		<creator>/Lucky/Aaron/Parallax/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916588" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Brave/Erik/Rhino/4916588.jpg</thumbnail>
+		<title>Laser Rescue Racer</title>
+		<creator>/Brave/Erik/Rhino/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

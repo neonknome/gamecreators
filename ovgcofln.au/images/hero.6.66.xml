@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4899994" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Mighty/Pedro/Zip/4899994.jpg</thumbnail>
+		<title>Mega Invasion Hex</title>
+		<creator>/Mighty/Pedro/Zip/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4899932" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Cranky/Ray/Saber/4899932.jpg</thumbnail>
+		<title>Vilgax Ultra Giga</title>
+		<creator>/Cranky/Ray/Saber/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4899857" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Wild/Julian/Thunder/4899857.jpg</thumbnail>
+		<title>Humongousaur Ultimate Alien</title>
+		<creator>/Wild/Julian/Thunder/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4899853" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Grand/Xavier/Fury/4899853.jpg</thumbnail>
+		<title>Rush Battle Humongousaur</title>
+		<creator>/Grand/Xavier/Fury/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4899843" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Baffling/Brett/Blade/4899843.jpg</thumbnail>
+		<title>Slam Smash Spike</title>
+		<creator>/Baffling/Brett/Blade/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4899863" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Powerful/Nick/Zing/4899863.jpg</thumbnail>
+		<title>Invasion Adventure Rampage</title>
+		<creator>/Powerful/Nick/Zing/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4899826" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Rowdy/Jada/Rhino/4899826.jpg</thumbnail>
+		<title>Alien Beast Rustbucket</title>
+		<creator>/Rowdy/Jada/Rhino/</creator>
+		<timesPlayed>8</timesPlayed>
+	</game>
+	<game id="4899809" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Absurd/Amy/Jungle/4899809.jpg</thumbnail>
+		<title>Rock Gear Hero</title>
+		<creator>/Absurd/Amy/Jungle/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4899792" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Modest/Ace/Tornado/4899792.jpg</thumbnail>
+		<title>Rocket Racer Razor</title>
+		<creator>/Modest/Ace/Tornado/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4899811" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Curious/George/Cobra/4899811.jpg</thumbnail>
+		<title>Spark Space Shock</title>
+		<creator>/Curious/George/Cobra/</creator>
+		<timesPlayed>8</timesPlayed>
+	</game>
+</cartoonnetwork>

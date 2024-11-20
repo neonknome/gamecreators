@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4917182" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Yellow/Rex/Cyclone/4917182.jpg</thumbnail>
+		<title>Spark Pursuit Invasion</title>
+		<creator>/Yellow/Rex/Cyclone/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917180" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Chaotic/Michael/Calypso/4917180.jpg</thumbnail>
+		<title>Champion Challenge Assault</title>
+		<creator>/Chaotic/Michael/Calypso/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917174" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Red/Derrick/Lard/4917174.jpg</thumbnail>
+		<title>Nano Target Metal</title>
+		<creator>/Red/Derrick/Lard/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4917188" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Robotic/Wolfgang/Kudzu/4917188.jpg</thumbnail>
+		<title>Hyper Warp Power</title>
+		<creator>/Robotic/Wolfgang/Kudzu/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917190" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Loopy/Cameron/Jungle/4917190.jpg</thumbnail>
+		<title>Challenge Force Stone</title>
+		<creator>/Loopy/Cameron/Jungle/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917201" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Reckless/Aaron/Shark/4917201.jpg</thumbnail>
+		<title>Alien Battle Patrol</title>
+		<creator>/Reckless/Aaron/Shark/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917150" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Sincere/Jennifer/Cyborg/4917150.jpg</thumbnail>
+		<title>Ben Warrior Patrol</title>
+		<creator>/Sincere/Jennifer/Cyborg/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4917146" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Fierce/Joshua/Glacier/4917146.jpg</thumbnail>
+		<title>Stone Steel Spark</title>
+		<creator>/Fierce/Joshua/Glacier/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917168" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Hardy/Garrett/Warp/4917168.jpg</thumbnail>
+		<title>Hyper Mega Ambush</title>
+		<creator>/Hardy/Garrett/Warp/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917126" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Wise/Spike/Crowbar/4917126.jpg</thumbnail>
+		<title>Rock Challenge Adventure</title>
+		<creator>/Wise/Spike/Crowbar/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

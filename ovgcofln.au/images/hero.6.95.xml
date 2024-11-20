@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4895701" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Silly/Spencer/Gumshoe/4895701.jpg</thumbnail>
+		<title>Titan Warrior Mission</title>
+		<creator>/Silly/Spencer/Gumshoe/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4895695" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Fearsome/Chase/Stampede/4895695.jpg</thumbnail>
+		<title>Ultra Warrior Pursuit</title>
+		<creator>/Fearsome/Chase/Stampede/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4895682" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Nomadic/Hunter/Starfish/4895682.jpg</thumbnail>
+		<title>Ultra Mega Universe</title>
+		<creator>/Nomadic/Hunter/Starfish/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4895610" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Rugged/Ace/Goofball/4895610.jpg</thumbnail>
+		<title>Invasion Adventure Shock</title>
+		<creator>/Rugged/Ace/Goofball/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4895608" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Alien/Norman/Eel/4895608.jpg</thumbnail>
+		<title>Atomic Alien Ambush</title>
+		<creator>/Alien/Norman/Eel/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4895576" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Awesome/Jacob/Mantis/4895576.jpg</thumbnail>
+		<title>Humongousaur Robot Smash</title>
+		<creator>/Awesome/Jacob/Mantis/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4895557" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Powerful/Nick/Obelisk/4895557.jpg</thumbnail>
+		<title>Ultra Star Storm</title>
+		<creator>/Powerful/Nick/Obelisk/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4895586" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Noisy/Mark/Blitz/4895586.jpg</thumbnail>
+		<title>Fusion Turbo Fury</title>
+		<creator>/Noisy/Mark/Blitz/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4895559" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Scary/Michael/Blob/4895559.jpg</thumbnail>
+		<title>Crusher Rustbucket Droid</title>
+		<creator>/Scary/Michael/Blob/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4895566" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Cosmic/Dominic/Penguin/4895566.jpg</thumbnail>
+		<title>Battle Universe Spike</title>
+		<creator>/Cosmic/Dominic/Penguin/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

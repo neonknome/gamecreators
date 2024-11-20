@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4904419" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Towering/Devin/Flipper/4904419.jpg</thumbnail>
+		<title>Shock Sonic Magno</title>
+		<creator>/Towering/Devin/Flipper/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4904387" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Freaky/Chris/Midnight/4904387.jpg</thumbnail>
+		<title>Rumble Razor Warp</title>
+		<creator>/Freaky/Chris/Midnight/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4904389" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Awful/Gregory/Dynamite/4904389.jpg</thumbnail>
+		<title>Drone Doom Spark</title>
+		<creator>/Awful/Gregory/Dynamite/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4903930" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Majestic/Brianna/Macaroni/4903930.jpg</thumbnail>
+		<title>Rampage Patrol Fusion</title>
+		<creator>/Majestic/Brianna/Macaroni/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4903934" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Alien/Autumn/Ninja/4903934.jpg</thumbnail>
+		<title>Nitro Alien Invasion</title>
+		<creator>/Alien/Autumn/Ninja/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4904339" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Sloppy/Shawn/Tiptoe/4904339.jpg</thumbnail>
+		<title>Rampage Rocket Mega</title>
+		<creator>/Sloppy/Shawn/Tiptoe/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4904354" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Fearless/James/Saber/4904354.jpg</thumbnail>
+		<title>Sonic Storm Smash</title>
+		<creator>/Fearless/James/Saber/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4904348" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Awful/Will/Volcano/4904348.jpg</thumbnail>
+		<title>Rampage Turbo Titan</title>
+		<creator>/Awful/Will/Volcano/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4904360" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Atomic/Tommy/Atom/4904360.jpg</thumbnail>
+		<title>Adventure Shock Patrol</title>
+		<creator>/Atomic/Tommy/Atom/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4904317" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Adorable/Abigail/Iguana/4904317.jpg</thumbnail>
+		<title>Atomic Turbo Search</title>
+		<creator>/Adorable/Abigail/Iguana/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4902895" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Chaotic/Gary/Molecule/4902895.jpg</thumbnail>
+		<title>Turbo Hyper Humongousaur</title>
+		<creator>/Chaotic/Gary/Molecule/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4902876" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Proper/Patricia/Potato/4902876.jpg</thumbnail>
+		<title>Fury Fusion Force</title>
+		<creator>/Proper/Patricia/Potato/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4902883" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Grand/Zelda/Thing/4902883.jpg</thumbnail>
+		<title>Smash Slam Burst</title>
+		<creator>/Grand/Zelda/Thing/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4902856" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Happy/Oscar/Zebra/4902856.jpg</thumbnail>
+		<title>Solar Siege Ben</title>
+		<creator>/Happy/Oscar/Zebra/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4902864" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Strange/Patrick/Haystack/4902864.jpg</thumbnail>
+		<title>Racer Iron Vilgax</title>
+		<creator>/Strange/Patrick/Haystack/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4902844" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Sly/Seth/Burst/4902844.jpg</thumbnail>
+		<title>Droid Doom Laser</title>
+		<creator>/Sly/Seth/Burst/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4902813" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Colorful/Caitlin/Cinnamon/4902813.jpg</thumbnail>
+		<title>Humongousaur Target Challenge</title>
+		<creator>/Colorful/Caitlin/Cinnamon/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4902834" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Brave/Eddie/Spark/4902834.jpg</thumbnail>
+		<title>Atomic Battle Attack</title>
+		<creator>/Brave/Eddie/Spark/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4902763" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Atomic/Tommy/Atom/4902763.jpg</thumbnail>
+		<title>Humongousaur Galaxy Rumble</title>
+		<creator>/Atomic/Tommy/Atom/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4902790" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Jumping/Mark/Walrus/4902790.jpg</thumbnail>
+		<title>Power Assault Light</title>
+		<creator>/Jumping/Mark/Walrus/</creator>
+		<timesPlayed>7</timesPlayed>
+	</game>
+</cartoonnetwork>

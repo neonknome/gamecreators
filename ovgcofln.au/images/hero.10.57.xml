@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4901297" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Loopy/Hunter/Bamboo/4901297.jpg</thumbnail>
+		<title>Smash Alien Rumble</title>
+		<creator>/Loopy/Hunter/Bamboo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4901271" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Colorful/Luke/Jungle/4901271.jpg</thumbnail>
+		<title>Beast Attack Champion</title>
+		<creator>/Colorful/Luke/Jungle/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4901279" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Massive/Destiny/Mummy/4901279.jpg</thumbnail>
+		<title>Alien Battle Blaster</title>
+		<creator>/Massive/Destiny/Mummy/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4901216" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Awesome/Brian/Rhino/4901216.jpg</thumbnail>
+		<title>Ambush Champion Titan</title>
+		<creator>/Awesome/Brian/Rhino/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4901171" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Awful/Will/Volcano/4901171.jpg</thumbnail>
+		<title>Sonic Light Atomic</title>
+		<creator>/Awful/Will/Volcano/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4901199" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Freaky/Conrad/Coconut/4901199.jpg</thumbnail>
+		<title>Beast Humongousaur Battle</title>
+		<creator>/Freaky/Conrad/Coconut/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4901175" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Atomic/Duncan/Cyborg/4901175.jpg</thumbnail>
+		<title>Hero Slam Charge</title>
+		<creator>/Atomic/Duncan/Cyborg/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4901173" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Spectral/Luke/Mammoth/4901173.jpg</thumbnail>
+		<title>Alien Breaker Nitro</title>
+		<creator>/Spectral/Luke/Mammoth/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4901140" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Husky/Amy/Safari/4901140.jpg</thumbnail>
+		<title>Giga Rush Rescue</title>
+		<creator>/Husky/Amy/Safari/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4901150" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Scary/Wesley/Planet/4901150.jpg</thumbnail>
+		<title>Siege Adventure Gear</title>
+		<creator>/Scary/Wesley/Planet/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

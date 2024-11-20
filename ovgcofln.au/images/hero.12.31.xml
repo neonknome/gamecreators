@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4904860" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Hectic/Chad/Giraffe/4904860.jpg</thumbnail>
+		<title>Giga Pursuit Hex</title>
+		<creator>/Hectic/Chad/Giraffe/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4904869" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Eager/Jose/Monkey/4904869.jpg</thumbnail>
+		<title>Iron Slam Vilgax</title>
+		<creator>/Eager/Jose/Monkey/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4904756" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Jolly/Wilbur/Troll/4904756.jpg</thumbnail>
+		<title>Spike Rustbucket Clash</title>
+		<creator>/Jolly/Wilbur/Troll/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4904738" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Pleasant/Leonardo/Calypso/4904738.jpg</thumbnail>
+		<title>Assault Magno Adventure</title>
+		<creator>/Pleasant/Leonardo/Calypso/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4904759" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Mighty/Dustin/Pinwheel/4904759.jpg</thumbnail>
+		<title>Power Pulse Fusion</title>
+		<creator>/Mighty/Dustin/Pinwheel/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4904781" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Heroic/Ryan/Blob/4904781.jpg</thumbnail>
+		<title>Ultra Universe Adventure</title>
+		<creator>/Heroic/Ryan/Blob/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4904785" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Comical/Leslie/Moxie/4904785.jpg</thumbnail>
+		<title>Champion Warrior Drone</title>
+		<creator>/Comical/Leslie/Moxie/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4904790" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Wise/Ryan/Planet/4904790.jpg</thumbnail>
+		<title>Gear Rock Pursuit</title>
+		<creator>/Wise/Ryan/Planet/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4904703" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Awesome/Robin/Kangaroo/4904703.jpg</thumbnail>
+		<title>Ultimate Steel Adventure</title>
+		<creator>/Awesome/Robin/Kangaroo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4904693" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Magnetic/Devin/Barnacle/4904693.jpg</thumbnail>
+		<title>Target Pursuit Steel</title>
+		<creator>/Magnetic/Devin/Barnacle/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

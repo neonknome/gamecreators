@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="17295706" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>images2/Electric/Rudolph/Soldier/17295706.jpg</thumbnail>
+		<title>Iron Hero Fury</title>
+		<creator>Electric Rudolph Soldier</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="16970451" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="4">
+		<thumbnail>images2/Shy/Ginger/Calamari/16970451.jpg</thumbnail>
+		<title>Target Universe Ultimate</title>
+		<creator>Shy Ginger Calamari</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="17504961" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="2">
+		<thumbnail>images2/Evil/Mario/Gargoyle/17504961.jpg</thumbnail>
+		<title>Giga Storm Blaster</title>
+		<creator>Evil Mario Gargoyle</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17047482" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="3">
+		<thumbnail>images2/Intrepid/Alex/Acorn/17047482.jpg</thumbnail>
+		<title>Waterhazard Hyper Champion</title>
+		<creator>Intrepid Alex Acorn</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="17408837" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="5">
+		<thumbnail>images2/Cranky/Conrad/17408837.jpg</thumbnail>
+		<title>Racer Siege Rock</title>
+		<creator>Cranky Conrad</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="17264533" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>images2/Baffling/Michelle/Shinobi/17264533.jpg</thumbnail>
+		<title>Fire Ben Dark</title>
+		<creator>Baffling Michelle Shinobi</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17392765" rating="0.0" difficulty="0" status="1" timesWon="29" timesPlayed="32">
+		<thumbnail>images2/Husky/Lazlo/Paladin/17392765.jpg</thumbnail>
+		<title>Charge Steel Space</title>
+		<creator>Husky Lazlo Paladin</creator>
+		<timesPlayed>32</timesPlayed>
+	</game>
+	<game id="17392924" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>images2/Elegant/Benson/Shinobi/17392924.jpg</thumbnail>
+		<title>Solar Search Warp</title>
+		<creator>Elegant Benson Shinobi</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17383792" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>images2/Magical/Otis/Vitamin/17383792.jpg</thumbnail>
+		<title>Vilgax Alien Universe</title>
+		<creator>Magical Otis Vitamin</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="16891507" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="5">
+		<thumbnail>images2/Vast/Zach/Renegade/16891507.jpg</thumbnail>
+		<title>Assault Alien Ambush</title>
+		<creator>Vast Zach Renegade</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+</cartoonnetwork>

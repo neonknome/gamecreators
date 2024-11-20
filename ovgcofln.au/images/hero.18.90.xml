@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4916836" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Baffling/Matthew/Glop/4916836.jpg</thumbnail>
+		<title>Champion Champion Adventure</title>
+		<creator>/Baffling/Matthew/Glop/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916825" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Freaky/Patricia/Giraffe/4916825.jpg</thumbnail>
+		<title>Shock Warrior Galaxy</title>
+		<creator>/Freaky/Patricia/Giraffe/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916772" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Dazzling/Ray/Minotaur/4916772.jpg</thumbnail>
+		<title>Hero Adventure Danger</title>
+		<creator>/Dazzling/Ray/Minotaur/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916797" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Loopy/Cameron/Jungle/4916797.jpg</thumbnail>
+		<title>Blaster Challenge Shadow</title>
+		<creator>/Loopy/Cameron/Jungle/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916753" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Hardy/Garrett/Warp/4916753.jpg</thumbnail>
+		<title>Nova Beast Charge</title>
+		<creator>/Hardy/Garrett/Warp/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4916740" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Enormous/Adam/Sprinkle/4916740.jpg</thumbnail>
+		<title>Defense Steel Plumber</title>
+		<creator>/Enormous/Adam/Sprinkle/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4916742" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Baffling/Matthew/Glop/4916742.jpg</thumbnail>
+		<title>Vilgax Magno Rumble</title>
+		<creator>/Baffling/Matthew/Glop/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4916719" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Noble/Medusa/Moxie/4916719.jpg</thumbnail>
+		<title>Shadow Ben Defense</title>
+		<creator>/Noble/Medusa/Moxie/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4916705" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Blue/Don/Charger/4916705.jpg</thumbnail>
+		<title>Ben Champion Alien</title>
+		<creator>/Blue/Don/Charger/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916681" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Alien/Michael/Magma/4916681.jpg</thumbnail>
+		<title>Dark Ultra Spidermonkey</title>
+		<creator>/Alien/Michael/Magma/</creator>
+		<timesPlayed>22</timesPlayed>
+	</game>
+</cartoonnetwork>

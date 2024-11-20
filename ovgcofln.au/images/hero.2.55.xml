@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="746628" rating="0" difficulty="0" status="1">
+		<thumbnail>images/746628_051120081201.jpg</thumbnail>
+		<title>Smash Atomic Danger</title>
+		<creator>/</creator>
+		<timesPlayed>21679</timesPlayed>
+	</game>
+	<game id="4901399" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Shiny/Stacy/Spider/4901399.jpg</thumbnail>
+		<title>Atomic Plumber Champion</title>
+		<creator>/Shiny/Stacy/Spider/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4901411" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Adorable/Madison/Beeswax/4901411.jpg</thumbnail>
+		<title>Razor Animo Target</title>
+		<creator>/Adorable/Madison/Beeswax/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4376883" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Bouncing/Evan/Fiddle/4376883.jpg</thumbnail>
+		<title>Rampage Doom Attack</title>
+		<creator>/Bouncing/Evan/Fiddle/</creator>
+		<timesPlayed>2001</timesPlayed>
+	</game>
+	<game id="745408" rating="0" difficulty="0" status="1">
+		<thumbnail>images/745408_051120081206.jpg</thumbnail>
+		<title>Hyper Robot Vilgax</title>
+		<creator>/</creator>
+		<timesPlayed>9311</timesPlayed>
+	</game>
+	<game id="745598" rating="0" difficulty="0" status="1">
+		<thumbnail>images/745598_051120081214.jpg</thumbnail>
+		<title>Shock Adventure Rumble</title>
+		<creator>/</creator>
+		<timesPlayed>15581</timesPlayed>
+	</game>
+	<game id="746299" rating="0" difficulty="0" status="1">
+		<thumbnail>images/746299_051120081216.jpg</thumbnail>
+		<title>Escape Fusion Mission</title>
+		<creator>/</creator>
+		<timesPlayed>22176</timesPlayed>
+	</game>
+	<game id="739381" rating="0" difficulty="0" status="1">
+		<thumbnail>images/739381_051120081125.jpg</thumbnail>
+		<title>Ultimate Doom Patrol</title>
+		<creator>/</creator>
+		<timesPlayed>9373</timesPlayed>
+	</game>
+	<game id="743218" rating="0" difficulty="0" status="1">
+		<thumbnail>images/743218_051120081156.jpg</thumbnail>
+		<title>Mega Smash Force</title>
+		<creator>/</creator>
+		<timesPlayed>19036</timesPlayed>
+	</game>
+	<game id="4901380" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Loyal/Noah/Brick/4901380.jpg</thumbnail>
+		<title>Plasma Robot Light</title>
+		<creator>/Loyal/Noah/Brick/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

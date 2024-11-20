@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4903763" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Savage/Craig/Tractor/4903763.jpg</thumbnail>
+		<title>Siege Turbo Burst</title>
+		<creator>/Savage/Craig/Tractor/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4903753" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Twisty/Baxter/Mummy/4903753.jpg</thumbnail>
+		<title>Ultimate Rampage Universe</title>
+		<creator>/Twisty/Baxter/Mummy/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4903746" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Gigantic/Chris/Centaur/4903746.jpg</thumbnail>
+		<title>Challenge Iron Rumble</title>
+		<creator>/Gigantic/Chris/Centaur/</creator>
+		<timesPlayed>14</timesPlayed>
+	</game>
+	<game id="4903741" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Loony/Rocky/Creature/4903741.jpg</thumbnail>
+		<title>Clash Doom Ultra</title>
+		<creator>/Loony/Rocky/Creature/</creator>
+		<timesPlayed>6</timesPlayed>
+	</game>
+	<game id="4903712" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Northern/Juan/Python/4903712.jpg</thumbnail>
+		<title>Mission Force Champion</title>
+		<creator>/Northern/Juan/Python/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4903732" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Southern/Rufus/Lobster/4903732.jpg</thumbnail>
+		<title>Spike Search Adventure</title>
+		<creator>/Southern/Rufus/Lobster/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4903701" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Adorable/Brian/Chipmunk/4903701.jpg</thumbnail>
+		<title>Escape Warrior Rush</title>
+		<creator>/Adorable/Brian/Chipmunk/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4903670" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Frantic/Craig/Cosmos/4903670.jpg</thumbnail>
+		<title>Mission Humongousaur Battle</title>
+		<creator>/Frantic/Craig/Cosmos/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4903603" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Mighty/Hunter/Fireball/4903603.jpg</thumbnail>
+		<title>Dark Danger Battle</title>
+		<creator>/Mighty/Hunter/Fireball/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4903588" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Strange/Patrick/Haystack/4903588.jpg</thumbnail>
+		<title>Crusher Lightning Adventure</title>
+		<creator>/Strange/Patrick/Haystack/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

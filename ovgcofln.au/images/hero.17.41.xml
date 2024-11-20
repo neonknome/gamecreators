@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4913438" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Massive/Bubba/Cobra/4913438.jpg</thumbnail>
+		<title>Dark Search Ultimate</title>
+		<creator>/Massive/Bubba/Cobra/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4913423" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Sleek/Xavier/Monkey/4913423.jpg</thumbnail>
+		<title>Vilgax Sonic Breaker</title>
+		<creator>/Sleek/Xavier/Monkey/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4913426" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Majestic/Don/Tornado/4913426.jpg</thumbnail>
+		<title>Giga Hex Racer</title>
+		<creator>/Majestic/Don/Tornado/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4913406" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Dapper/Jonathan/Tractor/4913406.jpg</thumbnail>
+		<title>Assault Fury Doom</title>
+		<creator>/Dapper/Jonathan/Tractor/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4913404" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Awesome/Milo/Coconut/4913404.jpg</thumbnail>
+		<title>Light Beast Danger</title>
+		<creator>/Awesome/Milo/Coconut/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4913400" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Eerie/Tim/Rhino/4913400.jpg</thumbnail>
+		<title>Burst Adventure Rock</title>
+		<creator>/Eerie/Tim/Rhino/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4913390" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Cosmic/Gregory/Mummy/4913390.jpg</thumbnail>
+		<title>Adventure Streak Pursuit</title>
+		<creator>/Cosmic/Gregory/Mummy/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4913392" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Blue/Steven/Charger/4913392.jpg</thumbnail>
+		<title>Giga Charge Titan</title>
+		<creator>/Blue/Steven/Charger/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4913388" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Tricky/Julius/Aurora/4913388.jpg</thumbnail>
+		<title>Galaxy Adventure Light</title>
+		<creator>/Tricky/Julius/Aurora/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4913359" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Awesome/Penny/Planet/4913359.jpg</thumbnail>
+		<title>Nitro Hex Plasma</title>
+		<creator>/Awesome/Penny/Planet/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

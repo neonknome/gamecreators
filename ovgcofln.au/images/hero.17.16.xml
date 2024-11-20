@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4908913" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Towering/Matt/Droid/4908913.jpg</thumbnail>
+		<title>Battle Jetray Hex</title>
+		<creator>/Towering/Matt/Droid/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4908866" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Horrid/Brandon/Seesaw/4908866.jpg</thumbnail>
+		<title>Blaster Slam Ben</title>
+		<creator>/Horrid/Brandon/Seesaw/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4908886" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Glorious/Erin/Sphinx/4908886.jpg</thumbnail>
+		<title>Dark Nova Patrol</title>
+		<creator>/Glorious/Erin/Sphinx/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4908849" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Absurd/Ace/Aardvark/4908849.jpg</thumbnail>
+		<title>Dark Challenge Ultra</title>
+		<creator>/Absurd/Ace/Aardvark/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4908884" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Handsome/Megan/Octopus/4908884.jpg</thumbnail>
+		<title>Alien Force Turbo</title>
+		<creator>/Handsome/Megan/Octopus/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4908864" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Colorful/Andy/Bolt/4908864.jpg</thumbnail>
+		<title>Steel Storm Rampage</title>
+		<creator>/Colorful/Andy/Bolt/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4908814" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Reckless/Jimbo/Troll/4908814.jpg</thumbnail>
+		<title>Turbo Ultra Fury</title>
+		<creator>/Reckless/Jimbo/Troll/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4908833" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Lucky/Eric/Fireball/4908833.jpg</thumbnail>
+		<title>Iron Universe Doom</title>
+		<creator>/Lucky/Eric/Fireball/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4908847" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Sinister/Rufus/Shark/4908847.jpg</thumbnail>
+		<title>Crusher Nitro Rush</title>
+		<creator>/Sinister/Rufus/Shark/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4908835" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Blue/Caitlin/Orchid/4908835.jpg</thumbnail>
+		<title>Plasma Robot Champion</title>
+		<creator>/Blue/Caitlin/Orchid/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

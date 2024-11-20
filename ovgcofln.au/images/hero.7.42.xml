@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4913599" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Infamous/Daniel/Atom/4913599.jpg</thumbnail>
+		<title>Galaxy Quake Adventure</title>
+		<creator>/Infamous/Daniel/Atom/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4913597" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Musical/Daniel/Zigzag/4913597.jpg</thumbnail>
+		<title>Fury Quake Sonic</title>
+		<creator>/Musical/Daniel/Zigzag/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4913590" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Spooky/James/Domino/4913590.jpg</thumbnail>
+		<title>Giga Rumble Robot</title>
+		<creator>/Spooky/James/Domino/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4913575" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Darling/Casey/Goulash/4913575.jpg</thumbnail>
+		<title>Stone Nova Stone</title>
+		<creator>/Darling/Casey/Goulash/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4913565" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Fierce/Zeus/Worm/4913565.jpg</thumbnail>
+		<title>Rocket Energy Siege</title>
+		<creator>/Fierce/Zeus/Worm/</creator>
+		<timesPlayed>10</timesPlayed>
+	</game>
+	<game id="4913542" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Green/Matthew/Eel/4913542.jpg</thumbnail>
+		<title>Crusher Blaster Force</title>
+		<creator>/Green/Matthew/Eel/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4913544" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Blue/Aaliyah/Centaur/4913544.jpg</thumbnail>
+		<title>Ultimate Jetray Mission</title>
+		<creator>/Blue/Aaliyah/Centaur/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4913537" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Daring/Hercules/Blade/4913537.jpg</thumbnail>
+		<title>Jetray Alien Rampage</title>
+		<creator>/Daring/Hercules/Blade/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4913517" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Tricky/Ian/Crash/4913517.jpg</thumbnail>
+		<title>Power Rampage Invasion</title>
+		<creator>/Tricky/Ian/Crash/</creator>
+		<timesPlayed>7</timesPlayed>
+	</game>
+	<game id="4913498" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Loyal/Eddie/Wizard/4913498.jpg</thumbnail>
+		<title>Jetray Ultimate Sonic</title>
+		<creator>/Loyal/Eddie/Wizard/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

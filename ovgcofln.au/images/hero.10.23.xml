@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4905917" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Awesome/Robin/Kangaroo/4905917.jpg</thumbnail>
+		<title>Racer Force Humongousaur</title>
+		<creator>/Awesome/Robin/Kangaroo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4905919" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Pleasant/Leah/Fizz/4905919.jpg</thumbnail>
+		<title>Ultra Giga Warp</title>
+		<creator>/Pleasant/Leah/Fizz/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4905890" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Enormous/Zeus/Varmint/4905890.jpg</thumbnail>
+		<title>Fire Champion Universe</title>
+		<creator>/Enormous/Zeus/Varmint/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4905839" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Freaky/Floyd/Gullet/4905839.jpg</thumbnail>
+		<title>Patrol Ultra Rampage</title>
+		<creator>/Freaky/Floyd/Gullet/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4905798" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Funny/Noah/Fuzz/4905798.jpg</thumbnail>
+		<title>Humongousaur Alien Assault</title>
+		<creator>/Funny/Noah/Fuzz/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4905813" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Enormous/Rudolph/Wizard/4905813.jpg</thumbnail>
+		<title>Siege Metal Spike</title>
+		<creator>/Enormous/Rudolph/Wizard/</creator>
+		<timesPlayed>8</timesPlayed>
+	</game>
+	<game id="4905825" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Grand/Darla/Dragon/4905825.jpg</thumbnail>
+		<title>Iron Atomic Titan</title>
+		<creator>/Grand/Darla/Dragon/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4905747" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Eloquent/Ethan/Zing/4905747.jpg</thumbnail>
+		<title>Breaker Breaker Breaker</title>
+		<creator>/Eloquent/Ethan/Zing/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4905767" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Blue/Milo/Chipmunk/4905767.jpg</thumbnail>
+		<title>Battle Patrol Spark</title>
+		<creator>/Blue/Milo/Chipmunk/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4905717" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Fearless/Leon/Mummy/4905717.jpg</thumbnail>
+		<title>Iron Rampage Space</title>
+		<creator>/Fearless/Leon/Mummy/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

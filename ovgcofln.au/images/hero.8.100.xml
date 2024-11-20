@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4915780" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Orange/Steven/Buffalo/4915780.jpg</thumbnail>
+		<title>Galaxy Stone Warrior</title>
+		<creator>/Orange/Steven/Buffalo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4915807" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Royal/Salvador/Moonbeam/4915807.jpg</thumbnail>
+		<title>Battle Alien Ambush</title>
+		<creator>/Royal/Salvador/Moonbeam/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4915815" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Silent/Iris/Shark/4915815.jpg</thumbnail>
+		<title>Mega Storm Ultimate</title>
+		<creator>/Silent/Iris/Shark/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4915735" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Bashful/Cameron/Fizz/4915735.jpg</thumbnail>
+		<title>Warp Pursuit Warp</title>
+		<creator>/Bashful/Cameron/Fizz/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4915750" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Royal/Candice/Cupcake/4915750.jpg</thumbnail>
+		<title>Spidermonkey Lightning Rescue</title>
+		<creator>/Royal/Candice/Cupcake/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4915767" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Freaky/Zeb/Squid/4915767.jpg</thumbnail>
+		<title>Sonic Adventure Attack</title>
+		<creator>/Freaky/Zeb/Squid/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4915719" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Cosmic/Antonio/Python/4915719.jpg</thumbnail>
+		<title>Adventure Energy Hero</title>
+		<creator>/Cosmic/Antonio/Python/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4915682" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Reckless/Hercules/Blade/4915682.jpg</thumbnail>
+		<title>Mega Spidermonkey Challenge</title>
+		<creator>/Reckless/Hercules/Blade/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4915697" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Cheerful/Krystal/Sprinkle/4915697.jpg</thumbnail>
+		<title>Laser Dark Hero</title>
+		<creator>/Cheerful/Krystal/Sprinkle/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4915689" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Mighty/Spike/Penguin/4915689.jpg</thumbnail>
+		<title>Mega Nitro Shadow</title>
+		<creator>/Mighty/Spike/Penguin/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

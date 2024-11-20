@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4896573" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Gigantic/Amber/Cobra/4896573.jpg</thumbnail>
+		<title>Fusion Chase Nano</title>
+		<creator>/Gigantic/Amber/Cobra/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4896549" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Dynamic/Ed/Monster/4896549.jpg</thumbnail>
+		<title>Hex Droid Shock</title>
+		<creator>/Dynamic/Ed/Monster/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4896545" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Noble/Ace/Zeppelin/4896545.jpg</thumbnail>
+		<title>Earth Challenge Patrol</title>
+		<creator>/Noble/Ace/Zeppelin/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4896543" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Chilly/Cory/Mantis/4896543.jpg</thumbnail>
+		<title>Target Nitro Solar</title>
+		<creator>/Chilly/Cory/Mantis/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4896538" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Wise/Peter/Techno/4896538.jpg</thumbnail>
+		<title>Beast Fire Attack</title>
+		<creator>/Wise/Peter/Techno/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4896450" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Dreadful/Hunter/Planet/4896450.jpg</thumbnail>
+		<title>Charge Plumber Siege</title>
+		<creator>/Dreadful/Hunter/Planet/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4896399" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Brave/Eddie/Spark/4896399.jpg</thumbnail>
+		<title>Crusher Smash Star</title>
+		<creator>/Brave/Eddie/Spark/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4896396" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Unusual/Angel/Cinnamon/4896396.jpg</thumbnail>
+		<title>Techno Rampage Nitro</title>
+		<creator>/Unusual/Angel/Cinnamon/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4896380" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Comical/Clay/Coconut/4896380.jpg</thumbnail>
+		<title>Spark Steel Power</title>
+		<creator>/Comical/Clay/Coconut/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4896353" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Hideous/Tony/Mastodon/4896353.jpg</thumbnail>
+		<title>Force Racer Droid</title>
+		<creator>/Hideous/Tony/Mastodon/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

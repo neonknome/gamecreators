@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10925341" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Frosty/Adam/Rhino/10925341.jpg</thumbnail>
+		<title>Galaxy Adventure Battle</title>
+		<creator>/Frosty/Adam/Rhino/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10926182" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Brawny/Sara/Galaxy/10926182.jpg</thumbnail>
+		<title>Rock Swampfire Magno</title>
+		<creator>/Brawny/Sara/Galaxy/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10919116" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Fanciful/Xavier/Thunder/10919116.jpg</thumbnail>
+		<title>Ultimate Mega Siege</title>
+		<creator>/Fanciful/Xavier/Thunder/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10927813" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Honest/Chad/Molecule/10927813.jpg</thumbnail>
+		<title>Swampfire Swampfire Swampfire</title>
+		<creator>/Honest/Chad/Molecule/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10920299" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Silly/Gladys/Beeswax/10920299.jpg</thumbnail>
+		<title>Warrior Swampfire Mission</title>
+		<creator>/Silly/Gladys/Beeswax/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10933360" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>images2/Pretty/Clyde/Minotaur/10933360.jpg</thumbnail>
+		<title>Charge Slam Spike</title>
+		<creator>/Pretty/Clyde/Minotaur/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10925948" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Silly/Joshua/Thunder/10925948.jpg</thumbnail>
+		<title>Adventure Storm Siege</title>
+		<creator>/Silly/Joshua/Thunder/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10919791" rating="5.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Sly/Wesley/Tiptoe/10919791.jpg</thumbnail>
+		<title>Lightning Energy Invasion</title>
+		<creator>/Sly/Wesley/Tiptoe/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10924605" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Nimble/Bobo/Iguana/10924605.jpg</thumbnail>
+		<title>Force Animo Chase</title>
+		<creator>/Nimble/Bobo/Iguana/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10922954" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>images2/Noisy/Zelda/Gargoyle/10922954.jpg</thumbnail>
+		<title>Spike Danger Magno</title>
+		<creator>/Noisy/Zelda/Gargoyle/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

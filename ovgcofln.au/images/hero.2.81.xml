@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4897740" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Awesome/Ursula/Eggplant/4897740.jpg</thumbnail>
+		<title>Mission Champion Rush</title>
+		<creator>/Awesome/Ursula/Eggplant/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4897712" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Hardy/Jonas/Nonsense/4897712.jpg</thumbnail>
+		<title>Lightning Nano Techno</title>
+		<creator>/Hardy/Jonas/Nonsense/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4897701" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Green/Julian/Goblin/4897701.jpg</thumbnail>
+		<title>Humongousaur Mega Adventure</title>
+		<creator>/Green/Julian/Goblin/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897734" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Strange/Dennis/Mango/4897734.jpg</thumbnail>
+		<title>Plasma Power Plumber</title>
+		<creator>/Strange/Dennis/Mango/</creator>
+		<timesPlayed>11</timesPlayed>
+	</game>
+	<game id="4897731" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Savage/Eric/Gumbo/4897731.jpg</thumbnail>
+		<title>Steel Power Escape</title>
+		<creator>/Savage/Eric/Gumbo/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="4897738" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Northern/Don/Photon/4897738.jpg</thumbnail>
+		<title>Ultimate Alien Escape</title>
+		<creator>/Northern/Don/Photon/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897720" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Wise/Violet/Magician/4897720.jpg</thumbnail>
+		<title>Pulse Giga Animo</title>
+		<creator>/Wise/Violet/Magician/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4897678" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Northern/Laura/Chimera/4897678.jpg</thumbnail>
+		<title>Humongousaur Iron Rescue</title>
+		<creator>/Northern/Laura/Chimera/</creator>
+		<timesPlayed>7</timesPlayed>
+	</game>
+	<game id="4897660" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Weird/Duke/Ogre/4897660.jpg</thumbnail>
+		<title>Breaker Spark Force</title>
+		<creator>/Weird/Duke/Ogre/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897666" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Chaotic/Kenneth/Charger/4897666.jpg</thumbnail>
+		<title>Iron Ben Challenge</title>
+		<creator>/Chaotic/Kenneth/Charger/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

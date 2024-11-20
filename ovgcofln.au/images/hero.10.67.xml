@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4899768" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Fearless/David/Iceberg/4899768.jpg</thumbnail>
+		<title>Slam Sonic Chase</title>
+		<creator>/Fearless/David/Iceberg/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4899745" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Alien/Oscar/Dolphin/4899745.jpg</thumbnail>
+		<title>Fire Alien Laser</title>
+		<creator>/Alien/Oscar/Dolphin/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4899753" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Alien/Steven/Bullfrog/4899753.jpg</thumbnail>
+		<title>Droid Storm Fury</title>
+		<creator>/Alien/Steven/Bullfrog/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4899743" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Alien/Jason/Zombie/4899743.jpg</thumbnail>
+		<title>Humongousaur Smash Ben</title>
+		<creator>/Alien/Jason/Zombie/</creator>
+		<timesPlayed>8</timesPlayed>
+	</game>
+	<game id="4899756" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Yellow/Rufus/Turbo/4899756.jpg</thumbnail>
+		<title>Humongousaur Ben Alien</title>
+		<creator>/Yellow/Rufus/Turbo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4899736" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Alien/Bubba/Python/4899736.jpg</thumbnail>
+		<title>Champion Pursuit Drone</title>
+		<creator>/Alien/Bubba/Python/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4899716" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Alien/Florence/Igloo/4899716.jpg</thumbnail>
+		<title>Rumble Escape Crusher</title>
+		<creator>/Alien/Florence/Igloo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4899709" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Rugged/Lisa/Baloney/4899709.jpg</thumbnail>
+		<title>Energy Shadow Burst</title>
+		<creator>/Rugged/Lisa/Baloney/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4899680" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Royal/Alyssa/Ninja/4899680.jpg</thumbnail>
+		<title>Burst Rumble Solar</title>
+		<creator>/Royal/Alyssa/Ninja/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="4899622" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Aquatic/Ted/Jamboree/4899622.jpg</thumbnail>
+		<title>Rock Galaxy Fury</title>
+		<creator>/Aquatic/Ted/Jamboree/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+</cartoonnetwork>

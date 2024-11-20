@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4920498" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Rugged/Ethan/Glop/4920498.jpg</thumbnail>
+		<title>Spidermonkey Mega Chase</title>
+		<creator>/Rugged/Ethan/Glop/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4920496" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Alien/Caroline/Amethyst/4920496.jpg</thumbnail>
+		<title>Hyper Solar Slam</title>
+		<creator>/Alien/Caroline/Amethyst/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4920454" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Blustery/Lauren/Zombie/4920454.jpg</thumbnail>
+		<title>Titan Adventure Force</title>
+		<creator>/Blustery/Lauren/Zombie/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="4920459" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Curious/Taylor/Charger/4920459.jpg</thumbnail>
+		<title>Atomic Earth Pulse</title>
+		<creator>/Curious/Taylor/Charger/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4920433" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Robotic/Carter/Kazoo/4920433.jpg</thumbnail>
+		<title>Steel Fire Giga</title>
+		<creator>/Robotic/Carter/Kazoo/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4920428" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Funky/Destiny/Plankton/4920428.jpg</thumbnail>
+		<title>Smash Star Spidermonkey</title>
+		<creator>/Funky/Destiny/Plankton/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4920416" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Sly/Chase/Fury/4920416.jpg</thumbnail>
+		<title>Dark Warp Power</title>
+		<creator>/Sly/Chase/Fury/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4920372" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Sporty/Leonardo/Pirate/4920372.jpg</thumbnail>
+		<title>Ben Battle Spidermonkey</title>
+		<creator>/Sporty/Leonardo/Pirate/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4920332" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Clever/Dennis/Iceberg/4920332.jpg</thumbnail>
+		<title>Cosmic Universe Shadow</title>
+		<creator>/Clever/Dennis/Iceberg/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4920352" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Ghostly/Napoleon/Bullfrog/4920352.jpg</thumbnail>
+		<title>Cosmic Invasion Chase</title>
+		<creator>/Ghostly/Napoleon/Bullfrog/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

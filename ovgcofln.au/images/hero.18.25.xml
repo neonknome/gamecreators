@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4922109" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Madcap/Faith/Blubber/4922109.jpg</thumbnail>
+		<title>Doom Star Spidermonkey</title>
+		<creator>/Madcap/Faith/Blubber/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4922099" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Fuzzy/Andy/Vampire/4922099.jpg</thumbnail>
+		<title>Escape Shock Beast</title>
+		<creator>/Fuzzy/Andy/Vampire/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4921991" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Powerful/Joey/Howler/4921991.jpg</thumbnail>
+		<title>Smash Fusion Earth</title>
+		<creator>/Powerful/Joey/Howler/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4921983" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Infinite/Chad/Phantom/4921983.jpg</thumbnail>
+		<title>Spidermonkey Spidermonkey Spidermonkey</title>
+		<creator>/Infinite/Chad/Phantom/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4921973" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Tricky/Amanda/Citrus/4921973.jpg</thumbnail>
+		<title>Plumber Shadow Assault</title>
+		<creator>/Tricky/Amanda/Citrus/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4922036" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Shaggy/Mitchell/Pinwheel/4922036.jpg</thumbnail>
+		<title>Spidermonkey Nova Burst</title>
+		<creator>/Shaggy/Mitchell/Pinwheel/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4922027" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Modest/Sterling/Pinwheel/4922027.jpg</thumbnail>
+		<title>Turbo Dark Adventure</title>
+		<creator>/Modest/Sterling/Pinwheel/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4921929" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Dashing/Dylan/Dingbat/4921929.jpg</thumbnail>
+		<title>Ambush Escape Escape</title>
+		<creator>/Dashing/Dylan/Dingbat/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4921914" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Noisy/Elijah/Dragon/4921914.jpg</thumbnail>
+		<title>Alien Blaster Animo</title>
+		<creator>/Noisy/Elijah/Dragon/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4921935" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Howling/Leon/Safari/4921935.jpg</thumbnail>
+		<title>Titan Storm Streak</title>
+		<creator>/Howling/Leon/Safari/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

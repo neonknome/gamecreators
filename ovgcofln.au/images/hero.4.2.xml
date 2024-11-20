@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4923431" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Blue/Brandon/Vampire/4923431.jpg</thumbnail>
+		<title>Laser Warrior Rumble</title>
+		<creator>/Blue/Brandon/Vampire/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4923389" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Enormous/Ace/Popcorn/4923389.jpg</thumbnail>
+		<title>Adventure Fusion Solar</title>
+		<creator>/Enormous/Ace/Popcorn/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4923391" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Colossal/Ben/Basilisk/4923391.jpg</thumbnail>
+		<title>Spidermonkey Nova Patrol</title>
+		<creator>/Colossal/Ben/Basilisk/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4923380" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Green/Spike/Acrobat/4923380.jpg</thumbnail>
+		<title>Vilgax Streak Ambush</title>
+		<creator>/Green/Spike/Acrobat/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4923416" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Silly/Bubba/Shock/4923416.jpg</thumbnail>
+		<title>Spidermonkey Energy Assault</title>
+		<creator>/Silly/Bubba/Shock/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4923343" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Dreadful/Joshua/Crater/4923343.jpg</thumbnail>
+		<title>Dark Droid Shadow</title>
+		<creator>/Dreadful/Joshua/Crater/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4923349" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Swift/Ivy/Werewolf/4923349.jpg</thumbnail>
+		<title>Spidermonkey Droid Assault</title>
+		<creator>/Swift/Ivy/Werewolf/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4923319" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Absurd/Drew/Wizard/4923319.jpg</thumbnail>
+		<title>Defense Lightning Force</title>
+		<creator>/Absurd/Drew/Wizard/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4923292" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Stylish/Gary/Zing/4923292.jpg</thumbnail>
+		<title>Laser Battle Slam</title>
+		<creator>/Stylish/Gary/Zing/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4923327" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Awful/Andy/Aardvark/4923327.jpg</thumbnail>
+		<title>Alien Plumber Rocket</title>
+		<creator>/Awful/Andy/Aardvark/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

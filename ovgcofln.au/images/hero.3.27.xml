@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4911043" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Giggling/Johnny/Frost/4911043.jpg</thumbnail>
+		<title>Alien Force Warrior</title>
+		<creator>/Giggling/Johnny/Frost/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4911047" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Grand/Herman/Fireball/4911047.jpg</thumbnail>
+		<title>Techno Ben Streak</title>
+		<creator>/Grand/Herman/Fireball/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4911023" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Sloppy/Roscoe/Grackle/4911023.jpg</thumbnail>
+		<title>Beast Magno Turbo</title>
+		<creator>/Sloppy/Roscoe/Grackle/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4911033" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Awesome/Tommy/Goulash/4911033.jpg</thumbnail>
+		<title>Fire Assault Battle</title>
+		<creator>/Awesome/Tommy/Goulash/</creator>
+		<timesPlayed>6</timesPlayed>
+	</game>
+	<game id="4911027" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Awesome/Luke/Paradox/4911027.jpg</thumbnail>
+		<title>Shadow Attack Assault</title>
+		<creator>/Awesome/Luke/Paradox/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4911031" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Shiny/Aaron/Howler/4911031.jpg</thumbnail>
+		<title>Rampage Fusion Energy</title>
+		<creator>/Shiny/Aaron/Howler/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4911007" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Red/Ivy/Buzzard/4911007.jpg</thumbnail>
+		<title>Invasion Energy Streak</title>
+		<creator>/Red/Ivy/Buzzard/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4911005" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Gruesome/Brandon/Zombie/4911005.jpg</thumbnail>
+		<title>Jetray Laser Lightning</title>
+		<creator>/Gruesome/Brandon/Zombie/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4911021" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Chilly/Jacob/Twist/4911021.jpg</thumbnail>
+		<title>Stone Storm Charge</title>
+		<creator>/Chilly/Jacob/Twist/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4911002" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Freaky/Zachary/Atom/4911002.jpg</thumbnail>
+		<title>Burst Rustbucket Vilgax</title>
+		<creator>/Freaky/Zachary/Atom/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+</cartoonnetwork>

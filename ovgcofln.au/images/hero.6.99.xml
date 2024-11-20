@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4895176" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Shaggy/Tyler/Mammoth/4895176.jpg</thumbnail>
+		<title>Humongousaur Titan Challenge</title>
+		<creator>/Shaggy/Tyler/Mammoth/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4895143" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Powerful/Nick/Obelisk/4895143.jpg</thumbnail>
+		<title>Rumble Plasma Fury</title>
+		<creator>/Powerful/Nick/Obelisk/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4895099" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Tricky/Zeus/Droid/4895099.jpg</thumbnail>
+		<title>Ultra Mission Crusher</title>
+		<creator>/Tricky/Zeus/Droid/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4895109" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Wild/Brittany/Wizard/4895109.jpg</thumbnail>
+		<title>Adventure Atomic Assault</title>
+		<creator>/Wild/Brittany/Wizard/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4895055" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Sleek/Tex/Nova/4895055.jpg</thumbnail>
+		<title>Clash Doom Animo</title>
+		<creator>/Sleek/Tex/Nova/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4895088" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Savage/Sabrina/Dragon/4895088.jpg</thumbnail>
+		<title>Siege Crusher Hyper</title>
+		<creator>/Savage/Sabrina/Dragon/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4895095" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Blue/Natalie/Hogwash/4895095.jpg</thumbnail>
+		<title>Champion Crusher Iron</title>
+		<creator>/Blue/Natalie/Hogwash/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4895080" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Reckless/Simon/Mahogany/4895080.jpg</thumbnail>
+		<title>Ben Hero Warrior</title>
+		<creator>/Reckless/Simon/Mahogany/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4895041" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Grouchy/Theodore/Baloney/4895041.jpg</thumbnail>
+		<title>Burst Alien Warp</title>
+		<creator>/Grouchy/Theodore/Baloney/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4895011" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Scary/Duncan/Gizmo/4895011.jpg</thumbnail>
+		<title>Invasion Metal Escape</title>
+		<creator>/Scary/Duncan/Gizmo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

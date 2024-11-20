@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4896815" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Robotic/Ryan/Cyclone/4896815.jpg</thumbnail>
+		<title>Titan Assault Fury</title>
+		<creator>/Robotic/Ryan/Cyclone/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4896813" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Proper/Erin/Hogwash/4896813.jpg</thumbnail>
+		<title>Ultimate Target Ambush</title>
+		<creator>/Proper/Erin/Hogwash/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4896823" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Green/Ben/Ricochet/4896823.jpg</thumbnail>
+		<title>Power Techno Vilgax</title>
+		<creator>/Green/Ben/Ricochet/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4896806" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Brave/Jake/Quake/4896806.jpg</thumbnail>
+		<title>Adventure Hero Adventure</title>
+		<creator>/Brave/Jake/Quake/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4896740" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Daring/Adam/Stampede/4896740.jpg</thumbnail>
+		<title>Force Storm Doom</title>
+		<creator>/Daring/Adam/Stampede/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4896261" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Ticklish/Zelda/Zip/4896261.jpg</thumbnail>
+		<title>Steel Spike Crusher</title>
+		<creator>/Ticklish/Zelda/Zip/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4896252" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Clever/Michael/Wombat/4896252.jpg</thumbnail>
+		<title>Earth Patrol Force</title>
+		<creator>/Clever/Michael/Wombat/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4896259" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Colossal/Adrian/Nova/4896259.jpg</thumbnail>
+		<title>Alien Escape Energy</title>
+		<creator>/Colossal/Adrian/Nova/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4896266" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Gruesome/Zeke/Dragon/4896266.jpg</thumbnail>
+		<title>Turbo Steel Thunder</title>
+		<creator>/Gruesome/Zeke/Dragon/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4896280" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Magnetic/Luke/Glop/4896280.jpg</thumbnail>
+		<title>Rumble Gear Atomic</title>
+		<creator>/Magnetic/Luke/Glop/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+</cartoonnetwork>

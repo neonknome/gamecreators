@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4905569" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Alien/Patrick/Twist/4905569.jpg</thumbnail>
+		<title>Beast Warrior Assault</title>
+		<creator>/Alien/Patrick/Twist/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4905546" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Awesome/Robin/Kangaroo/4905546.jpg</thumbnail>
+		<title>Patrol Atomic Power</title>
+		<creator>/Awesome/Robin/Kangaroo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4905536" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Fuzzy/Ian/Jungle/4905536.jpg</thumbnail>
+		<title>Robot Siege Fury</title>
+		<creator>/Fuzzy/Ian/Jungle/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4905534" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Giggling/Jason/Rhino/4905534.jpg</thumbnail>
+		<title>Rocket Rescue Steel</title>
+		<creator>/Giggling/Jason/Rhino/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4905480" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Ghostly/Kristin/Crash/4905480.jpg</thumbnail>
+		<title>Dark Danger Mission</title>
+		<creator>/Ghostly/Kristin/Crash/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4905487" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Jolly/Wilbur/Troll/4905487.jpg</thumbnail>
+		<title>Plumber Ultimate Vilgax</title>
+		<creator>/Jolly/Wilbur/Troll/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4905460" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Pretty/Garrett/Mahogany/4905460.jpg</thumbnail>
+		<title>Humongousaur Earth Escape</title>
+		<creator>/Pretty/Garrett/Mahogany/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4905422" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Fizzy/Sophia/Thorax/4905422.jpg</thumbnail>
+		<title>Clash Light Metal</title>
+		<creator>/Fizzy/Sophia/Thorax/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4905416" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Magnetic/Mason/Blob/4905416.jpg</thumbnail>
+		<title>Humongousaur Hyper Invasion</title>
+		<creator>/Magnetic/Mason/Blob/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4905409" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Chilly/Dakota/Zebra/4905409.jpg</thumbnail>
+		<title>Star Invasion Humongousaur</title>
+		<creator>/Chilly/Dakota/Zebra/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

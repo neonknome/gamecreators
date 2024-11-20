@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4905266" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Swift/Michael/Turtle/4905266.jpg</thumbnail>
+		<title>Burst Siege Earth</title>
+		<creator>/Swift/Michael/Turtle/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4905221" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Western/Bruce/Howler/4905221.jpg</thumbnail>
+		<title>Adventure Adventure Adventure</title>
+		<creator>/Western/Bruce/Howler/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4905207" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Sneaky/Alex/Thunder/4905207.jpg</thumbnail>
+		<title>Nova Rock Turbo</title>
+		<creator>/Sneaky/Alex/Thunder/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4905235" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Dapper/Rhett/Ladybug/4905235.jpg</thumbnail>
+		<title>Shadow Droid Turbo</title>
+		<creator>/Dapper/Rhett/Ladybug/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4905181" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Leaping/James/Lobster/4905181.jpg</thumbnail>
+		<title>Stone Plasma Cosmic</title>
+		<creator>/Leaping/James/Lobster/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4905174" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Dynamic/Chad/Droid/4905174.jpg</thumbnail>
+		<title>Mission Patrol Assault</title>
+		<creator>/Dynamic/Chad/Droid/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4905171" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Happy/Evan/Fireball/4905171.jpg</thumbnail>
+		<title>Target Mega Robot</title>
+		<creator>/Happy/Evan/Fireball/</creator>
+		<timesPlayed>25</timesPlayed>
+	</game>
+	<game id="4905146" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Dynamic/Violet/Volcano/4905146.jpg</thumbnail>
+		<title>Ultimate Titan Warrior</title>
+		<creator>/Dynamic/Violet/Volcano/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4905155" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Dreadful/Paige/Haystack/4905155.jpg</thumbnail>
+		<title>Universe Vilgax Star</title>
+		<creator>/Dreadful/Paige/Haystack/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4905153" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Wily/Wilbur/Yodel/4905153.jpg</thumbnail>
+		<title>Humongousaur Techno Smash</title>
+		<creator>/Wily/Wilbur/Yodel/</creator>
+		<timesPlayed>23</timesPlayed>
+	</game>
+</cartoonnetwork>

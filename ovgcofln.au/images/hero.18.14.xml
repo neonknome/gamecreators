@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4922897" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Sleepy/John/Pinball/4922897.jpg</thumbnail>
+		<title>Spidermonkey Magno Metal</title>
+		<creator>/Sleepy/John/Pinball/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4922904" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Loony/Kevin/Monster/4922904.jpg</thumbnail>
+		<title>Smash Search Turbo</title>
+		<creator>/Loony/Kevin/Monster/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4922899" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Strange/Shelby/Stampede/4922899.jpg</thumbnail>
+		<title>Space Alien Doom</title>
+		<creator>/Strange/Shelby/Stampede/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4922857" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Reckless/Chris/Gargoyle/4922857.jpg</thumbnail>
+		<title>Lightning Power Target</title>
+		<creator>/Reckless/Chris/Gargoyle/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4922863" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Savage/Sam/Virtuoso/4922863.jpg</thumbnail>
+		<title>Power Adventure Light</title>
+		<creator>/Savage/Sam/Virtuoso/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4922875" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Awesome/Alex/Squeegee/4922875.jpg</thumbnail>
+		<title>Crusher Universe Rush</title>
+		<creator>/Awesome/Alex/Squeegee/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4922865" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Awesome/Harry/Iguana/4922865.jpg</thumbnail>
+		<title>Lightning Challenge Breaker</title>
+		<creator>/Awesome/Harry/Iguana/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4922877" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Enormous/Adam/Sprinkle/4922877.jpg</thumbnail>
+		<title>Warrior Rock Animo</title>
+		<creator>/Enormous/Adam/Sprinkle/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4922881" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Sleek/Violet/Blade/4922881.jpg</thumbnail>
+		<title>Techno Nitro Adventure</title>
+		<creator>/Sleek/Violet/Blade/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4922831" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Odd/Wolfgang/Saber/4922831.jpg</thumbnail>
+		<title>Rescue Siege Adventure</title>
+		<creator>/Odd/Wolfgang/Saber/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

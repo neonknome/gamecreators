@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4916932" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Jolly/Grover/Dragon/4916932.jpg</thumbnail>
+		<title>Iron Invasion Lightning</title>
+		<creator>/Jolly/Grover/Dragon/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916926" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Robust/Trinity/Blade/4916926.jpg</thumbnail>
+		<title>Mega Space Storm</title>
+		<creator>/Robust/Trinity/Blade/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916917" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Loopy/Cameron/Jungle/4916917.jpg</thumbnail>
+		<title>Spike Ultra Challenge</title>
+		<creator>/Loopy/Cameron/Jungle/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4916867" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Blue/Don/Charger/4916867.jpg</thumbnail>
+		<title>Space Spike Rescue</title>
+		<creator>/Blue/Don/Charger/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916891" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Funny/Edward/Fuzz/4916891.jpg</thumbnail>
+		<title>Ambush Turbo Turbo</title>
+		<creator>/Funny/Edward/Fuzz/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4916869" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Southern/Kayla/Splat/4916869.jpg</thumbnail>
+		<title>Smash Rustbucket Star</title>
+		<creator>/Southern/Kayla/Splat/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916856" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Happy/Bryan/Iceberg/4916856.jpg</thumbnail>
+		<title>Sonic Streak Atomic</title>
+		<creator>/Happy/Bryan/Iceberg/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4916887" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Swift/Johnny/Cobra/4916887.jpg</thumbnail>
+		<title>Metal Lightning Rescue</title>
+		<creator>/Swift/Johnny/Cobra/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916865" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Cosmic/Salvador/Mummy/4916865.jpg</thumbnail>
+		<title>Adventure Techno Ambush</title>
+		<creator>/Cosmic/Salvador/Mummy/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916854" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Royal/Paul/Thunder/4916854.jpg</thumbnail>
+		<title>Jetray Burst Rescue</title>
+		<creator>/Royal/Paul/Thunder/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

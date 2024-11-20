@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10952675" rating="5.0" difficulty="0" status="1" timesWon="1" timesPlayed="3">
+		<thumbnail>images2/Honest/Florence/Squeegee/10952675.jpg</thumbnail>
+		<title>Swampfire Fury Attack</title>
+		<creator>/Honest/Florence/Squeegee/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="10952807" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="10">
+		<thumbnail>images2/Dynamic/Larry/Eggplant/10952807.jpg</thumbnail>
+		<title>Battle Turbo Shadow</title>
+		<creator>/Dynamic/Larry/Eggplant/</creator>
+		<timesPlayed>10</timesPlayed>
+	</game>
+	<game id="10951678" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Musical/Perseus/Elephant/10951678.jpg</thumbnail>
+		<title>Magno Iron Laser</title>
+		<creator>/Musical/Perseus/Elephant/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10952326" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="1">
+		<thumbnail>images2/Aquatic/Egbert/Thud/10952326.jpg</thumbnail>
+		<title>Adventure Clash Metal</title>
+		<creator>/Aquatic/Egbert/Thud/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10952813" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Babbling/Adam/Buckaroo/10952813.jpg</thumbnail>
+		<title>Fury Spark Galaxy</title>
+		<creator>/Babbling/Adam/Buckaroo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10951563" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Elegant/Marissa/Tornado/10951563.jpg</thumbnail>
+		<title>Cosmic Stone Stone</title>
+		<creator>/Elegant/Marissa/Tornado/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10797645" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="1">
+		<thumbnail>images2/Eerie/Simon/Scorpion/10797645.jpg</thumbnail>
+		<title>Warrior Plumber Steel</title>
+		<creator>/Eerie/Simon/Scorpion/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10951531" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>images2/Stately/Benjamin/Galaxy/10951531.jpg</thumbnail>
+		<title>Mega Titan Search</title>
+		<creator>/Stately/Benjamin/Galaxy/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10953030" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="2">
+		<thumbnail>images2/Ticklish/Olivia/Coconut/10953030.jpg</thumbnail>
+		<title>Pursuit Sonic Warrior</title>
+		<creator>/Ticklish/Olivia/Coconut/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="10951869" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>images2/Spirited/Vladimir/Icicle/10951869.jpg</thumbnail>
+		<title>Thunder Ultimate Solar</title>
+		<creator>/Spirited/Vladimir/Icicle/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+</cartoonnetwork>

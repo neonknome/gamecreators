@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4918768" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Ornery/Adam/Pinball/4918768.jpg</thumbnail>
+		<title>Power Spidermonkey Fury</title>
+		<creator>/Ornery/Adam/Pinball/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4918702" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Skinny/Drew/Ninja/4918702.jpg</thumbnail>
+		<title>Laser Assault Turbo</title>
+		<creator>/Skinny/Drew/Ninja/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="4918717" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Purple/Lily/Scorpion/4918717.jpg</thumbnail>
+		<title>Stone Search Ambush</title>
+		<creator>/Purple/Lily/Scorpion/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4918688" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Mighty/Becky/Shark/4918688.jpg</thumbnail>
+		<title>Razor Ambush Alien</title>
+		<creator>/Mighty/Becky/Shark/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4918638" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Spooky/Savannah/Galaxy/4918638.jpg</thumbnail>
+		<title>Dark Assault Battle</title>
+		<creator>/Spooky/Savannah/Galaxy/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4918648" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Awful/Betty/Popcorn/4918648.jpg</thumbnail>
+		<title>Galaxy Giga Drone</title>
+		<creator>/Awful/Betty/Popcorn/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4918630" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Alien/Derrick/Baloney/4918630.jpg</thumbnail>
+		<title>Battle Rumble Fury</title>
+		<creator>/Alien/Derrick/Baloney/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4918615" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Stout/Rufus/Fuzz/4918615.jpg</thumbnail>
+		<title>Target Stone Rampage</title>
+		<creator>/Stout/Rufus/Fuzz/</creator>
+		<timesPlayed>11</timesPlayed>
+	</game>
+	<game id="4918567" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Spooky/Crystal/Robot/4918567.jpg</thumbnail>
+		<title>Laser Light Storm</title>
+		<creator>/Spooky/Crystal/Robot/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4918558" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Aquatic/Ethan/Planet/4918558.jpg</thumbnail>
+		<title>Steel Hyper Target</title>
+		<creator>/Aquatic/Ethan/Planet/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

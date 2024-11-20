@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4896162" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Silent/Dawn/Goblin/4896162.jpg</thumbnail>
+		<title>Warrior Streak Smash</title>
+		<creator>/Silent/Dawn/Goblin/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4896166" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Crafty/Tommy/Oddball/4896166.jpg</thumbnail>
+		<title>Clash Warrior Titan</title>
+		<creator>/Crafty/Tommy/Oddball/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4896179" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Skinny/Max/Mosquito/4896179.jpg</thumbnail>
+		<title>Alien Doom Spike</title>
+		<creator>/Skinny/Max/Mosquito/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="4896150" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Western/Kayla/Cactus/4896150.jpg</thumbnail>
+		<title>Attack Warp Storm</title>
+		<creator>/Western/Kayla/Cactus/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4895968" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Scary/Mike/Sardine/4895968.jpg</thumbnail>
+		<title>Assault Attack Atomic</title>
+		<creator>/Scary/Mike/Sardine/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4895961" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Happy/Alex/Bamboo/4895961.jpg</thumbnail>
+		<title>Warp Force Quake</title>
+		<creator>/Happy/Alex/Bamboo/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4895962" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Wild/Brittany/Wizard/4895962.jpg</thumbnail>
+		<title>Titan Mission Laser</title>
+		<creator>/Wild/Brittany/Wizard/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4895965" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Enormous/Rex/Planet/4895965.jpg</thumbnail>
+		<title>Fusion Robot Animo</title>
+		<creator>/Enormous/Rex/Planet/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4896072" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Eloquent/Iris/Droid/4896072.jpg</thumbnail>
+		<title>Iron Mega Spike</title>
+		<creator>/Eloquent/Iris/Droid/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4896080" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Husky/Scarlett/Tusk/4896080.jpg</thumbnail>
+		<title>Ambush Razor Fusion</title>
+		<creator>/Husky/Scarlett/Tusk/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+</cartoonnetwork>

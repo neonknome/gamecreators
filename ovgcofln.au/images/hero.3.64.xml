@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4916811" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Cosmic/Zachary/Phantom/4916811.jpg</thumbnail>
+		<title>Metal Turbo Shock</title>
+		<creator>/Cosmic/Zachary/Phantom/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916818" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Husky/David/Crash/4916818.jpg</thumbnail>
+		<title>Ben Hex Blaster</title>
+		<creator>/Husky/David/Crash/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916781" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Jumping/Nathan/Dragon/4916781.jpg</thumbnail>
+		<title>Smash Pulse Champion</title>
+		<creator>/Jumping/Nathan/Dragon/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4916768" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Noisy/Dakota/Monkey/4916768.jpg</thumbnail>
+		<title>Hero Universe Iron</title>
+		<creator>/Noisy/Dakota/Monkey/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4916790" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Powerful/Hansel/Volcano/4916790.jpg</thumbnail>
+		<title>Search Fire Rocket</title>
+		<creator>/Powerful/Hansel/Volcano/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="4916765" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Skinny/Wilma/Doodle/4916765.jpg</thumbnail>
+		<title>Shock Energy Doom</title>
+		<creator>/Skinny/Wilma/Doodle/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916775" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Northern/Grover/Cyborg/4916775.jpg</thumbnail>
+		<title>Warrior Warrior Warrior</title>
+		<creator>/Northern/Grover/Cyborg/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4916758" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Royal/Iris/Rutabaga/4916758.jpg</thumbnail>
+		<title>Ultimate Charge Star</title>
+		<creator>/Royal/Iris/Rutabaga/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916744" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Joyous/Michael/Paradox/4916744.jpg</thumbnail>
+		<title>Adventure Warrior Shadow</title>
+		<creator>/Joyous/Michael/Paradox/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4916723" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Stylish/Nick/Photon/4916723.jpg</thumbnail>
+		<title>Techno Rock Universe</title>
+		<creator>/Stylish/Nick/Photon/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

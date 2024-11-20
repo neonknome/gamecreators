@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4898911" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Beastly/Dylan/Biscuit/4898911.jpg</thumbnail>
+		<title>Doom Crusher Defense</title>
+		<creator>/Beastly/Dylan/Biscuit/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4898886" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Absurd/Amy/Virtuoso/4898886.jpg</thumbnail>
+		<title>Rustbucket Fire Rampage</title>
+		<creator>/Absurd/Amy/Virtuoso/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="4898854" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Wacky/Marcus/Planet/4898854.jpg</thumbnail>
+		<title>Rock Universe Blaster</title>
+		<creator>/Wacky/Marcus/Planet/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4898880" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Eager/Milo/Penguin/4898880.jpg</thumbnail>
+		<title>Rampage Rocket Nano</title>
+		<creator>/Eager/Milo/Penguin/</creator>
+		<timesPlayed>6</timesPlayed>
+	</game>
+	<game id="4898873" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Enormous/Patrick/Dragon/4898873.jpg</thumbnail>
+		<title>Stone Crusher Rampage</title>
+		<creator>/Enormous/Patrick/Dragon/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4898869" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Powerful/Michael/Aurora/4898869.jpg</thumbnail>
+		<title>Ultimate Siege Challenge</title>
+		<creator>/Powerful/Michael/Aurora/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4898789" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Brave/Hunter/Obelisk/4898789.jpg</thumbnail>
+		<title>Champion Rumble Hex</title>
+		<creator>/Brave/Hunter/Obelisk/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4898781" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Cranky/Carlos/Biscuit/4898781.jpg</thumbnail>
+		<title>Sonic Cosmic Fusion</title>
+		<creator>/Cranky/Carlos/Biscuit/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4898767" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Aquatic/Rex/Nacho/4898767.jpg</thumbnail>
+		<title>Light Battle Rush</title>
+		<creator>/Aquatic/Rex/Nacho/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4898844" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Tricky/Mike/Howler/4898844.jpg</thumbnail>
+		<title>Fusion Adventure Fusion</title>
+		<creator>/Tricky/Mike/Howler/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

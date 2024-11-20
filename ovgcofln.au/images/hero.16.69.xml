@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4899597" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Odd/Riley/Droid/4899597.jpg</thumbnail>
+		<title>Warrior Ultra Spike</title>
+		<creator>/Odd/Riley/Droid/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4899558" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Cosmic/Ethan/Jungle/4899558.jpg</thumbnail>
+		<title>Siege Cosmic Galaxy</title>
+		<creator>/Cosmic/Ethan/Jungle/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4899575" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Gloomy/Leopold/Obelisk/4899575.jpg</thumbnail>
+		<title>Invasion Pursuit Doom</title>
+		<creator>/Gloomy/Leopold/Obelisk/</creator>
+		<timesPlayed>12</timesPlayed>
+	</game>
+	<game id="4899482" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Sneaky/Aaron/Midnight/4899482.jpg</thumbnail>
+		<title>Champion Nova Gear</title>
+		<creator>/Sneaky/Aaron/Midnight/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4899508" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Sinister/Rufus/Shark/4899508.jpg</thumbnail>
+		<title>Spike Rush Thunder</title>
+		<creator>/Sinister/Rufus/Shark/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4899470" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Heroic/Dominic/Brick/4899470.jpg</thumbnail>
+		<title>Mega Nano Galaxy</title>
+		<creator>/Heroic/Dominic/Brick/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4899415" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Northern/Mike/Kook/4899415.jpg</thumbnail>
+		<title>Turbo Champion Humongousaur</title>
+		<creator>/Northern/Mike/Kook/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4899437" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Crafty/Ron/Bamboo/4899437.jpg</thumbnail>
+		<title>Attack Smash Clash</title>
+		<creator>/Crafty/Ron/Bamboo/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4899337" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Sloppy/Dylan/Goofball/4899337.jpg</thumbnail>
+		<title>Titan Champion Mission</title>
+		<creator>/Sloppy/Dylan/Goofball/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4899331" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Beastly/Brent/Basilisk/4899331.jpg</thumbnail>
+		<title>Humongousaur Atomic Beast</title>
+		<creator>/Beastly/Brent/Basilisk/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

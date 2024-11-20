@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16993808" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="2">
+		<thumbnail>images2/Funky/Antonio/Cobra/16993808.jpg</thumbnail>
+		<title>Cosmic Mission Plumber</title>
+		<creator>Funky Antonio Cobra</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="16979963" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="4">
+		<thumbnail>images2/Savage/Mary/Wallop/16979963.jpg</thumbnail>
+		<title>Metal Plasma Titan</title>
+		<creator>Savage Mary Wallop</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="17388061" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>images2/Brisk/Josiah/Yoyo/17388061.jpg</thumbnail>
+		<title>Cosmic Echo Metal</title>
+		<creator>Brisk Josiah Yoyo</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17348915" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="3">
+		<thumbnail>images2/Ultimate/Tristan/Yoyo/17348915.jpg</thumbnail>
+		<title>Hex Patrol Storm</title>
+		<creator>Ultimate Tristan Yoyo</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="17409654" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>images2/Magnetic/Lucas/Mars/17409654.jpg</thumbnail>
+		<title>Assault Titan Laser</title>
+		<creator>Magnetic Lucas Mars</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17052967" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="4">
+		<thumbnail>images2/Talented/Owen/Deadbolt/17052967.jpg</thumbnail>
+		<title>Plumber Slam Turbo</title>
+		<creator>Talented Owen Deadbolt</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="17400901" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="9">
+		<thumbnail>images2/Flying/Riley/17400901.jpg</thumbnail>
+		<title>Shadow Clash Atomic</title>
+		<creator>Flying Riley</creator>
+		<timesPlayed>9</timesPlayed>
+	</game>
+	<game id="17017625" rating="0.0" difficulty="0" status="1" timesWon="7" timesPlayed="8">
+		<thumbnail>images2/Strong/Ben/Glop/17017625.jpg</thumbnail>
+		<title>Quake Rush Target</title>
+		<creator>Strong Ben Glop</creator>
+		<timesPlayed>8</timesPlayed>
+	</game>
+	<game id="17047952" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="4">
+		<thumbnail>images2/Bright/Grace/Sparkle/17047952.jpg</thumbnail>
+		<title>Turbo Laser Blaster</title>
+		<creator>Bright Grace Sparkle</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="17539932" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="10">
+		<thumbnail>images2/Nervous/Ben/Burst/17539932.jpg</thumbnail>
+		<title>Terraspin Whirlwind Turbo</title>
+		<creator>Nervous Ben Burst</creator>
+		<timesPlayed>10</timesPlayed>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4906712" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Rowdy/Ace/Acrobat/4906712.jpg</thumbnail>
+		<title>Atomic Assault Crusher</title>
+		<creator>/Rowdy/Ace/Acrobat/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4906671" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Savage/Violet/Ninja/4906671.jpg</thumbnail>
+		<title>Nitro Blaster Space</title>
+		<creator>/Savage/Violet/Ninja/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4906708" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Alien/Gavin/Bingo/4906708.jpg</thumbnail>
+		<title>Plumber Vilgax Vilgax</title>
+		<creator>/Alien/Gavin/Bingo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4906652" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Bouncing/Apollo/Giblets/4906652.jpg</thumbnail>
+		<title>Pursuit Shock Rumble</title>
+		<creator>/Bouncing/Apollo/Giblets/</creator>
+		<timesPlayed>10</timesPlayed>
+	</game>
+	<game id="4906650" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Reckless/Zelda/Tempest/4906650.jpg</thumbnail>
+		<title>Mission Burst Thunder</title>
+		<creator>/Reckless/Zelda/Tempest/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4906629" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Artistic/Emily/Monkey/4906629.jpg</thumbnail>
+		<title>Invasion Vilgax Earth</title>
+		<creator>/Artistic/Emily/Monkey/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4906620" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Fizzy/Zeke/Sizzle/4906620.jpg</thumbnail>
+		<title>Alien Ambush Rumble</title>
+		<creator>/Fizzy/Zeke/Sizzle/</creator>
+		<timesPlayed>6</timesPlayed>
+	</game>
+	<game id="4906589" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Lucky/Blake/Thunder/4906589.jpg</thumbnail>
+		<title>Beast Power Rampage</title>
+		<creator>/Lucky/Blake/Thunder/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4906594" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Weird/Tex/Tornado/4906594.jpg</thumbnail>
+		<title>Ultra Adventure Slam</title>
+		<creator>/Weird/Tex/Tornado/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4906582" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Alien/Jamie/Fury/4906582.jpg</thumbnail>
+		<title>Mission Attack Racer</title>
+		<creator>/Alien/Jamie/Fury/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

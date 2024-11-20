@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4903614" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Infinite/Peter/Mummy/4903614.jpg</thumbnail>
+		<title>Danger Atomic Razor</title>
+		<creator>/Infinite/Peter/Mummy/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4903607" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Fearsome/Zachary/Jungle/4903607.jpg</thumbnail>
+		<title>Nano Solar Spark</title>
+		<creator>/Fearsome/Zachary/Jungle/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4903643" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Spooky/Ben/Wombat/4903643.jpg</thumbnail>
+		<title>Streak Charge Energy</title>
+		<creator>/Spooky/Ben/Wombat/</creator>
+		<timesPlayed>8</timesPlayed>
+	</game>
+	<game id="4903807" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Brave/Eddie/Spark/4903807.jpg</thumbnail>
+		<title>Vilgax Racer Giga</title>
+		<creator>/Brave/Eddie/Spark/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4903816" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Blue/Cory/Dodo/4903816.jpg</thumbnail>
+		<title>Fusion Rocket Smash</title>
+		<creator>/Blue/Cory/Dodo/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4903793" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Frosty/Sam/Penguin/4903793.jpg</thumbnail>
+		<title>Animo Defense Patrol</title>
+		<creator>/Frosty/Sam/Penguin/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4903821" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Majestic/Justin/Phantom/4903821.jpg</thumbnail>
+		<title>Alien Challenge Rumble</title>
+		<creator>/Majestic/Justin/Phantom/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4903802" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Frantic/Craig/Cosmos/4903802.jpg</thumbnail>
+		<title>Light Stone Magno</title>
+		<creator>/Frantic/Craig/Cosmos/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4903760" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Awesome/Jack/Catapult/4903760.jpg</thumbnail>
+		<title>Rumble Steel Attack</title>
+		<creator>/Awesome/Jack/Catapult/</creator>
+		<timesPlayed>22</timesPlayed>
+	</game>
+	<game id="4903763" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Savage/Craig/Tractor/4903763.jpg</thumbnail>
+		<title>Siege Turbo Burst</title>
+		<creator>/Savage/Craig/Tractor/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

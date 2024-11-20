@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4907262" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Heroic/Victor/Scorpion/4907262.jpg</thumbnail>
+		<title>Sonic Shadow Adventure</title>
+		<creator>/Heroic/Victor/Scorpion/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4907276" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Western/Nick/Pirate/4907276.jpg</thumbnail>
+		<title>Smash Space Droid</title>
+		<creator>/Western/Nick/Pirate/</creator>
+		<timesPlayed>14</timesPlayed>
+	</game>
+	<game id="4907224" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Lucky/Gary/Chipmunk/4907224.jpg</thumbnail>
+		<title>Atomic Attack Charge</title>
+		<creator>/Lucky/Gary/Chipmunk/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4907180" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Dreadful/Duke/Volcano/4907180.jpg</thumbnail>
+		<title>Force Target Hyper</title>
+		<creator>/Dreadful/Duke/Volcano/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4907187" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Dreadful/Evan/Cobra/4907187.jpg</thumbnail>
+		<title>Patrol Steel Force</title>
+		<creator>/Dreadful/Evan/Cobra/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4907194" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Absurd/Ace/Aardvark/4907194.jpg</thumbnail>
+		<title>Ultimate Humongousaur Smash</title>
+		<creator>/Absurd/Ace/Aardvark/</creator>
+		<timesPlayed>12</timesPlayed>
+	</game>
+	<game id="4907161" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Scary/Zoe/Dwarf/4907161.jpg</thumbnail>
+		<title>Solar Rocket Warrior</title>
+		<creator>/Scary/Zoe/Dwarf/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4907203" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Crunchy/Roy/Figment/4907203.jpg</thumbnail>
+		<title>Earth Crusher Mission</title>
+		<creator>/Crunchy/Roy/Figment/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4907150" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Normal/Frank/Shark/4907150.jpg</thumbnail>
+		<title>Power Crusher Slam</title>
+		<creator>/Normal/Frank/Shark/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4907128" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Zippy/Kelly/Dwarf/4907128.jpg</thumbnail>
+		<title>Sonic Shadow Rampage</title>
+		<creator>/Zippy/Kelly/Dwarf/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

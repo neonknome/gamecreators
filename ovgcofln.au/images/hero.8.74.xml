@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4917625" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Massive/Jeremiah/Cobra/4917625.jpg</thumbnail>
+		<title>Rush Energy Escape</title>
+		<creator>/Massive/Jeremiah/Cobra/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4917634" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Ghostly/Sam/Shock/4917634.jpg</thumbnail>
+		<title>Giga Nova Universe</title>
+		<creator>/Ghostly/Sam/Shock/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917579" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Hardy/Ben/Monster/4917579.jpg</thumbnail>
+		<title>Ambush Spike Magno</title>
+		<creator>/Hardy/Ben/Monster/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917555" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Heroic/Kenneth/Cobra/4917555.jpg</thumbnail>
+		<title>Quake Solar Hex</title>
+		<creator>/Heroic/Kenneth/Cobra/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917553" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Comical/Jason/Tornado/4917553.jpg</thumbnail>
+		<title>Solar Razor Force</title>
+		<creator>/Comical/Jason/Tornado/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917569" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Odd/Kyle/Sphinx/4917569.jpg</thumbnail>
+		<title>Ambush Hyper Warrior</title>
+		<creator>/Odd/Kyle/Sphinx/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4917551" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Daring/Caleb/Python/4917551.jpg</thumbnail>
+		<title>Adventure Adventure Adventure</title>
+		<creator>/Daring/Caleb/Python/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4917564" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Humble/Ludwig/Thud/4917564.jpg</thumbnail>
+		<title>Alien Rampage Rescue</title>
+		<creator>/Humble/Ludwig/Thud/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4917574" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Heroic/Alan/Steam/4917574.jpg</thumbnail>
+		<title>Quake Atomic Animo</title>
+		<creator>/Heroic/Alan/Steam/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4917531" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Weird/Wolfgang/Stampede/4917531.jpg</thumbnail>
+		<title>Spidermonkey Escape Force</title>
+		<creator>/Weird/Wolfgang/Stampede/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

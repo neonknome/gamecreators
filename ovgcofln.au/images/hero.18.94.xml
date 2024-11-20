@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4916385" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Bashful/Cameron/Fizz/4916385.jpg</thumbnail>
+		<title>Universe Power Star</title>
+		<creator>/Bashful/Cameron/Fizz/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916376" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Awesome/Connor/Vampire/4916376.jpg</thumbnail>
+		<title>Spike Pulse Champion</title>
+		<creator>/Awesome/Connor/Vampire/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4916363" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Scary/Patrick/Robot/4916363.jpg</thumbnail>
+		<title>Shadow Force Hyper</title>
+		<creator>/Scary/Patrick/Robot/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916347" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Brainy/Michael/Bolt/4916347.jpg</thumbnail>
+		<title>Alien Attack Fury</title>
+		<creator>/Brainy/Michael/Bolt/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916351" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Babbling/Brett/Blitz/4916351.jpg</thumbnail>
+		<title>Robot Ultra Battle</title>
+		<creator>/Babbling/Brett/Blitz/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4916332" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Hardy/Trevor/Carousel/4916332.jpg</thumbnail>
+		<title>Dark Doom Quake</title>
+		<creator>/Hardy/Trevor/Carousel/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916325" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Funny/Tim/Hippo/4916325.jpg</thumbnail>
+		<title>Lightning Energy Hero</title>
+		<creator>/Funny/Tim/Hippo/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4916311" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Fearless/Brandon/Mustard/4916311.jpg</thumbnail>
+		<title>Rescue Plumber Dark</title>
+		<creator>/Fearless/Brandon/Mustard/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4916320" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Grimy/Zeb/Parsec/4916320.jpg</thumbnail>
+		<title>Hero Alien Defense</title>
+		<creator>/Grimy/Zeb/Parsec/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916309" rating="0" difficulty="0" status="1">
+		<thumbnail>images/Royal/Nick/Frost/4916309.jpg</thumbnail>
+		<title>Robot Energy Power</title>
+		<creator>/Royal/Nick/Frost/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>
