@@ -1,0 +1,29 @@
+﻿<system>
+	<version type="String">0.1.0</version>
+	<versionSo type="String">0.1.0</versionSo>
+	<brand type="String">ben10</brand>
+	<GCmode type="String">classic</GCmode>
+	<assetsPath type="String">US</assetsPath> <!-- to change builder swfs path (US or EMEA)-->
+	<swfPath type="String"/>
+	<txtPath type="String"/>
+	<xmlPath type="String"/>
+	<gateway type="String"/>
+	<netDebug type="Boolean">false</netDebug>
+	<fps type="Boolean">true</fps>
+	<serverGet type="Boolean">false</serverGet>
+	<cheat type="Boolean">false</cheat>
+	<admin type="Boolean">false</admin>
+	<quality type="String">HIGH</quality>
+	<savefile type="String">save/level1_</savefile>
+	<achievement type="Boolean">true</achievement>
+	
+	<language type="String">en</language>
+    <languages type="Array">ar,bg,de,dk,en,es,fr,hu,it,nl,no,pl,ro,ru,se,us</languages>
+    <langPath type="String">lang/</langPath>
+    <mainPath type="String"></mainPath>
+	<mute type="Boolean">false</mute>
+	<textFlowMode type="Boolean">true</textFlowMode>
+	<fontPath>lang/</fontPath>
+	
+	<isEnhancement type="Boolean">true</isEnhancement>
+</system>

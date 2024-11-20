@@ -1,0 +1,12 @@
+body { background: none repeat scroll 0 0 #000000; margin: 0; }
+.contentwrapper { width: 100%; height: auto; background: #000000 url('/i.cdn.turner.com/toon/games/gamecreator/tools/img/omni/help_bg.jpg') center top no-repeat; padding-top: 83px; }
+.hdr { width: 621px; height: 107px; margin: 0 auto; background: url('/i.cdn.turner.com/toon/games/gamecreator/tools/img/omni/help_hdr.png') center top no-repeat; }
+.buttons { width: 267px; height: 58px; margin: 0 auto; position: relative; z-index: 1; }
+.buttons a img { float: left; }
+.floating { position: relative; width: 119px; height: 19px; top: -13px; left: 460px; z-index: 2; }
+.copy { width: 571px; height: auto; margin: 0 auto; background: #ffffff; padding: 0px 25px 25px 25px; margin-top: -14px; margin-bottom: 50px; }
+.copy h3 { font: bold 14px arial, helvetica,sans-serif; color: #39b54a; }
+.copy .question { font: bold 12px arial, helvetica,sans-serif; color: #39b54a; }
+.copy p { font: 12px arial, helvetica,sans-serif; color: #000000; }
+.copy p a { font: bold 12px arial, helvetica,sans-serif; color: #39b54a; }
+.copy li { font: 12px arial, helvetica,sans-serif; color: #000000; }

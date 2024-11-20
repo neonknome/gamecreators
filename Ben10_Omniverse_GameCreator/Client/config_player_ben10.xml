@@ -1,0 +1,28 @@
+﻿<system>
+	<version type="String">1.1.0</version>
+	<versionSo type="String">1.1.0</versionSo>
+	<brand type="String">ben10</brand>
+	<GCmode type="String">classic</GCmode>
+	<swfPath type="String"/>
+	<txtPath type="String"/>
+	<xmlPath type="String"/>
+	<gateway type="String"/>
+	<netDebug type="Boolean">false</netDebug>
+	<fps type="Boolean">false</fps>
+	<serverGet type="Boolean">false</serverGet>
+	<cheat type="Boolean">false</cheat>
+	<quality type="String">HIGH</quality>
+	<testfile type="String">save/level1_ben10.xml</testfile>
+	<showDefaultContextMenu type="String">true</showDefaultContextMenu>
+	<achievement type="Boolean">true</achievement>
+	
+	<language type="String">en</language>
+    <languages type="Array">ar,bg,de,dk,en,es,fr,hu,it,nl,no,pl,ro,ru,se,us</languages>
+    <langPath type="String">lang/</langPath>
+    <mainPath type="String"></mainPath>
+	<mute type="Boolean">false</mute>
+	<textFlowMode type="Boolean">true</textFlowMode>
+	<fontPath>lang/</fontPath>
+	
+	<isEnhancement type="Boolean">true</isEnhancement>
+</system>
