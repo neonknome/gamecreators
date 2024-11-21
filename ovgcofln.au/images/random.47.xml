@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16940361" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="3">
+		<thumbnail>images2/Capable/Beatrice/Sunset/16940361.jpg</thumbnail>
+		<title>Chill Iron Titan</title>
+		<creator>Capable Beatrice Sunset</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="17264863" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="4">
+		<thumbnail>images2/Green/Alan/Safari/17264863.jpg</thumbnail>
+		<title>Giga Doom Drone</title>
+		<creator>Green Alan Safari</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="17299391" rating="0.0" difficulty="0" status="1" timesWon="3" timesPlayed="7">
+		<thumbnail>images2/Imperial/Calvin/Ruckus/17299391.jpg</thumbnail>
+		<title>Razor Adventure Plumber</title>
+		<creator>Imperial Calvin Ruckus</creator>
+		<timesPlayed>7</timesPlayed>
+	</game>
+	<game id="17323452" rating="0.0" difficulty="0" status="1" timesWon="7" timesPlayed="9">
+		<thumbnail>images2/Queen/Lawrence/Eggplant/17323452.jpg</thumbnail>
+		<title>Ultimate Cannonbolt Cannonbolt</title>
+		<creator>Queen Lawrence Eggplant</creator>
+		<timesPlayed>9</timesPlayed>
+	</game>
+	<game id="16993737" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="3">
+		<thumbnail>images2/Baroness/Anna/Beast/16993737.jpg</thumbnail>
+		<title>Rescue Techno Fusion</title>
+		<creator>Baroness Anna Beast</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="17056202" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="2">
+		<thumbnail>images2/Tireless/Ruby/Phoenix/17056202.jpg</thumbnail>
+		<title>Clash Nitro Drone</title>
+		<creator>Tireless Ruby Phoenix</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="16997651" rating="0.0" difficulty="0" status="1" timesWon="3" timesPlayed="4">
+		<thumbnail>images2/Speedy/Perseus/Thud/16997651.jpg</thumbnail>
+		<title>Warrior Waterhazard Hero</title>
+		<creator>Speedy Perseus Thud</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="16975496" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="8">
+		<thumbnail>images2/Quiet/Alex/Wolf/16975496.jpg</thumbnail>
+		<title>Dark Nano Power</title>
+		<creator>Quiet Alex Wolf</creator>
+		<timesPlayed>8</timesPlayed>
+	</game>
+	<game id="16958340" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="2">
+		<thumbnail>images2/Artful/Kate/Bongo/16958340.jpg</thumbnail>
+		<title>Storm Rocket Jetray</title>
+		<creator>Artful Kate Bongo</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17362833" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="6">
+		<thumbnail>images2/Pleasant/Alan/Gamer/17362833.jpg</thumbnail>
+		<title>Humungousaur Alien Danger</title>
+		<creator>Pleasant Alan Gamer</creator>
+		<timesPlayed>6</timesPlayed>
+	</game>
+</cartoonnetwork>

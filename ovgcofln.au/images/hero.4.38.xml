@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4920648" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Crafty/Greg/Kiwi/4920648.jpg</thumbnail>
+		<title>Power Defense Turbo</title>
+		<creator>/Crafty/Greg/Kiwi/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4920655" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Mighty/Dominic/Jungle/4920655.jpg</thumbnail>
+		<title>Lightning Blaster Metal</title>
+		<creator>/Mighty/Dominic/Jungle/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4920670" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Loud/William/Zombie/4920670.jpg</thumbnail>
+		<title>Fury Razor Challenge</title>
+		<creator>/Loud/William/Zombie/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4920649" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Aquatic/Phil/Blitz/4920649.jpg</thumbnail>
+		<title>Target Laser Hyper</title>
+		<creator>/Aquatic/Phil/Blitz/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="4920717" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Loopy/Sam/Macaroni/4920717.jpg</thumbnail>
+		<title>Spidermonkey Mega Warrior</title>
+		<creator>/Loopy/Sam/Macaroni/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4920733" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Tricky/Maria/Spiral/4920733.jpg</thumbnail>
+		<title>Ultra Sonic Spidermonkey</title>
+		<creator>/Tricky/Maria/Spiral/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4920698" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Alien/Tom/Iguana/4920698.jpg</thumbnail>
+		<title>Spidermonkey Hero Adventure</title>
+		<creator>/Alien/Tom/Iguana/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4920692" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Curious/Taylor/Charger/4920692.jpg</thumbnail>
+		<title>Thunder Adventure Pursuit</title>
+		<creator>/Curious/Taylor/Charger/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4920592" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Husky/Ray/Catapult/4920592.jpg</thumbnail>
+		<title>Fury Force Invasion</title>
+		<creator>/Husky/Ray/Catapult/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4920579" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Towering/Ace/Paradox/4920579.jpg</thumbnail>
+		<title>Breaker Lightning Burst</title>
+		<creator>/Towering/Ace/Paradox/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

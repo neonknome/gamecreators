@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4913185" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Cosmic/Gregory/Mummy/4913185.jpg</thumbnail>
+		<title>Hyper Doom Laser</title>
+		<creator>/Cosmic/Gregory/Mummy/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4913187" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Weird/Antonio/Bingo/4913187.jpg</thumbnail>
+		<title>Rumble Spark Hyper</title>
+		<creator>/Weird/Antonio/Bingo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4913181" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Blue/Erik/Gargoyle/4913181.jpg</thumbnail>
+		<title>Blaster Dark Nova</title>
+		<creator>/Blue/Erik/Gargoyle/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4913154" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Sporty/William/Goulash/4913154.jpg</thumbnail>
+		<title>Vilgax Rumble Chase</title>
+		<creator>/Sporty/William/Goulash/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4913159" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Jumping/Logan/Mosquito/4913159.jpg</thumbnail>
+		<title>Ultra Warrior Jetray</title>
+		<creator>/Jumping/Logan/Mosquito/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4913174" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Red/Caleb/Popcorn/4913174.jpg</thumbnail>
+		<title>Fire Universe Ambush</title>
+		<creator>/Red/Caleb/Popcorn/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4913149" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Giggling/Ethel/Klunk/4913149.jpg</thumbnail>
+		<title>Nano Robot Fire</title>
+		<creator>/Giggling/Ethel/Klunk/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4913133" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Awful/Will/Volcano/4913133.jpg</thumbnail>
+		<title>Thunder Shock Invasion</title>
+		<creator>/Awful/Will/Volcano/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4913126" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Fierce/Jake/Yoyo/4913126.jpg</thumbnail>
+		<title>Jetray Power Adventure</title>
+		<creator>/Fierce/Jake/Yoyo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4913129" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Funny/Noah/Fuzz/4913129.jpg</thumbnail>
+		<title>Jetray Energy Adventure</title>
+		<creator>/Funny/Noah/Fuzz/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

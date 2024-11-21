@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4905089" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Lucky/Jackson/Carousel/4905089.jpg</thumbnail>
+		<title>Beast Force Assault</title>
+		<creator>/Lucky/Jackson/Carousel/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4905103" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Alien/Bailey/Turbo/4905103.jpg</thumbnail>
+		<title>Humongousaur Storm Rumble</title>
+		<creator>/Alien/Bailey/Turbo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4905095" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Rugged/Carter/Fury/4905095.jpg</thumbnail>
+		<title>Rumble Robot Storm</title>
+		<creator>/Rugged/Carter/Fury/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4905080" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Sly/Chris/Iguana/4905080.jpg</thumbnail>
+		<title>Plasma Stone Mission</title>
+		<creator>/Sly/Chris/Iguana/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4905068" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Absurd/Jacob/Ninja/4905068.jpg</thumbnail>
+		<title>Mega Humongousaur Rampage</title>
+		<creator>/Absurd/Jacob/Ninja/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4905041" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Jumping/Jack/Grackle/4905041.jpg</thumbnail>
+		<title>Challenge Target Spike</title>
+		<creator>/Jumping/Jack/Grackle/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4905050" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Frosty/Hannah/Midnight/4905050.jpg</thumbnail>
+		<title>Techno Giga Warp</title>
+		<creator>/Frosty/Hannah/Midnight/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4905008" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Howling/Noah/Aurora/4905008.jpg</thumbnail>
+		<title>Adventure Hyper Adventure</title>
+		<creator>/Howling/Noah/Aurora/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4905005" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Gloomy/Jake/Sprout/4905005.jpg</thumbnail>
+		<title>Humongousaur Universe Razor</title>
+		<creator>/Gloomy/Jake/Sprout/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4905019" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Southern/Darlene/Ricochet/4905019.jpg</thumbnail>
+		<title>Vilgax Humongousaur Force</title>
+		<creator>/Southern/Darlene/Ricochet/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

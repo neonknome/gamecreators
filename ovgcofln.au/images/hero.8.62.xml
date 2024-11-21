@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4919109" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Absurd/Dolly/Figment/4919109.jpg</thumbnail>
+		<title>Fusion Pulse Light</title>
+		<creator>/Absurd/Dolly/Figment/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4919072" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Atomic/Sam/Zeppelin/4919072.jpg</thumbnail>
+		<title>Hyper Atomic Stone</title>
+		<creator>/Atomic/Sam/Zeppelin/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4919086" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Aquatic/Ethan/Planet/4919086.jpg</thumbnail>
+		<title>Ultimate Drone Danger</title>
+		<creator>/Aquatic/Ethan/Planet/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4919055" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Beastly/Oliver/Cactus/4919055.jpg</thumbnail>
+		<title>Galaxy Plasma Fire</title>
+		<creator>/Beastly/Oliver/Cactus/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4919053" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Humorous/Clyde/Spark/4919053.jpg</thumbnail>
+		<title>Battle Target Turbo</title>
+		<creator>/Humorous/Clyde/Spark/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4919041" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Mighty/Hunter/Fireball/4919041.jpg</thumbnail>
+		<title>Earth Iron Ultra</title>
+		<creator>/Mighty/Hunter/Fireball/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4919017" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Chilly/Baxter/Monkey/4919017.jpg</thumbnail>
+		<title>Rustbucket Alien Siege</title>
+		<creator>/Chilly/Baxter/Monkey/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4918983" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Mighty/Edward/Frost/4918983.jpg</thumbnail>
+		<title>Racer Sonic Earth</title>
+		<creator>/Mighty/Edward/Frost/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4918938" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Green/Juan/Moonbeam/4918938.jpg</thumbnail>
+		<title>Fire Siege Assault</title>
+		<creator>/Green/Juan/Moonbeam/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4918940" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Honest/Spike/Kudzu/4918940.jpg</thumbnail>
+		<title>Adventure Smash Fusion</title>
+		<creator>/Honest/Spike/Kudzu/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

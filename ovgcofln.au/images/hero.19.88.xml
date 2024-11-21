@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10055889" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Ghostly/Charles/Cosmos/10055889.jpg</thumbnail>
+		<title>Pulse Plumber Adventure</title>
+		<creator>/Ghostly/Charles/Cosmos/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10043458" rating="5.0" difficulty="0" status="1" timesWon="5" timesPlayed="7">
+		<thumbnail>images2/Southern/Duncan/Virtuoso/10043458.jpg</thumbnail>
+		<title>Ben Alien Mission</title>
+		<creator>/Southern/Duncan/Virtuoso/</creator>
+		<timesPlayed>7</timesPlayed>
+	</game>
+	<game id="10043261" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Absurd/Alex/Goofball/10043261.jpg</thumbnail>
+		<title>Spark Spike Challenge</title>
+		<creator>/Absurd/Alex/Goofball/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10039390" rating="3.0" difficulty="0" status="1" timesWon="0" timesPlayed="6">
+		<thumbnail>images2/Glorious/Gulliver/Gorilla/10039390.jpg</thumbnail>
+		<title>Solar Storm Hero</title>
+		<creator>/Glorious/Gulliver/Gorilla/</creator>
+		<timesPlayed>6</timesPlayed>
+	</game>
+	<game id="10043305" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Hectic/Jack/Clang/10043305.jpg</thumbnail>
+		<title>Droid Droid Droid</title>
+		<creator>/Hectic/Jack/Clang/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10048804" rating="5.0" difficulty="0" status="1" timesWon="1" timesPlayed="1">
+		<thumbnail>images2/Twisty/John/Mustang/10048804.jpg</thumbnail>
+		<title>Robot Attack Mission</title>
+		<creator>/Twisty/John/Mustang/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10039284" rating="0.0" difficulty="0" status="1" timesWon="3" timesPlayed="4">
+		<thumbnail>images2/Gracious/Vladimir/Yodel/10039284.jpg</thumbnail>
+		<title>Animo Lightning Defense</title>
+		<creator>/Gracious/Vladimir/Yodel/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="10055824" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="5">
+		<thumbnail>images2/Gloomy/Ben/Sawtooth/10055824.jpg</thumbnail>
+		<title>Lightning Champion Fusion</title>
+		<creator>/Gloomy/Ben/Sawtooth/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="10055801" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>images2/Lanky/Ted/Phantom/10055801.jpg</thumbnail>
+		<title>Galaxy Shadow Rush</title>
+		<creator>/Lanky/Ted/Phantom/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="10055989" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Valiant/Sterling/Popcorn/10055989.jpg</thumbnail>
+		<title>Spike Force Adventure</title>
+		<creator>/Valiant/Sterling/Popcorn/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

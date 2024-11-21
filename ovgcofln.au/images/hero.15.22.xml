@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10926231" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>images2/Puzzling/Ludwig/Zigzag/10926231.jpg</thumbnail>
+		<title>Sonic Shadow Racer</title>
+		<creator>/Puzzling/Ludwig/Zigzag/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10926490" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Fuzzy/Trevor/Zombie/10926490.jpg</thumbnail>
+		<title>Titan Assault Energy</title>
+		<creator>/Fuzzy/Trevor/Zombie/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10936340" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Cheerful/Chelsea/Bolt/10936340.jpg</thumbnail>
+		<title>Cosmic Robot Burst</title>
+		<creator>/Cheerful/Chelsea/Bolt/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10926266" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="1">
+		<thumbnail>images2/Fragrant/Mary/Mallard/10926266.jpg</thumbnail>
+		<title>Sonic Thunder Power</title>
+		<creator>/Fragrant/Mary/Mallard/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10935719" rating="0.0" difficulty="0" status="1" timesWon="3" timesPlayed="4">
+		<thumbnail>images2/Normal/Pierre/Goblin/10935719.jpg</thumbnail>
+		<title>Chase Gear Swampfire</title>
+		<creator>/Normal/Pierre/Goblin/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="10935773" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>images2/Tricky/Dixie/Creature/10935773.jpg</thumbnail>
+		<title>Swampfire Target Challenge</title>
+		<creator>/Tricky/Dixie/Creature/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10936061" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Howling/Faith/Tusk/10936061.jpg</thumbnail>
+		<title>Power Adventure Solar</title>
+		<creator>/Howling/Faith/Tusk/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10936243" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>images2/Squishy/Bob/Fishbowl/10936243.jpg</thumbnail>
+		<title>Titan Alien Warp</title>
+		<creator>/Squishy/Bob/Fishbowl/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10936010" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Surreal/Ivy/Fury/10936010.jpg</thumbnail>
+		<title>Thunder Giga Swampfire</title>
+		<creator>/Surreal/Ivy/Fury/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10935790" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>images2/Reckless/Arthur/Fossil/10935790.jpg</thumbnail>
+		<title>Escape Ambush Space</title>
+		<creator>/Reckless/Arthur/Fossil/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

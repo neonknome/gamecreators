@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4894990" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Mighty/Morgan/Baloney/4894990.jpg</thumbnail>
+		<title>Challenge Warrior Doom</title>
+		<creator>/Mighty/Morgan/Baloney/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4895003" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Silly/Ray/Shark/4895003.jpg</thumbnail>
+		<title>Beast Star Techno</title>
+		<creator>/Silly/Ray/Shark/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4895231" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Ghostly/Willard/Bison/4895231.jpg</thumbnail>
+		<title>Humongousaur Smash Patrol</title>
+		<creator>/Ghostly/Willard/Bison/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4895226" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Baffling/Diego/Yoyo/4895226.jpg</thumbnail>
+		<title>Shock Rock Droid</title>
+		<creator>/Baffling/Diego/Yoyo/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4895220" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Silly/Ray/Shark/4895220.jpg</thumbnail>
+		<title>Slam Defense Giga</title>
+		<creator>/Silly/Ray/Shark/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4895215" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Heroic/Alan/Steam/4895215.jpg</thumbnail>
+		<title>Mission Force Metal</title>
+		<creator>/Heroic/Alan/Steam/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4895203" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Royal/Bruce/Icicle/4895203.jpg</thumbnail>
+		<title>Cosmic Alien Battle</title>
+		<creator>/Royal/Bruce/Icicle/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4895180" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Humble/Flint/Nacho/4895180.jpg</thumbnail>
+		<title>Fury Burst Mission</title>
+		<creator>/Humble/Flint/Nacho/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4895178" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Curious/Chris/Bison/4895178.jpg</thumbnail>
+		<title>Dark Robot Patrol</title>
+		<creator>/Curious/Chris/Bison/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4895166" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Awesome/Roy/Nacho/4895166.jpg</thumbnail>
+		<title>Chase Attack Hyper</title>
+		<creator>/Awesome/Roy/Nacho/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

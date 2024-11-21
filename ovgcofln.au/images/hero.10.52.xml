@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4901658" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Wild/Chase/Paradox/4901658.jpg</thumbnail>
+		<title>Challenge Fury Champion</title>
+		<creator>/Wild/Chase/Paradox/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4901620" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Dreadful/Caroline/Shock/4901620.jpg</thumbnail>
+		<title>Iron Nitro Clash</title>
+		<creator>/Dreadful/Caroline/Shock/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4901627" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Aquatic/Jennifer/Clang/4901627.jpg</thumbnail>
+		<title>Humongousaur Space Pursuit</title>
+		<creator>/Aquatic/Jennifer/Clang/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4883834" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Madcap/Jocelyn/Squirrel/4883834.jpg</thumbnail>
+		<title>Champion Mission Mission</title>
+		<creator>/Madcap/Jocelyn/Squirrel/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4901600" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Chaotic/Carol/Creature/4901600.jpg</thumbnail>
+		<title>Plumber Ultimate Challenge</title>
+		<creator>/Chaotic/Carol/Creature/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4901598" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Powerful/Jason/Nova/4901598.jpg</thumbnail>
+		<title>Rock Rock Crusher</title>
+		<creator>/Powerful/Jason/Nova/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4901616" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Funny/Alan/Buffalo/4901616.jpg</thumbnail>
+		<title>Escape Steel Spike</title>
+		<creator>/Funny/Alan/Buffalo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4887889" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Towering/Jacob/Quasar/4887889.jpg</thumbnail>
+		<title>Slam Solar Fire</title>
+		<creator>/Towering/Jacob/Quasar/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4901581" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Powerful/Samuel/Magician/4901581.jpg</thumbnail>
+		<title>Humongousaur Smash Hex</title>
+		<creator>/Powerful/Samuel/Magician/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4889832" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Dynamic/Florence/Phantom/4889832.jpg</thumbnail>
+		<title>Stone Hyper Smash</title>
+		<creator>/Dynamic/Florence/Phantom/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

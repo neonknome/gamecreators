@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4923170" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Swift/Nicole/Fizz/4923170.jpg</thumbnail>
+		<title>Nano Charge Rampage</title>
+		<creator>/Swift/Nicole/Fizz/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4923158" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Feisty/Flint/Cactus/4923158.jpg</thumbnail>
+		<title>Spidermonkey Streak Target</title>
+		<creator>/Feisty/Flint/Cactus/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="4923141" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Powerful/Logan/Catapult/4923141.jpg</thumbnail>
+		<title>Siege Rustbucket Adventure</title>
+		<creator>/Powerful/Logan/Catapult/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4923149" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Red/Robin/Gargoyle/4923149.jpg</thumbnail>
+		<title>Plasma Doom Blaster</title>
+		<creator>/Red/Robin/Gargoyle/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4923147" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Fizzy/Andy/Brick/4923147.jpg</thumbnail>
+		<title>Fusion Battle Storm</title>
+		<creator>/Fizzy/Andy/Brick/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4923127" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Nimble/Natalie/Nibbles/4923127.jpg</thumbnail>
+		<title>Dark Hex Spark</title>
+		<creator>/Nimble/Natalie/Nibbles/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4923122" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Humble/Flint/Nacho/4923122.jpg</thumbnail>
+		<title>Rumble Escape Fusion</title>
+		<creator>/Humble/Flint/Nacho/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4923111" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Savage/Matt/Buckaroo/4923111.jpg</thumbnail>
+		<title>Plumber Hero Star</title>
+		<creator>/Savage/Matt/Buckaroo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4923065" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Bizarre/Dakota/Monkey/4923065.jpg</thumbnail>
+		<title>Rampage Blaster Siege</title>
+		<creator>/Bizarre/Dakota/Monkey/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4923094" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Colorful/Tyler/Tornado/4923094.jpg</thumbnail>
+		<title>Atomic Racer Battle</title>
+		<creator>/Colorful/Tyler/Tornado/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

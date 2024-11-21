@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4921088" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Chilly/Will/Moonbeam/4921088.jpg</thumbnail>
+		<title>Universe Hero Clash</title>
+		<creator>/Chilly/Will/Moonbeam/</creator>
+		<timesPlayed>11</timesPlayed>
+	</game>
+	<game id="4921097" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Funky/Faith/Kiwi/4921097.jpg</thumbnail>
+		<title>Patrol Rampage Star</title>
+		<creator>/Funky/Faith/Kiwi/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4921018" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Atomic/Rufus/Warp/4921018.jpg</thumbnail>
+		<title>Droid Fury Crusher</title>
+		<creator>/Atomic/Rufus/Warp/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4921014" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Alien/Benjamin/Elf/4921014.jpg</thumbnail>
+		<title>Force Iron Turbo</title>
+		<creator>/Alien/Benjamin/Elf/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4920952" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Spirited/Michelle/Twist/4920952.jpg</thumbnail>
+		<title>Lightning Shadow Breaker</title>
+		<creator>/Spirited/Michelle/Twist/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4920987" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Happy/Hunter/Gullet/4920987.jpg</thumbnail>
+		<title>Techno Escape Turbo</title>
+		<creator>/Happy/Hunter/Gullet/</creator>
+		<timesPlayed>6</timesPlayed>
+	</game>
+	<game id="4920941" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Shiny/Brianna/Acrobat/4920941.jpg</thumbnail>
+		<title>Universe Battle Plumber</title>
+		<creator>/Shiny/Brianna/Acrobat/</creator>
+		<timesPlayed>13</timesPlayed>
+	</game>
+	<game id="4920920" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Alien/Roy/Citrus/4920920.jpg</thumbnail>
+		<title>Alien Warrior Adventure</title>
+		<creator>/Alien/Roy/Citrus/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4920948" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Dazzling/David/Monolith/4920948.jpg</thumbnail>
+		<title>Laser Ben Warrior</title>
+		<creator>/Dazzling/David/Monolith/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4920924" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Gigantic/Ulysses/Quarry/4920924.jpg</thumbnail>
+		<title>Turbo Alien Adventure</title>
+		<creator>/Gigantic/Ulysses/Quarry/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

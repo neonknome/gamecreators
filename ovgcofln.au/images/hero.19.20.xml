@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10926778" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Shaggy/Brett/Shark/10926778.jpg</thumbnail>
+		<title>Doom Atomic Razor</title>
+		<creator>/Shaggy/Brett/Shark/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10918154" rating="4.0" difficulty="0" status="1" timesWon="1" timesPlayed="4">
+		<thumbnail>images2/Frosty/Ramona/Sphinx/10918154.jpg</thumbnail>
+		<title>Ambush Breaker Fury</title>
+		<creator>/Frosty/Ramona/Sphinx/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="10929935" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>images2/Colossal/Rhett/Burst/10929935.jpg</thumbnail>
+		<title>Iron Dark Defense</title>
+		<creator>/Colossal/Rhett/Burst/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10926558" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>images2/Noble/Holly/Universe/10926558.jpg</thumbnail>
+		<title>Drone Swampfire Universe</title>
+		<creator>/Noble/Holly/Universe/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10953602" rating="2.0" difficulty="0" status="1" timesWon="2" timesPlayed="21">
+		<thumbnail>images2/Fierce/Milton/Burst/10953602.jpg</thumbnail>
+		<title>Universe Solar Warrior</title>
+		<creator>/Fierce/Milton/Burst/</creator>
+		<timesPlayed>21</timesPlayed>
+	</game>
+	<game id="10953605" rating="1.0" difficulty="0" status="1" timesWon="4" timesPlayed="128">
+		<thumbnail>images2/Scurvy/Edward/Monster/10953605.jpg</thumbnail>
+		<title>Rumble Shadow Techno</title>
+		<creator>/Scurvy/Edward/Monster/</creator>
+		<timesPlayed>128</timesPlayed>
+	</game>
+	<game id="10949707" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Heroic/Connor/Fuzz/10949707.jpg</thumbnail>
+		<title>Mission Fusion Ambush</title>
+		<creator>/Heroic/Connor/Fuzz/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10949490" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Enormous/Nathan/Monster/10949490.jpg</thumbnail>
+		<title>Warrior Thunder Iron</title>
+		<creator>/Enormous/Nathan/Monster/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10949368" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Daring/Will/Safari/10949368.jpg</thumbnail>
+		<title>Lightning Shock Thunder</title>
+		<creator>/Daring/Will/Safari/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10936465" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="3">
+		<thumbnail>images2/Itchy/Cameron/Blammo/10936465.jpg</thumbnail>
+		<title>Pursuit Earth Thunder</title>
+		<creator>/Itchy/Cameron/Blammo/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+</cartoonnetwork>

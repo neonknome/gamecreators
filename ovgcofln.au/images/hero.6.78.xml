@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4898174" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Green/Duke/Buffalo/4898174.jpg</thumbnail>
+		<title>Hero Fire Clash</title>
+		<creator>/Green/Duke/Buffalo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4898146" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Grizzly/Hazel/Creature/4898146.jpg</thumbnail>
+		<title>Racer Mega Racer</title>
+		<creator>/Grizzly/Hazel/Creature/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4898166" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Red/Lucas/Shark/4898166.jpg</thumbnail>
+		<title>Drone Warp Defense</title>
+		<creator>/Red/Lucas/Shark/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4898182" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Brainy/Claire/Aurora/4898182.jpg</thumbnail>
+		<title>Spike Slam Doom</title>
+		<creator>/Brainy/Claire/Aurora/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4898145" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Handsome/Angel/Spark/4898145.jpg</thumbnail>
+		<title>Warp Thunder Force</title>
+		<creator>/Handsome/Angel/Spark/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4898081" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Tricky/Noah/Bison/4898081.jpg</thumbnail>
+		<title>Mission Razor Light</title>
+		<creator>/Tricky/Noah/Bison/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4898040" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Enormous/Donald/Shock/4898040.jpg</thumbnail>
+		<title>Target Burst Spark</title>
+		<creator>/Enormous/Donald/Shock/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4898022" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Atomic/Vicky/Mammoth/4898022.jpg</thumbnail>
+		<title>Force Blaster Dark</title>
+		<creator>/Atomic/Vicky/Mammoth/</creator>
+		<timesPlayed>6</timesPlayed>
+	</game>
+	<game id="4897975" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Swift/Roy/Troll/4897975.jpg</thumbnail>
+		<title>Target Blaster Search</title>
+		<creator>/Swift/Roy/Troll/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4897993" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Swift/Penny/Twist/4897993.jpg</thumbnail>
+		<title>Mega Galaxy Escape</title>
+		<creator>/Swift/Penny/Twist/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

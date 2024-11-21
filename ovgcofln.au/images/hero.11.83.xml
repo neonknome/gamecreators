@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10061756" rating="4.0" difficulty="0" status="1" timesWon="3" timesPlayed="26">
+		<thumbnail>images2/Normal/Tony/Robot/10061756.jpg</thumbnail>
+		<title>Power Plumber Rustbucket</title>
+		<creator>/Normal/Tony/Robot/</creator>
+		<timesPlayed>26</timesPlayed>
+	</game>
+	<game id="10061653" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>images2/Fearsome/Julia/Vampire/10061653.jpg</thumbnail>
+		<title>Drone Escape Space</title>
+		<creator>/Fearsome/Julia/Vampire/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10061528" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Shiny/Owen/Gargoyle/10061528.jpg</thumbnail>
+		<title>Thunder Invasion Sonic</title>
+		<creator>/Shiny/Owen/Gargoyle/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10064904" rating="5.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>images2/Cosmic/Goliath/Oddball/10064904.jpg</thumbnail>
+		<title>Adventure Mission Sonic</title>
+		<creator>/Cosmic/Goliath/Oddball/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10064835" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Dashing/Joey/Atom/10064835.jpg</thumbnail>
+		<title>Battle Razor Magno</title>
+		<creator>/Dashing/Joey/Atom/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10064388" rating="5.0" difficulty="0" status="1" timesWon="4" timesPlayed="4">
+		<thumbnail>images2/Sincere/Diego/Tiptoe/10064388.jpg</thumbnail>
+		<title>Adventure Challenge Battle</title>
+		<creator>/Sincere/Diego/Tiptoe/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="10066885" rating="4.0" difficulty="0" status="1" timesWon="2" timesPlayed="8">
+		<thumbnail>images2/Sincere/Andrew/Monkey/10066885.jpg</thumbnail>
+		<title>Defense Blaster Adventure</title>
+		<creator>/Sincere/Andrew/Monkey/</creator>
+		<timesPlayed>8</timesPlayed>
+	</game>
+	<game id="10064428" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Bouncing/Wesley/Parallax/10064428.jpg</thumbnail>
+		<title>Ben Smash Force</title>
+		<creator>/Bouncing/Wesley/Parallax/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10069142" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="8">
+		<thumbnail>images2/Humorous/Elroy/Klunk/10069142.jpg</thumbnail>
+		<title>Alien Adventure Ultra</title>
+		<creator>/Humorous/Elroy/Klunk/</creator>
+		<timesPlayed>8</timesPlayed>
+	</game>
+	<game id="10703285" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>images2/Humorous/Kyle/Penguin/10703285.jpg</thumbnail>
+		<title>Cosmic Swampfire Rescue</title>
+		<creator>/Humorous/Kyle/Penguin/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

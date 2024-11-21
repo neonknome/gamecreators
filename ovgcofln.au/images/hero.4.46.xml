@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4919633" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Spirited/Nathan/Manatee/4919633.jpg</thumbnail>
+		<title>Spike Fire Ben</title>
+		<creator>/Spirited/Nathan/Manatee/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4919623" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Funky/Cameron/Scorpion/4919623.jpg</thumbnail>
+		<title>Rumble Rock Battle</title>
+		<creator>/Funky/Cameron/Scorpion/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4919611" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Dynamic/Jeremy/Moonbeam/4919611.jpg</thumbnail>
+		<title>Power Challenge Rampage</title>
+		<creator>/Dynamic/Jeremy/Moonbeam/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4919621" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Mighty/David/Atom/4919621.jpg</thumbnail>
+		<title>Shadow Space Hex</title>
+		<creator>/Mighty/David/Atom/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4919595" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Sincere/Wilbur/Blade/4919595.jpg</thumbnail>
+		<title>Spidermonkey Storm Adventure</title>
+		<creator>/Sincere/Wilbur/Blade/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4919567" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Frosty/Morgan/Monster/4919567.jpg</thumbnail>
+		<title>Breaker Alien Ambush</title>
+		<creator>/Frosty/Morgan/Monster/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4919564" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Robotic/Nick/Gremlin/4919564.jpg</thumbnail>
+		<title>Fire Adventure Magno</title>
+		<creator>/Robotic/Nick/Gremlin/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4919574" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Blue/Alex/Funk/4919574.jpg</thumbnail>
+		<title>Adventure Target Cosmic</title>
+		<creator>/Blue/Alex/Funk/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4919570" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Dashing/Aaron/Fury/4919570.jpg</thumbnail>
+		<title>Spidermonkey Robot Blaster</title>
+		<creator>/Dashing/Aaron/Fury/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4919534" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Ghostly/Tyler/Bullfrog/4919534.jpg</thumbnail>
+		<title>Patrol Alien Ambush</title>
+		<creator>/Ghostly/Tyler/Bullfrog/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

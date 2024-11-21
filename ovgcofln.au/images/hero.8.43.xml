@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4920051" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Northern/Laura/Chimera/4920051.jpg</thumbnail>
+		<title>Animo Stone Target</title>
+		<creator>/Northern/Laura/Chimera/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4919991" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Spectral/Kathleen/Fondue/4919991.jpg</thumbnail>
+		<title>Iron Techno Charge</title>
+		<creator>/Spectral/Kathleen/Fondue/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4919970" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Hardy/Crystal/Mosquito/4919970.jpg</thumbnail>
+		<title>Racer Streak Burst</title>
+		<creator>/Hardy/Crystal/Mosquito/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4919972" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Puzzling/Bert/Robot/4919972.jpg</thumbnail>
+		<title>Spidermonkey Ultra Mission</title>
+		<creator>/Puzzling/Bert/Robot/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4919977" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Bashful/Michael/Buzzard/4919977.jpg</thumbnail>
+		<title>Vilgax Energy Power</title>
+		<creator>/Bashful/Michael/Buzzard/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4919952" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Spooky/Ben/Wombat/4919952.jpg</thumbnail>
+		<title>Adventure Chase Streak</title>
+		<creator>/Spooky/Ben/Wombat/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4919934" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Atomic/Bobo/Ninja/4919934.jpg</thumbnail>
+		<title>Ambush Rush Assault</title>
+		<creator>/Atomic/Bobo/Ninja/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4919921" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Handsome/Matt/Mammoth/4919921.jpg</thumbnail>
+		<title>Light Battle Rescue</title>
+		<creator>/Handsome/Matt/Mammoth/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4919929" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Witty/Aiden/Sizzle/4919929.jpg</thumbnail>
+		<title>Solar Warp Solar</title>
+		<creator>/Witty/Aiden/Sizzle/</creator>
+		<timesPlayed>7</timesPlayed>
+	</game>
+	<game id="4919946" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Gruesome/Brandon/Zombie/4919946.jpg</thumbnail>
+		<title>Spidermonkey Invasion Streak</title>
+		<creator>/Gruesome/Brandon/Zombie/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

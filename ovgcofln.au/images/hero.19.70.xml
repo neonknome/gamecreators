@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10942677" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Strange/Dawn/Iguana/10942677.jpg</thumbnail>
+		<title>Rock Steel Fusion</title>
+		<creator>/Strange/Dawn/Iguana/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10942680" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Shiny/Nicole/Zing/10942680.jpg</thumbnail>
+		<title>Swampfire Clash Charge</title>
+		<creator>/Shiny/Nicole/Zing/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10942693" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Atomic/Jeffrey/Nova/10942693.jpg</thumbnail>
+		<title>Ultra Burst Warp</title>
+		<creator>/Atomic/Jeffrey/Nova/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10942748" rating="1.0" difficulty="0" status="1" timesWon="15" timesPlayed="18">
+		<thumbnail>images2/Jolly/Bryan/Kook/10942748.jpg</thumbnail>
+		<title>Adventure Rustbucket Iron</title>
+		<creator>/Jolly/Bryan/Kook/</creator>
+		<timesPlayed>18</timesPlayed>
+	</game>
+	<game id="10936585" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Rugged/Dakota/Doodle/10936585.jpg</thumbnail>
+		<title>Robot Rumble Rampage</title>
+		<creator>/Rugged/Dakota/Doodle/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10925610" rating="5.0" difficulty="0" status="1" timesWon="2" timesPlayed="2">
+		<thumbnail>images2/Reckless/Hank/Stampede/10925610.jpg</thumbnail>
+		<title>Alien Warrior Adventure</title>
+		<creator>/Reckless/Hank/Stampede/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="10942751" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Valiant/Scarlett/Charger/10942751.jpg</thumbnail>
+		<title>Cosmic Space Lightning</title>
+		<creator>/Valiant/Scarlett/Charger/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10922703" rating="5.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Aquatic/Xerxes/Beeswax/10922703.jpg</thumbnail>
+		<title>Assault Solar Assault</title>
+		<creator>/Aquatic/Xerxes/Beeswax/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10923878" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>images2/Lively/Orville/Tornado/10923878.jpg</thumbnail>
+		<title>Invasion Adventure Energy</title>
+		<creator>/Lively/Orville/Tornado/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10938971" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Jingling/Madison/Spider/10938971.jpg</thumbnail>
+		<title>Mission Adventure Slam</title>
+		<creator>/Jingling/Madison/Spider/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

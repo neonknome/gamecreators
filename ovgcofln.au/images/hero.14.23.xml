@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4922286" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Fuzzy/Andy/Vampire/4922286.jpg</thumbnail>
+		<title>Iron Hex Shadow</title>
+		<creator>/Fuzzy/Andy/Vampire/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4922299" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Baffling/Antonio/Frost/4922299.jpg</thumbnail>
+		<title>Thunder Light Siege</title>
+		<creator>/Baffling/Antonio/Frost/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4922279" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Brainy/Marcus/Ostrich/4922279.jpg</thumbnail>
+		<title>Rampage Earth Gear</title>
+		<creator>/Brainy/Marcus/Ostrich/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="4922275" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Awful/Andy/Aardvark/4922275.jpg</thumbnail>
+		<title>Cosmic Space Challenge</title>
+		<creator>/Awful/Andy/Aardvark/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4922242" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Rowdy/Napoleon/Dynamite/4922242.jpg</thumbnail>
+		<title>Mission Breaker Giga</title>
+		<creator>/Rowdy/Napoleon/Dynamite/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4922262" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Wild/Bobby/Doodle/4922262.jpg</thumbnail>
+		<title>Plasma Racer Gear</title>
+		<creator>/Wild/Bobby/Doodle/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4922258" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Spooky/Bobo/Hedgehog/4922258.jpg</thumbnail>
+		<title>Energy Burst Turbo</title>
+		<creator>/Spooky/Bobo/Hedgehog/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4922246" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Awesome/Brandon/Dolphin/4922246.jpg</thumbnail>
+		<title>Dark Animo Ambush</title>
+		<creator>/Awesome/Brandon/Dolphin/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4922188" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Dazzling/Dolly/Gorilla/4922188.jpg</thumbnail>
+		<title>Ambush Hyper Champion</title>
+		<creator>/Dazzling/Dolly/Gorilla/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4922195" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Frantic/Ethan/Monkey/4922195.jpg</thumbnail>
+		<title>Shadow Alien Ambush</title>
+		<creator>/Frantic/Ethan/Monkey/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

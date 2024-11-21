@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10953304" rating="3.0" difficulty="0" status="1" timesWon="10" timesPlayed="14">
+		<thumbnail>images2/Scary/James/Lavender/10953304.jpg</thumbnail>
+		<title>Rustbucket Magno Plasma</title>
+		<creator>/Scary/James/Lavender/</creator>
+		<timesPlayed>14</timesPlayed>
+	</game>
+	<game id="10952647" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Sincere/Stephen/Magma/10952647.jpg</thumbnail>
+		<title>Cosmic Star Invasion</title>
+		<creator>/Sincere/Stephen/Magma/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10953013" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="2">
+		<thumbnail>images2/Mumbling/Jared/Maestro/10953013.jpg</thumbnail>
+		<title>Ambush Rocket Plumber</title>
+		<creator>/Mumbling/Jared/Maestro/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="10952855" rating="2.0" difficulty="0" status="1" timesWon="0" timesPlayed="2">
+		<thumbnail>images2/Normal/Mario/Cobra/10952855.jpg</thumbnail>
+		<title>Nova Alien Invasion</title>
+		<creator>/Normal/Mario/Cobra/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="10952533" rating="5.0" difficulty="0" status="1" timesWon="0" timesPlayed="4">
+		<thumbnail>images2/Squishy/Riley/Doodle/10952533.jpg</thumbnail>
+		<title>Racer Invasion Hero</title>
+		<creator>/Squishy/Riley/Doodle/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="10952853" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Zippy/Bubba/Planet/10952853.jpg</thumbnail>
+		<title>Thunder Animo Sonic</title>
+		<creator>/Zippy/Bubba/Planet/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10952919" rating="4.0" difficulty="0" status="1" timesWon="1" timesPlayed="1">
+		<thumbnail>images2/Blue/Jeffrey/Bullfrog/10952919.jpg</thumbnail>
+		<title>Hyper Invasion Rampage</title>
+		<creator>/Blue/Jeffrey/Bullfrog/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10951422" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Green/Grace/Manatee/10951422.jpg</thumbnail>
+		<title>Adventure Alien Droid</title>
+		<creator>/Green/Grace/Manatee/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10949766" rating="4.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>images2/Heroic/Lucius/Cactus/10949766.jpg</thumbnail>
+		<title>Pulse Adventure Racer</title>
+		<creator>/Heroic/Lucius/Cactus/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10947844" rating="0.0" difficulty="0" status="1" timesWon="20" timesPlayed="22">
+		<thumbnail>images2/Funky/William/Buckaroo/10947844.jpg</thumbnail>
+		<title>Defense Light Atomic</title>
+		<creator>/Funky/William/Buckaroo/</creator>
+		<timesPlayed>22</timesPlayed>
+	</game>
+</cartoonnetwork>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4916294" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Weird/Cory/Volcano/4916294.jpg</thumbnail>
+		<title>Hyper Alien Adventure</title>
+		<creator>/Weird/Cory/Volcano/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4916288" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Radiant/Daisy/Walrus/4916288.jpg</thumbnail>
+		<title>Power Patrol Assault</title>
+		<creator>/Radiant/Daisy/Walrus/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916296" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Musical/Clay/Hologram/4916296.jpg</thumbnail>
+		<title>Sonic Adventure Dark</title>
+		<creator>/Musical/Clay/Hologram/</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="4916273" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Tricky/Joel/Fireball/4916273.jpg</thumbnail>
+		<title>Giga Rock Drone</title>
+		<creator>/Tricky/Joel/Fireball/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="4916258" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Zippy/Jonathan/Orca/4916258.jpg</thumbnail>
+		<title>Metal Ambush Droid</title>
+		<creator>/Zippy/Jonathan/Orca/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4916243" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Majestic/Timmy/Zeppelin/4916243.jpg</thumbnail>
+		<title>Rustbucket Patrol Adventure</title>
+		<creator>/Majestic/Timmy/Zeppelin/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4916260" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Robotic/Brad/Viking/4916260.jpg</thumbnail>
+		<title>Cosmic Razor Jetray</title>
+		<creator>/Robotic/Brad/Viking/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4916218" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Shrewd/Will/Bramble/4916218.jpg</thumbnail>
+		<title>Rumble Adventure Champion</title>
+		<creator>/Shrewd/Will/Bramble/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916225" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Fuzzy/Spike/Magician/4916225.jpg</thumbnail>
+		<title>Adventure Assault Doom</title>
+		<creator>/Fuzzy/Spike/Magician/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4916232" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Robotic/Logan/Domino/4916232.jpg</thumbnail>
+		<title>Ultra Alien Doom</title>
+		<creator>/Robotic/Logan/Domino/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

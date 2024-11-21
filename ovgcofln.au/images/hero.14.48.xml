@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4919462" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Blue/Aiden/Hedgehog/4919462.jpg</thumbnail>
+		<title>Spidermonkey Rumble Ambush</title>
+		<creator>/Blue/Aiden/Hedgehog/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="4919404" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Curious/Ivy/Fireball/4919404.jpg</thumbnail>
+		<title>Animo Rustbucket Clash</title>
+		<creator>/Curious/Ivy/Fireball/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4919368" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Robotic/Clifford/Phantom/4919368.jpg</thumbnail>
+		<title>Fusion Power Battle</title>
+		<creator>/Robotic/Clifford/Phantom/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4919396" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Grand/Shannon/Blitz/4919396.jpg</thumbnail>
+		<title>Spidermonkey Assault Adventure</title>
+		<creator>/Grand/Shannon/Blitz/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4919357" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Sporty/Otis/Wizard/4919357.jpg</thumbnail>
+		<title>Pulse Droid Lightning</title>
+		<creator>/Sporty/Otis/Wizard/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4919339" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Chaotic/Dixie/Quake/4919339.jpg</thumbnail>
+		<title>Fusion Ambush Force</title>
+		<creator>/Chaotic/Dixie/Quake/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4919318" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Jingling/Patrick/Turbo/4919318.jpg</thumbnail>
+		<title>Fusion Fury Shock</title>
+		<creator>/Jingling/Patrick/Turbo/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4919326" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Scary/Andy/Dragon/4919326.jpg</thumbnail>
+		<title>Smash Light Champion</title>
+		<creator>/Scary/Andy/Dragon/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4919337" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Adorable/Eric/Icicle/4919337.jpg</thumbnail>
+		<title>Clash Cosmic Mission</title>
+		<creator>/Adorable/Eric/Icicle/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4919268" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Bashful/Zeb/Ninja/4919268.jpg</thumbnail>
+		<title>Drone Beast Fire</title>
+		<creator>/Bashful/Zeb/Ninja/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+</cartoonnetwork>

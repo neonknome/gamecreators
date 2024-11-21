@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="4897888" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Radiant/Bucky/Kiwi/4897888.jpg</thumbnail>
+		<title>Spike Star Ultimate</title>
+		<creator>/Radiant/Bucky/Kiwi/</creator>
+		<timesPlayed>7</timesPlayed>
+	</game>
+	<game id="4897896" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Funny/Dominic/Storm/4897896.jpg</thumbnail>
+		<title>Clash Crusher Plasma</title>
+		<creator>/Funny/Dominic/Storm/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897892" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Awesome/Carlos/Bongo/4897892.jpg</thumbnail>
+		<title>Rumble Hex Alien</title>
+		<creator>/Awesome/Carlos/Bongo/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897786" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Wacky/Rick/Iceberg/4897786.jpg</thumbnail>
+		<title>Humongousaur Warrior Mission</title>
+		<creator>/Wacky/Rick/Iceberg/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897807" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Southern/Fred/Robot/4897807.jpg</thumbnail>
+		<title>Defense Laser Energy</title>
+		<creator>/Southern/Fred/Robot/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="4897796" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Alien/Wesley/Warp/4897796.jpg</thumbnail>
+		<title>Beast Battle Hero</title>
+		<creator>/Alien/Wesley/Warp/</creator>
+		<timesPlayed>4</timesPlayed>
+	</game>
+	<game id="4897818" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Towering/Rob/Moonbeam/4897818.jpg</thumbnail>
+		<title>Metal Breaker Robot</title>
+		<creator>/Towering/Rob/Moonbeam/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4897820" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Sloppy/Eddie/Mastodon/4897820.jpg</thumbnail>
+		<title>Humongousaur Iron Burst</title>
+		<creator>/Sloppy/Eddie/Mastodon/</creator>
+		<timesPlayed>17</timesPlayed>
+	</game>
+	<game id="4897754" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Sporty/Clay/Flipper/4897754.jpg</thumbnail>
+		<title>Burst Nova Robot</title>
+		<creator>/Sporty/Clay/Flipper/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="4897740" rating="0" difficulty="0" status="1">
+		<thumbnail>images2/Awesome/Ursula/Eggplant/4897740.jpg</thumbnail>
+		<title>Mission Champion Rush</title>
+		<creator>/Awesome/Ursula/Eggplant/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+</cartoonnetwork>

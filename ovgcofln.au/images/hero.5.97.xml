@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="10916680" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="3">
+		<thumbnail>images2/Stylish/Hank/Gorilla/10916680.jpg</thumbnail>
+		<title>Beast Alien Nitro</title>
+		<creator>/Stylish/Hank/Gorilla/</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="10039014" rating="1.0" difficulty="0" status="1" timesWon="2" timesPlayed="7">
+		<thumbnail>images2/Loopy/Logan/Chimera/10039014.jpg</thumbnail>
+		<title>Mega Fire Slam</title>
+		<creator>/Loopy/Logan/Chimera/</creator>
+		<timesPlayed>7</timesPlayed>
+	</game>
+	<game id="10042851" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>images2/Chaotic/Rob/Pinwheel/10042851.jpg</thumbnail>
+		<title>Ultimate Earth Star</title>
+		<creator>/Chaotic/Rob/Pinwheel/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="10039132" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="1">
+		<thumbnail>images2/Bizarre/Caleb/Blammo/10039132.jpg</thumbnail>
+		<title>Ultimate Spark Spike</title>
+		<creator>/Bizarre/Caleb/Blammo/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10040009" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="1">
+		<thumbnail>images2/Chilly/Jackson/Hedgehog/10040009.jpg</thumbnail>
+		<title>Titan Animo Mega</title>
+		<creator>/Chilly/Jackson/Hedgehog/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10058625" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Cranky/Rob/Tractor/10058625.jpg</thumbnail>
+		<title>Charge Gear Shock</title>
+		<creator>/Cranky/Rob/Tractor/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10039383" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>images2/Gruesome/Justin/Manatee/10039383.jpg</thumbnail>
+		<title>Titan Magno Fire</title>
+		<creator>/Gruesome/Justin/Manatee/</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="10069016" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Absurd/Zeus/Rumble/10069016.jpg</thumbnail>
+		<title>Adventure Drone Nova</title>
+		<creator>/Absurd/Zeus/Rumble/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+	<game id="10040167" rating="5.0" difficulty="0" status="1" timesWon="0" timesPlayed="1">
+		<thumbnail>images2/Honest/Milo/Moonbeam/10040167.jpg</thumbnail>
+		<title>Sonic Pulse Invasion</title>
+		<creator>/Honest/Milo/Moonbeam/</creator>
+		<timesPlayed>1</timesPlayed>
+	</game>
+	<game id="10058550" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="0">
+		<thumbnail>images2/Beastly/Duke/Stampede/10058550.jpg</thumbnail>
+		<title>Sonic Alien Invasion</title>
+		<creator>/Beastly/Duke/Stampede/</creator>
+		<timesPlayed>0</timesPlayed>
+	</game>
+</cartoonnetwork>

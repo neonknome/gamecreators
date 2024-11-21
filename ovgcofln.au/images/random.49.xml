@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cartoonnetwork>
+	<response status="SUCCESS" />
+	<game id="16956383" rating="0.0" difficulty="0" status="1" timesWon="4" timesPlayed="5">
+		<thumbnail>images2/Capable/Bugsy/Sword/16956383.jpg</thumbnail>
+		<title>Rush Ultimate Titan</title>
+		<creator>Capable Bugsy Sword</creator>
+		<timesPlayed>5</timesPlayed>
+	</game>
+	<game id="16806788" rating="0.0" difficulty="0" status="1" timesWon="2" timesPlayed="2">
+		<thumbnail>images2/Cartoon/Cartoon/Cartoon/16806788.jpg</thumbnail>
+		<title>Hex Warp Target</title>
+		<creator>Cartoon Cartoon Cartoon</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17014033" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="3">
+		<thumbnail>images2/Epic/Peter/Possum/17014033.jpg</thumbnail>
+		<title>Ultra Ultimate Energy</title>
+		<creator>Epic Peter Possum</creator>
+		<timesPlayed>3</timesPlayed>
+	</game>
+	<game id="17401228" rating="0.0" difficulty="0" status="1" timesWon="251" timesPlayed="375">
+		<thumbnail>images2/Dandy/Ernie/Goblin/17401228.jpg</thumbnail>
+		<title>Breaker Atomic Turbo</title>
+		<creator>Dandy Ernie Goblin</creator>
+		<timesPlayed>375</timesPlayed>
+	</game>
+	<game id="17014243" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>images2/Expert/Hailey/Knight/17014243.jpg</thumbnail>
+		<title>Adventure Ambush Robot</title>
+		<creator>Expert Hailey Knight</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="16956406" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="12">
+		<thumbnail>images2/Queen/Tim/Dogfish/16956406.jpg</thumbnail>
+		<title>Champion Solar Attack</title>
+		<creator>Queen Tim Dogfish</creator>
+		<timesPlayed>12</timesPlayed>
+	</game>
+	<game id="16962875" rating="0.0" difficulty="0" status="1" timesWon="1" timesPlayed="2">
+		<thumbnail>images2/Aromatic/Chuck/Planet/16962875.jpg</thumbnail>
+		<title>Attack Dark Racer</title>
+		<creator>Aromatic Chuck Planet</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="17365312" rating="0.0" difficulty="0" status="1" timesWon="5" timesPlayed="6">
+		<thumbnail>images2/Vigilant/Floyd/Fizz/17365312.jpg</thumbnail>
+		<title>Waterhazard Force Attack</title>
+		<creator>Vigilant Floyd Fizz</creator>
+		<timesPlayed>6</timesPlayed>
+	</game>
+	<game id="17379498" rating="0.0" difficulty="0" status="1" timesWon="0" timesPlayed="2">
+		<thumbnail>images2/Abstract/Natalia/Mackerel/17379498.jpg</thumbnail>
+		<title>Quake Spike Storm</title>
+		<creator>Abstract Natalia Mackerel</creator>
+		<timesPlayed>2</timesPlayed>
+	</game>
+	<game id="16981961" rating="0.0" difficulty="0" status="1" timesWon="15" timesPlayed="15">
+		<thumbnail>images2/Athletic/Ernie/Aardvark/16981961.jpg</thumbnail>
+		<title>Alien Dark Mission</title>
+		<creator>Athletic Ernie Aardvark</creator>
+		<timesPlayed>15</timesPlayed>
+	</game>
+</cartoonnetwork>
