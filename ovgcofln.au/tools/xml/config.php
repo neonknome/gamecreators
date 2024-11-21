@@ -1,5 +1,5 @@
 <cartoonnetwork>
-<tunein><![CDATA[ New Episodes! Saturdays at 9a/8c ]]></tunein>
+<tunein><![CDATA[ curated by neonknome ]]></tunein>
 <servicePath>
 <![CDATA[ /do.service ]]>
 </servicePath>
@@ -7,7 +7,7 @@
 <![CDATA[./]]>
 </staticPath>
 <gameDataPath>
-<![CDATA[ http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/]]>
+<![CDATA[ images2/]]>
 </gameDataPath>
 <ssoPath>
 <![CDATA[ login.swf ]]>
