@@ -1,7 +1,7 @@
 <cartoonnetwork>
 <tunein><![CDATA[ curated by neonknome ]]></tunein>
 <servicePath>
-<![CDATA[ /do.service ]]>
+<![CDATA[ images2/ ]]>
 </servicePath>
 <staticPath>
 <![CDATA[./]]>
