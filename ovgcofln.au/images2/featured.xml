@@ -3,7 +3,7 @@
 <games>
 	<game id="20014723" rating="4.0" difficulty="2.0" timesWon="2" timesPlayed="57" status="1">
 		<thumbnail>
-			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Blue/Duke/Banshee/20014723.jpg
+			images2/Blue/Duke/Banshee/20014723.jpg
 		</thumbnail>
 		<title><![CDATA[Feedback Adventure Warp]]></title>
 		<timesPlayed>57</timesPlayed>
@@ -11,7 +11,7 @@
 	</game>
 	<game id="20014719" rating="5.0" difficulty="3.0" timesWon="12" timesPlayed="28" status="1">
 		<thumbnail>
-			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brisk/Gavin/Blade/20014719.jpg
+			images2/Brisk/Gavin/Blade/20014719.jpg
 		</thumbnail>
 		<title><![CDATA[Champion Defense Challenge]]></title>
 		<timesPlayed>28</timesPlayed>
@@ -19,7 +19,7 @@
 	</game>
 	<game id="20014717" rating="5.0" difficulty="1.0" timesWon="4" timesPlayed="43" status="1">
 		<thumbnail>
-			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brisk/Gavin/Blade/20014717.jpg
+			images2/Brisk/Gavin/Blade/20014717.jpg
 		</thumbnail>
 		<title><![CDATA[Blaster Crusher Quake]]></title>
 		<timesPlayed>43</timesPlayed>
@@ -27,7 +27,7 @@
 	</game>
 	<game id="20014698" rating="5.0" difficulty="1.0" timesWon="8" timesPlayed="35" status="1">
 		<thumbnail>
-			http://i.cdn.turner.com/v5cache/CARTOON/gamecreator/images2/Brisk/Gavin/Blade/20014698.jpg
+			images2/Brisk/Gavin/Blade/20014698.jpg
 		</thumbnail>
 		<title><![CDATA[Beast Drone Champion]]></title>
 		<timesPlayed>35</timesPlayed>
